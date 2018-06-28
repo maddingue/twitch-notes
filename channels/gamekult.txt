@@ -1644,10 +1644,15 @@ replay twitch : https://www.twitch.tv/videos/278212538
 2018-06-28
 
 🡆 The Crew 2 (Ze Croutou), disponible à partir de demain sur PlayStation 4, Xbox One et Windows
-🡆 à partir de 70 € sur PSN ( http://cpc.cx/mdx ), XBL ( http://cpc.cx/mdy )
+🡆 à partir de 70 € sur PSN ( http://cpc.cx/mdx ) et XBL ( http://cpc.cx/mdy )
 🡆 à partir de 60 € sur UPlay ( http://cpc.cx/mdz )
 🡆 à partir de 52 € chez certains distributeurs
 🡆 la preview du jeu par Gautoz : https://www.gamekult.com/jeux/the-crew-2-3050875841/test.html
+🡆 la critique par Amaebi arrivera demain après-midi
+🡆 petit article sur les bugs amusants du contenu généré dans le jeu : https://www.pcgamer.com/the-crew-2s-america-features-some-very-weird-stores/
+
+le moteur du jeu est le Babel Engine, le même que sur le premier, fortement mis à jour pour améliorer la distance d'affichage et les effets atmosphériques
+30 fps stables sur PS4 Pro
 
 
 --------------------------------------
@@ -1683,6 +1688,7 @@ le twitter de Winterfaye : https://twitter.com/winterfaye
 le twitter de Pipomantis : https://twitter.com/pipomantis
 le twitter de Yukishiro : https://twitter.com/yukishgk
 le twitter de Merry : https://twitter.com/akaMerry_
+le twitter d'Amaebi : https://twitter.com/amaebi_
 
 48 rue du Faubourg du Temple 75011 PARIS
 
