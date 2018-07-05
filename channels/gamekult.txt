@@ -1703,6 +1703,9 @@ replay twitch : https://www.twitch.tv/videos/278590404
 🡆 présentation du jeu par Chocapic : https://youtu.be/D3X-MFjTRbE et https://youtu.be/pUGr7IM4rU0
 🡆 vieux GK Play sur le jeu : https://www.gamekult.com/jeux/distance-3050594967/video-3050378131.html#player
 🡆 vieux point GK sur le jeu : https://www.gamekult.com/jeux/distance-3050594967/video-3050387913.html#player
+🡆 la musique de Distance, Nitronic Rush et Solace a été composée par Jordan Hemenway (TORCHT), aussi développeur sur ces jeux
+
+https://www.gamekult.com/actualite/revivez-quelques-uns-des-meilleurs-speedruns-des-sgdq-2018-3050807027.html -- l'article de Noddus et Pipo sur la SGDQ 2018
 
 
 --------------------------------------
@@ -1750,6 +1753,7 @@ partenariat GOG : ?pp=aba5d02b57a345ff3db4907de20c963e447ce830
 
 https://www.nintendo.fr/Rechercher/Rechercher-299117.html?f=147394-86
 
+la chaîne YouTube de Games Done Quick : http://cpc.cx/mgf
 la chaîne YouTube NoClip : http://cpc.cx/kBN
 la chaîne YouTube GDC : http://cpc.cx/m4r
 la chaîne YouTube Archipel, où est diffusée l'émission toco toco d'Anne Ferrero : http://cpc.cx/m4x
