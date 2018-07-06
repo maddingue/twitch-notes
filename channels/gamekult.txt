@@ -1712,8 +1712,13 @@ https://www.gamekult.com/actualite/revivez-quelques-uns-des-meilleurs-speedruns-
 2018-07-06
 
 🡆 Fighting EX Layer, disponible sur PlayStation 4
+🡆 développé par Arika, qui avait créé les Street Figter EX
 🡆 35 € sur le PSN en version Light ( http://cpc.cx/mfS ), 55 € en version Standard ( http://cpc.cx/mfT )
+🡆 sortie possible sur Steam si le jeu a du succès
 🡆 le site du jeu : http://www.arika.co.jp/product/fexl_hp/eng/fexl_eng.html
+
+Fighting EX Layer utilise le moteur Unreal Engine 4
+Fighting EX Layer dérive d'un prototype réalisé par Arika sur Nintendo 3DS, présenté à Capcom (qui l'avait refusé)
 
 
 
