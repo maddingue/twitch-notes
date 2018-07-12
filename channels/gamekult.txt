@@ -1732,9 +1732,32 @@ Fighting EX Layer dérive d'un prototype réalisé par Arika sur Nintendo 3DS, p
 --------------------------------------
 2018-07-12
 
-🡆 Dicey Dungeons, en développement pour Windows, disponible pour 7,50 US$ sur itch.io ( http://cpc.cx/miw )
+🡆 Dicey Dungeons, en développement pour Windows, disponible pour 7,50 US$ sur itch.io ( http://cpc.cx/miw ) et Steam ( http://cpc.cx/mjb )
 🡆 développé par Terry Cavanagh (Super Hexagon, VVVVVV), musique par Chipzel🎶, DA par Marlowe Dobbe
 🡆 le site du jeu : http://diceydungeons.com/
+🡆 bande annonce du jeu : https://youtu.be/xShpQ85jCVE
+
+🡆 Carnet Rose de Gautoz sur Dicey Dungeons → https://www.gamekult.com/actualite/terry-cavanagh-choisit-l-acces-anticipe-pour-dicey-dungeons-3050807301.html
+
+🡆 Terry Cavanagh → https://TerryCavanaghGames.com/
+🡆 Chipzel → http://chipzel.co.uk/
+🡆 Marlowe Dobbe → http://marlowe.dobbe.com/
+🡆 Morusque → https://morusque.bandcamp.com/
+
+🡆 VVVVVV, disponible pour Windows, Mac et Linux à 4 € sur Humble Store (clé Steam + sans DRM, http://cpc.cx/mj7 ) et GOG ( http://cpc.cx/mj8 )
+🡆 Super Hexagon, disponible pour Windows, Mac, Linux et navigateurs web à 3 € sur Humble Store (clé Steam + sans DRM, http://cpc.cx/mj9 ) et GOG ( http://cpc.cx/mja )
+
+🡆 PPPPPP, la musique de VVVVVV, par Souleye → http://cpc.cx/mjc
+
+
+🡆 Lovecraft's Untold Stories, en accès anticipé pour Windows à 13 € sur Steam ( http://cpc.cx/mjd )
+🡆 la preview du jeu par Gautoz → https://www.gamekult.com/jeux/lovecraft-s-untold-stories-3050879047/test.html
+
+🡆 Stories Untold, excellent jeu narratif disponible pour Windows, Mac et Linux, 10 € sur Steam ( http://cpc.cx/mjf )
+
+🡆 Cultist Simulator, disponible pour Windows, Mac et Linux à 20 € sur Humble Store (clé Steam + sans DRM : http://cpc.cx/mje )
+🡆 la critique de Cultist Simulator par Izual, sur Canard PC → http://cpc.cx/mjg
+
 
 
 --------------------------------------
@@ -1764,8 +1787,8 @@ la chaîne YouTube de Gamekult : https://www.youtube.com/user/gamekult
 
 GK la mixtape : https://deezer.com/playlist/1797171442
 
-Les Démons du MIDI, le podcast musical de Gautoz et Pipomantis : http://cpc.cx/mfv
-pour les amateurs de musiques de jeux vidéo, écoutez Les Démons du MIDI, le podcast musical de Gautoz et Pipomantis : http://cpc.cx/mfv
+Les Démons du MIDI, le podcast musical de Gautoz et Pipomantis → http://cpc.cx/mfv
+pour les amateurs de musiques de jeux vidéo, écoutez Les Démons du MIDI, le podcast musical de Gautoz et Pipomantis → http://cpc.cx/mfv
 http://cpc.cx/ihD  (RadioKawa)
 
 QuickLoad, le podcast PC : https://soundcloud.com/quickload ou https://www.gamekult.com/emissions/quick-load-11.html
