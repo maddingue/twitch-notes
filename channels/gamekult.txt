@@ -1872,8 +1872,8 @@ la chaîne YouTube de Gamekult : https://www.youtube.com/user/gamekult
 
 GK la mixtape : https://deezer.com/playlist/1797171442
 
-Les Démons du MIDI, le podcast musical de Gautoz et Pipomantis → http://cpc.cx/mfv
-pour les amateurs de musiques de jeux vidéo, écoutez Les Démons du MIDI, le podcast musical de Gautoz et Pipomantis → http://cpc.cx/mfv
+Les Démons du MIDI, le podcast musical de Gautoz et Pipomantis → http://cpc.cx/moP
+pour les amateurs de musiques de jeux vidéo, écoutez Les Démons du MIDI, le podcast musical de Gautoz et Pipomantis → http://cpc.cx/moP
 http://cpc.cx/ihD  (RadioKawa)
 
 QuickLoad, le podcast PC : https://soundcloud.com/quickload ou https://www.gamekult.com/emissions/quick-load-11.html
@@ -1887,7 +1887,13 @@ le twitter de Yukishiro : https://twitter.com/yukishgk
 le twitter de Merry : https://twitter.com/akaMerry_
 le twitter d'Amaebi : https://twitter.com/amaebi_
 
-48 rue du Faubourg du Temple 75011 PARIS
+adresse Gamekult @ Neweb :
+  48 rue du Faubourg du Temple 75011 PARIS
+
+bday:
+- Gautoz: 27 juillet
+- Pipomantis: 2 décembre
+- Fastkill: 25 mars
 
 partenariat GamesPlanet : ?ref=gamekult
 partenariat GOG : ?pp=aba5d02b57a345ff3db4907de20c963e447ce830
