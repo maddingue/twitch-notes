@@ -1945,7 +1945,9 @@ config Sarge : i7 7700K, 32 Go DDR4, GTX 1080 8 Go, SSD 1 To
 
 🡆 https://2mellomakes.bandcamp.com/album/memories-of-tokyo-to-an-ode-to-jet-set-radio -- l'album mentionné
 
-🡆 https://team-monique.itch.io/monique-passion-htesse-de-caisse
+🡆 Hypnospace Outlaw sur Steam → https://store.steampowered.com/app/844590/
+🡆 Monique - Passion Hôtesse de Caisse → https://team-monique.itch.io/monique-passion-htesse-de-caisse
+🡆 Remnants of Naezith → https://store.steampowered.com/app/590590/
 
 
 
