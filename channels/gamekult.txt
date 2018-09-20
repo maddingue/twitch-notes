@@ -2053,6 +2053,20 @@ https://www.gamekult.com/emission/gamekult-premium-evolue-3050809319.html
 🡆 la preview de The Bard's Tale IV par Pipomantis → https://www.gamekult.com/jeux/the-bard-s-tale-iv-3050401307/test.html
 
 
+--------------------------------------
+2018-09-19
+
+🡆 Quake Champions, disponible gratuitement en accès anticipé pour Windows sur Steam ( http://cpc.cx/mGM )
+🡆 accès anticipé depuis le 22 août 2017
+🡆 statistiques sur Steam Charts, environ 2000 en moyenne et 3000 en pic → https://steamcharts.com/app/611500
+🡆 la musique est de Chris Vrenna et Andrew Hulshult
+🡆 le moteur de Quake Champions est un mélange de l'id Tech 6 et du Saber Tech
+🡆 résumé des excuses de sac de Noddus : mal aux dents, mal à la tête, fatigué, Yukish qui déconcentre, PC de stream qui rame, pas joué à Quake depuis longtemps, installation en salle de stream pas confortable, la souris est toute pourrie, la souris est là depuis Chocapic, je n'y joue que durant les pauses déjeuner, hors antenne j'étais meilleur Kappa
+
+🡆 Quake Live, maintenant à 10 € sur Steam → https://store.steampowered.com/app/282440/
+🡆 Reflex Arena, 10 € sur Steam → https://store.steampowered.com/app/328070/
+
+
 
 
 
@@ -2078,6 +2092,8 @@ http://cpc.cx/ihD  (RadioKawa)
 QuickLoad, le podcast PC : https://soundcloud.com/quickload ou https://www.gamekult.com/emissions/quick-load-11.html
 
 🡆 les configs Gamekult → https://www.gamekult.com/materiel/guide-achat/les-pc-officiels-de-gamekult-3050794123/pc.html#matos
+🡆 config Manny : Core i3 7300, 8 Go DDR4, GTX 1050 Ti 4 Go
+🡆 config Guybrush : Core i5 7400, 16 Go DDR4, GTX 1060 6 Go, SSD 250 Go
 🡆 config Gordon 2018 : Core i5 8600K, 16 Go DDR4, GTX 1070 Ti, SSD 512 Go
 🡆 config Sarge : Core i7 7700K, 32 Go DDR4, GTX 1080 8 Go, SSD 1 To
 
