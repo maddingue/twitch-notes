@@ -2127,12 +2127,17 @@ Steam ( http://cpc.cx/mJM )
 --------------------------------------
 2018-10-04
 
-🡆 Achtung! Cthulhu Tactics, disponible sur Windows ( http://cpc.cx/mN6 )
+🡆 Achtung! Cthulhu Tactics, disponible depuis 15:00 sur Windows à 25 € sur Steam ( http://cpc.cx/mN6 )
 🡆 aussi annoncé sur PlayStation 4, Xbox One et Switch
 🡆 développé par Auroch Digital, petit studio basé à Bristol, Royaume-Uni
 🡆 le site du jeu → https://ripstone.com/game/achtungcthulhutactics/
 🡆 financé sur Kickstarter à hauteur de 21 882 £ sur 10K£ demandés → https://bitly.com/AchtungCthulhuKS
 🡆 la preview du jeu par Noddus → https://www.gamekult.com/jeux/achtung-cthulhu-tactics-3050879135/test.html
+
+🡆 The King's Bird, disponible pour Windows au prix de 16,80 € sur Steam ( http://cpc.cx/mNr ), en promotion à 13 € sur Humble Store ( http://cpc.cx/mNs )
+🡆 l'actuel meilleur speedrun any% de The King's Bird est en 50m 57s → https://www.speedrun.com/The_Kings_Bird#Any
+
+🡆 Return of the Obra Dinn → https://store.steampowered.com/app/653530/
 
 
 
@@ -2174,6 +2179,7 @@ le twitter de Pipomantis : https://twitter.com/pipomantis
 le twitter de Yukishiro : https://twitter.com/yukishgk
 le twitter de Merry : https://twitter.com/akaMerry_
 le twitter d'Amaebi : https://twitter.com/amaebi_
+le twitter de Stoon → https://twitter.com/major_stoon
 
 adresse Gamekult @ Neweb :
   48 rue du Faubourg du Temple 75011 PARIS
