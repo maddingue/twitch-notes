@@ -2182,14 +2182,21 @@ QuickLoad, le podcast PC : https://soundcloud.com/quickload ou https://www.gamek
 redac@gamekult.com
 son adresse de courriel → merry@gamekult.com
 
-le twitter de Boulapoire : https://twitter.com/boulapoire
-le twitter de Winterfaye : https://twitter.com/winterfaye
-le twitter de Pipomantis : https://twitter.com/pipomantis
-le twitter de Yukishiro : https://twitter.com/yukishgk
-le twitter de Merry : https://twitter.com/akaMerry_
-le twitter d'Amaebi : https://twitter.com/amaebi_
-le twitter de Stoon → https://twitter.com/major_stoon
-le twitter de Chocapic → https://twitter.com/Akwartz
+le Twitter d'Amaebi → https://twitter.com/amaebi_
+le Twitter de Boulapoire → https://twitter.com/boulapoire
+le Twitter de Chocapic → https://twitter.com/Akwartz
+le Twitter d'ExServ → https://twitter.com/exserv85
+le Twitter de Gautoz → https://twitter.com/Gautoz
+le Twitter de Greg → https://twitter.com/Noddus_
+le Twitter de Kamui → https://twitter.com/kamuirobotics
+le Twitter de Noddus → https://twitter.com/Noddus_
+le Twitter de Merry → https://twitter.com/akaMerry_
+le Twitter de Papa/PlugInBaby → https://twitter.com/GKPlugInBaby
+le Twitter de Pipomantis → https://twitter.com/pipomantis
+le Twitter de Puyo → https://twitter.com/puyogk
+le Twitter de Stoon → https://twitter.com/major_stoon
+le Twitter de Winterfaye → https://twitter.com/winterfaye
+le Twitter de Yukishiro → https://twitter.com/yukishgk
 
 adresse Gamekult @ Neweb :
   48 rue du Faubourg du Temple 75011 PARIS
@@ -2205,8 +2212,8 @@ partenariat GOG : ?pp=aba5d02b57a345ff3db4907de20c963e447ce830
 https://www.nintendo.fr/Rechercher/Rechercher-299117.html?f=147394-86
 
 la chaîne YouTube de Games Done Quick : http://cpc.cx/mgf
-la chaîne YouTube NoClip : http://cpc.cx/kBN
-la chaîne YouTube GDC : http://cpc.cx/m4r
+la chaîne YouTube de NoClip : http://cpc.cx/kBN
+la chaîne YouTube de GDC : http://cpc.cx/m4r
 la chaîne YouTube Archipel, où est diffusée l'émission toco toco d'Anne Ferrero : http://cpc.cx/m4x
 la chaîne YouTube UbiLoud, avec les musiques des jeux Ubisoft : https://www.youtube.com/user/UbiLoud
 
@@ -2215,5 +2222,5 @@ la chaîne YouTube de Kago HyperBrother sur le sound design : http://cpc.cx/m4z
 la chaîne YouTube d'ALS : http://cpc.cx/m4A
 la chaîne YouTube de Pipomantis (à vos risques et périls) : http://cpc.cx/m4y
 
-la chaîne de MisterMV → https://www.twitch.tv/mistermv
+la chaîne Twitch de MisterMV → https://www.twitch.tv/mistermv
 
