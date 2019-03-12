@@ -2947,7 +2947,18 @@ total des cris de Hubert : 12 "EUH!!!", 1 "MAIHEU!!", 1 "oh putain !"
 
 🡆 Factorio, disponible en accès anticipé pour Windows, Mac et Linux à 25 € sur Steam → https://store.steampowered.com/app/427520/
 
-📅 mardi : Baba is You
+
+--------------------------------------
+2019-03-12
+
+🡆 Baba is You, disponible à partir de demain 13 mars 2019 sur Switch, Windows, Mac et Linux
+🡆 développé par Arvi Teikari, finlandais, en utilisant Multimedia Fusion 2 de Clickteam
+🡆 12,50 € sur Steam ( http://cpc.cx/n52 ) et eShop ( http://cpc.cx/o5X )
+🡆 le prototype du jeu → https://hempuli.itch.io/baba-is-you
+🡆 le site du jeu → http://www.hempuli.com/baba/
+🡆 le Twitter du jeu, avec beaucoup de retweets de dessins de fans → https://twitter.com/babaisyou_
+🡆 les noms Baba et Keke viennent d'une expérience de psychologie où les gens doivent associer les noms bouba et kiki à deux formes → https://fr.wikipedia.org/wiki/Effet_bouba/kiki
+
 📅 mercredi : Hypnospace Outlaw
 📅 vendredi : The Division 2
 
