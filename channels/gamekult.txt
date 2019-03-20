@@ -2987,10 +2987,19 @@ total des cris de Hubert : 12 "EUH!!!", 1 "MAIHEU!!", 1 "oh putain !"
 
 🡆 Appelez moi le directeur ! -- pour la dernière fois avant de passer la main, Yukishiro évoque les projets et actualités de Gamekult
 
-📅 mardi : conférence Google en ouverture de la Game Developers Conference
+
+--------------------------------------
+2019-03-19
+
+🡆 commentaire de la conférence Google en ouverture de la Game Developers Conference
+🡆 pour qui ne veut pas de commentaires Gamekult, le stream Google direct → http://g.co/gdcreveal19
+🡆 Stadia, courant 2019 aux USA, UK, Europe → https://stadia.com/
+🡆 Stadia pour les développeurs → https://stadia.dev/
+
 📅 mercredi : Hypnospace Outlaw avec Pipomantis
 📅 jeudi : Layers of Fear avec les Flipettes de Belleville (Hubert et Noddus)
 📅 vendredi : Sekiro: Shadows Die Twice
+
 
 
 --------------------------------------
