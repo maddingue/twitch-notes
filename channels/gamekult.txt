@@ -3184,19 +3184,22 @@ xxx 🡆 60 € sur Steam ( http://cpc.cx/olL ), 54 €sur GamesPlanet (clé UPl
 🡆 épisode de Haut Bas gauche Droite avec Benoit Allemane, narrateur sur Anno 1404 (lien de Flavien) → https://www.hautbasgauchedroite.fr/forums/index.php?topic=2664.0
 🡆 l'article d'Eurogamer mentionné par Gautoz → https://www.eurogamer.net/articles/2019-02-05-industrial-revolution-city-builder-anno-1800-sets-its-open-beta-for-april
 
-📅 vendredi : GK Live sur Katana Zero
-📅 samedi : l'émission
-
 
 --------------------------------------
 2019-04-19
 
 🡆 Katana Zero, disponible depuis hier 18 avril sur Switch, Windows et Mac
 🡆 par Askiisoft, développeurs des jeux gratuits Tower of Heaven, Pause Ahead et OverPowered → http://askiisoft.com/games/
-🡆 15 € sur Steam ( http://cpc.cx/olN ), Humble Store ( http://cpc.cx/olO ) et GOG ( http://cpc.cx/olP )
+🡆 12,50 € sur Steam ( http://cpc.cx/olN ), Humble Store ( http://cpc.cx/olO ) et GOG ( http://cpc.cx/olP )
 🡆 15 € sur eShop ( http://cpc.cx/olQ )
-🡆 musique par LudoWic → https://ludowic.bandcamp.com/
+🡆 musiques du jeu par LudoWic, Bill Kiley, Tunç Çakır and Justin Stander, 9 € sur Bandcamp ( http://cpc.cx/onh )
+🡆 la critique par Le Père Fidalbion (7/10) → https://www.gamekult.com/jeux/katana-zero-3050601383/test.html
 🡆 le site du jeu → https://www.katanazero.com/
+
+🡆 le moteur du jeu est GameMaker
+🡆 musique par LudoWic → https://ludowic.bandcamp.com/
+
+📅 samedi : l'émission
 
 
 
