@@ -3413,11 +3413,14 @@ asobostudio: @NaydenXM1 on a bcp taffé mais toujours dans le strict respect des
 🡆 20 € sur PSN ( http://cpc.cx/oBG ), XBL ( http://cpc.cx/oBH ) et eShop ( http://cpc.cx/oBI )
 🡆 20 € sur Steam ( http://cpc.cx/oBE ), 17 € sur GamesPlanet ( http://cpc.cx/oBF )
 
-
-📅 mercredi : GK Live sur Castlevania Anniversary Collection
-📅 jeudi : GK Live sur Snakeybus
-📅 vendredi : GK Live sur Bubsy Paws on Fire
-📅 samedi : l'émission
+🡆 Castlevania (NES) : 1 mort sur tête volante (Pipo), 1 chute (Puyo)
+🡆 Castlevania 2 (NES) : 1 mort par bolossage (Pipo), 2 chutes dans la flotte
+🡆 Castlevania 3 (NES) : 3 chutes dans les escaliers de l'horloge (Puyo)
+🡆 Castlevania Bloodlines (MD) : 1 mort bolossé par le boss chien (Pipo), 1 chute dans le vide depuis le squelette (Puyo)
+🡆 Kid Dracula (NES) : 1 chute pour tester le contrôle de saut Kappa (Pipo)
+🡆 Super Castlevania IV (SNES) : 1 chute (Gautoz), 1 mort bolossé par une tête de cheval (Gautoz)
+🡆 13 morts
+🡆 excuses de sac de Puyo : je joue au stick analogique
 
 --------------------------------------
 2019-05-23
@@ -3425,6 +3428,11 @@ asobostudio: @NaydenXM1 on a bcp taffé mais toujours dans le strict respect des
 🡆 Snakeybus, disponible depuis le 10 mai sur Windows et Mac
 🡆 développé par Stovetop, petit studio de deux personnes à Seattle, Washington : Frank Han (programmeur) et Jeff Zhu (artiste 3D) → https://www.stovetop.io/
 🡆 8,20 € sur Steam ( http://cpc.cx/oBJ )
+
+
+📅 jeudi : GK Live sur Snakeybus
+📅 vendredi : GK Live sur Bubsy Paws on Fire
+📅 samedi : l'émission
 
 --------------------------------------
 2019-05-24
