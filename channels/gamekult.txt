@@ -3429,10 +3429,6 @@ asobostudio: @NaydenXM1 on a bcp taffé mais toujours dans le strict respect des
 🡆 développé par Stovetop, petit studio de deux personnes à Seattle, Washington : Frank Han (programmeur) et Jeff Zhu (artiste 3D) → https://www.stovetop.io/
 🡆 8,20 € sur Steam ( http://cpc.cx/oBJ )
 
-
-📅 vendredi : GK Live sur Bubsy Paws on Fire
-📅 samedi : l'émission
-
 --------------------------------------
 2019-05-24
 
@@ -3442,6 +3438,7 @@ asobostudio: @NaydenXM1 on a bcp taffé mais toujours dans le strict respect des
 🡆 le site officiel de Bubsy → https://www.bubsy.com/
 
 
+📅 samedi : l'émission
 
 
 
