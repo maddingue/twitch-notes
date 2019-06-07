@@ -3530,8 +3530,16 @@ asobostudio: @NaydenXM1 on a bcp taffé mais toujours dans le strict respect des
 🡆 conférence Stadia : play anywhere, including tablet & Pixel smartphone ; use any controler and screen
 🡆 jeux annoncés sur Stadia : Baldur's Gate III, Ghost Recon Breakpoint, Gylt, Get Packed (2020), The Division 2, Destiny 2
 
+--------------------------------------
+2019-06-06
 
-📅 vendredi : GK live sur Outer Wilds
+🡆 Outer Wilds, disponible depuis le 30 mai sur Xbox One et Windows
+🡆 11 € sur EGS ( http://cpc.cx/oLh), par la suite sur Steam ( http://cpc.cx/oLg )
+🡆 25 € sur XBL ( http://cpc.cx/oLi ), disponible dans le GamePass
+🡆 vidéo enthousiaste d'ExServ sur Outer Wilds → https://youtu.be/L1GERkyJpAU
+(annulé suite à l'utilisation du PC de GK Live pour les streams E3)
+
+
 📅 samedi : Gamekult l'émission
 📅 dimanche : début des conférences pré-E3
 
