@@ -4265,20 +4265,30 @@ https://www.gamekult.com/jeux/windjammers-2-3050877269/test.html -- preview de W
 ℹ️ par Remedy (Max Payne 1 & 2, Alan Wake, Quantum Break) → https://controlgame.com/
 ℹ️ 50 € en grande distribution
 ℹ️ 60 € sur PSN ( http://cpc.cx/pn9 ), XBL ( http://cpc.cx/pna ) et EGS ( http://cpc.cx/p5o )
-ℹ️ preview par Noddus (17 avril 2019) → https://www.gamekult.com/jeux/control-3050878819/test.html
+ℹ️ la critique par Noddus (8∕10) → https://www.gamekult.com/jeux/control-3050878819/test.html
 ℹ️ le moteur de 𝗖𝗼𝗻𝘁𝗿𝗼𝗹 est le Northlight Engine, précédemment utilisé sur 𝗤𝘂𝗮𝗻𝘁𝘂𝗺 𝗕𝗿𝗲𝗮𝗸 → https://www.remedygames.com/northlight/
-
-
-📅 jeudi : GK Live avec Gautoz sur Knights And Bikes
-📅 samedi : 𝗚𝗮𝗺𝗲𝗸𝘂𝗹𝘁 𝗹'𝗲́𝗺𝗶𝘀𝘀𝗶𝗼𝗻
+ℹ️ musiques composées par Martin Stig Andersen et Petri Alanko
+ℹ️ modificateur DX11 pour retirer le flou de mouvement dans Control → https://www.dsogaming.com/news/first-mods-for-control-add-fov-slider-and-remove-motion-blur-in-dx11/
 
 --------------------------------------
 2019-08-29 - Knights And Bikes
 
 ℹ️ 𝗞𝗻𝗶𝗴𝗵𝘁𝘀 𝗔𝗻𝗱 𝗕𝗶𝗸𝗲𝘀, disponible depuis le 27 août sur Windows, Mac et Linux
-ℹ️ par Foam Sword, studio de deux personnes (Rex Crowle et Moo Yu), basé à Londres, Royaume-Uni → http://foamswordgames.com/
+ℹ️ par Foam Sword, studio de deux personnes (Rex Crowle et Moo Yu), basé à Londres, Royaume-Uni → http://FoamSwordGames.com/
 ℹ️ musique par Daniel Pemberton, compositeur de musiques de films → http://cpc.cx/pne
-ℹ️ xx € sur PSN ( http://cpc.cx/pnc ), Steam ( http://cpc.cx/pnb ) et GOG ( http://cpc.cx/pnd )
+ℹ️ 21 € sur PSN ( http://cpc.cx/pnc )
+ℹ️ 16,80 € sur Steam ( http://cpc.cx/pnb ) et GOG ( http://cpc.cx/pnd )
+
+
+📅 vendredi : GK Live sur Heave Ho
+📅 samedi : 𝗚𝗮𝗺𝗲𝗸𝘂𝗹𝘁 𝗹'𝗲́𝗺𝗶𝘀𝘀𝗶𝗼𝗻
+
+--------------------------------------
+2019-08-30 - Heave Ho
+
+ℹ️ 𝗛𝗲𝗮𝘃𝗲 𝗛𝗼, disponible depuis hier sur Switch, Windows et Mac
+ℹ️ par Le Cartel (Mother Russia Bleeds), studio français de 3 personnes → https://LeCartelStudio.fr/
+ℹ️ 10 € sur eShop ( http://cpc.cx/po0 ) et Steam ( http://cpc.cx/pnZ )
 
 
 
@@ -4316,8 +4326,8 @@ https://www.twitch.tv/gamekultlive/videos/all
 ℹ️ avatars de la rédac' Gamekult déssinés par Simon Hutt → https://simonhuttt.artstation.com/
 
 https://www.geekzone.fr/tag/les-demons-du-midi/
-ℹ️ Les Démons du MIDI, le podcast musical de Gautoz et Pipomantis, épisode 70 → http://cpc.cx/pev 👾 💕 🎶
-ℹ️ pour les amateurs de musiques de jeux vidéo, écoutez Les Démons du MIDI, le podcast musical de Gautoz et Pipomantis → http://cpc.cx/pev 👾 💕 🎶
+ℹ️ Les Démons du MIDI, le podcast musical de Gautoz et Pipomantis, épisode 70 → http://cpc.cx/pnP 👾 💕 🎶
+ℹ️ pour les amateurs de musiques de jeux vidéo, écoutez Les Démons du MIDI, le podcast musical de Gautoz et Pipomantis → http://cpc.cx/pnP 👾 💕 🎶
 http://cpc.cx/ihD  (RadioKawa)
 
 ℹ️ QuickLoad, le podcast PC ⌨️ 🖱️ → https://soundcloud.com/quickload ou https://www.gamekult.com/emissions/quick-load-11.html
