@@ -4370,9 +4370,16 @@ GivePLZ 🍓 Pipo 🍓 TakeNRG
 ℹ️ 𝗕𝗹𝗮𝘀𝗽𝗵𝗲𝗺𝗼𝘂𝘀, disponible depuis aujourd'hui sur Switch, PlayStation 4, Xbox One, Windows
 ℹ️ par The Game Kitchen (The Last Door saisons 1 & 2), studio indé basé à Séville, Espagne → http://blasphemousgame.com/
 ℹ️ 🎶 musique par Carlos Viola, déjà compositeur sur The Last Door → http://CarlosViolaStudio.com/
-ℹ️ 🎮 25 € sur eShop ( http://cpc.cx/psT ), PSN et XBL
-ℹ️ 🖥️ 25 € sur Steam ( http://cpc.cx/psQ ), GamesPlanet ( http://cpc.cx/psU ), Humble Store ( http://cpc.cx/psR ), GOG ( http://cpc.cx/psV )
+ℹ️ 🎮 22,50 € sur eShop ( http://cpc.cx/psT ), PSN ( http://cpc.cx/ptD ) et XBL ( http://cpc.cx/ptE )
+ℹ️ 🖥️ 22,50 € sur Steam ( http://cpc.cx/psQ ), GamesPlanet ( http://cpc.cx/psU ), Humble Store ( http://cpc.cx/psR ), GOG ( http://cpc.cx/psV )
+ℹ️ 📜 la critique par Pipomantis (7/10) → https://www.gamekult.com/jeux/blasphemous-3050875889/test.html
 ℹ️ 📜 la preview par Pipomantis (21 août 2019) → https://www.gamekult.com/jeux/blasphemous-3050875889/test.html
+
+ℹ️ vidéo d'ExServ sur Blasphemous → https://www.youtube.com/watch?v=E-h_7R3nZq0
+
+https://www.youtube.com/watch?v=YdHTlUGN1zw -- Walt Disney's MultiPlane Camera (lien de Killyoh)
+
+⚠️ ce GK Live est déconseillé aux mineurs 🔞
 
 https://TheGameKitchen.bandcamp.com/
 
@@ -4515,6 +4522,7 @@ https://www.nintendo.fr/Rechercher/Rechercher-299117.html?f=147394-86
 
 ℹ️ la chaîne YouTube d'ALS → http://cpc.cx/m4A
 ℹ️ la chaîne YouTube d'Archipel, où est diffusée l'émission toco toco d'Anne Ferrero → http://cpc.cx/m4x
+ℹ️ la chaîne YouTube d'ExServ → http://cpc.cx/ptC
 ℹ️ la chaîne YouTube de GDC → http://cpc.cx/m4r
 ℹ️ la chaîne YouTube de GameNextDoor → http://cpc.cx/m4s
 ℹ️ la chaîne YouTube de Games Done Quick → http://cpc.cx/mgf
