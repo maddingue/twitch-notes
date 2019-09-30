@@ -4570,7 +4570,7 @@ résumé :
 - nouveaux format Sous le Radar pour les nombreux jeux indés qui sortent
 - discussion en cours pour Loop, car beaucoup de travail de leur côté
 - page premium qui buggue sur Chrome sur tablette et smartphone → connu, remonté
-- applicatoin smartphone ? Pipo conseille d'utiliser les solutions de sauvegarde native d'Android et iOS
+- application smartphone ? Pipo conseille d'utiliser les solutions de sauvegarde native d'Android et iOS
 - pas de code de partage pour les tests ? parce que ancienne mise en page, à discuter
 - avenir concernant l'E3 ? a priori difficile de passer à côte pour le moment
 - à quand le macaron vers le Discord GK ? Puyo l'ajoute sur sa TODO
@@ -4603,8 +4603,22 @@ résumé :
 ℹ️ ⌨️ 🖱️ 50 € sur EGS ( http://cpc.cx/pE4 ), l'an prochain sur Steam ( http://cpc.cx/pE5 )
 
 
+--------------------------------------
+2019-09-30 - What the Golf?
 
-📅 le programme de la semaine → http://cpc.cx/pB1
+ℹ️ What the golf?, disponible depuis le 19 septembre sur iOS, à partir de demain sur Windows, bientôt sur Switch
+ℹ️ par Triband, studio indé basé à Copenhague, Danemark → http://WhatTheGolf.com/
+ℹ️ inclus dans Apple Arcade ( http://cpc.cx/pFy )
+ℹ️ demain à 12 € sur EGS ( http://cpc.cx/pFw ), l'an prochain sur Steam ( http://cpc.cx/pFx )
+ℹ️ 5 à 7 h de jeu d'après HowLongToBeat
+
+
+
+
+📅 le programme de la semaine → http://cpc.cx/pFB
+📅 mardi : Noita
+📅 mercredi : case rétro avec Le Père Fidalbion
+📅 vendredi : de 16:00 à 17:30, Mega Drive Mini, puis à 17:30, Ghost Recon Breakpoint
 📅 samedi : Gamekult l'émission
 
 
