@@ -4613,23 +4613,35 @@ résumé :
 ℹ️ 5 à 7 h de jeu d'après HowLongToBeat
 
 --------------------------------------
-2019-10-01 - Noita
+2019-10-01 - case rétro
 
-ℹ️ Noita, disponible en accès anticipé (pour un an) depuis le 24 septembre 2019 sur Windows
-ℹ️ par Nolla Games, studio constitué de Petri Purho (Crayon Physics Deluxe), Olli Harjola (The Swapper) et Arvi Teikari (Baba Is You) → https://NoitaGame.com/
-ℹ️ 17 € sur Steam ( http://cpc.cx/pEC ), Humble Store (clé Steam + sans DRM, http://cpc.cx/pED ) et GOG ( http://cpc.cx/pEE ), 18 $ sur itch.io ( http://cpc.cx/pEF )
+ℹ️ case rétro avec Le Père Fidalbion et Luma
+
+ℹ️ Star Wars Episode I: Racer, originellement sorti en 1999 sur Dreamcast, Nintendo 64, Windows, Mac
+ℹ️ 9 € sur GOG ( http://cpc.cx/pGs ), 8,20 € sur Steam ( http://cpc.cx/pGt )
+
+ℹ️ Star Wars: Rebel Assault, originellement sorti en novembre 1993 sur DOS, Mac, 3DO, Mega CD
+ℹ️ Star Wars: Rebel Assault II: The Hidden Empire, originellement sorti en novembre 1995 sur Windows, Mac et PlayStation
+ℹ️ les deux jeux à 9 € sur GOG ( http://cpc.cx/dkU ) et 8,20 € sur Steam ( http://cpc.cx/pGu )
+
+ℹ️ Star Wars: Jedi Knight II: Jedi Outcast, disponible depuis le 24 septembre 2019 sur Switch et PlayStation 4
+ℹ️ 9 € sur eShop ( http://cpc.cx/pGv ), 10 € sur PSN ( http://cpc.cx/pGw )
+
+ℹ️ documentaire de Noclip sur GOG et la préservation des jeux → https://www.youtube.com/watch?v=ffngZOB1U2A
+ℹ️ Star Wars Racer 2018 sur UE4 → https://robjin.artstation.com/projects/QznP58
 
 
 📅 le programme de la semaine → http://cpc.cx/pFB
-📅 mardi : Noita
-📅 mercredi : case rétro avec Le Père Fidalbion
+📅 mercredi : Noita
 📅 vendredi : de 16:00 à 17:30, Mega Drive Mini, puis à 17:30, Ghost Recon Breakpoint
 📅 samedi : Gamekult l'émission
 
 --------------------------------------
-2019-10-02 - case rétro
+2019-10-02 - Noita
 
-ℹ️ case rétro avec Le Père Fidalbion
+ℹ️ Noita, disponible en accès anticipé (pour un an) depuis le 24 septembre 2019 sur Windows
+ℹ️ par Nolla Games, studio constitué de Petri Purho (Crayon Physics Deluxe), Olli Harjola (The Swapper) et Arvi Teikari (Baba Is You) → https://NoitaGame.com/
+ℹ️ 17 € sur Steam ( http://cpc.cx/pEC ), Humble Store (clé Steam + sans DRM, http://cpc.cx/pED ) et GOG ( http://cpc.cx/pEE ), 18 $ sur itch.io ( http://cpc.cx/pEF )
 
 --------------------------------------
 2019-10-04 - Mega Drive Mini, Ghost Recon Breakpoint
