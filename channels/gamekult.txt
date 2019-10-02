@@ -4630,18 +4630,14 @@ résumé :
 ℹ️ documentaire de Noclip sur GOG et la préservation des jeux → https://www.youtube.com/watch?v=ffngZOB1U2A
 ℹ️ Star Wars Racer 2018 sur UE4 → https://robjin.artstation.com/projects/QznP58
 
-
-📅 le programme de la semaine → http://cpc.cx/pFB
-📅 mercredi : Noita
-📅 vendredi : de 16:00 à 17:30, Mega Drive Mini, puis à 17:30, Ghost Recon Breakpoint
-📅 samedi : Gamekult l'émission
-
 --------------------------------------
 2019-10-02 - Noita
 
 ℹ️ Noita, disponible en accès anticipé (pour un an) depuis le 24 septembre 2019 sur Windows
 ℹ️ par Nolla Games, studio constitué de Petri Purho (Crayon Physics Deluxe), Olli Harjola (The Swapper) et Arvi Teikari (Baba Is You) → https://NoitaGame.com/
 ℹ️ 17 € sur Steam ( http://cpc.cx/pEC ), Humble Store (clé Steam + sans DRM, http://cpc.cx/pED ) et GOG ( http://cpc.cx/pEE ), 18 $ sur itch.io ( http://cpc.cx/pEF )
+
+ℹ️ 🎶 Bauhaus, recommandé par gautoz → https://open.spotify.com/track/4DdtH0eRj6y9ixQsBSCSel?si=VipQPF1URfyatM1eU7dqyQ
 
 --------------------------------------
 2019-10-04 - Mega Drive Mini, Ghost Recon Breakpoint
@@ -4654,6 +4650,11 @@ résumé :
 ℹ️ 🎮 à partir de 60 € en grande distribution
 ℹ️ 🎮 à partir de 70 € sur PSN ( http://cpc.cx/pFN ) et XBL ( http://cpc.cx/pFM )
 ℹ️ ⌨️ 🖱️ à partir de 60 € sur UPlay ( http://cpc.cx/pFK ) et EGS ( http://cpc.cx/pFL )
+
+
+📅 le programme de la semaine → http://cpc.cx/pFB
+📅 vendredi : de 16:00 à 17:30, Mega Drive Mini, puis à 17:30, Ghost Recon Breakpoint
+📅 samedi : Gamekult l'émission
 
 
 
@@ -4692,8 +4693,8 @@ https://www.twitch.tv/gamekultlive/videos/all
 ℹ️ avatars de la rédac' Gamekult déssinés par Simon Hutt → https://simonhuttt.artstation.com/
 
 https://www.geekzone.fr/tag/les-demons-du-midi/
-ℹ️ Les Démons du MIDI, le podcast musical de Gautoz et Pipomantis, épisode 71 → http://cpc.cx/pnP 👾 💕 🎶
-ℹ️ pour les amateurs de musiques de jeux vidéo, écoutez Les Démons du MIDI, le podcast musical de Gautoz et Pipomantis → http://cpc.cx/pnP 👾 💕 🎶
+ℹ️ Les Démons du MIDI, le podcast musical de Gautoz et Pipomantis, épisode 72 → http://cpc.cx/pGQ 👾 💕 🎶
+ℹ️ pour les amateurs de musiques de jeux vidéo, écoutez Les Démons du MIDI, le podcast musical de Gautoz et Pipomantis → http://cpc.cx/pGQ 👾 💕 🎶
 http://cpc.cx/ihD  (RadioKawa)
 
 ℹ️ QuickLoad, le podcast PC ⌨️ 🖱️ → https://soundcloud.com/quickload ou https://www.gamekult.com/emissions/quick-load-11.html
@@ -4713,6 +4714,7 @@ son adresse de courriel → merry@gamekult.com
 ℹ️ le Twitter d'Amaebi → https://twitter.com/amaebi_
 ℹ️ le Twitter de Boulapoire → https://twitter.com/boulapoire
 ℹ️ le Twitter de Chocapic → https://twitter.com/Akwartz
+ℹ️ le Twitter de Corentin Lamy → https://twitter.com/corentin_lamy
 ℹ️ le Twitter d'ExServ → https://twitter.com/exserv85
 ℹ️ le Twitter de Gautoz → https://twitter.com/Gautoz
 ℹ️ le Twitter de Greg → https://twitter.com/GoldenGreg
@@ -4757,6 +4759,7 @@ https://www.nintendo.fr/Rechercher/Rechercher-299117.html?f=147394-86
 ℹ️ la chaîne YouTube d'UbiLoud, avec les musiques des jeux Ubisoft → https://www.youtube.com/user/UbiLoud
 
 ℹ️ la chaîne Twitch de Canard PC 🦆 → https://www.twitch.tv/canardpc
+ℹ️ la chaîne Twitch de Corentin Lamy → https://www.twitch.tv/corentinwalou
 ℹ️ la chaîne Twitch de Games Dones Quick ⏩ → https://www.twitch.tv/gamesdonequick
 ℹ️ la chaîne Twitch du Figaro 🇫 → https://www.twitch.tv/figaro_live
 ℹ️ la chaîne Twitch de MisterMV → https://www.twitch.tv/mistermv
