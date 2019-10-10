@@ -4690,19 +4690,23 @@ résumé :
 ℹ️ 🎮 30 € en grande distribution
 ℹ️ 🎮 30 € sur eShop ( http://cpc.cx/pK0 ), PSN ( http://cpc.cx/pJY ) et XBL ( http://cpc.cx/pJZ )
 ℹ️ ⌨️ 🖱️ 30 € sur Steam ( http://cpc.cx/pJU ), Humble ( http://cpc.cx/pJW ) et GOG ( http://cpc.cx/pJX )
-ℹ️ ⌨️ 🖱️ 25 € sur GamesPlanet ( http://cpc.cx/pJV )
+ℹ️ ⌨️ 🖱️ 27 € sur GamesPlanet ( http://cpc.cx/pJV )
 
 
 📅 le programme de la semaine → http://cpc.cx/pJz
-📅 vendredi : Superliminal ou Cube World
+📅 vendredi : Superliminal, Flotsam
 📅 samedi : Gamekult l'émission
 
 --------------------------------------
-2019-10-10 - Superliminal ou Cube World
+2019-10-10 - Superliminal, Flotsam
 
-ℹ️ Superliminal, annoncé sur Windows et Xbox One
+ℹ️ Superliminal, annoncé pour fin 2019 sur Windows et Xbox One
 ℹ️ par Pillow Castle, studio indé de 5 personnes à Seattle, WA, USA → http://www.pillowcastlegames.com/
 ℹ️ en développement depuis septembre 2013, avec comme sources d'inspiration Paprika, Eternal Sunshine of the Spotless Mind et Inception
+
+ℹ️ Flotsam, disponible en accès anticipé (pour environ un an) depuis le 26 septembre 2019 sur Windows
+ℹ️ par Pajama Llama, studio de 4 personnes basé à Ghent, Belgique → http://www.pajamallama.be/flotsam/
+ℹ️ ⌨️ 🖱️ 23 € sur Steam ( http://cpc.cx/pLf ), Humble ( http://cpc.cx/pLg ), GOG ( http://cpc.cx/pLh ) et Kartridge ( http://cpc.cx/pLi )
 
 ℹ️ Cube World, disponible depuis le 30 septembre 2019 sur Windows, après plus de 6 ans de développement
 ℹ️ par Picroma, studio d'un couple, Sarah et Wolfram von Funck, à Saarlouis, Allemagne → https://CubeWorld.com/
