@@ -4675,18 +4675,13 @@ résumé :
 ℹ️ ⌨️ 🖱️ 40 € sur Steam ( http://cpc.cx/pJO ), Humble ( http://cpc.cx/pJP ) et GOG ( http://cpc.cx/pJS )
 ℹ️ ⌨️ 🖱️ 34 € sur GamesPlanet ( http://cpc.cx/pJR )
 
-
-📅 le programme de la semaine → http://cpc.cx/pJz
-📅 mercredi : John Wick Hex
-📅 jeudi : Yooka-Laylee and the Impossible Lair
-📅 samedi : Gamekult l'émission
-
 --------------------------------------
 2019-10-09 - John Wick Hex
 
 ℹ️ John Wick Hex, disponible depuis hier sur Windows et Mac
 ℹ️ par Bithell Games (Thomas Was Alone, Volume, Subsurface Circular)
 ℹ️ 16 € sur EGS ( http://cpc.cx/pJT )
+ℹ️ 📜 critique du jeu par Noddus (6/10) → https://www.gamekult.com/jeux/john-wick-hex-3050880589/test.html
 
 --------------------------------------
 2019-10-10 - Yooka-Laylee and the Impossible Lair
@@ -4697,8 +4692,17 @@ résumé :
 ℹ️ ⌨️ 🖱️ 30 € sur Steam ( http://cpc.cx/pJU ), Humble ( http://cpc.cx/pJW ) et GOG ( http://cpc.cx/pJX )
 ℹ️ ⌨️ 🖱️ 25 € sur GamesPlanet ( http://cpc.cx/pJV )
 
+
+📅 le programme de la semaine → http://cpc.cx/pJz
+📅 vendredi : Superliminal ou Cube World
+📅 samedi : Gamekult l'émission
+
 --------------------------------------
-2019-10-10 - Yooka-Laylee and the Impossible Lair
+2019-10-10 - Superliminal ou Cube World
+
+ℹ️ Superliminal, annoncé sur Windows et Xbox One
+ℹ️ par Pillow Castle, studio indé de 5 personnes à Seattle, WA, USA → http://www.pillowcastlegames.com/
+ℹ️ en développement depuis septembre 2013, avec comme sources d'inspiration Paprika, Eternal Sunshine of the Spotless Mind et Inception
 
 ℹ️ Cube World, disponible depuis le 30 septembre 2019 sur Windows, après plus de 6 ans de développement
 ℹ️ par Picroma, studio d'un couple, Sarah et Wolfram von Funck, à Saarlouis, Allemagne → https://CubeWorld.com/
