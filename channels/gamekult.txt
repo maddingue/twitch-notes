@@ -4692,11 +4692,6 @@ résumé :
 ℹ️ ⌨️ 🖱️ 30 € sur Steam ( http://cpc.cx/pJU ), Humble ( http://cpc.cx/pJW ) et GOG ( http://cpc.cx/pJX )
 ℹ️ ⌨️ 🖱️ 27 € sur GamesPlanet ( http://cpc.cx/pJV )
 
-
-📅 le programme de la semaine → http://cpc.cx/pJz
-📅 vendredi : Superliminal, Flotsam
-📅 samedi : Gamekult l'émission
-
 --------------------------------------
 2019-10-10 - Superliminal, Flotsam
 
@@ -4704,14 +4699,25 @@ résumé :
 ℹ️ par Pillow Castle, studio indé de 5 personnes à Seattle, WA, USA → http://www.pillowcastlegames.com/
 ℹ️ en développement depuis septembre 2013, avec comme sources d'inspiration Paprika, Eternal Sunshine of the Spotless Mind et Inception
 
+ℹ️ Manifold Garden → http://manifold.garden/ | https://store.steampowered.com/app/473950/
+ℹ️ Miegakure → http://miegakure.com/ | https://store.steampowered.com/app/355750/
+ℹ️ Telwe Minutes → http://TwelveMinutesGame.com/ | https://store.steampowered.com/app/1097200/
+
+
 ℹ️ Flotsam, disponible en accès anticipé (pour environ un an) depuis le 26 septembre 2019 sur Windows
 ℹ️ par Pajama Llama, studio de 4 personnes basé à Ghent, Belgique → http://www.pajamallama.be/flotsam/
 ℹ️ ⌨️ 🖱️ 23 € sur Steam ( http://cpc.cx/pLf ), Humble ( http://cpc.cx/pLg ), GOG ( http://cpc.cx/pLh ) et Kartridge ( http://cpc.cx/pLi )
+ℹ️ 📜 preview par Noddus (22 août 2018) → https://www.gamekult.com/jeux/flotsam-3050879265/test.html
+
 
 ℹ️ Cube World, disponible depuis le 30 septembre 2019 sur Windows, après plus de 6 ans de développement
 ℹ️ par Picroma, studio d'un couple, Sarah et Wolfram von Funck, à Saarlouis, Allemagne → https://CubeWorld.com/
 ℹ️ ⌨️ 🖱️ 20 € sur Steam ( http://cpc.cx/pK1 )
 ℹ️ 📜 preview par Jorkens (18 juillet 2013 !) → https://www.gamekult.com/jeux/cube-world-3050161073/test.html
+
+
+📅 le programme de la semaine → http://cpc.cx/pJz
+📅 samedi : Gamekult l'émission
 
 
 
