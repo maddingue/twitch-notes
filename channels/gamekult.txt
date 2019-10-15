@@ -4726,18 +4726,22 @@ résumé :
 ℹ️ 🎶 musique par Michael Berto "Paws Menu" → http://pawsmenu.net/ | https://paws.bandcamp.com/music
 ℹ️ Kickstarter du jeu → https://www.kickstarter.com/projects/1771811584/in-other-waters
 
+
 ℹ️ Nauticrawl, disponible depuis le 16 septembre 2019 sur Windows et Mac
 ℹ️ par Andrea Interguglielmi, développeur à Irvine, California, USA → https://www.NauticrawlGame.com/
 ℹ️ 🎶 musique par David Orr → http://DavidOrr.net/ | https://DavidOrr.bandcamp.com/
 ℹ️ 12,50 € sur Steam ( http://cpc.cx/pMR ), 13,57 € sur  Humble ( http://cpc.cx/pMS ), 15 $ sur itch.io ( http://cpc.cx/pMT )
 
+
 ℹ️ Capsule, 5 € sur Steam ( https://store.steampowered.com/app/303940/ )
 ℹ️ Duskers 20 € sur Steam ( https://store.steampowered.com/app/254320/ )
 ℹ️ Mu Cartographer, 5 € sur Steam ( https://store.steampowered.com/app/513360/ )
 
+
 ℹ️ biped / 只只大冒险, annoncé sur Windows
 ℹ️ par NEXT Studios (Iris.Fall, Unheard, Bladed Fury), studio chinois → https://www.NextStudios.com/
 ℹ️ Steam ( http://cpc.cx/pMV )
+
 
 ℹ️ Röki, par Polygon Treehouse, studio basé à Cambridge, Royaume-Uni → https://www.polygon-treehouse.com/
 
@@ -4746,28 +4750,38 @@ résumé :
 
 ℹ️ découverte de quatre jeux de l'IndieCade Europe → https://indiecade-europe.eu/programme/jeux
 
-ℹ️ Iris and the Giant, annoncé pour Q4 2019 sur Windows
-ℹ️ par Louis Rigaud, développeur français à La Rochelle → http://ludocube.fr/
-ℹ️ page Steam ( http://cpc.cx/pN8 )
-
-ℹ️ Lost Ember, annoncé pour fin 2019 sur Switch, PlayStation 4, Xbox One et Windows
-ℹ️ par Mooneye Studios, studio basé à Hambourg, Allemagne → https://www.LostEmber.com/
-ℹ️ page Steam ( http://cpc.cx/pNa )
-
 ℹ️ Nanotale - Typing Chronicles, disponible en accès anticipé à partir du 23 octobre 2019, sortie prévue entre février et mai 2020 
 ℹ️ par Fishing Cactus (Epistory), studio d'une vingtaine de personnes à Mons, Belgique
 ℹ️ support annoncé pour les claviers QWERTY, QWERTZ, AZERTY, BÉPO, Dvorak, Workman et Colemak
 ℹ️ page Steam ( http://cpc.cx/pN7 )
 
+ℹ️ In Dev With avec Sophie Schiaratura → https://www.gamekult.com/emission/sophie-schiaratura-fishing-cactus-communicante-multi-fonctions-3050810659.html
+
+
+ℹ️ Iris and the Giant, annoncé pour Q4 2019 sur Windows
+ℹ️ par Louis Rigaud, développeur français à La Rochelle → http://ludocube.fr/
+ℹ️ page Steam ( http://cpc.cx/pN8 )
+
+
+ℹ️ [Kind Words] (lo fi chill beats to write to), dispoinble depuis le 13 septembre 2019 sur Windows, Mac et Linux
+ℹ️ par Popcannibal (Elegy for a Dead World, Girls like Robots), studio indé à Boston, USA → https://www.popcannibal.com/
+ℹ️ 4 € sur Steam ( http://cpc.cx/pNC )
+
+ℹ️ https://www.gamekult.com/jeux/disco-elysium-3050878097/test.html -- Disco Elysium, 9/10 par Gautoz
+
+
+ℹ️ Bird of Passage / 旅烏, annoncé pour 2020 sur Windows, Mac et mobile
+ℹ️ par Space Backyard, studio de 5 personnes réparties entre Gènes (Italie), Londres (Royaume-Uni) et Weimar (Allemagne)
+ℹ️ démo gratuite sur itch.io → https://spacebackyard.itch.io/bird-of-passage
+
+
+ℹ️ Lost Ember, annoncé pour fin 2019 sur Switch, PlayStation 4, Xbox One et Windows
+ℹ️ par Mooneye Studios, studio basé à Hambourg, Allemagne → https://www.LostEmber.com/
+ℹ️ page Steam ( http://cpc.cx/pNa )
+
+
 ℹ️ Ynglet, annoncé pour 2020 sur Windows et Mac → https://www.ynglet.com/
 ℹ️ par Nifflas & Triple Topping Games (Spitkiss, Elk), deux studios indés à Copenhague, Danemark, à partir d'un prototype fait à la game jam No More Sweden
-
-
-📅 le programme de la semaine → http://cpc.cx/pMM
-📅 mercredi : Overwatch et The Witcher III, mais sur Switch
-📅 jeudi : We Were Here Together
-📅 vendredi : Valfaris
-📅 samedi : Gamekult l'émission
 
 --------------------------------------
 2019-10-16 - Overwatch et The Witcher III, mais sur Switch
@@ -4777,6 +4791,12 @@ résumé :
 
 ℹ️ The Witcher III Wild Hunt - complete edition, disponible depuis hier sur Switch
 ℹ️ 🎮 60 € sur eShop ( http://cpc.cx/pNe ) et en grande distribution
+
+
+📅 le programme de la semaine → http://cpc.cx/pMM
+📅 jeudi : We Were Here Together
+📅 vendredi : Valfaris
+📅 samedi : Gamekult l'émission
 
 --------------------------------------
 2019-10-17 - We Were Here Together
