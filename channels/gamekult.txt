@@ -5046,15 +5046,13 @@ ID @ XBOX : Skatebird, Touhou Luna Nights, Streets of Rage IV, Carrion, Haven, T
 2019-11-18 - Google Stadia
 
 ℹ️ Google Stadia, disponible à partir d'aujourd'hui
-ℹ️ 129 € sur la boutique en ligne → https://store.google.com/fr/product/stadia
+ℹ️ 129 € sur la boutique Google → https://store.google.com/fr/product/stadia
 ℹ️ le portail développeurs → https://stadia.dev/
-
-📅 le programme de la semaine → http://cpc.cx/q1O
-📅 mardi 17:30, Google Stadia
-📅 mercredi 17:30, Terminator Resistance
-📅 jeudi 17:30, Shenmue III
-📅 vendredi 17:30, surprise en fonction de la marée
-📅 samedi : Gamekult l'émission
+📜 test de Google Stadia par Noddus → https://www.gamekult.com/actualite/on-a-fait-le-test-de-google-stadia-la-tete-pas-vraiment-dans-les-nuages-3050823153.html
+📜 test de Google Stadia par Digital Foundry → https://www.eurogamer.net/articles/digitalfoundry-2019-stadia-tech-review
+📜 test de Google Stadia par Les Numériques → https://www.lesnumeriques.com/console-de-jeu/google-stadia-p52649/google-stadia-nos-premieres-impressions-sur-le-jeu-video-en-streaming-selon-google-n143387.html
+point technique : les jeux Stadia sont (en général) des versions PC Windows portés sur la distribution Linux spécifique de Google, avec un rendu via un pilote Vulkan (cas d'Assassin Creed Odyssey présenté par les ingénieurs d'Ubisoft)
+présentation d'Ubisoft sur le portage d'Assasin's Creed Odyssey sur Stadia → https://www.youtube.com/watch?v=5I1KvNvUkO4
 
 --------------------------------------
 2019-11-19 - Terminator Resistance
@@ -5063,6 +5061,12 @@ ID @ XBOX : Skatebird, Touhou Luna Nights, Streets of Rage IV, Carrion, Haven, T
 🎮 50 € chez Auchan, 60 € chez Cultura, Fnac
 🎮 60 € sur PSN ( http://cpc.cx/q2c ) et XBL ( http://cpc.cx/q2d )
 ⌨️ 🖱️ 40 € sur Steam ( http://cpc.cx/q2e )
+
+
+📅 le programme de la semaine → http://cpc.cx/q1O
+📅 jeudi 17:30, Shenmue III
+📅 vendredi 17:30, surprise en fonction de la marée
+📅 samedi : Gamekult l'émission
 
 --------------------------------------
 2019-11-20 - Shenmue III
