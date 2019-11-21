@@ -5043,7 +5043,7 @@ ID @ XBOX : Skatebird, Touhou Luna Nights, Streets of Rage IV, Carrion, Haven, T
 
 
 --------------------------------------
-2019-11-18 - Google Stadia
+2019-11-19 - Google Stadia
 
 ℹ️ Google Stadia, disponible à partir d'aujourd'hui
 ℹ️ 129 € sur la boutique Google → https://store.google.com/fr/product/stadia
@@ -5055,26 +5055,32 @@ point technique : les jeux Stadia sont (en général) des versions PC Windows po
 présentation d'Ubisoft sur le portage d'Assasin's Creed Odyssey sur Stadia → https://www.youtube.com/watch?v=5I1KvNvUkO4
 
 --------------------------------------
-2019-11-19 - Terminator Resistance
+2019-11-20 - Terminator Resistance
 
 ℹ️ Terminator Resistance, disponible depuis le 15 novembre 2019 sur PlayStation 4, Xbox One et Windows
 🎮 50 € chez Auchan, 60 € chez Cultura, Fnac
 🎮 60 € sur PSN ( http://cpc.cx/q2c ) et XBL ( http://cpc.cx/q2d )
 ⌨️ 🖱️ 40 € sur Steam ( http://cpc.cx/q2e )
 
-
-📅 le programme de la semaine → http://cpc.cx/q1O
-📅 jeudi 17:30, Shenmue III
-📅 vendredi 17:30, surprise en fonction de la marée
-📅 samedi : Gamekult l'émission
-
 --------------------------------------
-2019-11-20 - Shenmue III
+2019-11-21 - Shenmue III
 
 ℹ️ Shenmue III, disponible depuis le 19 novembre 2019 sur PlayStation 4 et Windows
 🎮 50 € chez Auchan, Cultura, 55 € chez Fnac
 🎮 60 € sur PSN ( http://cpc.cx/pE6 )
-⌨️ 🖱️ 40 € sur EGS ( http://cpc.cx/pE4 ), l'an prochain sur Steam ( http://cpc.cx/pE5 )
+⌨️ 🖱️ 50 € sur EGS ( http://cpc.cx/pE4 ), l'an prochain sur Steam ( http://cpc.cx/pE5 )
+📜 critique du jeu par Kamui (5/10) → https://www.gamekult.com/jeux/shenmue-iii-3050485005/test.html
+
+🏝️ Retro Island sur Shenmue I & II → http://cpc.cx/pXV
+
+ℹ️ le Twitter de Kamui → https://twitter.com/kamuirobotics
+ℹ️ la chaîne Twitch de Kamui → https://www.twitch.tv/kamuirobotics
+ℹ️ la chaîne YouTube de Kamui → http://cpc.cx/q3B
+
+
+📅 le programme de la semaine → http://cpc.cx/q1O
+📅 vendredi 17:30, surprise en fonction de la marée
+📅 samedi : Gamekult l'émission
 
 
 
@@ -5174,6 +5180,7 @@ https://www.nintendo.fr/Rechercher/Rechercher-299117.html?f=147394-86
 ℹ️ la chaîne YouTube de Games Done Quick → http://cpc.cx/mgf
 ℹ️ la chaîne YouTube d'Hubert (à vos risques et périls 😱) → http://cpc.cx/ofJ
 ℹ️ la chaîne YouTube de Kago HyperBrother sur le sound design → http://cpc.cx/m4z
+ℹ️ la chaîne YouTube de Kamui → http://cpc.cx/q3B
 ℹ️ la chaîne YouTube de NoClip → http://cpc.cx/kBN
 ℹ️ la chaîne YouTube de Pipomantis (à vos risques et périls 😱) → http://cpc.cx/m4y
 ℹ️ la chaîne YouTube d'UbiLoud, avec les musiques des jeux Ubisoft → https://www.youtube.com/user/UbiLoud
@@ -5182,5 +5189,6 @@ https://www.nintendo.fr/Rechercher/Rechercher-299117.html?f=147394-86
 ℹ️ la chaîne Twitch de Corentin Lamy → https://www.twitch.tv/corentinwalou
 ℹ️ la chaîne Twitch de Games Dones Quick ⏩ → https://www.twitch.tv/gamesdonequick
 ℹ️ la chaîne Twitch du Figaro 🇫 → https://www.twitch.tv/figaro_live
+ℹ️ la chaîne Twitch de Kamui → https://www.twitch.tv/kamuirobotics
 ℹ️ la chaîne Twitch de MisterMV → https://www.twitch.tv/mistermv
 
