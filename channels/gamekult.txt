@@ -5077,9 +5077,20 @@ présentation d'Ubisoft sur le portage d'Assasin's Creed Odyssey sur Stadia → 
 ℹ️ la chaîne Twitch de Kamui → https://www.twitch.tv/kamuirobotics
 ℹ️ la chaîne YouTube de Kamui → http://cpc.cx/q3B
 
+--------------------------------------
+2019-11-22 - Tintin au Tibet et Les Schtroumpfs sur Super Nintendo
+
+ℹ️ Tintin au Tibet, sorti en octobre 1995 sur Super Nintendo, avril 1996 sur MegaDrive, Game Gear, Game Boy et PC (DOS/Windows)
+ℹ️ versions 16-bits développées par Infogrammes, versions 8-bits développées par Bit Managers
+⏩ speedrun en 22m 53s ( https://youtu.be/Po4socsZ8xM ), en 20m 43s à l'AGDQ 2018 ( https://youtu.be/0k2MlcqSPMc?t=1161 )
+
+ℹ️ Les Schtroumpfs, sorti en 1993 sur Game Boy, en 1994 sur Master System, Game Gear, NES, Mega Drive et Super Nintendo, en 1997 sur PC (DOS/Windows)
+ℹ️ versions 16-bits développées par Infogrammes, versions 8-bits développées par Bit Managers
+⏩ speedrun en 16m 19s (any% easy, https://youtu.be/LWXfHg1jWZ0 )
+
+📜 critique de Blacksad par Le Père (3/10) → https://www.gamekult.com/jeux/blacksad-3050875993/test.html
 
 📅 le programme de la semaine → http://cpc.cx/q1O
-📅 vendredi 17:30, surprise en fonction de la marée
 📅 samedi : Gamekult l'émission
 
 
