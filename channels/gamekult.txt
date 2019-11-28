@@ -5143,12 +5143,6 @@ excuses de sac :
 ⌨️ 🖱️ 27 € sur Steam ( http://cpc.cx/q63 ), GamesPlanet ( http://cpc.cx/q65 ) et GOG ( http://cpc.cx/q66 )
 ⌨️ 🖱️ 30 € sur Humble ( http://cpc.cx/q64 )
 
-
-📅 le programme de la semaine → http://cpc.cx/q5D
-📅 jeudi 17:30 : Football Manager 2020 ⚽
-📅 vendredi 17:30 : Wrath, Hellbound et Maximum Action
-📅 samedi : Gamekult l'émission
-
 --------------------------------------
 2019-11-28 - Football Manager 2020
 
@@ -5156,6 +5150,13 @@ excuses de sac :
 ⌨️ 🖱️ 55 € sur Steam ( http://cpc.cx/q69 ) et Humble ( http://cpc.cx/q6a )
 ⌨️ 🖱️ 47 € sur GamesPlanet ( http://cpc.cx/q6b )
 📜 critique du jeu par Le Père Fidalbion (7/10) → https://www.gamekult.com/jeux/football-manager-2020-3050880729/test.html
+
+développeur du jeu présent sur le canal : silentmussel
+
+
+📅 le programme de la semaine → http://cpc.cx/q5D
+📅 vendredi 17:30 : Wrath, Hellbound et Maximum Action
+📅 samedi : Gamekult l'émission
 
 --------------------------------------
 2019-11-28 - Wrath, Hellbound, Maximum Action
@@ -5255,6 +5256,7 @@ adresse Gamekult @ Neweb :
 
 bday:
 - Gautoz: 27 juillet
+- Le Père Fidalbion : 28 novembre
 - Pipomantis: 2 décembre
 - Fastkill: 25 mars
 
