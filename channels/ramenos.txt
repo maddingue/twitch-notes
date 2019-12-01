@@ -5169,7 +5169,7 @@ jeu en cours : Gremlins, Inc -- jeux déjà passés : The Outer Worlds, Crying S
 
 
 -----------------------
-2019-11-17
+2019-11-24
 
 ℹ️ This War of Mine, disponible depuis le 14 novembre 2014 sur Windows, Mac et Linux, puis porté sur PlayStation 4, Xbox One, Switch, Android et iOS
 ℹ️ par 11 bit studios (les Anomaly Warzone, FrostPunk), studio basé à Varsovie, Pologne → http://www.ThisWarOfMine.com/
@@ -5225,6 +5225,52 @@ jeu en cours : UnderRail -- jeux déjà passés : This War of Mine, STAR WARS Je
 📜 84 MetaCritic, 82 OpenCritic
 > 
 📢 pour information Ramenos, cela fait environ 45 minutes que vous jouez à SpeedRunners
+
+
+-----------------------
+2019-12-01
+
+ℹ️ Crying Suns, disponible depuis le 19 septembre 2019 sur Windows et Mac -- aussi annoncé sur iPad
+ℹ️ par Alt Shift, studio de 12 personnes basé à Montpellier, France → http://www.cryingsuns.com/
+⌨️ 🖱️ en promotion à 16,80 € sur Humble Store ( http://cpc.cx/pwZ ), Steam ( http://cpc.cx/mfK ) et GOG ( http://cpc.cx/px0 )
+⌨️ 🖱️ démo gratuite disponible sur Steam ( http://cpc.cx/mfK )
+📜 7 GK, 8 CPC, 76 MetaCritic, 76 OpenCritic
+💬 serveur Discord de Crying Suns → https://discordapp.com/invite/jgdQ7XY
+ℹ️ tous les designs des vaisseaux → https://www.reddit.com/r/CryingSuns/comments/d43e0p/battleship_wallapers/
+> 13:58 - 14:45  |  47 minutes  |  45m warn @ 14:43
+📢 pour information Ramenos, cela fait environ 45 minutes que tu joues à Crying Suns
+
+ℹ️ This War of Mine, disponible depuis le 14 novembre 2014 sur Windows, Mac et Linux, puis porté sur PlayStation 4, Xbox One, Switch, Android et iOS
+ℹ️ par 11 bit studios (les Anomaly Warzone, FrostPunk), studio basé à Varsovie, Pologne → http://www.ThisWarOfMine.com/
+🎮 20 € € sur PSN ( http://cpc.cx/pUz ), XBL ( http://cpc.cx/pUA ), 40 € sur eShop ( http://cpc.cx/pUB )
+📱 12 €sur Android ( http://cpc.cx/lOA ), 17 € sur iOS ( http://cpc.cx/pUC )
+⌨️ 🖱️ 19 € sur Humble Store ( http://cpc.cx/q1n ), en promotion à moins de 5 € sur Steam ( http://cpc.cx/lOw ) et GOG ( http://cpc.cx/lOz )
+📜 7 GK, 17 JVC, 78~90 MetaCritic, 85 OpenCritic
+> 14:50 - 15:57  |  1 heure 7 minutes  |  45m warn @ 15:35
+📢 pour information Ramenos, cela fait environ 45 minutes que tu joues à This War of Mine
+
+ℹ️ Slay the Spire, disponible depuis le 23 janvier 2019 pour Windows, Mac et Linux, depuis le 6 juin sur Switch
+ℹ️ par Megacrit, studio indé basé à Seattle, USA → https://www.megacrit.com/
+🎮 25 € sur eShop ( http://cpc.cx/nKc )
+⌨️ 🖱️ en promotion à 15,75 € sur Steam ( http://cpc.cx/m0o ), GOG ( http://cpc.cx/pPr )
+🎶 musique de Slay the Spire par Clark Aboud → http://clarkaboud.com/project/slay-the-spire/
+> 16:02 - 17:14  |  1 heure 12 minutes  |  45m warn @ 16:47
+📢 pour information Ramenos, cela fait environ 45 minutes que tu joues à Slay the Spire
+
+ℹ️ Star Wars Jedi: Fallen Order, disponible depuis le 15 novembre 2019 sur PlayStation 4, Xbox One et Windows
+🎮 70 € sur PSN ( http://cpc.cx/q0H ) et XBL ( http://cpc.cx/q07 )
+⌨️ 🖱️ 60 € sur Steam ( http://cpc.cx/q04 ) et Origin ( http://cpc.cx/q05 )
+📜 7 GK, 7 CPC, 16 JVC, 82 MetaCritic, 83 OpenCritic
+> 17:21 - 18:16  |  55 minutes  |  45m warn @ 18:06
+📢 pour information Ramenos, cela fait environ 45 minutes que tu joues à Star Wars Jedi: Fallen Order
+
+ℹ️ Gremlins, Inc, disponible pour Windows, Mac et Linux en promotion à 7,50 € sur Steam ( http://cpc.cx/nrq )
+> 18:21 - 19:26  |  1 heure 5 minutes
+📢 pour information, Ramenos, cela fait environ 45 minutes que Sserfu et toi vous faites des coups bas dans Gremlins, Inc
+
+jeu en cours : Gremlins, Inc, -- jeux déjà passés : Crying Suns, This War of Mine, Slay the Spire, Star Wars Jedi: Fallen Order
+> 13:51 - 19:28  |  5 heures 37 minutes de stream
+
 
 
 
