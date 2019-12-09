@@ -5180,7 +5180,7 @@ excuse de sac de Noddus sur Wrath : c'est la faute du viseur trop gris
 
 
 --------------------------------------
-2019-12-03 - Halo: The Master Chief Collection
+2019-12-03 - Halo: The Master Chief Collection (annulé)
 
 ℹ️ Halo: The Master Chief Collection, disponible depuis aujourd'hui sur Xbox One et Windows
 🎮 40 € sur XBL console ( http://cpc.cx/q9P )
@@ -5243,7 +5243,7 @@ excuses de sac de Gautoz :
 
 
 --------------------------------------
-2019-12-06 - Shovel Knight: King of Cards
+2019-12-09 - Shovel Knight: King of Cards
 
 ℹ️ Shovel Knight: King of Cards, disponible à partir du 10 décembre 2019 sur Switch, Wii U, 3DS, PlayStation 3, PlayStation 4, Vita, Xbox One, Windows, Mac, Linux et Amazon FireTV
 ℹ️ par Yacht Club Games (Shovel Knight), studio indé basé à Los Angeles, Californie, USA → https://YachtClubGames.com/
@@ -5257,6 +5257,15 @@ excuses de sac de Gautoz :
 
 📺 vidéo de Boundary Break sur Shovel Knight, révélant qu'il s'agit d'un jeu en 3D → https://www.youtube.com/watch?v=vjENktnbCaE
 📺 la vidéo sur les persos non pris dans Street Fighter dont parlait Pipo : Fighterpedia HD: Rejected Street Fighters → https://www.youtube.com/watch?v=I5VHJ0fVN6c
+
+--------------------------------------
+2019-12-10 - Halo Reach
+
+ℹ️ Halo: The Master Chief Collection, disponible depuis aujourd'hui sur Xbox One et Windows
+🎮 40 € sur XBL console ( http://cpc.cx/q9P )
+⌨️ 🖱️ 40 € sur Steam ( http://cpc.cx/q9N ) et XBL PC ( http://cpc.cx/q9O )
+ℹ️ inclus dans le Xbox Game Pass
+📜 critique de la MCC 2014 par Stoon (6/10) → https://www.gamekult.com/jeux/halo-the-master-chief-collection-3050272755/test.html
 
 🏆 Gamekult Awards 2019 🏅 → http://cpc.cx/qcJ
 
@@ -5273,6 +5282,22 @@ excuses de sac de Gautoz :
 📅 jeudi 17:30, GTFO
 📅 vendredi 17:30, suivant arrivage
 📅 samedi : Gamekult l'émission
+
+--------------------------------------
+2019-12-11 - MechWarrior 5: Mercenaries
+
+ℹ️ Mechwarrior 5: Mercenaries, disponible depuis hier sur Windows
+ℹ️ par Piranha Games → https://mw5mercs.com/
+⌨️ 🖱️ 41 € sur EGS ( http://cpc.cx/qcV ), dans un an sur Steam
+⚙️ support des mods prévu dès que l'Epic Game Store le permet → https://trello.com/b/GXLc34hk/epic-games-store-roadmap
+
+--------------------------------------
+2019-12-12 - GTFO
+
+ℹ️ GTFO, disponible en accès anticipé (pour un an) depuis le 9 décembre 2019 sur Windows
+ℹ️ par 10 Chambers Collective, studio indé basé à Stockholm, Suède, fondé par d'anciens développeurs de Payday → http://www.GTFOtheGame.com/
+⌨️ 🖱️ 31,50 € sur Steam ( http://cpc.cx/qcW )
+⚙️ moteur utilisé : Unity
 
 
 📢 @GamekultLive il est 17:00 🕔
