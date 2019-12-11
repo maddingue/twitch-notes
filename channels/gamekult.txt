@@ -5277,19 +5277,16 @@ Point trivia : Halo était originellement un jeu prévu pour Macintosh, annoncé
 ⌨️ 🖱️ 41 € sur EGS ( http://cpc.cx/qcV ), dans un an sur Steam
 ⚙️ support des mods prévu dès que l'Epic Game Store le permet → https://trello.com/b/GXLc34hk/epic-games-store-roadmap
 
-🏆 Gamekult Awards 2019 🏅 → http://cpc.cx/qcJ
+📜 critique de BattleTech par Gautoz du 27 avril 2018 (6/10) → https://www.gamekult.com/jeux/battletech-2015-3050550255/test.html
 
-♻️ écologie et jeu vidéo #1 - de la fabrication au streaming → http://cpc.cx/q8m
-♻️ écologie et jeu vidéo #2 - jouer, c'est déjà polluer → http://cpc.cx/q8p
-♻️ écologie et jeu vidéo #3 - le téléchargement → http://cpc.cx/qbw
-♻️ écologie et jeu vidéo #4 - le cloud gaming vendredi
-🎂 25 ans de la PlayStation, 1ère partie → http://cpc.cx/qbx
-🎂 25 ans de la PlayStation, 2e partie dans la semaine
+excuses de sac de Gautoz :
+- je m'autoréalise
 
-📅 le programme de la semaine → http://cpc.cx/qcB
-📅 jeudi 17:30, GTFO
-📅 vendredi 17:30, suivant arrivage
-📅 samedi : Gamekult l'émission
+jeux de mots :
+- von_yaourt: vous êtes tous mecchas sûrs
+- conflitdecanard: Mech allons nous faire ?
+- Messahira: Hey Mech, elle est où ma caisse ?
+- Messahira: Mon Mecha' moi, il me parle d'aventureuuuuux !
 
 --------------------------------------
 2019-12-12 - GTFO
@@ -5298,6 +5295,20 @@ Point trivia : Halo était originellement un jeu prévu pour Macintosh, annoncé
 ℹ️ par 10 Chambers Collective, studio indé basé à Stockholm, Suède, fondé par d'anciens développeurs de Payday → http://www.GTFOtheGame.com/
 ⌨️ 🖱️ 31,50 € sur Steam ( http://cpc.cx/qcW )
 ⚙️ moteur utilisé : Unity
+
+🏆 Gamekult Awards 2019 🏅 → http://cpc.cx/qcJ
+
+♻️ écologie et jeu vidéo #1 - de la fabrication au streaming → http://cpc.cx/q8m
+♻️ écologie et jeu vidéo #2 - jouer, c'est déjà polluer → http://cpc.cx/q8p
+♻️ écologie et jeu vidéo #3 - le téléchargement → http://cpc.cx/qbw
+♻️ écologie et jeu vidéo #4 - le cloud gaming vendredi
+🎂 25 ans de la PlayStation, 1ère partie → http://cpc.cx/qbx
+🎂 25 ans de la PlayStation, 2e partie dans la semaine
+🕹️ Coin-op Legacy sur la Q25 → http://cpc.cx/qdU
+
+📅 le programme de la semaine → http://cpc.cx/qcB
+📅 vendredi 17:30, suivant arrivage
+📅 samedi : Gamekult l'émission
 
 
 📢 @GamekultLive il est 17:00 🕔
