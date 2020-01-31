@@ -5641,6 +5641,16 @@ excuses de sac :
 ℹ️ par Action Squad Studios, studio indé de 10 personnes basé à Helsinki, Finlande → https://IronDanger.com/ | https://ActionSquadStudios.com/
 ⌨️ 🖱️ page Steam ( http://cpc.cx/qAG )
 
+--------------------------------------
+2020-01-31 - The Pedestrian 🚸 (annulé)
+
+ℹ️ The Pedestrian 🚸, disponible depuis le 29 janvier 2020 sur Windows, Mac et Linux
+ℹ️ par Skookum Arts, petit studio indé de 4 personnes dont deux frères, basé aux USA → https://www.skookum-arts.com/
+ℹ️ 7 ans de développement ; premier prototype (Bathroom Break) en 2013 ; première apparition en 2015 ; Kickstarter réussi en 2017 (30 318 $, http://cpc.cx/qAL )
+⚙️ le moteur utilisé est Unity
+⌨️ 🖱️ 15 € sur Steam ( http://cpc.cx/qAI ), Humble Store ( http://cpc.cx/qAJ ) et GOG ( http://cpc.cx/qAK )
+⌨️ 🖱️ (vieille) démo téléchargeable sur itch.io → http://cpc.cx/ppc
+
 🎶 Gammes Kultes Allegro - Pokémon → http://cpc.cx/qA8
 ⛩️ Gaijin Dash #45 → http://cpc.cx/qA9
 📚 Lecture seule #4 - L'Histoire de Rare, Rogue Leaders, Death Stranding → http://cpc.cx/qAa
