@@ -5656,8 +5656,23 @@ excuses de sac :
 📚 Lecture seule #4 - L'Histoire de Rare, Rogue Leaders, Death Stranding → http://cpc.cx/qAa
 🎧 Les Démons du MIDI #76 → http://cpc.cx/qAb 👾 💕 🎶
 
+
+--------------------------------------
+2020-02-03 - The Pedestrian 🚸
+
+ℹ️ The Pedestrian 🚸, disponible depuis le 29 janvier 2020 sur Windows, Mac et Linux
+ℹ️ par Skookum Arts, petit studio indé de 4 personnes dont deux frères, basé aux USA → https://www.skookum-arts.com/
+ℹ️ 7 ans de développement ; premier prototype (Bathroom Break) en 2013 ; première apparition en 2015 ; Kickstarter réussi en 2017 (30 318 $, http://cpc.cx/qAL )
+🎶 musique par Logan Hayes (un des développeurs)
+⚙️ le moteur utilisé est Unity
+⌨️ 🖱️ 15 € sur Steam ( http://cpc.cx/qAI ) et GOG ( http://cpc.cx/qAK )
+⌨️ 🖱️ (vieille) démo téléchargeable sur itch.io → http://cpc.cx/ppc
+
 📅 le programme de la semaine → http://cpc.cx/qys
-📅 vendredi 17:30, suivant arrivages
+📅 mardi 17:30, Les Sims
+📅 mercredi 17:30, jeu mystère et boule de gommes
+📅 jeudi 17:30, jeu français de France entre action et rogue-like dans de vieux temples
+📅 vendredi 17:30, Kunai et ScourgeBringer
 📅 samedi, Gamekult l'émission
 
 
