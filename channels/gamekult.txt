@@ -5668,10 +5668,20 @@ excuses de sac :
 ⌨️ 🖱️ 15 € sur Steam ( http://cpc.cx/qAI ) et GOG ( http://cpc.cx/qAK )
 ⌨️ 🖱️ (vieille) démo téléchargeable sur itch.io → http://cpc.cx/ppc
 
+--------------------------------------
+2020-02-04 - The Sims
+
+The Sims, originellement sorti en février 2000 sur Windows, en juillet 2000 sur Mac
+ensuite porté en 2003 sur Linux, PlayStation 2, GameCube et Xbox
+développé par Maxis (Will Wright), publié par Electronic Arts
+🎶 musiques par Jerry Martin, Marc Russo, Kirk R. Casey, and Dix Bruce
+⌨️ 🖱️ Les Sims sur Abandonware France → http://cpc.cx/qCI
+📜 18/20 JVC par Kornifex pour la version PC → http://cpc.cx/qCk 
+📜 16/20 JVC par Jihem pour les versions consoles → http://cpc.cx/qCm
+📜 7/10 GK par Poischich pour les versions consoles → http://cpc.cx/qCl
+
 📅 le programme de la semaine → http://cpc.cx/qys
-📅 mardi 17:30, Les Sims
-📅 mercredi 17:30, jeu mystère et boule de gommes
-📅 jeudi 17:30, jeu français de France entre action et rogue-like dans de vieux temples
+📅 jeudi 17:30, Curse of the Dead Gods
 📅 vendredi 17:30, Kunai et ScourgeBringer
 📅 samedi, Gamekult l'émission
 
@@ -5715,7 +5725,7 @@ https://www.geekzone.fr/tag/les-demons-du-midi/
 🎧 pour les amateurs de musiques de jeux vidéo, écoutez Les Démons du MIDI, le podcast musical de Gautoz et Pipomantis → http://cpc.cx/qAb 👾 💕 🎶
 http://cpc.cx/ihD  (RadioKawa)
 
-ℹ️ QuickLoad, le podcast PC ⌨️ 🖱️ → https://soundcloud.com/quickload ou https://www.gamekult.com/emissions/quick-load-11.html
+⌨️ 🖱️ QuickLoad, le podcast PC → https://soundcloud.com/quickload ou https://www.gamekult.com/emissions/quick-load-11.html
 
 ℹ️ les configs Gamekult → https://www.gamekult.com/materiel/guide-achat/les-pc-officiels-de-gamekult-3050794123/pc.html#matos
 🖥️ config Manny : Core i3 7300, 8 Go DDR4, GTX 1050 Ti 4 Go
