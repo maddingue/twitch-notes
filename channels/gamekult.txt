@@ -5721,6 +5721,7 @@ par TurtleBlaze, studio indé de 3 personnes basé à La Hague, Pays-Bas → htt
 🎧 Les Démons du MIDI, le podcast musical de Gautoz et Pipomantis, épisode 76 → http://cpc.cx/qAb 👾 💕 🎶
 ⌨️ 🖱️ QuickLoad revient sur dix ans de jeu PC → http://cpc.cx/qDg
 👾 Retro Dash sur Lucas Arts (1ère partie) → http://cpc.cx/qDI
+👾 Retro Dash sur Lucas Arts (2ème partie) → http://cpc.cx/qH2
 
 
 --------------------------------------
@@ -5770,14 +5771,42 @@ https://store.steampowered.com/bundle/12139/RetroJapanese_Horror_by_Chillas_Art/
 
 cris d'Hubert : 15
 
+--------------------------------------
+2020-02-13 - Wolcen: Lords of Mayhem
 
-📰️ Presse au Kult → http://cpc.cx/qF9
+Wolcen: Lords of Mayhem (anciennement Umbra), disponible depuis aujourd'hui sur Windows
+en accès anticipé depuis mars 2016 après un Kickstarter réussi en juin 2015 de 407 K$ → http://cpc.cx/qFp
+👨‍💻👩‍💻 développé par SolarFall Games, studio basé à Nice, France 🇫🇷 → https://WolcenGame.com/
+📑 feuille de route de développement → https://trello.com/b/OtdXj2DH/beta-roadmap-game-advancement
+🎶 musique composée par Jean-Gabriel Raynaud & Cedric Baravaglio, enregistrée au Philarmonique de Prague, 10 € sur Bandcamp → https://WolcenStudio.bandcamp.com/
+⚙️ le moteur utilisé est CryEngine
+⌨️ 🖱️ 35 € sur Steam ( http://cpc.cx/qFq ), Humble ( http://cpc.cx/qFr )
+
+📜 critique de Granblue Fantasy Versus par von_yaourt (7/10) → https://www.gamekult.com/jeux/granblue-fantasy-versus-3050880023/test.html
+
+si vous voulez plus de Wolcen, Chocapic semble vouloir en faire ce soir : https://www.twitch.tv/akwartz
+sinon, vous avez ExServ qui en fait depuis tout à l'heure : https://www.twitch.tv/exserv
+
+--------------------------------------
+2020-02-14 - Dead Cells DLC Bad Seed
+
+Dead Cells DLC Bad Seed, disponible depuis le 11 février sur Windows, Mac et Linux
+⌨️ 🖱️ 5 € sur Steam ( http://cpc.cx/qFs ), GamesPlanet ( http://cpc.cx/qFv ) et GOG ( http://cpc.cx/qFu )
+
+Dead Cells, disponible depuis le 7 août sur Switch, PlayStation 4, Xbox One, Windows, Mac et Linux
+👨‍💻👩‍💻 développé par Motion twin, studio indé basé à Bordeaux, France 🇫🇷 → https://dead-cells.com/
+🎮 25 € sur PSN ( http://cpc.cx/moZ ), XBL ( http://cpc.cx/mp0 ) 
+🎮 17,50 € sur eShop ( http://cpc.cx/mp1 )
+⌨️ 🖱️ 25 € sur Steam ( http://cpc.cx/jgw ), Humble Store ( http://cpc.cx/jwK ) et GOG ( http://cpc.cx/lsT )
+⌨️ 🖱️ 22,50 € sur GamesPlanet ( http://cpc.cx/qFw )
+🎶 musiques par Yoan Laulan → https://valmontderagondas.bandcamp.com/
+📜 critique de Dead Cells par PlugInBaby (9/10) → https://www.gamekult.com/jeux/dead-cells-3050326015/test.html
+🎧 épisode de ZQSD avec les développeurs de Dead Cells → https://zqsd.fr/zqsd-le-podcast-51/
+
+📰️ Presse au Kult sur le fonctionnement des sites JV → http://cpc.cx/qF9
 🎶 Gammes Kultes sur FlyByNo → http://cpc.cx/qFk
-🕹️ Coin Op Legacy sur Mappy
+🕹️ Coin Op Legacy sur Mappy → http://cpc.cx/qGB
 📅 le programme de la semaine → http://cpc.cx/qys
-📅 GK Live mercredi 17:30, suivant arrivages
-📅 GK Live jeudi 17:30, Wolcen: Lords of Mayhem
-📅 GK Live vendredi 17:30, DLC Bad Seed de Dead Cells
 📅 samedi, Gamekult l'émission
 
 
