@@ -5790,8 +5790,10 @@ sinon, vous avez ExServ qui en fait depuis tout à l'heure : https://www.twitch.
 --------------------------------------
 2020-02-14 - Dead Cells DLC Bad Seed
 
-Dead Cells DLC Bad Seed, disponible depuis le 11 février sur Windows, Mac et Linux
-⌨️ 🖱️ 5 € sur Steam ( http://cpc.cx/qFs ), GamesPlanet ( http://cpc.cx/qFv ) et GOG ( http://cpc.cx/qFu )
+Dead Cells DLC Bad Seed, disponible depuis le 11 février sur Switch, PlayStation 4, Xbox One, Windows, Mac et Linux
+🎮 5 € sur eShop ( http://cpc.cx/qHh ), PSN ( http://cpc.cx/qHi ) et XBL ( http://cpc.cx/qHj )
+⌨️ 🖱️ 5 € sur Steam ( http://cpc.cx/qFs ) et GOG ( http://cpc.cx/qFu )
+⌨️ 🖱️ 4,50 € sur GamesPlanet ( http://cpc.cx/qFv )
 
 Dead Cells, disponible depuis le 7 août sur Switch, PlayStation 4, Xbox One, Windows, Mac et Linux
 👨‍💻👩‍💻 développé par Motion twin, studio indé basé à Bordeaux, France 🇫🇷 → https://dead-cells.com/
@@ -5802,6 +5804,22 @@ Dead Cells, disponible depuis le 7 août sur Switch, PlayStation 4, Xbox One, Wi
 🎶 musiques par Yoan Laulan → https://valmontderagondas.bandcamp.com/
 📜 critique de Dead Cells par PlugInBaby (9/10) → https://www.gamekult.com/jeux/dead-cells-3050326015/test.html
 🎧 épisode de ZQSD avec les développeurs de Dead Cells → https://zqsd.fr/zqsd-le-podcast-51/
+
+édition collector de Dead Cells disponible le 30 juin, 110 € sur Switch et PS4 → https://www.steelbookjeuxvideo.fr/preco-dead-cells-prisoners-edition-1
+
+⏩ speedrun de Dead Cells : any% en 4 min 39 sec sur la version 1.6 ; fresh file en 16 min 43 sec
+
+excuses de sac de Florian :
+- je n'ai pas fait masse de runs, parce que mes runs sont longs, parce que je suis bon DatSheffy 
+- le mapping des touches n'est pas le même que sur Switch
+- la lisibilité n'est pas au top : les couleurs sont mal choisies
+- jouer dans un autre contexte rend les choses plus compliquées
+- moi je pense que le debugage nous a repris ce qu'il nous avait donné
+- on avait l'intention d'être bons, mais...
+
+excuses de sac de Puyo :
+- les touches de la manette sont récalcitrantes
+- on voulait faire ça journalistiquement, mais on a dévié
 
 📰️ Presse au Kult sur le fonctionnement des sites JV → http://cpc.cx/qF9
 🎶 Gammes Kultes sur FlyByNo → http://cpc.cx/qFk
