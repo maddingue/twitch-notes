@@ -2577,11 +2577,56 @@ Temtem
 
 
 ------------------------------
+2020-02-13
+
+Wolcen: Lords of Mayhem (anciennement Umbra), disponible depuis aujourd'hui sur Windows
+en accès anticipé depuis mars 2016 après un Kickstarter réussi en juin 2015 de 407 K$ → http://cpc.cx/qFp
+👨‍💻👩‍💻 développé par SolarFall Games, studio basé à Nice, France 🇫🇷 → https://WolcenGame.com/
+📑 feuille de route de développement → https://trello.com/b/OtdXj2DH/beta-roadmap-game-advancement
+🎶 musique composée par Jean-Gabriel Raynaud & Cedric Baravaglio, enregistrée au Philarmonique de Prague, 10 € sur Bandcamp → https://WolcenStudio.bandcamp.com/
+⚙️ le moteur utilisé est CryEngine
+⌨️ 🖱️ 35 € sur Steam ( http://cpc.cx/qFq ), Humble ( http://cpc.cx/qFr )
+> 20:02 - 21:37  |  1 heure 35 minutes
+
+Pathfinder: Kingmaker, disponible depuis le 25 septembre 2018 sur Windows, Mac et Linux
+⌨️ 🖱️ 40 € sur Steam ( http://cpc.cx/mRT ) et GOG ( http://cpc.cx/mRV )
+Kickstarter de Pathfinder: Wrath of the Righteous → http://cpc.cx/qH8
+> 21:41 - 23:30  |  1 heure 49 minutes
+
+
+jeu en cours : Pathfinder: Kingmaker
+> 19:55 - 23:38  |  3 heures 43 minutes
+
+------------------------------
+2020-02-20
+
+Skul: The Hero Slayer, disponible en accès anticipé depuis le 19 février 2020 sur Windows, Mac et Linux
+développé par SouthPAW Games, studio coréen 🇰🇷 → http://SkulTheGame.com/
+⌨️ 🖱️ 12 € sur Steam ( http://cpc.cx/qJK )
+⌨️ 🖱️ démo gratuite sur itch.io ( http://cpc.cx/qJL )
+> 18:2x - xx:xx  |  ...
+
+Urtuk: The Desolation, disponible en accès anticipé (pendant 1 an) depuis le 14 février 2020 sur Windows, Mac et Linux
+par Mad Sheep Studios, studio slovaque 🇸🇰 → http://www.urtuk.com/
+⌨️ 🖱️ 17 € sur Steam ( http://cpc.cx/qIs )
+
+Wolcen: Lords of Mayhem (anciennement Umbra), disponible depuis aujourd'hui sur Windows
+en accès anticipé depuis mars 2016 après un Kickstarter réussi en juin 2015 de 407 K$ → http://cpc.cx/qFp
+👨‍💻👩‍💻 développé par SolarFall Games, studio basé à Nice, France 🇫🇷 → https://WolcenGame.com/
+📑 feuille de route de développement → https://trello.com/b/OtdXj2DH/beta-roadmap-game-advancement
+🎶 musique composée par Jean-Gabriel Raynaud & Cedric Baravaglio, enregistrée au Philarmonique de Prague, 10 € sur Bandcamp → https://WolcenStudio.bandcamp.com/
+⚙️ le moteur utilisé est CryEngine
+⌨️ 🖱️ 35 € sur Steam ( http://cpc.cx/qFq ), Humble ( http://cpc.cx/qFr )
+> 2x:xx - 21:33  |  ...
+
+> 18:20 - 21:45  |  3 heures 25 minutes
+
+------------------------------
 
 
 jeux gratuits, choisissez, demandez à la personne appropriée : http://cpc.cx/fdv
 
-les musiques du stream viennent de soundcloud.com/mansco et plus précisemment soundcloud.com/akwartz/sets/manesco
+les musiques du stream viennent de https://soundcloud.com/mansco et plus précisemment https://soundcloud.com/akwartz/sets/manesco
 
 la chaine de Choca sur YouTube : youtube.com/user/Akwartz
 le groupe de Choca sur Steam : steamcommunity.com/groups/Akwartz
