@@ -6019,6 +6019,14 @@ Battlefield: Bad Company 2, sorti le 4 mars 2010 sur PlayStation 3, Xbox 360 et 
 excuses de sac de Noddus :
 - t'es sérieux ?! j'en ai eu au moins 6 !!
 - Gautoz m'a déconcentré
+- je fais le fou, et après...
+- où est mon auto regen ? ⚕️
+- je n'étais pas repéré jusqu'à ce que Jean-Michel Discret soit devant moi 🕵️
+- ma technique, c'est la fuite.. lui avait une autre technique qui est de bien viser
+- J'AI TOUCHÉ !!! MAIS NON !!!
+- j'ai raté parce que la portée du lancer, c'est 1m50
+- je n'ai pas d'escouade pour jouer
+- c'est pas légal ça !
 
 --------------------------------------
 2020-03-03 - Wallachia: Reign of Dracula
@@ -6030,20 +6038,9 @@ développé par Migami Games, studio de Mig Perez (code & graphismes) et Jeffrey
 ⌨️ 🖱️ démo gratuite → http://cpc.cx/qOy
 📜 actu de Jarod (7 août 2019) → http://cpc.cx/qOz
 
-📜 preview Ori and the Will of the Wisps par Luma → http://cpc.cx/qMe
-📜 preview Fuser par Pipomantis → http://cpc.cx/qNZ
-📜 preview Baldur's Gate 3 par Gautoz → http://cpc.cx/qNY
-📜 preview Valorant par Noddus → http://cpc.cx/qNX
-📜 preview Final Fantasy 7 Remake par Puyo → http://cpc.cx/qOh
-📜 test Beautiful Desolation, 6/10 par Gautoz → http://cpc.cx/qNt
-
-📅 le programme de la semaine → http://cpc.cx/qNW
-📅 mercredi 17:30, Black Mesa
-📅 jeudi 17:30, Bloodroots
-📅 vendredi 17:30, Murder by Numbers
-📺 samedi, Gamekult l'émission
-💻 ARTE Game Jam samedi, commentée par Luma et Noddus
-🎶 Gammes Kultes sur Teki Latex et Nick Dwyer
+excuses de sac de Puyo :
+- tout ça parce que je ne connaissais pas le bouton de saut
+- c'est la faute du game design
 
 --------------------------------------
 2020-03-04 - Black Mesa
@@ -6054,6 +6051,24 @@ développé par Crowbar Collective → https://www.CrowbarCollective.com/games/b
 ⌨️ 🖱️ 18 € sur Steam ( http://cpc.cx/qOA )
 🎶 musique par Joel Nielsen disponible sur Bandcamp ( http://cpc.cx/qOC ) ou Spotify ( http://cpc.cx/qOB )
 📜 ancien test Black Mesa (17 septembre 2012), 7/10 par Jorkens → http://cpc.cx/qOD
+
+📜 preview Ori and the Will of the Wisps par Luma → http://cpc.cx/qMe
+📜 preview Fuser par Pipomantis → http://cpc.cx/qNZ
+📜 preview Baldur's Gate 3 par Gautoz → http://cpc.cx/qNY
+📜 preview Valorant par Noddus → http://cpc.cx/qNX
+📜 preview Final Fantasy 7 Remake par Puyo → http://cpc.cx/qOh
+📜 test Beautiful Desolation, 6/10 par Gautoz → http://cpc.cx/qNt
+📜 test One Punch Man: A Hero Nobody Knows, 3/10 par Motormike → http://cpc.cx/qNs
+📜 test Bloodroots, 7/10 par Far Away → http://cpc.cx/qNv
+📜 30 min de Streets of Rage 4 → http://cpc.cx/qP1
+
+📅 le programme de la semaine → http://cpc.cx/qNW
+📅 mercredi 17:30, Black Mesa
+📅 jeudi 17:30, Bloodroots
+📅 vendredi 17:30, Murder by Numbers
+📺 samedi, Gamekult l'émission
+💻 samedi, ARTE Game Jam commentée par Luma et Noddus
+🎶 Gammes Kultes sur Teki Latex et Nick Dwyer
 
 --------------------------------------
 2020-03-05 - Bloodroots
@@ -6071,6 +6086,12 @@ Murder by Numbers, disponible depuis aujourd'hui sur Switch et Windows
 développé par Mediatonic (Fall Guys: Ultimate Knockout, Funko Gears of War, Hatoful Boyfriend, des jeux mobiles à licence), gros studio britannique 🇬🇧 → https://www.MediatonicGames.com/game/murder-by-numbers
 🎮 11,24 € sur eShop ( http://cpc.cx/qOE )
 ⌨️ 🖱️ 11,24 € sur Steam ( http://cpc.cx/qOF ), Humble ( http://cpc.cx/qOG ), GamesPlanet ( http://cpc.cx/qOH ) et GOG ( http://cpc.cx/qOI )
+
+--------------------------------------
+2020-03-07 - ARTE Game Jam
+
+ARTE Game Jam → https://www.arte.tv/sites/webproductions/game-jam-arte/
+💬 serveur Discord de la game jam → https://discord.gg/6VXeuvj
 
 
 ⚠️ Attention ⚠️ baissez le son de Twitch car Puyo va PARLER 🔊
