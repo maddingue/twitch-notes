@@ -10,7 +10,7 @@ stream de 11:00
 - équipe 1, Chloé & Damien : la création du monde du monde en 7 jours
   le mentor de l'équipe 1 : Laura Dilloway, environment artist chez Inkle (Heaven's Vault), studio basé à Cambridge, Royaume Uni 🇬🇧 → https://www.InkleStudios.com/
 
-- équipe 2, Jeanne & Jean : 7 seconds process, 7 mini jeux de 7 secondes
+- équipe 2, Jeanne & Jean : 7 seconds to process, 7 mini jeux de 7 secondes
   le mentor de l'équipe 2 : Marta Fijak, game designer chez 11 bit Studios (Frostpunk), basé en Pologne 🇵🇱 → http://www.11bitstudios.com/
 
 - équipe 3, Hugo & Teninke : on incarne quelqu'un avec une mémoire à court terme, qui ne retient que 7 éléments
@@ -29,9 +29,9 @@ stream de 16:30
   le mentor de l'équipe 6 : Frédéric Coispeau, directeur créatif chez Le Cartel (Mother Russia Bleeds, Heave Ho), studio basé à Paris, France 🇫🇷 → https://leCartelStudio.fr/
 
 - équipe 7 : Florence & Tristan : le speed dating en 7 sec, répondre à des questions en QTE, 7 personnages, 7 fins différentes par personnage
-  le mentor de l'équipe 7 : Pierre Corbinais, monsieur Ouvejipo.fr, auteur et scénariste de Enterre-moi mon amour, Haven et Witchery
+  le mentor de l'équipe 7 : Pierre Corbinais, monsieur Oujevipo.fr, auteur et scénariste de Enterre-moi mon amour, Haven et Witchery
 
-- équipe 8 : Lise & Vadim : may day, chaque jour, livrer des lettres dans une rue avec sept personnages anthromorphiques ; à la fin de la semaine, on va voir les conséquences
+- équipe 8 : Lise & Vadim : mail day, chaque jour, livrer des lettres dans une rue avec sept personnages anthromorphiques ; à la fin de la semaine, on va voir les conséquences
   le mentor de l'équipe 8 : Yoan Fanise, game designer, créateur de Valiant Hearts / Soldats inconnus, Lost Harmony et 11-11 Memories Retold chez Ubisoft ; cofondateur de DigixArt → http://www.DigixArt.com/
 
 - équipe 9 : Laura & Anne-Lise : un jeu avec des lapins 🐇🐇🐇 où il faut taper les touches pour faire les actions
@@ -41,4 +41,37 @@ stream de 16:30
   le mentor de l'équipe 10 : Samuel Lepoil, directeur créatif chez Tamanoir Immersive Studio → http://tamanoir.co/
 
 
+--------------------------------------
+2020-03-08 - ARTE Game Jam
+
+ARTE Game Jam → https://arte.tv/game-jam
+🎮 retrouvez les jeux sur https://itch.io/jam/arte-game-jam/entries
+🐦 participez sur Twitter → https://twitter.com/hashtag/GameJamARTE
+Noddus et ⭐Luma⭐ sont des journalistes du site Gamekult → https://www.gamekult.com/
+🎶 les musiques sont celles du jeu Vectronom → https://vectronom.arte.tv/
+
+le jeu de l'équipe 1, Let There Be Light → https://itch.io/jam/arte-game-jam/rate/567578
+le jeu de l'équipe 2, 7 seconds to process → https://itch.io/jam/arte-game-jam/rate/583629
+le jeu de l'équipe 3, Erase Screen → https://itch.io/jam/arte-game-jam/rate/583315
+le jeu de l'équipe 4, The Magnificent 7 Shrimps 🦐 → https://itch.io/jam/arte-game-jam/rate/583660
+le jeu de l'équipe 5, You've got mail! ✉️  → https://itch.io/jam/arte-game-jam/rate/583703
+le jeu de l'équipe 6, 7 Generations → https://itch.io/jam/arte-game-jam/rate/583622
+le jeu de l'équipe 7, Match me if you can → https://itch.io/jam/arte-game-jam/rate/583646
+le jeu de l'équipe 8, Mail Day 📫 → https://itch.io/jam/arte-game-jam/rate/583019
+le jeu de l'équipe 9, Lagora 🐇 → https://itch.io/jam/arte-game-jam/rate/583643
+le jeu de l'équipe 10, 7e ciel → https://itch.io/jam/arte-game-jam/rate/583266
+le jeu de l'équipe 11, 
+le jeu de l'équipe 12, Seven Stages → https://teamdouze.itch.io/seven-stages
+le jeu de l'équipe 13, 
+le jeu de l'équipe 14, The Curse of Seth → https://the-curse-of-seth.itch.io/7
+le jeu de l'équipe 16, Kami → https://itch.io/jam/arte-game-jam/rate/583674
+le jeu de l'équipe 17, 7 Beats From Heaven → https://itch.io/jam/arte-game-jam/rate/583728
+
+le jeu de l'équipe 20, 7 rays → https://alexisriviere.itch.io/7-rays
+
+
+7 is dead → https://itch.io/jam/arte-game-jam/rate/583699
+The 7 deadly puzzles → https://itch.io/jam/arte-game-jam/rate/583627
+Solomon Grundy → https://itch.io/jam/arte-game-jam/rate/583645
+7 arrows → https://itch.io/jam/arte-game-jam/rate/583673
 
