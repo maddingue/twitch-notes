@@ -6112,6 +6112,7 @@ ARTE Game Jam → https://arte.tv/game-jam
 🎮 retrouvez les jeux sur https://itch.io/jam/arte-game-jam/entries
 📡 pour suivre la Game Jam, allez sur la chaîne Twitch d'ARTE → https://www.twitch.tv/artefr ou celle de Gamekult → https://www.twitch.tv/gamekultlive
 
+
 --------------------------------------
 2020-03-09 - The Longing et Night of the Consumers
 
@@ -6125,16 +6126,51 @@ développé par Studio Seufz, studio indé de 4 personnes basé à Stuttgart, Al
 🎶 sons & musiques par Jan Roth & Jürgen Härtenstein
 ⌨️ 🖱️ 15 € sur Steam ( http://cpc.cx/qSu ), Humble ( http://cpc.cx/qSv ) et GOG ( http://cpc.cx/qSw )
 
+--------------------------------------
+2020-03-10 - Yes, Your Grace
+
+Yes, Your Grace, disponible depuis le 6 mars 2020 sur Windows
+développé par Brave At Night, studio indé de 5 personnes basé au Royaume-Uni 🇬🇧 → https://www.BraveAtNight.co.uk/
+⌨️ 🖱️ 15,10 € sur Steam ( http://cpc.cx/qRF ) et GOG ( http://cpc.cx/qRG )
+🎶 musiques par Carlos Filipe Alves & Merkfolk
 
 
 📅 le programme de la semaine → http://cpc.cx/qSs
-📅 mardi 17:30, Yes, Your Grace
 📅 mercredi 17:30, Ori and the Will of the Wisps
 📅 jeudi 17:30, Nioh 2
 📅 vendredi 17:30, Deedlit in Wonder Labyrinth
 👾 Rétro Dash sur DOOM
 💻 Retour sur la Game Jam d'ARTE
 📺 samedi, Gamekult l'émission
+
+--------------------------------------
+2020-03-11 - Ori and the Will of the Wisps
+
+⚠️ Attention ⚠️ baissez le son de Twitch car Puyo va PARLER 🔊
+Ori and the Will of the Wisps, disponible depuis aujourd'hui sur Xbox One et Windows
+développé par Moon Studios (Ori and the Blind Forest) → https://www.OriTheGame.com/
+🎮 30 € en grande distribution
+🎮 30 € sur XBL ( http://cpc.cx/qSH ), inclus dans le Xbox Game Pass
+⌨️ 🖱️ 30 € sur Steam ( http://cpc.cx/qSI )
+📜 preview par Luma (26 février 2020) → http://cpc.cx/qMe
+
+--------------------------------------
+2020-03-12 - Nioh 2
+
+⚠️ Attention ⚠️ baissez le son de Twitch car Puyo va PARLER 🔊
+Nioh 2, disponible à partir de demain sur PlayStation 4
+🎮 60 € chez Cultura et la Fnac, 55 € chez Auchan et Leclerc
+🎮 70 € sur PSN ( http://cpc.cx/qDc )
+📜 preview par Pipomantis (5 février 2020) → http://cpc.cx/qSJ
+
+--------------------------------------
+2020-03-13 - Record of Lodoss War: Deedlit in Wonder Labyrinth
+
+⚠️ Attention ⚠️ baissez le son de Twitch car Puyo va PARLER 🔊
+Record of Lodoss War: Deedlit in Wonder Labyrinth, disponible en accès anticipé depuis hier sur Windows
+développé par Team Ladybug (Touhou Luna Nights, Shin Megami Tensei Synchronicity Prologue) → http://TeamLadybug.info/
+⚙️ le moteur utilisé est le Mogura Engine 2
+⌨️ 🖱️ 30 € sur Steam ( http://cpc.cx/qSI )
 
 
 ⚠️ Attention ⚠️ baissez le son de Twitch car Puyo va PARLER 🔊
