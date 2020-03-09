@@ -6112,10 +6112,30 @@ ARTE Game Jam → https://arte.tv/game-jam
 🎮 retrouvez les jeux sur https://itch.io/jam/arte-game-jam/entries
 📡 pour suivre la Game Jam, allez sur la chaîne Twitch d'ARTE → https://www.twitch.tv/artefr ou celle de Gamekult → https://www.twitch.tv/gamekultlive
 
+--------------------------------------
+2020-03-09 - The Longing et Night of the Consumers
+
+Night of the Consumers, disponible depuis le 7 mars 2020 sur Windows
+développé par germfood, un mec à Leeds, au Royaume-Uni 🇬🇧 → https://twitter.com/germfood
+⌨️ 🖱️ 1,93 $ sur itch.io ( http://cpc.cx/qSB )
+
+The Longing, disponible depuis le 5 mars 2020 sur Windows, Mac et Linux
+développé par Studio Seufz, studio indé de 4 personnes basé à Stuttgart, Allemagne 🇩🇪 → http://www.399d-23h-59m-59s.com/
+📜 inspiré par la légende allemande de Kyffhäuser, où l'empereur Frédéric Barberousse se serait, avec sa suite de fidèles, endormi dans une caverne au cœur du Kyffhäuser, d'où il se réveillera un jour pour rétablir l'empire germanique dans son unité et sa splendeur → http://cpc.cx/qSx
+🎶 sons & musiques par Jan Roth & Jürgen Härtenstein
+⌨️ 🖱️ 15 € sur Steam ( http://cpc.cx/qSu ), Humble ( http://cpc.cx/qSv ) et GOG ( http://cpc.cx/qSw )
 
 
-📅 le programme de la semaine → http://cpc.cx/qNW
+
+📅 le programme de la semaine → http://cpc.cx/qSs
+📅 mardi 17:30, Yes, Your Grace
+📅 mercredi 17:30, Ori and the Will of the Wisps
+📅 jeudi 17:30, Nioh 2
+📅 vendredi 17:30, Deedlit in Wonder Labyrinth
+👾 Rétro Dash sur DOOM
+💻 Retour sur la Game Jam d'ARTE
 📺 samedi, Gamekult l'émission
+
 
 ⚠️ Attention ⚠️ baissez le son de Twitch car Puyo va PARLER 🔊
 ⭐ Luma ⭐
