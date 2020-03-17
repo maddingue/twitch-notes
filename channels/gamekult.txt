@@ -6202,17 +6202,6 @@ développé par Shockworks Games, développeur indé polonais 🇵🇱 → http:
 ⌨️ 🖱️ page Steam ( http://cpc.cx/qWb ) et GOG ( http://cpc.cx/qWe )
 ⌨️ 🖱️ Prologue gratuit sur Steam ( http://cpc.cx/qWc ), GOG ( http://cpc.cx/qWd ) et itch.io ( http://cpc.cx/qWf )
 
-😷 Gamekult et le COVID-19 → http://cpc.cx/qW3
-📅 le programme de la semaine → http://cpc.cx/qSs
-📅 mercredi 17:30, Holdfast
-📅 jeudi 17:30, DOOM 64 et DOOM Eternal
-📅 vendredi 17:30, suivant arrivages
-📺 samedi, Gamekult l'émission
-📚 Lecture Seule #6
-🎶 Gammes Kultes
-📱 Juste un Doigt
-🏝️ Retro Island
-
 --------------------------------------
 2020-03-18 - Holdfast: Nations at War
 
@@ -6220,6 +6209,16 @@ Holdfast: Nations at War, disponible en version finale depuis le 5 mars 2020 sur
 développé par Anvil Game Studios, studio indé de 5 personnes + 4 freelances basé à Malte 🇲🇹 → https://www.HoldfastGame.com/
 ⌨️ 🖱️ 20 € sur Steam ( http://cpc.cx/qWh ) et Humble ( http://cpc.cx/qWi )
 📜 preview par Stoon du 4 décembre 2017 → http://cpc.cx/qWg
+
+😷 Gamekult et le COVID-19 → http://cpc.cx/qW3
+📅 le programme de la semaine → http://cpc.cx/qSs
+📅 jeudi 17:30, DOOM 64 et DOOM Eternal
+📅 vendredi 17:30, suivant arrivages
+📺 samedi, Gamekult l'émission
+📚 Lecture Seule #6
+🎶 Gammes Kultes
+📱 Juste un Doigt
+🏝️ Retro Island
 
 --------------------------------------
 2020-03-19 - DOOM 64 et DOOM Eternal
@@ -6321,11 +6320,12 @@ adresse Gamekult @ Neweb :
   48 rue du Faubourg du Temple 75011 PARIS
 
 bday:
-- Gautoz: 27 juillet
-- Le Père Fidalbion : 28 novembre
 - Luma : 16 mars
-- Pipomantis: 2 décembre
-- Fastkill: 25 mars
+- Julien Strong : 20 mars
+- Faskill : 25 mars
+- Gautoz : 27 juillet
+- Le Père Fidalbion : 28 novembre
+- Pipomantis : 2 décembre
 
 partenariat GamesPlanet : ?ref=gamekult
 partenariat GOG : ?pp=aba5d02b57a345ff3db4907de20c963e447ce830
