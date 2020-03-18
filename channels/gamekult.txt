@@ -6203,22 +6203,26 @@ développé par Shockworks Games, développeur indé polonais 🇵🇱 → http:
 ⌨️ 🖱️ Prologue gratuit sur Steam ( http://cpc.cx/qWc ), GOG ( http://cpc.cx/qWd ) et itch.io ( http://cpc.cx/qWf )
 
 --------------------------------------
-2020-03-18 - Holdfast: Nations at War
+2020-03-18 - DOOM Eternal, Road To PS5, Holdfast: Nations at War (annulé)
+
+DOOM Eternal, disponible à partir du 20 mars 2020 sur Switch, PlayStation 4, Xbox One, Windows et Stadia
+🎮 versions PS4 et XBO à 45 € chez Leclerc, 47 € chez Auchan, 60 € chez Cultura, La Fnac
+🎮 70 € sur PSN ( http://cpc.cx/qWp ), XBL ( http://cpc.cx/qWq )
+⌨️ 🖱️ 60 € ou + sur Steam ( http://cpc.cx/qWj ) et Humble (clé Bethesda, http://cpc.cx/qWk )
+⌨️ 🖱️ 50 € sur GamesPlanet (clé Bethesda, http://cpc.cx/qWm )
+📜 9/10 par Noddus → http://cpc.cx/qWr
+👾 Rétro Dash sur DOOM → http://cpc.cx/qUH
+📰 🖱️ offre couplée avec JV le Mag à 80 € → http://cpc.cx/qXA
+
+
+Road To PS5 -- présentation technique de la PlayStation 5
+📺 la chaîne YouTube PlayStation en direct → https://www.youtube.com/watch?v=ph8LyNIT9sg
+
 
 Holdfast: Nations at War, disponible en version finale depuis le 5 mars 2020 sur Windows
 développé par Anvil Game Studios, studio indé de 5 personnes + 4 freelances basé à Malte 🇲🇹 → https://www.HoldfastGame.com/
 ⌨️ 🖱️ 20 € sur Steam ( http://cpc.cx/qWh ) et Humble ( http://cpc.cx/qWi )
 📜 preview par Stoon du 4 décembre 2017 → http://cpc.cx/qWg
-
-😷 Gamekult et le COVID-19 → http://cpc.cx/qW3
-📅 le programme de la semaine → http://cpc.cx/qSs
-📅 jeudi 17:30, DOOM 64 et DOOM Eternal
-📅 vendredi 17:30, suivant arrivages
-📺 samedi, Gamekult l'émission
-📚 Lecture Seule #6
-🎶 Gammes Kultes
-📱 Juste un Doigt
-🏝️ Retro Island
 
 --------------------------------------
 2020-03-19 - DOOM 64 et DOOM Eternal
@@ -6236,7 +6240,15 @@ DOOM Eternal, disponible à partir du 20 mars 2020 sur Switch, PlayStation 4, Xb
 ⌨️ 🖱️ 50 € sur GamesPlanet (clé Bethesda, http://cpc.cx/qWm )
 📜 preview par Noddus du 21 janvier 2020 → http://cpc.cx/qWr
 
-👾 Rétro Dash sur DOOM → http://cpc.cx/qUH
+😷 Gamekult et le COVID-19 → http://cpc.cx/qW3
+📅 le programme de la semaine → http://cpc.cx/qSs
+📅 jeudi 17:30, DOOM 64 et DOOM Eternal
+📅 vendredi 17:30, suivant arrivages
+📺 samedi, Gamekult l'émission
+📚 Lecture Seule #6
+🎶 Gammes Kultes
+📱 Juste un Doigt
+🏝️ Retro Island
 
 ⚠️ Attention ⚠️ baissez le son de Twitch car Puyo va PARLER 🔊
 ⭐ Luma ⭐
@@ -6289,6 +6301,8 @@ http://cpc.cx/ihD  (RadioKawa)
 🖥️ config Sarge : Core i7 7700K, 32 Go DDR4, GTX 1080 8 Go, SSD 1 To
 
 le clavier utilisé est un Roccat Sova → https://www.materiel.net/produit/201606140293.html
+
+http://cpc.cx/jRP http://cpc.cx/qXG http://cpc.cx/fIU et http://cpc.cx/fJ9 — lectures à propos des sites pas légaux (G2A, Instant Gaming, Kinguin, etc)
 
 ✉️ redac@gamekult.com
 son adresse de courriel → merry@gamekult.com
@@ -6354,4 +6368,15 @@ https://www.nintendo.fr/Rechercher/Rechercher-299117.html?f=147394-86
 📡 la chaîne Twitch de Kamui → https://www.twitch.tv/kamuirobotics
 📡 la chaîne Twitch de Merry → https://www.twitch.tv/merry
 📡 la chaîne Twitch de MisterMV → https://www.twitch.tv/mistermv
+
+📡 la chaîne Twitch de Gautoz → https://www.twitch.tv/gautoz
+📡 la chaîne Twitch de ⭐Luma⭐ → https://www.twitch.tv/luma_gk
+📡 la chaîne Twitch de Noddus → https://www.twitch.tv/gk_noddus
+📡 la chaîne Twitch de Pipomantis → https://www.twitch.tv/pipomantis
+
+https://www.twitch.tv/leperefidalbion -- Le Père Fidalbion
+https://www.twitch.tv/puyogk -- Puyo
+https://www.twitch.tv/Ratchetlelombax -- Julien
+https://www.twitch.tv/sbebiwan -- Sbebiwan
+https://www.twitch.tv/snakenh -- Hubert
 
