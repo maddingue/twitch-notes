@@ -6271,6 +6271,18 @@ matériel compatible : Valve Index, HTC Vive, Oculus Rift, Windows Mixed Reality
 📜 Half-Life 2, 9/10 par Poischich (22 novembre 2004) → http://cpc.cx/r0w
 📜 Black mesa, 9/10 par PluginBaby (7 mars 2020) → http://cpc.cx/qOD
 
+--------------------------------------
+2020-03-24 - Kingdom: New Lands
+
+Kingdom: New Lands, disponible depuis le 9 août 2016 sur Windows, Mac et Linux, depuis le mars 2017 sur Android et iOS, depuis le 14 septembre 2017 sur Switch, depuis le 16 janvier 2018 sur PlayStation 4 et Xbox One
+développé par noio, studio indé d'une personne, Thomas van den Berg, basé à Berlin, Allemagne 🇩🇪 → https://www.KingdomTheGame.com/
+🎮 15 € sur eShop ( http://cpc.cx/r0R ), PSN ( http://cpc.cx/r0S ), XBL ( http://cpc.cx/r0T )
+📱 10 € sur Android ( http://cpc.cx/r0U ), 11 € sur iOS ( http://cpc.cx/r0V )
+⌨️ 🖱️ 15 € sur Steam ( http://cpc.cx/r0W ), Humble ( http://cpc.cx/r0X )
+⌨️ 🖱️ 15 € sur GOG ( http://cpc.cx/r11 ), EGS ( http://cpc.cx/r0Z )
+⌨️ 🖱️ 12,74 € sur GamesPlanet ( http://cpc.cx/r0Y )
+🎶 musique par Amos Roddy ( https://AmosRoddy.com/ ), 7 $ sur Bandcamp → http://cpc.cx/r13
+📜 17/20 JVC
 
 
 🎶 Gammes Kultes, l'histoire du FPS en 15 morceaux → http://cpc.cx/qYY
@@ -6281,10 +6293,26 @@ matériel compatible : Valve Index, HTC Vive, Oculus Rift, Windows Mixed Reality
 📺 samedi, Gamekult l'émission, en accès libre
 📚 Lecture Seule #6
 📅 le programme de la semaine → http://cpc.cx/r0q
-📅 mardi 17:30, Kingdom New Lands
 📅 mercredi 17:30, Dreadlands
 📅 jeudi 17:30, suivant arrivages
 📅 vendredi 17:30, Bleeding Edge
+
+--------------------------------------
+2020-03-25 - Dreadlands
+
+Dreadlands, disponible en accès anticipé (pour 6 mois) depuis le 10 mars 2020 sur Windows
+développé par Blackfox Studios, studio indé de 6 personnes basé à Stockholm, Suède 🇸🇪 → https://PlayDreadlands.com/
+⌨️ 🖱️ 16,80 € sur Steam ( http://cpc.cx/r15 ) et Humble ( http://cpc.cx/r16 )
+⌨️ 🖱️ 15,11 € sur GamesPlanet ( http://cpc.cx/r17 )
+
+--------------------------------------
+2020-03-27 - Bleeding Edge
+
+Bleeding Edge, disponible depuis le 24 mars 2020 sur Xbox One et Windows
+développé par Ninja Theory (Hellblade, DmC), studio d'environ 120 basé à Cambridge, Royaume-Uni 🇬🇧 → https://www.BleedingEdge.com/fr
+🎮 30 € sur XBL ( http://cpc.cx/r18 ), inclus dans le Game Pass
+⌨️ 🖱️ 30 € sur Steam ( http://cpc.cx/r19 )
+
 
 ⚠️ Attention ⚠️ baissez le son de Twitch car Puyo va PARLER 🔊
 ⭐ Luma ⭐
