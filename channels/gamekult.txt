@@ -6293,6 +6293,16 @@ développé par Blackfox Studios, studio indé de 6 personnes basé à Stockholm
 ⌨️ 🖱️ 15,11 € sur GamesPlanet ( http://cpc.cx/r17 )
 
 --------------------------------------
+2020-03-26 - Bright Memory: Infinite / 光明记忆：无限
+
+Bright Memory / 光明记忆, disponible depuis le 25 mars 2020 sur Windows
+développé par FYQD Studio, en fait un seul développeur chinois, Zeng Xiancheng, sur son temps libre 🇨🇳 → https://twitter.com/fyqd_studio
+⌨️ 🖱️ 3,81 € sur Steam ( http://cpc.cx/r46 ), 3,89 € sur GOG ( http://cpc.cx/r47 )
+⚙️ le moteur utilisé est l'Unreal Engine 4
+📜 article de Kotaku sur le jeu → http://cpc.cx/r48
+📜 article de RPS sur le jeu → http://cpc.cx/r49
+
+--------------------------------------
 2020-03-27 - Bleeding Edge
 
 Bleeding Edge, disponible depuis le 24 mars 2020 sur Xbox One et Windows
@@ -6305,13 +6315,13 @@ développé par Ninja Theory (Hellblade, DmC), studio d'environ 120 basé à Cam
 📱 Juste un Doigt → http://cpc.cx/r0s
 🏝️ Retro Island → http://cpc.cx/r0r
 🎮 la PC Engine mini → http://cpc.cx/r2w
+📚 Lecture Seule #6 → http://cpc.cx/r4b
 📜 Paper Beasts, 6/10 par Gautoz → http://cpc.cx/r2x
 📜 Exit the Gungeon, 5/10 par Pipomantis → http://cpc.cx/r2y
 📜 Persona 5 Scramble, 7/10 par Kamui → http://cpc.cx/r2z
 
 😷 Gamekult et le COVID-19 → http://cpc.cx/qW3
 📺 samedi, Gamekult l'émission, en accès libre
-📚 Lecture Seule #6
 📅 le programme de la semaine → http://cpc.cx/r0q
 📅 jeudi 17:30, suivant arrivages
 📅 vendredi 17:30, Bleeding Edge
