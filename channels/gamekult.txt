@@ -6298,6 +6298,7 @@ développé par Blackfox Studios, studio indé de 6 personnes basé à Stockholm
 Bright Memory / 光明记忆, disponible depuis le 25 mars 2020 sur Windows
 développé par FYQD Studio, en fait un seul développeur chinois, Zeng Xiancheng, sur son temps libre 🇨🇳 → https://twitter.com/fyqd_studio
 ⌨️ 🖱️ 3,81 € sur Steam ( http://cpc.cx/r46 ), 3,89 € sur GOG ( http://cpc.cx/r47 )
+📱 5 € sur iOS ( http://cpc.cx/r4e )
 ⚙️ le moteur utilisé est l'Unreal Engine 4
 📜 article de Kotaku sur le jeu → http://cpc.cx/r48
 📜 article de RPS sur le jeu → http://cpc.cx/r49
@@ -6323,7 +6324,6 @@ développé par Ninja Theory (Hellblade, DmC), studio d'environ 120 basé à Cam
 😷 Gamekult et le COVID-19 → http://cpc.cx/qW3
 📺 samedi, Gamekult l'émission, en accès libre
 📅 le programme de la semaine → http://cpc.cx/r0q
-📅 jeudi 17:30, suivant arrivages
 📅 vendredi 17:30, Bleeding Edge
 
 
