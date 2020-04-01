@@ -6353,24 +6353,20 @@ excuses de sac de Noddus :
 - je ne suis pas encore habitué aux nouvelles animations
 
 --------------------------------------
-2020-04-01 - doublette indé : Assemble with Care
+2020-04-01 - doublette indé : Assemble with Care et Vignettes
 
 Assemble with Care, disponible depuis le 19 septembre 2019 sur iOS, et depuis le 26 mars 2020 sur Windows
 par ustwo games (Monument Valley 1 & 2), studio indé d'une vingtaine de personnes, basé à Londres, Royaume-Uni 🇬🇧, qui ne fait pas que des jeux vidéo → https://www.ustwo.com/
-📱 inclus dans APple Arcade → http://cpc.cx/r70
+📱 inclus dans Apple Arcade → http://cpc.cx/r70
 ⌨️ 🖱️ 5,60 € sur Steam ( http://cpc.cx/r6Z )
+⏩ speedrun du jeu : any% en 24 min 29 sec → https://youtube.com/watch?v=RfFOHLgBhmo
 
-😷 Gamekult et le COVID-19 → http://cpc.cx/qW3
-⛩️  Gaijin Dash sur la PC Engine Mini
-🎶 Gammes Kultes Allegro sur les middlewares audio
-📱 Juste un Doigt
-📜 article de Patrick Hellio sur les remakes
-🎮 Tournez Manettes sur Uncharted 4
-📺 samedi, Gamekult l'émission, en accès libre
-📅 le programme de la semaine → http://cpc.cx/r6J
-📅 mercredi 17:30, doublette indé
-📅 jeudi 17:30, Resident Evil 3
-📅 vendredi 17:30, In Other Waters
+Vignettes, disponible depuis le 21 avril 2017 sur Android et iOS, et depuis le 6 mars 2019 sur Windows et Mac
+par Skeleton Business, studio indé basé à Lille, France 🇫🇷 → http://VignettesGa.me/
+📱 3,20 € sur Play Store ( http://cpc.cx/r8t ), 3,50 € sur App Store ( http://cpc.cx/r8s )
+⌨️ 🖱️ 8 € sur Steam ( http://cpc.cx/r8u ), 8 $ sur itch.io ( http://cpc.cx/r8v )
+🎶 musique par David Kanaga (Panoramical, Proteus, Dyad) → https://davidkanaga.bandcamp.com/
+⏩ speedrun du jeu : any% en 6 min 3 sec → https://youtube.com/watch?v=R_SDMShxJvc
 
 --------------------------------------
 2020-04-02 - Resident Evil 3
@@ -6385,6 +6381,17 @@ Resident Evil 3, disponible demain 3 avril 2020 sur PlayStation 4, Xbox One et W
 ⌨️ 🖱️ 48 € chez GamesPlanet ( http://cpc.cx/r7a )
 ⌨️ 🖱️ 80 € en bundle avec Gamekult Premium → http://cpc.cx/r7b
 📜 8/10 par Puyo → http://cpc.cx/qMf
+
+😷 Gamekult et le COVID-19 → http://cpc.cx/qW3
+⛩️  Gaijin Dash sur la PC Engine Mini
+🎶 Gammes Kultes Allegro sur les middlewares audio
+📱 Juste un Doigt
+📜 article de Patrick Hellio sur les remakes
+🎮 Tournez Manettes sur Uncharted 4
+📺 samedi, Gamekult l'émission, en accès libre
+📅 le programme de la semaine → http://cpc.cx/r6J
+📅 jeudi 17:30, Resident Evil 3
+📅 vendredi 17:30, In Other Waters
 
 --------------------------------------
 2020-04-03 - In Other Waters
@@ -6436,8 +6443,8 @@ https://www.twitch.tv/gamekultlive/videos/all
 ℹ️ avatars de la rédac' Gamekult déssinés par Simon Hutt → https://simonhuttt.artstation.com/
 
 https://www.geekzone.fr/tag/les-demons-du-midi/
-🎧 Les Démons du MIDI, le podcast musical de Gautoz et Pipomantis, épisode 77 → http://cpc.cx/qM9 👾 💕 🎶
-🎧 pour les amateurs de musiques de jeux vidéo, écoutez Les Démons du MIDI, le podcast musical de Gautoz et Pipomantis → http://cpc.cx/qM9 👾 💕 🎶
+🎧 Les Démons du MIDI, le podcast musical de Gautoz et Pipomantis, épisode 78 → http://cpc.cx/r8bhttp://cpc.cx/qM9 👾 💕 🎶
+🎧 pour les amateurs de musiques de jeux vidéo, écoutez Les Démons du MIDI, le podcast musical de Gautoz et Pipomantis → http://cpc.cx/r8b 👾 💕 🎶
 http://cpc.cx/ihD  (RadioKawa)
 
 ⌨️ 🖱️ QuickLoad, le podcast PC → https://soundcloud.com/quickload ou https://www.gamekult.com/emissions/quick-load-11.html
