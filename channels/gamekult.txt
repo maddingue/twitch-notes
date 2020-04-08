@@ -6440,16 +6440,8 @@ développé par Riot Games (League of Legends), studio de plus de 2 500 personne
 
 Good Company, depuis en accès anticipé depuis le 31 mars 2020 sur Windows
 développé par Chasing Carrots (Cosmonautica, Pressure Overdrive), studio indé de 9 personnes basé à Stuttgart, Allemagne 🇩🇪 → https://www.GoodCompanyGame.com/
-⌨️ 🖱️ 20,69 € sur Steam ( http://cpc.cx/rcL ), Humble ( http://cpc.cx/rcM )
-⌨️ 🖱️ 19,54 € sur GamesPlanet ( http://cpc.cx/rcN )
-⌨️ 🖱️ 23 € sur GOG ( http://cpc.cx/rcP )
-
-😷 Gamekult et le COVID-19 → http://cpc.cx/qW3
-💻 Quick Load sur Doom Eternal et Half-Life Alyx → http://cpc.cx/rdA
-📺 samedi, Gamekult l'émission, en accès libre
-📅 le programme de la semaine → http://cpc.cx/rcF
-📅 jeudi 16:00, Hitman 2
-📅 vendredi 17:30, S.W.A.T. 4
+⌨️ 🖱️ 23 € sur Steam ( http://cpc.cx/rcL ), Humble ( http://cpc.cx/rcM ) et GOG ( http://cpc.cx/rcP )
+⌨️ 🖱️ 20,69 € sur GamesPlanet ( http://cpc.cx/rcN )
 
 --------------------------------------
 2020-04-09 - Hitman 2
@@ -6466,6 +6458,14 @@ développé par IO Interactive (les Hitman, les Kane & Lynch, Mini Ninjas), stud
 
 🎥 https://clips.twitch.tv/EncouragingRefinedAnteaterAMPEnergyCherry -- le TALENT du jeune Noddus (clip de Chino)
 🎥 https://clips.twitch.tv/EvilDoubtfulHabaneroKlappa -- Noddus est une ombre (clip de Chino)
+
+😷 Gamekult et le COVID-19 → http://cpc.cx/qW3
+💻 Quick Load sur Doom Eternal et Half-Life Alyx → http://cpc.cx/rdA
+🛸 Sous le radar sur Batbarian → http://cpc.cx/rem
+📺 samedi, Gamekult l'émission, en accès libre
+📅 le programme de la semaine → http://cpc.cx/rcF
+📅 jeudi 16:00, Hitman 2
+📅 vendredi 17:30, S.W.A.T. 4
 
 --------------------------------------
 2020-04-10 - S.W.A.T. 4
