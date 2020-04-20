@@ -6547,7 +6547,7 @@ replay du Appelez-moi le directeur ! 🛎️ → http://cpc.cx/rkR
 Receiver 2, disponible depuis le 14 avril 2020 sur Windows, Mac et Linux
 développé par Wolfire Games (Overgrowth, Lugaru, Receiver), studio indé de San Francisco, Californie, USA 🇺🇸 → https://www.receiver2.com/
 liste des armes du jeu : Beretta 92FS, Colt Detective, Colt Government 1911, Colt Single Action Army, Desert Eagle .50, Glock 17 avec auto mod, S&W Model 10, Sig Sauer p226 mk25
-⌨️ 🖱️ 15,11 € sur Steam ( http://cpc.cx/rlx ) et humble ( http://cpc.cx/rly )
+⌨️ 🖱️ 15,11 € sur Steam ( http://cpc.cx/rlx ) et Humble ( http://cpc.cx/rly )
 ⚙️ le moteur du jeu est Unity
 ⏩ speedrun de Receiver (le premier) : any% en 4m 49s → https://www.youtube.com/watch?v=R3kdvQe6zRY
 
@@ -6558,15 +6558,55 @@ World of Guns: Gun Disassembly, gratuit sur Steam → https://store.steampowered
 
 🕹️ Polybius est un jeu d'arcade mythique, qui n'a jamais existé, supposé vous hypnotiser ; regardez ce documentaire web extraordinaire de Ahoy → https://www.youtube.com/watch?v=_7X6Yeydgyg
 
+--------------------------------------
+2020-04-21 - Filament
+
+Filament, sortie prévue le 23 avril 2020 sur Windows et Linux
+développé par Beard Envy, studio de trois barbus basé à Londres, Royaume-Uni 🇬🇧 → https://www.BeardEnvy.co.uk/
+⌨️ 🖱️ prototype du jeu → https://beardenvy.itch.io/filament
+⌨️ 🖱️ Steam ( http://cpc.cx/rlD ) et Humble ( http://cpc.cx/rlE )
+
 
 😷 Gamekult et le COVID-19 → http://cpc.cx/qW3
 👑 contenu Premium offert → http://cpc.cx/rjf
 📅 le programme de la semaine → http://cpc.cx/rls
-📅 mardi 14:30 à 17:00, Filament
 📅 mercredi 17:30, Trials of Mana
 📅 jeudi 17:30, Cloudpunk
 📅 vendredi 17:30, Predator: Hunting Grounds
 📺 samedi matin, Gamekult l'émission, en accès libre
+
+--------------------------------------
+2020-04-22 - Trials of Mana
+
+Trials of Mana, disponible le 24 avril sur Switch, PlayStation 4 et Windows
+développé par Square Enix 🇯🇵 → https://TrialsOfMana.square-enix-games.com/fr
+🎮 démo gratuite sur eShop, PSN ( http://cpc.cx/rlK ) et Steam
+🎮 50 € sur eShop ( http://cpc.cx/rlL ) et PSN ( http://cpc.cx/rlM )
+⌨️ 🖱️ 50 € sur Steam ( http://cpc.cx/rlN )
+📜 preview par Puyo du 14 septembre 2019 → http://cpc.cx/rlI
+⚙️ le moteur du jeu est Unreal Engine 4
+⚠️ Attention ⚠️ baissez le son de Twitch car Puyo va PARLER 🔊
+
+聖剣伝説 3 / Seiken Densetsu 3, originellement sorti en septembre 1995 sur Super Nintendo
+🎶 musiques par Hiroki Kikuta
+
+--------------------------------------
+2020-04-23 - Cloudpunk
+
+Cloudpunk, disponible depuis aujourd'hui 23 avril sur Windows
+annoncé sur Switch, PlayStation 4 et Xbox One plus tard dans l'année, portage par Merge Games → https://www.MergeGames.com/cloudpunk
+développé par Ion Lands (Phoning Home), studio basé à Berlin, Allemagne 🇩🇪 → http://www.IonLands.com
+⌨️ 🖱️ Steam ( http://cpc.cx/rlJ )
+
+--------------------------------------
+2020-04-24 - Predator: Hunting Grounds
+
+Predator: Hunting Grounds, disponible depuis aujourd'hui 24 avril sur PlayStation 4 et Windows
+développé par IllFonic (Friday the 13th, Dead Alliance), studio d'enrivon 80 personnes basé à Golden, Colorado, USA 🇺🇸 → https://predator.illfonic.com/
+🎮 démo gratuite sur PSN ( http://cpc.cx/rlH )
+🎮 40 € sur PSN ( http://cpc.cx/rlG )
+⌨️ 🖱️ 40 € sur EGS ( http://cpc.cx/rlF )
+⚙️ le moteur du jeu est Unreal Engine 4
 
 ⚠️ Attention ⚠️ baissez le son de Twitch car Puyo va PARLER 🔊
 ⭐ Luma ⭐
