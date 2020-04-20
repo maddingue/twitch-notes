@@ -6541,9 +6541,31 @@ développeur présent sur le canal : SirCarma, directeur artistique
 replay du Appelez-moi le directeur ! 🛎️ → http://cpc.cx/rkR
 
 
+--------------------------------------
+2020-04-20 - Receiver 2
+
+Receiver 2, disponible depuis le 14 avril 2020 sur Windows, Mac et Linux
+développé par Wolfire Games (Overgrowth, Lugaru, Receiver), studio indé de San Francisco, Californie, USA 🇺🇸 → https://www.receiver2.com/
+liste des armes du jeu : Beretta 92FS, Colt Detective, Colt Government 1911, Colt Single Action Army, Desert Eagle .50, Glock 17 avec auto mod, S&W Model 10, Sig Sauer p226 mk25
+⌨️ 🖱️ 15,11 € sur Steam ( http://cpc.cx/rlx ) et humble ( http://cpc.cx/rly )
+⚙️ le moteur du jeu est Unity
+⏩ speedrun de Receiver (le premier) : any% en 4m 49s → https://www.youtube.com/watch?v=R3kdvQe6zRY
+
+excuses de sac :
+- pour les échelles, on est tributaire de l'inertie du jeu
+
+World of Guns: Gun Disassembly, gratuit sur Steam → https://store.steampowered.com/app/262410/
+
+🕹️ Polybius est un jeu d'arcade mythique, qui n'a jamais existé, supposé vous hypnotiser ; regardez ce documentaire web extraordinaire de Ahoy → https://www.youtube.com/watch?v=_7X6Yeydgyg
+
+
 😷 Gamekult et le COVID-19 → http://cpc.cx/qW3
-📅 le programme de la semaine → http://cpc.cx/rcF
-📅 vendredi 17:30, Industries of Titan
+👑 contenu Premium offert → http://cpc.cx/rjf
+📅 le programme de la semaine → http://cpc.cx/rls
+📅 mardi 14:30 à 17:00, Filament
+📅 mercredi 17:30, Trials of Mana
+📅 jeudi 17:30, Cloudpunk
+📅 vendredi 17:30, Predator: Hunting Grounds
 📺 samedi matin, Gamekult l'émission, en accès libre
 
 ⚠️ Attention ⚠️ baissez le son de Twitch car Puyo va PARLER 🔊
