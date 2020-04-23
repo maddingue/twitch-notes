@@ -6572,23 +6572,16 @@ développé par Beard Envy, studio de trois barbus basé à Londres, Royaume-Uni
 Trials of Mana, disponible le 24 avril sur Switch, PlayStation 4 et Windows
 développé par Square Enix 🇯🇵 → https://TrialsOfMana.square-enix-games.com/fr
 🎮 démo gratuite sur eShop, PSN ( http://cpc.cx/rlK ) et Steam
+🎮 37 € chez Auchan, 50 € en grande distribution
 🎮 50 € sur eShop ( http://cpc.cx/rlL ) et PSN ( http://cpc.cx/rlM )
 ⌨️ 🖱️ 50 € sur Steam ( http://cpc.cx/rlN )
 📜 preview par Puyo du 14 septembre 2019 → http://cpc.cx/rlI
+📜 6/10 par Puyo → http://cpc.cx/rl
 ⚙️ le moteur du jeu est Unreal Engine 4
-⚠️ Attention ⚠️ baissez le son de Twitch car Puyo va PARLER 🔊
 
+聖剣伝説 2 / Seiken Densetsu 2 / Secret of Mana, originellement sorti en novembre 1994 sur Super Nintendo
 聖剣伝説 3 / Seiken Densetsu 3, originellement sorti en septembre 1995 sur Super Nintendo
 🎶 musiques par Hiroki Kikuta
-
-
-😷 Gamekult et le COVID-19 → http://cpc.cx/qW3
-📱 Juste un Doigt → http://cpc.cx/rm9
-👑 contenu Premium offert → http://cpc.cx/rjf
-📅 le programme de la semaine → http://cpc.cx/rls
-📅 jeudi 17:30, Cloudpunk
-📅 vendredi 17:30, Predator: Hunting Grounds
-📺 samedi matin, Gamekult l'émission, en accès libre
 
 --------------------------------------
 2020-04-23 - Cloudpunk
@@ -6596,7 +6589,11 @@ développé par Square Enix 🇯🇵 → https://TrialsOfMana.square-enix-games.
 Cloudpunk, disponible depuis aujourd'hui 23 avril sur Windows
 annoncé sur Switch, PlayStation 4 et Xbox One plus tard dans l'année, portage par Merge Games → https://www.MergeGames.com/cloudpunk
 développé par Ion Lands (Phoning Home), studio basé à Berlin, Allemagne 🇩🇪 → http://www.IonLands.com
-⌨️ 🖱️ Steam ( http://cpc.cx/rlJ )
+⌨️ 🖱️ 18 € sur Steam ( http://cpc.cx/rlJ )
+🎶 musiques par Harry Critchley, 9 € sur Steam → http://cpc.cx/rnr
+📜 6/10 par Noddus (test disponible demain)
+⚙️ le moteur du jeu est Unity
+durée de vie : ~9 h
 
 --------------------------------------
 2020-04-24 - Predator: Hunting Grounds
@@ -6607,6 +6604,15 @@ développé par IllFonic (Friday the 13th, Dead Alliance), studio d'enrivon 80 p
 🎮 40 € sur PSN ( http://cpc.cx/rlG )
 ⌨️ 🖱️ 40 € sur EGS ( http://cpc.cx/rlF )
 ⚙️ le moteur du jeu est Unreal Engine 4
+
+
+😷 Gamekult et le COVID-19 → http://cpc.cx/qW3
+📱 Juste un Doigt → http://cpc.cx/rm9
+👑 contenu Premium offert → http://cpc.cx/rjf
+📅 le programme de la semaine → http://cpc.cx/rls
+📅 vendredi 17:30, Predator: Hunting Grounds
+📺 samedi matin, Gamekult l'émission, en accès libre
+📅 la semaine prochaine, présentation des jeux de la Arte Game Jam
 
 ⚠️ Attention ⚠️ baissez le son de Twitch car Puyo va PARLER 🔊
 ⭐ Luma ⭐
