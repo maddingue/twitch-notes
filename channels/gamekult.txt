@@ -6596,7 +6596,22 @@ développé par Ion Lands (Phoning Home), studio basé à Berlin, Allemagne 🇩
 durée de vie : ~9 h
 
 --------------------------------------
-2020-04-24 - Predator: Hunting Grounds
+2020-04-24 - XCOM Chimera Squad, Predator: Hunting Grounds
+
+XCOM: Chimera Squad, disponible depuis le 24 avril 2020 sur Windows
+développé par Firaxis Games, studio d'environ 160 personnes, filiale de 2K, basé à Sparks (Baltimore), Maryland, USA 🇺🇸 → https://www.xcom.com/
+⌨️ 🖱️ 10 € sur Steam ( http://cpc.cx/rnN ) et Humble ( http://cpc.cx/rnO ), promotion de lancement à -50%
+⌨️ 🖱️ 9 € sur GamesPlanet ( http://cpc.cx/rnP ), 8,80 € sur GameBillet ( http://cpc.cx/rnQ )
+🎶 musiques par Phill Boucher → https://PhillBoucher.com/
+
+d'après 2K, le bas prix est là pour attirer de nouveaux joueurs à la série XCOM
+officiellement, le jeu n'est pas prévu pour un portage sur consoles, tablettes ou mobiles
+Gautoz fera peut-être un test la semaine prochaine s'il a le temps
+
+XCOM: Enemy Unknown, sorti en octobre 2012, 5 € sur Steam → https://store.steampowered.com/app/200510/
+XCOM: Enemy Within, sorti en novembre 2013, 6,24 € sur Steam → https://store.steampowered.com/app/225340/
+XCOM 2, sorti en février 2016, 12,50 € sur Steam https://store.steampowered.com/app/268500/
+
 
 Predator: Hunting Grounds, disponible depuis aujourd'hui 24 avril sur PlayStation 4 et Windows
 développé par IllFonic (Friday the 13th, Dead Alliance), studio d'enrivon 80 personnes basé à Golden, Colorado, USA 🇺🇸 → https://predator.illfonic.com/
@@ -6604,6 +6619,9 @@ développé par IllFonic (Friday the 13th, Dead Alliance), studio d'enrivon 80 p
 🎮 40 € sur PSN ( http://cpc.cx/rlG )
 ⌨️ 🖱️ 40 € sur EGS ( http://cpc.cx/rlF )
 ⚙️ le moteur du jeu est Unreal Engine 4
+
+excuses de sac de Noddus :
+- je parlais, donc je n'ai pas vu la touche pour le méga jump
 
 
 😷 Gamekult et le COVID-19 → http://cpc.cx/qW3
