@@ -6624,16 +6624,89 @@ excuses de sac de Noddus :
 - je parlais, donc je n'ai pas vu la touche pour le méga jump
 
 
+--------------------------------------
+2020-04-27 - Le Seigneur des Anneaux : La Bataille pour la Terre du Milieu II
+
+Le Seigneur des Anneaux : La Bataille pour la Terre du Milieu II, sorti le 2 mars 2006 sur Windows et le 13 juillet 2006 sur Xbox 360
+développé par EA Los Angeles (Medal of Honor)
+🙅 jeu disponible nulle part légalement car la licence d'EA a expiré en 2010
+⚙️ le moteur du jeu est SAGE (Strategy Action Game Engine), développé par Westwood
+⚙️ Edain mod pour améliorer le jeu → https://www.moddb.com/mods/edain-mod
+👥 site de la communauté francophone sur le jeu → https://www.LaTerreDuMilieu.fr/
+💬 serveur Discord de la communauté internationale du jeu → https://discord.gg/jjwmCr
+📜 6/10 GK par Poischich → http://cpc.cx/rpt | 16/20 JVC → http://cpc.cx/rpw
+
+The Battle for Middle-earth: Reforged, projet amateur de reconstruction du jeu → https://bfmereforged.org/
+
+--------------------------------------
+2020-04-28 - retour sur la ARTE Game Jam, Gears Tactics
+
+📰 Journal de bord de la ARTE Game Jam → http://cpc.cx/qTW
+🎮 retrouvez les jeux sur https://itch.io/jam/arte-game-jam/entries
+
+reportage de Tivenla sur la réalisation de Mail Day : https://www.youtube.com/watch?v=7HOsjaN_0nc et https://www.youtube.com/watch?v=_JU-tHaoqZA
+
+7 seconds to process, de l'équipe 2
+Mail Day 📫, de l'équipe 8
+Erase Screen, de l'équipe 3
+7 Generations, de l'équipe 6
+The Curse of Seth, de l'équipe 14, à distance
+Match me if you can, de l'équipe 7
+7 rays, de l'équipe 20, à distance
+The Magnificent 7 Shrimps 🦐, de l'équipe 4
+
+Gears Tactics, disponible depuis aujourd'hui sur Windows, annoncé pour plus tard sur Xbox One
+développé par Splash Damage (multis de Gears of War 4 & 5) [📍Londres, Royaume-Uni 🇬🇧] et The Coalition (Gears of War 4 & 5) [📍Vancouver, Canada 🇨🇦]
+🎮 70 € sur XBL ( http://cpc.cx/rpy ), inclus dans le Xbox Game Pass (1 € le premier mois)
+⌨️ 🖱️ 70 € sur Steam ( http://cpc.cx/rpx )
+📜 7/10 par Gautoz → http://cpc.cx/rpD
+
+résumé de l'histoire : Sur la planète Sera, les humains, après 79 années de multiples guerres autour de l'exploitation de la substance précieuse imulsion, forment une coalition pour faire face à une nouvelle menace : les Locustes, qui jaillissent des entrailles de Sera. C'est le jour E, le jour de la première Émergence. Gears Tactics commence 2 ans après, le premier Gears of War se déroule 14 ans après.
+
+--------------------------------------
+2020-04-29 - retour sur la ARTE Game Jam
+
+📰 Journal de bord de la ARTE Game Jam → http://cpc.cx/qTW
+🎮 retrouvez les jeux sur https://itch.io/jam/arte-game-jam/entries
+
+
 😷 Gamekult et le COVID-19 → http://cpc.cx/qW3
-📱 Juste un Doigt → http://cpc.cx/rm9
 👑 contenu Premium offert → http://cpc.cx/rjf
-📅 le programme de la semaine → http://cpc.cx/rls
-📅 vendredi 17:30, Predator: Hunting Grounds
+🛸 Sous le radar sur The Procession to Calvary → http://cpc.cx/rpI
+📱 Juste un Doigt → http://cpc.cx/rm9
+⛩️ Gaijin Dash sur Final Fantasy VII Remake
+🎶 Gammes Kultes sur Streets of Rage 3
+📅 le programme de la semaine → http://cpc.cx/rpr
+📅 jeudi 17:30, Legends of Runeterra
+📅 jeudi 18:45, Streets of Rage 4
 📺 samedi matin, Gamekult l'émission, en accès libre
-📅 la semaine prochaine, présentation des jeux de la Arte Game Jam
+📻️ dimanche après-midi, de 14:00 à 19:00, Radio GK avec DJ Gautoz
+
+--------------------------------------
+2020-04-30 - Legends of Runeterra, Streets of Rage 4
+
+Legends of Runeterra, disponible sur Android, iOS et Windows
+développé par Riot Games (League of Legends)
+gratuit sur le site du jeu → https://PlayRuneterra.com/
+📜 preview par Noddus (16 octobre 2019) → http://cpc.cx/rpT
+
+Streets of Rage 4, sortie le 30 avril 2020 sur Switch, PlayStation 4, Xbox One et Windows
+développé par Lizardcube (Wonder Boy: The Dragon's Trap) [2 personnes, 📍Paris, France 🇫🇷] et Guard Crush Games (Streets of Fury EX) [2 personnes, 📍Montréal, Canada 🇨🇦] → https://www.Streets4Rage.com/
+🎮 éditions physiques par Limited Run → http://cpc.cx/rpR
+🎮 25 € sur eShop ( http://cpc.cx/rpN )
+⌨️ 🖱️ 25 € sur Steam ( http://cpc.cx/rpP ), Humble ( http://cpc.cx/rpO ) et GOG ( http://cpc.cx/rpQ )
+🎶 musiques par Olivier Derivière, Yuzo Koshiro / 古代祐三, Motohiro Kawashima / 川島基宏, Yoko Shimomura / 下村陽子, Keiji Yamagishi / 山岸継司, Harumi Fujita / 藤田晴美, Scattle, Das mörtal, XL Middleton et Groundislava
+📜 preview par Pipomantis (22 octobre 2018) → http://cpc.cx/rpJ
+
+Moving Out, sortie le 28 avril 2020 sur Switch, PlayStation 4, Xbox One et Windows
+développé par SMG Studio (OTTD, Risk, des jeux mobiles), studio indé à Sydney et Melbourne, Australie 🇦🇺 → https://SMGStudio.com/movingout/
+codéveloppé avec DevM (jeux mobiles), studio indé à Stockholm, Suède 🇸🇪
+🎮 démo gratuite disponible sur eShop, PSN, XBL et Steam
+🎮 25 € sur eShop ( http://cpc.cx/rpK ), PSN et XBL ( http://cpc.cx/rpL )
+⌨️ 🖱️ 23 € sur Steam ( http://cpc.cx/qMv ), Humble ( http://cpc.cx/qMw )
 
 ⚠️ Attention ⚠️ baissez le son de Twitch car Puyo va PARLER 🔊
-⭐ Luma ⭐
+⭐Luma⭐
 
 📢 @GamekultLive il est 17:00 🕔
 📢 @GamekultLive il est 17:30 🕠
