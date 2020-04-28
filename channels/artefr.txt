@@ -13,11 +13,11 @@ stream de 11:00
 - équipe 2, Jeanne & Jean : 7 seconds to process, 7 mini jeux de 7 secondes
   le mentor de l'équipe 2 : Marta Fijak, game designer chez 11 bit Studios (Frostpunk), basé en Pologne 🇵🇱 → http://www.11bitstudios.com/
 
-- équipe 3, Hugo & Teninke : on incarne quelqu'un avec une mémoire à court terme, qui ne retient que 7 éléments
+- équipe 3, Hugo & Teninke : Erase Screen, on incarne quelqu'un avec une mémoire à court terme, qui ne retient que 7 éléments
   le mentor de l'équipe 3 : Claudia Molinari, directrice artistique, cofondatrice de We Are Müsli, basé à Milan, Italie 🇮🇹 → https://www.WeAreMuesli.it/
 
 - équipe 4 : Théo & Zoe : la crevette (shrimp) 🦐, 7 crevettes, pour en faire un genre de jeu de rythme
-  le mentor de l'équipe 4 : Zoe Nguyen Thanh, directrice artistique franco-américaine qui a travaillé dans l'animation et les jeux indépendants, ainsiq ue des projets comme Motus Move → https://www.MotusMove.eu/
+  le mentor de l'équipe 4 : Zoe Nguyen Thanh, directrice artistique franco-américaine qui a travaillé dans l'animation et les jeux indépendants, ainsi que des projets comme Motus Move → https://www.MotusMove.eu/
   Type:Rider → http://typerider.arte.tv/
 
 
@@ -25,7 +25,7 @@ stream de 16:30
 - équipe 5 : Diana & Utz : seven minutes in Hell, interaction avec le chat Twitch
   le mentor de l'équipe 5 : Utz Stauder, cofondateur du studio Ludopium (Vectronom), basé à Cologne, Allemagne 🇩🇪 → http://www.ludopium.com/
 
-- équipe 6 : Justine & Mina : un genre de Flappy Bird multi en tour par tour
+- équipe 6 : Justine & Mina : 7 Generations, un genre de Flappy Bird multi en tour par tour
   le mentor de l'équipe 6 : Frédéric Coispeau, directeur créatif chez Le Cartel (Mother Russia Bleeds, Heave Ho), studio basé à Paris, France 🇫🇷 → https://leCartelStudio.fr/
 
 - équipe 7 : Florence & Tristan : le speed dating en 7 sec, répondre à des questions en QTE, 7 personnages, 7 fins différentes par personnage
