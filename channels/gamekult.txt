@@ -6682,15 +6682,24 @@ autre gros argument de SnowRunner, les licences : Caterpillar, Pacific, Internat
 Legends of Runeterra, disponible sur Android, iOS et Windows
 développé par Riot Games (League of Legends)
 gratuit sur le site du jeu → https://PlayRuneterra.com/
-📜 preview par Noddus (16 octobre 2019) → http://cpc.cx/rpT
+📜 8/10 par Pipomantis → http://cpc.cx/rpT
 
-Streets of Rage 4, sortie le 30 avril 2020 sur Switch, PlayStation 4, Xbox One et Windows
+
+Streets of Rage 4, disponible aujourd'hui sur Switch, PlayStation 4, Xbox One et Windows
 développé par Lizardcube (Wonder Boy: The Dragon's Trap) [2 personnes, 📍Paris, France 🇫🇷] et Guard Crush Games (Streets of Fury EX) [2 personnes, 📍Montréal, Canada 🇨🇦] → https://www.Streets4Rage.com/
 🎮 éditions physiques par Limited Run → http://cpc.cx/rpR
-🎮 25 € sur eShop ( http://cpc.cx/rpN )
-⌨️ 🖱️ 25 € sur Steam ( http://cpc.cx/rpP ), Humble ( http://cpc.cx/rpO ) et GOG ( http://cpc.cx/rpQ )
+🎮 22,50 € sur eShop ( http://cpc.cx/rpN )
+🎮 25 € PSN ( http://cpc.cx/rrw ) et XBL ( http://cpc.cx/rrv ) inclus dans le Xbox Game Pass
+⌨️ 🖱️ 22,50 € sur Steam ( http://cpc.cx/rpP ), Humble ( http://cpc.cx/rpO ) et GOG ( http://cpc.cx/rpQ )
 🎶 musiques par Olivier Derivière, Yuzo Koshiro / 古代祐三, Motohiro Kawashima / 川島基宏, Yoko Shimomura / 下村陽子, Keiji Yamagishi / 山岸継司, Harumi Fujita / 藤田晴美, Scattle, Das mörtal, XL Middleton et Groundislava
-📜 preview par Pipomantis (22 octobre 2018) → http://cpc.cx/rpJ
+🎶 musiques du jeu à 10 $ sur Bandcamp → http://cpc.cx/rru
+📜 8/10 par Motormike → http://cpc.cx/rpJ
+👥 coop à 4 en local, à 2 en ligne, à 4 sur Steam via Remote Play Together
+
+le tweet avec le 30 hit combo de Blaze → https://twitter.com/Silvius_Sama/status/1255786064704352256
+
+excuses de sac de Puyo :
+- je joue avec la latence du stream
 
 Moving Out, sortie le 28 avril 2020 sur Switch, PlayStation 4, Xbox One et Windows
 développé par SMG Studio (OTTD, Risk, des jeux mobiles), studio indé à Sydney et Melbourne, Australie 🇦🇺 → https://SMGStudio.com/movingout/
@@ -6699,14 +6708,20 @@ codéveloppé avec DevM (jeux mobiles), studio indé à Stockholm, Suède 🇸�
 🎮 25 € sur eShop ( http://cpc.cx/rpK ), PSN et XBL ( http://cpc.cx/rpL )
 ⌨️ 🖱️ 23 € sur Steam ( http://cpc.cx/qMv ), Humble ( http://cpc.cx/qMw )
 
-😷 Gamekult et le COVID-19 → http://cpc.cx/qW3
-👑 contenu Premium offert → http://cpc.cx/rjf
 🛸 Sous le radar sur The Procession to Calvary → http://cpc.cx/rpI
 📱 Juste un Doigt → http://cpc.cx/rm9
-⛩️ Gaijin Dash sur Final Fantasy VII Remake
+⛩️ Gaijin Dash sur Final Fantasy VII Remake → http://cpc.cx/rrg
+
+--------------------------------------
+2020-05-03 - RadioGK 📻️
+
+📻️ Radio GK 🎶 après-midi détente avec DJ Gautoz 🎛️
+
+
+😷 Gamekult et le COVID-19 → http://cpc.cx/qW3
+👑 contenu Premium offert → http://cpc.cx/rjf
 🎶 Gammes Kultes sur Streets of Rage 3
 📅 le programme de la semaine → http://cpc.cx/rpr
-📅 jeudi 18:45, Streets of Rage 4
 📺 samedi matin, Gamekult l'émission, en accès libre
 📻️ dimanche après-midi, de 14:00 à 19:00, Radio GK avec DJ Gautoz
 
