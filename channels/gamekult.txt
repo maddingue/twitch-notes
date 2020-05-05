@@ -6729,12 +6729,21 @@ excuses de sac :
 - je crois qu'il y a des petits soucis de perspective (Florian)
 
 --------------------------------------
-2020-05-05 - Wintermoor Tactics Club
+2020-05-05 - Wintermoor Tactics Club (annulé), TROUBLESHOOTER: Abandoned Children
 
 Wintermoor Tactics Club, disponible aujourd'hui sur Switch, PlayStation 4, Xbox One et Windows
 développé par EVC Games, studio de 6 personnes basé à Seattle, Washington, USA 🇺🇸 → https://www.WintermoorTC.com/
 https://evcg.io/
 ⌨️ 🖱️ Steam ( http://cpc.cx/ru8 )
+
+TROUBLESHOOTER: Abandoned Children, disponible depuis le 23 avril 2020 sur Windows
+développé depuis 2016 par Dandylion, studio de 6 personnes basé à Séoul, Corée du Sud 🇰🇷 → http://www.dandylion.co.kr/
+⌨️ 🖱️ 23 € sur Steam ( http://cpc.cx/ruC )
+⚙️ le moteur du jeu est OGRE 3D, un moteur libre → https://www.ogre3d.org/
+🎶 musiques par Ethan Jeffrey, KevinM, Drogo, KiHyun Lee et Team UrbanMonster
+
+--------------------------------------
+2020-05-06 - 
 
 
 😷 Gamekult et le COVID-19 → http://cpc.cx/qW3
@@ -6744,12 +6753,8 @@ https://evcg.io/
 📰️ Presse au Kult
 🛸 Sous le radar sur The Flower Collectors → http://cpc.cx/rtZ
 📅 le programme de la semaine → http://cpc.cx/rtQ
-📅 mercredi 17:30, jeu mystère
 📅 jeudi 17:00, Inside Xbox Series X
 📺 samedi matin, Gamekult l'émission, en accès libre
-
---------------------------------------
-2020-05-06 - 
 
 --------------------------------------
 2020-05-07 - Inside Xbox Series X
