@@ -6789,6 +6789,7 @@ les jeux présentés : Bright Memory / 光明记忆, DiRT 5, Scorn, Chorus, NFL 
 📰️ Presse au Kult → http://cpc.cx/ryt
 🛸 Sous le radar sur The Flower Collectors → http://cpc.cx/rtZ
 
+
 --------------------------------------
 2020-05-11 - Wintermoor Tactics Club
 
@@ -6796,12 +6797,32 @@ Wintermoor Tactics Club, disponible depuis le 5 mai 2020 sur Windows
 aussi annoncé sur Switch, PlayStation 4, Xbox One
 développé par EVC Games, studio de 6 personnes basé à Seattle, Washington, USA 🇺🇸 → https://www.WintermoorTC.com/
 https://evcg.io/
-🎮
 ⌨️ 🖱️ 13,50 sur Steam ( http://cpc.cx/ru8 ), Humble ( http://cpc.cx/ryv ) et GOG ( http://cpc.cx/ryw )
 ⌨️ 🖱️ 11,58 € sur GamesPlanet ( http://cpc.cx/ryx )
 
 excuses de sac de Luma :
 - le message d'alerte n'était vraiment pas ouf
+
+--------------------------------------
+2020-05-12 - Star Wars Racer sur Switch (annulé), Huntdown
+
+Star Wars Episode I: Racer, originellement sorti en 1999 sur Dreamcast, Nintendo 64, Windows, Mac
+🎮 xx € sur eShop (  )
+⌨️ 🖱️ 9 € sur GOG ( http://cpc.cx/pGs ), 8,20 € sur Steam ( http://cpc.cx/pGt )
+
+📺 documentaire de Noclip sur GOG et la préservation des jeux → https://www.youtube.com/watch?v=ffngZOB1U2A
+Star Wars Racer 2018 sur UE4 → https://robjin.artstation.com/projects/QznP58
+
+Huntdown, disponible depuis aujourd'hui sur Switch, PlayStation 4, Xbox One et Windows
+développé par Easy Trigger, studio de 6 personnes basé à Trollhättan, Suède 🇸🇪 → https://huntdown.com/
+🎮 20 € sur eShop ( http://cpc.cx/rzf ) et XBL ( http://cpc.cx/rze )
+⌨️ 🖱️ 20 €sur EGS ( http://cpc.cx/rzc ) -- l'an prochain sur Steam ( http://cpc.cx/rzd )
+à noter que le jeu sera aussi disponible en borne d'arcade 🕹️
+
+excuses de sac de Puyo :
+- le petit lag du boitier de capture n'arrange rien
+- j'ai regardé le tchat
+- j'ai pas le réflexe d'être bon
 
 😷 Gamekult et le COVID-19 → http://cpc.cx/qW3
 👑 contenu Premium offert → http://cpc.cx/rjf
@@ -6810,7 +6831,6 @@ excuses de sac de Luma :
 📱 Juste un Doigt
 🛸 Sous le radar
 📅 le programme de la semaine → http://cpc.cx/rys
-📅 mardi 17:30, Star Wars Racer sur Switch
 📅 mercredi 17:30, Alan Wake
 📅 jeudi 17:30, Before We Leave
 📅 vendredi 17:30, Dungeon of the Endless sur Switch
