@@ -6890,12 +6890,15 @@ Offworld Trading Company, 30 € sur Steam → https://store.steampowered.com/ap
 --------------------------------------
 2020-05-20 - Deep Rock Galactic
 
-Deep Rock Galactic, disponible en version finale depuis le 13 mai 2020 sur 
+Deep Rock Galactic, disponible en version finale depuis le 13 mai 2020 sur Xbox One et Windows
 après 15 mois d'alpha fermée et 26 mois d'accès anticipé
 développé par Ghost Ship Games, studio de 21 personnes basé à Copenhague, Danemark 🇩🇰 → https://www.DeepRockGalactic.com/
 🎮 30 € sur XBL ( http://cpc.cx/lqB )
 ⌨️ 🖱️ 30 € sur Steam ( http://cpc.cx/rCe ) et Humble ( http://cpc.cx/noz )
-📜 preview par Noddus du 6 mars 2018 → http://cpc.cx/rCd
+🎶 musiques par Sophus Alf Agerbæk-Larsen → http://cpc.cx/rD7
+🎧 podcast entretien avec Sophus Alf Agerbæk-Larsen → http://cpc.cx/rD8
+📜 8/10 par Noddus → http://cpc.cx/rCd
+💬 DRG FR 🇫🇷 → https://discord.me/drgfr
 ⚙️ le moteur du jeu est Unreal Engine 4
 
 📅 le programme de la semaine → http://cpc.cx/rys
