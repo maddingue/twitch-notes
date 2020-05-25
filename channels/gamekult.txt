@@ -6901,9 +6901,73 @@ développé par Ghost Ship Games, studio de 21 personnes basé à Copenhague, Da
 💬 DRG FR 🇫🇷 → https://discord.me/drgfr
 ⚙️ le moteur du jeu est Unreal Engine 4
 
-📅 le programme de la semaine → http://cpc.cx/rys
-📅 jeudi et vendredi, c'est relâche ! 🏖️
+
+--------------------------------------
+2020-05-25 - Atomicrops
+
+Atomicrops, disponible en accès anticipé depuis le 5 septembre 2019 sur Windows
+version finale le 28 mai 2020 sur Switch, PlayStation 4, Xbox One, Windows et Mac
+développé par Bird Bath Games, studio de trois personnes : Danny Wynne (code, Los Angeles, USA 🇺🇸), Toby Dixon (art, Toronto, Canada 🇨🇦) et Joonas Turner (son & musique, Sipoo, Finlande 🇫🇮) → https://www.atomicrops.com/
+🎮 15 € sur eShop ( http://cpc.cx/rF3 ), PSN et XBL ( http://cpc.cx/rF2 )
+⌨️ 🖱️ 12,74 € sur EGS ( http://cpc.cx/pt4 ), en septembre 2020 sur Steam ( http://cpc.cx/rF4 )
+📜 preview par Luma (13 septembre 2019) → http://cpc.cx/rF5
+🎶 musiques et sons par Joonas Turner : Nuclear Throne, Downwell, Broforce, Noita, ScourgeBringer
+🖍️ direction artistique par Toby Dixon, qui avait travaillé sur Nidhogg 2
+
+viL0u: Du coup des jeux de mots comme "Roquette lanceur" ou "Hache à la Mâche",
+viL0u: "Des légumes pour bons duels"
+viL0u: Vegetable Cropse \m/
+viL0u: 9 Inch Snail
+DocTRK: C'est très très Lapin Crottin
+
+excuses de sac de Luma :
+- la pression du direct, je fais des parties très moches
+
+--------------------------------------
+2020-05-26 - Minecraft Dungeons
+
+Minecraft Dungeons, disponible depuis aujourd'hui sur Switch, PlayStation 4, Xbox One et Windows
+développé par Mojang Studios (70 personnes, Stockholm, Suède 🇸🇪) et Double Eleven (100 personnes, Middlesbrough, Royaume-Uni 🇬🇧) → https://www.minecraft.net/fr-fr/about-dungeons
+🎮 20 € sur eShop ( http://cpc.cx/rF9 ), PSN et XBL ( http://cpc.cx/rF7 ), inclus dans le Game Pass
+⌨️ 🖱️ version Windows à 20 € sur XBL ( http://cpc.cx/rF8 ), inclus dans le Game Pass
+📜 preview par Noddus (15 juin 2019) → http://cpc.cx/rF6
+⚙️ le moteur du jeu est Unreal Engine 4
+
+📅 le programme de la semaine → http://cpc.cx/rF0
+📅 mercredi 17:30, Wilfdire
+📅 jeudi 17:30, Space Haven
+📅 vendredi 17:00, Xenoblade Chronicles Definitive Edition
 📺 samedi matin, Gamekult l'émission, en accès libre
+🏝️ Retro Island sur Moon Remix RPG Adventure → http://cpc.cx/rF1
+👾 Rétro Dash sur une série qui va vite
+🛸 Sous le radar sur Helltaker par ⭐Luma⭐ → http://cpc.cx/rFk
+
+--------------------------------------
+2020-05-27 - Wilfdire
+
+Wilfdire, disponible depuis hier 26 mai 2020 sur Windows
+développé par Dan Hindes / Sneaky Bastards, développeur australien 🇦🇺
+⌨️ 🖱️ Steam ( http://cpc.cx/rFl ) et Humble ( http://cpc.cx/rFm )
+
+--------------------------------------
+2020-05-28 - Space Haven
+
+Space Haven, disponible en accès anticipé depuis le 21 mai 2020 sur Windows, Mac et Linux
+développé par Bugbyte (Battlevoid: Harbinger & Sector Siege), studio de 3 personnes basé à Turku, Finlande 🇫🇮 → https://bugbyte.fi/spacehaven/
+⌨️ 🖱️ 19,80 € sur Humble (clés Steam + GOG http://cpc.cx/rFn )
+⌨️ 🖱️ 19,80 € sur Steam ( http://cpc.cx/rFl ) et GOG ( http://cpc.cx/rFo )
+🎶 musiques par Paul Zimmermann, 5 € sur Bandcamp → http://cpc.cx/rFy
+🎙️ chant par Scalefin → https://twitter.com/heyscalefin
+✍️ histoire par Philip R. Johnson / HamboneHFY (The Deathworlders) → https://www.facebook.com/HamboneHFY/
+
+--------------------------------------
+2020-05-29 - Xenoblade Chronicles Definitive Edition
+
+Xenoblade Chronicles Definitive Edition, disponible depuis aujourd'hui sur Switch
+développé par Monolith Soft / 株式会社モノリスソフト, filliale de Nintendo (248 employés, Japon 🇯🇵
+🎮 44,50 € chez Leclerc, 47 € chez Auchan, 53 € chez La Fnac
+🎮 60 € sur eShop ( http://cpc.cx/rFj )
+🎶 musiques par Manami Kiyota, Yoko Shimomura et ACE+ (Tomori Kudo, Hiroyo Yamanaka et Kenji Hiramatsu)
 
 ⚠️ Attention ⚠️ baissez le son de Twitch car Puyo va PARLER 🔊
 ⭐Luma⭐
