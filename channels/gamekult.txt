@@ -6965,12 +6965,30 @@ développé par Monolith Soft / 株式会社モノリスソフト, filliale de N
 
 originellement sorti en juin 2010 sur Wii au Japon 🇯🇵 et août 2011 en Europe 🇪🇺
 
-📅 le programme de la semaine → http://cpc.cx/rF0
-📅 vendredi 17:00, Xenoblade Chronicles Definitive Edition
-📺 samedi matin, Gamekult l'émission, en accès libre
 🏝️ Retro Island sur Moon Remix RPG Adventure → http://cpc.cx/rF1
 👾 Rétro Dash sur F-Zero → http://cpc.cx/rGY
 🛸 Sous le radar sur Helltaker par ⭐Luma⭐ → http://cpc.cx/rFk
+
+
+--------------------------------------
+2020-06-02 - Valorant
+
+📻️ Radio GK sauvage 🎶 avec DJ Noddus 🤪🎛️
+
+Valorant, béta depuis le 7 avril, version finale aujourd'hui, sur Windows
+développé par Riot Games (League of Legends), studio de plus de 2 500 personnes réparties sur 23 sites dans le monde
+⌨️ 🖱️ gratuit sur le site du jeu → https://PlayValorant.com/
+📜 preview par Noddus du 2 mars 2020 → http://cpc.cx/qNX
+
+Pour qui demande : Noddus était bloqué tout à l'heure par la maintenance, mais ça fonctionne pour lui. Ici ce n'est pas le support de Riot, donc ne demandez pas pourquoi ou comment il est connecté.
+
+📅 agenda des conférences JV de juin → http://cpc.cx/rJ1
+📅 le programme de la semaine → http://cpc.cx/rJ2
+📅 mercredi 17:30, Sludge Life
+📅 jeudi 17:30, Spacebase Startopia
+📅 vendredi 17:30, Command & Conquer Remastered
+📺 samedi matin, Gamekult l'émission, en accès libre
+🎶 Gammes Kultes
 
 ⚠️ Attention ⚠️ baissez le son de Twitch car Puyo va PARLER 🔊
 ⭐Luma⭐
@@ -7038,6 +7056,7 @@ bday:
 - Luma : 16 mars
 - Julien Strong : 20 mars
 - Faskill : 25 mars
+- Noddus : 2 juin
 - Gautoz : 27 juillet
 - Le Père Fidalbion : 28 novembre
 - Pipomantis : 2 décembre
