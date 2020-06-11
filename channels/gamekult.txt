@@ -7052,30 +7052,48 @@ par 日本ファルコム株式会社 / Nihon Falcom Corporation → http://Worl
 excuse de sac de Puyo :
 - je me trompe systématiquent de commande d'esquive
 
-📅 agenda des conférences JV de juin → http://cpc.cx/rJ1
-📅 le programme de la semaine → http://cpc.cx/rL5
-📅 mercredi 17:30, Monster Train
-📅 jeudi 17:30, Disintegration
-📅 vendredi 17:30, Desperados 3
-📺 samedi matin, Gamekult l'émission, en accès libre
-🎶 Gammes Kultes → http://cpc.cx/rL8
-⛩️ Gaijin Dash sur les 60 ans de Sega
-📱 Juste un Doigt
-
 --------------------------------------
-2020-06-10 - Monster Train
+2020-06-10 - Monster Train (annulé), Gunfire Reborn
 
 Monster Train 🚂💀👹👻😈, disponible depuis le 21 mai 2020 sur Windows
 développé par Shiny Shoe, studio indé basé à San Francisco, USA 🇺🇸 → https://www.TheMonsterTrain.com/
 ⌨️ 🖱️ 21 € sur Steam ( http://cpc.cx/qOZ ) et Humble ( http://cpc.cx/rLc )
 
+Gunfire Reborn 枪火重生, disponible en accès anticipé depuis le 23 mai 2020 sur Windows, pour 2 à 4 mois
+par Duoyi, studio basé à Hong Kong 🇭🇰 → https://gunfire.herojoys.com/en/
+⌨️ 🖱️ 10 € sur Steam ( http://cpc.cx/rMl )
+🐦 Twitter → http://cpc.cx/rMm | 📺 YouTube → http://cpc.cx/rMn
+
+Mothergunship, 25 € sur PSN ( http://cpc.cx/mkQ ), XBL ( http://cpc.cx/mkR ) et Steam ( http://cpc.cx/mkS )
+
+
+IGN Expo 2020 day 1
+
+jeux présentés :
+- ...
+- Observer Systsem Redux
+- ...
+
 --------------------------------------
-2020-06-11 - Disintegration
+2020-06-11 - Disintegration (annulé), PlayStation 5
 
 Disintegration, disponible le 16 juin 2020 sur PlayStation 4, Xbox One et Windows
 par V1 Interactive, studio indé d'une trentaine de personnes basé à Seattle, USA 🇺🇸 → https://www.DisintegrationGame.com/fr/
 🎮 50 € sur PSN et XBL ( http://cpc.cx/rLu )
 ⌨️ 🖱️ 50 € sur Steam ( http://cpc.cx/qyH ) et Humble Store ( http://cpc.cx/qyI )
+📜 4/10 par Noddus → http://cpc.cx/rMR
+
+IGN Expo 2020 day 2
+jeux présentés : XIII Remake, Foreclosed, The Iron Oath, Blankos, Stronghold Warloards, Spellbreak, Samurai Jack, Star Renegades, ...
+jeux présentés : XIII Remake (Microids), Foreclosed (Antab), The Iron Oath (Curious Panda), Blankos, Stronghold Warloards, Spellbreak (Proletariat), Samurai Jack, Star Renegades (Massive Damage), ...
+
+Sony PlayStation 5
+🕘 21:00 - prise d'antenne
+🕙 22:00 - Sony PlayStation 5
+📡 https://www.twitch.tv/playstation -- la conférence PlayStation 5 en direct
+
+jeux présentés : GTA 5 (offert au lancement), Spider-Man Miles Morales, Gran Turismo 7, Ratchet & Clank Rift Apart, Project Athia, Stray, Returnal, Sackboy A Big Adventure, Destruction Allstars, Kena Bridge of Spirits, Goodbye Volcano High, Oddworld Soulstorm, Ghostwire Tokyo, JETT the Far Shore, Godfall, Solar Ash, Hitman III, Astro's Playroom, Little Devil Inside, NBA 2K 2021, Bugsnax, Demon 's Souls, Deathloop, Resident Evil 8 Village, Pragmata, Horizon Forbidden West
+
 
 --------------------------------------
 2020-06-12 - Desperados III
@@ -7087,6 +7105,24 @@ par Mimimi (Shadow Tactics: Blades of the Shogun), studio d'une vingtaine de per
 ⌨️ 🖱️ 50 € sur Steam ( http://cpc.cx/rLw ), Humble ( http://cpc.cx/rLx ) et GOG ( http://cpc.cx/rLy )
 ⌨️ 🖱️ démo gratuite sur GOG ( http://cpc.cx/rLz )
 
+
+📅 agenda des conférences JV de juin → http://cpc.cx/rJ1
+📅 vendredi 12 juin, 22:30 🕥 IGN Expo 2020 day 3
+📅 samedi 13 juin, 18:00 🕕 Guerrilla Collectives
+📅 samedi 13 juin, 21:00 🕘 PC Gaming Show
+📅 samedi 13 juin, 23:30 🕦 Future Games Show
+📅 lundi 15 juin, 21:30 🕤 IGN Expo 2020 day 4
+📅 mardi 16 juin, 18:00 🕕 Upload VR Showcase Summer Edition
+📅 vendredi 19 juin, 01:00 🕐 EA Play Live
+📅 lundi 22 juin, 17:00 🕔 Days of the Devs
+📅 mardi 22 juin, 17:00 🕔 NGPX - New Game + Expo 
+
+📅 le programme de la semaine → http://cpc.cx/rL5
+📅 vendredi 17:30, Desperados 3
+📺 samedi matin, Gamekult l'émission, en accès libre
+🎶 Gammes Kultes → http://cpc.cx/rL8
+⛩️ Gaijin Dash sur les 60 ans de Sega → http://cpc.cx/rMq
+📱 Juste un Doigt
 
 ⚠️ Attention ⚠️ baissez le son de Twitch car Puyo va PARLER 🔊
 ⭐Luma⭐
