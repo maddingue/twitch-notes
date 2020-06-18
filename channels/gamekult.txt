@@ -7382,14 +7382,21 @@ par Echtra, studio d'une trentaine de personnes basé à San Francisco, USA 🇺
 excuse de sac de Noddus :
 - ce micro n'est pas bien vissé
 
+--------------------------------------
+2020-06-18 - Among Trees
+
+Among Trees 🌲, disponible en accès anticipé depuis le 13 juin 2020 sur Windows
+version finale dans au moins 10 mois, annoncée sur PlayStation 4 et Mac
+par FJRD Interactive, petit studio basé en Suède 🇸🇪 → https://www.AmongTreesGame.com/
+⌨️ 🖱️ 13,60 € sur EGS ( http://cpc.cx/rPN ), dans 15 mois sur Steam ( http://cpc.cx/rPM )
+📑 feuille de route → https://amongtreesgame.com/roadmap
+
 
 📅 agenda des conférences JV de juin → http://cpc.cx/rJ1
-📅 vendredi 19 juin, 01:00 🕐 EA Play Live
 📅 lundi 22 juin, 17:00 🕔 Days of the Devs
 📅 mardi 23 juin, 17:00 🕔 NGPX - New Game + Expo 
 
 📅 le programme de la semaine → http://cpc.cx/rOi
-📅 jeudi 17:30, Among Trees
 📅 vendredi 01:00, conférence EA Play Live
 📅 vendredi 17:30, The Last of Us Part II
 📺 samedi matin, Gamekult l'émission
