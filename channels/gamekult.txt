@@ -7614,10 +7614,25 @@ jeu originel sorti en septembre 1997 sur PlayStation, DOS et Windows
 ⌨️ 🖱️ 3 € sur Steam ( http://cpc.cx/rX6 ), 5,50 € sur GOG ( http://cpc.cx/rX7 )
 
 --------------------------------------
-2020-07-07 - ???
+2020-07-07 - Townscaper, helionaut
 
-???
+Townscaper, disponible en accès anticipé depuis me 30 juin 2020 sur Windows
+par Oskar Stålberg, développeur basé à Malmö, Suède 🇸🇪 → https://OskarStalberg.com/game/house/index.html
+⌨️ 🖱️ 5 € sur Steam ( http://cpc.cx/rXv )
 
+helionaut, disponible depuis le 10 juin 2020 sur Windows et Mac
+par Sokpop, collectif de quatre développeurs néerlandais, à Ultrecht 🇳🇱 → https://sokpop.co/
+⌨️ 🖱️ 3 € sur Steam ( http://cpc.cx/rXw ), 3 $ sur itch.io ( http://cpc.cx/rXx )
+📜 article de Noddus sur le collectif Sokpop → http://cpc.cx/rXz
+📺 GK Live du 20 janvier 2020 sur les jeux Sokpop → http://cpc.cx/rXy
+
+--------------------------------------
+2020-07-08 - Mists of Noyah
+
+Mists of Noyah, disponible en accès anticipé depuis le 27 mai 2020 sur Windows et Mac
+version finale dans au moins un an, un peu plus chère
+par Pyxeralia, studio de 7 personnes basé au Brésil 🇧🇷 → https://MistsOfNoyah.com
+⌨️ 🖱️ 16,80 € sur Steam ( http://cpc.cx/rXa )
 
 
 📅 le programme de la semaine → http://cpc.cx/rX0
@@ -7630,18 +7645,11 @@ jeu originel sorti en septembre 1997 sur PlayStation, DOS et Windows
 📜 premier article d'une série d'été consacrée à une console légendaire
 
 --------------------------------------
-2020-07-08 - Mists of Noyah
-
-Mists of Noyah, disponible en accès anticipé depuis le 27 mai 2020 sur Windows et Mac
-par Pyxeralia, studio de 7 personnes basé au Brésil 🇧🇷 → https://MistsOfNoyah.com
-⌨️ 🖱️ 16,80 € sur Steam ( http://cpc.cx/rXa )
-🎶 musique par Mike Morasky
-
---------------------------------------
 2020-07-09 - Team Fortress 2
 
 Team Fortress 2, sorti en octobre 2007 sur Xbox 360 et Windows, en janvier 2008 sur PlayStation 3, en juin 2010 sur Mac, en février 2013 sur Linux
 ⌨️ 🖱️ gratuit sur Steam ( http://cpc.cx/rXc )
+🎶 musique par Mike Morasky
 📜 8/10 par Chocapic → http://cpc.cx/rXd
 
 --------------------------------------
