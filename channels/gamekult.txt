@@ -7766,6 +7766,10 @@ par Ronimo Games (Awesomenauts, Swords And Soldiers II), studio d'une vingtaine 
 ⌨️ 🖱️ page Steam ( http://cpc.cx/s2R )
 https://devolverdigital.com/games/blightbound
 
+excuses de sac :
+- la roulade a une cooldown (Florian)
+- le netcode part en sucette (Florian)
+
 --------------------------------------
 2020-07-22 - Creaks (annulé)
 
