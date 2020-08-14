@@ -8040,10 +8040,60 @@ excuses de sac :
 - c'est pas mon main (Puyo)
 - mon parasol s'est envolé en plein match (Sbebiwan sur Twitter)
 
+--------------------------------------
+2020-08-13 - Double Kick Heroes
+
+Double Kick Heroes, version finale aujourd'hui sur Switch, Windows et Mac, le 28 août sur Xbox One
+après 2 ans et 4 mois d'accès anticipé (11 avril 2018)
+par Headbang Club 🤘, studio français 🇫🇷 de 4 personnes → http://DoubleKickHeroes.rocks/
+🎮 22 € sur eShop ( http://cpc.cx/seX ) et XBL ( http://cpc.cx/seY )
+⌨️ 🖱️ 20 € sur Steam ( http://cpc.cx/seZ ), Humble ( http://cpc.cx/sf0 ) et GOG ( http://cpc.cx/lKp )
+⌨️ 🖱️ démo gratuite sur itch.io ( http://cpc.cx/lHT )
+🎶 musiques par elmobo, 10 € chaque volume sur Bandcamp : vol.1 ( http://cpc.cx/sf1 ), vol.2 ( http://cpc.cx/sf2 )
+💬 le Discord du jeu → https://discord.gg/hM5P3r
+
+développeurs du jeu présents :
+- gyhyom est le « badass pink shirt equiped pixel artist »
+- blackmag_c est le « Demon Lord of Code »
+
+excuse de sac :
+- je lisais le chat en même temps (Puyo)
+- c'est une transition de fun, pas un générique (Hubert)
+
+--------------------------------------
+2020-08-14 - Flight Simulator, There Is No Game: Wrong Dimension, UFC 4
+
+✈️ Flight Simulator, disponible à partir du 18 août à minuit sur Windows
+par Asobo Studio (A Plague Tale, des jeux Disney), studio d'environ 180 personnes basé à Bordeaux, France 🇫🇷 → https://www.FlightSimulator.com/
+⌨️ 🖱️ 70 € ou plus, inclus dans le Xbox Game Pass → http://cpc.cx/s5x
+📜 preview par Noddus → http://cpc.cx/s6I
+📜 compatibilité VR → http://cpc.cx/s6K
+📺 impressions vidéo de Noddus → https://youtube.com/watch?v=CPtynCieiw4
+📺 impressions vidéo de ackboo (Canard PC) → https://youtube.com/watch?v=uLXG9Ld_FIA
+🕹️ sélection des meilleurs périphériques de vol pour Flight Simulator → http://cpc.cx/sez
+📔 guide d'achat des joysticks sur Gamekult → https://www.gamekult.com/actualite/simulations-quel-joystick-choisir-142811.html
+📺 chaîne YouTube du jeu → https://youtube.com/c/MicrosoftFlightSimulator/videos
+la modélisation de Fort Boyard → https://twitter.com/Noddus_/status/1288743666190888960
+jouer en ligne et gratuitement aux tous premiers Flight Simulator → https://s-macke.github.io/FSHistory/
+📡 sites de suivi temps réel du trafic aérien → https://flightradar24.com/ | https://planemapper.com/ | https://planefinder.net/
+i7 7700K @ 4,2 GHz, 2080, 35 Go DDR4
+
+excuses de sac :
+- quand j'étais en anglais, j'y arrivais (Noddus, le joueur français mais pas trop)
+
+There Is No Game: Wrong Dimension, disponible depuis le 6 août 2020 sur Windows et Mac
+par Draw Me A Pixel, développeur français à Villeurbanne 🇫🇷 → https://twitter.com/DrawMeAPixel
+⌨️ 🖱️ 13 € sur Steam ( http://cpc.cx/sfo )
+⌨️ 🖱️ version Game Jam gratuite sur Steam ( http://cpc.cx/sfn )
+
+
+🥊 UFC 4, disponible depuis aujourd'hui sur PlayStation 4 et Xbox One
+🎮 70 € sur PSN ( http://cpc.cx/sfp ) et XBL ( http://cpc.cx/sfq )
+🎮 essai gratuit avec EA Access
+📜 4/10 par Noddus → http://cpc.cx/sfv
 
 
 📅 le programme de la semaine → http://cpc.cx/sdT
-📅 jeudi 17:30, Double Kick Heroes
 📅 vendredi 17:30, There is No Game
 📜 L'histoire de la Dreamcast → http://cpc.cx/rYO
 🕹️ sélection des meilleurs périphériques de vol pour Flight Simulator → http://cpc.cx/sez
