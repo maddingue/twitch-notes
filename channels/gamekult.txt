@@ -8545,27 +8545,40 @@ le site du jeu → https://www.SeaOfThieves.com/
 --------------------------------------
 2020-09-24 - Gaijin Dash TGS 2020, Serious Sam 4
 
-Gaijin Dash TGS 2020
+⛩️ Gaijin Dash - 東京ゲームショウ Tokyo Game Show 2020
 📅 13:30 🕜 prise d'antenne
 📅 14:00 🕑 東京ゲームショウ Tokyo Game Show 2020
-🌐 site web → https://tgs.nikkeibp.co.jp/tgs/2020/
+🌐 site du TGS 2020 → https://tgs.nikkeibp.co.jp/tgs/2020/
 📡 stream japonais 🇯🇵 → https://twitch.tv/tokyogameshow1 | https://youtube.com/channel/UClFyIegrk4g6CFqGYCwTViA
 📡 stream anglais 🇬🇧 → https://twitch.tv/tokyogameshow6
+
+vidéo en cours : Balade dans Akihabara, quartier légendaire (octobre 2014) → http://cpc.cx/sD7
+
+excuses de sac :
+- c'est ce PC qui n'est pas à l'heurea (Puyo)
+
+Xbox :
+- ???
+- Flight Simulator
+- Minecraft RTX
+- Balan Wonderland
+- Resident Evil 8 Village par Capcom (2021)
+- Pragmata (2022)
+- Puyo Puyo Tetris 2
+- Tetris Effect
+- Bright Memory / 光明记忆
+- R-Type Final 2 (Granzella)
+- RPG TIME The Legend of Wright (2020)
+
+Square Enix:
+- NieR Replicant sur PlayStation 4, Xbox One, Steam (22 avril 2020 Japon, 23 avril 2020 monde)
+- NieR Re[in]carnation sur iOS et Android
+
 
 Serious Sam 4, sorti aujourd'hui sur Windows et Stadia
 développé par Croteam (les Serious Sam, The Talos Principle), studio d'une quarantaine de personnes basé à Zagreb, Croatie → http://www.croteam.com/
 ⌨️ 🖱️ 40 € sur Steam ( http://cpc.cx/sBS ) et GOG ( http://cpc.cx/sBT )
-📜 x/10 par Noddus → http://cpc.cx/sC2
-
-
-📅 le programme de la semaine → http://cpc.cx/sBz
-📅 jeudi 13:30, Gaijin Dash en direct pour le TGS 2020
-📅 jeudi 17:30, Serious Sam 4 gklNod
-📅 vendredi 17:30, Mafia Definitive Edition gklGautoz
-📺 samedi matin, Gamekult l'émission
-📜 Retour sur The Last of Us Part 2
-📚 Lecture Seule
-🎶 Gammes Kultes sur K/DA
+📜 2/10 par Noddus → http://cpc.cx/sC2
 
 --------------------------------------
 2020-09-25 - Mafia Definitive Edition
@@ -8574,11 +8587,20 @@ Mafia Definitive Edition, sorti aujourd'hui sur PlayStation 4, Xbox One, Windows
 développé par Hangar 13 (Mafia III), publié par 2K
 🎮 40 € sur PSN ( http://cpc.cx/sBZ ) et XBL ( http://cpc.cx/sC0 )
 ⌨️ 🖱️ 40 € sur Steam ( http://cpc.cx/sBW ), Humble ( http://cpc.cx/sBY ) et EGS ( http://cpc.cx/sBX )
-📜 x/10 par Gautoz → http://cpc.cx/sC1
+📜 7/10 par PluginBaby → http://cpc.cx/sC1
 
 Mafia, originellement sorti en septembre 2002 sur Windows, puis avril 2003 sur PlayStation 2 et Xbox
 développé par Illusion Softworks, ensuite devenu 2K Czech, puis fermé et fusionné dans Hangar 13
 📜 6/10 par Poischich → http://cpc.cx/sBV
+
+
+📅 le programme de la semaine → http://cpc.cx/sBz
+📅 jeudi 17:30, Serious Sam 4 gklNod
+📅 vendredi 17:30, Mafia Definitive Edition gklGautoz
+📺 samedi matin, Gamekult l'émission
+📜 Retour sur The Last of Us Part 2
+📚 Lecture Seule
+🎶 Gammes Kultes sur K/DA
 
 
 ⚠️ Attention ⚠️ baissez le son de Twitch car Puyo va PARLER 🔊
@@ -8663,6 +8685,8 @@ partenariat GamesPlanet : ?ref=gamekult
 partenariat GOG : ?pp=aba5d02b57a345ff3db4907de20c963e447ce830
 
 https://www.nintendo.fr/Rechercher/Rechercher-299117.html?f=147394-86
+
+nstagram de Greg https://www.instagram.com/goldengreg_/?hl=fr
 
 🐦 le Twitter d'ALS → https://twitter.com/alexleserveur
 🐦 le Twitter d'Amaebi → https://twitter.com/amaebi_
