@@ -8685,7 +8685,7 @@ page qui indique les casques VR compatibles : https://www.roadtovr.com/star-wars
 
 excuses de sac de Gautoz :
 - jouer au HOTAS sur un canapé n'est pas l'idéal
-- ce n'est pas une erreur de pilote, c'est une erreur de quelqu'un d'autre !
+- ce n'est pas une erreur du pilote, c'est une erreur de quelqu'un d'autre !
 - je me suis fait chopper en octogone sans règle par un dev du jeu
 
 
