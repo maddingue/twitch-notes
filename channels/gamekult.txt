@@ -8645,6 +8645,7 @@ les développeurs du jeu sur le chat sont Katutt, TotosDev et Dart_T042
 ⚙️ le moteur du jeu est Unity
 
 excuses de sac de Noddus :
+- je me sens à l'étroit dans ce niveau
 - ça demande quand même pas mal de pratique
 
 --------------------------------------
