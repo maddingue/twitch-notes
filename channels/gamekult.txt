@@ -5217,7 +5217,7 @@ excuses de Noddus :
 - j'ai un perso de merde
 - pour le journalisme total, je suis là pour montrer les victoires, mais aussi les défaites
 - ce niveau est l'un des plus pauvres en termes de… heu…
-- quelle immonde jeu de merde !
+- quel immonde jeu de merde !
 - la visée automatique n'était pas activée
 - mon bouclier est tout petit
 - c'est la faute du rouage en dessous
@@ -8648,7 +8648,7 @@ excuses de sac de Noddus :
 - ça demande quand même pas mal de pratique
 
 --------------------------------------
-2020-10-01 - Super Mario Bros. 35
+2020-10-01 - Crash Bandicoot 4, Super Mario Bros. 35
 
 Crash Bandicoot 4: It's About Time, sortie demain sur PlayStation 4 et Xbox One
 🎮 55 € en grande distribution
@@ -8673,9 +8673,19 @@ excuses de sac :
 2020-10-02 - Star Wars Squadrons
 
 Star Wars Squadrons, sorti aujourd'hui 2 octobre sur PlayStation 4, Xbox One et Windows
+🎮 30 € chez Leclerc, 35 € chez Auchan, Cultura, La Fnac
 🎮 40 € sur PSN ( http://cpc.cx/sFP ) et XBL ( http://cpc.cx/sFQ )
 ⌨️ 🖱️ 40 € sur Steam ( http://cpc.cx/sFR ), Humble ( http://cpc.cx/sFS )
 ⌨️ 🖱️ 38 € sur GamesPlanet (clé Origin, http://cpc.cx/sFT )
+📜 6/10 par Gautoz → http://cpc.cx/sHa
+📜 16/20 par Silent_jay sur JVC avec un encart sur la VR → http://cpc.cx/sHb
+⚙️ le moteur du jeu est Frostbite 3
+page qui indique les casques VR compatibles : https://www.roadtovr.com/star-wars-squadrons-vr-supported-headsets-settings-minimum-specifications-enable-vr/
+
+excuses de sac de Gautoz :
+- jouer au HOTAS sur un canapé n'est pas l'idéal
+- ce n'est pas une erreur de pilote, c'est une erreur de quelqu'un d'autre !
+- je me suis fait chopper en octogone sans règle par un dev du jeu
 
 
 📅 le programme de la semaine → http://cpc.cx/sBz
