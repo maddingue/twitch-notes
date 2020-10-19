@@ -6988,7 +6988,7 @@ Pour qui demande : Noddus était bloqué tout à l'heure par la maintenance, mai
 2020-06-03 - Sludge Life
 
 Sludge Life, disponible depuis le 28 mai 2020 sur Windows ; aussi annoncé sur Switch
-par Terri Vellmann (São Paulo, Brésil 🇧🇷) & Doseone (Santa Fe, New Mexico, USA 🇺🇸), deux développeurs derrière les jeux High Hell et Heavy Bullets → https://ShopSludgeLife.com/
+par Terri Vellmann (São Paulo, Brésil 🇧🇷) & DoseOne (Santa Fe, New Mexico, USA 🇺🇸), deux développeurs derrière les jeux High Hell et Heavy Bullets → https://ShopSludgeLife.com/
 ⌨️ 🖱️ gratuit sur EGS ( http://cpc.cx/rJf ) pendant un an
 🎶 musique par Doseone (Heavy Bullets, Enter the Gungeon, Exit the Gungeon), 7 $ sur Bandcamp → http://cpc.cx/rJg
 
@@ -8840,17 +8840,77 @@ excuses de sac de Puyo :
 - les collisions ne sont pas de mon côté
 - je ne retrouve pas mes repères vu qu'il rame
 
+--------------------------------------
+2020-10-20 - Solasta: Crown of the Magister
+
+Solasta: Crown of the Magister, sorti en accès anticipé aujourd'hui sur Windows
+version finale prévue dans 6 mois à 1 an, à un prix un peu supérieur
+par Tactical Adventures, studio basé à Paris 🇫🇷 fondé par Mathieu Girard d'Amplitude → https://www.solasta-game.com/
+💵 Kickstarter réussi de 270 000 $ → http://cpc.cx/sQn
+⌨️ 🖱️ sur Steam ( http://cpc.cx/pEH )
+
 
 📅 le programme de la semaine → http://cpc.cx/sMN
-📅 mardi 17:30, Solasta: Crown of the Magister (Gautoz)
 📅 mercredi 17:30, Ghost of Tsushima Legends (Gautoz)
-📅 jeudi 16:30, Scourgebringer (Gautoz)
+📅 jeudi 16:30, ScourgeBringer (Gautoz)
 📅 jeudi 17:30, DOOM Eternal: The Ancient Gods (Noddus)
 📅 vendredi 16:30, Ghostrunner (Pipomantis)
 📅 vendredi 17:30, Disc Room (Noddus)
 📺 samedi matin, Gamekult l'émission
 ☁️ premières impressions sur xCloud
 
+--------------------------------------
+2020-10-21 - Ghost of Tsushima Legends
+
+Ghost of Tsushima Legends, disponible gratuitement depuis le 16 octobre pour les possesseurs du jeu
+
+Ghost of Tsushima, sorti le 17 juillet sur PlayStation 4
+par Sucker Punch (Sly Cooper, Infamous), studio de plus de 200 personnes basé à Bellevue, WA, USA 🇺🇸 → https://www.suckerpunch.com/category/games/ghost/
+🎮 55 à 60 € en grand distribution
+🎮 70 € sur PSN ( http://cpc.cx/s1b )
+📜 6/10 par Gautoz → http://cpc.cx/s1a
+
+--------------------------------------
+2020-10-22 - ScourgeBringer, DOOM Eternal: The Ancient Gods
+
+ScourgeBringer, version finale sortie le 20 octobre 
+en accès anticipé depuis le 6 février sur Xbox One, Windows, Mac et Linux
+sortie finale dans 6 à 8 mois
+par Flying Oak Games (NeuroVoider, Boo! Greedy Kid), studio indé de 2 personnes à Metz, France → http://ScourgeBringer.com/ | http://www.flying-oak.com/
+💬 le Discord de Flying Oak Games → https://discord.gg/2NWQZsS
+🎮 17 € sur eShop ( http://cpc.cx/sQo )
+🎮 17 € sur XBL ( http://cpc.cx/qE6 ) ou inclus dans le Xbox Game Pass
+⌨️ 🖱️ 17 € sur Steam ( http://cpc.cx/p0i ) et GOG ( http://cpc.cx/sQp )
+🎶 musique par Joonas Turner (Nuclear Throne, Downwell, Broforce...)
+📺 GK Live sur ScourgeBringer du 3 juillet 2019 → http://cpc.cx/qDj
+📺 GK Live sur ScourgeBringer du 7 février 2020 → http://cpc.cx/sQq
+
+
+DOOM Eternal, sorti le 20 mars 2020 sur Switch, PlayStation 4, Xbox One, Windows et Stadia
+DLC The Ancient Gods sorti le 20 octobre
+🎮 70 € sur PSN ( http://cpc.cx/qWp ), XBL ( http://cpc.cx/qWq )
+⌨️ 🖱️ 60 € ou + sur Steam ( http://cpc.cx/qWj ) et Humble (clé Bethesda, http://cpc.cx/qWk )
+⌨️ 🖱️ 50 € sur GamesPlanet (clé Bethesda, http://cpc.cx/qWm )
+📜 9/10 par Noddus → http://cpc.cx/qWr
+
+
+--------------------------------------
+2020-10-23 - Ghostrunner, Disc Room
+
+Ghostrunner, sorti le 27 octobre 2020 sur PlayStation 4, Xbox One et Windows
+aussi annoncé sur Switch
+par One More Level (God's Trigger), studio d'une vingtaine de personnes basé à Cracovie, Pologne 🇵🇱 → https://GhostrunnerGame.com/
+🎮 24 € sur PSN ( http://cpc.cx/sQv ), 27 € sur XBL ( http://cpc.cx/sQw )
+⌨️ 🖱️ 24 € sur Steam ( http://cpc.cx/sQr ), Humble ( http://cpc.cx/sQs )
+⌨️ 🖱️ 24 € sur GOG ( http://cpc.cx/sQt ) et EGS ( http://cpc.cx/sQu )
+
+
+Disc Room, sorti aujourd'hui sur Switch et Windows
+par Terri Vellmann (São Paulo, Brésil 🇧🇷), DoseOne (Santa Fe, USA 🇺🇸), deux développeurs derrière les jeux Sludge Life, High Hell et Heavy Bullets
+et par Kitty Calis (Pays-Bas 🇳🇱), développeuse de Minit, et Jan Willem Nijman, ancienne moitié de Vlambeer
+🎮 xxx sur eShop
+⌨️ 🖱️ 15 € sur Steam ( http://cpc.cx/s8e ) et GOG ( http://cpc.cx/s8f )
+🎶 musique par Jukio Kallio 🇫🇮 (Fall Guys, Minit, Nuclear Throne, Luftrausers) 
 
 
 ⚠️ Attention ⚠️ baissez le son de Twitch car Puyo va PARLER 🔊
