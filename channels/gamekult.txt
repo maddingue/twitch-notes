@@ -8924,9 +8924,25 @@ excuse de sac de Pipomantis :
 - j'ai visé juste au dessus (à vérifier)
 
 --------------------------------------
-2020-10-27 - ???
+2020-10-27 - Pumpkin Jack 🎃
 
-???
+Pumpkin Jack 🎃 sorti le 23 octobre sur Switch, Xbox One et Windows
+par Nicolas Meyssonnier, développeur lyonnais 🇫🇷 → https://pumpkin-jack.com/
+🎮 promo à 24 € sur eShop ( http://cpc.cx/sUv ) et XBL ( http://cpc.cx/sUw )
+⌨️ 🖱️ promo à 24 € sur Steam ( http://cpc.cx/sUy ), Humble ( http://cpc.cx/sUA )
+⌨️ 🖱️ promo à 24 € sur GOG ( http://cpc.cx/sUz ), EGS ( http://cpc.cx/sUB )
+🎶 musique par Yohan Jager, 8 € sur Bandcamp → http://cpc.cx/sUx
+⏱️ durée de vie : 6 à 7 heures
+⚙️ le jeu est codé sur Unreal Engine 4, principalement avec Blueprints, depuis fin 2017
+📜 entretien avec Nicolas Meyssonnier → https://www.actugaming.net/interview-pumpkin-jack-agfd-351740/
+
+--------------------------------------
+2020-10-28 - Phasmophobia
+
+Phasmophobia, en accès anticipé depuis le 18 septembre 2020 sur Windows
+version finale prévue pour 2021
+par Kinetic Games, studio britannique dont c'est le premier jeu → https://KineticGames.co.uk/
+⌨️ 🖱️ 11, 60 € sur Steam ( http://cpc.cx/sTO )
 
 
 📅 le programme de la semaine → http://cpc.cx/sMN
@@ -8938,14 +8954,6 @@ excuse de sac de Pipomantis :
 👾 Rétro Dash sur l'immersive sim
 ⚙️ Matez mon Matos sur ReShade
 🎲️ Tournez Manette sur le jeu de plateau et le jeu de rôle sur PC
-
---------------------------------------
-2020-10-28 - Phasmophobia
-
-Phasmophobia, en accès anticipé depuis le 18 septembre 2020 sur Windows
-version finale prévue pour 2021
-par Kinetic Games, studio britannique dont c'est le premier jeu → https://KineticGames.co.uk/
-⌨️ 🖱️ 11, 60 € sur Steam ( http://cpc.cx/sTO )
 
 --------------------------------------
 2020-10-29 - Teardown
