@@ -8993,11 +8993,24 @@ par SadSquare Studio, studio québecois 🇨🇦 de deux développeurs qui s'app
 excuses de sac :
 - l'ennemi dans le jeu, c'est les contrôles !
 
+--------------------------------------
+2020-11-03 - Due Process
+
+Due Process, en accès anticipé depuis le 20 août 2020 sur Windows
+version finale d'ici 6 mois
+par Giant Enemy Crab, studio de 9 personnes basé à Seattle 🇺🇸 dont c'est le premier jeu → https://DueProcess.info/
+⌨️ 🖱️ 21 € sur Steam ( http://cpc.cx/sXs )
+
+excuses de sac :
+- c'est la game de chauffe (Noddus)
+- ce gameplay est assez imprécis (Noddus)
+- le sniper n'est pas précis (Noddus)
+- ce plan n'était pas excellemment bien rôdé (Noddus)
+
 
 📅 le programme de la semaine → http://cpc.cx/sX8
-📅 mardi 18:00, Due Process (Noddus)
-📅 mercredi 17:30, Pcaer (Pipomantis)
-📅 jeudi 17:30, Mobius Front ‘83 (Gautoz)
+📅 mercredi 17:30, Pacer (Pipomantis)
+📅 jeudi 17:30, Möbius Front '83 (Gautoz)
 📅 vendredi 16:30, premiers jeux sur PS5 (Puyo)
 📺 samedi matin, Gamekult l'émission
 📜 article de Angelo Careri sur les univers post-apocalyptiques
@@ -9005,6 +9018,20 @@ excuses de sac :
 💭 Que reste-t-il de... The Witcher 3 ?
 🔍 PlayStation 5 et Xbox Series X|S
 
+--------------------------------------
+2020-11-04 - Pacer
+
+Pacer, sorti le 29 octobre 2020 sur PlayStation 4 et Windows, bientôt sur Xbox One
+par R8 Games, studio basé à Middlesbrough, Royaume-Uni 🇬🇧 → https://PacerGame.com/
+🎮 40 € sur PSN ( http://cpc.cx/sXu )
+⌨️ 🖱️ 34 € sur Steam ( http://cpc.cx/sXt )
+
+--------------------------------------
+2020-11-05 - Möbius Front '83
+
+Möbius Front '83, sorti aujourd'hui sur Windows, Mac et Linux
+par Zachtronics (SpaceChem, Ironclad Tactics, Infinifactory, TIS-100, Shenzhen I/O, Opus Magnum, ExaPunks, Eliza, Molek-Syntez), studio de Zach Barth, basé à Redmond 🇺🇸 → http://www.zachtronics.com/mobius-front/
+⌨️ 🖱️ xx € sur Steam ( http://cpc.cx/sXv )
 
 
 ⚠️ Attention ⚠️ baissez le son de Twitch car Puyo va PARLER 🔊
