@@ -9222,14 +9222,20 @@ développé par Brace Yourself Games (Crypt of the NecroDancer, Cadence of Hyrul
 🎶 musique par Riley Koenig, au prix que vous voulez sur Bandcamp → http://cpc.cx/t7C
 
 --------------------------------------
-2020-11-20 - Sakuna: of Rice and Ruin
+2020-11-20 - Sakuna: of Rice and Ruin 🌾
 
-Sakuna: of Rice and Ruin, sorti le 10 novembre sur Windows, le 20 novembre sur Switch et PlayStation 4
-par Edelweiss (ETHER VAPOR, Astebreed, Fairy Bloom Freesia), développeur japonais 🇯🇵 → http://SakunaOfRiceAndRuin.com/ | http://edelweiss.skr.jp/
+Sakuna: of Rice and Ruin 🌾, sorti le 10 novembre sur Windows, le 20 novembre sur Switch et PlayStation 4
+par Edelweiss (ETHER VAPOR, Astebreed, les Fairy Bloom), développeur japonais 🇯🇵 → http://SakunaOfRiceAndRuin.com/ | http://edelweiss.skr.jp/
 🎮 40 € en grande distribution
 🎮 40 € sur eShop ( http://cpc.cx/t74 ) et PSN ( http://cpc.cx/t73 )
 ⌨️ 🖱️ 40 € sur Steam ( http://cpc.cx/t72 )
 📜 5/10 par Luma → http://cpc.cx/t71
+les précédents jeux du studio : ETHER VAPOR (shoot'em up), Astebreed (shoot'em up shonen), les jeux Fairy Bloom (beat'em all/plates-formes)
+⚙️ le moteur du jeu est Unreal Engine 4
+🎶 musique par Hiroyuki Oshima (https://vgmdb.net/artist/2926)
+🔡 jeu uniquement disponible avec doublages japonais et anglais, et sous-titres japonais, anglais coréen et chinois
+⏱️ durée de vie : environ 20 h d'après les développeurs, 33 h d'après HLTB
+https://www.confreaksandgeeks.com/interview-with-sakuna-of-rice-and-ruin-devs-e32019/
 
 
 📅 le programme de la semaine → http://cpc.cx/t6l
