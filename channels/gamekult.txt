@@ -9264,7 +9264,7 @@ excuses de sac de Noddus :
 - je perds du temps dans les pauses parce que je vous explique
 - toujours aussi peu pratique à la souris 🖱️
 - mon idée était bien meilleure sur le papier
-- je n'ai plus les automatistes
+- je n'ai plus les automatismes
 - la technique était bonne (mais l'exécution ne l'était pas)
 
 --------------------------------------
@@ -9299,14 +9299,36 @@ développé par Sports Interactive, studio d'un peu plus d'une centaine de perso
 ⌨️ 🖱️ 55 € sur Steam ( http://cpc.cx/tbt ) et Humble ( http://cpc.cx/tbu )
 📜️ billet de Miles Jacobson, directeur du studio, sur l'impact de la crise sanitaire → https://www.sigames.com/news/sports-interactive-and-impact-covid-19
 
-
-📅 le programme de la semaine → http://cpc.cx/tb3
-📅 vendredi 17:30, Football Manager 2021 ⚽️ (Florian)
-📺 samedi matin, Gamekult l'émission
-⚙️ Matez mon Matos
-📜️ Retour sur The Last of Us Part 2 → http://cpc.cx/tdd
+📜️ Retour sur The Last of Us Part 2 (1) → http://cpc.cx/tdd
 ⛩️ Gaijin Dash passe à la next-gen → http://cpc.cx/td7
 🏝️ Retro Island sur Golden Axe → http://cpc.cx/tcw
+
+
+--------------------------------------
+2020-11-30 - Empire of Sin
+
+Empire of Sin, sorti demain 1er décembre sur Switch, PlayStation 4, Xbox One et Windows
+développé par Romero Games, studio de John et Brenda Romero basé à Galway, Irlande 🇮🇪 → https://www.EmpireOfSinGame.com/
+🎮 30 € chez Auchan, 40 € chez Cultura, Fnac, Leclerc
+🎮 40 € ou + sur eShop ( http://cpc.cx/teK ), PSN ( http://cpc.cx/teL ) et XBL ( http://cpc.cx/teM )
+⌨️ 🖱️ 40 € ou + sur Steam ( http://cpc.cx/teN ) et Humble ( http://cpc.cx/teO )
+⌨️ 🖱️ 36 € ou + sur Gamesplanet ( http://cpc.cx/teP )
+📜️ 5/10 par Gautoz → http://cpc.cx/teJ
+⚙️ le moteur du jeu est Unity
+📺 vidéo du Bazar du Grenier sur Empire of Sin, avec Seb en gangster de toute beauté → https://www.youtube.com/watch?v=lEiCqHtvoeU
+
+📅 le programme de la semaine → http://cpc.cx/teH
+📅 mardi 17:30, Immortals Fenyx Rising (Pipomantis)
+📅 mercredi 17:30, Twin Mirror (Luma)
+📅 jeudi 17:30, selon arrivages Sam & Max ou Per Aspera
+📅 vendredi 17:30, No One Lives Forever (Noddus)
+📺 samedi matin, Gamekult l'émission
+⚙️ Matez mon Matos
+📜️ Retour sur The Last of Us Part 2 (2)
+🎂️ Les 20 ans de No One Lives Forever
+🏴‍☠️ Butin de Nerd
+👾️ Rétro Dash sur les 30 ans de la Super Nintendo
+🎶️ Gammes Kultes sur le studio Harmonix
 
 ⚠️ Attention ⚠️ baissez le son de Twitch car Puyo va PARLER 🔊
 CorgiDerp ⭐Luma⭐ OhMyDog 
