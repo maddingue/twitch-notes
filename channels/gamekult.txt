@@ -9317,18 +9317,65 @@ développé par Romero Games, studio de John et Brenda Romero basé à Galway, I
 ⚙️ le moteur du jeu est Unity
 📺 vidéo du Bazar du Grenier sur Empire of Sin, avec Seb en gangster de toute beauté → https://www.youtube.com/watch?v=lEiCqHtvoeU
 
+--------------------------------------
+2020-12-01 - Immortals: Fenyx Rising
+
+Immortals: Fenyx Rising, sortie le 3 décembre 2020 sur toutes les plates-formes
+Switch, PlayStation 4 & 5, Xbox One & Series X|S, Windows, Stadia
+développé par Ubisoft Québec (Assassin's Creed Syndicate et Odyssey), un studio d'Ubisoft de 520 personnes basé à Québec 🇨🇦 → https://ubisoft.com/fr-fr/game/immortals-fenyx-rising
+🎮 à partir de 50 € en grande distribution
+🎮 60 € ou + sur eShop ( http://cpc.cx/tfd )
+🎮 70 € ou + sur PSN ( http://cpc.cx/tfc ) et XBL ( http://cpc.cx/tfb )
+⌨️ 🖱️ 60 € ou + sur UPlay ( http://cpc.cx/tfa ) ou EGS ( http://cpc.cx/tf9 )
+📜️ preview par Luma (10 septembre 2020) → http://cpc.cx/tf8
+📜️ 7/10 par Pipomantis → http://cpc.cx/tf8
+⚙️ le moteur du jeu est AnvilNext
+⏱️ durée de vie : environ 24 h 
+
+--------------------------------------
+2020-12-02 - Twin Mirror
+
+Twin Mirror, sorti hier 1er décembre 2020 sur PlayStation 4, Xbox One et Windows
+développé par Dontnod Entertainment (Remember Me, Life Is Strange 1 & 2, Tell Me Why), studio de 250 personnes basé à Paris 🇫🇷 → https://www.TwinMirror-game.com/
+🎮 30 € ou + sur PSN ( http://cpc.cx/tfg ) et XBL ( http://cpc.cx/tfh )
+⌨️ 🖱️ 29 € sur EGS ( http://cpc.cx/tff ), l'an prochain sur Steam
+📜️ preview par Le Père Fidalbion (20 juillet 2020) → http://cpc.cx/tfe
+⚙️ le moteur du jeu est Unreal Engine
+
 📅 le programme de la semaine → http://cpc.cx/teH
-📅 mardi 17:30, Immortals Fenyx Rising (Pipomantis)
-📅 mercredi 17:30, Twin Mirror (Luma)
-📅 jeudi 17:30, selon arrivages Sam & Max ou Per Aspera
+📅 jeudi 17:30, selon arrivages, peut-être Sam & Max ou Per Aspera
 📅 vendredi 17:30, No One Lives Forever (Noddus)
 📺 samedi matin, Gamekult l'émission
 ⚙️ Matez mon Matos
 📜️ Retour sur The Last of Us Part 2 (2)
-🎂️ Les 20 ans de No One Lives Forever
+🎂️ Les 20 ans de Gamekult → http://cpc.cx/tfA
 🏴‍☠️ Butin de Nerd
 👾️ Rétro Dash sur les 30 ans de la Super Nintendo
 🎶️ Gammes Kultes sur le studio Harmonix
+
+--------------------------------------
+2020-12-03 - 
+
+Sam & Max Save The World - Remastered, sorti hier 2 décembre sur Switch et Windows
+développé par Skunkape Games, studio formé par d'anciens de Telltale → https://SkunkapeGames.com/samandmax/
+⌨️ 🖱️ 16,80 € sur Steam ( http://cpc.cx/tfk ) et GOG ( http://cpc.cx/tfj )
+
+Per Aspera, sorti aujourd'hui 3 décembre 2020 sur 
+développé par Tlön Industries → https://per-aspera.vg/
+⌨️ 🖱️ sur Steam ( http://cpc.cx/tfl ) et GOG ( http://cpc.cx/tfm )
+⌨️ 🖱️ sur GamesPlanet ( http://cpc.cx/tfn )
+🗣️ doublages : Nathan Foster par Troy Baker, AMI par Laila Berzins, Dr. Elya Valentine par Lynsey Murrell, Sonna Valentine par Nneka Okoye, Nian Zhen par Yong Yea
+
+--------------------------------------
+2020-12-04 - The Operative: No One Lives Forever
+
+The Operative: No One Lives Forever, originellement sorti sur Windows, Mac et PlayStation 2 en 2000
+développé par Monolith Productions (les Blood, les F.E.A.R, les Middle-Earth), studio basé à Kirkland, USA 🇺🇸
+⌨️ 🖱️ disponible en version restaurée sur http://nolfrevival.tk/
+👩 personnage principal modélisé d'après l'actrice Mitzi Martin (Dude, Where's My Car?)
+⚙️ le moteur du jeu est LithTech 2.5 (moteur de Monolith)
+⏱️ durée de vie : 13 h pour l'histoire principale, 20 h pour tout faire (d'après HLTB)
+📜️ l'enfer légal dans lequel est le jeu, et la raison pour laquelle il n'est pas sur GOG ou Steam → http://cpc.cx/tfi (Wikipédia 🇬🇧)
 
 ⚠️ Attention ⚠️ baissez le son de Twitch car Puyo va PARLER 🔊
 CorgiDerp ⭐Luma⭐ OhMyDog 
