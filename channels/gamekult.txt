@@ -9340,7 +9340,9 @@ développé par Dontnod Entertainment (Remember Me, Life Is Strange 1 & 2, Tell 
 🎮 30 € ou + sur PSN ( http://cpc.cx/tfg ) et XBL ( http://cpc.cx/tfh )
 ⌨️ 🖱️ 29 € sur EGS ( http://cpc.cx/tff ), l'an prochain sur Steam
 📜️ preview par Le Père Fidalbion (20 juillet 2020) → http://cpc.cx/tfe
+🎶️ musique par David Wingo
 ⚙️ le moteur du jeu est Unreal Engine
+⏱️ durée de vie : environ 6 h
 
 📅 le programme de la semaine → http://cpc.cx/teH
 📅 jeudi 17:30, selon arrivages, peut-être Sam & Max ou Per Aspera
