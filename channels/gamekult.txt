@@ -9401,21 +9401,11 @@ développé par Out of the Blue, studio d'une dizaine de personnes basé à Madr
 ⏱️ durée de vie : 4 à 6 h d'après HLTB, 10 h d'après Luma
 📜️ à noter qu'il y a toute l'histoire avant le jeu publiée sur la page Steam du jeu
 
-📅 le programme de la semaine → http://cpc.cx/teH
-📅 mercredi à partir de midi, Cyberpunk 2077 (Gautoz)
-📅 jeudi 17:30, selon arrivages (Pipomantis)
-📅 vendredi 17:30, Morbid: the Seven Acolytes (Noddus)
-📺 samedi matin, Gamekult l'émission
-👾️ Rétro Dash sur les 30 ans de la Super Nintendo → http://cpc.cx/tio
-🎂️ Les 30 ans de la Super Nintendo par Patrick Hellio
-📜️ Retour sur The Last of Us Part 2 (3)
-⚙️ Matez mon Matos
-
 --------------------------------------
 2020-12-09 - Cyberpunk 2077
 
 Cyberpunk 2077, sorti demain 10 décembre 2020 sur PlayStation 4, Xbox One et Windows
-début 2021 sur PlayStation 5 et Xbox Series X|S
+début 2021 nativement sur PlayStation 5 et Xbox Series X|S
 développé par CD Projekt Red (la série des Witcher), studio polonais 🇵🇱 → https://Cyberpunk.net/
 assistés par Digital Scapes 🇨🇦, Nvidia, QLOC 🇵🇱 et Jali Research
 🎮 53 € chez Auchan et Leclerc, 55 € chez Cultura, 57 € chez Fnac
@@ -9423,8 +9413,26 @@ assistés par Digital Scapes 🇨🇦, Nvidia, QLOC 🇵🇱 et Jali Research
 ⌨️ 🖱️ 60 € sur GOG ( http://cpc.cx/ti4 )
 ⌨️ 🖱️ 60 € sur Steam ( http://cpc.cx/ti3 ) et GOG ( http://cpc.cx/ti5 )
 📜 7/10 par Gautoz → http://cpc.cx/rSz
-🎶 musiques par Marcin Przybyłowicz 🇵🇱, P.T. Adamczyk 🇵🇱 et Paul Leonard-Morgan 🇬🇧
+🎶 musiques par Marcin Przybyłowicz 🇵🇱, Piotr Adamczyk 🇵🇱 et Paul Leonard-Morgan 🇬🇧
 ⚙️ le moteur du jeu est le REDengine 4
+taille du patch de sortie : 65 Go sur PC, au moins 50 Go sur consoles
+autres critiques de la presse française et internationale, compilées par JVC : https://www.jeuxvideo.com/news/1336965/cyberpunk-2077-les-notes-de-la-presse-francaise-et-internationale.htm
+📺 vidéo de ExServ sur Cyberpunk 2077 → https://youtube.com/watch?v=DTh8H7Da9Ac
+
+s'il vous plaît, calmez-vous un peu sur l'histoire des godes :)
+📢 @GamekultLive il est 13:30 🕜
+
+excuses de sac de Gautoz :
+- elle est nulle cette souris 🖱️
+
+📅 le programme de la semaine → http://cpc.cx/teH
+📅 jeudi 17:30, selon arrivages (Pipomantis)
+📅 vendredi 17:30, Morbid: the Seven Acolytes (Noddus)
+📺 samedi matin, Gamekult l'émission
+👾️ Rétro Dash sur les 30 ans de la Super Nintendo → http://cpc.cx/tio
+🎂️ Les 30 ans de la Super Nintendo par Patrick Hellio
+📜️ Retour sur The Last of Us Part 2 (3)
+⚙️ Matez mon Matos
 
 --------------------------------------
 2020-12-10 - selon arrivages
