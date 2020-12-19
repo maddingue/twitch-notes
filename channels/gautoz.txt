@@ -115,8 +115,6 @@ Call of Cthulhu: Prisoner of Ice, originellement sorti en 1995 sur MS-DOS, Mac, 
 ⌨️ 🖱️ 6 € sur Steam ( http://cpc.cx/sY3 )
 ⏩ speedrun du jeu : 100% en 23m 59s
 
-logiciel pour indiquer la musique en cours → https://github.com/dlrudie/Snip
-
 -----------------------
 2020-11-11
 
@@ -181,7 +179,6 @@ par Bloober Team (Observer, Blair Witch), studio d'une cinquantaine de personnes
 ⏱️ durée de vie : 7 à 9 heures
 
 🎙️ Dans le Canap' avec Gautoz → http://cpc.cx/tcM
-référence de la couverture lestée : https://www.amazon.fr/dp/B07XZF7V2Y/ref=cm_sw_r_cp_api_fabc_pznVFbJXTJ47G
 
 Ghostrunner, sorti le 27 octobre 2020 sur PlayStation 4, Xbox One et Windows
 aussi annoncé sur Switch
@@ -202,4 +199,11 @@ développé par Starbreeze et édité par Electronic Arts
 ⌨️ 🖱️ en promo à 2,50 € sur Origin ( http://cpc.cx/tf7 )
 📜 4/10 par Kyreek → http://cpc.cx/tf6
 ⏱️ durée de vie : 6 h pour l'histoire, 8 à 10 h pour tout faire (d'après HLTB)
+
+
+
+les bon liens de Gautoz :
+- logiciel pour indiquer la musique en cours → https://github.com/dlrudie/Snip
+- playlist Spotify → https://open.spotify.com/playlist/2iAli8VrY4Q183f9uMnqO9?si=jw4xZUUpToiMIg9dyWkmmw
+- la couverture lestée : https://www.amazon.fr/dp/B07XZF7V2Y/ref=cm_sw_r_cp_api_fabc_pznVFbJXTJ47G
 
