@@ -200,10 +200,26 @@ développé par Starbreeze et édité par Electronic Arts
 📜 4/10 par Kyreek → http://cpc.cx/tf6
 ⏱️ durée de vie : 6 h pour l'histoire, 8 à 10 h pour tout faire (d'après HLTB)
 
+-----------------------
+2021-01-08
 
+https://twitter.com/Calamarik/status/1347577347717947393
+
+MO:Astray, sorti le 25 octobre 2019 sur Switch, Android, iOS et Windows
+développé par Archpray, studio taiwanais 🇹🇼 de 6 personnes → https://www.moastray.game/en
+📱 5,50 € sur Play Store ( http://cpc.cx/tv5 ) et AppStore ( http://cpc.cx/tv6 )
+🎮 en promo à 10,20 € sur eShop ( http://cpc.cx/tv4 )
+⌨️ 🖱️ 12,50 € sur Steam ( http://cpc.cx/tv3 )
+🎶 musiques du jeu par SIHanatsuka 🇯🇵
+⏱️ durée de vie : 8 à 10 h d'après HLTB
+⏩ speedrun de MO:Astray : any% neutral end en 1h 52m ,true end en 2h 8m, speedrun mode en 1h 7m
+
+
+--------------------------------------------------------------------------------
 
 les bon liens de Gautoz :
 - logiciel pour indiquer la musique en cours → https://github.com/dlrudie/Snip
 - playlist Spotify → https://open.spotify.com/playlist/2iAli8VrY4Q183f9uMnqO9?si=jw4xZUUpToiMIg9dyWkmmw
 - la couverture lestée : https://www.amazon.fr/dp/B07XZF7V2Y/ref=cm_sw_r_cp_api_fabc_pznVFbJXTJ47G
+- boutique de t-shirts : https://bd-shirt.art/
 
