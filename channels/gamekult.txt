@@ -9664,15 +9664,47 @@ développé par Yak & Co (Agent A: A puzzle in disguise), studio australien 🇦
 ⌨️ 🖱️ en promo à 10 € sur Steam ( http://cpc.cx/tzY ) et GOG ( http://cpc.cx/tzZ )
 ⌨️ 🖱️ en promo à 9,60 € sur EGS ( http://cpc.cx/tA3 )
 
+--------------------------------------
+2021-01-19 - Indiana Jones et la Machine Infernale
+
+Indiana Jones et la Machine Infernale, originellement sorti en 1999 sur Windows, porté sur Nintendo 64 en 2000 et Game Boy Color en 2001
+développé par LucasArts sur le Jones Engine, moteur dérivant du Sith Engine, lui-même héritant du Jedi Engine
+⌨️ 🖱️ 5 € sur Steam ( http://cpc.cx/tAe ) et GOG ( http://cpc.cx/tAf )
+🎶️ musiques par Clint Bajakian
+⏩ speedrun du jeu : Any% PC en 4m 45s
+
+excuse de sac de Florian :
+- il y a une latence dans la roulette
+
 
 📅 le programme de la semaine → http://cpc.cx/tzS
-📅 mardi 17:30, Indiana Jones et la Machine Infernale (Père Fidalbion)
-📅 mercredi 15:30, Hitman 3 (Noddus)
+📅 mercredi 15:00, Hitman 3 (Noddus)
 📅 jeudi 17:30, test de prototypes (Noddus & Pipomantis)
 📅 vendredi 17:30, Appelez-moi le Directeur ! 🛎️
 📺 samedi matin, Gamekult l'émission
 ⚙️ Tech on Me sur le portage d'un jeu sur Switch
 📱 Juste un Doigt
+
+--------------------------------------
+2021-01-20 - Hitman 3
+
+Hitman 3, sorti aujourd'hui sur PlayStation 4 & 5, Xbox One & Series X|S, Stadia et Windows
+développé par IO Interactive, société danoise basé à Copenhague et Malmö → https://www.hitman.com/fr/
+📜️ 8/10 par Noddus → http://cpc.cx/tAv
+📜️ preview par Noddus (8 janvier 2021) → http://cpc.cx/tAg
+🎮 53 € chez Auchan et Leclerc, 65 € chez Cultura, 70 € chez Boulanger, Fnac et Micromania
+🎮 70 € ou + sur PSN ( http://cpc.cx/tAi ) et XBL ( http://cpc.cx/tAj )
+⌨️ 🖱️ 60 € ou + sur EGS ( http://cpc.cx/tAh )
+
+--------------------------------------
+2021-01-21 - prototypes
+
+
+
+--------------------------------------
+2021-01-22 - Appelez-moi le Directeur ! 🛎️
+
+🛎️ Appelez-moi le Directeur !
 
 
 ⚠️ Attention ⚠️ baissez le son de Twitch car Puyo va PARLER 🔊
@@ -9711,25 +9743,24 @@ https://www.twitch.tv/gamekultlive/videos/all
 🐦 Gamekult sur Twitter → https://twitter.com/gamekult
 📺 Gamekult sur YouTube → https://www.youtube.com/user/gamekult
 🎧 Gamekult sur Spotify → https://open.spotify.com/show/0hZy5XtyFIS7sxpRX01ihU
-https://open.spotify.com/playlist/2JYMlgyHKvbFkCxE7JVVNo?si=nKJq9JGHTXeqYmmIWqIE0A
-🎧 Gamekult sur Spotify / GK mixtape → https://open.spotify.com/playlist/2JYMlgyHKvbFkCxE7JVVNo?si=fHDntMFETWC68hER1xsIog
-🎧 Gamekult sur Spotify / GK Chill → https://open.spotify.com/playlist/7AcuPENYjbPJdjP2O6xgCf?si=mN6SOYueRJiMSRTrUkORGQ
+🎧 GK mixtape → https://open.spotify.com/playlist/2JYMlgyHKvbFkCxE7JVVNo
+🎧 GK Chill → https://open.spotify.com/playlist/7AcuPENYjbPJdjP2O6xgCf
 📼 Gamekult sur Deezer → https://deezer.com/playlist/1797171442
 💬 Gamekult sur Discord → https://discord.gg/hHTY9Wx
 📷 Gamekult sur Instagram → https://www.instagram.com/gamekultcom/
 👕 la boutique Gamekult → https://shop.spreadshirt.fr/gamekult/
 
-ℹ️ avatars de la rédac' Gamekult déssinés par Simon Hutt → https://twitter.com/SimonHuttT | https://instagram.com/simonhuttt/
-https://simonhuttt.artstation.com/
-
-https://www.geekzone.fr/tag/les-demons-du-midi/
+https://geekzone.fr/tag/lddm/
 🎧 Les Démons du MIDI, le podcast musical de Gautoz et Pipomantis, épisode 87 → http://cpc.cx/tua 👾 💕 🎶
 🎧 pour les amateurs de musiques de jeux vidéo, écoutez Les Démons du MIDI, le podcast musical de Gautoz et Pipomantis → http://cpc.cx/tua 👾 💕 🎶
 http://cpc.cx/ihD  (RadioKawa)
 
 ⌨️ 🖱️ QuickLoad, le podcast PC → https://soundcloud.com/quickload ou https://www.gamekult.com/emissions/quick-load-11.html
 
-🎧 les podcasts de kamui : After Hate ( https://afterhate.fr ) et Super Ciné Battle ( https://supercinebattle.fr )
+🖍️ Simon Hutt → https://twitter.com/SimonHuttT | https://instagram.com/simonhuttt/
+https://simonhuttt.artstation.com/
+
+🎧 les podcasts de Kamui : After Hate ( https://afterhate.fr ) et Super Ciné Battle ( https://supercinebattle.fr )
 
 ℹ️ les configs Gamekult → https://www.gamekult.com/materiel/guide-achat/les-pc-officiels-de-gamekult-3050794123/pc.html#matos
 🖥️ config Manny : Core i3 7300, 8 Go DDR4, GTX 1050 Ti 4 Go
