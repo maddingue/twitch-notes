@@ -9676,6 +9676,18 @@ développé par LucasArts sur le Jones Engine, moteur dérivant du Sith Engine, 
 excuse de sac de Florian :
 - il y a une latence dans la roulette
 
+--------------------------------------
+2021-01-20 - Hitman 3
+
+Hitman 3, sorti aujourd'hui sur PlayStation 4 & 5, Xbox One & Series X|S, Stadia et Windows
+développé par IO Interactive, société danoise basé à Copenhague et Malmö → https://www.hitman.com/fr/
+📜️ 8/10 par Noddus → http://cpc.cx/tAv
+🎮 53 € chez Auchan et Leclerc, 65 € chez Cultura, 70 € chez Boulanger, Fnac et Micromania
+🎮 70 € ou + sur PSN ( http://cpc.cx/tAY ) et XBL ( http://cpc.cx/tAj )
+⌨️ 🖱️ 60 € ou + sur EGS ( http://cpc.cx/tAh )
+
+Real Life Hitman : https://youtube.com/watch?v=4KXJM_KJDc8
+
 
 📅 le programme de la semaine → http://cpc.cx/tzS
 📅 mercredi 15:00, Hitman 3 (Noddus)
@@ -9684,17 +9696,6 @@ excuse de sac de Florian :
 📺 samedi matin, Gamekult l'émission
 ⚙️ Tech on Me sur le portage d'un jeu sur Switch
 📱 Juste un Doigt
-
---------------------------------------
-2021-01-20 - Hitman 3
-
-Hitman 3, sorti aujourd'hui sur PlayStation 4 & 5, Xbox One & Series X|S, Stadia et Windows
-développé par IO Interactive, société danoise basé à Copenhague et Malmö → https://www.hitman.com/fr/
-📜️ 8/10 par Noddus → http://cpc.cx/tAv
-📜️ preview par Noddus (8 janvier 2021) → http://cpc.cx/tAg
-🎮 53 € chez Auchan et Leclerc, 65 € chez Cultura, 70 € chez Boulanger, Fnac et Micromania
-🎮 70 € ou + sur PSN ( http://cpc.cx/tAi ) et XBL ( http://cpc.cx/tAj )
-⌨️ 🖱️ 60 € ou + sur EGS ( http://cpc.cx/tAh )
 
 --------------------------------------
 2021-01-21 - prototypes
