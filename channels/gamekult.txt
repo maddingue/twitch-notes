@@ -9688,31 +9688,62 @@ développé par IO Interactive, société danoise basé à Copenhague et Malmö 
 
 Real Life Hitman : https://youtube.com/watch?v=4KXJM_KJDc8
 
+--------------------------------------
+2021-01-21 - Super is Hot, Grapple Hoops, Crumble
+
+Super is Hot, sorti le 8 janvier 2021 sur Windows, Mac et Linux
+développé par Pyrofoux, étudiant développeur de jeux vidéo de Bordeaux 🇫🇷 → https://twitter.com/Pyrofoux
+⌨️ 🖱️ au prix que vous voulez sur itch.io ( http://cpc.cx/tBo )
+le développeur pyrofoux est dans le canal, n'hésitez pas à lui poser des questions
+
+Grapple Hoops 🏀, disponible sur Windows
+développé par Andreas Georgiou, développeur chypriote 🇨🇾 → https://coso.me/gamedevandrew
+⌨️ 🖱️ gratuit sur itch.io ( http://cpc.cx/tBp )
+⚙️ le moteur du jeu est Unreal
+https://www.alphabetagamer.com/grapple-hoops-prototype-download/
+
+Crumble, sorti le 4 décembre 2020 sur Windows et Linux
+développé par Brute Force Games, studio français 🇫🇷 du seul Matthieu Houllier → https://twitter.com/BruteForceGame
+⌨️ 🖱️ 15 €sur Steam ( http://cpc.cx/tBs ), démo gratuite
+⏩ speedrun du jeu : any% en 29m 36s, DEVANT BruteForceStudio qui le fait en 43m 54s
+
+excuses de sac de Noddus :
+- j'ai très mal joué parce que j'avais la main mal placée sur le clavier ⌨️
+- là c'est toi qui m'a déconcentré
+- là c'est le champignon
+
+OnlyCans, disponible depuis le 10 janvier sur Windows
+⌨️ 🖱️ gratuit sur itch.io ( http://cpc.cx/tBq )
+⚙️ le moteur du jeu est Unity
+https://oxyoxspring.itch.io/onlycans
+
+--------------------------------------
+2021-01-22 - Appelez-moi le Directeur ! 🛎️
+
+🛎️ Appelez-moi le Directeur ! Puyo et la rédaction accueillent un nouveau challenger
+🛎️ Appelez-moi le Directeur ! Virgile rejoint Gamekult
+🐦 le Twitter de Virgile → https://twitter.com/ViRrrgile
+📡 la chaîne Twitch de Virgile → https://www.twitch.tv/virrrgile
+
+résumé des annonces : Virgile rejoint Gamekult, les rubriques existantes vont continuer, organisation du concours du jeu de la génération
+
+
+excuses de sac :
+- je m'étais muté sur le truc d'Hubert (Noddus)
+
 
 📅 le programme de la semaine → http://cpc.cx/tzS
-📅 mercredi 15:00, Hitman 3 (Noddus)
-📅 jeudi 17:30, test de prototypes (Noddus & Pipomantis)
 📅 vendredi 17:30, Appelez-moi le Directeur ! 🛎️
 📺 samedi matin, Gamekult l'émission
 ⚙️ Tech on Me sur le portage d'un jeu sur Switch
 📱 Juste un Doigt
 
---------------------------------------
-2021-01-21 - prototypes
-
-
-
---------------------------------------
-2021-01-22 - Appelez-moi le Directeur ! 🛎️
-
-🛎️ Appelez-moi le Directeur !
-
 
 ⚠️ Attention ⚠️ baissez le son de Twitch car Puyo va PARLER 🔊
-CorgiDerp ⭐Luma⭐ OhMyDog 
+CorgiDerp ⭐ Luma_GK ⭐ OhMyDog 
 Julien 💪
 🤘 Kreygasm 🤘
-🚂🚃🚃🚃 TCHOU TCHOU !!
+🚂 🚃 🚃 🚃 TCHOU TCHOU !!
 
 📢 @GamekultLive il est 16:30 🕟
 📢 @GamekultLive il est 17:00 🕔
@@ -9817,6 +9848,7 @@ nstagram de Greg https://www.instagram.com/goldengreg_/?hl=fr
 🐦 le Twitter de Sbebiwan → https://twitter.com/sbebiwan
 🐦 le Twitter de Simon Hutt → https://twitter.com/SimonHuttT
 🐦 le Twitter de Stoon → https://twitter.com/major_stoon
+🐦 le Twitter de Virgile → https://twitter.com/ViRrrgile
 🐦 le Twitter de Winterfaye → https://twitter.com/winterfaye
 🐦 le Twitter de Yukishiro → https://twitter.com/yukishgk
 
