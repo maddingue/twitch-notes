@@ -9771,15 +9771,9 @@ développé par Bloober Team (Observer, Layers of Fear 1 & 2, Blair Witch), stud
 🎶 et par Arkadiusz Reikowski 🇵🇱 (Vampire: The Masquerade - Coteries Of New York, Observer, Layers of Fear 1 & 2) → https://arkadiuszreikowski.bandcamp.com/music
 🎨 direction artistique inspirée des peintures de l'artiste surréaliste Zdzisław Beksiński 🇵🇱 ; voir l'excellente vidéo d'ALT236 à ce sujet → https://youtu.be/3vaq3Y_cnfQ
 📜️ 7/10 par Virgile → http://cpc.cx/tEm
+⏱️ durée de vie : 6 à 8 h d'après HLTB
 
-
-📅 le programme de la semaine → http://cpc.cx/tD5
-📅 vendredi 17:30, Curious Expedition 2 (Pipomantis)
-📺 samedi matin, Gamekult l'émission
-🏆 Le jeu de la génération → http://cpc.cx/tDT
-⚙️ Tech on Me sur le portage d'un jeu sur Switch
-🏴‍☠️ Butin de Nerd
-🎶️ Gammes Kultes sur la musique adaptative
+sa config PC : CPU Intel Core i7 7820X, 32 Go de RAM, GTX 1080 Ti 
 
 --------------------------------------
 2021-01-29 - Curious Expedition 2
@@ -9796,6 +9790,15 @@ développé par Maschinen-Mensch (Curious Expedition), studio de 8 personnes bas
 🎮 15 € sur eShop ( http://cpc.cx/tDs ), PSN ( http://cpc.cx/tDt ), XBL ( http://cpc.cx/tDu )
 ⌨️ 🖱️ 15 € sur Steam ( http://cpc.cx/tDp ), Humble ( http://cpc.cx/tDq ) et GOG ( http://cpc.cx/tDr )
 🎶 musiques du premier Curious Expedition par Alexander Batsch, 7 € sur Bandcamp → http://cpc.cx/rT5
+
+
+📅 le programme de la semaine → http://cpc.cx/tD5
+📅 vendredi 17:30, Curious Expedition 2 (Pipomantis)
+📺 samedi matin, Gamekult l'émission
+🏆 Le jeu de la génération → http://cpc.cx/tDT
+⚙️ Tech on Me sur le portage d'un jeu sur Switch
+🏴‍☠️ Butin de Nerd
+🎶️ Gammes Kultes sur la musique adaptative
 
 
 ⚠️ Attention ⚠️ baissez le son de Twitch car Puyo va PARLER 🔊
