@@ -9748,17 +9748,6 @@ développé par Mechanical Head Games / Aarne "MekaSkull" Hunziker, publié par 
 excuses de sac de Puyo :
 - c'est un défaut de conception (en réponse à la remarque de viL0u sur l'absence de rewind)
 
-
-📅 le programme de la semaine → http://cpc.cx/tD5
-📅 mercredi 17:30, Dyson Sphere Program (Noddus)
-📅 jeudi 17:30, The Medium (Virgile)
-📅 vendredi 17:30, Curious Expedition 2 (Pipomantis)
-📺 samedi matin, Gamekult l'émission
-🏆 Le jeu de la génération → http://cpc.cx/tDT
-⚙️ Tech on Me sur le portage d'un jeu sur Switch
-🏴‍☠️ Butin de Nerd
-🎶️ Gammes Kultes sur la musique adaptative
-
 --------------------------------------
 2021-01-27 - Dyson Sphere Program
 
@@ -9768,6 +9757,8 @@ développé par Youthcat Studio, studio basé à Chongqing, Chine 🇨🇳
 ⌨️ 🖱️ 15,11 € sur Steam ( http://cpc.cx/tBv )
 🎶 musique par Elecrystal → http://www.elecrystal.com/
 💵 Kickstarter réussi de 1,4 M¥ (environ 11 K€) → http://cpc.cx/tBy
+🐦 https://twitter.com/DysonProgram | 🇫 https://facebook.com/DysonSphereProgram/
+💬 https://discord.gg/wMPkmQZD43
 
 --------------------------------------
 2021-01-28 - The Medium
@@ -9778,7 +9769,17 @@ développé par Bloober Team (Observer, Layers of Fear 1 & 2, Blair Witch), stud
 ⌨️ 🖱️ 50 € sur Steam ( http://cpc.cx/tDv ) et GOG ( http://cpc.cx/tDw )
 🎶 musique par Akira Yamaoka 🇯🇵 (beaucoup de jeux Silent Hill, No More Heroes 2, Shadows of the Damned) → http://www.akirayamaoka.jp/
 🎶 et par Arkadiusz Reikowski 🇵🇱 (Vampire: The Masquerade - Coteries Of New York, Observer, Layers of Fear 1 & 2) → https://arkadiuszreikowski.bandcamp.com/music
-🎨 direction artistique inspirée des peintures de l'artiste surréaliste Zdzisław Beksiński 🇵🇱 ; voir la vidéo d'ALT236 → https://youtu.be/3vaq3Y_cnfQ
+🎨 direction artistique inspirée des peintures de l'artiste surréaliste Zdzisław Beksiński 🇵🇱 ; voir l'excellente vidéo d'ALT236 à ce sujet → https://youtu.be/3vaq3Y_cnfQ
+📜️ 7/10 par Virgile → http://cpc.cx/tEm
+
+
+📅 le programme de la semaine → http://cpc.cx/tD5
+📅 vendredi 17:30, Curious Expedition 2 (Pipomantis)
+📺 samedi matin, Gamekult l'émission
+🏆 Le jeu de la génération → http://cpc.cx/tDT
+⚙️ Tech on Me sur le portage d'un jeu sur Switch
+🏴‍☠️ Butin de Nerd
+🎶️ Gammes Kultes sur la musique adaptative
 
 --------------------------------------
 2021-01-29 - Curious Expedition 2
@@ -9937,7 +9938,7 @@ nstagram de Greg https://www.instagram.com/goldengreg_/?hl=fr
 📡 la chaîne Twitch de ⭐Luma⭐ → https://twitch.tv/luma_gk
 📡 la chaîne Twitch de Merry → https://twitch.tv/merry
 📡 la chaîne Twitch de MisterMV → https://twitch.tv/mistermv
-📡 la chaîne Twitch de Noddus → https://twitch.tv/gk_noddus
+📡 la chaîne Twitch de Noddus → https://twitch.tv/noddus_
 📡 la chaîne Twitch de Pipomantis → https://twitch.tv/pipomantis
 📡 la chaîne Twitch du Père Fidalbion → https://twitch.tv/leperefidalbion
 📡 la chaîne Twitch de Puyo → https://twitch.tv/puyogk
