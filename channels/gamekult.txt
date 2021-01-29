@@ -9778,13 +9778,23 @@ sa config PC : CPU Intel Core i7 7820X, 32 Go de RAM, GTX 1080 Ti
 --------------------------------------
 2021-01-29 - Curious Expedition 2
 
-Curious Expedition 2, version 1.0 sortie hier sur Windows
+Curious Expedition 2, version 1.0 sortie hier sur Windows, plus tard en 2021 sur Switch, PlayStation et Xbox
 accès anticipé depuis le 17 juin 2020
 développé par Maschinen-Mensch (Curious Expedition), studio de 8 personnes basé à Berlin, Allemagne 🇩🇪 → https://curious-expedition.com/
-⌨️ 🖱️ 20 € sur Steam ( http://cpc.cx/rSF )
-🎨 dessins par Garen Ewing → https://GarenEwing.co.uk/ | https://instagram.com/garenewing/ | https://twitter.com/garenewing
+⌨️ 🖱️ 18 € sur Steam ( http://cpc.cx/rSF )
+🎨 direction artistique par Garen Ewing → https://GarenEwing.co.uk/ | https://instagram.com/garenewing/ | https://twitter.com/garenewing
 📜 preview de Pipomantis (18 juin 2020) → http://cpc.cx/rSG
 📺 précédent GK Live sur Curious Expedition 2 le 26 juin 2020 → http://cpc.cx/tDo
+🔡 disponible en anglais, allemand, français, chinois simplifié, japonais, coréen
+⏱️ durée d'une partie : 15 à 20 h
+
+développeur du jeu sur le canal : felix_maschinenmensch, a rejoint l'équipe très récemment et s'occupe de game design additionnel
+- felix_maschinenmensch : @PeteMul Curious Expedition 2 est un peu plus narratif que le 1 avec des expeditions "histoire" et un run de 15-20h
+- felix_maschinenmensch : @Batimste On a essayé de rendre le jeu plus accessible avec plusieurs niveau de difficulté (que l'on peut changer à tout moment) ainsi que des conséquences de mort différentes (recommencer l'expedition, l'année ou la campagne)
+- felix_maschinenmensch : @franck_underwood Haha je n'ai encore rien entendu d'un 3! ^^ Mais ce qui est sûr c'est qu'il y aura encore du nouveau sur Curious Expedition 2 pendant l'année ;)
+- felix_maschinenmensch : @ledeltaplanedesonic La taille des cartes s'adapte à la difficulté choisi et peuvent être assez petite à beaucoup plus grande. Certaines expéditions ont lieu sur plusieurs îles.
+- felix_maschinenmensch : C'est vrai ca! Quand tu as un indigènes avec toi tu peux décider de ne pas rire avec lui. Je prend note pour pouvoir le faire aussi sans.
+- felix_maschinenmensch : @ledeltaplanedesonic tu débloques des nouveaux personnages en accomplissant certaines choses (example, trouvez des lieux pour avoir le cartographe etc..) Et tout au long du jeu du augmente ton experience et ton rang dans les clubs et celui-ci reste. Donc tout les personnages, items et armes que tu y a déjà débloqué
 
 📜 Curious Expedition, 7/10 par Pipomantis → http://cpc.cx/rbt
 🎮 15 € sur eShop ( http://cpc.cx/tDs ), PSN ( http://cpc.cx/tDt ), XBL ( http://cpc.cx/tDu )
