@@ -9817,10 +9817,27 @@ développé par Fireart Games (Spirit Roots), studio de 5 personnes basé à Var
 🎨 direction artistique par Dan Gartman 🇵🇱 → https://www.DanGartman.com/
 🎶 musique par Christopher Larkin 🇦🇺 (Hollow Knight) → https://composerLarkin.com/
 
+--------------------------------------
+2021-02-02 - Nuts
+
+Nuts 🐿️, sorti le 19 décembre 2020 sur Apple Arcade, le 4 février sur Switch et Windows
+développé par Joon, Pol, Muuutsch, Char & Torfi, équipe de développeurs indépendants répartis autour du monde (Reykjavik, Montreal, Berlin & Copenhagen) → https://nuts.game/
+📱 Apple Arcade → https://apple.co/nuts
+⌨️ 🖱️ 20 € sur Steam ( http://cpc.cx/tGL )
+⌨️ 🖱️ ancien prototype sur itch.io (avril 2018) → https://joonturbo.itch.io/nuts
+📜 hilarante présentation narrative du jeu sur OuJeViPo (janvier 2018) → https://oujevipo.fr/general/6624-nuts/
+⏱️ durée d'une partie : 4 à 5 h
+
+--------------------------------------
+2021-02-03 - Destruction AllStars
+
+Destruction AllStars, sorti hier sur PlayStation 5
+développé par Lucid Games, studio basé à Liverpool, Royaume-Uni 🇬🇧, fondé par les anciens de Bizarre Creations (Project Gotham Racing, Geometry Wars, Blur) → https://www.LucidGames.co.uk/
+🎮 80 € en grande distribution
+🎮 80 € sur PSN
+
 
 📅 le programme de la semaine → http://cpc.cx/tGr
-📅 mardi 17:30, Nuts (Noddus)
-📅 mercredi 17:30, Destruction AllStars (Virgile)
 📅 jeudi 17:30, Olija (Pipomantis)
 📅 vendredi 17:30, Nioh Collection (Puyo)
 📺 samedi matin, Gamekult l'émission
@@ -9828,6 +9845,25 @@ développé par Fireart Games (Spirit Roots), studio de 5 personnes basé à Var
 ⚙️ Tech on Me sur le portage d'un jeu sur Switch
 🏴‍☠️ Butin de Nerd
 ♻️ Environnement et jeux vidéo
+
+--------------------------------------
+2021-02-04 - Olija
+
+Olija, sorti le 28 janvier 2021 sur Switch, PlayStation 4, Xbox One et Windows
+développé par Skeleton Crew Studio, studio d'une vingtaine de personnes + deux chiens basé à Kyoto, Japon 🇯🇵 qui travaille principalement sur des expériences VR → https://olija.com/ | https://SkeletonCrew.co.jp/en/
+🎮 15 € sur eShop ( http://cpc.cx/tGO ), PSN ( http://cpc.cx/tGP ), XBL ( http://cpc.cx/tGQ )
+⌨️ 🖱️ 15 € sur Steam ( http://cpc.cx/tGR ), démo gratuite disponible
+⌨️ 🖱️ 15 € sur Humble ( http://cpc.cx/tGS ), GOG ( http://cpc.cx/tGT )
+
+--------------------------------------
+2021-02-05 - Nioh Collection
+
+Nioh Collection, sorti aujourd'hui sur PlayStation 5
+développé par Team Ninja / チームニンジャ (Dead or Alive, Ninja Gaiden), studio basé à Tokyo, Japon 🇯🇵
+🎮 70 à 90 € en grande distribution
+🎮 80 € sur PSN ( http://cpc.cx/tGU )
+
+16 jeux Dead or Alive, 6 jeux Ninja Gaiden
 
 
 ⚠️ Attention ⚠️ baissez le son de Twitch car Puyo va PARLER 🔊
