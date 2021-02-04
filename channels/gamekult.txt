@@ -9847,20 +9847,12 @@ excuses de sac de Virgile :
 2021-02-04 - Olija
 
 Olija, sorti le 28 janvier 2021 sur Switch, PlayStation 4, Xbox One et Windows
-développé par Skeleton Crew Studio, studio d'une vingtaine de personnes + deux chiens basé à Kyoto, Japon 🇯🇵 qui travaille principalement sur des expériences VR → https://olija.com/ | https://SkeletonCrew.co.jp/en/
+développé par Thomas Olsson, membre de Skeleton Crew Studio, studio d'une vingtaine de personnes et deux chiens basé à Kyoto, Japon 🇯🇵 qui travaille principalement sur des expériences VR → https://olija.com/ | https://SkeletonCrew.co.jp/en/
 🎮 15 € sur eShop ( http://cpc.cx/tGO ), PSN ( http://cpc.cx/tGP ), XBL ( http://cpc.cx/tGQ )
-⌨️ 🖱️ 15 € sur Steam ( http://cpc.cx/tGR ), démo gratuite disponible
+⌨️ 🖱️ promo à 12,74 € sur Steam ( http://cpc.cx/tGR ), démo gratuite disponible
 ⌨️ 🖱️ 15 € sur Humble ( http://cpc.cx/tGS ), GOG ( http://cpc.cx/tGT )
-
-
-📅 le programme de la semaine → http://cpc.cx/tGr
-📅 jeudi 17:30, Olija (Pipomantis)
-📅 vendredi 17:30, Nioh Collection (Puyo)
-📺 samedi matin, Gamekult l'émission
-🏆 Le jeu de la génération → http://cpc.cx/tDT
-⚙️ Tech on Me sur le portage d'un jeu sur Switch
-🏴‍☠️ Butin de Nerd
-♻️ Environnement et jeux vidéo
+📜 7/10 par Far Away → http://cpc.cx/tHG
+📜 entretien de Thomas Olsson → https://www.usgamer.net/articles/devolver-digital-olija-skeleton-crew-studio-indie-switch-pc-interview
 
 --------------------------------------
 2021-02-05 - Nioh Collection
@@ -9871,6 +9863,15 @@ développé par Team Ninja / チームニンジャ (Dead or Alive, Ninja Gaiden)
 🎮 80 € sur PSN ( http://cpc.cx/tGU )
 
 16 jeux Dead or Alive, 6 jeux Ninja Gaiden
+
+
+📅 le programme de la semaine → http://cpc.cx/tGr
+📅 vendredi 17:30, Nioh Collection (Puyo)
+📺 samedi matin, Gamekult l'émission
+🏆 Le jeu de la génération → http://cpc.cx/tDT
+⚙️ Tech on Me sur le portage d'un jeu sur Switch → http://cpc.cx/tI3
+🏴‍☠️ Butin de Nerd → http://cpc.cx/tI2
+♻️ Environnement et jeux vidéo
 
 
 ⚠️ Attention ⚠️ baissez le son de Twitch car Puyo va PARLER 🔊
