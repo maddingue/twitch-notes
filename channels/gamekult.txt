@@ -9873,13 +9873,63 @@ excuses de sac :
 - c'est la pression du direct 🛰️ (Pipo)
 
 
-📅 le programme de la semaine → http://cpc.cx/tGr
-📅 vendredi 17:30, Nioh Collection (Puyo)
-📺 samedi matin, Gamekult l'émission
-🏆 Le jeu de la génération → http://cpc.cx/tDT
 ⚙️ Tech on Me sur le portage d'un jeu sur Switch → http://cpc.cx/tI3
 🏴‍☠️ Butin de Nerd → http://cpc.cx/tI2
-♻️ Environnement et jeux vidéo
+
+
+--------------------------------------
+2021-02-08 - démos du Steam Game Festival
+
+Potion Craft: Alchemist Simulator, annoncé pour 2021 sur Windows
+par niceplay games / Mikhail Chuprakov, développeur russe à Saint-Pétersbourg 🇷🇺 → http://niceplay-games.com/
+⌨️ 🖱️ démo sur Steam ( http://cpc.cx/tJZ )
+
+Despot's Game, annoncé pour 2021 sur Windows
+par Konfa Games (Despotism 3K), studio basé à Saint-Pétersbourg 🇷🇺 → https://DespotsGame.com/
+⌨️ 🖱️ démo sur Steam ( http://cpc.cx/tK0 )
+
+Floppy Knights, annoncé sans date précise sur Windows
+par Rose City Games (The World Next Door), studio 7 personnes basé à Portland 🇺🇸 → https://www.RoseCityGames.com/
+⌨️ 🖱️ démo sur Steam ( http://cpc.cx/tK1 )
+
+Slipways, annoncé pour Q2 2021 sur Windows et Mac
+par Beetlewing / Jakub Wasilewski, développeur polonais à Varsovie 🇵🇱 → https://slipways.net/
+⌨️ 🖱️ démo sur Steam ( http://cpc.cx/tK3 )
+
+You Suck at Parking, annoncé cette année sur Windows
+par Happy Volcano (The Almost Gone), studio basé à Louvain, Belgique 🇧🇪 → https://YouSuckAtParking.cc/
+⌨️ 🖱️ démo sur Steam ( http://cpc.cx/tK6 )
+
+Minute of Islands, le 18 mars 2021 sur Switch, PlayStation 4 & 5, Xbox One & Series X|S, Windows et Mac
+par Studio Fizbin, basé à Ludwigsburg et Berlin, Allemagne 🇩🇪 → https://minute-of-islands.com/
+⌨️ 🖱️ démo sur Steam ( http://cpc.cx/tK7 ), puis sur GOG ( http://cpc.cx/tK8 )
+
+Narita Boy, annoncé pour 2021 sur Switch, PlayStation 4, Xbox One, Windows, Mac et Linux
+par Studio Koba, basé à Barcelone, Espagne 🇪🇸 → https://naritaboy-game.com/
+⌨️ 🖱️ démo sur Steam ( http://cpc.cx/tK9 )
+
+(non présenté)
+Dap, annoncé pour début 2021 sur Windows
+par Melting Parrot, studio d'un couple basé à Melbourne, Australie 🇦🇺 → https://MeltingParrot.com/
+⌨️ 🖱️ démo sur Steam ( http://cpc.cx/tKa )
+
+(non présenté)
+No Place for Bravery, annoncé pour 2021 sur Switch et Windows
+par Glitch Factory (Party Saboteurs), studio basé à Brasilia, Brézil 🇧🇷 → https://NoPlaceForBravery.com/
+⌨️ 🖱️ démo sur Steam ( http://cpc.cx/tKi )
+
+
+📅 le programme de la semaine → http://cpc.cx/tGr
+📅 mardi 17:30, Little Nightmares 2 (Virgile)
+📅 mercredi 17:30, Qomp (Noddus)
+📅 jeudi 17:30, Star Wars: Empire At War (Pere Fidalbion)
+📅 vendredi 17:30, Super Mario 3D World + Bowser's Fury (Luma)
+📺 samedi matin, Gamekult l'émission
+🏆 Le jeu de la génération → http://cpc.cx/tDT
+♻️ Environnement et jeux vidéo → http://cpc.cx/tKe
+🎥 24 FPS sur Hitman
+🏝️ Rétro Island sur Raven Software
+🎶️ Gammes Kultes sur Street Fighter
 
 
 ⚠️ Attention ⚠️ baissez le son de Twitch car Puyo va PARLER 🔊
