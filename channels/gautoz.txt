@@ -946,9 +946,67 @@ C'est pour ça que j'ai pu avoir l'air un peu blasé hier soir : Earth Analog a 
 - One Winged Engel sur Spotify → https://open.spotify.com/artist/4Wn7XYctJIXLBBxG6rgeHP
 
 - Across the Worlds ~ Chrono Cross Wayô Piano Collection → https://youtube.com/watch?v=Thuj-5zV-EI | https://youtube.com/watch?v=0klaBON6_Cg
+- https://www.wayorecords.com/fr/cd-cassettes/692-across-the-worlds-chrono-cross-piano-digital.html
 
 
 - A Comfortable Burden, 3 € sur Steam → https://store.steampowered.com/app/1432760/
+
+
+-----------------------
+2021-02-16
+
+- Six Days in Fallujah ‘not trying to make a political commentary,’ creator says → https://www.polygon.com/2021/2/15/22279600/six-days-in-fallujah-interview-iraq-war-politics
+- https://twitter.com/tha_rami/status/1361409118146334720
+
+cataglottisme, du grec ancien καταγλώττισμα, kataglôttisma (« baiser lascif ») → https://fr.wiktionary.org/wiki/cataglottisme
+
+- NieR Replicant ver.1.22474487139... - The Barren Temple → https://youtube.com/watch?v=ZAYEqnQTzjk
+
+- Skyrim Wyrmstooth → https://www.youtube.com/watch?v=ZpCR0Urs8Z4
+
+- Overwatch’s Former Lead Writer Working On A Competitor From 2K Games → https://gamersgrade.com/overwatchs-former-lead-writer-working-on-a-competitor-from-2k-games/
+
+- PS5 DualSense Controller Drift: Class Action Lawsuit Filed Against Sony → https://www.ign.com/articles/ps5-dualsense-controller-drift-class-action-lawsuit-filed-against-sony
+
+- The Great Ace Attorney Chronicles : les Phoenix Wright de l'ère Meiji enfin localisés ? → https://www.gamekult.com/actualite/the-great-ace-attorney-chronicles-les-phoenix-wright-de-l-ere-meiji-enfin-localises-3050836025.html
+
+- Remedy valide une très bonne année 2020 et fait le point sur ses projets → https://www.gamekult.com/actualite/remedy-valide-une-tres-bonne-annee-2020-et-fait-le-point-sur-ses-projets-3050835973.html
+
+- Rainbow Six Quarantine serait renommé Rainbow Six Parasite → https://www.jeuxvideo.com/news/1364293/rainbow-six-quarantine-serait-renomme-rainbow-six-parasite.htm
+
+- Metro Exodus : 4K, 60 images par seconde et éclairage ray tracing au menu sur PS5 et Xbox Series X → https://www.gamekult.com/actualite/metro-exodus-4k-60-images-par-seconde-et-eclairage-ray-tracing-au-menu-sur-ps5-et-xbox-series-x-3050836057.html
+
+- Rico London → https://youtube.com/watch?v=5pLm7nhEpp4
+
+- Let's be Playtonic Friends → https://youtube.com/watch?v=nLX54D55vzI
+- Playtonic Friends → https://twitter.com/PTonicFriends
+
+- Bright Memory: Infinite / 光明记忆：无限 → https://store.steampowered.com/app/1178830/
+- Bright Memory: Infinite - cinematic trailer → https://youtube.com/watch?v=J4SPVGbkY6o
+
+- Stan LePard, composer behind ‘Guild Wars 2’, ‘Halo’, and ‘Age of Empires III’, has passed away → https://happymag.tv/stan-lepard-death/
+- Soundcloud de Stan LePard → https://soundcloud.com/stanlepard
+
+- Baldur's Gate 3 - panel from hell 2 → https://store.steampowered.com/news/app/1086940/view/5217953307258116540
+
+- Absolute Drift → https://youtube.com/watch?v=JRLhWZlp8dw
+
+- Osteoblasts, 5 € sur Steam → https://store.steampowered.com/app/1450650/
+- Gautoz découvre Osteoblasts → https://youtube.com/watch?v=x2wXwwDNXOM
+
+- Shattered - Tale of the Forgotten King → https://youtube.com/watch?v=xcgFK04woYw
+
+- Kapital: Sparks of Revolution → https://youtube.com/watch?v=4k63Qtx3j2k
+- Kapital: Sparks of Revolution → https://store.steampowered.com/app/1399700/
+
+- Call of Saregnar → https://www.callofsaregnar.com/
+
+- Nightline by colorfiction → https://youtube.com/watch?v=p_pS0lXvRjo
+- Nightline, 3 $ sur itch.io → https://colorfiction.itch.io/nightline
+
+- M.E.A.T. RPG, 25 € sur Steam → https://store.steampowered.com/app/1316160/
+- Dreamscaper, en accès anticipé à 18,50 € sur Steam → https://store.steampowered.com/app/1040420/
+
 
 
 --------------------------------------------------------------------------------
@@ -959,7 +1017,7 @@ C'est pour ça que j'ai pu avoir l'air un peu blasé hier soir : Earth Analog a 
 les bon liens de Gautoz
 -----------------------
 K La Mixtape https://spoti.fi/3oA7mK2 La Matinale Playlist https://spoti.fi/36oRxzx
-🎶 logiciel pour indiquer la musique en cours → https://github.com/dlrudie/Snip
+🎶 Snip, le logiciel pour indiquer la musique en cours → https://github.com/dlrudie/Snip
 🎧 playlist la matinale → https://open.spotify.com/playlist/3vLlX911Gy6jGHGdOa5q5B
 🎧 playlist stream → https://open.spotify.com/playlist/2iAli8VrY4Q183f9uMnqO9
 🎧 GK mixtape → https://open.spotify.com/playlist/2JYMlgyHKvbFkCxE7JVVNo
