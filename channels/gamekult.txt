@@ -10020,12 +10020,21 @@ développé par Iron Gate AB, studio basé à Skövde, Suède 🇸🇪 → https
 🔡 disponible en anglais, allemand, français, espagnol, russe, chinois simplifié, turc, néerlandais, japonais, polonais, portugais du Brésil
 
 --------------------------------------
-2021-02-19 - Guilty Gear Strive
+2021-02-19 - Guilty Gear Strive (annulé), Shattered: Tale of the Forgotten King
 
 Guilty Gear Strive, sortie le 9 avril 2021 sur PlayStation 4 & 5 et Windows
 développé par Arc System Works, studio de 164 personnes basé à Yokohama, Japon 🇯🇵 → https://GuiltyGear.com/ggst/en/
 🎮 60 € sur PSN ( http://cpc.cx/tNr )
 ⌨️ 🖱️ 60 € sur Steam ( http://cpc.cx/tNs )
+
+Shattered: Tale of the Forgotten King, sorti le 17 février 2021 sur Windows
+annoncé courant 2021 sur PlayStation 4 et Xbox One
+par Redlock, studio de 15 à 20 personnes basé à Lyon et Grenoble 🇫🇷 → https://ShatteredKing-theGame.fr/
+💬 serveur Discord de Redlock Studio → https://discord.gg/jcYDvbc
+💵 Kickstarter réussi de 110 k€ en décembre 2016 → http://cpc.cx/tPc
+⌨️ 🖱️ en promo à 17,84 € (au lieu de 21 €) sur Steam ( http://cpc.cx/tPd )
+⚙️ le moteur du jeu est Unreal Engine 4
+🎶️ musique du jeu par Ocoeur / Franck Zaragoza → https://www.ocoeur-music.com/shattered-taleoftheforgottenking
 
 
 📅 le programme de la semaine → http://cpc.cx/tN9
@@ -10153,6 +10162,7 @@ nstagram de Greg https://www.instagram.com/goldengreg_/?hl=fr
 
 📺 la chaîne YouTube d'ALS → http://cpc.cx/m4A
 📺 la chaîne YouTube d'Archipel, où est diffusée l'émission toco toco d'Anne Ferrero → http://cpc.cx/m4x
+📺 la chaîne YouTube de Digital Foundry → http://cpc.cx/tP2
 📺 la chaîne YouTube d'ExServ → http://cpc.cx/ptC
 📺 la chaîne YouTube de GDC → http://cpc.cx/m4r
 📺 la chaîne YouTube de GameNextDoor → http://cpc.cx/m4s
