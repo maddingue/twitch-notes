@@ -7437,14 +7437,53 @@ développé par IronOak Games, studio basé à Vancouver 🇨🇦 → https://Ir
 jeu en cours : For The King -- déjà passé : Shores Unknown
 > 17:27 - 21:33  |  4 heures 6 minutes de stream
 
+
+-----------------------
+2021-02-28
+
+Rise Eterna, annoncé pour 2021 sur Windows
+développé par Makee, studio indé entre Lannion 🇫🇷 et Tokyo 🇯🇵 et Forever Entertainment 🇵🇱
+⌨️ 🖱️ démo gratuite sur Steam ( http://cpc.cx/tTB )
+⌨️ 🖱️ page itch.io ( http://cpc.cx/tTC )
+> 17:36 - 18:49  |  1 heure 13 minutes  |  1h30 warn @ 19:06
+
+Curse of the Dead Gods, version finale sortie hier sur Switch, PlayStation 4 & 5, Xbox One & Series X|S et Windows
+après presque un an d'accès anticipé (3 mars 2020)
+développé par Passtech Games (Space Run, Masters of Anima), studio indé de 10 personnes basé à Lyon 🇫🇷 → https://curse-of-the-dead-gods.com/
+💬 le Discord de Passtech Games → https://discord.gg/S8BJNXR
+🎮 20 € sur eShop ( http://cpc.cx/tRe ), PSN ( http://cpc.cx/tS8 ) et XBL ( http://cpc.cx/tRf )
+⌨️ 🖱️ 20 € sur Steam ( http://cpc.cx/qCL ), EGS ( http://cpc.cx/tRs ) et Humble ( http://cpc.cx/rkO )
+🎶️ musique par Léon Shelby
+> 18:50 - 20:00  |  1 heure 10 minutes  |  1h30 warn @ 20:20
+
+Geneforge 1 - Mutagen, sorti le 24 février 2021 sur Windows et Mac, annoncé pour le printemps sur iPad
+remaster du premier Geneforge, originellement sorti en décembre 2001 sur Mac et mars 2002 sur Windows
+développé par Spiderweb Software / Jeff Vogel (Geneforge, Avernum) → http://spiderwebsoftware.com/geneforge/
+💵 Kickstarter réussi de 85 K$ → http://cpc.cx/tTw
+📺 vidéo GDC 2018 - Failing to Fail: The Spiderweb Software Way, ou comment survivre plus de 25 ans en réalisant des jeux d'ultra niche → http://cpc.cx/tTA
+⌨️ 🖱️ en promo à 14,30 € sur Steam ( http://cpc.cx/tTx ) et GOG ( http://cpc.cx/tTy )
+⌨️ 🖱️ en promo à 13,60 € sur EGS ( http://cpc.cx/tTz )
+> 20:13 - 21:19  |  1 heure 6 minutes
+
+Valheim, en accès anticipé, pour au moins un an, depuis le 2 février 2021 sur Windows et Linux
+développé par Iron Gate AB, studio basé à Skövde, Suède 🇸🇪 → https://ValheimGame.com/
+⌨️ 🖱️ 16,80 € sur Steam ( http://cpc.cx/tNp )
+📰 Valheim connaît un grand succès, et a déjà convaincu plus de 4 millions de vikings en moins d'un mois → http://cpc.cx/tTp
+> 21:24 - 22:52  |  1 heure 28 minutes
+
+jeu en cours : Valheim -- déjà passés : Rise Eterna, Curse of the Dead Gods, Geneforge 1 - Mutagen
+> 17:21 - 22:53  |  5 heures 32 minutes de stream
+
+
+
+
+
+
 Snowtopia, en accès anticipé depuis le 26 janvier 2021 sur Windows
 par Tea For Two, studio de huit personnes basé à Ivry-sur-Seine 🇫🇷 → https://www.PlaySnowtopia.com/
 ⌨️ 🖱️ 21 € sur Steam ( http://cpc.cx/tQw ) et GOG ( http://cpc.cx/tQx )
 ⌨️ 🖱️ promo à 19,90 € sur Humble ( http://cpc.cx/tQz )
 ⌨️ 🖱️ démo gratuite sur Steam ( http://cpc.cx/tQw ) et GOG ( http://cpc.cx/tQy )
-
-
-
 
 
 Medieval Dynasty, disponible en accès anticipé depuis 17 octobre 2020 sur Windows
@@ -7453,10 +7492,6 @@ développé par Render Cube (Monster League), studio polonais 🇵🇱 de 10~15 
 ⌨️ 🖱️ 25 € sur Humble ( http://cpc.cx/sPK )
 > 
 📢 pour information Ramenos, cela fait environ une heure et demie que tu galères comme un gueux pour faire ta première maison médiévale
-
-
-
-
 
 
 The Red Solstice 2: Survivors, annoncé pour cette année sur Windows
