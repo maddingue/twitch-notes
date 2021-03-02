@@ -1469,7 +1469,7 @@ c'est l'aspect écologique de Square Enix : ils recyclent beaucoup ♻️ ♻️
 
 
 -----------------------
-2021-02-26
+2021-03-01
 
 Samuel Etienne parle de bamboche → https://clips.twitch.tv/NastyHandsomeLardOSsloth-zyi53HVHwBmBG0uR
 
@@ -1518,8 +1518,57 @@ Le monde merveilleux de la gueule de bois, EAN 978-2264069818 → https://livre.
 - shapez.io, 5 € sur Steam (Windows et Linux) → https://store.steampowered.com/app/1318690/
 - Titan Chaser, 4 € sur Steam → https://store.steampowered.com/app/1290170/
 
+-----------------------
+2021-03-01
+
+- 🇫🇷 The Binding of Isaac : Repentance annoncé pour cet été sur PS5 et Switch → https://www.gamekult.com/actualite/the-binding-of-isaac-repentance-annonce-pour-cet-ete-sur-ps5-et-switch-3050836621.html
+- The Binding of Isaac : Repentance - release trailer → https://youtube.com/watch?v=gOaWadhNi0A
+- 🇺🇸 Nicalis issues DMCA against free Cave Story games. Publisher reportedly targeting freeware original, plus fan projects derived from it → https://www.gamesindustry.biz/articles/2020-11-26-nicalis-issues-dmca-against-free-cave-story-games
+- 🎶️ Super Meat Boy! Nice To Meat You LP par Danny Baranowsky, 6 $ sur Bandcamp → https://dbsoundworks.bandcamp.com/album/super-meat-boy-nice-to-meat-you-lp
+
+- 🇺🇸 Hardsuit Labs lays off staff after removal from Bloodlines 2 → https://www.gamasutra.com/view/news/378030/Hardsuit_Labs_lays_off_staff_after_removal_from_Bloodlines_2.php
+  - 🇺🇸 tweet d'Anna Webster → https://twitter.com/annacwebs/status/1366533456499335168
+  - 🇺🇸 tweet de Nicole Stanford → https://twitter.com/nightingalebard/status/1366534784080519169
+
+- 🇫🇷 Forever Entertainment conclut un accord avec Square Enix pour développer plusieurs remakes, mais on ne sait pas de quoi → https://www.gamekult.com/actualite/forever-entertainment-conclut-un-accord-avec-square-enix-pour-developper-plusieurs-remakes-3050836599.html
+  - Blood Omen: Legacy of Kain (PC) Playthrough → https://youtube.com/watch?v=9BboHvCqn50
+  - PSX Longplay - Blood Omen: Legacy of Kain (100%) → https://youtube.com/watch?v=JdeA3WSL55g
+
+- 🇺🇸 'Bungiecon' trademark filed by Destiny 2 developer Bungie. There's few clues as to what bungiecon could actually be → https://www.gamesradar.com/bungiecon-trademark-filed-by-destiny-2-developer-bungie/
+- 🇫🇷 Bandai Namco dépose Bandai Namco Next, une présentation à venir ? → https://www.jeuxvideo.com/news/1371483/bandai-namco-depose-bandai-namco-next-une-presentation-a-venir.htm
+
+- 🇺🇸 A leaked Elden Ring trailer is being actively circulated in online chat groups, VGC can confirm → https://www.videogameschronicle.com/news/a-leaked-elden-ring-trailer-is-being-circulated-online/
+- 🇺🇸 A leaked Elden Ring trailer has surfaced, but you're probably better off waiting for the real thing → https://www.pcgamer.com/a-leaked-elden-ring-trailer-has-surfaced/
+- 🇺🇸 le tweet d'Aaron Greenberg sur Elden Ring → https://twitter.com/aarongreenberg/status/1366127846771494913
+
+- Intel LEAKED Custom HARM Rooms | Marvel's Avengers → https://youtube.com/watch?v=abH3RcweJ1I
+
+- 🇺🇸 EA delays new Need for Speed, shifts Criterion to support Battlefield 6. Criterion Games back to working with DICE, will return to racing series in 2022 → https://www.polygon.com/2021/3/1/22307226/battlefield-6-release-date-need-for-speed-2021-delayed-ea-dice-criterion-codemasters
+- 🇫🇷 Need for Speed retardé, Criterion bascule sur Battlefield 6. Need for a coup de main → https://www.gamekult.com/actualite/need-for-speed-retarde-criterion-bascule-sur-battlefield-6-3050836611.html
+
+- 🇺🇸 How Nacon cracked and pirated The Sinking City (article) → https://frogwares.com/how-nacon-cracked-and-pirated-the-sinking-city/
+  - 🇺🇸 How Nacon cracked and pirated The Sinking City (vidéo) → https://youtube.com/watch?v=VYTSt5oOr5g
+  - 🇫🇷 The Sinking City : Frogwares accuse Nacon d'avoir volé, piraté et modifié le code source de son jeu -- Le conflit entre le studio et l'éditeur prend de nouvelles proportions → https://www.gamekult.com/actualite/the-sinking-city-frogwares-accuse-nacon-d-avoir-vole-pirate-et-modifie-le-code-source-de-son-jeu-3050836615.html
+- 🇺🇸 Nacon blames Frogwares for feature-lacking Steam version of The Sinking City. The publisher of the Lovecraftian mystery game airs out its grievances after developer advises users not to purchase its current Steam version → https://www.gamesindustry.biz/articles/2021-03-01-nacon-blames-frogwares-for-feature-lacking-steam-version-of-the-sinking-city
+
+- Hood: Outlaws & Legends - reveal trailer → https://youtube.com/watch?v=YpJ5au50O0k
+- Hood: Outlaws & Legends - Character Gameplay Trailer - The Ranger → https://youtube.com/watch?v=VF5yLVWVcUs
+
+- 🇺🇸 Sonic 30th Anniversary Concert Revealed in Licensing Magazine → https://www.sonicstadium.org/2021/03/sonic-30th-anniversary-concert-revealed-in-licensing-magazine/
+- 🇫🇷 SEGA préparerait un concert pour célébrer les 30 ans de Sonic → https://www.marseillenews.net/technologie/gaming/sega-preparerait-un-concert-pour-celebrer-les-30-ans-de-sonic-195324.html
+
+- 🇺🇸 PS5 drift law firm offers arbitration opt-out letter for class action members. CSK&D wants to settle the DualSense controller lawsuit in court → https://www.videogameschronicle.com/news/ps5-drift-law-firm-offers-arbitration-opt-out-letter-for-class-action-members/
+
+- Skid Cities, 19 € sur Steam (Windows, Mac, Linux) → https://store.steampowered.com/app/1242630/
+- Dogworld, le 18 mars → https://store.steampowered.com/app/1198210/
+  - Dogworld - release date trailer → https://youtube.com/watch?v=PFXW05-reMw
+- Black Legend, le 25 mars → https://www.BlackLegendGame.com/ | https://store.steampowered.com/app/1094730/
+- Urtuk: The Desolation, 17 € sur Steam ( http://cpc.cx/qIs )   
 
 
+
+
+https://clips.twitch.tv/GoodPolishedCodCoolStoryBob-1SRnUR8_aTZ7QoRB -- ronron de Pop
 
 --------------------------------------------------------------------------------
 
