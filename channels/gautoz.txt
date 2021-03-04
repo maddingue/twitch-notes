@@ -1520,7 +1520,7 @@ Le monde merveilleux de la gueule de bois, EAN 978-2264069818 → https://livre.
 
 
 -----------------------
-2021-03-01
+2021-03-02
 
 - 🇫🇷 The Binding of Isaac : Repentance annoncé pour cet été sur PS5 et Switch → https://www.gamekult.com/actualite/the-binding-of-isaac-repentance-annonce-pour-cet-ete-sur-ps5-et-switch-3050836621.html
 - The Binding of Isaac : Repentance - release trailer → https://youtube.com/watch?v=gOaWadhNi0A
@@ -1571,7 +1571,7 @@ https://clips.twitch.tv/GoodPolishedCodCoolStoryBob-1SRnUR8_aTZ7QoRB -- ronron d
 
 
 -----------------------
-2021-03-01
+2021-03-03
 
 à la gribouillette : jeu consistant à jeter un objet au milieu dʼenfants qui cherchent à lʼattraper → https://fr.wiktionary.org/wiki/gribouillette
 
@@ -1628,6 +1628,72 @@ https://clips.twitch.tv/GoodPolishedCodCoolStoryBob-1SRnUR8_aTZ7QoRB -- ronron d
 - Nightmare Reaper → https://store.steampowered.com/app/1051690/
 
 
+-----------------------
+2021-03-04
+
+jeter son coussinet sur quelque chose : avoir envie d'acheter ou d'obtenir quelque chose ; expression née de l'usage de retenir sa place en y mettant un coussinet → https://www.cnrtl.fr/definition/coussinet
+
+
+- 🇺🇸 The King of Fighters XV - Andy Bogard trailer → https://youtube.com/watch?v=FAVTlrz8fJc
+
+- 🇺🇸 ArcSystemWorks reporte Guilty Gear Strive au 11 juin 2021 → http://cpc.cx/tW6
+  - preview de Guilty Gear Strive par von_yaourt → https://www.gamekult.com/jeux/guilty-gear-3050881037/preview-3050836459.html
+
+- 🇺🇸 Bloomberg reports that a new Nintendo Switch model will have a 7-inch Samsung OLED 720p display → http://cpc.cx/tW7
+- 🇫🇷 [Gamekult] Bloomberg : la "Switch Pro" aura un plus grand écran OLED 720p et sera compatible 4K sur TV → http://cpc.cx/tW8
+- 🇫🇷 [JVC] Switch, un nouveau modèle avec écran OLED pour fin 2021 selon Bloomberg → http://cpc.cx/tWb
+
+- 🇫🇷 [Xbox] Prochainement dans le Xbox Game Pass : NBA 2K21, Football Manager 2021, Star Wars: Squadrons et d’autres → http://cpc.cx/tWj
+
+- 🇫🇷 [Gamekult] Zynga s'offre le studio de Torchlight 3 pour renforcer sa stratégie multiplateforme → http://cpc.cx/tW9
+  - Hob - launch trailer → https://youtube.com/watch?v=EljXnVDHwwI
+
+- Minute of Islands sur Steam → https://minute-of-islands.com/
+
+- 🇫🇷 réponse officielle de Nacon suite aux accusation de Frogwares → http://cpc.cx/tW0
+- 🇫🇷 [Gamekult] The Sinking City : Nacon répond aux accusations de Frogwares → http://cpc.cx/tWh
+- 🇫🇷 [FactorNews] The Sinking Copyright : Nacon pas bunny → http://cpc.cx/tWl
+- 🇫🇷 le tweet de Cédric Lagarrigue → https://twitter.com/Cedriclag/status/1367023814907936778
+
+- 🇺🇸 Hidden Path recrute → https://www.hiddenpath.com/company/careers/
+- Dark Alliance reveal trailer → https://youtube.com/watch?v=lEXgaEGpfHc
+
+- 🇺🇸 Doom 3 VR edition - trailer → https://youtube.com/watch?v=j2E480jlDpE
+- 🇫🇷 [Gamekult] DOOM 3 VR Edition s'annonce sur PlayStation VR, le jeu de base et ses extensions → http://cpc.cx/tWc
+
+- 🇺🇸 After the Fall - cinematic trailer → https://youtube.com/watch?v=khI3FESPx5o
+
+- 🇺🇸 Fracked - teaser trailer → https://youtube.com/watch?v=PiwgUwtJjEA
+- 🇫🇷 [Gamekult] Sony annonce Fracked, un FPS sur PS VR pour cet été, par les développeurs de Phantom Covert Ops → http://cpc.cx/tWn
+
+- 🇺🇸 Song in the Smoke → https://youtube.com/watch?v=5JE5uh74rZw
+
+- Dynasty Warriors 9 Empires - official trailer → https://youtube.com/watch?v=sxX13sKv0Gg
+
+- 💵 Kickstarter de A Long Journey to an Uncertain End: a space opera game → http://cpc.cx/tWo
+  - A Long Journey to an Uncertain End sur Steam → https://store.steampowered.com/app/1164830/
+
+- Solasta: Crown of the Magister → https://store.steampowered.com/app/1096530/
+  - 🇺🇸 Solasta: Crown of the Magister -- Dungeon Maker Showcase - Create your own Dungeons → http://cpc.cx/tWp
+
+- 🇺🇸 Valheim - Five million Vikings → http://cpc.cx/tWs
+- Castlehold → https://store.steampowered.com/app/1425410/
+- 🇺🇸 Magic: Legends - gameplay overview → https://youtube.com/watch?v=Y2HntbHIGf0
+- The Life and Suffering of Sir Brante → https://store.steampowered.com/app/1272160/
+  - les chapitres 1 & 2 sont gratuits sur Steam → https://store.steampowered.com/app/1460090/
+- Everhood → https://store.steampowered.com/app/1229380/
+- Demeo → https://store.steampowered.com/app/1484280/
+- Derelict Void → https://store.steampowered.com/app/1479340/
+- No Plan B → https://store.steampowered.com/app/1269020/
+
+ce soir à 17:00 🕔 NGPX - New Game+ Expo en direct → https://twitch.tv/newgameplusexpo ou commentée par Kamui & Puyo sur https://twitch.tv/gamekultlive
+
+- 🇺🇸 [VGC] PlayStation could let players use bananas as ‘cheap game controllers’. A new Sony patent turns household objects such as fruit into working peripherals → http://cpc.cx/tWa
+
+- 🇫🇷 peaux exclusifs de Ikumi Nakamura 🪐 pour les opérateurs de Rainbox Six Siege → http://cpc.cx/tW1
+  - avec le souci du détails jusqu'aux ongles des opératrices 💅 → http://cpc.cx/tW2
+
+
 
 --------------------------------------------------------------------------------
 
@@ -1652,6 +1718,7 @@ spreadsheet Google avec les morceaux passés dans les Démons du MIDI → https:
 bureau FlexiSpot → https://www.flexispot.fr/
 
 👕 boutique de t-shirts : https://bd-shirt.art/
+👕 Last Exit to Nowhere → https://www.LastExitToNowhere.com/
 
 🖍️ Simon Hutt → https://twitter.com/SimonHuttT | https://instagram.com/simonhuttt/
 
