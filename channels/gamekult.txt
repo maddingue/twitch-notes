@@ -10149,28 +10149,28 @@ développé par Graceful Decay, studio basé à San Francisco 🇺🇸 → https
 
 les jeux annoncés durant NGPX : The Silver Case 2425, Mary Skelter Finale, Rico London, Exophobia, Guilty Gear Strive, Pocky & Rocky Reshrined, Alchemic Cutie, Gnosia, Neptunia reVerse, World's End Club, Ever Forward, Pups & Purrs Animal Hospital, ConnecTank, The Sealed Ampoule, Disgaia 6 Defiance of Destiny, Azure Striker Gunvolt 3, Yomiwosakuhana, Deathend re;Quest, Dairoku Ayakashimori, Guts & Goals, Phantom Brave & Soul Nomad, Blaster Master Zero III
 
-- The Silver Case 2425 le 6 juillet sur Switch
+- The Silver Case 2425 le 6 juillet sur Switch → http://nippon1.jp/consumer/thesilver2425/
 - Mary Skelter Finale à l'automne sur Switch et PlayStation 4 → https://www.compileheart.com/mary-skelter/finale/
 - Rico London, été 2021 sur toutes les consoles → http://numskullgames.com/project/rico-london/
-- Exophobia, le 5 octobre sur toutes les consoles
-- Guilty Gear Strive, le 11 juin 2021 sur PlayStation 4 & 5
-- Pocky & Rocky Reshrined, automne 2021 sur Switch et PlayStation 4
-- Alchemic Cutie, le 27 juillet sur Xbox Series X|S
+- Exophobia, le 5 octobre sur Steam et toutes les consoles → http://zarcattack.com/exophobia/ | https://store.steampowered.com/app/1189220/
+- Guilty Gear Strive, le 11 juin 2021 sur PlayStation 4 & 5 → https://www.arcsystemworks.jp/guiltygear/en/
+- Pocky & Rocky Reshrined, automne 2021 sur Switch et PlayStation 4 → https://www.natsumeatari.co.jp/kuromanto/
+- Alchemic Cutie, le 27 juillet sur Xbox Series X|S → https://AlchemicCutie.com | https://store.steampowered.com/app/913720/
 - Gnosia, sorti aujourd'hui sur Switch
-- Neptunia reVerse, le 8 juin sur PlayStation 5
-- World's End Club, le 28 mai sur Switch
-- Ever Forward, le 29 juin sur toutes les consoles
+- Neptunia reVerse, le 8 juin sur PlayStation 5 → http://ideafintl.com/nep-reverse/
+- World's End Club, le 28 mai sur Switch → https://www.deathmarchclub.com/en/
+- Ever Forward, le 29 juin sur PC et toutes les consoles → https://pathea.net/everforward/ | https://store.steampowered.com/app/1220370/
 - Pups & Purrs Animal Hospital, été 2021 sur Switch
-- ConnecTank, été 2021 sur PC et toutes les consoles
-- The Sealed Ampoule, aujourd'hui sur Steam → https://store.steampowered.com/app/1396980/
-- Disgaia 6 Defiance of Destiny, le 29 juin sur Switch
-- Azure Striker Gunvolt 3, vers 2022 sur Switch
+- ConnecTank, été 2021 sur PC et toutes les consoles → https://twitter.com/connectank
+- The Sealed Ampoule, aujourd'hui sur Steam → https://www.cavyhouse.net/ampoule/ | https://store.steampowered.com/app/1396980/
+- Disgaea 6 Defiance of Destiny, le 29 juin sur Switch → http://disgaea.us/d6/fr/
+- Azure Striker Gunvolt 3, vers 2022 sur Switch → https://gunvolt.com/en/GV3/
 - Yomiwosakuhana, automne 2021 → http://yomibana.jp/
-- Deathend re;Quest 2, 27 avril sur Switch
+- Deathend re;Quest 2, le 27 avril sur Switch → https://ideafintl.com/death-request-2/index.php | https://store.steampowered.com/app/1266220/
 - Dairoku Ayakashimori, automne 2021 sur Switch
-- Guts & Goals, 31 août sur toutes les consoles
+- Guts & Goals, le 31 août Steam et sur toutes les consoles → https://twitter.com/GutsAndGoals | https://store.steampowered.com/app/1042210/
 - Phantom Brave & Soul Nomad, été 2021 sur Switch
-- Blaster Master Zero III, le 29 juillet sur Steam, EGS, Switch et PlayStation 4
+- Blaster Master Zero III, le 29 juillet sur Steam, EGS, Switch et PlayStation 4 → http://BlasterMaster-zero.com/en/zero3/
 
 - Ys IX Monstrum Nox cet été sur Switch et PC
 - Variable Barricade
@@ -10187,6 +10187,24 @@ les jeux annoncés durant NGPX : The Silver Case 2425, Mary Skelter Finale, Rico
 - Code Realize --Wintertide Miracle--
 - Samurai Warriors 5
 
+--------------------------------------
+2021-03-05 - GeoGuessr 🗺️
+
+GeoGuessr 🗺️, existant depuis mai 2013 sur le web
+développé par Anton Wallén, informaticien suédois 🇸🇪
+🌐 gratuit ou payant sur https://GeoGuessr.com/
+
+score : CPC 18 | GK 9
+
+résultat du match : vainqueur Canard PC d'après les scores, Gamekult d'après la règle Gamekult
+
+excuses de sac :
+- j'ai dû lui dire de se démute et j'ai perdu du temps (Noddus)
+- il m'a déconcentré (Noddus)
+- tu t'es clairement mis 2 points sur les épreuves que seul toi connaît (Noddus)
+- j'ai vu une plaque jaune, j'ai paniqué (Noddus)
+
+
 
 📅 le programme de la semaine → http://cpc.cx/tQX
 📅 vendredi 18:00, Noddus vs Ackboo sur GeoGuessr
@@ -10195,16 +10213,9 @@ les jeux annoncés durant NGPX : The Silver Case 2425, Mary Skelter Finale, Rico
 🎮 Tournez Manettes sur la Blizzard Arcade Collection
 ⚙️ Matez mon Matos sur les nouveautés clavier-souris ⌨️ 🖱️
 
---------------------------------------
-2021-03-05 - GeoGuessr 🗺️
-
-GeoGuessr 🗺️, existant depuis mai 2013 sur le web
-développé par Anton Wallén, informaticien suédois 🇸🇪
-🌐 gratuit ou payant sur https://GeoGuessr.com/
 
 
-
-⚠️ Attention ⚠️ baissez le son📢 @GamekultLive il est 18:00 🕕 de Twitch car Puyo va PARLER 🔊
+⚠️ Attention ⚠️ baissez le son de Twitch car Puyo va PARLER 🔊
 CorgiDerp ⭐ Luma_GK ⭐ OhMyDog 
 Julien 💪
 🤘 Kreygasm 
