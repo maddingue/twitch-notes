@@ -10107,7 +10107,7 @@ Blizzard Arcade Collection, sorti le 19 février 2021 sur Switch, PlayStation 4,
 --------------------------------------
 2021-03-01 - Resident Evil HD Remaster
 
-Resident Evil Remake, sorti en janvier 2015 sur PlayStatoin 3 & 4, Xbox 360 & One, et Windows
+Resident Evil Remake, sorti en janvier 2015 sur PlayStation 3 & 4, Xbox 360 & One, et Windows
 remaster HD du remake de 2002 sorti sur GameCube de la version d'origine de 1996
 🎮 20 € sur eShop ( http://cpc.cx/tUp ), PSN ( http://cpc.cx/tUn ), XBL ( http://cpc.cx/tUo )
 ⌨️ 🖱️ 20 € Steam ( http://cpc.cx/tUl ) et Humble ( http://cpc.cx/tUm )
@@ -10221,20 +10221,67 @@ publié par Dear Villagers, branche édition de Plugin Digital (où travaille Bo
 📜️ preview de Luma → http://cpc.cx/tZG
 🎶️ musique par Christoph Jakob 🇩🇪 → https://disomikron.bandcamp.com/
 
-excuses de sac :
+excuses de sac de Luma :
 - j'ai glissé sur la plaque de glace, à cause de l'inertie
 - ça tombe bien, je voulais vous montrer la mort
 
+--------------------------------------
+2021-03-09 - Anger Foot, Jitsu Squad, Get Out Alive Episode 1
+
+Anger Foot, prototype réalisé lors de 7DFPS 2020, disponible sur Windows, Mac et Linux
+développé par Robbie Fraser 💻, Luc Wolthers 🎨 et Jason Sutherland 🎶️, trois développeurs de Free Lives (Brofoce, Genital Jousting, GORN), studio en Afrique du Sud 🇿🇦
+⌨️ 🖱️ au prix que vous voulez sur itch.io → https://squidcor.itch.io/anger-foot
+
+Jitsu Squad, prototype disponible sur Windows depuis le 18 février 2021
+développé par Tanuki Creative Studio, studio de 5 personnes basé à Rotterdam, Pays-Bas 🇳🇱 → https://twitter.com/Tanuki_Creative
+⌨️ 🖱️ au prix que vous voulez sur itch.io → https://tanukicreativestudio.itch.io/jitsu-squad
+💵 Kickstarter en cours mais déjà réussi → http://cpc.cx/u0Y
+
+Get Out Alive Episode 1, prototype disponible sur Windows
+développé par Owl Nest Studios / UnsealedWings, une seule personne
+⌨️ 🖱️ au prix que vous voulez sur itch.io → https://owlneststudios.itch.io/get-out-alive
 
 
 📅 le programme de la semaine → http://cpc.cx/tZF
-📅 mardi 17:30, Anger Foot (Virgile)
-📅 mercredi 17:30, Resident Evil Remake (Hubert & Virgile)
+📅 mercredi 17:30, 😨 😰 les Flippettes de Belleville sur Resident Evil Remake, épisode 2 😱 😱 (Hubert & Virgile)
 📅 jeudi 17:30, Loop Hero (Noddus)
 📅 vendredi 17:30, Street Fighter V (Pipo & Virgile)
 📺 samedi matin, Gamekult l'émission
 🏝️ Rétro Island sur les années Mega Drive du studio Treasure
 🎶️ Gammes Kultes sur le survival horror
+
+--------------------------------------
+2021-03-10 - Resident Evil Remake
+
+😨 😰 les Flippettes de Belleville sur Resident Evil Remake, épisode 2 😱 😱
+
+Resident Evil Remake, sorti en janvier 2015 sur PlayStation 3 & 4, Xbox 360 & One, et Windows
+remaster HD du remake de 2002 sorti sur GameCube de la version d'origine de 1996
+🎮 20 € sur eShop ( http://cpc.cx/tUp ), PSN ( http://cpc.cx/tUn ), XBL ( http://cpc.cx/tUo )
+⌨️ 🖱️ 20 € Steam ( http://cpc.cx/tUl ) et Humble ( http://cpc.cx/tUm )
+
+Resident Evil, originellement sorti en 1996 sur PlayStation, Saturn et Windows
+développé par Capcom, équipe dirigé par Shinji Mikami
+🎶️ musiques par Makoto Tomozawa, Koichi Hiroki, Masami Ueda
+📜️ 8/10 par Dagdag pour la version GameCube (2002) → http://cpc.cx/tUB
+📜️ 6/10 par Puyo pour la version PlayStation 4 (2015) → http://cpc.cx/tUC
+
+nombre de EUH!!! par Hubert : 0
+
+--------------------------------------
+2021-03-11 - Loop Hero
+
+Loop Hero, sorti le 4 mars 2021 sur Windows, Mac et Linux
+développé par FourQuarters team → https://LoopHero.com/
+⌨️ 🖱️ en promo à 12,74 € sur Steam ( http://cpc.cx/tYH ), EGS ( http://cpc.cx/tYI ), Humble ( http://cpc.cx/tYJ ) et GOG ( http://cpc.cx/tYK )
+
+--------------------------------------
+2021-03-12 - Street Fighter V
+
+Street Fighter V, sorti le 16 février 2016 sur PlayStation 4 et Windows
+🎮 20 € sur PSN ( http://cpc.cx/u0a )
+⌨️ 🖱️ 20 € sur Steam ( http://cpc.cx/u0b )
+📜️ 7/10 par Puyo → http://cpc.cx/u09
 
 
 ⚠️ Attention ⚠️ baissez le son de Twitch car Puyo va PARLER 🔊
@@ -10323,7 +10370,7 @@ partenariat GOG : ?pp=aba5d02b57a345ff3db4907de20c963e447ce830
 
 https://www.nintendo.fr/Rechercher/Rechercher-299117.html?f=147394-86
 
-nstagram de Greg https://www.instagram.com/goldengreg_/?hl=fr
+📷 Instagram de Greg https://www.instagram.com/goldengreg_/
 
 🐦 le Twitter d'ALS → https://twitter.com/alexleserveur
 🐦 le Twitter d'Amaebi → https://twitter.com/amaebi_
@@ -10369,11 +10416,12 @@ nstagram de Greg https://www.instagram.com/goldengreg_/?hl=fr
 📡 la chaîne Twitch de Canard PC 🦆 → https://twitch.tv/canardpc
 📡 la chaîne Twitch de Corentin Lamy → https://twitch.tv/corentinwalou
 📡 la chaîne Twitch de ExServ → https://www.twitch.tv/exserv
+📡 la chaîne Twitch du Figaro 🇫 → https://twitch.tv/figaro_live
 📡 la chaîne Twitch de Games Done Quick ⏩ → https://twitch.tv/gamesdonequick
 📡 la chaîne Twitch de Gautoz → https://twitch.tv/gautoz
-📡 la chaîne Twitch du Figaro 🇫 → https://twitch.tv/figaro_live
 📡 la chaîne Twitch de Hubert → https://twitch.tv/snakenh
 📡 la chaîne Twitch de Julien Strong → https://twitch.tv/Ratchetlelombax
+📡 la chaîne Twitch de JV le Mag → https://www.twitch.tv/jvlemag
 📡 la chaîne Twitch de Kamui → https://twitch.tv/kamuirobotics
 📡 la chaîne Twitch de ⭐Luma⭐ → https://twitch.tv/luma_gk
 📡 la chaîne Twitch de Merry → https://twitch.tv/merry
