@@ -10373,8 +10373,8 @@ excuses de sac de Puyo :
 - c'est la faute des nuages ☁️
 
 
-📜️ Les jeux Alien par Patrick Hellio
-⚙️ Matez mon Matos sur Intel et sa stratégie
+📜️ Les jeux Alien par Patrick Hellio → http://cpc.cx/ubj
+⚙️ Matez mon Matos sur Intel et sa stratégie → http://cpc.cx/ubk
 
 
 --------------------------------------
@@ -10390,10 +10390,33 @@ informations du développeur :
 18:10 Tavrox : @Miickachuu c'est le cas :) y'a des paliers de santé pour la phobie et la joueuse qui changent la musique (musique adaptative)
 18:13 Tavrox : le jeu est un peu violent sur les première sessions :D On réfléchit aux patchs pour améliorer tout ça
 
+--------------------------------------
+2021-03-23 - Resident Evil Remake
+
+😨 😰 les Flippettes de Belleville sur Resident Evil Remake, épisode 3 😱 😱
+
+Resident Evil Remake, sorti en janvier 2015 sur PlayStation 3 & 4, Xbox 360 & One, et Windows
+remaster HD du remake de 2002 sorti sur GameCube de la version d'origine de 1996
+🎮 20 € sur eShop ( http://cpc.cx/tUp ), PSN ( http://cpc.cx/tUn ), XBL ( http://cpc.cx/tUo )
+⌨️ 🖱️ 20 € Steam ( http://cpc.cx/tUl ) et Humble ( http://cpc.cx/tUm )
+
+Resident Evil, originellement sorti en 1996 sur PlayStation, Saturn et Windows
+développé par Capcom, équipe dirigé par Shinji Mikami
+🎶️ musiques par Makoto Tomozawa, Koichi Hiroki, Masami Ueda
+📜️ 8/10 par Dagdag pour la version GameCube (2002) → http://cpc.cx/tUB
+📜️ 6/10 par Puyo pour la version PlayStation 4 (2015) → http://cpc.cx/tUC
+
+nombre de morts : 1
+nombre de retours à la salle de sauvegarde : 5
+nombre de EUH!!! : 3
+
+excuses de sac :
+- j'étais pas prêt, normalement il faut plusieurs safe rooms (Hubert)
+- il faut que je me prépare psychologiquement (Hubert)
+
 
 
 📅 le programme de la semaine → http://cpc.cx/u5q
-📅 mardi 17:30, Resident Evil Remake (Hubert & Virgile)
 📅 mercredi 17:30, un jeu mystère où il faut être deux Kappa (Le Père Fidalbion & Sbebiwan)
 📅 jeudi 17:30, suivant arrivages
 📅 vendredi 17:30, ID@Xbox (Noddus & Virgile)
@@ -10403,6 +10426,39 @@ informations du développeur :
 ⛩️ Gaijin Dash sur Monster Hunter World
 ⚙️ Matez mon Matos sur le Wireless Headset Xbox
 🎶️ Gammes Kultes sur Keiichi Yano
+
+--------------------------------------
+2021-03-24 - It Takes Two
+
+It Takes Two, sortie le 26 mars 2021 sur PlayStation 4 & 5, Xbox One & Series X|S et Windows
+développé par Hazelight (A Way Out), studio de Josef Fares basé à Stockholm 🇸🇪 → https://www.ea.com/fr-fr/games/it-takes-two
+🎮 40 € sur PSN ( http://cpc.cx/ubf ) et XBL ( http://cpc.cx/ubg )
+⌨️ 🖱️ 40 € sur Steam ( http://cpc.cx/ube )
+
+--------------------------------------
+2021-03-25 - ???
+
+--------------------------------------
+2021-03-26 - ID@Xbox
+
+📅 18:00 🕔 ID@Xbox
+📡 la conférence en direct → https://twitch.tv/xbox
+
+nouveau jeu de Drinkbox
+
+The Gunk
+
+- 12 minutes
+- Bright Memory: Infinite / 光明记忆: 无限, par FYQD Studio, annoncé courant 2021 sur PlayStation 5, Xbox Series X|S et Windows → <https://store.steampowered.com/app/1178830/>
+- Chorus, par Fishlabs, annoncé courant 2021 sur PlayStation 4 & 5, Xbox One & Series X|S, Stadia et Windows → <https://ChorusTheGame.com/> | <https://store.steampowered.com/app/1153640/>
+- Exo One, par Exbleative, annoncé sur Windows → <https://exo-one-game.com/> | <https://store.steampowered.com/app/773370/>
+- Scarlet Nexus, par Bandai Namco, sortie le 25 juin 2021 sur PlayStation 4 & 5, Xbox One & Series X|S → <https://en.bandainamcoent.eu/scarlet-nexus/scarlet-nexus>
+- Scorn, par Ebb Software, annoncé courant 2021 sur Xbox Series X|S et Windows → <http://www.scorn-game.com> | <https://store.steampowered.com/app/698670/>
+- Second Extinction Reclaim Earth, par Avalanche / Systemic Reaction, en accès anticipé sur Windows, prévu sur Xbox One & Series X|S → <https://SecondExtinctiongame.com>
+- S.T.A.L.K.E.R. 2, par GSC Game World, annoncé courant 2021 sur Xbox Series X|S et Windows → <https://www.stalker2.com/>
+- The Ascent, par Neon Giant, annoncé courant 2021 sur Xbox One & Series X|S et Windows → <https://xbox.com/fr-fr/games/the-ascent> | <https://store.steampowered.com/app/979690/>
+- The Wild at Heart, par Moonlight Kids, annoncé courant 2021 sur Xbox One & Series X|S et Windows → <https://MoonlightKids.co/the-wild-at-heart> | <https://store.steampowered.com/app/1093290/>
+- Voidtrain, par Nearga, annoncé pour 2022 sur Windows → <https://store.steampowered.com/app/1159690/>
 
 
 ⚠️ Attention ⚠️ baissez le son de Twitch car Puyo va PARLER 🔊
