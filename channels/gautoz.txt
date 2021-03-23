@@ -2389,10 +2389,67 @@ bastringueur
 - The Last Divinity, DLC de Monster Train → https://store.steampowered.com/app/1359320/
 - 🇺🇸 [Gematsu] Maneater for Switch launches May 25. Shark action RPG finally gets a release date for Nintendo platform → http://cpc.cx/uaS
 
+
+-----------------------
+2021-03-23
+
+- [YouTube] Atomic Heart - ultra detailed photo mode → https://youtu.be/mJe-YWLJXj4
+- 🇺🇸 [Gematsu] Atomic Heart ‘Photo Mode’ trailer, screenshots → http://cpc.cx/ubA
+
+- 🇺🇸 [GamesIndustry] Microsoft among suitors for Discord in reported $10b deal. Multiple reports suggest chat startup is in talks for a potential sale → http://cpc.cx/ubu
+
+- 🇺🇸 [VGC] Xbox confirms ‘network’ name switch and says it’s ‘to distinguish the online service from XBL Gold’. Platform holder explains dashboard naming adjustment → http://cpc.cx/ubE
+- 🇺🇸 [The Verge] Microsoft rebrands Xbox Live to Xbox network → http://cpc.cx/ubF
+
+- [YouTube] The Gunk - trailer → https://youtu.be/Bl385t8A_3k
+
+- 🇺🇸 [Gematsu] Resident Evil 7: Biohazard Gold Edition coming to Stadia on April 1; Resident Evil Village coming at launch → http://cpc.cx/ubB
+- 🇺🇸 [Gmaes Industry] Capcom: “We're still shipping over 1m Resident Evil 7 units annually almost four years after its launch" → http://cpc.cx/ubI
+
+- 🐦 [Twitter / Nibel] Bloomberg: next Nintendo Switch will use a new NVIDIA chip that supports DLSS to produce 4K visuals → https://twitter.com/Nibellion/status/1374256985680515080
+- 🇺🇸 [Bloomberg] Nintendo to Use New Nvidia Graphics Chip in 2021 Switch Upgrade → http://cpc.cx/ubD
+- 🇺🇸 [The Verge] OLED Nintendo Switch reportedly uses new Nvidia chip with DLSS support. It’s said to be planned for this holiday season → http://cpc.cx/ubG
+
+- 🇺🇸 [The Gamer] Report: PS3, Vita, And PSP Stores To Be Permanently Closed In A Few Months. Hasta la Vita, baby → http://cpc.cx/ubK
+
+- 🇺🇸 [VGC] Group shares ‘700 PS2 game prototypes’ including Shadow of the Colossus, Final Fantasy X and more. Project Deluge preserves pre-release games gathered from developers and collectors → http://cpc.cx/uau
+- 🇺🇸 [Hidden Palace] Project Deluge: PlayStation 2 → http://cpc.cx/uat
+
+- [YouTube] Ready or Not - Void Interactive en partenariat avec Team 17 → https://youtu.be/SE19zvUgtWM | https://team17.com/introducing-ready-or-not/
+
+- 🇫🇷 [Le Figaro] Les magasins de jeux vidéo vont rouvrir en zones confinées → http://cpc.cx/ubq
+- 🇫🇷 [Gamekult] Les boutiques et rayons de jeux vidéo peuvent finalement ouvrir pendant le confinement → http://cpc.cx/ubp
+- 🇫🇷 [JVC] Confinement : Les magasins spécialisés peuvent rouvrir sous conditions → http://cpc.cx/ubt
+
+- 🇫🇷 [Gamekult] Nacon met Cyanide sur une simulation de restauration, Chef Life - A Restaurant Simulator fera partie d'une gamme de cinq simulations → http://cpc.cx/ubr
+
+- 🇫🇷 [Gamekult] The Long Dark : Hinterland annonce 5 millions de ventes et pense à l'avenir. L'épisode 4 du mode histoire est encore en production → http://cpc.cx/ubs
+
+- 🇺🇸 [Gematsu] Mountain climbing adventure roguelike Insurmountable launches April 29 for PC, later for PS4 and Xbox One. Switch version also being considered → http://cpc.cx/ubM
+
+- [YouTube] Them Fightin' Herds - Shanty trailer → https://youtu.be/hiw3kMTAVFo
+
+- Mom's Sweet Home, gratuit sur itch.io → https://poulpass.itch.io/moms-sweet-home
+- Resonance of Fate 2 → https://yonax.itch.io/resonance-of-fate-2
+- Arc Apellago, gratuit sur Steam → https://store.steampowered.com/app/1454430/
+
+
+
 - 🇺🇸 
 - 🇫🇷 
 - 🇯🇵 
 - [YouTube] 
+
+- 🇫🇷 [Gamekult] Sony Interactive Entertainment annonce quelques changements dans sa direction, dont une promotion pour Hideaki Nishino → http://cpc.cx/ubo
+
+- 🇫🇷 [JVC] Nintendo développe une application Pikmin avec Niantic (Pokémon GO) → http://cpc.cx/ubv
+- 🇺🇸 [GamesIndustry] Niantic to make Nintendo AR mobile games. First project of new partnership will be a walking-oriented Pikmin game set to launch later this year → http://cpc.cx/ubw
+
+- 🇺🇸 [GamesIndustry] ByteDance (TikTok) acquires Moonton Technology. The transaction reportedly valued the Shanghai-based studio at $4 billion → http://cpc.cx/ubx
+
+- 🇺🇸 [VGC] Sega’s Astro City Mini is coming to the West via Limited Run Games. Pre-orders will open on March 26 for the US version, which features localised packaging → http://cpc.cx/uby
+
+- 🇺🇸 [Gematsu] Resident Evil Showcase #2 set for April, featuring new game content and Resident Evil 25th anniversary news → http://cpc.cx/ubC
 
 
 
@@ -2403,9 +2460,6 @@ bastringueur
 - 🇫🇷 [Gamekult] S.T.A.L.K.E.R. 2 : de nouvelles images avant le ID@Xbox. GSC calme les ardeurs → http://cpc.cx/uay
 
 - 🇫🇷 [Gamekult] Une démo à venir pour R-Type Final 2, le 1er avril sur Switch et PlayStation 4 → http://cpc.cx/uaC
-
-- 🇺🇸 [VGC] Group shares ‘700 PS2 game prototypes’ including Shadow of the Colossus, Final Fantasy X and more. Project Deluge preserves pre-release games gathered from developers and collectors → http://cpc.cx/uau
-- 🇺🇸 [Hidden Palace] Project Deluge: PlayStation 2 → http://cpc.cx/uat
 
 - 🇺🇸 [GamesIndustry] Valve blocks Super Seducer 3 from Steam. Multiple product reviews left Valve at "an impasse" with seduction game creator Richard LeRuina → http://cpc.cx/uaw
 
