@@ -10436,24 +10436,78 @@ https://www.monsterhunter.com/rise/fr/
 --------------------------------------
 2021-03-26 - ID@Xbox
 
-📅 18:00 🕔 ID@Xbox
-📡 la conférence en direct → https://twitch.tv/xbox
+📅 17:00 🕔 ID@Xbox
+📡 la conférence en direct → https://twitch.tv/twitchgaming
 
-nouveau jeu de par DrinkBox Studios (Severed, Guacamelee 1 & 2, Mutant Blobs Attack) → <http://DrinkBoxStudios.com/>
+jeux présentés durant ID@Xbox : ExoMecha, The Ascent, Omno, The Wild at Heart, Voidtrain, Moonglow Bay, art of rally, Craftopia, Rust, Narita Boy, Hello Neighbor 2, Soup Pot, Demon Turf, Enlisted, Chivalry II, Song of Iron, Exo One, Nobody Saves the World, Astria Ascending, Last Oasis, Lost Eidolons, Lawn Mawing Simulator, Loot River, Among Us, Death's Door, Second Extinction, Blaster Master Zero III, S.T.A.L.K.E.R. 2, 12 minutes, Last Stop
 
-
-- 12 minutes, par Nomada Studio, annoncé courant 2021 sur Xbox One & Series X|S et Windows → <https://TwelveMinutesGame.com/> | <https://store.steampowered.com/app/1097200/>
-- Bright Memory: Infinite / 光明记忆: 无限, par FYQD Studio, annoncé courant 2021 sur PlayStation 5, Xbox Series X|S et Windows → <https://store.steampowered.com/app/1178830/>
-- Chorus, par Fishlabs, annoncé courant 2021 sur PlayStation 4 & 5, Xbox One & Series X|S, Stadia et Windows → <https://ChorusTheGame.com/> | <https://store.steampowered.com/app/1153640/>
-- Exo One, par Exbleative, annoncé sur Windows → <https://exo-one-game.com/> | <https://store.steampowered.com/app/773370/>
-- Scarlet Nexus, par Bandai Namco, sortie le 25 juin 2021 sur PlayStation 4 & 5, Xbox One & Series X|S → <https://en.bandainamcoent.eu/scarlet-nexus/scarlet-nexus>
-- Scorn, par Ebb Software, annoncé courant 2021 sur Xbox Series X|S et Windows → <http://www.scorn-game.com> | <https://store.steampowered.com/app/698670/>
-- Second Extinction Reclaim Earth, par Avalanche / Systemic Reaction, en accès anticipé sur Windows, prévu sur Xbox One & Series X|S → <https://SecondExtinctiongame.com>
-- S.T.A.L.K.E.R. 2, par GSC Game World, annoncé courant 2021 sur Xbox Series X|S et Windows → <https://www.stalker2.com/>
+- ExoMecha, par Twisted Red, août 2021 sur Xbox One & Series et PC → https://www.ExoMecha.com/
 - The Ascent, par Neon Giant, annoncé courant 2021 sur Xbox One & Series X|S et Windows → <https://xbox.com/fr-fr/games/the-ascent> | <https://store.steampowered.com/app/979690/>
-- The Gunk, par Image & Form Games (les jeux SteamWorld), annoncé sur Xbox One & Series X|S et Windows → <https://imageform.se/game/the-gunk/>
+- Omno, par StudioInkyfox, été 2021 sur PC → http://www.PlayOmno.com
 - The Wild at Heart, par Moonlight Kids, annoncé pour septembre 2021 sur Xbox One & Series X|S et Windows → <https://MoonlightKids.co/the-wild-at-heart> | <https://store.steampowered.com/app/1093290/>
 - Voidtrain, par Nearga, annoncé pour 2022 sur Windows → <https://store.steampowered.com/app/1159690/>
+
+tir rapide (25 jeux) :
+  - Never Yield
+  - The Forest Cathedral
+  - Princess Farmer
+  - Spacelines from the Farout
+  - Little witch in the wood
+  - Knight Squad 2
+  - Iron Corbo Kung Fu Janitor
+  - Echo Generation
+  - Despxxxxxx
+  - Alba
+  - Madstreets
+  - The Riftbreaker → https://store.steampowered.com/app/780310/
+  - An Airport for Aliens Currently Run by Dogs → https://store.steampowered.com/app/1246250/
+  - Super Space Club
+  - Lake
+  - The Big Con
+  - Atrio the dark wild
+  - Cloud Gardens
+  - Alchemic Cutie
+  - Griftlands
+  - Adios
+  - Clouzy
+  - Onsen master
+  - D & D Dark Alliance
+ 
+- Moonglow Bay, par Bunnyhug, annoncé pour 2021 dans le Games Pass sur Xbox et PC → http://BunnyhugGames.com/ | https://youtu.be/Rx_3vi4pVzw
+- art of rally, 21 €, sorti le 20 septembre 2020 sur PC → http://artofrally.com
+- Craftopia, 21 € , en accès anticipé sur Steam depuis le 4 septembre 2020 → https://store.steampowered.com/app/1307550/
+- Rust sur consoles → http://rust.facepunch.com
+- Narita Boy, par Studio Koba, annoncé pour 2021 sur Switch, PlayStation 4, Xbox One, Windows, Mac et Linux → https://naritaboy-game.com/
+- Hello Neighbor 2, alpha prévue pour 2021 sur PC → http://helloneighbor2.com | https://store.steampowered.com/app/1321680/
+- Soup Pot, annoncé pour 2021 sur Xbox Series X|S et PC → https://www.chikon.club/
+
+- Demon Turf, annoncé pour 2021 sur Switch, Xbox et PC → http://demonturf.com
+- Enlisted - Invasion of Normandy M2 Hype Squad, disponible sur PlayStation 5, Xbox Series X|S et PC → https://enlisted.net/
+- Chivalry II, le 8 juin 2021
+- Song of Iron
+- Exo One, par Exbleative, annoncé sur Windows → <https://exo-one-game.com/> | <https://store.steampowered.com/app/773370/>
+- Nobody Saves the World, nouveau jeu de par DrinkBox Studios (Severed, Guacamelee 1 & 2, Mutant Blobs Attack) → <http://DrinkBoxStudios.com/>
+- Astria Ascending, par Artisan Studio
+- Last Oasis, en accès anticipé depuis mars 2020 sur PC
+- Lost Eidolons
+- Lawn Mawing Simulator
+- Loot River, par straka.studio, annoncé sur Xbox et PC → http://lootriver.com
+- Among Us
+- Death's Door, par Acid Nerve (Titan Souls)
+- Second Extinction Reclaim Earth, par Avalanche / Systemic Reaction, en accès anticipé sur Windows, prévu sur Xbox One & Series X|S → <https://SecondExtinctiongame.com>
+- We Are The Caretakers, par Heart Shaped Games, annoncé le 22 avril 2021 sur PC → <http://www.WeAreTheCaretakers.com>
+- Blaster Master Zero III, le 29 juillet sur Steam, EGS, Switch, PlayStation et Xbox → http://BlasterMaster-zero.com/en/zero3/ 
+- S.T.A.L.K.E.R. 2, par GSC Game World, annoncé courant 2021 sur Xbox Series X|S et Windows → <https://www.stalker2.com/>
+- 12 minutes, par Luis Antonio, annoncé courant 2021 sur Xbox One & Series X|S et Windows → <https://TwelveMinutesGame.com/> | <https://store.steampowered.com/app/1097200/>
+- Last Stop, par Variable State, annoncé courant 2021 sur PC → https://store.steampowered.com/app/1122690/
+
+
+jeux non montrés :
+- Bright Memory: Infinite / 光明记忆: 无限, par FYQD Studio, annoncé courant 2021 sur PlayStation 5, Xbox Series X|S et Windows → <https://store.steampowered.com/app/1178830/>
+- Chorus, par Fishlabs, annoncé courant 2021 sur PlayStation 4 & 5, Xbox One & Series X|S, Stadia et Windows → <https://ChorusTheGame.com/> | <https://store.steampowered.com/app/1153640/>
+- Scarlet Nexus, par Bandai Namco, sortie le 25 juin 2021 sur PlayStation 4 & 5, Xbox One & Series X|S → <https://en.bandainamcoent.eu/scarlet-nexus/scarlet-nexus>
+- Scorn, par Ebb Software, annoncé courant 2021 sur Xbox Series X|S et Windows → <http://www.scorn-game.com> | <https://store.steampowered.com/app/698670/>
+- The Gunk, par Image & Form Games (les jeux SteamWorld), annoncé sur Xbox One & Series X|S et Windows → <https://imageform.se/game/the-gunk/>
 
 
 📅 le programme de la semaine → http://cpc.cx/u5q
@@ -10461,9 +10515,9 @@ nouveau jeu de par DrinkBox Studios (Severed, Guacamelee 1 & 2, Mutant Blobs Att
 📺 samedi matin, Gamekult l'émission
 📜️ Que reste-t-il de Inside ?
 🏴‍☠️ Butin de Nerd
-⛩️ Gaijin Dash sur Monster Hunter World
+⛩️ Gaijin Dash sur Monster Hunter World → http://cpc.cx/uet
+🎶️ Gammes Kultes sur Keiichi Yano → http://cpc.cx/ueu
 ⚙️ Matez mon Matos sur le Wireless Headset Xbox
-🎶️ Gammes Kultes sur Keiichi Yano
 
 
 ⚠️ Attention ⚠️ baissez le son de Twitch car Puyo va PARLER 🔊
