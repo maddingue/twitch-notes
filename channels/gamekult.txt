@@ -10441,9 +10441,9 @@ https://www.monsterhunter.com/rise/fr/
 
 jeux présentés durant ID@Xbox : ExoMecha, The Ascent, Omno, The Wild at Heart, Voidtrain, Moonglow Bay, art of rally, Craftopia, Rust, Narita Boy, Hello Neighbor 2, Soup Pot, Demon Turf, Enlisted, Chivalry II, Song of Iron, Exo One, Nobody Saves the World, Astria Ascending, Last Oasis, Lost Eidolons, Lawn Mawing Simulator, Loot River, Among Us, Death's Door, Second Extinction, Blaster Master Zero III, S.T.A.L.K.E.R. 2, 12 minutes, Last Stop
 
-- ExoMecha, par Twisted Red, août 2021 sur Xbox One & Series et PC → https://www.ExoMecha.com/
-- The Ascent, par Neon Giant, annoncé courant 2021 sur Xbox One & Series X|S et Windows → <https://xbox.com/fr-fr/games/the-ascent> | <https://store.steampowered.com/app/979690/>
-- Omno, par StudioInkyfox, été 2021 sur PC → http://www.PlayOmno.com
+- ExoMecha, par Twisted Red, août 2021 sur Xbox One & Series et PC → https://www.ExoMecha.com/ | https://youtu.be/8Nl-fWIjcDA
+- The Ascent, par Neon Giant, annoncé courant 2021 sur Xbox One & Series X|S et Windows → <https://xbox.com/fr-fr/games/the-ascent> | <https://store.steampowered.com/app/979690/> | https://youtu.be/qCwZ7gH3MOY
+- Omno, par StudioInkyfox, été 2021 sur PC → http://www.PlayOmno.com | https://youtu.be/msSlwXdajmk
 - The Wild at Heart, par Moonlight Kids, annoncé pour septembre 2021 sur Xbox One & Series X|S et Windows → <https://MoonlightKids.co/the-wild-at-heart> | <https://store.steampowered.com/app/1093290/>
 - Voidtrain, par Nearga, annoncé pour 2022 sur Windows → <https://store.steampowered.com/app/1159690/>
 
@@ -10481,19 +10481,19 @@ tir rapide (25 jeux) :
 - Hello Neighbor 2, alpha prévue pour 2021 sur PC → http://helloneighbor2.com | https://store.steampowered.com/app/1321680/
 - Soup Pot, annoncé pour 2021 sur Xbox Series X|S et PC → https://www.chikon.club/
 
-- Demon Turf, annoncé pour 2021 sur Switch, Xbox et PC → http://demonturf.com
+- Demon Turf, annoncé pour 2021 sur Switch, Xbox et PC → http://DemonTurf.com
 - Enlisted - Invasion of Normandy M2 Hype Squad, disponible sur PlayStation 5, Xbox Series X|S et PC → https://enlisted.net/
 - Chivalry II, le 8 juin 2021
 - Song of Iron
-- Exo One, par Exbleative, annoncé sur Windows → <https://exo-one-game.com/> | <https://store.steampowered.com/app/773370/>
-- Nobody Saves the World, nouveau jeu de par DrinkBox Studios (Severed, Guacamelee 1 & 2, Mutant Blobs Attack) → <http://DrinkBoxStudios.com/>
+- Exo One, par Exbleative, annoncé sur Windows → <https://exo-one-game.com/> | <https://store.steampowered.com/app/773370/> | https://youtu.be/jnkKzKbtF_U
+- Nobody Saves the World, nouveau jeu de par DrinkBox Studios (Severed, Guacamelee 1 & 2, Mutant Blobs Attack) → <http://DrinkBoxStudios.com/> | https://youtu.be/4lk-duAg9eI
 - Astria Ascending, par Artisan Studio
-- Last Oasis, en accès anticipé depuis mars 2020 sur PC
+- Last Oasis, en accès anticipé depuis mars 2020 sur PC → https://youtu.be/-mIH_MFCAkY
 - Lost Eidolons
 - Lawn Mawing Simulator
-- Loot River, par straka.studio, annoncé sur Xbox et PC → http://lootriver.com
+- Loot River, par straka.studio, annoncé sur Xbox et PC → http://LootRiver.com
 - Among Us
-- Death's Door, par Acid Nerve (Titan Souls)
+- Death's Door, par Acid Nerve (Titan Souls), annoncé courant 2021 sur Xbox et PC → https://playdeathsdoor.com | https://store.steampowered.com/app/894020/
 - Second Extinction Reclaim Earth, par Avalanche / Systemic Reaction, en accès anticipé sur Windows, prévu sur Xbox One & Series X|S → <https://SecondExtinctiongame.com>
 - We Are The Caretakers, par Heart Shaped Games, annoncé le 22 avril 2021 sur PC → <http://www.WeAreTheCaretakers.com>
 - Blaster Master Zero III, le 29 juillet sur Steam, EGS, Switch, PlayStation et Xbox → http://BlasterMaster-zero.com/en/zero3/ 
@@ -10510,14 +10510,37 @@ jeux non montrés :
 - The Gunk, par Image & Form Games (les jeux SteamWorld), annoncé sur Xbox One & Series X|S et Windows → <https://imageform.se/game/the-gunk/>
 
 
-📅 le programme de la semaine → http://cpc.cx/u5q
-📅 vendredi 17:30, ID@Xbox (Noddus & Virgile)
-📺 samedi matin, Gamekult l'émission
-📜️ Que reste-t-il de Inside ?
-🏴‍☠️ Butin de Nerd
 ⛩️ Gaijin Dash sur Monster Hunter World → http://cpc.cx/uet
 🎶️ Gammes Kultes sur Keiichi Yano → http://cpc.cx/ueu
 ⚙️ Matez mon Matos sur le Wireless Headset Xbox
+
+
+--------------------------------------
+2021-03-29 - It Takes Two
+
+It Takes Two, sortie le 26 mars 2021 sur PlayStation 4 & 5, Xbox One & Series X|S et Windows
+développé par Hazelight (A Way Out), studio de Josef Fares basé à Stockholm 🇸🇪 → https://www.ea.com/fr-fr/games/it-takes-two
+🎮 40 € sur PSN ( http://cpc.cx/ubf ) et XBL ( http://cpc.cx/ubg )
+⌨️ 🖱️ 40 € sur Steam ( http://cpc.cx/ube )
+📜️ 8/10 par Le Père Fidalbion → http://cpc.cx/uf5
+
+excuses de sac :
+- le collage automatique, ça me perturbe (Sbebiwan)
+- j'avais pas vu la perspective de la plate-forme (Sbebiwan)
+- j'ai pas vu les ombres (Sbebiwan)
+- je en regardais pas le bon écran (Sbebiwan)
+
+
+📅 le programme de la semaine → http://cpc.cx/ufW
+📅 mardi 17:30, Narita Boy (Pipo)
+📅 mercredi 17:30, Resident Evil Remake, épisode 4 😱 😱
+📅 jeudi 17:30, Evil Genius 2 (Noddus)
+📅 vendredi 17:30, The Binding of Isaac - Repentance BibleThump 
+📺 samedi matin, Gamekult l'émission
+🏴‍☠️ Butin de Nerd → http://cpc.cx/ufV
+📜️ Que reste-t-il de Inside ?
+👾️ Retro Dash sur les 20 ans de la GameBoy Advance
+📱️ Juste un doigt
 
 
 ⚠️ Attention ⚠️ baissez le son de Twitch car Puyo va PARLER 🔊
