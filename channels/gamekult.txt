@@ -10542,17 +10542,6 @@ développé par Studio Koba, studio basé à Barcelone 🇪🇸 → https://Nari
 ⚙️ le moteur du jeu est Unity
 ⏱️ durée de jeu : entre 7 et 8 h
 
-
-📅 le programme de la semaine → http://cpc.cx/ufW
-📅 mercredi 17:30, Resident Evil Remake, épisode 4 😱 😱
-📅 jeudi 17:30, Evil Genius 2 (Noddus)
-📅 vendredi 17:30, The Binding of Isaac - Repentance BibleThump (Luma)
-📺 samedi matin, Gamekult l'émission
-🏴‍☠️ Butin de Nerd → http://cpc.cx/ufV
-📜️ Que reste-t-il de Inside ?
-👾️ Retro Dash sur les 20 ans de la GameBoy Advance
-📱️ Juste un doigt
-
 --------------------------------------
 2021-03-31 - Resident Evil Remake, épisode 4 😱 😱
 
@@ -10570,11 +10559,21 @@ développé par Capcom, équipe dirigé par Shinji Mikami
 📜️ 6/10 par Puyo pour la version PlayStation 4 (2015) → http://cpc.cx/tUC
 
 nombre de morts : 0
-nombre de retours à la salle de sauvegarde : 0
-nombre de EUH!!! : 0
+nombre de retours à la salle de sauvegarde : 5
+nombre de EUH!!! : 2
 
 excuses de sac :
 - 
+
+
+📅 le programme de la semaine → http://cpc.cx/ufW
+📅 jeudi 17:30, Evil Genius 2 (Noddus)
+📅 vendredi 17:30, The Binding of Isaac - Repentance BibleThump (Luma)
+📺 samedi matin, Gamekult l'émission
+🏴‍☠️ Butin de Nerd → http://cpc.cx/ufV
+📜️ Que reste-t-il de Inside ?
+👾️ Retro Dash sur les 20 ans de la GameBoy Advance
+📱️ Juste un doigt
 
 --------------------------------------
 2021-04-01 - Evil Genius 2
