@@ -10602,13 +10602,47 @@ suggestions de thèmes pour les entractes :
 - les jeux "avec une moustache" (genre Dead Cells "avec une moustache") (Nayden)
 
 
-📅 le programme de la semaine → http://cpc.cx/ufW
-📺 samedi matin, Gamekult l'émission
 🏴‍☠️ Butin de Nerd → http://cpc.cx/ufV
 ⌨️ 🖱️ QuickLoad ne loop pas son train du mois de mars → http://cpc.cx/uiM | http://cpc.cx/uiN
 📜️ Que reste-t-il de Inside ? → http://cpc.cx/uiL
 👾️ Retro Dash sur les 20 ans de la GameBoy Advance → http://cpc.cx/uj2
 📱️ Juste un doigt
+
+
+--------------------------------------
+2021-04-06 - Before Your Eyes (annulé), art of rally
+
+Before Your Eyes, sortie le 8 avril 2021 sur Windows
+développé par GoodbyeWorld Games, studio de 9 personnes basé à Los Angeles 🇺🇸 → https://BeforeYourEyesGame.com/
+⌨️ 🖱️ page Steam (http://cpc.cx/ulj)
+🎶️ musique par Dillon Terry
+
+art of rally, sorti le 20 septembre 2020 sur Windows, Mac et Linux, vers fin 2021 sur Xbox
+développé par Funselektor Labs (Absolute Drift), studio de 13 personnes basé à Vancouver 🇨🇦 → http://artofrally.com
+⌨️ 🖱️ 21 € sur Steam (http://cpc.cx/ulm) et GOG (http://cpc.cx/uln)
+⌨️ 🖱️ démo gratuite sur itch.io (http://cpc.cx/ulo)
+🎶️ musique par Tatreal, 5 $ sur Bandcamp → http://cpc.cx/ulp
+⚙️ le moteur du jeu est Unity
+
+excuses de sac :
+- il tombe des steaks dehors ! 🌨️ (Florian)
+- je prends vos questions à la fin car j'essaye de performer (Florian)
+- (j'ai touché le joystick droit ???)
+- (il me semble que j'ai un petit dégât sur la direction)
+
+
+pendant ce temps, je vous imagine à admirer la nouvelle image de fond du compte Twitter de Gamekult, qui devrait rappeler d'excellents souvenirs à qui regarde la série Hubert sur Resident Evil → https://twitter.com/gamekult
+
+
+📅 le programme de la semaine → http://cpc.cx/ulb
+📅 mercredi 17:30, Noita (Noddus)
+📅 jeudi 17:30, Cozy Grove (Luma)
+📅 vendredi 17:30, Oddworld Soulstorm (Virgile)
+📺 samedi matin, Gamekult l'émission
+🎶️ Gammes Kultes sur une histoire du rogue-lite en une douzaine de morceaux
+📜️ Article de von yaourt sur l'imbroglio juridique entre Frogwares et Nacon
+📚️ Lecture seule sur L’Histoire de Naughty Dog, Tomb Raider The Art of Survival et Voyagez au Japon : du pixel au réel
+📰️ première partie de l'enquête Gamekult et Libération : Culture du crunch et détresse étudiante au sein des écoles de jeu vidéo → http://cpc.cx/ulq
 
 
 ⚠️ Attention ⚠️ baissez le son de Twitch car Puyo va PARLER 🔊
