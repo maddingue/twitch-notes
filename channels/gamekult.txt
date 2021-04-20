@@ -10756,16 +10756,28 @@ développé par Nameless XIII, le nouveau studio de Hervé Bonin, cofondateur de
 🔡 disponible en français, anglais, allemand, espagnol, chinois simplifié & traditionnel
 
 
+--------------------------------------
+2021-04-20 - Hitchhiker
+
+Hitchhiker - A Mystery Game, sorti le 26 mars 2021 sur iOS et Mac, le 15 avril sur Switch, PlayStation, Xbox et Windows
+développé par Mad About Pandas, studio allemand 🇩🇪 d'une douzaine de personnes → https://hitchhiker-game.com/ | https://madaboutpandas.de/
+📱️ inclus dans Apple Arcade (http://cpc.cx/uwf)
+🎮 20 € sur eShop (http://cpc.cx/uwd), PSN (http://cpc.cx/uwe) et Xbox (http://cpc.cx/uwc)
+⌨️ 🖱️ en promo à 12,14 € sur Steam (http://cpc.cx/uw9), Humble (http://cpc.cx/uwa) et GOG (http://cpc.cx/uwb)
+
+excuses de sac :
+- l'étalonnage de mon écran est mal réglé (Virgile)
+
 
 📅 le programme de la semaine → http://cpc.cx/uq3
-📅 mardi 17:30, Hitchhiker (Virgile)
+📅 mardi 17:30, 
 📅 mercredi 17:30, Resident Evil Remake, épisode 6 😰 😱
 📅 jeudi 17:30, selon arrivages
 📅 vendredi 17:30, Wonder Boy Asha in Monster World (Puyo)
 📺 samedi matin, Gamekult l'émission
 ⛩️ Gaijin Dash sur NieR
 📜️ Patrick Hellio à la rencontre des développeurs de ScourgeBringer
-📜️ Article de von yaourt sur l'imbroglio juridique entre Frogwares et Nacon
+📜️ Article de von_yaourt sur l'imbroglio juridique entre Frogwares et Nacon → http://cpc.cx/uw7
 📚️ Lecture seule sur L’Histoire de Naughty Dog, Tomb Raider The Art of Survival et Voyagez au Japon : du pixel au réel
 🎶️ Gammes Kultes
 
