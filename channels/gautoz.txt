@@ -4022,27 +4022,12 @@ jeux présentés : Route 96, Aerial Knight's Never Yield, Last Stop, Hindsight, 
 - 🇫🇷 [Gamekult] Deedlit in Wonder Labyrinth passe le cap des 100.000 téléchargements → http://cpc.cx/uFY
 - 🇺🇸 [Gematsu] Record of Lodoss War: Deedlit in Wonder Labyrinth sales top 100,000 → http://cpc.cx/uFZ
 
-- 🇺🇸 [PC Gamer] Paradox Interactive says player toxicity is driving developers away from its forums. Paradox developers are tired of dealing with a culture "that is not enjoyable to take part in" → http://cpc.cx/uG0
-
 - 🇺🇸 [The Verge] As Epic v. Apple approaches the courtroom, Valve is getting sued over Steam too. The creator of the Humble Bundle says Steam is effectively a PC gaming monopoly → http://cpc.cx/uG4
-
 
 
 2021-04-30
 
-- 🇫🇷 [Gamekult] Charts Japon : le remaster de NieR Replicant éclipse l'original → http://cpc.cx/uDs
-
 - 🇺🇸 [PC Gamer] Overgrowth developer Wolfire Games files antitrust lawsuit against Valve. The suit says Steam suppresses competition and takes 'an extraordinarily high cut' from developers → http://cpc.cx/uDF
-
-- 🇺🇸 [PC Gamer] Jeff Goldblum is going to play an elf in a D&D podcast. Of course he's an elf → http://cpc.cx/uDA
-
-- 🇺🇸 [PC Gamer] Oculus will sell you a Quest 2 headset that doesn't need Facebook for an extra $500. Is that the price of privacy? → http://cpc.cx/uDH
-
-- 🇺🇸 [Games Industry] Remembering the original Pokémon Snap launch | UK Time Tunnel. GfK Entertainment shares with us the figures ahead of the game's eventual sequel → http://cpc.cx/uDG
-
-- 🇺🇸 [Games Industry] Harry Potter: Hogwarts Mystery reaches $300m in revenue. Jam City's title has been downloaded 82 million times since launch in 2018 → http://cpc.cx/uDD
-
-- 🇺🇸 [Games Industry] How IO Interactive realised its full vision for Hitman's World of Assassination trilogy. CEO Hakan Abrak discusses surviving the split from Square Enix and the journey to full ownership and self-publishing → http://cpc.cx/uDE
 
 
 2021-04-29
@@ -4051,178 +4036,20 @@ jeux présentés : Route 96, Aerial Knight's Never Yield, Last Stop, Hindsight, 
 
 - 🇫🇷 [Gamekult] The Sinking City débarque sur Xbox Series. Frogwares continue son tour des plateformes → http://cpc.cx/uCw
 
-- 🇫🇷 [Gamekult] Place à la mise à jour 1.22 pour Cyberpunk 2077. Une meilleure gestion de la mémoire sur PS5 → http://cpc.cx/uCy
-- 🇺🇸 [VGC] Cyberpunk’s latest patch includes memory improvements on PS5. Plus fixes for “the most frequently reported issues since the last patch” → http://cpc.cx/uCz
-
 - 🇺🇸 [Games Industry] EA hits out at "sensationalist reporting" following latest FIFA Ultimate Team controversy. Publisher clarifies the meaning behind its leaked marketing document → http://cpc.cx/uCE
-
-- 🇺🇸 [Games Industry] GDC Survey: 44% of developers have had their game delayed by COVID-19. 2021 State of the Industry Survey finds 67% of developers say their own performance has been maintained or improved while working from home → http://cpc.cx/uCF
 
 - 🇺🇸 [GDC Conf] GDC State of the Industry: Devs irked by 30 percent storefront revenue cuts → http://cpc.cx/uCI
 - 🇺🇸 [PC Gamer] Most game devs don't think Steam earns its 30% revenue cut. Only 6% of developers say game stores are justified in taking a cut of 30% or higher → http://cpc.cx/uCG
 - 🇺🇸 [Gamasutra] GDC State of the Industry: Devs irked by 30 percent storefront revenue cuts → http://cpc.cx/uCJ
 
 
-2021-04-28
-
-- 🇺🇸 [PC Gamer] Black Mesa opens an interdimensional 'Xen Museum'. The official mod charts the evolution of Xen's five-year development → http://cpc.cx/uBy
-
-- 🇺🇸 [VGC] A demo for Nintendo’s avatar-themed RPG Miitopia is now available. Ahead of the game’s Switch release on May 21 → http://cpc.cx/uBq
-
-- 🇺🇸 [VGC] Insomniac devs say Ratchet & Clank Rift Apart is ‘the best-looking video game ever’. Designer and community director talk up the visuals of the “PS5 showcase” → http://cpc.cx/uBr
-
-- 🇺🇸 [VGC] Interview: Wonder Boy creator Ryuichi Nishizawa explains why he’s returned after 27 years. Asha in Monster World is coming to PS4 and Switch soon → http://cpc.cx/uBs
-
-
-2021-04-27
-
-- 🇫🇷 [Gamekult] Neymar Jr. enfile ses crampons dans le passe de combat de Fortnite → http://cpc.cx/uAh
-
-- 🇺🇸 [Games Industry] NieR Replicant ver.1.22474487139 is No.1 in the UK | UK Boxed Charts → http://cpc.cx/uAu
-
-- 🇺🇸 [PC Gamer] Phantoml0rd wins Twitch lawsuit. Twitch suspended CS:GO streamer James 'Phantoml0rd' Varga for life in 2016 for repeatedly violating its terms of service → http://cpc.cx/uAx
-
-- 📺 [YouTube] Xuan Yuan Sword 7 - official console announcement trailer → https://youtu.be/AtZSVwk1P8A
-- 📺 [YouTube] Apex Legends: Legacy - official gameplay trailer → https://youtu.be/Bf8Esvxm6ag
-
-
-2021-04-26
-
-- 🇫🇷 [Gamekult] Capcom Arcade Stadium le 25 mai sur PS4, Xbox One et PC. Un voyage de 1984 à 2001 → http://cpc.cx/uzO
-
-- 🇫🇷 [Gamekult] Dragon Quest Builders 2 bientôt sur Xbox One et Xbox Game Pass, le 4 mai dans l'abonnement console et PC → http://cpc.cx/uzC
-
-- 🇫🇷 [Gamekult] Ghosts 'n Goblins Resurrection prend date sur PS4, Xbox One et PC, le 31 mai si précommandé → http://cpc.cx/uzD
-
-- 🇺🇸 [VGC] Solid Snake’s voice actor thinks a Metal Gear Solid remake is coming. VGC previously reported that Konami has softened its stance on outsourcing its franchises → http://cpc.cx/uzE
-
-- 🇺🇸 [VGC] PlayStation insists it’s committed to releasing ‘experimental’ games alongside blockbusters. Hulst says he wants to create a diverse slate → http://cpc.cx/uzF
-
-- 🇺🇸 [PC Gamer] Sega is teasing an announcement for Judgment, the brilliant standalone Yakuza spin-off. Fingers crossed it's a PC port → http://cpc.cx/uzL
-
-- 📺 [YouTube] RWBY: Grimm Eclipse Definitive Edition - Official Gameplay Trailer → https://youtu.be/A8xSRFkJvSM
-- 📺 [YouTube] Samurai Warriors 5 - Official Characters Trailer → https://youtu.be/x0wdgMP63jE
-- 📺 [YouTube] Just Die Already - Official Release Date Trailer → https://youtu.be/YhmoYeJWKCU
-
-
-2021-04-23
-
-- 🇫🇷 [Gamekult] Climax Studios rejoint la famille Keywords pour 31 millions d'euros → http://cpc.cx/uxZ
-- 🇺🇸 [Games Industry] Keywords acquires Climax for up to £43m. The company will pay £27 million in cash and shares, with a deferred consideration of an additional £16 million → http://cpc.cx/uy5
-
-
-2021-04-22
-
-- 🇫🇷 [Gamekult] Mais que se passe-t-il chez Sony Worldwide Studios ? par Oscar Lemaire → http://cpc.cx/ux1
-
-- 🇫🇷 [Gamekult] Interview NieR Replicant : "Si on peut avoir de l'argent pour ça, autant réserver le meilleur traitement. L'équipe se confie avant la sortie → http://cpc.cx/ux3
-
-- 🇫🇷 [Gamekult] Découverte du monde jovial et bien fréquenté de Necromunda : Hired Gun → http://cpc.cx/ux4
-
-- 🇺🇸 [VGC] Sony has patented an AI that will play your games for you. Patent describes giving players the option to let an AI clone take over their games → http://cpc.cx/ux8
-
-- 🇺🇸 [VGC] Square Enix’s amazing Nier origami is real ‘above the fold’ content. The work by Finnish artist Juho Könkkölä took 210 hours to make → http://cpc.cx/ux9
-
-- 🇺🇸 [PC Gamer] Call of Duty: Warzone's map just got nuked, but many players are stuck in server queues trying to see it → http://cpc.cx/uxb
-
-- 🇺🇸 [PC Gamer] Gearbox exec warns that anti-trans laws in Texas could prompt it to expand elsewhere. "Don't drive us to where we have to start expanding outside of Texas." → http://cpc.cx/uxc
-
-- 📺 [YouTube] Returnal - avis de ExServ → https://youtu.be/MJ0OCVtiWLQ
-- 📺 [YouTube] Returnal - IGN final preview → https://youtu.be/OMng57GHm34
-- 📺 [YouTube] Rocket League - Official Lamborghini Huracan STO Trailer → https://youtu.be/rvL9e0b93WY
-- 📺 [YouTube] Test Drive Unlimited Solar Crown - Official Trailer → https://youtu.be/TU3sZU5qneA
-- 📺 [YouTube] After The Fall - Official Gameplay Trailer | Oculus Gaming Showcase → https://youtu.be/lrDvrM2Rhvc
-- 📺 [YouTube] Wraith: The Oblivion Afterlife - Official Gameplay Trailer → https://youtu.be/=oMjKwxtu2II
-
-
-2021-04-21
-
-- 🇫🇷 [Gamekult] Nintendo étend sa gamme de jouets LEGO avec le set Luigi → http://cpc.cx/uwn
-
-- 🇫🇷 [Gamekult] Konami dépose les marques Castlevania et Metal Gear Rising au Japon. Compilations ou remasters ? → http://cpc.cx/uwp
-
-- 📺 [YouTube] In Sound Mind – Release Date Reveal Trailer | PS5 → https://youtu.be/FN6XvOedml0
-- 🇫🇷 [Gamekult] Le jeu d'horreur psychologique In Sound Mind s'annonce pour le 3 août → http://cpc.cx/uwA
-
-- 🇺🇸 [VGC] Weta Workshop reimagines Lara Croft with $1,500 figure. Oscar-winning prop company opens pre-orders for limited edition 25th anniversary item → http://cpc.cx/uwr
-
-- 📺 [YouTube] Mortal Kombat | Opening Seven Minutes | HBO Max → https://youtu.be/mKfzjGJu5do
-- 🇺🇸 [VGC] New Mortal Kombat movie: watch the opening 7 minutes now → http://cpc.cx/uws
-
-- 🇺🇸 [VGC] A new Resident Evil Re:Verse beta launches this week. Sample Capcom’s upcoming multiplayer game on consoles and PC → http://cpc.cx/uwt
-
-- 🇺🇸 [VGC]  Days Gone 2 petition clears 50,000 signatures: ‘They can’t just pull the plug’. Petition calls on Sony to greenlight sequel plans; Original director thanks fans for their support → http://cpc.cx/uwu
-
-- 🇺🇸 [Games Industry] Weird West's narrative designer seeks a world without cutscenes. Industry newcomer Lucas Loredo shares his inspirations and how he wants to change the way games tell stories → http://cpc.cx/uww
-
-
-2021-04-20
-
-- 🇫🇷 [Gamekult] Osamu Kobayashi, le créateur du monde de Grandia, est décédé. Un artiste polyvalent qui a aussi marqué l'animation japonaise → http://cpc.cx/uvG
-
-- 🇫🇷 [Gamekult] Apex Legends Mobile officiellement annoncé, sans cross-play. Respawn développe aussi cette nouvelle version → http://cpc.cx/uvT
-- 🇺🇸 [Games Industry] Respawn reveals details on Apex Legends Mobile. Cross-play will not be available for mobile version of free to play battle royale → http://cpc.cx/uvO
-- 🇺🇸 [Gematsu] Apex Legends Mobile announced for iOS, Android. Closed beta tests to begin in India and the Philippines this spring → http://cpc.cx/uvP
-
-- 🇫🇷 [Gamekult] Le jeu de tir tactique Lemnis Gate sortira aussi sur PS5 et Xbox Series cet été → http://cpc.cx/uvU
-- 🇺🇸 [Gematsu] Lemnis Gate adds PS5 and Xbox Series versions, launches this summer. A turn-based combat strategy first-person shooter → http://cpc.cx/uvV
-
-- 📺 [YouTube] Dying Light x RUST - Official Crossover Trailer → https://youtu.be/EWX7WbHFg5A
-- 📺 [YouTube] Warframe: 8 Year Anniversary - Official Trailer → https://youtu.be/-Rk9U1unRic
-
-
-2021-04-19
-
-- 🇺🇸 [VGC] The Xbox controller drift lawsuit has been taken out of the courtroom, but law firm CSK&D remains hopeful it can recover damages → http://cpc.cx/uuN
-
-- 🇺🇸 [VGC] Minecraft developer commits to fighting racial and societal inequities. Mojang will support companies fighting climate change and social issues → http://cpc.cx/uuO
-
-- 🇺🇸 [Games Industry] PUBG parent Krafton applies for IPO. Seoul-based analysts valued the PUBG maker at around $17.9 billion → http://cpc.cx/uuT
-- 🇺🇸 [Gamasutra] PUBG owner Krafton applies for preliminary approval ahead of potential IPO → http://cpc.cx/uuU
-
-- 🇺🇸 [Gematsu] Netflix Castlevania animated series final season premieres May 13 → http://cpc.cx/uuV
-- 🇫🇷 [Gamekult] Castlevania : la quatrième et dernière saison de la série prend date sur Netflix, alors qu'une autre série se profile déjà → http://cpc.cx/uv3
-
-
-2021-04-16
-
-- 🇫🇷 [Gamekult] Sky : Enfants de la Lumière s'annonce sur Switch pour le mois de juin → http://cpc.cx/ut9
-- 🇺🇸 [VGC] Thatgamecompany’s Sky: Children of the Light is coming to Switch in June. The game will be free-to-start and offer cross-play support for console and mobile players → http://cpc.cx/uta
-
-- 🇺🇸 [Games Industry] CD Projekt's 2020 sales trounce previous full-year record. Cyberpunk 2077 developer's preliminary financials show 2020 sales and profits both several times higher than records set during The Witcher 3's launch year → http://cpc.cx/utd
-- 🇺🇸 [Gamasutra] Cyberpunk 2077 dev CD Projekt estimates record revenue for 2020 → http://cpc.cx/ute
-
-
 2021-04-14
-- 🇺🇸 [VGC] CD Projekt says it has ‘friendly relations’ with Sony following Cyberpunk 2077’s PlayStation Store removal. Company is attempting to get the game back on Sony’s digital marketplace → http://cpc.cx/urA
-
-- 🇺🇸 [VGC] Naughty Dog says it’s still struggling with multi-project development. “We definitely have multiple projects, but only one that is getting the lion’s share of focus” → http://cpc.cx/urC
-
-- 🇺🇸 [Games Industry] Creative Assembly opens third UK studio. Total War developer continues growth with Horsham, West Sussex office → http://cpc.cx/urD
-
-- 🇺🇸 [Games Industry] Apple attempts to block Epic from calling witnesses in antitrust trial. Update: District Judge denied Apple's demands, saying Epic didn't breach disclosure requirements → http://cpc.cx/urF
 
 - 🇺🇸 [PC Gamer] Warzone developer starts a GoFundMe for legal battle against Activision, who also have a game called Warzone → http://cpc.cx/urI
 
-- 🇺🇸 [PC Gamer] Dev calls out player who refunded his game after saying it was 'amazing,' player apologizes and rebuys it → http://cpc.cx/urJ
-
-
-2021-04-13
-
-- 🇫🇷 [JVC] Borderlands, le film. Une actrice déjà connue des gamers rejoint le casting, Janina Gavankar → http://cpc.cx/uqv
-
-- 🇺🇸 [VGC] User ‘proves’ once PS4’s internal CMOS battery dies, even physical games won’t play offline. The issue is reportedly tied to PlayStation’s Trophy system → http://cpc.cx/uqq
-
-- 🇺🇸 [VGC] Blood & Truth developer PlayStation London Studio is making a brand new PS5 IP. Company is seeking staff who want to work in “uncharted design territory” → http://cpc.cx/uqr
-
-- 🇺🇸 [PC Gamer] Outriders player discovers 23GB of crash dumps stuffed in a Windows folder. If you've been wondering where your free C drive space has been going, look here → http://cpc.cx/uqt
 
 
 2021-04-12
-
-- 🇫🇷 [Gamekult] Returnal : Bobby Krlic à la composition 🎶 → http://cpc.cx/upG
-
-- 🇺🇸 [VGC] Nintendo says it has enough parts for ‘immediate’ Switch production, but president Furukawa warns that shortages could still happen this year → http://cpc.cx/upL
 
 - 🇺🇸 [PC Gamer] Almost seven years after its last patch, VVVVVV is getting support for higher framerates and more. It's still going to be hard as nails, of course → http://cpc.cx/upR
 
