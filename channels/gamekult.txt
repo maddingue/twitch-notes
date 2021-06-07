@@ -11194,8 +11194,11 @@ développé par Capcom, équipe dirigé par Shinji Mikami
 📜️ 6/10 par Puyo pour la version PlayStation 4 (2015) → http://cpc.cx/tUC
 
 nombre de morts : 0
-nombre de retours à la salle de sauvegarde : 0
-nombre de EUH!!! : 0
+nombre de retours à la salle de sauvegarde : 4
+nombre de EUH!!! : 1
+
+excuses de sac :
+- à un moment j'étais bien positionné (Hubert)
 
 --------------------------------------
 2021-06-01 - Necromunda: Hired Gun
@@ -11281,7 +11284,7 @@ développé par Blastmode, studio de Richard Lems (Kunai) basé à Rotterdam, Pa
 excuses de sac :
 - je n'avais pas vu la super ! (Virgile)
 - elle venait d'où cette grenade ? on voit rien ? (Virgile)
-- j'avais pas vu qu'i ly avait un machin en dessous ! (Virgile)
+- j'avais pas vu qu'il y avait un machin en dessous ! (Virgile)
 - ils sont où les checkpoints ? (Virgile)
 - j'ai voulu faire honk ! (Virgile)
 - c'est illisible sur la fin (Virgile)
