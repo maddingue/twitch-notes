@@ -11290,8 +11290,28 @@ excuses de sac :
 - c'est illisible sur la fin (Virgile)
 
 
+--------------------------------------
+2021-06-08 - Backbone
+
+Backbone, sorti aujourd'hui 8 juin sur Windows
+plus tard dans l'année sur Switch, PlayStation et Xbox
+développé par EggNut, studio d'une vingtaine de personnes réparties entre le Canada 🇨🇦, la Russie 🇷🇺, les USA 🇺🇸 et les Pays-Bas 🇳🇱 → https://eggnut.net/
+⌨️ 🖱️ 25 € sur Microsoft Store (http://cpc.cx/vaV), inclus dans le Game Pass PC
+⌨️ 🖱️ en promo à 22,50 € sur Steam (http://cpc.cx/v9R) et GOG (http://cpc.cx/v9T)
+⌨️ 🖱️ en promo à 15,11 € sur Humble (http://cpc.cx/v9S)
+⌨️ 🖱️ prologue gratuit sur Steam (http://cpc.cx/v9U), Humble (http://cpc.cx/v9V) et GOG (http://cpc.cx/v9W)
+🎶️ musiques par Nikita Danshin et Arooj Aftab → http://cpc.cx/v9Y
+⚙️ le moteur du jeu est Unreal Engine 4 avec le module Not Yet Dialogue
+🔡 textes en anglais pour le moment, bientôt disponible en russe et français
+📜️ bientôt le test par Far Away
+
+📜️ Ratchet & Clank: Rift Apart, 7/10 par Julien 💪 → http://cpc.cx/vaW
+📜️ Gulty Gear Strive, 6/10 par von yaourt → http://cpc.cx/vb1
+
+
+
 📅 le programme de la semaine → http://cpc.cx/v9y
-📅 mardi 17:30, Backbone (Florian)
+📅 mardi 17:30, 
 📅 mercredi 17:15, surprise
 📅 jeudi 17:00, mystère
 📅 vendredi 17:30, Gamekult l'émission et l'E3 2021 en direct 🛰️
