@@ -11357,9 +11357,6 @@ Journal de l'E3
 - Test : Ninja Gaiden Master Collection, et Tecmo Koei Hayabusa... → https://www.gamekult.com/jeux/ninja-gaiden-master-collection-3050883319/test.html
 
 
-19:35 dukedanjou : Merry, la Luma low cost(Supprimé par luma_gk)
-19:43 fanfanlatuIipe : le masque , je supporte pas les soumis(Supprimé par luma_gk)
-
 Summer Game Fest
 📅 20:00 🕗 Summer Game Fest → https://SummerGameFest.com/
 📡 la conférence en direct → https://twitch.tv/thegameawards | https://www.youtube.com/channel/UCqDS7KWjAPKv-7ZSlro9OiQ
@@ -11408,6 +11405,40 @@ jeux présentés (suite) : Dungeons & Dragons: Dark Alliance, Monster Hunter Sto
 - Elden Ring, par FromSoftare, annoncé pour le 21 janvier 2022 sur PlayStation, Xbox et Windows → https://fr.bandainamcoent.eu/elden-ring
 
 
+--------------------------------------
+2021-06-11 - Gamekult l'émission spéciale E3 2021
+
+- 🇫🇷 [Gamekult] Dotemu et Leikir Studio annoncent Metal Slug Tactics → http://cpc.cx/vci
+- 🇫🇷 [Gamekult] 2K Games et Gearbox dévoilent Tiny Tina's Wonderlands, un spin-off de Borderlands, avec une licorne 🦄 → http://cpc.cx/vch
+- 🇫🇷 [Gamekult] Evil Dead: The Game dévoile sa première vidéo de gameplay. Annoncé sur Switch, PlayStation, Xbox et Windows courant 2021 → https://www.gamekult.com/actualite/evil-dead-the-game-devoile-sa-premiere-video-de-gameplay-3050839853.html
+- 🇫🇷 [Gamekult] Planet of Lana se dévoile sur PC et consoles Xbox. Un cinematic platformer tout peint à la main, annoncé pour 2022 → http://cpc.cx/vcn
+- 🇫🇷 [Gamekult] Frontier annonce Jurassic World Evolution 2 🦕 🦖 pour 2021, et c'est Jeff Goldblum qui est venu l'annoncer → http://cpc.cx/vck
+- 🇫🇷 [Gamekult] Amplitude roule des mécaniques avec du gameplay d'Endless Dungeon. C'est quand même sacrément beau votre petit jeu, là → http://cpc.cx/vco
+- 🇫🇷 [Gamekult] Koch Media lance son label Prime Matter et multiplie les annonces. Sans prévenir, ils annoncent un nouveau Painkiller → https://www.gamekult.com/actualite/koch-media-lance-son-label-prime-matter-et-multiplie-les-annonces-3050839845.html
+- 🇫🇷 [Gamekult] Sable effectue sa promenade annuelle avec 13 minutes de gameplay. La BD jouable s'anime sous nos yeux → https://www.gamekult.com/actualite/sable-effectue-sa-promenade-annuelle-avec-13-minutes-de-gameplay-3050839721.html
+- la démo de Sable sur le Microsoft Store → https://www.microsoft.com/fr-fr/p/sable-sgdemo/9nfx6s18g1gx
+- 🇫🇷 [Gamekult] Amazon Games confirme la sortie de Lost Ark en fin d'année et en français → https://www.gamekult.com/actualite/amazon-games-confirme-la-sortie-de-lost-ark-en-fin-d-annee-et-en-francais-3050839861.html
+- 🇫🇷 [Gamekult] Bloodhunt, un battle-royale dans l'univers de Vampire : The Masquerade, annoncé sur PC → https://www.gamekult.com/actualite/bloodhunt-un-battle-royale-dans-l-univers-de-vampire-the-masquerade-annonce-sur-pc-3050839847.html
+- 🇫🇷 [Gamekult] Ska Studios annonce Salt & Sacrifice, l'après Salt & Sanctuary → http://cpc.cx/vcl
+- 🇫🇷 [Gamekult] Annapurna Interactive fera son showcase le 29 juillet à 21:00. On veut revoir le chat, Annapurrrna → https://www.gamekult.com/actualite/annapurna-interactive-fera-son-showcase-le-29-juillet-a-21h-3050839863.html
+- 🇫🇷 [Gamekult] Escape From Tarkov nous fait une nouvelle fois visiter ses rues → https://www.gamekult.com/actualite/escape-from-tarkov-nous-fait-une-nouvelle-fois-visiter-ses-rues-3050839859.html
+- 🇫🇷 [Gamekult] Death Stranding serpente sur PS5 avec une Director's Cut, et une bande-annonce... Kojimesque → http://cpc.cx/vcj
+- 🇫🇷 [Gamekult] Fondé par des vétérans de Treyarch, Deviation Games signe avec PlayStation → http://cpc.cx/vcp
+- 🇫🇷 [Gamekult] Non seulement Elden Ring se remontre, mais il a une date de sortie. FromSoftware monte sur ses grands chevaux → https://www.gamekult.com/actualite/non-seulement-elden-ring-se-remontre-mais-il-a-une-date-de-sortie-3050839841.html
+
+
+- 🇫🇷 [Gamekult] Preview : Battlefield 2042 vient d'être annoncé, et on a déjà pu l'approcher. On vous dit tout sur le retour de la licence de DICE → http://cpc.cx/vbH
+- 🇫🇷 [Gamekult] Battlefield 2042 coûtera plus cher sur consoles nouvelle génération → http://cpc.cx/vcv
+- 🇫🇷 [Gamekult] Noddus a vu Battlefield 2042, et il répond à vos questions (et il dessine sur Paint) → http://cpc.cx/vcw
+📺 bande annonce de Battlefield 2042 → https://youtu.be/ASzOzrB-a9E
+
+
+- 🇫🇷 [Gamekult] Test de Ratchet & Clank Rift Apart par Julien 💪, 7/10 → http://cpc.cx/vaW
+- 🇫🇷 [Les Numériques] Test de Ratchet & Clank Rift Apart par Furolith → http://cpc.cx/vc1
+
+
+
+
 📅 le programme de la semaine → http://cpc.cx/v9y
 📅 mardi 17:30, 
 📅 mercredi 17:30, 
@@ -11439,6 +11470,7 @@ jeux présentés (suite) : Dungeons & Dragons: Dark Alliance, Monster Hunter Sto
 📱️ Juste un doigt
 📜️ Ratchet & Clank: Rift Apart, 7/10 par Julien 💪 → http://cpc.cx/vaW
 📜️ Gulty Gear Strive, 6/10 par von yaourt → http://cpc.cx/vb1
+Chicory, 8/10 par Luma → https://www.gamekult.com/jeux/drawdog-3050880051/test.html
 
 
 ⚠️ Attention ⚠️ baissez le son de Twitch car Puyo va PARLER 🔊
@@ -11476,6 +11508,7 @@ https://www.twitch.tv/gamekultlive/videos/all
 
 🎧 StreamBeats par Harris Heller → http://cpc.cx/rLf (YouTube) | http://cpc.cx/rLg (Spotify)
 
+🌐 Gamekult, le site de référence → https://www.gamekult.com/
 🐦 Gamekult sur Twitter → https://twitter.com/gamekult
 📺 Gamekult sur YouTube → https://www.youtube.com/user/gamekult
 🎧 Gamekult sur Spotify → https://open.spotify.com/show/0hZy5XtyFIS7sxpRX01ihU
