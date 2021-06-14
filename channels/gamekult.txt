@@ -11823,13 +11823,13 @@ jeux NewBlood :
 - Jurassic World Evolution 2 🦕 🦖 en 2021 sur PlayStation, Xbox et PC → https://JurassicWorldEvolution2.com/
 
 NewBlood :
-- Ultrakill
-- ???
-- Amid Evil
+- Ultrakill, déjà sorti → https://store.steampowered.com/app/1229490/
+- Dusk 82
+- Amid Evil → https://store.steampowered.com/app/673130/
 - Unfortunate Spacemen → https://store.steampowered.com/app/408900/
-- Dusk
+- Dusk → https://store.steampowered.com/app/519860/
 - Kyle is completely famous
-- Faith
+- Faith: The Unholy Trinity → https://store.steampowered.com/app/1179080/
 - Gloomwood, démo disponible sur Steam → https://store.steampowered.com/app/1150760/
 
 - Steam Next Fest, du 16 au 22 juin → https://store.steampowered.com/sale/nextfest
@@ -11916,10 +11916,121 @@ Team 17 :
 - Two Point Campus, par Two Point Studios (Two Point Hospital), en 2022 sur PC et toutes les consoles → https://www.twopointcampus.com | https://store.steampowered.com/app/1649080/
 - Project Ferocious, en 2023 avant d'être retardé 3 fois → https://twitter.com/omeletteandyog1 | https://store.steampowered.com/app/1645630/
 - Warcry: Challenges, 2021 sur Windows → https://www.warcryfps.com/ | https://store.steampowered.com/app/1608470/
-- Conway
+- Conway: Disappearance at Dahlia View → https://store.steampowered.com/app/1548750/
 - Immortality, par Sam Barlow → http://halfmermaid.co | https://store.steampowered.com/app/1350200/
 
 Raphaël Lucas, journaliste JV indépendant qui écrit pour JVM, Gamekult, Third Editions, Pix'n Love, Omaké Books → https://twitter.com/Raphael_Lucas_
+
+
+--------------------------------------
+2021-06-13 - E3 : Limited Run Games 2021, Capcom at E3 2021
+
+- 🇫🇷 [Gamekult] Toutes les news E3 → https://www.gamekult.com/evenement/e3.html
+
+Débriefing PC Gaming Show
+-------------------------
+- 🇫🇷 [Gamekult] Le RPG en 2,5D Sacrifire lance sa campagne Kickstarter, avec Motoi Sakuraba à la bande-son → https://gamekult.com/actualite/-3050840161.html
+- Silt, 2022 → https://store.steampowered.com/app/1325890/
+- 🇫🇷 [Gamekult] Tinykin, le Pikmin qui a de la gueule, et il est français, madame → https://gamekult.com/actualite/-3050840157.html
+- 🇫🇷 [Gamekult] Shiro Games se lance dans le RPG tactique avec Wartales → https://gamekult.com/actualite/-3050839891.html
+- 🇫🇷 [Gamekult] Songs of Conquest sortira début 2022, une souris et des HoMM → https://gamekult.com/actualite/-3050839887.html
+- 🇫🇷 [Gamekult] Après six ans de développement, Death Trash débarque en accès anticipé sur Steam, mais aussi sur toutes les consoles en 2022 → https://gamekult.com/actualite/-3050840213.html
+- 🇫🇷 [Gamekult] Mechajammer : le RPG qui fait dans le cyberpunk sale, et il y a déjà une démo → https://gamekult.com/actualite/-3050840201.html
+
+
+Débriefing Future Games Show
+----------------------------
+- 🇫🇷 [Gamekult] Minute of Islands est officiellement disponible. La petite surprise de la nuit → https://gamekult.com/actualite/-3050840175.html
+- 🇫🇷 [Gamekult] Sam Barlow revient avec l'ambitieux Immortality → https://gamekult.com/actualite/-3050840187.html
+  - Interview : Sam Barlow (Silent Hill) → https://www.gamekult.com/actualite/interview-sam-barlow-silent-hill-82708.html
+- 🇫🇷 [Gamekult] Le jeu d'enquête Conway : Disappearance at Dahlia View se dévoile et s'annonce pour cet automne → https://gamekult.com/actualite/-3050840203.html
+
+
+Journal de l'E3
+---------------
+- 🇫🇷 [Gamekult] Dix jeux Bethesda rejoignent l'abonnement Xbox Game Pass → https://gamekult.com/actualite/-3050840127.html
+- 🇫🇷 [Gamekult] Starfield sortira le 11 novembre 2022 sur Xbox Series et PC, et dans le Xbox Game Pass, bien entendu → https://gamekult.com/actualite/-3050840089.html
+- 🇫🇷 [Gamekult] Forza Horizon 5 se situera au Mexique et sortira le 9 novembre → https://gamekult.com/actualite/-3050840125.html
+- 🇫🇷 [Gamekult] Psychonauts 2 annoncé pour le 25 août durant la conférence Microsoft, toujours multi-plateformes, mais sur le GamePass dès la sortie → https://gamekult.com/actualite/-3050840103.html
+- 🇫🇷 [Gamekult] Asobo confirme A Plague Tale : Requiem durant la conférence Microsoft. Vous reprendrez bien une dose de rats ? → https://gamekult.com/actualite/-3050840107.html
+- 🇫🇷 [Gamekult] Age of Empires IV sortira le 28 octobre prochain sur PC → https://gamekult.com/actualite/-3050840113.html
+- 🇫🇷 [Gamekult] Diablo II : Resurrected prend date pour le 23 septembre sur consoles et PC → https://gamekult.com/actualite/-3050840109.html
+- 🇫🇷 [Gamekult] Microsoft Flight Simulator s'annonce sur Xbox Series X|S pour le 27 juillet → https://gamekult.com/actualite/-3050840115.html
+- 🇫🇷 [Gamekult] Microsoft annonce The Outer Worlds 2 prématurément et en rigole → https://gamekult.com/actualite/-3050840117.html
+- 🇫🇷 [Gamekult] Halo Infinite : gros plan sur le multijoueur free-to-play → https://gamekult.com/actualite/-3050840121.html
+- 🇫🇷 [Gamekult] Eiyuden Chronicle : Hundred Heroes sortira finalement en 2023 et s'annonce sur le Game Pass → https://gamekult.com/actualite/-3050840123.html
+- 🇫🇷 [Gamekult] Surprise, Arkane vampirise l'E3 avec le shooter coopératif Redfall. Arkane Austin annonce un Left 4 Dead surnaturel contre des vampires → https://gamekult.com/actualite/-3050840119.html
+- 🇫🇷 [Gamekult] L'ancien patron de Playdead sortira Somerville en 2022 dans le Xbox Game Pass → https://gamekult.com/actualite/-3050840111.html
+- 🇫🇷 [Gamekult] Le jeu d'action / plateformes rétro-futuriste Replaced s'annonce en vidéo. En exclusivité console chez Microsoft → https://gamekult.com/actualite/-3050840143.html
+- 🇫🇷 [Gamekult] Avalanche Studios annonce Contraband, un jeu de contrebandiers en co-op et monde ouvert → https://gamekult.com/actualite/-3050840105.html
+- 🇫🇷 [Gamekult] Jack Sparrow et l'univers Pirates des Caraïbes rejoignent Sea of Thieves le 22 juin. Une extension gratuite grimpe à bord → https://gamekult.com/actualite/-3050840093.html
+- 🇫🇷 [Gamekult] STALKER 2: Heart of Chernobyl sortira le 28 avril 2022. On a pu voir le jeu en action pour la première fois → https://gamekult.com/actualite/-3050840099.html
+- 🇫🇷 [Gamekult] Les Gardiens de la Galaxie de Square Enix n'ont pas choisi la voie des Avengers. Eidos Montréal dévoile un jeu d'action-aventure solo et complet → https://gamekult.com/actualite/-3050839805.html
+- 🇫🇷 [Gamekult] Babylon's Fall révèle sa nature de jeu coopératif au long cours. PlatinumGames s'essaye au jeu-service → https://gamekult.com/actualite/-3050840145.html
+- 🇫🇷 [Gamekult] Stranger of Paradise : Final Fantasy Origin annoncé par Square Enix et Team Ninja → https://gamekult.com/actualite/-3050840139.html
+- 🇫🇷 [Gamekult] Fuga : Melodies of Steel, le charmant projet personnel de CyberConnect2 sortira le 29 juillet, avec une localisation française intégrale, rien que ça → https://gamekult.com/actualite/-3050840183.html
+- 🇫🇷 [Gamekult] Le plein d'infos sur Elden Ring, "le plus grand jeu FromSoftware jamais réalisé" selon Miyazaki → https://gamekult.com/actualite/-3050840221.html
+
+
+Limited Run Games 2021
+----------------------
+jeux présentés : Zombies Ate My Neighbors | SuperHot | Double Dragon Kunio Kun Brawler Bundle | River City Girls Zero | River City Girls 2 | Strife Veteran Edition | Shantae 1 à 5 | BloodRayne Betrayal: Fresh Bites | Haven | SkateBird | Huntdown | Axiom Verge 2 | The TakeOver | Dusk | Republique | Going Under | One step from Eden | RWBY: Grim Eclipse | RetroMania Wrestling | Castlevania Requiem: Symphony of the Night & Rondo of Blood | Contra Anniversary Collection | Plumbers Don't Wear Ties
+
+- Zombies Ate My Neighbors en version physique pour PlayStation, Switch, MegaDrive, SuperNintendo → https://twitter.com/LimitedRunGames/status/1404529589809029126
+- SuperHot en version physique sur Switch et PS4 → https://twitter.com/LimitedRunGames/status/1404532603290587137
+- Double Dragon Kunio Kun Brawler Bundle en version physique sur Switch → https://twitter.com/LimitedRunGames/status/1404530091753885707
+- River City Girls Zero sur Switch → https://twitter.com/LimitedRunGames/status/1404530844035846150
+- River City Girls 2 en version physique sur Switch, PS4 et PS5 → https://twitter.com/LimitedRunGames/status/1404530594067980290
+- Strife Veteran Edition, déjà dispo sur Steam → https://store.steampowered.com/app/317040/
+- tous les Shantae en version physique pour PlayStation 5 → https://twitter.com/LimitedRunGames/status/1404531094108655623
+- BloodRayne Betrayal → https://store.steampowered.com/app/281220/
+- BloodRayne Betrayal: Fresh Bites en version physique sur Switch et PS4 → https://twitter.com/LimitedRunGames/status/1404531601489465348
+- Haven en version physique sur Switch, PS4 et PS5 → https://twitter.com/LimitedRunGames/status/1404531857069424640
+- SkateBird en version physique le 12 août sur Switch et PS4 → https://twitter.com/LimitedRunGames/status/1404532352076890114
+- Huntdown en version collector sur Switch et PS4 à 80 $ → https://twitter.com/LimitedRunGames/status/1404532880408289286
+- Axiom Verge 2, en version physique sur Switch, PS4, PS5 → https://twitter.com/LimitedRunGames/status/1404533106686709763
+- The TakeOver → https://store.steampowered.com/app/418620/
+- The TakeOver, en version physique sur Switch et PS4 → https://twitter.com/LimitedRunGames/status/1404533360786030595
+- Dusk → https://store.steampowered.com/app/519860/
+- Dusk, en version physique sur Switch → https://twitter.com/LimitedRunGames/status/1404533608115748864
+- Republique → https://store.steampowered.com/app/317100/
+- Republique en version physique sur Switch, PS4 et PSVR → https://twitter.com/LimitedRunGames/status/1404534364508131332
+- Going Under → https://store.steampowered.com/app/1154810/
+- Going Under, en version physique sur Switch et PS4 → https://twitter.com/LimitedRunGames/status/1404534620339814405
+- One step from Eden, en version physique sur Switch et PS4 → https://twitter.com/LimitedRunGames/status/1404535120015544321
+- RWBY: Grim Eclipse, en version physique sur Switch → https://twitter.com/LimitedRunGames/status/1404535372558786566
+- RetroMania Wrestling → https://store.steampowered.com/app/1252300/
+- RetroMania Wrestling, en version physique sur Switch et PS4 → https://twitter.com/LimitedRunGames/status/1404535623281786893
+- Castlevania Requiem: Symphony of the Night & Rondo of Blood en version physique sur PS4 → https://twitter.com/LimitedRunGames/status/1404536127407722502
+- Contra Anniversary Collection en version physique sur Switch et PS4 → https://twitter.com/LimitedRunGames/status/1404536641985859585
+- Plumbers Don't Wear Ties en version physique sur Switch, PS4, PS5, PC → https://twitter.com/LimitedRunGames/status/1404536881841332228
+
+Storm Collectibles → https://www.stormco.com.hk/
+- Storm Collectibles - Demitri → https://twitter.com/stormcohk/status/1402272519017701382
+- Storm Collectibles - Skeleton → https://twitter.com/stormcohk/status/1313895359194701824
+- Storm Collectibles - Skeleton Silver → https://twitter.com/stormcohk/status/1402272754041331717
+- Storm Collectibles - Wonder Festival 2021 → https://news.toyark.com/2021/06/12/wonder-festival-2021-golden-axe-kengan-ashura-king-of-fighters-and-more-by-storm-collectibles-431578
+
+- Biomutant Atomic Edition à 400 € → https://www.shop-justforgames.com/biomutant-atomic-edition-pc-c2x34672546
+- Oddworld Soulstorm à 150 € → https://jeux-video.fnac.com/a15830819/
+- LEGO Mario → https://www.lego.com/fr-fr/themes/super-mario
+- Leviator, 25 € sur Amazon → https://www.amazon.fr/dp/B07PP3K11J/
+
+
+Capcom at E3 2021
+-----------------
+- Resident Evil 8 Village, déjà sorti sur PlayStation 4 & 5, Xbox One & Series X|S et Windows → https://www.residentevil.com/village/
+- Monster Hunter Stories 2: Wings of Ruin, le 9 juillet 2021 sur Switch et Windows → https://www.MonsterHunter.com/stories2/
+- Monster Hunter Rise, déjà sorti le 26 mars 2021 sur Switch, en 2022 sur PC → https://www.MonsterHunter.com/rise/
+- The Great Ace Attorney Chronicles, le 27 juillet 2021 sur Switch, PlayStation et Windows → https://www.ace-attorney.com/great1-2/
+
+
+
+
+
+
+
+
 
 
 📅 le programme de la semaine → http://cpc.cx/v9y
@@ -11928,11 +12039,9 @@ Raphaël Lucas, journaliste JV indépendant qui écrit pour JVM, Gamekult, Third
 📅 jeudi 17:30, 
 📅 vendredi 17:30 
 
-📅 lundi 19:15 🕖 Take-Two Interactive Panel
-📅 lundi 22:00 🕙 Limited Run Games 2021
-📅 lundi 23:30 🕦 Capcom at E3 2021
-📅 mardi 18:00 🕕 Nintendo Direct 2021
-📅 mardi 23:25 🕦 Bandai Namco
+📅 18:00 🕕 Nintendo Direct 2021
+📅 19:00 🕕 le gros débrief E3 2021
+📅 23:25 🕦 Bandai Namco
 📺 samedi matin, Gamekult l'émission 
 🛰️ Planning de l'E3 2021 sur Gamekult → http://cpc.cx/v9K
 🎥️ 24 FPS sur Mortal Kombat → http://cpc.cx/vbM
@@ -12031,7 +12140,7 @@ partenariat GOG : ?pp=aba5d02b57a345ff3db4907de20c963e447ce830
 
 https://www.nintendo.fr/Rechercher/Rechercher-299117.html?f=147394-86
 
-📷 Instagram de Greg https://www.instagram.com/goldengreg_/
+📷 le compte Instagram de Greg → https://www.instagram.com/goldengreg_/
 
 🐦 le Twitter d'ALS → https://twitter.com/alexleserveur
 🐦 le Twitter d'Amaebi → https://twitter.com/amaebi_
