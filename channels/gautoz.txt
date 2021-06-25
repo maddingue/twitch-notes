@@ -5644,6 +5644,55 @@ jeux présentés (suite) : Dungeons & Dragons: Dark Alliance, Monster Hunter Sto
 
 
 
+--------------------------------------
+2021-06-24
+
+- 📺 [YouTube] Scarlet Nexus - Official Cinematic Trailer → https://youtu.be/fZCaRn79zeQ
+
+- 🇫🇷 [Gamekult] Gang Beasts, Iron Harvest, LIMBO : le point sur les jeux Xbox Game Pass du début de l'été → https://gamekult.com/actualite/-3050840545.html
+- 🇺🇸 [VGC] New Xbox Game Pass titles for console, PC and Cloud announced, including Worms Rumble, Iron Harvest, and Need for Speed: Hot Pursuit Remastered → http://cpc.cx/viP
+
+- 🇺🇸 [VGC] Xbox is reportedly rolling out Series X server blades for cloud gaming. Players are seeing significant improvements to load times and frame rates → http://cpc.cx/viQ
+- 🇺🇸 [Ars Technica] Xbox cloud upgrade is live: Series X power on your browser for over 260 games. Game Pass Ultimate's $15/mo now goes a lot further, and we break down why → http://cpc.cx/viR
+
+- 🇫🇷 [Gamekult] Electronic Arts achète le studio mobile Playdemic à Warner Bros. Games pour 1,4 milliard de dollars. Mais les autres studios Warner Bros. Games ne seront pas (encore ?) vendus → https://gamekult.com/actualite/-3050840541.html
+
+- 🇺🇸 [Games Industry] Tencent acquires majority stake in Yager. New deal gives Berlin-based firm additional access to "development resources" → http://cpc.cx/viS
+
+- 🇺🇸 [VGC] Call of Duty Mobile studio TiMi is making a AAA live service shooter at a new Seattle studio. TiMi Seattle is headed by Halo 4 lead designer Scott Warner and Battlefield veteran Rosi Zagorcheva → http://cpc.cx/viT
+- 🇺🇸 [Games Industry] Tencent-owned TiMi opens Seattle studio to make AAA console games. Firm behind Honor of Kings and Call of Duty: Mobile brings former Halo and Battlefield devs on board to lead new team → http://cpc.cx/viU
+
+- 📺 [YouTube] Découvrez The Legend of Zelda: Skyward Sword HD (Nintendo Switch) → https://youtu.be/sFndaztmzUY
+
+- 🇫🇷 [Gamekult] Pour ses 30 ans, Sonic le hérisson se rêve Vtuber → https://gamekult.com/actualite/-3050840519.html
+- 📺 [YouTube] Sonic 30th Anniversary Symphony (2 h) → https://youtu.be/UGTlBHNvjsU
+
+- 🇫🇷 [Gamekult] Aliens: Fireteam Elite sortira le 24 août au prix de 40 euros. Grillades de xénomorphes pendant les vacances → https://gamekult.com/actualite/-3050840547.html
+- 📺 [YouTube] Aliens: Fireteam Elite - Official Trailer → https://youtu.be/LZ8fZ4cKa1U
+
+- 🇫🇷 [Gamekult] Marvel's Avengers lance sa nouvelle mise à jour et révèle les adresses IP des joueurs PS5 → https://gamekult.com/actualite/-3050840513.html
+- 🇺🇸 [VGC] The latest Marvel’s Avengers patch is displaying players’ IP addresses on-screen. Crystal Dynamics says it’s “urgently investigating” the bug and warns players not to stream the game → http://cpc.cx/viV
+
+- 🇫🇷 [Gamekult] Melty Blood: Type Lumina prend date et s'annonce aussi sur Steam. Le jeu de combat débarque le 30 septembre → https://gamekult.com/actualite/-3050840535.html
+
+- 🇺🇸 [Gematsu] Space Jam: A New Legacy – The Game for Xbox Series, Xbox One launches July 1 for Xbox Game Pass Ultimate users, July 15 for everyone else → http://cpc.cx/viW
+
+- 📺 [YouTube] KOF 15 - Vanessa → https://youtu.be/fb3ldoiHIIg
+- 📺 [YouTube] Neo: The World Ends with You - Final Trailer | PS4 → https://youtu.be/uCiwzNJM2YU
+- 📺 [YouTube] Labyrinth City: Pierre the Maze Detective — Official Launch on Steam on June 22 → https://youtu.be/fXz1xidDWW8
+- 📺 [YouTube] Guild of Darksteel - Release Date Trailer → https://youtu.be/SqvSRs9glE8
+- 📺 [YouTube] Vesper - Official Release Date Trailer → https://youtu.be/qEL1PwzGD7g
+  - Vesper sur Steam → https://store.steampowered.com/app/1187840/
+- 📺 [YouTube] ???
+- Itorah sur Steam → https://store.steampowered.com/app/1132910/
+- Myst VR sur Steam → https://store.steampowered.com/app/1255560/
+
+
+:::::
+- 🇫🇷 [Gamekult] Epic Online Services ajoute deux nouveaux outils gratuits pour les développeurs, pour le chat vocal et l'anti-triche → https://gamekult.com/actualite/-3050840533.html
+
+
+
 - 🇺🇸 
 - 🇫🇷 
 - 🇯🇵 
@@ -5658,7 +5707,9 @@ jeux présentés (suite) : Dungeons & Dragons: Dark Alliance, Monster Hunter Sto
 
 
 
-
+10:44
+oversize_ghost
+: ⠸⣷⣦⠤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣠⣤⠀⠀⠀ ⠀⠙⣿⡄⠈⠑⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠔⠊⠉⣿⡿⠁⠀⠀⠀ ⠀⠀⠈⠣⡀⠀⠀⠑⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⠊⠁⠀⠀⣰⠟⠀⠀⠀⣀⣀ ⠀⠀⠀⠀⠈⠢⣄⠀⡈⠒⠊⠉⠁⠀⠈⠉⠑⠚⠀⠀⣀⠔⢊⣠⠤⠒⠊⠉⠀⡜ ⠀⠀⠀⠀⠀⠀⠀⡽⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠩⡔⠊⠁⠀⠀⠀⠀⠀⠀⠇ ⠀⠀⠀⠀⠀⠀⠀⡇⢠⡤⢄⠀⠀⠀⠀⠀⡠⢤⣄⠀⡇⠀⠀⠀⠀⠀⠀⠀⢰⠀ ⠀⠀⠀⠀⠀⠀⢀⠇⠹⠿⠟⠀⠀⠤⠀⠀⠻⠿⠟⠀⣇⠀⠀⡀⠠⠄⠒⠊⠁⠀ ⠀⠀⠀⠀⠀⠀⢸⣿⣿⡆⠀⠰⠤⠖⠦⠴⠀⢀⣶⣿⣿⠀⠙⢄⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⢻⣿⠃⠀⠀⠀⠀⠀⠀⠀⠈⠿⡿⠛⢄⠀⠀⠱⣄⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⢸⠈⠓⠦⠀⣀⣀⣀⠀⡠⠴⠊⠹⡞⣁⠤⠒⠉⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⣠⠃⠀⠀⠀⠀⡌⠉⠉⡤⠀⠀⠀⠀⢻⠿⠆⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠰⠁⡀⠀⠀⠀⠀⢸⠀⢰⠃⠀⠀⠀⢠⠀⢣⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⢶⣗⠧⡀⢳⠀⠀⠀⠀⢸⣀⣸⠀⠀⠀⢀⡜⠀⣸⢤⣶⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠈⠻⣿⣦⣈⣧⡀⠀⠀⢸⣿⣿⠀⠀⢀⣼⡀⣨⣿⡿⠁⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠈⠻⠿⠿⠓⠄⠤⠘⠉⠙⠤⢀⠾⠿⣿⠟⠋(Supprimé par messahira)
 
 
 --------------------------------------------------------------------------------
