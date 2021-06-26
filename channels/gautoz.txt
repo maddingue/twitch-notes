@@ -5693,6 +5693,50 @@ jeux présentés (suite) : Dungeons & Dragons: Dark Alliance, Monster Hunter Sto
 
 
 
+--------------------------------------
+2021-06-25
+
+- 🇫🇷 [Gamekult] Test : Mario Golf Super Rush, une formule à Boo de souffle ? → http://cpc.cx/vjj
+
+- 🇺🇸 [GamesRadar] Bethesda's Pete Hines wants another Wolfenstein but stresses MachineGames is focused on Indiana Jones. And the studio will be working on Indiana Jones for some time → http://cpc.cx/vjl
+- 🇺🇸 [VGC] Phil Spencer says Xbox ‘wants to continue’ with Killer Instinct. Microsoft’s head of gaming says “it’s about finding the right team and the right opportunity” → http://cpc.cx/vjm
+
+- 🇫🇷 [Gamekult] Windows 11 sera "le meilleur Windows pour le jeu vidéo", nous dit Microsoft : Auto HDR, DirectStorage, Xbox Game Pass → https://gamekult.com/actualite/-3050840593.html
+- 🇫🇷 [Les Numériques] Windows 11 : ce qu'il faut retenir des annonces de Microsoft → https://lesnumeriques.com/appli-logiciel/-n165461.html
+
+- 🇺🇸 [Gematsu] Konami announces mystery simulation game CRIMESIGHT for PC → http://cpc.cx/vji
+
+- 🇺🇸 [Gematsu] The Legend of Heroes: Trails from Zero coming west in fall 2022 for PS4, Switch, and PC. The first part of the Crossbell story arc → http://cpc.cx/vjo
+
+- 🇺🇸 [Epic] Epic Online Services Launches Free In-Game Voice and Easy Anti-Cheat → http://cpc.cx/vjq
+
+- 🇫🇷 [Gamekult] Pas de Paris Games Week non plus en 2021. Rendez-vous en 2022 → https://gamekult.com/actualite/-3050840579.html
+
+- 🇫🇷 [Gamekult] Avatar Frontiers of Pandora : Ubisoft parle de l'évolution de son moteur Snowdrop. De la jungle urbaine à la jungle tout court → https://gamekult.com/actualite/-3050840601.html
+
+- 🇺🇸 [Polygon] Sonic the Hedgehog is a Vtuber now → http://cpc.cx/vjr
+
+- Les jeux gratuits de la semaine sur l'Epic Games Store, jusqu'au 1er juillet 17:00, sont Horizon Chase Turbo et Sonic Mania → <https://www.epicgames.com/store/fr/p/horizon-chase-turbo> | <https://www.epicgames.com/store/fr/p/sonic-mania>
+
+- 🇫🇷 [Gamekult] GreedFall sortira le 30 juin sur PS5 et Xbox Series avec sa nouvelle extension → https://gamekult.com/actualite/-3050840575.html
+
+- 🇫🇷 [Gamekult] La petite sorcière Cotton se remplume sur consoles et PC → https://gamekult.com/actualite/-3050840607.html
+
+- 🇫🇷 [Gamekult] Demon Slayer Kimetsu no Yaiba sortira bien en France, chez Sega, 15 octobre → https://gamekult.com/actualite/-3050840597.html
+- 🇫🇷 [Gamekult] Dans Heading Out, revivez le mythe du hors-la-loi dans l'Ouest Américain → https://gamekult.com/actualite/-3050840573.html
+
+- A Guide to Japanese Role-Playing Games → https://www.bitmapbooks.co.uk/products/a-guide-to-japanese-role-playing-games
+
+
+:::::
+- 🇫🇷 [Gamekult] La borne EGRET II mini accueille une nouvelle vague de jeux rétro, avec du foot, du shoot et de la baston → https://gamekult.com/actualite/-3050840605.html
+- 🇫🇷 [Gamekult] Pour ses 10 ans, la série Kerbal Space Program arrive sur PS5 et Xbox Series → https://gamekult.com/actualite/-3050840599.html
+- 🇫🇷 [Gamekult] Bokeh Game Studio a recruté 25 personnes pour son jeu d'action et d'horreur → https://gamekult.com/actualite/-3050840585.html
+- 🇺🇸 [VGC] Insomniac is hiring for a new ‘multiplayer project’. The Spider-Man and Ratchet & Clank studio is working on something involving melee-based multiplayer → http://cpc.cx/vjh
+- 🇺🇸 [VGC] Konami has launched a PES 2022 open beta out of the blue. The online performance test is available on consoles until July 8 → http://cpc.cx/vjk
+
+
+
 - 🇺🇸 
 - 🇫🇷 
 - 🇯🇵 
@@ -5705,11 +5749,6 @@ jeux présentés (suite) : Dungeons & Dragons: Dark Alliance, Monster Hunter Sto
 - 🇺🇸 [Games Industry] 
 - 🇺🇸 [Gamasutra] 
 
-
-
-10:44
-oversize_ghost
-: ⠸⣷⣦⠤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣠⣤⠀⠀⠀ ⠀⠙⣿⡄⠈⠑⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠔⠊⠉⣿⡿⠁⠀⠀⠀ ⠀⠀⠈⠣⡀⠀⠀⠑⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⠊⠁⠀⠀⣰⠟⠀⠀⠀⣀⣀ ⠀⠀⠀⠀⠈⠢⣄⠀⡈⠒⠊⠉⠁⠀⠈⠉⠑⠚⠀⠀⣀⠔⢊⣠⠤⠒⠊⠉⠀⡜ ⠀⠀⠀⠀⠀⠀⠀⡽⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠩⡔⠊⠁⠀⠀⠀⠀⠀⠀⠇ ⠀⠀⠀⠀⠀⠀⠀⡇⢠⡤⢄⠀⠀⠀⠀⠀⡠⢤⣄⠀⡇⠀⠀⠀⠀⠀⠀⠀⢰⠀ ⠀⠀⠀⠀⠀⠀⢀⠇⠹⠿⠟⠀⠀⠤⠀⠀⠻⠿⠟⠀⣇⠀⠀⡀⠠⠄⠒⠊⠁⠀ ⠀⠀⠀⠀⠀⠀⢸⣿⣿⡆⠀⠰⠤⠖⠦⠴⠀⢀⣶⣿⣿⠀⠙⢄⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⢻⣿⠃⠀⠀⠀⠀⠀⠀⠀⠈⠿⡿⠛⢄⠀⠀⠱⣄⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⢸⠈⠓⠦⠀⣀⣀⣀⠀⡠⠴⠊⠹⡞⣁⠤⠒⠉⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⣠⠃⠀⠀⠀⠀⡌⠉⠉⡤⠀⠀⠀⠀⢻⠿⠆⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠰⠁⡀⠀⠀⠀⠀⢸⠀⢰⠃⠀⠀⠀⢠⠀⢣⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⢶⣗⠧⡀⢳⠀⠀⠀⠀⢸⣀⣸⠀⠀⠀⢀⡜⠀⣸⢤⣶⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠈⠻⣿⣦⣈⣧⡀⠀⠀⢸⣿⣿⠀⠀⢀⣼⡀⣨⣿⡿⠁⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠈⠻⠿⠿⠓⠄⠤⠘⠉⠙⠤⢀⠾⠿⣿⠟⠋(Supprimé par messahira)
 
 
 --------------------------------------------------------------------------------
