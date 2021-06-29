@@ -7440,7 +7440,7 @@ excuses de sac de Puyo :
 - je n'ai pas encore eu le temps de me pencher sur le jeu
 - j'ai pris le pad où le RB est foireux 🎮
 - est-ce qu'on peut dire que von_yaourt triche ?
-- c'est la première fois que je retrouve à droite, je vais perturbé
+- c'est la première fois que je me retrouve à droite, je vais être perturbé
 - j'ai le tchat devant la jauge
 
 joueurs du chat affrontés : basong42, von_yaourt, VegaBiggs, k3ft
@@ -7749,7 +7749,7 @@ par Veewo, studio basé à Xiamen, Chine 🇨🇳, développeur de jeux mobiles 
 ⌨️ 🖱️ démo gratuite sur Steam
 
 excuses de sac de Noddus :
-- dès je suis en live, je joue mal
+- dès que je suis en live, je joue mal
 - ma run de tout à l'heure se passait mieux
 - quand on parle de problème de lisibilité : j'ai perdu 4 cœurs, j'ai rien compris
 - par souci de journalisme total, je suis là pour vous offir le beau jeu, mais aussi pour vous montrer ce qu'il se passe quand on meurt
@@ -9702,7 +9702,7 @@ https://www.alphabetagamer.com/grapple-hoops-prototype-download/
 
 Crumble, sorti le 4 décembre 2020 sur Windows et Linux
 développé par Brute Force Games, studio français 🇫🇷 du seul Matthieu Houllier → https://twitter.com/BruteForceGame
-⌨️ 🖱️ 15 €sur Steam ( http://cpc.cx/tBs ), démo gratuite
+⌨️ 🖱️ 15 € sur Steam ( http://cpc.cx/tBs ), démo gratuite
 ⏩ speedrun du jeu : any% en 29m 36s, DEVANT BruteForceStudio qui le fait en 43m 54s
 
 excuses de sac de Noddus :
@@ -10559,9 +10559,6 @@ développé par Capcom, équipe dirigé par Shinji Mikami
 nombre de morts : 0
 nombre de retours à la salle de sauvegarde : 5
 nombre de EUH!!! : 2
-
-excuses de sac :
-- 
 
 --------------------------------------
 2021-04-01 - Evil Genius 2
@@ -12169,17 +12166,28 @@ excuses de sac :
 - je ne suis pas du tout habitué à jouer sur une télé aussi grande, je suis aveuglé (Greg)
 
 
-📅 le programme de la semaine → http://cpc.cx/vgJ
-📅 mardi 17:30, 
-📅 mercredi 17:30, 
-📅 jeudi 17:30, 
-📅 vendredi 17:30, 
-📺 samedi matin, Gamekult l'émission 
 ⛩️ Gaijin Dash fête les 25 ans de Suikoden → http://cpc.cx/viu
-⛩️ Gaijin Dash fête les 30 ans de métier de Greg
 🏝️ Rétro Island spécial Wolf Team
 🎶️ Gammes Kultes spécial jeux de golf
 📱️ Juste un doigt
+
+
+--------------------------------------
+2021-05-28 - eFootball PES 2022
+
+⚽ eFootball PES 2022, annoncé pour Q3 2021 sur PlayStation, Xbox et Windows
+🎮 site de la béta → https://konami.com/wepes/obt/fr/ps5/
+
+
+📅 le programme de la semaine → http://cpc.cx/vkq
+📅 mardi 17:30, Alex Kidd in Miracle World DX (Puyo)
+📅 mercredi 17:30, Resident Evil Remake, épisode 11 😱 😱
+📅 jeudi 17:30, Astro City Mini (Puyo)
+📅 vendredi 17:30, Monster Hunter Stories 2 (Le Père Fidalbion)
+📺 samedi matin, Gamekult l'émission 
+⛩️ Gaijin Dash, deuxième partie, sur les 30 ans de métier de Greg
+🏴‍☠️ Butin de Nerd avec du LEGO et du collector vintage
+📰 Reportage "en immersion" à l'intérieur de Second Life, par JV Le Mag
 
 
 ⚠️ Attention ⚠️ baissez le son de Twitch car Puyo va PARLER 🔊
