@@ -8833,6 +8833,8 @@ Golden Axed, prototype annulé d'une tentative de reboot de Golden Axe par SEGA 
 📺 The making of Streets of Rage II → https://youtube.com/watch?v=5Z7liHTgnw4
 
 excuses de sac de Puyo :
+- gros souci de jouabilité
+- je suis mort parce que je n'ai mis qu'une seule vie
 - la maniabilité n'est pas top
 - je n'ai pas réussi à lancer la bombe, je me suis trompé de touche
 - les collisions ne sont pas de mon côté
@@ -10620,10 +10622,10 @@ développé par Funselektor Labs (Absolute Drift), studio de 13 personnes basé 
 ⚙️ le moteur du jeu est Unity
 
 excuses de sac :
-- il tombe des steaks dehors ! 🌨️ (Florian)
+- il tombe littéralement des steaks dehors ! 🌨️ (Florian)
 - je prends vos questions à la fin car j'essaye de performer (Florian)
 - (j'ai touché le joystick droit ???)
-- (il me semble que j'ai un petit dégât sur la direction)
+- il me semble que j'ai un petit dégât sur la direction
 
 
 --------------------------------------
@@ -12200,7 +12202,7 @@ excuses de sac :
 - j'y arrivais à la maison (Puyo)
 - quand j'étais jeune, je passais ça d'une traite (Puyo)
 - il n'a pas accroché l'échelle (Puyo)
-- un p'tit pattern en oscilloscope et je me fais fumé (Puyo)
+- un p'tit pattern en oscilloscope et je me fais fumer (Puyo)
 - quand on va trop vite, on se brûle les ailes (Puyo)
 
 
@@ -12288,20 +12290,10 @@ excuses de sac :
 - c'est mon premier GK Live dans une salle de GK Live depuis le début de l'année 2021 (Luma)
 - je prends mon temps pour ne pas faire de bêtise (Luma)
 - ce casque est nul 🎧 (Luma)
-- je n'ai plus l'habitude de streamer ...
-- Yoshi, ce n'est pas son truc le golf (Luma)
+- je n'ai plus l'habitude… la télé est immense, le tchat est super loin (Luma)
+- Yoshi, ce n'est pas son truc le golf ⛳ (Luma)
 - mais il s'arrête jamais !!! (Luma)
 - c'est pour ça que je fais des double bogey : quand je suis sur le green, j'ai peur de faire des coups trop forts (Luma)
-
-
-📅 le programme de la semaine → http://cpc.cx/vnE
-📅 mardi 17:30, 
-📅 mercredi 17:30, Zombies Ate My Neighbors (Florian)
-📅 jeudi 19:00, soirée Resident Evil Remake 😱️ (Hubert & Virgile)
-📅 vendredi 17:30, Les Jeux Olympiques 2020 (Luma & Florian)
-📺 samedi matin, Gamekult l'émission 
-📰 Reportage "en immersion" à l'intérieur de Second Life, par JV Le Mag
-📱️ Juste un Doigt
 
 
 --------------------------------------
@@ -12318,11 +12310,25 @@ conception et niveaux par Mike Ebert, programmation par Dean Sharpe, animation p
 👾 Retro Dash sur Lucas Arts (1ère partie) → http://cpc.cx/qDI
 👾 Retro Dash sur Lucas Arts (2ème partie) → http://cpc.cx/qH2
 
+excuses de sac :
+- les ennemis qui spawnent au même endroit que là où t'es ! (Florian)
+- ça a pas très vieilli (Florian)
+
+
+📅 le programme de la semaine → http://cpc.cx/vnE
+📅 mardi 17:30, 
+📅 mercredi 17:30, 
+📅 jeudi 19:00, soirée Resident Evil Remake 😱️ (Hubert & Virgile)
+📅 vendredi 17:30, Les Jeux Olympiques 2020 (Luma & Florian)
+📺 samedi matin, Gamekult l'émission 
+📰 Reportage "en immersion" à l'intérieur de Second Life, par JV Le Mag
+📱️ Juste un Doigt
+
 
 --------------------------------------
 2021-07-08 - Resident Evil Remake, épisode 12 (et dernier ??) 😱 😱
 
-😨 😰 les Flippettes de Belleville sur Resident Evil Remake, douzième (et dernier ??) épisode 😱 😱
+📅 19:00 🕖 EXCEPTIONNEL : ce soir, douzième (et dernier ??) épisode des Flippettes de Belleville sur Resident Evil Remake 😱 😱
 
 Resident Evil Remake, sorti en janvier 2015 sur PlayStation 3 & 4, Xbox 360 & One, et Windows
 remaster HD du remake de 2002 sorti sur GameCube de la version d'origine de 1996
