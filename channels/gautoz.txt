@@ -6051,10 +6051,55 @@ jeux présentés (suite) : Dungeons & Dragons: Dark Alliance, Monster Hunter Sto
 - 🇫🇷 [Gamekult] 
 - 🇺🇸 [VGC] A version of Resident Evil Village which reportedly removes DRM runs better, analysis shows. “The cracked version of the game resolves the primary performance issues” → http://cpc.cx/vsn
 - 🇺🇸 [VGC] Stadia Pro developers will get revenue depending on how often their games are played. Google’s new deal pays studios based on how many days players launch their games → http://cpc.cx/vso
-- 🇺🇸 [VGC] 
-- 🇺🇸 [VGC] 
-- 🇺🇸 [VGC] 
-- 🇺🇸 [VGC] 
+
+
+
+--------------------------------------
+2021-07-16
+
+- 🇫🇷 [Gamekult] Steam Deck : Valve annonce sa grosse machine portable à partir de 419 € → https://gamekult.com/actualite/-3050841157.html
+- 🇫🇷 [Les Numériques] Valve présente la Steam Deck, son PC/console de jeu portable aux allures de Nintendo Switch → https://lesnumeriques.com/console-de-jeu/-n166241.html
+- 🇺🇸 [VGC] Valve has revealed its Switch-style handheld gaming PC, Steam Deck. Handheld gaming PC is capable of playing “the latest AAA games” → http://cpc.cx/vsF
+- 🇺🇸 [Eurogamer] Spec Analysis: Steam Deck - can it really handle triple-A PC gaming? The hardware looks good, but the challenges ahead are daunting → http://cpc.cx/vsY
+- SteamDeck - spécifications techniques → https://www.steamdeck.com/fr/tech
+- 📺 [YouTube] IGN - Steam Deck: First Hands-On With Valve’s Handheld Gaming PC → https://youtu.be/oLtiRGTZvGM
+- 📺 [YouTube] IGN - Steam Deck FAQ: 31 Big Questions Answered → https://youtu.be/h9eihvhM_KE
+- 📺 [YouTube] IGN - Valve Announces the Steam Deck, a $400 Handheld Gaming PC → https://youtu.be/YVGH-G_Y_sc
+- 📺 [YouTube] IGN - Gabe Newell: Hitting Steam Deck Price Was 'Painful' but ‘Critical’ → https://youtu.be/4FXgDAF6QpM
+
+- 🇫🇷 [Gamekult] Warhammer 40,000 : Darktide repousse sa sortie au printemps 2022 → https://gamekult.com/actualite/-3050841151.html
+- 🇫🇷 [Gamekult] Resident Evil Re:Verse est reporté à l'année prochaine. Resident Evil Re:Porté → https://gamekult.com/actualite/-3050841131.html
+
+- 🇫🇷 [Gamekult] Resident Evil 8 : les performances du jeu sur PC troublées par l'anti-piratage ? Capcom poussé à se lancer dans un patch → https://gamekult.com/actualite/-3050841145.html
+- 🇺🇸 [Eurogamer] The stories are true - the pirate version of Resident Evil Village improves performance. Capcom tells us to expect a patch to address the issue → http://cpc.cx/vsG
+- 📺 [YouTube] Digital Foundry - Resident Evil Village PC DRM: cracked code really does run better → https://youtu.be/UXZGCwAJpbM
+- 🇺🇸 [VGC] Capcom promises to improve Resident Evil Village PC after fans ‘highlight DRM impact’. Publisher says a patch is coming after fan hack highlighted performance issues → http://cpc.cx/vsH
+
+- 🇫🇷 [Gamekult] Weird West : l'action-RPG des anciens d'Arkane montre son gameplay → https://gamekult.com/actualite/-3050841153.html
+- 🇫🇷 [Gamekult] Pas de nouveaux jeux Star Wars pour la soirée EA Play Live. Rendez-vous en 2022 → https://gamekult.com/actualite/-3050841155.html
+- 🇫🇷 [Gamekult] Le film d'animation Monster Hunter : Legends of the Guild se dévoile sur Netflix le 12 août → https://gamekult.com/actualite/-3050841161.html
+- 🇫🇷 [Gamekult] Une MAJ à venir pour limiter les dépenses des plus jeunes sur l'appli parentale Xbox. L'argent de poche en démat → https://gamekult.com/actualite/-3050841093.html
+- 🇫🇷 [Gamekult] Le syndicat Solidaires Informatique dépose plainte contre le groupe Ubisoft. En ligne de mire, le système qui a permis au harcèlement sexuel de perdurer chez l'éditeur → https://gamekult.com/actualite/-3050841179.html
+- 📺 [YouTube] How To Fix Your Joycon Drift Permanently! → https://youtu.be/Vid8lIXmZwE
+- 🐦 [Twitter] message de Dotemu sur le souci pour acheter le DLC → https://twitter.com/Dotemu/status/1415992470580736005
+- Les jeux gratuits de la semaine sur l'Epic Games Store, jusqu'au 22 juillet 17:00, sont Obduction et Offworld Trading Company → https://www.epicgames.com/store/fr/p/obduction | https://www.epicgames.com/store/fr/p/offworld-trading-company
+- Neurocracy → https://neurocracy.site/
+
+- 🇫🇷 [Gamekult] Path of Exile revient en juillet avec l'extension Expedition, et la difficulté du jeu va être repensée → https://gamekult.com/actualite/-3050841175.html
+- The Ramp → https://store.steampowered.com/app/1506510/
+- Glitchpunk → https://store.steampowered.com/app/1459960/
+- Dice Legacy → https://store.steampowered.com/app/1229460/
+- 📺 [YouTube] [Shiki Tohno] Battle Preview → https://youtu.be/ntDXsbInCBs
+- 📺 [YouTube] Aragami 2 - Official Developer Gameplay Overview → https://youtu.be/75f75JW7Fy4
+
+- 🐦 [Twitter] compte Twitter d'Oscar Lemaire → https://twitter.com/oscarlemaire/
+- Ludostrie, le site d'articles de Oscar Lemaire → https://ludostrie.com/
+- 🐦 fil Twitter d'Oscar sur Steam Deck → https://twitter.com/oscarlemaire/status/1415722362750779399
+
+
+:::::
+- 🇫🇷 [Gamekult] gamescom 2021 : Sony, Nintendo, Square Enix, Capcom ou encore Konami absents de la liste → https://gamekult.com/actualite/-3050841143.html
+- 🇺🇸 [VGC] Xbox’s boss is worried that gaming is losing its history. Phil Spencer calls for an industry-wide initiative to preserve older video games → http://cpc.cx/vsI
 
 
 - 🇺🇸 
