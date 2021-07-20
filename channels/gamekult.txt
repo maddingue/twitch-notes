@@ -12440,11 +12440,15 @@ excuses de sac :
 
 Cotton Reboot, sorti ce jour 20 juillet 2021 sur Switch, PlayStation et Windows
 basé sur la version X68000 du jeu originellement sorti en avril 1991 sur arcade Sega System 16, par la suite porté en 1993 sur PC Engine CD-ROM² puis X68000
-développé par Rocket Engine (The Hurricane of the Varstray, série des Trouble Witches), studio japonais 🇯🇵 d'une quizaine de personnes, publié par BEEP 🇯🇵 → https://beep-shop.com/sap/cotton/
+développé par Rocket Engine / Studio SiestA (The Hurricane of the Varstray, série des Trouble Witches), studio japonais 🇯🇵 d'une quizaine de personnes, publié par BEEP 🇯🇵 → https://beep-shop.com/sap/cotton/
 🎮 40 € en grande distribution
 🎮 40 € sur eShop (http://cpc.cx/vtB) et PSN (http://cpc.cx/vtC)
 ⌨️ 🖱️ 40 € sur Steam ()
 
+excuses de sac :
+- ça c'est les shmups : ils vous font des cadeaux dans les deux premiers (niveaux), et ensuite il faut connaître les patterns (Puyo)
+
+📜 Death's Door, 7/10 par von_yaourt → http://cpc.cx/vu9
 
 📅 le programme de la semaine → http://cpc.cx/vtx
 📅 mardi 17:30, 
