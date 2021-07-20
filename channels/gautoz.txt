@@ -6102,6 +6102,43 @@ jeux présentés (suite) : Dungeons & Dragons: Dark Alliance, Monster Hunter Sto
 - 🇺🇸 [VGC] Xbox’s boss is worried that gaming is losing its history. Phil Spencer calls for an industry-wide initiative to preserve older video games → http://cpc.cx/vsI
 
 
+
+--------------------------------------
+2021-07-20
+
+- 🇫🇷 [Gamekult] Preview : Black Skylands, belle dose de skypunk en accès anticipé → https://www.gamekult.com/jeux/black-skylands-3050881199/preview-3050841205.html
+
+- 📺 [YouTube] Tom Clancy's XDefiant - Annonce Mondiale → https://youtu.be/y0PphOgQniw
+- 🇫🇷 [Gamekult] Ubisoft se place sur le FPS free to play avec Tom Clancy's XDefiant → https://gamekult.com/actualite/-3050841239.html
+- 🇺🇸 [VGC] New Ubisoft FPS XDefiant combines Splinter Cell, Ghost Recon, The Division and more. Free-to-play shooter is “fast-paced firefights meets punk rock mosh pit” → http://cpc.cx/vtV
+- 🇫🇷 [Gamekult] Un nouveau retard pour Riders Republic chez Ubisoft, rendez-vous en octobre → https://gamekult.com/actualite/-3050841201.html
+
+- 🇫🇷 [Gamekult] Tencent rachète Sumo Group pour 1,07 milliards d'euros → https://gamekult.com/actualite/-3050841207.html
+
+- 🇺🇸 [PC Gamer] Windows 11's best gaming feature now being enabled in Windows 10. Microsoft confirms DirectStorage is compatible with Windows 10 so developers "can reach as many gamers as possible." → https://www.pcgamer.com/uk/windows-11-directstorage-windows-10/
+
+- 🇫🇷 [Gamekult] Skate 4 ne sera pas à l'EA Play Live 2021 → https://gamekult.com/actualite/-3050841233.html
+
+- 🇺🇸 [Games Industry] Take-Two delivering takedowns over Grand Theft Auto map mods. Firm upsets pre-existing agreement between Rockstar and the modding community → http://cpc.cx/vtY
+
+- [SteamDB] top 10 des ventes sur Steam de la semaine dernière → https://steamdb.info/topsellers/
+
+- 🇫🇷 [Gamekult] Le million de ventes pour Monster Hunter Stories 2 → https://gamekult.com/actualite/-3050841241.html
+
+- 🇫🇷 [Gamekult] Road 96 s'écrira sur PC et Switch le 16 août prochain → https://gamekult.com/actualite/-3050841225.html
+
+:::::
+- 🇫🇷 [Gamekult] Tencent devient actionnaire majoritaire de Stunlock Studios → https://gamekult.com/actualite/-3050841243.html
+- 🇺🇸 [Games Industry] Tencent takes majority stake in Stunlock Studios. Gaming giant increases investment in Battlerite Royale developer → http://cpc.cx/vtW
+- 🇺🇸 [Games Industry] Scopely invests $50m in European game studios. Publisher to fund developers Omnidrone, Pixel Toys, and Tag Games → http://cpc.cx/vtX
+- 🇫🇷 [Gamekult] Project 007 : James Bond recrute des spécialistes en Intelligence Artificielle → https://gamekult.com/actualite/-3050841229.html
+
+- 🇺🇸 [VGC] Here’s the first look at The Last of Us TV series set pics. A fan shared photos and videos of the Alberta street being turned into Austin, Texas → http://cpc.cx/vtT
+- 🇺🇸 [VGC] GDC’s organiser says 2022’s event will return to in-person. 2021’s all-digital show kicked off on Monday → http://cpc.cx/vtU
+- 🇺🇸 [VGC] Metroid Prime Trilogy for Switch ‘is done and Nintendo is holding it’. Journalist Jeff Grubb claims QA resources and potential marketing plans are holding off remaster release → http://cpc.cx/vtZ
+
+
+
 - 🇺🇸 
 - 🇫🇷 
 - 🇯🇵 
@@ -6153,8 +6190,8 @@ Doudoune défonce le stream (2021-02-23) :
 - https://clips.twitch.tv/SilkyBenevolentGaurPogChamp-v-8xcJv_WtD4x60s -- et là, c'est le drame
 - https://clips.twitch.tv/TriumphantDeafMilkHeyGuys-WrvC-6BvmliYA0Ml -- « connaitre un grand moment de solitude » -- Doudoune
 
-les bon liens de Gautoz
------------------------
+les bons liens de Gautoz
+------------------------
 GK La Mixtape https://spoti.fi/3oA7mK2 La Matinale Playlist https://spoti.fi/36oRxzx
 🎶 Snip, le logiciel pour indiquer la musique en cours → https://github.com/dlrudie/Snip
 🎧 playlist la matinale → https://open.spotify.com/playlist/3vLlX911Gy6jGHGdOa5q5B
