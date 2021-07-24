@@ -6164,24 +6164,19 @@ jeux présentés (suite) : Dungeons & Dragons: Dark Alliance, Monster Hunter Sto
 - 📺 [YouTube] King of Fighters XV - King of dinosaurs → https://youtu.be/Wuic3iUsN8A
 
 - 🇺🇸 [PC Gamer] Fallout 76 adding customizable private servers for Fallout 1st subscribers. With Fallout Worlds you can choose the weather, spawn monsters, change gravity, use cheats, and build wherever you want → http://cpc.cx/vuZ
+
 - 🇫🇷 [IGN] Le réalisateur de District 9, Neill Blomkamp, travaille sur un shooter AAA multijoueur → http://cpc.cx/vv1
 
 - 🇺🇸 [Kotaku] Humankind removes Denuvo DRM before it even launches. "We found that the way it was currently integrated was not good enough." → http://cpc.cx/vv2
 - 🇺🇸 [PC Gamer] Humankind drops Denuvo ahead of launch to avoid performance problems. Amplitude Studios said the anti-tamper tech "isn't quite up to snuff," and the issues can't be fixed in time for release → http://cpc.cx/vv3
 - 🇫🇷 [FactorNews] Humankind abandonne Denuvo → http://cpc.cx/vv4
-
 - 🇺🇸 [VGC] Amazon’s New World beta is reportedly bricking RTX 3090 graphics cards. Numerous users have reported their cards overheating and “frying” → http://cpc.cx/vuM
 - 🇺🇸 [PC Gamer] Amazon's New World MMO is reportedly killing $1,500 Nvidia GPUs. Bricking RTX 3090s in a graphics card drought is not a good look → http://cpc.cx/vuL
-
 - 🇺🇸 [PC Gamer] Activision Blizzard lawsuit alleges discrimination, sexual harassment, and 'frat boy' culture → http://cpc.cx/vuW
-
 - 🇫🇷 [Gamekult] Goldlewis Dickinson, le premier perso en DLC de Guilty Gear Strive → https://gamekult.com/actualite/-3050841269.html
 - 📺 [YouTube] Guilty Gear -Strive- - Goldlewis Dickinson DLC character trailer → https://youtu.be/XQuwHHDs4T8
-
 - Tetragon → https://store.steampowered.com/app/1545850/ | https://youtu.be/Mh2uPdclFXU
 - Recompile → https://store.steampowered.com/app/986310/
-
-
 
 :::::
 - 🇫🇷 [Gamekult] Six millions de ventes pour Detroit Become Human → https://gamekult.com/actualite/-3050841311.html
@@ -6193,13 +6188,64 @@ jeux présentés (suite) : Dungeons & Dragons: Dark Alliance, Monster Hunter Sto
 - 🇫🇷 [Gamekult] Wiimote : de nombreux designs de prototypes resurgissent → https://gamekult.com/actualite/-3050841285.html
 - 🇫🇷 [Gamekult] Blinx : la vieille mascotte dans la fournée du Xbox Game Pass de juillet → https://gamekult.com/actualite/-3050841257.html
 - 🇺🇸 [Xbox] Coming soon to Xbox Game Pass: Microsoft Flight Simulator, The Ascent, Cris Tales, and more → http://cpc.cx/vuI
-
 - 🇺🇸 [VGC] A new PS5 model is lighter than the launch console, official product manual shows. Revised Digital Edition hardware emerges in Japan → http://cpc.cx/vuN
 - 🇺🇸 [PC Gamer] Ubisoft wins $150,000 lawsuit against Rainbow Six Siege DDoS operation. A default judgment in the case, filed in 2019, was awarded earlier this month → http://cpc.cx/vuO
 - 🇺🇸 [Gamasutra] Understanding the meaningless, micro-reactive, and marvellous writing of Disco Elysium → http://cpc.cx/vuP
-- 🇺🇸 [Epic] Sketchfab is now part of Epic Games → http://cpc.cx/vuQ
-
 - Mini Motorways sorti le 20 juillet, à 7,37 € sur Steam → https://store.steampowered.com/app/1127500/
+
+
+
+--------------------------------------
+2021-07-23
+
+- 📺 [YouTube] Dead Space Remake - Official Reveal Trailer | EA Play Live → https://youtu.be/C1yiuM7blIw
+- 🇫🇷 [Gamekult] Dead Space : le remake officialisé par Electronic Arts, sous Frostbite et entre les mains du studio Motive → https://gamekult.com/actualite/-3050841351.html
+- 🇺🇸 [VGC] Dead Space remake confirmed for PS5, Xbox Series X/S and PC. “Fans will experience an improved story, characters, gameplay mechanics and more” → http://cpc.cx/vvm
+
+- 🇫🇷 [Gamekult] DICE et EA dévoilent Battlefield Portal, l'éditeur de batailles de Battlefield 2042, alimenté par le contenu de Battlefield 3, Bad Company 2 et Battlefield 1942 → https://gamekult.com/actualite/-3050841347.html
+- 🇫🇷 [Gamekult] Codemasters annonce GRID Legends durant l'EA Play Live → https://gamekult.com/actualite/-3050841355.html
+- 🇫🇷 [Gamekult] Seer sera la nouvelle légende acrobatique d'Apex Legends. Un nouveau traqueur au casting → https://gamekult.com/actualite/-3050841349.html
+- 📺 [YouTube] Apex Legends Emergence - Official Launch Trailer | EA Play Livehttps://youtu.be/p9Q_RW8_U-U
+- 🇫🇷 [Gamekult] Lost in Random jettera ses dés le 10 septembre prochain → https://gamekult.com/actualite/-3050841357.html
+- 📺 [YouTube] Lost in Random - Official Gameplay Trailer | EA Play Live → https://youtu.be/2hRzwPVgATk
+- 🇫🇷 [Gamekult] Le 27 juillet, Knockout City fait son cinéma pour la Saison 2 → https://gamekult.com/actualite/-3050841353.html
+- 🇫🇷 [Gamekult] Respawn recrute pour une nouvelle expérience en solo → https://gamekult.com/actualite/-3050841365.html
+- 🇺🇸 [GamesBeat] Dragon Age 4 is on track for a potential 2023 release → http://cpc.cx/vvo
+
+- 🇺🇸 [Bloomberg] Blizzard botched Warcraft III Remake after internal fights, pressure over costs → http://cpc.cx/vvp
+- 🇫🇷 [Gamekult] Warcraft III Reforged : dans les coulisses d'un "désastre" annoncé → https://gamekult.com/actualite/-3050841361.html
+
+- 🇫🇷 [Gamekult] Borderlands 3 : Gearbox atteste le départ de 7 développeurs de premier plan, mais Randy Pitchford calme le jeu → https://gamekult.com/actualite/-3050841369.html
+
+- 🇺🇸 [Epic] Sketchfab is now part of Epic Games → http://cpc.cx/vuQ
+- 📺 [YouTube] vidéo de GameFromScratch sur le rachat de Sketchfab par Epic → https://youtu.be/3cZJm_YbxRU
+- Les jeux gratuits de la semaine sur l'Epic Games Store, jusqu'au 29 juillet 17:00 sont Defense Grid: The Awakening et Verdun → https://www.epicgames.com/store/fr/p/defense-grid | https://www.epicgames.com/store/fr/p/verdun
+
+- 📺 [YouTube] Warhammer 40,000: Battlesector || Release Trailer → https://youtu.be/nVsCATpZloc
+- 📺 [YouTube] HITMAN 3: Seven Deadly Sins - Lust (Announcement Trailer) → https://youtu.be/fkXLry9v7Cg
+- OCO, le 12 août sur Steam → https://store.steampowered.com/app/1165450/
+- 📺 [YouTube] I Expect You To Die 2 - Launch Date Announcement Trailer | PS VR → https://youtu.be/4KeGFIDJ6F8
+- 📺 [YouTube] Melty Blood - Arcueid → https://youtu.be/rsAfzYB8EAY
+- Evertried → https://store.steampowered.com/app/1607040/
+
+- 🇺🇸 [VGC] Marvel’s Avengers is getting a free weekend trial on most platforms this month. Offer will be available for PlayStation, PC and Stadia players → http://cpc.cx/vvl
+
+:::::
+- 🇫🇷 [Gamekult] Aloy de Horizon Zero Dawn s'invite aussi dans Genshin Impact, après Fortnite → https://gamekult.com/actualite/-3050841339.html
+- 🇺🇸 [VGC] Aloy from Horizon Forbidden West is coming to Genshin Impact. She’ll be a free 5-star character for all players for a limited time → http://cpc.cx/vvk
+- 🇫🇷 [Gamekult] Le shoot-them-up G-Darius HD confirmé en Europe → https://gamekult.com/actualite/-3050841335.html
+- 🇫🇷 [Gamekult] Le FPS tactique Lemnis Gate est repoussé au 28 septembre, mais la bêta aura bien lieu → https://gamekult.com/actualite/-3050841331.html
+- 🇫🇷 [Gamekult] Ratchet & Clank se pointent dans Fall Guys. Des costumes pour la Saison 5 → https://gamekult.com/actualite/-3050841345.html
+- 🇫🇷 [Gamekult] Le président de Blizzard condamne la culture sexiste de son entreprise dans un mail destiné à ses employés, mais peine à amorcer un début de réponse → https://gamekult.com/actualite/-3050841375.html
+- 🇫🇷 [Gamekult] Les pré-commandes de la Playdate ouvriront le 29 juillet. Pas de Panic, il y en aura pour tout le monde → https://gamekult.com/actualite/-3050841367.html
+- 🇫🇷 [Gamekult] Football Manager : Sports Interactive s'engage à intégrer le football féminin dans les plus brefs délais. Un projet qui était déjà dans les cartons depuis un petit moment → https://gamekult.com/actualite/-3050841371.html
+- 🇫🇷 [Gamekult] New World brique les RTX 3090 ? Amazon répond et acquiesce → https://gamekult.com/actualite/-3050841323.html
+- 🇺🇸 [PC Gamer] World of Warcraft players call for removal of references to Blizzard ex-employee named in harassment lawsuit. Multiple characters, items, and quests refer to the game's former senior creative director → http://cpc.cx/vvg
+- 🇺🇸 [PC Gamer] World of Warcraft players are staging in-game protests against Activision Blizzard. Players are furious over allegations of rampant sexual harassment at Blizzard → http://cpc.cx/vvh
+- 🇺🇸 [VGC] Playdate handheld pre-orders start next week and will ‘not sell out’. $179 console will start shipping later this year → http://cpc.cx/vvj
+
+
+
 
 - 🇺🇸 
 - 🇫🇷 
@@ -6212,9 +6258,6 @@ jeux présentés (suite) : Dungeons & Dragons: Dark Alliance, Monster Hunter Sto
 - 🇺🇸 [VGC] 
 - 🇺🇸 [Games Industry] 
 - 🇺🇸 [Gamasutra] 
-
-11:11 sounabou : tous ça a cause de féministe ....(Supprimé par maddingue)
-juste du seconde degres on est sur twitch
 
 
 --------------------------------------------------------------------------------
