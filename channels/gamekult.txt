@@ -3429,6 +3429,9 @@ asobostudio: @NaydenXM1 on a bcp taffé mais toujours dans le strict respect des
 🡆 développé par Stovetop, petit studio de deux personnes à Seattle, Washington : Frank Han (programmeur) et Jeff Zhu (artiste 3D) → https://www.stovetop.io/
 🡆 8,20 € sur Steam ( http://cpc.cx/oBJ )
 
+excuses de sac :
+- en terme de cadastre, je trouve cette map rien moins qu'infâme (Gautoz)
+
 --------------------------------------
 2019-05-24
 
@@ -12573,7 +12576,7 @@ développé par StudioInkyfox / Jonas Manke, développeur allemand situé à Bie
 ⏱️ durée du jeu : environ 4 à 5 h
 
 excuses de sac :
-- il y a une interie un peu bizarre quand on saute (Luma)
+- il y a une inertie un peu bizarre quand on saute (Luma)
 
 
 📅 le programme de la semaine → http://cpc.cx/vtx
