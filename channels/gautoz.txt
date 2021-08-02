@@ -6297,6 +6297,55 @@ jeux présentés (suite) : Dungeons & Dragons: Dark Alliance, Monster Hunter Sto
 
 
 
+--------------------------------------
+2021-08-02
+
+- 🇫🇷 [Gamekult] Horizon Forbidden West ne verra pas 2021, selon Jason Schreier. Rendez-vous début 2022 https://gamekult.com/actualite/-3050841573.html
+
+- 🇺🇸 [VGC] Assassin’s Creed Valhalla’s director confirms he’s helming the Dead Space remake. Ubisoft veteran Eric Baptizat confirms game director role for the sci-fi horror revamp → http://cpc.cx/vyx
+
+- 📺 [YouTube] Halo Infinite Technical Preview - Gameplay on All Maps → https://youtu.be/9WNJ20VuvVg
+- 🇺🇸 [PC Gamer] Halo Infinite's bot names are kind of great. Halo has bots for the very first time, and their names are a surprise source of delight → http://cpc.cx/vyz
+- 🇺🇸 [PC Gamer] Uh oh, Halo Infinite campaign details are leaking from the tech test. Players are datamining story beats that 343 "unintentionally" included in the tech test → http://cpc.cx/vyA
+- 🇺🇸 [The Verge] PSA: You might want to avoid the gobs of Halo Infinite spoilers Microsoft just leaked. Halo lead Joseph Staten says they could ruin the campaign → https://theverge.com/2021/7/30/22602811/
+- 🇺🇸 [The Gamer] Halo Infinite Tech Test Voice Clips Suggest A Battle Royale Mode. Halo Infinite's datamined audio logs include a line announcing the mode → http://cpc.cx/vyB
+- 🇺🇸 [VGC] Halo Infinite tech preview reportedly uncovers possible battle royale audio. Voice clip could point towards plans for mode → http://cpc.cx/vys
+
+- 🇺🇸 [PC Gamer] The Ascent is lacking DLSS and ray tracing on Game Pass but not on Steam. We tried adding in the DLSS files ourselves, but Microsoft thwarted us at every step → http://cpc.cx/vyC
+
+- 🇺🇸 [PC Gamer] Capcom wants to know if players want more Ace Attorney. Objection! There are still Ace Attorney games I haven't played yet → http://cpc.cx/vyD
+- 🇺🇸 [Capcom] The Great Ace Attorney Chronicles User Survey → https://www.enqform.capcom.com/form/pub/form1/great1-2_en2
+
+- 🇺🇸 [PC Gamer] Survival game Icarus delayed until November → http://cpc.cx/vyE
+
+- 🐦 [Twitter] tweet de Jason Schreier au sujet des tweets de Fran Townsend → https://twitter.com/jasonschreier/status/1421875122718322694
+- 🇺🇸 [IGN] Former Blizzard developer and ArenaNet, Undead Labs founder: "We Need Unionization". Jeff Strain writes an open letter calling for full unionization within the games industry → http://cpc.cx/vyF
+
+- 🇫🇷 [Gamekult] Marvel's Avengers : l'extension « La Guerre pour le Wakanda » prend date pour le 17 août → https://gamekult.com/actualite/-3050841531.html
+
+- 🇫🇷 [JVC] Preview New World : un vrai potentiel pour le MMO d'Amazon ? → http://cpc.cx/vyG
+
+- Splitgate (beta) → https://store.steampowered.com/app/677620/
+- 📺 [YouTube] Trigger Witch - Launch Trailer → https://youtu.be/q6RMgA-aWRI
+- Death Trash, 2021 sur Windows, Mac et Linux, démo de 1~2 h et accès anticipé le 5 août → http://www.deathtrash.com/ | https://store.steampowered.com/app/941460/
+- 📺 [YouTube] Welcome to Haven Springs! - Life is Strange: True Colors → https://youtu.be/YF418T1Y1MQ
+- 🇫🇷 [Gamekult] Life is Strange : True Colors nous vend son petit coin de paradis, certains diraient "son trou perdu" → life-is-strange-true-colors-nous-vend-son-petit-coin-de-paradis
+- The Pathless sur Steam → https://store.steampowered.com/app/1492680/
+- 📺 [YouTube] Hexoplanet - Simulation Game In Development - Trailer → https://youtu.be/bXholpb1tCw
+- 🇺🇸 [PC Gamer] Hexes never looked as beautiful as they do in the Hexoplanet trailer. Manage a robot colony and prepare a planet for human colonization (when you're not too busy gawping at the scenery) → http://cpc.cx/vyI
+
+
+
+:::::
+- 🇫🇷 [Gamekult] On a pu admirer de près la nouvelle Switch modèle OLED. Le plaisir des yeux avant tout → https://gamekult.com/actualite/-3050841475.html
+- 🇺🇸 [VGC] Hands-On: Nintendo Switch OLED is a striking improvement for portable players. Nintendo’s new 7-inch screen is a huge upgrade, but there’s little here for television play → http://cpc.cx/vyr
+- 🇺🇸 [VGC] It looks like Animal Crossing is getting a long-requested addition. Datamine suggests fan-favourite feature will be added to New Horizons → http://cpc.cx/vyt
+- 🇺🇸 [VGC] PS5 architect Mark Cerny has revealed his SSD of choice. SSD expansion was enabled this week, with two manufacturers confirming compatibility → http://cpc.cx/vyu
+- 🇺🇸 [VGC] Ubisoft employees criticise CEO’s response to open letter about workplace misconduct. Company accused of continuing to “protect and promote known offenders” → http://cpc.cx/vyv
+
+- 🇺🇸 [PC Gamer] The same government agency that's suing Activision Blizzard has an ongoing lawsuit with Riot Games. The suit, filed in 2018, alleges pay discrimination, sexual harassment, and retaliation by Riot → http://cpc.cx/vyw
+
+
 
 - 🇺🇸 
 - 🇫🇷 
