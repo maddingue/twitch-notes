@@ -6387,7 +6387,7 @@ jeux présentés (suite) : Dungeons & Dragons: Dark Alliance, Monster Hunter Sto
 
 
 --------------------------------------
-2021-08-04
+2021-08-05
 
 - 📺 [YouTube] Ghost of Tsushima: Legends | Rivals Intro Trailer → https://youtu.be/Vucyz5cqg1w
 - 🇫🇷 [Gamekult] Ghost of Tsushima: Legends devient un jeu autonome, avec un nouveau mode de jeu le 3 septembre → https://gamekult.com/actualite/-3050841663.html
@@ -6424,19 +6424,76 @@ jeux présentés (suite) : Dungeons & Dragons: Dark Alliance, Monster Hunter Sto
 - Webbed sur Steam → https://store.steampowered.com/app/1390350/
 
 :::::
-- 🇫🇷 [Gamekult] Interview Metal Slug Tactics : « C’est un vrai challenge de faire un tactical RPG nerveux ». Quand des petits Français s’attaquent au titan de SNK → https://gamekult.com/actualite/-3050841665.html
-
-- 🇫🇷 [Gamekult] Un nouveau chiffre d'affaires record mais des bénéfices en baisse pour PlayStation, dans la foulée des 10 millions de PS5 → https://gamekult.com/actualite/-3050841633.html
-- 🇺🇸 [VGC] Sony says it’s secured enough components to hit 22m PlayStation 5 sales goal. The corporation says it’s “not concerned” about the semiconductor supply for its FY target → http://cpc.cx/vA9
-
-- 🇫🇷 [Gamekult] Electronic Arts se félicite des performances de It Takes Two, Mass Effect et F1 2021, en complément des piliers FIFA et Apex Legends → https://gamekult.com/actualite/-3050841667.html
-- 🇺🇸 [Games Industry] EA Q1 better than expected but bookings down 4%. Publisher raises full-year forecast as Apex Legends → http://cpc.cx/vAh
 
 - 🇫🇷 [Gamekult] Des moddeurs préparent Half-Life 2 : Remastered Collection, avec l'accord de Valve, apparemment → https://gamekult.com/actualite/-3050841621.html
 - 🇫🇷 [Gamekult] Les skins de Guile et Cammy (Street Fighter) rejoindront la boutique de Fortnite le 8 août → https://gamekult.com/actualite/-3050841659.html
 
 - 🇺🇸 [VGC] Jeff Steitzer, Halo’s iconic announcer speaks out in support of trans players 🏳️‍🌈 → http://cpc.cx/vAa
 - 🇺🇸 [VGC] EA says releasing a new Battlefield game every 2 years ‘probably makes sense’. But CEO Andrew Wilson also says players should “think about Battlefield as a service” and teases “free to enter components” → http://cpc.cx/vA5
+
+
+
+--------------------------------------
+2021-08-06
+
+« L'atticisme est un courant de la rhétorique grecque, revendiqué comme tel dans le premier quart du Ier siècle av. J.-C. Ce courant est particulièrement marqué par des tournures et expressions caractéristiques d'une langue littéraire, fine et épurée, se voulant proche de celle des orateurs et des artistes du Ve siècle av. J.-C.
+« L'atticisme s'oppose ainsi d'une part à l'asianisme, dont il est la réaction, d'autre part au grec parlé de l'époque, qui pour sa part a poursuivi simultanément son évolution vers la koinè. »
+https://fr.wikipedia.org/wiki/Atticisme
+
+- 📺 [YouTube] Axiom Verge 2 - Breach Gameplay Trailer → https://youtu.be/EOlpRihgMZA
+
+- 🐦 [Twitter] Focus Home Interactive is thrilled to announce the acquisition of Dotemu → https://twitter.com/FocusHome/status/1423307600750387203
+- 🇺🇸 [Focus Home Interactive] communiqué de presse (PDF) → http://cpc.cx/vAF
+- 🇫🇷 [Gamekult] La nouvelle acquisition de Focus Home Interactive n'est autre que Dotemu. Après Deck13 et Streum On, Focus mise sur la nostalgie → https://gamekult.com/actualite/-3050841713.html
+- 🇺🇸 [Games Industry] Focus Home Interactive acquires Dotemu for 38.5 m€. Streets of Rage 4 publisher's acquisition cost could rise an additional 15 million € if performance targets are hit → http://cpc.cx/vAG
+
+- 🇫🇷 [Gamekult] Interview Metal Slug Tactics : « C’est un vrai challenge de faire un tactical RPG nerveux ». Quand des petits Français s’attaquent au titan de SNK → https://gamekult.com/actualite/-3050841665.html
+
+- 📺 [YouTube] Marvel's Guardians of the Galaxy - Lady Hellbender Cinematic → https://youtu.be/ljCiaTb0JV0
+- 📺 [YouTube] Marvel’s Guardians of the Galaxy - Extrait (VOST) → https://youtu.be/avgm3XxI4Qg
+
+- 🐦 fil Twitter d'Oscar sur les résultats financiers de Nintendo pour le 1er trimestre fiscal → https://twitter.com/oscarlemaire/status/1423194874657099777
+
+- 🇫🇷 [Gamekult] Electronic Arts se félicite des performances de It Takes Two, Mass Effect et F1 2021, en complément des piliers FIFA et Apex Legends → https://gamekult.com/actualite/-3050841667.html
+- 🇺🇸 [Games Industry] EA Q1 better than expected but bookings down 4%. Publisher raises full-year forecast as Apex Legends → http://cpc.cx/vAh
+- 🇺🇸 [VGC] EA claims it ‘doesn’t get enough credit’ for how well it works with acquired studios. Publisher cites Apex Legends and F1 successes following Respawn and Codemasters purchases → http://cpc.cx/vBd
+
+- 🇫🇷 [Gamekult] Un nouveau chiffre d'affaires record mais des bénéfices en baisse pour PlayStation, dans la foulée des 10 millions de PS5 → https://gamekult.com/actualite/-3050841633.html
+- 🇺🇸 [VGC] Sony says it’s secured enough components to hit 22m PlayStation 5 sales goal. The corporation says it’s “not concerned” about the semiconductor supply for its FY target → http://cpc.cx/vA9
+- 🐦 fil Twitter d'Oscar sur les résultats financiers de Sony → https://twitter.com/oscarlemaire/status/1422912228664258560
+
+- 🐦 tweet de Cédric Lagarrigue → https://twitter.com/Cedriclag/status/1423623904145383429
+
+- 🇺🇸 [Washington Post] Amid harassment lawsuit, Coca Cola, State Farm pull back from Blizzard’s Overwatch League → http://cpc.cx/vBe
+- 🇫🇷 [IGN] Activision Blizzard : les annonceurs prennent leurs distances pour l'Overwatch League → http://cpc.cx/vBf
+
+- 🇫🇷 [Gamekult] Virgile a pu s'essayer à la bêta de Back 4 Blood et vous livre ses impressions → https://gamekult.com/emission/-3050841719.html
+- 🇫🇷 [Gamekult] Quand le directeur créatif de Spec Ops The Line et le guitariste de Nine Inch Nails fondent un studio. Eyes Out travaille sur un jeu d'horreur cosmique → https://gamekult.com/actualite/-3050841743.html
+
+Les jeux gratuits de la semaine sur l'Epic Games Store, jusqu'au 12 août 17:00 sont A Plague Tale: Innocence et Minit
+→ https://www.epicgames.com/store/fr/p/a-plague-tale-innocence | https://www.epicgames.com/store/fr/p/minit
+
+- 🇫🇷 [Gamekult] Arietta of Spirits se lancera le 20 août en physique comme en numérique. Une édition collector façon Super Nintendo https://gamekult.com/actualite/-3050841723.html
+- 🇫🇷 [Gamekult] Riders Republic donne rendez-vous fin août pour sa bêta → https://gamekult.com/actualite/-3050841715.html
+- 🇫🇷 [Gamekult] Bubble Bobble 4 Friends bientôt disponible sur PC dans une version retouchée → https://gamekult.com/actualite/-3050841685.html
+- Golf Club: Wasteland, le 3 septembre 2021 sur Switch, PlayStation, Xbox et PC → https://golfclubwasteland.com/
+- 📺 [YouTube] [Hisui & Kohaku] Battle Previewhttps://youtu.be/orN3wFEPSNY
+
+- 📺 [YouTube] PlayStation Indies Spotlight - August 5 → https://youtu.be/Lf_lC69ZQhw
+- 🇺🇸 [PlayStation Blog] New Indie reveals and updates take the spotlight → http://cpc.cx/vB3
+- 🇺🇸 [PlayStation Blog] Bewitching crafting adventure Wytchwood comes to brew on PS4 & PS5 this Fall → http://cpc.cx/vB8
+- 🇺🇸 [PlayStation Blog] Reverse-horror experience Carrion bursts onto PS4 later this year → http://cpc.cx/vB4
+- 🇺🇸 [PlayStation Blog] Crafting a tiny open world: A look behind the scenes at the creation of A Short Hike → http://cpc.cx/vB5
+  📜 A Short Hike, 🐦/10 par Luma → http://cpc.cx/r5I  
+- 🇺🇸 [PlayStation Blog] Sol Cresta revealed: PlatinumGames’ 36-years-in-the-making space shooter sequel → http://cpc.cx/vB7
+- 🇺🇸 [PlayStation Blog] Uncover the full story as Riley in Oxenfree II: Lost Signals, coming to PlayStation → http://cpc.cx/vBa
+- 🇫🇷 [Gamekult] Oxenfree 2 : Lost Signals sortira aussi sur PS5 et PS4. La suite d'un coup de cœur de 2016 → https://gamekult.com/actualite/-3050841707.html
+
+:::::
+- 🇺🇸 [VGC] 🎂 Metroid celebrates its 35th anniversary today. Samus Aran made her debut on August 6, 1986 → http://cpc.cx/vB2
+- 🇺🇸 [VGC] Deathloop has gone gold ahead of its September release. Arkane Lyon’s PS5 and PC game has been delayed on two occasions → http://cpc.cx/vBc
+- 🇺🇸 [PlayStation Blog] The origins of Hades, out next week on PS5, PS4 → http://cpc.cx/vB6
+- 🇺🇸 [PlayStation Blog] How Axiom Verge 2 shakes up the formula → http://cpc.cx/vB9
 
 
 
