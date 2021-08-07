@@ -1,0 +1,228 @@
+--------------------------------------
+2021-07-13
+
+- [Slash Gear] Amazon eyes Soli-style radar sensors for sleep tracking and smart home → https://www.slashgear.com/amazon-eyes-soli-style-radar-sensors-for-sleep-tracking-and-smart-home-12682096/
+- Test Astro A50 (4e gen) : le “roi” des casques gaming sans-fil se repose sur ses lauriers → https://www.lesnumeriques.com/casque-gaming-micro/astro-a50-wireless-2019-p52909/test.html
+- [OnePlus] Insight into OnePlus 9 series processor and app optimization → https://forums.oneplus.com/threads/insight-into-oneplus-9-series-processor-and-app-optimization.1467338/
+- [Ars Technica] OnePlus admits to throttling 300 popular apps with recent update. Chrome performance tanks 85-75 percent in some tests → https://arstechnica.com/gadgets/2021/07/oneplus-admits-to-throttling-phones-after-launch-to-improve-battery-life/
+- [XDA Developers] Google casually namedrops “Pixel 6” and “Pixel 6 XL” in developer form → https://www.xda-developers.com/google-pixel-6-xl-namedrop/
+- [Numérama] Essai du Unu 2021 : le plus stylé des scooters électriques → https://www.numerama.com/vroom/725777-essai-du-unu-2021-le-plus-style-des-scooters-electriques.html
+- [Vice] An Incredibly Toxic Lake Will Become One of the US's First Lithium Mines → https://www.vice.com/en/article/epn5j7/an-incredibly-toxic-lake-will-become-one-of-the-uss-first-lithium-mines
+- La publicité segmentée débarque sur les box Bouygues Telecom → https://lesnumeriques.com/vie-du-net/-n166123.html
+- [Numérama] Pourquoi les développeurs se méfient-ils de Github Copilot, l’intelligence artificielle censée les aider ? → https://www.numerama.com/tech/723761-pourquoi-les-developpeurs-se-mefient-ils-de-github-copilot-lintelligence-artificielle-censee-les-aider.html
+- [ZDNet]  Des pirates trollent le Guide suprême iranien en faisant tomber le réseau ferré national → https://www.zdnet.fr/actualites/des-pirates-trollent-le-guide-supreme-iranien-en-faisant-tomber-le-reseau-ferre-national-39926083.htm
+- [BEUC] Consumer groups file complaint against WhatsApp for unfairly pressuring users to accept its new policies → https://www.beuc.eu/publications/consumer-groups-file-complaint-against-whatsapp-unfairly-pressuring-users-accept-its/html
+- [Yahoo News] NYPD's new 'game truck' draws scrutiny from critics → https://news.yahoo.com/nyp-ds-new-game-truck-draws-scrutiny-from-critics-nypd-police-200907928.html
+- [Yahoo News] Ukrainian Authorities Seize 3,800 PS4 Consoles in Crypto Mining Raid → https://finance.yahoo.com/news/ukrainian-authorities-seize-3-800-144400645.html
+- [The Verge] The Super Mario and Tag Heuer collaboration is a $2,150 Wear OS watch → https://www.theverge.com/2021/7/13/22575007/tag-heuer-super-mario-connected-wearos-smartwatch
+- [Engadget] Tag Heuer made a Super Mario-themed smartwatch because why not → https://www.engadget.com/its-a-me-mario-smartwatch-by-tag-heuer-connected-060037257.html
+- [Numérama] Surprise ! Toute la série Kaamelott est arrivée sur Salto → https://www.numerama.com/pop-culture/725815-toute-la-serie-kaamelott-est-disponible-sur-salto.html
+- MSCHF - Dead Startup Toys → https://DeadStartupToys.com/
+
+
+
+--------------------------------------
+2021-07-15
+
+- [Les Numériques] Apple MacBook Pro M1X : un lecteur de carte SD très rapide, mais seulement 32 Go de RAM ? → https://lesnumeriques.com/ordinateur-portable/-n166159.html
+- [Les Numériques] Test Acer Swift 3 SF316-51-70UU : un portable de 16 pouces au rapport qualité-prix intéressant → https://lesnumeriques.com/ordinateur-portable/acer-swift-3-sf316-51-70uu-p64165/test.html
+- Keychron K3 → https://www.keychron.com/pages/keychron-k3-wireless-mechanical-keyboard
+- Keychron K7 Kickstarter → https://www.kickstarter.com/projects/keytron/keychron-k7-an-ultra-slim-65-wireless-mechanical-keyboard?lang=fr
+- [AnandTech] The Keychron K3 Low Profile Wireless Mechanical Keyboard Review → https://www.anandtech.com/show/16813/the-keychron-k3-low-profile-wireless-mechanical-keyboard-review
+- [The Verge] Mercedes-Benz’s new Roadster has a flippy touchscreen → https://www.theverge.com/2021/7/13/22576101/mercedes-benz-amg-sl-roadster-touchscreen-articulating
+- [Ars Technica] Texan city to deploy intelligent traffic system from Velodyne Lidar. The pilot program will use lidar to monitor traffic at a dangerous intersection → https://arstechnica.com/cars/2021/07/velodyne-and-nvidia-will-try-to-make-traffic-safer-in-austin-texas/
+- [Ars Technica] VW Group’s 10-year plan: A single EV platform across all its brands. The new platform, due in 2025, will be called SSP → https://arstechnica.com/cars/2021/07/vw-groups-10-year-plan-a-single-ev-platform-across-all-its-brands/
+- [Engadget] Samsung's latest HDR imaging chip is designed for vehicle camera systems. It has two pixel sizes for both low light and brighter environments → https://www.engadget.com/samsung-hdr-camera-chip-automotive-applications-082447761.html
+- [Les Numériques] Amazon va lancer sa propre chaîne dédiée à la Ligue 1 pour 12,99 € par mois → https://lesnumeriques.com/vie-du-net/-n166183.html
+- [Daily Dot] Twitter verified a number of bot accounts—raising questions about security (updated) → https://www.dailydot.com/debug/twitter-verified-bot-accounts/
+- Sentropy x Discord: A Safer Tomorrow → https://medium.com/sentropy/sentropy-x-discord-1ed5c4269896
+- [Ars Technica] Google Meet puts the clamps on free users, imposes 1-hour meeting limit. Google's pandemic promo let free users video chat for 24 hours, but now it's over → https://arstechnica.com/gadgets/2021/07/google-meet-ends-pandemic-freebie-adds-1-hour-meeting-limit-for-free-users/
+- [CNET] 6 appareils high-tech pour limiter les risques de cambriolage → https://www.cnetfrance.fr/produits/6-appareils-high-tech-pour-limiter-les-risques-de-cambriolage-39883301.htm
+- [Politico] Senate confirms Jen Easterly as head of U.S. cyber agency → https://www.politico.com/news/2021/07/12/senate-confirms-jen-easterly-cyber-499335
+- [Politico] Facebook seeks recusal of FTC Chair Lina Khan in antitrust case. Without Lina Khan's vote, the case against Facebook could hit serious roadblocks, splitting the vote 2-2 between Democratic and Republican commissioners → https://www.politico.com/news/2021/07/14/facebeook-antitrust-ftc-lina-khan-recusal-499608
+- [Les Numériques] Droit voisin : l'Autorité de la concurrence inflige une amende de 500 millions d'euros à Google → https://lesnumeriques.com/pro/-n166165.html
+- Ban facial recognition → https://www.BanFacialRecognition.com/
+- [Journal du Coin] Ils ont bêtement perdu tous leurs bitcoins : losers et fiers de l’être, la téléréalité leur tend les bras → https://journalducoin.com/actualites/perte-bete-tous-les-bitcoins-losers-telerealite/
+- [Ars Technica] Museum obtains rare demo of id Software’s Super Mario Bros. 3 PC port. 1990 demo was rejected by Nintendo but led to id's own Commander Keen → https://arstechnica.com/gaming/2021/07/museum-obtains-rare-demo-of-id-softwares-super-mario-bros-3-pc-port/
+
+
+--------------------------------------
+2021-07-16
+
+- [Les Numériques] Henri Seydoux (Parrot) : “Le marché des drones grand public est définitivement derrière nous” → https://lesnumeriques.com/pro/-n166207.html
+- [Les Numériques] Test Fujifilm Fujinon XF 18mm f/1.4 R LM WR : un grand-angle lumineux de qualité → https://www.lesnumeriques.com/focales-fixes/fujifilm-fujinon-xf-18-mm-f-1-4-r-lm-wr-p63097/test.html
+- [Les Numériques] Bon plan – Le casque hi-fi Sennheiser HD 560S à 147 € → https://lesnumeriques.com/casque-hifi/-n166205.html
+- [Les Numériques] Barracuda X : un nouveau casque sans-fil discret et polyvalent signé Razer → https://lesnumeriques.com/casque-gaming-micro/-n166099.html
+- [Les Numériques] iPhone 13 : Apple va augmenter sa production de 20 % pour faire face à une demande accrue → https://lesnumeriques.com/telephone-portable/-n166231.html
+- [Canalys] Xiaomi becomes number two smartphone vendor for first time ever in Q2 2021 → https://canalys.com/newsroom/global-smartphone-market-q2-2021
+- [The Verge] Xiaomi overtakes Apple as number two smartphone vendor for first time → https://www.theverge.com/2021/7/16/22579771/worldwide-smartphone-market-share-ranking-q2-2022-canalys-xiaomi-apple-samsung
+- [Ars Technica] OnePlus cancels the base-model OnePlus 9 Pro, will only sell a $1,069 version. OnePlus' choice to not sell $969 version effectively marks a $100 price increase → https://arstechnica.com/gadgets/2021/07/oneplus-cancels-the-base-model-oneplus-9-pro-will-only-sell-a-1069-model/
+- [Twitter / Max Kennerly] Freedom Phone → https://twitter.com/MaxKennerly/status/1415501825088888839
+- [Les Numériques] Microsoft annonce Windows 365, son service de PC dans le cloud → https://lesnumeriques.com/appli-logiciel/-n166211.html
+- [XDA Developers] Microsoft starts talking about Windows 365 pricing → https://www.xda-developers.com/microsoft-starts-talking-about-windows-365-pricing/
+- [Ars Technica] TSMC signals global chip crunch may be easing. Semiconductor group says carmakers can expect upturn in supplies over coming weeks → https://arstechnica.com/information-technology/2021/07/tsmc-signals-global-chip-crunch-may-be-easing/
+- [The Verge] Intel is reportedly in talks to buy the $30 billion foundry company AMD spun off a decade ago. Intel isn’t saying either way → https://www.theverge.com/2021/7/15/22579404/intel-globalfoundries-acquisition-buy-rumor
+- [Twitter / chroma khey] fil sur Elgato → https://twitter.com/Rizotochaud/status/1415792862738923521
+- [Les Numériques] Bruxelles veut interdire la vente de moteurs thermiques en 2035, au profit des voitures électriques → https://lesnumeriques.com/voiture/-n166197.html
+- [Les Numériques] Aston Martin passe à l'hybride rechargeable avec sa supercar Valhalla → https://lesnumeriques.com/voiture/-n166227.html
+- https://twitter.com/TwitterSupport/status/1415806764113670145
+- [Ars Technica] Facebook advertisers are panicking after iOS cuts off key tracking data. Facebook’s ads aren’t as effective after iOS privacy changes, advertisers say → https://arstechnica.com/tech-policy/2021/07/facebook-advertisers-are-panicking-after-ios-cuts-off-key-tracking-data/
+- [New Yorker] A Haunting New Documentary About Anthony Bourdain → https://www.newyorker.com/culture/annals-of-gastronomy/the-haunting-afterlife-of-anthony-bourdain
+
+- [Les Numériques] Valve présente la Steam Deck, son PC/console de jeu portable aux allures de Nintendo Switch → https://lesnumeriques.com/console-de-jeu/-n166241.html
+- 🇫🇷 [Gamekult] Steam Deck : Valve annonce sa grosse machine portable à partir de 419 € → https://gamekult.com/actualite/-3050841157.html
+- 🇺🇸 [VGC] Valve has revealed its Switch-style handheld gaming PC, Steam Deck. Handheld gaming PC is capable of playing “the latest AAA games” → http://cpc.cx/vsF
+- https://www.SteamDeck.com/
+
+
+--------------------------------------
+2021-07-20
+
+- [PetaPixel] Kodak deletes Instagram photo after pushback and outrage in China → https://petapixel.com/2021/07/19/kodak-deletes-instagram-photo-after-pushback-and-outrage-in-china/
+- Haut-parleur Louis Vuitton Horizon Light Up, 2 450 € → https://fr.louisvuitton.com/fra-fr/produits/haut-parleur-louis-vuitton-horizon-light-up-nvprod2900129v
+- [Wired] The wild economics of a £50 Android smartphone. How do you make the world’s cheapest smartphone? There’s a simple answer → https://www.wired.co.uk/article/jiophone-next-android
+- [Les Numériques] Zero Motorcycles FXE : le supermotard qui électrifie la ville → https://lesnumeriques.com/moto/-n166307.html
+- [Les Numériques] Smart va enrichir sa gamme d'un SUV électrique produit en Chine → https://lesnumeriques.com/voiture/-n166289.html
+- HalloApp → https://www.halloapp.com/
+- [The Verge] HalloApp is a private ad-free social network from two early WhatsApp employees. The app bills itself as the “first real relationship network” → https://www.theverge.com/2021/7/19/22584551/
+- [Cryptoast] Aave lancera cette année une alternative à Twitter sur Ethereum → https://cryptoast.fr/aave-alternative-twitter-ethereum/
+- [Protocol] Concern trolls and power grabs: Inside Big Tech’s angry, geeky, often petty war for your privacy → https://www.protocol.com/policy/w3c-privacy-war
+- [The New York Times] ‘They’re Killing People’: Biden Denounces Social Media for Virus Disinformation → https://www.nytimes.com/2021/07/16/us/politics/biden-facebook-social-media-covid.html
+- [ArsTechnica] Tens of thousands of US organizations hit in ongoing Microsoft Exchange hack. Multiple hacking groups are exploiting vulnerabilities to backdoor unpatched servers → https://arstechnica.com/gadgets/2021/03/tens-of-thousands-of-us-organizations-hit-in-ongoing-microsoft-exchange-hack/
+- [ZDNet] Windows 10 : Des chercheurs révèlent comment tromper Windows Hello → https://www.zdnet.fr/actualites/windows-10-des-chercheurs-revelent-comment-tromper-windows-hello-39926363.htm
+- [Vice] Amazon Shuts Down NSO Group Infrastructure → https://www.vice.com/en/article/xgx5bw/amazon-aws-shuts-down-nso-group-infrastructure
+- [Vice] Gunshot-Detecting Tech Is Summoning Armed Police to Black Neighborhoods → https://www.vice.com/en/article/88nd3z/gunshot-detecting-tech-is-summoning-armed-police-to-black-neighborhoods
+- [Les Numériques] Nintendo dément s'octroyer une marge plus confortable sur la Switch Oled → https://lesnumeriques.com/console-de-jeu/-n166303.html
+- [Nvidia] Arm Is RTX ON! World’s Most Widely Used CPU Architecture Meets Real-Time Ray Tracing, DLSS → https://blogs.nvidia.com/blog/2021/07/19/geforce-rtx-arm-gdc/
+- [ZDNet] La chirurgie robot-assistée n'a pas d'avantage clair par rapport à la chirurgie classique → https://www.zdnet.fr/actualites/la-chirurgie-robot-assistee-n-a-pas-d-avantage-clair-par-rapport-a-la-chirurgie-classique-39925391.htm
+
+
+--------------------------------------
+2021-07-21
+
+- [The Verge] An on-the-ground look at Blue Origin’s motley crew → https://www.theverge.com/2021/7/20/22585956/blue-origin-crew-photo-launch
+- Replay - First Human Flight Post-Flight Press Conference → https://www.youtube.com/watch?v=Kmpb7xJJ10I
+- [Les Numériques] Blue Origin, Virgin Galactic, SpaceX… : le tourisme spatial prend son envol → https://lesnumeriques.com/pro/-a166185.html
+- [Aerospace] The policy and science of rocket emissions → https://aerospace.org/sites/default/files/2018-05/RocketEmissions_0.pdf
+- [Protocol] Bezos knows space tourism could expedite human extinction. He’s going anyway → https://www.protocol.com/bezos-blue-origin-rocket-launch
+
+- [Les Numériques] Sony passe à l’offensive sur le secteur haut de gamme du home-cinema → https://lesnumeriques.com/enceinte-home-cinema/-n166313.html
+
+- FREEDOM PHONE MURICAH FUCK YEAH → https://freedomphone.com/
+- [Ars Technica] The MAGA-targeted “Freedom Phone” has a breathtaking amount of red flags. Analysis: No specs listed, "uncensored" app store looks like Google Play → https://arstechnica.com/gadgets/2021/07/the-maga-targeted-freedom-phone-has-a-breathtaking-amount-of-red-flags/
+
+- [9to5Mac] Exclusive: Apple planning redesigned iPad mini with A15 processor, USB-C port, more → https://9to5mac.com/2021/07/20/new-ipad-mini-exclusive-a15-processor-usb-c/
+
+- [XDA Developers] Qualcomm confirms it plans on making new Snapdragon Wear chipsets for smartwatches → https://www.xda-developers.com/qualcomm-confirms-new-snapdragon-wear-chipsets/
+
+- [Les Numériques] Les Numériques lance ses tests de supports de smartphone pour voiture → https://lesnumeriques.com/support-smartphone/-n166335.html
+- [Les Numériques] Porsche restyle son Macan voué à passer le relais à une version électrique → https://lesnumeriques.com/voiture/-n166317.html
+- [Les Numériques] La start-up chinoise Aiways prépare son deuxième modèle électrique, le SUV coupé U6 → https://lesnumeriques.com/voiture/-n166333.html
+- [Les Numériques] Alpine détaille son futur électrique et annonce une version sportive de la prochaine R5 → https://lesnumeriques.com/voiture/-n166343.html
+- [ICCT] A global comparison of the life-cycle greenhouse gas emissions of combustion engine and electric passenger cars → https://theicct.org/publications/global-LCA-passenger-cars-jul2021
+- [The Verge] Intel’s Mobileye begins testing autonomous vehicles in New York City. One of the few companies to tackle the Big Apple’s notoriously congested roadways → https://www.theverge.com/2021/7/20/22585338/
+
+- [BuzzFeed] We Found Joe Biden’s Secret Venmo. Here’s Why That’s A Privacy Nightmare For Everyone → https://www.buzzfeednews.com/article/ryanmac/we-found-joe-bidens-secret-venmo
+- [White House] President Biden Announces Jonathan Kanter for Assistant Attorney General for Antitrust → https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/20/president-biden-announces-jonathan-kanter-for-assistant-attorney-general-for-antitrust/
+- [Les Numériques] Cookies et consentement : nouvelle salve de mises en demeure de la Cnil → https://lesnumeriques.com/vie-du-net/-n166309.html
+
+- [Les Numériques] Pegasus : révélations sur cet outil d'espionnage surveillant les smartphones d'opposants, d'activistes et de journalistes → https://lesnumeriques.com/vie-du-net/-n166295.html
+- [Les Numériques] Emmanuel Macron a-t-il été espionné par le Maroc ? L'épineuse révélation du Project Pegasus → https://lesnumeriques.com/vie-du-net/-n166355.html
+- [Le Monde] « Projet Pegasus » : les numéros de treize chefs d’Etat et d’exécutif en exercice sur la liste des cibles potentielles du logiciel espion → https://www.lemonde.fr/projet-pegasus/article/2021/07/21/projet-pegasus-les-numeros-de-treize-chefs-d-etat-et-d-executif-en-exercice-sur-la-liste-des-cibles-potentielles-du-logiciel-espion_6089014_6088648.html
+- [Numérama] Pegasus : la position de l’éditeur sur les droits de l’Homme lui a fait refuser beaucoup d’argent → https://cyberguerre.numerama.com/12822-pegasus-la-position-de-lediteur-sur-les-droits-de-lhomme-lui-a-fait-refuser-beaucoup-dargent.html
+- [Ars Technica] Apple under pressure over iPhone security after NSO spyware claims. Apple urged to work with rivals after alleged surveillance of journalists, activists → https://arstechnica.com/information-technology/2021/07/apple-under-pressure-over-iphone-security-after-nso-spyware-claims/
+
+- Introducing Email Protection: The easy way to block email trackers and hide your address → https://spreadprivacy.com/introducing-email-protection-beta/
+
+- Netflix Q2 2021 financial report → https://s22.q4cdn.com/959853165/files/doc_financials/2021/q2/FINAL-Q2-21-Shareholder-Letter.pdf
+- 🇺🇸 [The Verge] Netflix snags former EA, Oculus exec to lead its video game efforts. Mike Verdu is joining as VP of game development → http://cpc.cx/vsp
+
+- [The Verge] Peloton plans to launch an in-app video game where you pedal to control a rolling wheel → https://www.theverge.com/2021/7/19/22580340/
+
+- [SIGGRAPH 2021] Solid-Fluid Interaction with Surface-Tension-Dominant Contact → https://www.youtube.com/watch?v=3ejKNbtdfnY
+
+
+--------------------------------------
+2021-07-22
+
+- [Ars Technica] PlasticArm is a 32-bit bendable processor. Flexible electronics have been done before, but not on this scale → https://arstechnica.com/science/2021/07/researchers-build-a-bendable-arm-processor-dont-bother-to-bend-it/
+
+- [Les Numériques] Loi Climat : ce qui va changer pour les automobilistes → https://lesnumeriques.com/voiture/-n166389.html
+- [Les Numériques] Netflix revendique presque 210 millions d'abonnés et confirme l'arrivée prochaine de jeux vidéo → https://lesnumeriques.com/vie-du-net/-n166367.html
+- [Ars Technica] Netflix bleeds subscribers in US and Canada, with no sign of recovery. Streaming group issues disappointing forecasts for third-quarter customer growth → https://arstechnica.com/gaming/2021/07/netflix-bleeds-subscribers-in-us-and-canada-with-no-sign-of-recovery/
+- [The Verge] Twitter is testing upvote and downvote buttons on tweets. A new way to interact with tweets you do or don’t like → https://www.theverge.com/2021/7/21/22587386/
+- [FTC] Nixing the Fix: An FTC Report to Congress on Repair Restrictions → https://www.ftc.gov/system/files/documents/reports/nixing-fix-ftc-report-congress-repair-restrictions/nixing_the_fix_report_final_5521_630pm-508_002.pdf
+- [The Verge] FTC pledges to fight unlawful right to repair restrictions. It comes days after the White House endorsed similar rules → https://www.theverge.com/2021/7/21/22587331/
+- [Les Numériques] Obsolescence des téléviseurs : le condensateur pointé du doigt, une réparation maison impossible ? → https://lesnumeriques.com/tv-televiseur/-a166301.html
+- [Les Numériques] Projet Pegasus : malgré la brèche de sécurité, Apple se veut rassurant → https://lesnumeriques.com/telephone-portable/-n166383.html
+- [Les Numériques] Pegasus : Emmanuel Macron n'aurait pas été espionné par le Maroc, selon NSO Group → https://lesnumeriques.com/vie-du-net/-n166355.html
+- Sigma Theory: Global Cold War, 18 e sur Steam → https://store.steampowered.com/app/716640/
+- [eBay] eBay Inc. Issues Statement Regarding Indictments of Previously Terminated Employees → https://www.ebayinc.com/stories/news/ebay-inc-issues-statement-regarding-indictments-of-previously-terminated-employees/
+- [Ars Technica] Lawsuit: eBay tried to “terrorize, stalk, and silence” couple that ran news site. Filing in bloody pig mask case says "morning shots of alcohol" were common at eBay → https://arstechnica.com/tech-policy/2021/07/lawsuit-ebay-tried-to-terrorize-stalk-and-silence-couple-that-ran-news-site/
+- [Ars Technica] Catholic priest quits after “anonymized” data revealed alleged use of Grindr. Location data is almost never anonymous → https://arstechnica.com/tech-policy/2021/07/catholic-priest-quits-after-anonymized-data-revealed-alleged-use-of-grindr/
+- [The Pillar] Pillar Investigates: USCCB gen sec Burrill resigns after sexual misconduct allegations → https://www.pillarcatholic.com/p/pillar-investigates-usccb-gen-sec
+
+
+--------------------------------------
+2021-07-23
+
+- [Les Numériques] IA, bitcoin, high-tech : que lire cet été ? Nos recommandations → https://lesnumeriques.com/livre/-n166353.html
+- [Les Numériques] Football, F1, rugby, Jeux olympiques… Où (et pour combien) regarder vos sports favoris en 2021/2022 ? → https://lesnumeriques.com/vie-du-net/-a166037.html
+- [Les Numériques] Sophie Viger (école 42) : l'enseignement de l'informatique, un remède contre l'inégalité → https://lesnumeriques.com/pro/-n166401.html
+- [Les Numériques] Le labo photo WhiteWall propose la réalité augmentée pour mieux choisir son tirage → https://lesnumeriques.com/photo/-n166403.html
+- [LG Newsroom] For Top Athletes, Breathing Clean, Pure Air While Training is Now a Reality → https://www.lgnewsroom.com/2021/07/for-top-athletes-breathing-clean-pure-air-while-training-is-now-a-reality/
+- [Les Numériques] Labo – Hisense 55A9G : un pic de luminosité limité pour le téléviseur Oled de Hisense → https://lesnumeriques.com/tv-televiseur/-n166413.html
+- [Les Numériques] OnePlus se lance à son tour dans les écouteurs true wireless à réduction de bruit avec les Buds Pro → https://lesnumeriques.com/intra-ecouteur-true-wireless/-n166423.html
+- [Tom's Hardware] Beast Canyon NUCs show up on retail site → https://www.tomshardware.com/news/intel-unchains-beast-canyon-nuc-to-disrupt-the-sff-market
+- [ZDNet] Intel : Un deuxième trimestre solide grâce à la demande de PC et de centres de données d'entreprise → https://www.zdnet.fr/actualites/intel-un-deuxieme-trimestre-solide-grace-a-la-demande-de-pc-et-de-centres-de-donnees-d-entreprise-39926563.htm
+- [Engadget] Framework’s modular laptop is uncontroversial on purpose. The company’s first repairable notebook shouldn’t be treated with kid gloves → https://www.engadget.com/framework-laptop-review-150001399.html
+- [Daimler] Mercedes-Benz prepares to go all-electric → https://media.daimler.com/marsMediaSite/en/instance/ko/Mercedes-Benz-prepares-to-go-all-electric.xhtml?oid=50834319
+- [The Verge] Faraday Future just became a publicly traded company → https://www.theverge.com/2021/7/22/22587530/
+- [PlayStation] Obtenez six mois d'Apple TV+ dès maintenant sur votre PS5 → https://www.playstation.com/fr-fr/deals/6-months-trial-apple-tv-ps5-offer/
+- [The Verge] YouTube adds a new way to tip creators. Like Super Chat and Super Stickers, but for everything →https://www.theverge.com/2021/7/20/22584330/
+- Snap Inc Q2 2021 Earnings (PDF) → https://s25.q4cdn.com/442043304/files/doc_financials/2021/q2/Q2'21-Earnings-Slides-Final-7.22.21.pdf
+- [Engadget] Facebook finally blocks 'vaccines kill' hashtag. Instagram removed it two years ago → https://www.engadget.com/facebook-blocks-vaccines-kill-hashtag-094031580.html
+- [The Verge] Mark in the metaverse. Facebook’s CEO on why the social network is becoming ‘a metaverse company’ → https://www.theverge.com/22588022/mark-zuckerberg-facebook-ceo-metaverse-interview
+- [Protocol] These 11 tech execs’ pandemic security cost over $46 million. Facebook CEO Mark Zuckerberg's security costs alone accounted for half of the titans' total at more than $23 million. Costs rose even as CEOs shifted to home offices → https://www.protocol.com/ceo-security-pandemic
+- [Vice] Les réseaux sociaux ont ruiné mon couple et mes vacances. En bord de mer, au resto en amoureux ou en pleine visite, certains préfèrent rester sur Insta, Snapchat ou TikTok → https://www.vice.com/fr/article/n7b9bk/les-reseaux-sociaux-ont-ruine-mon-couple-et-mes-vacances
+- https://twitter.com/Akamai/status/1418247523454668803
+- [Vice Motherboard] A defunct video hosting site is flooding normal websites with hardcore porn → https://www.vice.com/en/article/qj8xz3/a-defunct-video-hosting-site-is-flooding-normal-websites-with-hardcore-porn
+- [Vice Motherboard] Grindr has been warned for years about its privacy issues. For years, security and privacy researchers found serious vulnerabilities in Grindr, allowing them do deanonymize and geolocate users → https://www.vice.com/en/article/wx57nm/grindr-has-been-warned-for-years-about-its-privacy-issues
+- [Le Monde] « Projet Pegasus » : le Maroc attaque Forbidden Stories et Amnesty International en diffamation. En France, un conseil de défense a « permis d’avoir un point d’étape » sur la présence des téléphones d’Emmanuel Macron parmi les cibles potentielles, selon l’Elysée, ajoutant qu’« un certain nombre de protocoles de sécurité ont été réajustés » → https://www.lemonde.fr/projet-pegasus/article/2021/07/22/projet-pegasus-emmanuel-macron-convoque-un-conseil-de-defense-exceptionnel_6089148_6088648.html
+- [Le Monde] Les révélations du « Projet Pegasus » déclenchent une tempête politique en Inde.  Le Parti du Congrès a dénoncé la « trahison » et l’« abdication » du gouvernement en matière de « sûreté nationale » → https://www.lemonde.fr/international/article/2021/07/21/les-revelations-du-projet-pegasus-declenchent-une-tempete-politique-en-inde_6089089_3210.html
+- [Ars Technica] Kaseya gets master decryptor to help customers still suffering from REvil attack. REvil ransomware struck as many as 1,500 networks, but a master key is now available → https://arstechnica.com/gadgets/2021/07/kaseya-gets-master-decryptor-to-help-customers-still-suffering-from-revil-attack/
+- [ZDNet] Cryptomonnaies : Bruxelles planche sur la fin de l'anonymat dans l'UE → https://www.zdnet.fr/actualites/cryptomonnaie-bruxelles-planche-sur-la-fin-de-l-anonymat-dans-l-ue-39926489.htm
+- [Les Numériques] Bitcoin : le tête-à-queue de Tesla sur la cryptomonnaie → https://lesnumeriques.com/pro/-n166407.html
+- [CNBC] Jack Dorsey hopes bitcoin will help bring about world peace → https://www.cnbc.com/2021/07/21/jack-dorsey-hopes-bitcoin-will-help-bring-about-world-peace.html
+- 🇺🇸 [PC Gamer] Amazon's New World MMO is reportedly killing $1,500 Nvidia GPUs. Bricking RTX 3090s in a graphics card drought is not a good look → http://cpc.cx/vuL
+- 🇺🇸 [VGC] Amazon’s New World beta is reportedly bricking RTX 3090 graphics cards. Numerous users have reported their cards overheating and “frying” → http://cpc.cx/vuM
+- [Gamekult] New World brique les RTX 3090 ? Amazon répond et acquiesce → https://gamekult.com/actualite/-3050841323.html
+- 🇺🇸 [VGC] Playdate handheld pre-orders start next week and will ‘not sell out’. $179 console will start shipping later this year → http://cpc.cx/vvj
+- [Ars Technica] Playdate preview: You won’t believe how fun this dorky, $179 game system is. Preorders start July 29 for this $179 Game Boy-like delight—which we've tested for weeks → https://arstechnica.com/gaming/2021/07/playdate-preview-you-wont-believe-how-fun-this-dorky-179-game-system-is/
+- [YouTube / IGN] Steam Deck: Valve Talks Hardware Power, Controller Comfort, and More → https://youtu.be/e3HnDR7A8yE
+- [Les Numériques] OnePlus Nord 2 5G : hybride entre fleuron et milieu de gamme → https://lesnumeriques.com/telephone-portable/-n166169.html
+
+- [Ars Technica] New fabric passively cools whatever it’s covering—including you → https://arstechnica.com/science/2021/07/new-fabric-passively-cools-whatever-its-covering-including-you/
+- [Wired] Scientists Just ‘Looked’ Inside Mars. Here’s What They Found --> https://www.wired.com/story/scientists-just-looked-inside-mars-heres-what-they-found/#intcid=_wired-homepage-right-rail_4e0fd692-7385-4c94-a6ab-6290f15192b9_popular4-1
+
+
+- [Les Numériques] 
+- [Ars Technica] 
+- [The Verge] 
+
+joyentony
+
+
+clips :
+🎥 quand Lâm éternue, il dabbe → https://twitch.tv/lesnumeriques/clip/ObedientEnchantingZebraTriHard-aPWSR67ruGTtvI13
+🎥 le tutoriel des Numériques pour avoir la 6G → https://clips.twitch.tv/FitBovineMooseSpicyBoy--k57-WBNOATS4vvK
+🎥 les explications du drone sauveur par Lâm → https://clips.twitch.tv/SmoggyHonorableJuiceOhMyDog-Z_8asXxYnuXUpQxn
+🎥 les effets spéciaux chez Les Numériques → https://clips.twitch.tv/ConfidentAgitatedJalapenoBibleThump-ozdzJ8u66gp6jK-M
+🎥 L'accordéoniste de l'ASMR → https://twitch.tv/lesnumeriques/clip/EnjoyableTangibleMonitorYee-On-Gx1rUoaDeeuL4
+🎥 Lâm, la Go Pro, la régie, l'infini → https://clips.twitch.tv/RamshackleTrustworthyCodBatChest-HcdzLYTmrbJ5hmOS
+🎥 Lâm veut blafardiser Puyo → https://clips.twitch.tv/RelatedHelplessWalrusNerfBlueBlaster-pdtDe7uISlj5n9vH
+🎥 cet homme met un croissant sur un téléphone ! → https://clips.twitch.tv/ScaryDeadSandstormBleedPurple-Uz2KdAZLRMLbLyfu
+🎥 Lâm veut vraiment manger son croissant 🥐 → https://clips.twitch.tv/HelpfulGiantFungusYee-yktHMLEAbIRJGepl
+🎥 quand Lâm parle (mal) des Nsex → https://clips.twitch.tv/AbstruseNimbleAntelopeLitty-MhYl8uCc_mo0meca
+🎥 on est d'abord des scientifiques et des journalistes → https://clips.twitch.tv/BlushingResoluteDiscCoolStoryBob-gHuRpK92cZj9Fa-s
+
