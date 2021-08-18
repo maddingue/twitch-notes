@@ -6776,6 +6776,57 @@ mitraillette :
 
 
 
+--------------------------------------
+2021-08-18
+
+- 📺 [YouTube] Humankind - launch trailer → https://youtu.be/nGi00HqpmS0
+- 🇫🇷 [Gamekult] Test - Humankind : Amplitude maximale → https://www.gamekult.com/jeux/humankind-3050881123/test.html
+
+- 🇺🇸 [Xbox blog] Coming Soon to Xbox Game Pass: Psychonauts 2, Humankind, Twelve Minutes, and more → http://cpc.cx/vG0
+
+- 📺 [YouTube] Myst is Coming to PC, Mac and Gamepass! Get it August 26th! → https://youtu.be/6dzvtzamVNw
+- 🇺🇸 [VGC] The VR remake of Myst is coming to PC and Xbox Game Pass next week. Cyan’s modern remake was previously exclusive to the Oculus Quest → http://cpc.cx/vG8
+
+- 🇫🇷 [Gamekult] Avec 4,8 millions de joueurs en juin, Jack Sparrow a porté Sea of Thieves vers de nouveaux sommets → https://gamekult.com/actualite/-3050842023.html
+- 🇺🇸 [VGC] Sea of Thieves attracted 4.8 million players in record month, Rare claims. Driven by the launch of a Pirates of the Caribbean crossover → http://cpc.cx/vG9
+
+- 🇫🇷 [Gamekult] Chivalry 2 fête son million d'exemplaires vendus → https://gamekult.com/actualite/-3050842019.html
+- 🇺🇸 [Gamasutra] Death Trash recoups dev costs after under two weeks in early access → http://cpc.cx/vGe
+
+- 🇫🇷 [Gamekult] Embracer achète 3 studios de plus et dévoile ses résultats → https://gamekult.com/actualite/-3050842035.html
+- 🇺🇸 [Games Industry] Embracer's next three acquisitions are Demiurge Studios, Fractured Byte and SmartPhone Labs. All three purchased through Saber Interactive, adds over 200 more staff to growing development empire → http://cpc.cx/vG2
+- 🇺🇸 [VGC] Biomutant has sold more than 1 million copies and recouped all its costs in its first week. THQ Nordic’s open-world game was a success despite its mixed reception → http://cpc.cx/vGb
+- 🇺🇸 [Games Industry] Biomutant's 1m sales and Gearbox, Easybrain acquisitions drive Embracer sales to $389m. Group now has 180 titles in development, expects growth to ramp up in second half of fiscal year → http://cpc.cx/vG1
+
+- 🇺🇸 [Gamasutra] Fortnite's new game mode curiously resembles Among Us → http://cpc.cx/vGf
+- 🇺🇸 [VGC] Among Us developers accuse Fortnite of plagiarism. The new Impostor mode strongly resembles the popular indie game → http://cpc.cx/vGc
+- 🇺🇸 [PC Gamer] Among Us dev wishes they could have worked with Epic on Fortnite's 'Impostors' mode. Fortnite's very Among Us-like new mode went live this morning, and members of Innersloth are a little bummed → http://cpc.cx/vGg
+
+- 🇫🇷 [Gamekult] Outriders : pas de rentabilité en vue pour People Can Fly. Le studio ne connaît pas les chiffres de ventes → https://gamekult.com/actualite/-3050842015.html
+- 🇺🇸 [VGC] Outriders’ developer says it hasn’t earned any profits, despite Game Pass deal. Shooter “probably” hasn’t broke even, says People Can Fly, even after 3.5 million players at launch → http://cpc.cx/vFX
+
+- 🇺🇸 [VGC] Ubisoft Singapore is being investigated for alleged sexual harassment and discrimination. The Skull & Bones studio changed leadership last year after misconduct allegations → http://cpc.cx/vFY
+- 🇺🇸 [Games Industry] Singapore labor rights agency investigating Ubisoft. TAFEP reportedly looking into allegations of workplace harassment, unfair treatment at Skull and Bones studio → http://cpc.cx/vG3
+
+- 🇺🇸 [VGC] Call of Duty Vanguard’s in-game Warzone reveal event gets new details. Battle of Verdansk participants will be rewarded with cosmetics items → http://cpc.cx/vGh
+
+- 🇺🇸 [Gamasutra] California regulators to Riot Games: 'let your employees know they can speak to us' → http://cpc.cx/vGi
+- 🇺🇸 [Games Industry] Riot Games reportedly delaying procedure in discrimination and harassment investigation. Update: "Riot's severance agreements have never in any way prohibited speaking to government agencies," a Riot spokesperson said → http://cpc.cx/vGj
+
+- 🇺🇸 [VGC] Cyberpunk 2077’s first free DLC has been revealed. New jackets, a new car, and a Johnny Silverhand alternative appearance are coming with patch 1.3 → http://cpc.cx/vFZ
+- 🇫🇷 [Gamekult] Cyberpunk 2077 : des infos sur la mise à jour 1.3 et sur les premiers DLC ce soir. Et une date pour les versions nouvelle génération ? → https://gamekult.com/actualite/-3050842005.html
+
+- 🇫🇷 [Gamekult] Disponible sur Stadia, Young Souls sortira cet automne sur consoles et PC → https://gamekult.com/actualite/-3050842043.html
+
+:::::
+- 🇫🇷 [Gamekult] L'éditeur Raw Fury a un nouvel actionnaire majoritaire. Plus de moyens pour l'éditeur de Sable → https://gamekult.com/actualite/-3050841997.html
+- 🇫🇷 [Gamekult] Test - Road 96 : la fortune des voyages selon DigixArt. Quand procédural et narratif taillent la route côte à côte → https://www.gamekult.com/jeux/road-96-3050883083/test.html
+- 🇺🇸 [VGC] EA admits it ‘didn’t consider the players’ when it delisted classic titles from GOG. But marketing executive claims the company has learned its lesson → http://cpc.cx/vG4
+- 🇺🇸 [Games Industry] EA will consider "player perspective" when delisting titles after GOG misstep. Publisher pulled Syndicate, Ultima Underworld games from marketplace, has since relisted them in free promo → http://cpc.cx/vG6
+- 🇺🇸 [VGC] A new emulator lets Xbox Series X/S play PlayStation games at 4K. An Xbox port of DuckStation features internal resolution scaling to native 4K → http://cpc.cx/vG5
+- 📺 [YouTube] Aeon Must Die! - Reveal Trailer → https://youtube/aJhqtZ_RdyY
+- 🇺🇸 [VGC] Aeon Must Die mysteriously returns a year after devs’ IP theft and ‘endless crunch’ allegations. Limestone Games’ beat ’em up seemed to be in limbo following a mass exodus of staff → http://cpc.cx/vG7
+
 
 - 🇺🇸 
 - 🇫🇷 
@@ -6788,6 +6839,9 @@ mitraillette :
 - 🇺🇸 [VGC] 
 - 🇺🇸 [Games Industry] 
 - 🇺🇸 [Gamasutra] 
+
+
+14:31 billiank : Ils sont bridé, leur salaire aussi ?(Banni(e) par gautoz)
 
 
 --------------------------------------------------------------------------------
