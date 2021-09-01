@@ -206,6 +206,87 @@
 - [Wired] Scientists Just ‘Looked’ Inside Mars. Here’s What They Found --> https://www.wired.com/story/scientists-just-looked-inside-mars-heres-what-they-found/#intcid=_wired-homepage-right-rail_4e0fd692-7385-4c94-a6ab-6290f15192b9_popular4-1
 
 
+--------------------------------------
+2021-08-30
+
+- I made Google Maps 8-bit for NES because Google wouldn't : https://www.youtube.com/watch?v=5vcPnk-6saw
+- [Engadget] Apple Watch Series 7 will reportedly offer larger cases and screens. New watch faces may take advantage of the bigger displays : https://www.engadget.com/apple-watch-series-7-larger-screen-sizes-213316597.html
+- [WinFuture] GoPro Hero 10 Black: Das ist die neue Action-Cam mit GP2-Prozessor : https://winfuture.de/news,124840.html
+- [Les Numériques] Panasonic dévoile la SC-GN01, une curieuse enceinte personnelle dédiée au gaming : https://lesnumeriques.com/enceintes-personnelles/-n167595.html
+- [The Verge] There’s a tiny tube amp in this super pricey Astell & Kern music player : https://www.theverge.com/2021/8/27/22644585/
+- The Circle Comes Full Circle, with the new Google Pixel 5a with 5G : https://www.youtube.com/watch?v=oJZuSVl5wjM
+- [Engadget] Google Pixel 5a teardown shows that it's still a challenge to repair. The USB-C port is soldered to the motherboard and the battery is hard to remove : https://www.engadget.com/google-pixel-5-a-teardown-shows-that-its-still-a-challenge-to-repair-051041017.html
+- [Les Numériques] Labo – Samsung Galaxy Z Fold 3 : un écran intérieur “stylet” : https://lesnumeriques.com/telephone-portable/-n167519.html
+ - [Les Numériques] Test Sony Xperia X1 III : le prix de l'originalité ? https://www.lesnumeriques.com/telephone-portable/sony-xperia-1-iii-p63005/test.html
+- [Les Numériques] Samsung Galaxy S22/S22+ : un vrai téléobjectif pour plus de polyvalence en photo ? https://lesnumeriques.com/telephone-portable/-n167607.html
+- [MacRumors] Kuo: iPhone 13 to Feature LEO Satellite Communications to Make Calls and Texts Without Cellular Coverage : https://www.macrumors.com/2021/08/29/iphone-13-to-feature-leo-to-make-calls-and-text/
+- [XDA Developers] Potential Surface Go 3 shows up on GeekBench and it’s what you’d expect : https://www.xda-developers.com/potential-surface-go-3-shows-up-geekbench/
+- [Ars Technica] Samsung seemingly caught swapping components in its 970 Evo Plus SSDs. The Phoenix controller in Samsung's own product images isn't present on newer drives : https://arstechnica.com/gadgets/2021/08/samsung-seemingly-caught-swapping-components-in-its-970-evo-plus-ssds/
+- [Ars Technica] EU set to launch formal probe into Nvidia’s $54 billion takeover of Arm. Brussels expected to open investigation in early September over competition concerns : https://arstechnica.com/tech-policy/2021/08/eu-set-to-launch-formal-probe-into-nvidias-54-billion-takeover-of-arm/
+- [SemiAnalysis] The Semiconductor Heist Of The Century | Arm China Has Gone Completely Rogue, Operating As An Independent Company With Inhouse IP/R&D : https://semianalysis.com/the-semiconductor-heist-of-the-century-arm-china-has-gone-completely-rogue-operating-as-an-independent-company-with-their-own-ip/
+- [ZDNet France] Linus Torvalds souffle les 30 bougies de Linux : https://www.zdnet.fr/actualites/linus-torvalds-souffle-les-30-bougies-de-linux-39928163.htm
+- [Microsoft] Update on Windows 11 minimum system requirements : https://blogs.windows.com/windows-insider/2021/06/28/update-on-windows-11-minimum-system-requirements/
+- [Ars Technica] Why Windows 11 has such strict hardware requirements, according to Microsoft. Security and stability are both much better on newer PCs, says Microsoft : https://arstechnica.com/gadgets/2021/08/why-windows-11-has-such-strict-hardware-requirements-according-to-microsoft/
+- [Les Numériques] Audi passera au tout-électrique en 2033 : https://www.lesnumeriques.com/voiture/-n167571.html
+- [Automobile propre] Ford obligé de revoir ses plans pour le F-150 Lightning, son pick-up électrique : https://www.automobile-propre.com/breves/ford-oblige-de-revoir-ses-plans-pour-le-f-150-lightning-son-pick-up-electrique/
+
+- [Les Numériques] En Afghanistan, Internet au cœur de la conquête des talibans et des craintes de la population : https://lesnumeriques.com/vie-du-net/-n167589.html
+- [20 min] Loi « séparatisme » : Le doxing, le fait de révéler l’identité d’une personne sur Internet, désormais passible de prison : https://www.20minutes.fr/high-tech/3111031-20210828-loi-separatisme-doxing-fait-reveler-identite-personne-internet-desormais-passible-prison
+- le compte Twitter Apple Workers : https://twitter.com/appleworkers
+- [Les Numériques] Test AMD Radeon RX 6600 XT : une carte graphique qui tique sur le raytracing : https://www.lesnumeriques.com/carte-graphique/amd-radeon-rx-6600-xt-p64423/test.html
+- [YouTube - les Numériques] Playstation 5 de nouveau en stock : où et comment l'acheter -- https://www.youtube.com/watch?v=_Q4UhvqthGA
+- [Les Numériques] Bon plan – Une PS5 vendue pour la souscription à une offre fibre chez SFR : https://lesnumeriques.com/fournisseur-acces-internet/-n167577.html
+- [The Verge] Sony’s new PS5 model weighs less because it has a smaller heatsink. This new PS5 model has appeared in Japan, Australia, and the US : https://www.theverge.com/2021/8/29/22646963/
+- [Les Numériques] Disney+ : les programmes à ne pas manquer en septembre 2021 -- https://lesnumeriques.com/vie-du-net/-n167429.html
+- [Engadget] Tesla applies to become an energy supplier in Texas.  The company filed an application with the state's Public Utility Commission in mid-August -- https://www.engadget.com/tesla-texas-public-utility-commission-application-141556533.html
+- [CNET France] Les chercheurs ont déterminé le meilleur moment pour un vol habité vers Mars. Une nouvelle étude scientifique propose des solutions pour résoudre les problèmes de sécurité que posera un vol avec équipage à destination de Mars -- https://www.cnetfrance.fr/news/les-chercheurs-ont-determine-le-meilleur-moment-pour-un-vol-habite-vers-mars-39928165.htm
+
+
+--------------------------------------
+2021-09-01
+
+- [Les Numériques] Test Electrolux Perfect Care 600 EW6S3624BX : un lave-linge de faible profondeur --  https://www.lesnumeriques.com/lave-linge/electrolux-ew6s3624bx-p64741/test.html
+- [Les Numériques] Test Imprimante connectée Xiaomi Mi Portable Photo Printer : compacité et efficacité dans la poche -- https://www.lesnumeriques.com/imprimante-photo-portable/xiaomi-xiaomi-mi-portable-photo-printer-imprimante-laser-portable-p64611/test.html
+- [Les Numériques] Montres connectées : 100 millions d'utilisateurs d'Apple Watch, Samsung en embuscade -- https://lesnumeriques.com/montre-connectee/-n167663.html
+cc
+- [Journal du Luxe] Bugatti poursuit le lancement de sa smartwatch sur Indiegogo -- https://journalduluxe.fr/fr/hbjo/bugatti-lance-sa-premiere-smartwatch
+- [Les Numériques] Jabra revient en force avec trois nouvelles paires d’écouteurs true wireless Elite -- https://lesnumeriques.com/intra-ecouteur-true-wireless/-n167405.html
+- [Les Numériques] Fidelio T1 : Philips présente son premier modèle d’écouteurs true wireless haut de gamme -- https://lesnumeriques.com/intra-ecouteur-true-wireless/-n167693.html
+- [Les Numériques] QuietComfort 45 : Bose officialise enfin son casque Bluetooth phare -- https://lesnumeriques.com/casque-nomade/-n167721.html
+- [Les Numériques] Apple Music se met au classique avec l'acquisition de Primephonic -- https://lesnumeriques.com/tv-video/-n167681.html
+- [CNET France] Les Google Pixel 6 et 6 Pro arriveraient sur le marché fin octobre -- https://www.cnetfrance.fr/news/les-google-pixel-6-et-6-pro-arriveraient-sur-le-marche-fin-octobre-39928347.htm
+- [CNET France] L'iPhone 13 ne devrait pas profiter de la connexion satellite pour les fonctionnalités d'urgence -- https://www.cnetfrance.fr/news/l-iphone-13-ne-devrait-pas-profiter-de-la-connexion-satellite-pour-les-fonctionnalites-d-urgence-39928197.htm
+- [Les Numériques] Le Xiaomi 12 abritera-t-il un capteur 50 mégapixels sur tous ses modules photo ? -- https://lesnumeriques.com/telephone-portable/-n167685.html
+- [Les Numériques] Test Ordinateur portable Honor MagicBook X 15 : la bureautique avant tout
+ -- https://www.lesnumeriques.com/ordinateur-portable/honor-magicbook-x-15-p64731/test.html
+- [Les Numériques] ByteDance (TikTok) s'intéresse à la réalité virtuelle et rachète Pico -- https://lesnumeriques.com/casque-realite-virtuelle/-n167695.html
+- [Les Numériques] Logitech lance Logi Bolt, une nouvelle offre de technologie sans-fil pour entreprises -- https://lesnumeriques.com/pro/-n167731.html
+- [Ars Technica] Windows 11 arrives on October 5, Android apps will come later -- https://arstechnica.com/gadgets/2021/08/windows-11s-months-long-public-rollout-begins-on-october-5/
+- [The Verge] GM temporarily stops making the Chevy Bolt after latest recall. The new batteries without defects will have to be swapped into older Bolts -- https://www.theverge.com/2021/8/30/22648922/
+- [ZDNet France] Pénurie de puces : les usines françaises de Stellantis à l'arrêt -- https://www.zdnet.fr/actualites/penurie-de-puces-les-usines-francaises-de-stellantis-a-l-arret-39928275.htm
+- [NPR] Why 300,000 Volkswagens Are Being Stored In These Massive Auto Boneyards -- https://www.npr.org/sections/thetwo-way/2018/03/29/597991227/
+- [Les Numériques] Dacia Jogger : une familiale 7 places hybride en approche -- https://lesnumeriques.com/voiture/-n167661.html
+- Million-dollar scrapyard: final resting place for supercars in Dubai -- https://www.drive.com.au/news/million-dollar-scrapyard-final-resting-place-for-supercars-in-dubai/
+- [Les Numériques] Lotus prépare quatre nouvelles voitures électriques disponibles à partir de 2022 -- https://lesnumeriques.com/voiture/-n167691.html
+- [Les Numériques] Mobilize (Renault) lance Limo, une berline électrique pour taxis et VTC -- https://lesnumeriques.com/pro/-n167591.html
+- [The Verge] Here’s the robotaxi that will be available on the Lyft app in 2023 -- https://www.theverge.com/2021/8/31/22648789/
+- [ZDNet France] Clap de fin pour Samsung Cloud -- https://www.zdnet.fr/actualites/clap-de-fin-pour-samsung-cloud-39928213.htm
+- [Les Numériques] Une super tempête solaire pourrait mettre à mal l'Internet mondial -- https://lesnumeriques.com/vie-du-net/-n167665.html
+- [The Verge] After weeks of hate raids, Twitch streamers are taking a day off in protest -- https://www.theverge.com/2021/8/31/22650578/
+- [Ars Technica] South Korea law forces Google and Apple to open up app store payments. App store owners won't be able to lock developers into their 30 percent fees -- https://arstechnica.com/gadgets/2021/08/south-korea-law-forces-google-and-apple-to-open-up-app-store-payments/
+- [Les Numériques] Le Play Store de Google a généré 11,2 milliards de dollars en 2019 -- https://lesnumeriques.com/pro/-n167645.html
+- [ZDNet France] Télétravail : Que vont changer les nouvelles règles en France ? -- https://www.zdnet.fr/actualites/teletravail-que-vont-changer-les-nouvelles-regles-en-france-39928233.htm
+- [ZDNet France] Vol d'un million de dollars en bitcoins : la faute aux parents ? -- https://www.zdnet.fr/actualites/vol-d-un-million-de-dollars-en-bitcoins-la-faute-aux-parents-39928215.htm
+- [Les Numériques] Microsoft Flight Simulator : le simulateur star poursuit son ascension -- https://lesnumeriques.com/jeux-video/-a167637.html
+- [Kotaku] Martin Luther King, Jr.’s Daughter Distances Herself From Fortnite Event -- https://kotaku.com/martin-luther-king-jr-s-daughter-distances-herself-fro-1847584012
+- [Trust my science] Des chercheurs japonais impriment en 3D du bœuf de Kobe cultivé en laboratoire -- https://trustmyscience.com/chercheurs-japonais-impriment-3d-boeuf-kobe-cultive-laboratoire/
+- [Les Numériques] 
+- [Les Numériques] 
+- [Les Numériques] 
+
+
+
+
 - [Les Numériques] 
 - [Ars Technica] 
 - [The Verge] 
