@@ -280,18 +280,58 @@ cc
 - [Les Numériques] Microsoft Flight Simulator : le simulateur star poursuit son ascension -- https://lesnumeriques.com/jeux-video/-a167637.html
 - [Kotaku] Martin Luther King, Jr.’s Daughter Distances Herself From Fortnite Event -- https://kotaku.com/martin-luther-king-jr-s-daughter-distances-herself-fro-1847584012
 - [Trust my science] Des chercheurs japonais impriment en 3D du bœuf de Kobe cultivé en laboratoire -- https://trustmyscience.com/chercheurs-japonais-impriment-3d-boeuf-kobe-cultive-laboratoire/
-- [Les Numériques] 
-- [Les Numériques] 
-- [Les Numériques] 
+
+
+--------------------------------------
+2021-09-02
+
+- [Le Parisien] L’allocation de rentrée scolaire pour acheter des écrans plats ? Blanquer nuance... mais pointe «une évidence» -- https://www.leparisien.fr/societe/lallocation-de-rentree-scolaire-pour-acheter-des-ecrans-plats-blanquer-nuance-mais-pointe-une-evidence-01-09-2021-T7MWMBCUPRHEBPZ37VVT4XQFSU.php
+- [Libération] Allocation : la désinformation de rentrée de Blanquer -- https://www.liberation.fr/politique/la-desinformation-de-rentree-de-blanquer-20210830_EAV4ZLH42NEEXNLKWFZAIDEFAQ/
+- [Ars Technica] Report: Big new health features are coming to the Apple Watch—just not this year -- https://arstechnica.com/gadgets/2021/09/report-big-new-health-features-are-coming-to-the-apple-watch-just-not-this-year/
+- [Axios] Scoop: Amazon quietly building live audio business -- https://www.axios.com/amazon-live-audio-clubhouse-competitor-ea0ead59-f6d3-49a0-a216-a4105e0338ba.html
+- [XDA Developers] Qualcomm’s aptX Lossless promises CD quality audio over Bluetooth -- https://www.xda-developers.com/qualcomm-aptx-lossless-audio/
+- [WinFuture] DJI OM 5: Smartphone-Gimbal bekommt Teleskop-Arm - Infos & Bilder -- https://winfuture.de/news,124942.html
+- [XDA Developers] Samsung unveils the first 200MP camera sensor for smartphones -- https://www.xda-developers.com/samsung-isocell-hp1-200mp-sensor-smartphones/
+- RED V-Raptor -- https://www.youtube.com/watch?v=KmQ8huunigk
+- [DPReview] The RED V-RAPTOR ST is a $25K cinema camera capable of 8K 120fps 16-bit Raw video capture -- https://www.dpreview.com/news/7851957362/
+- [Les Numériques] Xiaomi officialise son entrée sur le marché des voitures électriques -- https://lesnumeriques.com/voiture/-n167763.html
+- [Les Numériques] La DS 4 électrique arrivera en 2024, signant l'électrification à 100 % de DS Automobiles -- https://lesnumeriques.com/voiture/-n167769.html
+- [Les Numériques] Le top 10 des voitures les plus vendues en France de janvier à août 2021 -- https://lesnumeriques.com/voiture/-n167803.html
+- [Les Numériques] Jumeau électrique du Toyota bZ4X, le Subaru Solterra se dévoile -- https://lesnumeriques.com/voiture/-n167737.html
+- [MotorTrend] The 2022 Rivian R1T Is the Most Remarkable Pickup We’ve Ever Driven -- https://www.motortrend.com/reviews/2022-rivian-r1t-electric-pickup-truck-first-drive-review/
+- Dembell Motorhome -- https://dembell.com/
+- [Les Numériques] KTM RC 390 2022 : un concentré de technologies pour les motards débutants -- https://lesnumeriques.com/moto/-n167773.html
+- [Les Numériques] Vélos électriques : les nouvelles ambitions de VanMoof avec une levée de 128 millions de dollars -- https://lesnumeriques.com/velo-electrique/-n167739.html
+- [ZDNet France] Les ventes de smartphones au top malgré la pénurie de semi-conducteurs -- https://www.zdnet.fr/actualites/les-ventes-de-smartphones-au-top-malgre-la-penurie-de-semi-conducteurs-39928371.htm
+- [Les Numériques] Test Samsung Galaxy Z Fold 3 : le troisième opus pliant passe à la vitesse supérieure ⭐⭐⭐⭐⭐ -- https://www.lesnumeriques.com/telephone-portable/samsung-galaxy-z-fold-3-p61045/test.html
+- Samsung’s One UI 3.1.1 Is Bringing Next-Level Foldable Experiences to Galaxy Z Series Users -- https://news.samsung.com/global/samsungs-one-ui-3-1-1-is-bringing-next-level-foldable-experiences-to-galaxy-z-series-users
+- [XDA Developers] Samsung plans to start mass production of Galaxy S21 FE next month, Galaxy S22 in November -- https://www.xda-developers.com/samsung-galaxy-s21-mass-production-september/
+- [Nikkei Asia] Google developing own CPUs for Chromebook laptops -- https://asia.nikkei.com/Business/Tech/Semiconductors/Google-developing-own-CPUs-for-Chromebook-laptops
+- [Les Numériques] Le smartphone Xiaomi 11T pointe le bout de son écran avant son annonce officielle -- https://lesnumeriques.com/telephone-portable/-n167755.html
+- [Les Numériques] Samsung décline sa Tab S7 FE dans une version Wi-Fi plus puissante et moins chère -- https://lesnumeriques.com/tablette-tactile/-n167697.html
+- [ZDNet France] Microsoft : L'événement Surface aura lieu le 22 septembre -- https://www.zdnet.fr/actualites/microsoft-l-evenement-surface-aura-lieu-le-22-septembre-39928399.htm
+- [ZDNet France] Windows 11 : Microsoft coupe les accès des bêta-testeurs aux PC jugés "inéligibles" -- https://www.zdnet.fr/actualites/windows-11-microsoft-coupe-les-acces-des-beta-testeurs-aux-pc-juges-ineligibles-39928381.htm
+- [Les Numériques] Shadow entame sa phase de relance en ouvrant 5000 slots immédiatement accessibles -- https://lesnumeriques.com/vie-du-net/-n167743.html
+- [Les Numériques] LinkedIn met fin à ses Stories… que personne n'a jamais vues -- https://lesnumeriques.com/vie-du-net/-n167783.html
+- [Engadget] Twitter opens Super Follow subscriptions for some creators -- https://www.engadget.com/twitter-launches-super-follow-subscriptions-180050731.html
+- [Vice Motherboard] Anti-Porn Crusaders Are Going After Twitter Next -- https://www.vice.com/en/article/jg8998/national-center-on-sexual-exploitation-ncose-twitter-lawsuit
+- [Les Numériques] Lobbying : la mainmise historique des Gafam sur l'Union européenne -- https://lesnumeriques.com/pro/-n167709.html
+- [ZDNet France] Droits voisins : Google fait appel de son amende record -- https://www.zdnet.fr/actualites/droits-voisins-google-fait-appel-de-son-amende-record-39928361.htm
+- [Les Numériques] Facebook affirme vouloir réduire les contenus politiques de nos fils d’actualité -- https://lesnumeriques.com/vie-du-net/-n167761.html
+- [The Verge] Apple just banned a pay equity Slack channel but lets fun dogs channel lie. The company’s rules around Slack usage are not being evenly enforced --- https://www.theverge.com/2021/8/31/22650751/
+- [ZDNet France] Les pirates s'attaquent désormais à la bande passante internet de leurs victimes -- https://www.zdnet.fr/actualites/les-pirates-s-attaquent-desormais-a-la-bande-passante-internet-de-leurs-victimes-39928377.htm
+- https://twitter.com/pranksy/status/1432766192205373442
+- [The Art Newspaper] Were Banksy and Pranksy both pranked in $330,000 NFT sale? -- https://www.theartnewspaper.com/news/were-banksy-and-pranksy-both-pranked-in-usd330-000-nft-sale
 
 
 
-
 - [Les Numériques] 
+- [ZDNet France] 
 - [Ars Technica] 
 - [The Verge] 
+- [XDA Developers] 
 
-joyentony
+chaîne YouTube des Numériques -- https://www.youtube.com/user/LesNumeriques
 
 
 clips :
