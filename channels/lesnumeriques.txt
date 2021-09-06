@@ -369,6 +369,45 @@ cc
 - [ZDNet] Electric exploration submarine vies to be SpaceX of sea -- https://www.zdnet.com/article/electric-exploration-submarine-vies-to-be-spacex-of-sea/
 
 
+--------------------------------------
+2021-09-06
+
+- [Eurovision] ABBA are back with a new album and live show 'Voyage' 🇸🇪 -- https://eurovision.tv/story/welcome-back-abba
+- Navimow -- http://navimow.segway.com/
+- [Les Numériques] Test Tesla Model 3 Standard Plus 2021 : voiture électrique de tous les superlatifs -- https://www.lesnumeriques.com/voiture/tesla-model-3-standard-plus-p51831/test.html
+- Découverte de la 1ère Megane 100% électrique de chez Renault -- https://www.youtube.com/watch?v=E8uVn1LEYkM
+- [Les Numériques] Opel Astra 2021 : un éclair de génie avec l’hybride rechargeable ? -- https://lesnumeriques.com/voiture/-n167831.html
+- [The Verge] Mercedes-Benz reveals an electric G-Wagen concept for the future -- https://www.theverge.com/2021/9/5/22657738/
+- [Les Numériques] BMW CE 02 : un deux-roues qui préfigure une certaine idée de la mobilité urbaine du futur -- https://lesnumeriques.com/moto/-n167895.html
+- [Les Numériques] Yamaha dépose un brevet pour un avertisseur d’angle mort destiné à la moto -- https://lesnumeriques.com/moto/-n167849.html
+- [Les Numériques] JBL fait sa rentrée avec quatre modèles de true wireless Tune, Reflect Flow et Endurance -- https://lesnumeriques.com/intra-ecouteur-true-wireless/-n167857.html
+- [Les Numériques] ATH-S220BT : Audio Technica lance un casque Bluetooth avec 60 h d’autonomie -- https://lesnumeriques.com/casque-nomade/-n167913.html
+- [Les Numériques] Test Sennheiser CX True Wireless : des écouteurs true wireless abordables et sans surprise -- https://www.lesnumeriques.com/intra-ecouteur-true-wireless/sennheiser-cx-true-wireless-p64079/test.html
+- [Les Numériques] Sondage – Constructeurs photo : quels rendus colorimétriques préférez-vous (épisode 2) ? -- https://lesnumeriques.com/reflex-hybride/-n167765.html
+- [Les Numériques] Batterie de 6000 mAh, Helio G88… Le Redmi 10 Prime fait son apparition -- https://lesnumeriques.com/telephone-portable/-n167907.html
+- [Les Numériques] Test Asus Zenfone 8 : petite taille, grandes capacités -- https://www.lesnumeriques.com/telephone-portable/asus-zenfone-8-p63361/test.html
+- [Les Numériques] Vivo : les prochains X70 devraient bénéficier de leur propre puce de traitement d'image, la V1 -- https://lesnumeriques.com/telephone-portable/-n167927.html
+- [Apple Insider] Germany wants Apple to offer iPhone updates and parts for 7 years -- https://appleinsider.com/articles/21/09/04/germany-wants-apple-to-offer-iphone-updates-and-parts-for-7-years
+- [Ars Technica] Reports of Pixel 3s bricking with “EDL” message are growing. Users say Pixel 3s are unable to boot into Android or do anything useful at all -- https://arstechnica.com/gadgets/2021/09/reports-of-pixel-3s-bricking-with-edl-message-are-growing/
+- [Les Numériques] Amazon commercialiserait son premier téléviseur aux États-Unis en octobre prochain -- https://lesnumeriques.com/tv-televiseur/-n167883.html
+- [Les Numériques] Asus cible les créateurs professionnels avec les ProArt StudioBook 16 OLED -- https://lesnumeriques.com/ordinateur-portable/-n167741.html
+- [Les Numériques] Reddit en route vers une entrée en Bourse -- https://lesnumeriques.com/pro/-n167879.html
+- [XDA Developers] Microsoft reportedly broke Windows 11 by injecting ads -- https://www.xda-developers.com/microsoft-breaks-windows-11-by-injecting-ads/
+- [Les Numériques] Publicités ciblées : Apple demandera la permission sous iOS 15 -- https://lesnumeriques.com/telephone-portable/-n167903.html
+- [Ars Technica] Amid backlash, Apple will change photo-scanning plan but won’t drop it completely. Apple issues vague statement promising "improvements" but still plans to scan photos -- https://arstechnica.com/tech-policy/2021/09/apple-promises-to-change-iphone-photo-scanning-plans-to-address-criticisms/
+- [Les Numériques] Assistants vocaux : Apple et Google accusés d'écouter même lorsqu'ils ne devraient pas -- https://lesnumeriques.com/vie-du-net/-n167861.html
+- [Secours Rouge] France/Suisse/Sécurité IT : Protonmail a communiqué à la police l’adresse IP de militant·es anti-gentrification -- https://secoursrouge.org/france-suisse-securite-it-protonmail-a-communique-a-la-police-ladresse-ip-de-militant%C2%B7es-anti-gentrification/
+- [Numérama] ProtonMail transmet des adresses IP à la police : 4 questions pour comprendre la polémique -- https://www.numerama.com/tech/736940-protonmail-transmet-des-adresses-ip-a-la-police-4-questions-pour-comprendre-la-polemique.html
+- [Huffington Post] Un algorithme de Facebook confond des personnes noires avec des singes -- https://www.huffingtonpost.fr/entry/un-algorithme-de-facebook-confond-par-erreur-des-personnes-noires-avec-des-singes_fr_61332d76e4b0eab0ad98fa1c
+- [JVC] Saddam Hussein, 4000 PS2 et des missiles : Retour sur une légende farfelue -- https://www.jeuxvideo.com/news/1454545/saddam-hussein-4000-ps2-et-des-missiles-retour-sur-une-legende-farfelue.htm
+- [Les Numériques] Au Kenya, des micro-influenceurs payés 10 $ par jour pour désinformer sur Twitter -- https://lesnumeriques.com/vie-du-net/-n167921.html
+- [Numérama] « C’était la goutte d’eau » : les créateurs quittent Tipeee après les propos controversés de son fondateur -- https://www.numerama.com/politique/736632-cetait-la-goutte-deau-les-createurs-quittent-tipeee-apres-les-propos-controverses-de-son-fondateur.html
+- [Gurumed] Trolls : une étude révèle que ceux qui déversent leur haine en ligne sont tout aussi hostiles hors ligne -- https://www.gurumed.org/2021/08/31/trolls-une-tude-rvle-que-ceux-qui-dversent-leur-haine-en-ligne-sont-tout-aussi-hostiles-hors-ligne/
+- [Les Numériques] Loi contre l’avortement au Texas : la guerre en ligne est déclarée par des tiktokeurs -- https://lesnumeriques.com/vie-du-net/-n167889.html
+- [Ars Technica] GoDaddy boots Texas abortion “whistleblower” site for violating privacy rule. GoDaddy gave website "24 hours to move to a different provider" -- https://arstechnica.com/tech-policy/2021/09/texas-abortion-snitch-website-kicked-off-godaddy-for-invading-peoples-privacy/
+- [Le Monde] Une action en justice pourrait bloquer l’accès aux plus importants sites pornographiques -- https://www.lemonde.fr/societe/article/2021/09/04/une-action-en-justice-pourrait-bloquer-l-acces-aux-plus-importants-sites-pornographiques_6093403_3224.html
+
+
 
 - [Les Numériques] 
 - [ZDNet France] 
@@ -376,8 +415,8 @@ cc
 - [The Verge] 
 - [XDA Developers] 
 
-chaîne YouTube des Numériques -- https://www.youtube.com/user/LesNumeriques
-
+- 📺 chaîne YouTube des Numériques -- https://www.youtube.com/user/LesNumeriques
+⭐⭐⭐⭐⭐
 
 clips :
 🎥 quand Lâm éternue, il dabbe → https://twitch.tv/lesnumeriques/clip/ObedientEnchantingZebraTriHard-aPWSR67ruGTtvI13
