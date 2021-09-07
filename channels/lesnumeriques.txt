@@ -408,6 +408,40 @@ cc
 - [Le Monde] Une action en justice pourrait bloquer l’accès aux plus importants sites pornographiques -- https://www.lemonde.fr/societe/article/2021/09/04/une-action-en-justice-pourrait-bloquer-l-acces-aux-plus-importants-sites-pornographiques_6093403_3224.html
 
 
+--------------------------------------
+2021-09-07
+
+- [Les Numériques] Salon automobile de Munich 2021 : les nouveaux modèles présentés -- https://lesnumeriques.com/voitures-co/-e167991.html
+- [Les Numériques] Mercedes EQE : la berline électrique aux 660 km d’autonomie pour affronter la Tesla Model S -- https://lesnumeriques.com/voiture/-n167941.html
+- [Daimler] Premiere of the smart Concept #1 -- https://www.daimler.com/innovation/product-innovation/design/smart-concept-1.html
+- [Ars Technica] BMW’s i Vision Circular concept thinks about sustainable car-making. The concept is informing BMW's next Neue Klasse, due in 2025 -- https://arstechnica.com/cars/2021/09/bmw-explores-recycling-with-the-i-vision-circular-concept/
+- [The Verge] VW is reviving its iconic microbus as an electric robotaxi. The iconic microbus is now a robotaxi -- https://www.theverge.com/2021/9/6/22659306/
+- [The Verge] Electric robotaxis may not be the climate solution we were led to believe. Fewer cars, not more -- https://www.theverge.com/2021/8/30/22648218/
+- [Gamekult] Enquête Jeux vidéo et écologie (4/5) : le cloud gaming, un mirage écologique -- https://gamekult.com/actualite/-3050823247.html
+- [Korii] Fin des moteurs à combustion: l'Italie veut exempter Ferrari et Lamborghini. Les supercars tiennent à leur droit de polluer -- https://korii.slate.fr/tech/technologie-automobile-italie-exempter-ferrari-lamborghini-fin-moteurs-combustion-union-europeenne-2035
+- No time to die and Land Rover -- https://www.landrover.com/james-bond-film/index.html
+- Volkner Mobil Performance -- http://www.volkner-mobil.com/vmperformance/
+- [Les Numériques] Philips Hue : le plein de nouveautés pour éclairer au rythme de Spotify -- https://lesnumeriques.com/ampoules-luminaires-connectes/-n167929.html
+- [Les Numériques] Test QE65Q80A : le plus récent téléviseur Full Led 100 Hz de Samsung -- https://www.lesnumeriques.com/tv-televiseur/samsung-qe65q80a-p64799/test.html
+- [Les Numériques] Comment Motorola tente de réussir son retour en France -- https://lesnumeriques.com/pro/-a167777.html
+- [HypeBeast] The Global Microchip Shortage Could Reportedly Last Until 2023 -- https://hypebeast.com/2021/9/global-microchip-shortage-may-last-until-2023
+- [CNET France] Les messages de désinformation sur Facebook auraient suscité plus d'intérêt que les informations factuelles lors des présidentielles américaines -- https://www.cnetfrance.fr/news/les-messages-de-desinformation-sur-facebook-auraient-suscite-plus-d-interet-que-les-informations-factuelles-lors-des-presidentielles-americaines-39928637.htm
+- [Les Numériques] RAVEn, le système avec lequel Amazon, Google et Microsoft veulent aider à surveiller les migrants aux États-Unis -- https://lesnumeriques.com/vie-du-net/-n167957.html
+- [Engadget] California could force Amazon to improve conditions for warehouse workers -- https://www.engadget.com/amazon-california-warehouse-worker-quotas-bill-191234363.html
+- [HTX] HTX Ground Robot on trial at Toa Payoh Central to support Public Officers in enhancing public health and safety -- https://www.htx.gov.sg/news/media-release-htx-ground-robot-on-trial-at-toa-payoh-central-to-support-public-officers-in-enhancing-public-health-and-safety
+- [Les Numériques] Tuto – Comment réinitialiser son PC sous Windows 10 ? -- https://lesnumeriques.com/appli-logiciel/-a167851.html
+- [CNET France] Les meilleurs logiciels de contrôle parental, comment choisir ? -- https://www.cnetfrance.fr/produits/logiciels-controle-parental-39807617.htm
+- [Les Numériques] Bitcoin : 70 % des Salvadoriens opposés à l'adoption nationale de la cryptomonnaie -- https://lesnumeriques.com/pro/-n167871.html
+- [Les Numériques] Thrustmaster présente son T248, nouveau volant à retour de force hybride avec pédalier T3PM à pression réglable -- https://lesnumeriques.com/volant/-n167753.html
+- [Vanderberg Space Force Base] Firefly Alpa terminated mid-flight -- https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/2763829/firefly-alpha-terminated-mid-flight/
+- [Les Numériques] Le VSS Unity de Virgin Galactic ne peut plus voler : la FAA instruit de graves incidents lors du vol de Richard Branson -- https://lesnumeriques.com/spatial/-n167891.html
+- [CNET France] Mission Inspiration4 de SpaceX : les touristes de l'espace auront une vue imprenable sur la Terre depuis leur capsule Dragon. Un vaisseau spatial Crew Dragon a été doté d'une coupole d’observation pour la mission Inspiration4 qui emportera quatre astronautes civils pour un vol de trois jours en orbite autour de la Terre -- https://www.cnetfrance.fr/news/mission-inspiration4-de-spacex-les-touristes-de-l-espace-auront-une-vue-imprenable-sur-la-terre-depuis-leur-capsule-dragon-39928495.htm
+- [SpaceNews] China researching challenges of kilometer-scale ultra-large spacecraft -- https://spacenews.com/china-researching-challenges-of-kilometer-scale-ultra-large-spacecraft/
+- [UCLA] Will it be safe for humans to fly to Mars? -- https://newsroom.ucla.edu/releases/safe-for-humans-fly-to-mars
+- [TechnologyReview] Meet Altos Labs, Silicon Valley’s latest wild bet on living forever -- https://www.technologyreview.com/2021/09/04/1034364/
+
+
+
 
 - [Les Numériques] 
 - [ZDNet France] 
