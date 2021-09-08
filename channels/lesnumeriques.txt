@@ -441,10 +441,50 @@ cc
 - [TechnologyReview] Meet Altos Labs, Silicon Valley’s latest wild bet on living forever -- https://www.technologyreview.com/2021/09/04/1034364/
 
 
+--------------------------------------
+2021-09-08
+
+- Ford Names Doug Field Chief Advanced Technology and Embedded Systems Officer -- https://media.ford.com/content/fordmedia/fna/us/en/news/2021/09/07/doug-field.html
+- [The Verge] Intel’s Mobileye will launch a robotaxi service in Germany in 2022. The computer vision company is working with Sixt and Moovit on its latest robotaxi project -- https://www.theverge.com/2021/9/7/22659366/
+- [Les Numériques] Renault 5 Prototype : ce que l’on sait sur la future remplaçante de la Zoé -- https://lesnumeriques.com/voiture/-n168039.html
+- [Engadget] Hyundai's 'Hydrogen Vision 2040' includes trailer drones and a fuel cell supercar. It's going bigger on hydrogen than most other automakers -- https://www.engadget.com/hyundais-hydrogen-vision-2040-includes-trailer-drones-and-a-670-hp-hybrid-sports-car-085744900.html
+- [Next Imapct] Coyote attaque l’interdiction du signalement des forces de l’ordre sur application GPS -- https://www.nextinpact.com/lebrief/47949/coyote-attaque-linterdiction-signalement-forces-lordre-sur-application-gps
+- [Engadget] Polestar made a working version of its electric cargo sled -- https://www.engadget.com/polestar-re-move-working-prototype-electric-cargo-sled-090000981.html
+- [Cycling Tipcs] A ‘wind tunnel for all’? – The €225,000 Aero-Optim could be a gamechanger. Could Japan Wind Tunnel Manufacturing's latest system be a boon for manufacturers looking for that aero advantage? -- https://cyclingtips.com/2021/09/a-wind-tunnel-for-all-the-e225000-aero-optim-could-be-a-gamechanger/
+- [Les Numériques] Smart e-Bike System, le moteur électrique à boîte de vitesses intégrée de Valeo dans trois vélos en titane -- https://lesnumeriques.com/velo-electrique/-n167977.html
+- [Cycling Tipcs] Want on-the-fly tyre pressure adjustment? Gravaa’s KAPS wheels can do that. These gravel and MTB wheelsets have a pump in the hub to inflate and deflate tyre pressure at the touch of a button -- https://cyclingtips.com/2021/09/want-on-the-fly-tyre-pressure-adjustment-gravaas-kaps-wheels-can-do-that/
+- [The Verge] Facebook and Ray-Ban tease smart glasses announcement on September 9th -- https://www.theverge.com/2021/9/7/22661109/
+- [Les Numériques] Test Enceinte sans fil Ikea/Sonos Symfonisk "cadre" : l'alchimie fonctionne toujours -- https://www.lesnumeriques.com/platine-musicale-serveur-audio/sonos-symfonisk-cadre-p63941/test.html
+- [Les Numériques] Test Xiaomi Mi 11i : un smartphone réussi, porté par un bel écran -- https://www.lesnumeriques.com/telephone-portable/xiaomi-mi-11i-p62771/test.html
+- [Les Numériques] Le Realme GT Master Edition arrive en France, le GT Neo 2 confirmé -- https://lesnumeriques.com/telephone-portable/-n168045.html
+- Évènement Apple - À regarder le 14 septembre à 19:00 - https://www.apple.com/fr/apple-events/
+- [Cnet France] TSMC chouchoute Apple en limitant la hausse de ses tarifs. Les tarifs augmentent de 3% pour Apple, mais de 20% pour les autres constructeurs -- https://www.cnetfrance.fr/news/tsmc-chouchoute-apple-en-limitant-la-hausse-de-ses-tarifs-39928685.htm
+- [LG Corp] LG Chem Develops Foldable Display Material Using New Material Technologies
+ -- https://www.lgcorp.com/media/release/23828
+- [Les Numériques] Les points clefs à vérifier avant d'acheter un ordinateur d'occasion -- https://lesnumeriques.com/ordinateur/-a167789.html
+- [Les Numériques] L'Oled est à l'honneur sur les nouveaux PC Yoga Slim 7 Carbon et Yoga Slim 7 Pro -- https://lesnumeriques.com/ordinateur-portable/-n168057.html
+- [The Verge] TikTok reportedly overtakes YouTube in US average watch time, on Android, at east -- https://www.theverge.com/2021/9/7/22660516/
+- [XDA Developers] Facebook can reportedly read some of your WhatsApp messages -- https://www.xda-developers.com/facebook-read-whatsapp-messages/
+- [ZDNet France] Les autorités brésiliennes veulent limiter la modération des réseaux sociaux -- https://www.zdnet.fr/actualites/les-autorites-bresiliennes-veulent-limiter-la-moderation-des-reseaux-sociaux-39928675.htm
+- [VICE Motherboard] Amazon to Open $21 Million State-of-the-Art Warehouse in Tijuana Slum-- https://www.vice.com/en/article/pkb9qn/amazon-to-open-dollar21-million-state-of-the-art-warehouse-in-tijuana-slum
+- [- [VICE Motherboard] Amazon to Open $21 Million State-of-the-Art Warehouse in Tijuana Slum-- https://www.vice.com/en/article/pkb9qn/amazon-to-open-dollar21-million-state-of-the-art-warehouse-in-tijuana-slum
+- [Department of Justice / Central District of California] West L.A. Man Sentenced to 4 Years in Prison for Running Massive Telemarketing Scheme that Targeted Businesses and Charities -- https://www.justice.gov/usao-cdca/pr/west-la-man-sentenced-4-years-prison-running-massive-telemarketing-scheme-targeted
+- [Les Numériques] En Chine, les mises en retrait de dirigeants d'entreprises tech s'enchaînent -- https://lesnumeriques.com/pro/-n168061.html
+- [ZDNet France] Un chercheur utilise deux ordinateurs quantiques pour renforcer les clés de chiffrement -- https://www.zdnet.fr/actualites/un-chercheur-utilise-deux-ordinateurs-quantiques-pour-renforcer-les-cles-de-chiffrement-39928577.htm
+- [Les Numériques] Les intelligences artificielles ne peuvent pas breveter leurs inventions aux États-Unis -- https://lesnumeriques.com/vie-du-net/-n167955.html
+- [South China Morning Post]  Xpeng unveils smart robot pony for children, taking it a step closer to its vision of the future of mobility -- https://www.scmp.com/business/companies/article/3147903/xpengs-unveils-smart-robot-pony-children-taking-it-step-closer
+- bande-annonce de Matrix 4 - https://thechoiceisyours.whatisthematrix.com/fr/
+- [Les Numériques] Netflix, Disney+, Prime Video… Les grosses sorties streaming de septembre résumées en vidéo -- https://lesnumeriques.com/vie-du-net/-n168013.html
+- Escape the Undertaker -- https://www.netflix.com/fr/title/81251335
+- [Figaro] Comment les chaînes françaises perdent la bataille cruciale de la télécommande -- https://www.lefigaro.fr/medias/comment-les-chaines-francaises-perdent-la-bataille-cruciale-de-la-telecommande-20210905
+- [Gamekult] Après PUBG, Brendan Greene se confie sur ses rêves de grandeur -- https://gamekult.com/actualite/-3050842645.html
+- [ZDNet France] Toyota sort le chéquier pour s'imposer sur le marché stratégique des batteries -- https://www.zdnet.fr/actualites/toyota-sort-le-chequier-pour-s-imposer-sur-le-marche-strategique-des-batteries-39928663.htm
+
 
 
 - [Les Numériques] 
 - [ZDNet France] 
+- [CNET France] 
 - [Ars Technica] 
 - [The Verge] 
 - [XDA Developers] 
