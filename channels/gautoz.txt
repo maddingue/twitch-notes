@@ -6910,9 +6910,6 @@ La parémiologie, du grec paremia, « proverbe », est la discipline qui a pour 
 - 🇫🇷 [Gamekult] Ryuta Ueda (Panzer Dragoon, Jet Set Radio, Yakuza) est de retour chez Sega. Sept ans après être parti -- https://gamekult.com/actualite/-3050842577.html
 - 🇺🇸 [VGC] The artist behind Jet Set Radio has returned to Sega. Ryuta Ueda was also the director of the first two Yakuza games -- http://cpc.cx/vNx
 
-- 🐦 [Twitter] Jason Schreier : The president of Tripwire Interactive speaks out in favor of a recent Texas law that bans abortions after six weeks -- https://twitter.com/jasonschreier/status/1434576394340737027
-- 🐦 [Twitter] Shipwright Studios, studio de support sur Maneater, arrête sa collaboration avec Tripwire -- https://twitter.com/shipwrightstdio/status/1434609166560202754
-
 - 🇺🇸 [VGC] Take-Two is suing the creators of GTA 3 and Vice City reverse engineering projects. The Re3 project has rebuilt the games to port them to modern systems like the Switch. http://cpc.cx/vNy
 - 🇺🇸 [Games Industry] Take-Two sues makers of Grand Theft Auto 3 and Vice City reverse engineering project. Rockstar parent firm takes aim at more recreations of games from its portfolio -- http://cpc.cx/vNB
 - 📺 [YouTube] Modern Vintage Gamer -- Take-Two Suing GTA3 Reverse Engineering devs...and it doesn't look good  -- https://youtu.be/Z9OZ2A-c62g
@@ -6933,6 +6930,61 @@ Hunt the Night, annoncé sur Steam → https://store.steampowered.com/app/164974
 
 
 
+--------------------------------------
+2021-09-08
+
+ailurophile, du grec ancien αἴλουρος, aílouros (« chat »), avec le suffixe -phile (« qui aime »), du grec ancien φίλος, phílos (« ami, personne qui aime ») -- https://fr.wiktionary.org/wiki/ailurophile
+
+- 🇫🇷 [Gamekult] Epic Games et Remedy annoncent Alan Wake Remastered. Le remaster avant la suite ? -- https://gamekult.com/actualite/-3050842601.html
+- 🇺🇸 [VGC] It’s official: Alan Wake Remastered is coming to consoles and PC this year. Remedy confirms updated game with 4K visuals and director’s commentary -- http://cpc.cx/vP1
+- 🇺🇸 [AlanWake.info] Announcing Alan Wake Remastered: An Open Letter from Sam Lake -- https://www.alanwake.info/2021/09/remaster.html
+
+- 🇺🇸 [VGC] A month later, Activision has put its logo back on Call of Duty marketing. The publisher had seemingly distanced itself amid a discrimination lawsuit -- http://cpc.cx/vP8
+
+- 🇺🇸 [Game Developer] Union survey surfaces allegations of misconduct and 'offensive treatment' at Paradox. The survey was conducted by Swedish unions and found that "offensive treatment is a systematic and far too common problem at Paradox." -- http://cpc.cx/vP6
+- 🇺🇸 [Kotaku] Report: nearly half of Paradox staff experience 'mistreatment'. A union survey reports 44% of surveyed employees claim a discriminatory workplace -- http://cpc.cx/vP9
+- 🇸🇪 [Breakit] Larm inifrån spelsuccén Paradox Interactive – läckt dokument vittnar om mobbning, kränkningar och tystnadskultur -- http://cpc.cx/vPb
+
+- 🇺🇸 [Games Industry] Ubisoft names Igor Manceau its new chief creative officer. Riders Republic creative director promoted as employee group criticizes lack of diversity in editorial leadership -- http://cpc.cx/vP2
+- 🇺🇸 [Game Developer] Ubisoft names new CCO, but pro-worker group bemoans lack of transparency. "We want to highlight that this executive hire comes without insight on Yves' promise to redefine the leadership of the editorial department and avoid having a singular creative officer." -- http://cpc.cx/vPc
+
+- 🇫🇷 [Gamekult] Les employés de Dontnod peuvent adopter le télétravail de façon permanente, en France et au Québec -- https://gamekult.com/actualite/-3050842657.html
+- 🇺🇸 [Games Industry] Dontnod adopting permanent work-from-home policy. Twin Mirror and Tell Me Why studio will let all employees choose whether they want to go into the office or work remotely -- http://cpc.cx/vP4
+
+- 🐦 [Twitter] You can now call us Focus Entertainment -- https://twitter.com/Focus_entmt/status/1434866061216829447
+
+- 🇫🇷 [Gamekult] Microids signe pour trois autres jeux Astérix et Obélix d'ici 2026, dans des gens différents -- https://gamekult.com/actualite/-3050842651.html
+- 🇫🇷 [Microids] Microids et le Puy du Fou annoncent le développement d’un jeu vidéo -- https://www.microids.com/fr/microids-et-le-puy-du-fou-annoncent-le-developpement-dun-jeu-video/
+
+- 🐦 [Twitter] Jason Schreier : The president of Tripwire Interactive speaks out in favor of a recent Texas law that bans abortions after six weeks -- https://twitter.com/jasonschreier/status/1434576394340737027
+- 🐦 [Twitter] Shipwright Studios, studio de support sur Maneater, arrête sa collaboration avec Tripwire -- https://twitter.com/shipwrightstdio/status/1434609166560202754
+- 🐦 [Twitter] Torn Banner Studios : We do not share the opinion expressed in a recent tweet by the president of Tripwire, publisher of Chivalry 2 -- https://twitter.com/TornBanner/status/1434703859314724864
+- 🇫🇷 [Gamekult] Après son tweet soutenant la loi anti-avortement au Texas, John Gibson n'est plus le PDG de Tripwire Interactive. Il est remplacé par le vice-président Alan Wilson -- https://gamekult.com/actualite/-3050842631.html
+- 🇺🇸 [VGC] Maneater studio Tripwire’s CEO has quit following backlash at anti-abortion comments. John Gibson has stepped down effective immediately, the company has stated -- http://cpc.cx/vP0
+- 🇺🇸 [Game Developer] Tripwire Interactive boss steps down after voicing support for Texas anti-abortion law. "The comments given by John Gibson are of his own opinion, and do not reflect those of Tripwire Interactive as a company." -- http://cpc.cx/vP5
+
+- [SteamDB] top 10 des ventes sur Steam de la semaine dernière → https://steamdb.info/topsellers/
+
+- 🇺🇸 [Gematsu] 13 Sentinels: Aegis Rim shipments and digital sales top 200,000 in Japan -- http://cpc.cx/vPe
+
+- Far Cry 3 gratuit jusqu'au 11 septembre sur PC -- https://register.ubisoft.com/far-cry-3/fr-FRv
+
+- 🇫🇷 [Gamekult] Test : Encased est-il plus qu’un clone de Fallout ? -- https://www.gamekult.com/jeux/encased-3050879563/test.html
+
+- Dream Cycle, en accès anticipé à 17 € sur Steam -- https://store.steampowered.com/app/1105590/
+- Potion Craft: Alchemist Simulator, en accès anticipé le 21 septembre -- https://store.steampowered.com/app/1210320/
+- ABRISS - build to destroy -- https://store.steampowered.com/app/1671480/ | https://randwerk.itch.io/abriss-demo
+
+:::::
+- 🇫🇷 [Gamekult] L'éditeur tinyBuild tiendra sa première conférence numérique le 14 septembre. Deux nouveaux titres et Hello Neighbor 2 au programme -- https://gamekult.com/actualite/-3050842625.html
+
+- 🇫🇷 [Gamekult] La bande dessinée Horizon Zero Dawn s'annonce en France chez Mana Books, en début d'année prochaine -- https://gamekult.com/actualite/-3050842641.html
+
+- 🇺🇸 [Games Industry] The first ever Paralympics video game. Developer JP Games on crafting a sports-centric MMO-style game that finally represents Paralympians' achievements -- http://cpc.cx/vP3
+
+
+
+
 
 - 🇺🇸 
 - 🇫🇷 
@@ -6944,7 +6996,7 @@ Hunt the Night, annoncé sur Steam → https://store.steampowered.com/app/164974
 - 🇺🇸 [VGC] 
 - 🇺🇸 [Gematsu] 
 - 🇺🇸 [Games Industry] 
-- 🇺🇸 [Gamasutra] 
+- 🇺🇸 [Game Developer] 
 
 
 --------------------------------------------------------------------------------
