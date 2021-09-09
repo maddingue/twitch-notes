@@ -481,6 +481,31 @@ cc
 - [ZDNet France] Toyota sort le chéquier pour s'imposer sur le marché stratégique des batteries -- https://www.zdnet.fr/actualites/toyota-sort-le-chequier-pour-s-imposer-sur-le-marche-strategique-des-batteries-39928663.htm
 
 
+--------------------------------------
+2021-09-09
+
+- [Les Numériques] La Tesla Model Y fait un carton en Norvège et son entrée dans le top 20 français -- https://lesnumeriques.com/voiture/-n168101.html
+- [Les Numériques] Porsche Mission R : une vision électrique de la compétition client -- https://lesnumeriques.com/voiture/-n168103.html
+- [The Verge] Fiido D11 folding electric bike review: $999 and worth it -- https://www.theverge.com/21507889/fiido-d11-chinese-e-bike-review-price-us-europe-250w
+- [Les Numériques] Dyson SuperSonic : un nouvel embout de finition lisse pour le sèche-cheveux -- https://lesnumeriques.com/divers-electromenager/-n168029.html
+- [Les Numériques] Test Vileda JetClean : un nettoyeur de sol motorisé et plein de gadgets -- https://www.lesnumeriques.com/nettoyeur-sol/vileda-jetclean-p62693/test.html
+- [Les Numériques] Roomba J7+ : un système de navigation plein de promesses pour le nouvel aspirateur d’iRobot -- https://lesnumeriques.com/aspirateur-robot/-n168139.html
+- [The Verge] Facebook and Ray-Ban’s smart glasses leak before launch. The event is happening later today -- https://www.theverge.com/2021/9/9/22664181/facebook-ray-ban-stories-smart-glasses-leak-launch-date
+- [The Verge] The first ‘Designed for Google Meet’ device is a $200 phone dock. The Rayz Rally Pro is a speaker, microphone, and dock with passthrough charging -- https://www.theverge.com/2021/9/8/22662690/designed-for-google-meet-ray-z-rally-pro-phone-speaker
+- [The Verge] The Series One Desk 27 is a $2,000 Google Meet machine that doubles as a laptop monitor -- https://www.theverge.com/2021/9/8/22661653/series-one-desk-27-google-meet-laptop-monitor
+- [CNET France] Bose dévoile sa première barre de son Dolby Atmos, la Smart Soundbar 900 -- https://www.cnetfrance.fr/news/bose-devoile-sa-premiere-barre-de-son-dolby-atmos-la-smart-soundbar-900-39928735.htm
+- [Les Numériques] Canon prévoit le lancement officiel de l'EOS R3 le même jour que celui des nouveaux iPhone 13 -- https://lesnumeriques.com/photo/-n168119.html
+- [Les Numériques] Ricoh GR IIIx : le compact expert allonge sa focale -- https://lesnumeriques.com/compact-bridge/-n168113.html
+- [Les Numériques] Test PC Portable Asus VivoBook 15 : service minimum en bureautique -- https://www.lesnumeriques.com/ordinateur-portable/asus-vivobook-s15-s513ea-bq792t-p64767/test.html
+- [Twitter Blog] Communities: Talk about your thing with people who get you -- https://blog.twitter.com/en_us/topics/product/2021/testing-communities
+- [ZDNet France] Procès de Theranos, la part sombre de la Silicon Valley -- https://www.zdnet.fr/actualites/proces-de-theranos-la-part-sombre-de-la-silicon-valley-39928809.htm
+- [The Verge] Theranos’ greatest invention was Elizabeth Holmes -- https://www.theverge.com/22656190/theranos-elizabeth-holmes-wire-fraud-trial-founder-myth
+- [FrontPageTech] EXCLUSIVE: A Closer First Look at iPhone 14. 2022 iPhone 14 in AR, bonus renders, and full-res press images -- https://www.frontpagetech.com/2021/09/08/exclusive-a-closer-first-look-at-iphone-14/
+- Google Pixel 6 - For All You Are -- https://www.youtube.com/watch?v=xMZaObIQps8
+- [CNET France] Un pas de plus vers la fin du Samsung Galaxy Note ? Le fabricant coréen aurait renouvelé le dépôt de toutes ses marques auprès de la KIPRIS, le 31 août, excepté pour le modèle Galaxy Note -- https://www.cnetfrance.fr/news/un-pas-de-plus-la-fin-du-samsung-galaxy-note-39928691.htm
+
+
+
 
 - [Les Numériques] 
 - [ZDNet France] 
@@ -491,6 +516,8 @@ cc
 
 - 📺 chaîne YouTube des Numériques -- https://www.youtube.com/user/LesNumeriques
 ⭐⭐⭐⭐⭐
+
+Message à caractère informatif - Excellent produit -- https://www.youtube.com/watch?v=-NzxJGvZzeQ
 
 clips :
 🎥 quand Lâm éternue, il dabbe → https://twitch.tv/lesnumeriques/clip/ObedientEnchantingZebraTriHard-aPWSR67ruGTtvI13
