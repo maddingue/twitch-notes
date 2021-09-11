@@ -505,6 +505,32 @@ cc
 - [CNET France] Un pas de plus vers la fin du Samsung Galaxy Note ? Le fabricant coréen aurait renouvelé le dépôt de toutes ses marques auprès de la KIPRIS, le 31 août, excepté pour le modèle Galaxy Note -- https://www.cnetfrance.fr/news/un-pas-de-plus-la-fin-du-samsung-galaxy-note-39928691.htm
 
 
+--------------------------------------
+2021-09-10
+
+- [Les Numériques] Philips présente ses nouveaux téléviseurs Oled : dalle Oled inédite, HDMI 2.1, FreeSync, G-Sync, Ambilight et toujours un son B&W -- https://lesnumeriques.com/tv-televiseur/-n168027.html
+- [Facebook] Introducing Ray-Ban Stories: First-Generation Smart Glasses -- https://about.fb.com/news/2021/09/introducing-ray-ban-stories-smart-glasses/
+- [Engadget] I wish Ray-Ban's Stories smart glasses were made by anyone but Facebook -- https://www.engadget.com/facebook-ray-ban-stories-hands-on-160048150.html
+- [Les Numériques] Reno 6 et 6 Pro : Oppo officialise son duo en milieu de gamme -- https://lesnumeriques.com/telephone-portable/-n168137.html
+- [Les Numériques] Lenovo Tab P12 Pro : la tablette 5G pourra jouer les seconds écrans avec le Project Unity -- https://lesnumeriques.com/tablette-tactile/-n168107.html
+- [CNET France] Des Exynos 2200 pour les Samsung Galaxy S22 américains ? Initialement équipées des processeurs Snapdragon, les versions américaines des Samsung Galaxy S22 pourraient cette fois être dotées des puces Exynos 2200 -- https://www.cnetfrance.fr/news/des-exynos-2200-pour-les-samsung-galaxy-s22-americains-39928883.htm
+- [Twitter] What's a bot and what's not? We're making it easier to identify #GoodBots and their automated Tweets with new labels -- https://twitter.com/TwitterSupport/status/1436073604173770754
+- Epic has asked Apple to restore our Fortnite developer account -- https://twitter.com/fortnitegame/status/1436105346184056832
+- [The Verge] Apple won’t let Epic bring Fortnite back to South Korea’s App Store -- https://www.theverge.com/2021/9/10/22666146/apple-epic-korea-fortnite-developer-account-rules-response
+- Ashley M. Gjøvik - Sooo, #Apple has pics of my boobs. During a discovery thing 3yr ago, legal forced me to hand-over all my texts -- https://twitter.com/ashleygjovik/status/1428495420917837826
+- [Numérama] La France va ouvrir le code source de FranceConnect, qui sert à se connecter aux services publics -- https://www.numerama.com/tech/737966-la-france-va-ouvrir-le-code-source-de-franceconnect-qui-sert-a-se-connecter-aux-services-publics.html
+- [ZDNet France] Google construit un cloud souverain de "nouvelle génération" pour l'Allemagne -- https://www.zdnet.fr/actualites/google-construit-un-cloud-souverain-de-nouvelle-generation-pour-l-allemagne-39928865.htm
+- [Les Numériques] Project Maven : le Pentagone signe pour 50 millions de dollars de contrats avec Amazon et Microsoft -- https://lesnumeriques.com/vie-du-net/-n168171.html
+- [VICE Motherboard] Big Tech Has Made Billions Off the 20-Year War on Terror -- https://www.vice.com/en/article/4aveeq/big-tech-has-made-billions-off-the-20-year-war-on-terror
+- [ZDNet France] Combattants numériques : Le ministère des Armées veut embaucher, mais son site est planté -- https://www.zdnet.fr/actualites/combattants-numeriques-le-ministere-des-armees-veut-embaucher-mais-son-site-est-plante-39928855.htm
+- [Les Numériques] Cybersécurité : ce qu'il faut retenir du FIC 2021 -- https://lesnumeriques.com/pro/-n168187.html
+- 🇺🇸 [PC Gamer] Radiohead is an Epic Games Store exclusive. A new digital exhibition is coming to celebrate 21 years of Kid A and Amnesiac -- http://cpc.cx/vQv
+
+- [Les Numériques] Nouveau Kia Sportage : un style affirmé et des motorisations hybrides pour manger du lion -- https://lesnumeriques.com/voiture/-n168149.html
+- [Lloyd] Fury Road Vehicles "For Sale By OFFERS" -- https://www.lloydsauctions.com.au/madmax/
+- [Numérama] Des lasers sur le pare-brise à la place des essuie-glaces : l’idée intrigante de Tesla -- https://www.numerama.com/vroom/737854-des-lasers-sur-le-pare-brise-a-la-place-des-essuie-glaces-lidee-intrigante-de-tesla.html
+- [Kickstarter] Arclight Bike Pedals: Stand Out, Ride Safe -- https://www.kickstarter.com/projects/redshiftsports/arclight-bike-pedals-stand-out-ride-safe
+
 
 
 - [Les Numériques] 
