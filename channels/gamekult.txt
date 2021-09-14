@@ -13135,11 +13135,15 @@ développé par EA Redwood Shores, par la suite renommé Visceral Games 🇺🇸
 📜 8/10 par Boulapoire → http://cpc.cx/vO7
 
 nombre de morts : 1
-refus de sauvegardes : 
-nombre de EUH!!! : 16 ?
-nombre d'exclamations diverses : 4
+retour au menu d'options : 12
+refus de sauvegarde : 1
+nombre de EUH!!! : 22
+nombre d'exclamations diverses : 11
 
 excuses de sac :
+- on n'avait pas anticipé que le jeu serait aussi capricieux (Virgile)
+- il n'y avait pas le mode jeu sur la télé 📺 (Hubert)
+- la caméra remonte toute seule, ça me saoûle (Hubert)
 
 
 --------------------------------------
@@ -13231,21 +13235,9 @@ NBA 2K22 🏀 sorti le 10 septembre 2021 sur Switch, PlayStation, Xbox et PC (Wi
 🎮 70 € sur PS4 (http://cpc.cx/vS4), 75 € sur PS5 (http://cpc.cx/vS5), 85 € pour PS4+5 (http://cpc.cx/vS6)
 🎮 70 € sur Xbox One (http://cpc.cx/vS8), 75 € sur Series X|S (http://cpc.cx/vS9), 85 € en cross-gen (http://cpc.cx/vSa)
 ⌨️ 🖱️ 60 € sur Steam (http://cpc.cx/vS3)
-📜 x/10 par xxxx → xxx
 
 excuses de sac :
 - ils ont décidé d'être pénibles (Puyo)
-
-
-📅 le programme de la semaine → http://cpc.cx/vRQ
-📅 mardi 12:30, 
-📅 mercredi 12:00, Dead Space (Hubert & Virgile)
-📅 jeudi 17:30, Wario Ware Get it Together
-📅 vendredi 16:00, Football Manager 2021 ⚽ (Florian)
-📺 samedi matin, Gamekult l'émission
-🤿 Plongée dans les arcanes d’Arkane avec Raphaël Lucas
-🎙️ Entretien avec le créateur de El Shaddai
-🗾 Les Français qui travaillent dans le jeu vidéo au Japon
 
 
 --------------------------------------
@@ -13260,6 +13252,17 @@ développé par EA Redwood Shores, par la suite renommé Visceral Games 🇺🇸
 ⌨️ 🖱️ en promo à 4,20 € sur Steam (http://cpc.cx/vO4)
 ⌨️ 🖱️ 20 € sur GOG (http://cpc.cx/vO5)
 📜 8/10 par Boulapoire → http://cpc.cx/vO7
+
+
+📅 le programme de la semaine → http://cpc.cx/vRQ
+📅 mardi 12:30, 
+📅 mercredi 12:00, Dead Space (Hubert & Virgile)
+📅 jeudi 17:30, Wario Ware Get it Together
+📅 vendredi 16:00, Football Manager 2021 ⚽ (Florian)
+📺 samedi matin, Gamekult l'émission
+🤿 Plongée dans les arcanes d’Arkane avec Raphaël Lucas
+🎙️ Entretien avec le créateur de El Shaddai
+🗾 Les Français qui travaillent dans le jeu vidéo au Japon
 
 
 --------------------------------------
@@ -13282,7 +13285,7 @@ développé par Sports Interactive (série des Football Manager), studio d'envir
 ⌨️ 🖱️ 55 € sur Steam (http://cpc.cx/tbt)
 📜 6/10 par Le Père Fidalbion → http://cpc.cx/th2
 
-Football Manager 2022 ⚽ annoncé pour le  9 novembre 2021 sur Windows et Mac
+Football Manager 2022 ⚽ annoncé pour le 9 novembre 2021 sur Windows et Mac
 ⌨️ 🖱️ en promo à 50 € sur Steam (http://cpc.cx/vSb)
 
 
@@ -13353,6 +13356,8 @@ https://simonhuttt.artstation.com/
 🖥️ config Sarge : Core i7 7700K, 32 Go DDR4, GTX 1080 8 Go, SSD 1 To
 
 le clavier utilisé est un Roccat Sova → https://www.materiel.net/produit/201606140293.html
+
+le logiciel utilisé pour streamer est vMix → https://www.vMix.com/
 
 http://cpc.cx/jRP http://cpc.cx/qXG http://cpc.cx/fIU et http://cpc.cx/fJ9 — lectures à propos des sites pas légaux (G2A, Instant Gaming, Kinguin, etc)
 
