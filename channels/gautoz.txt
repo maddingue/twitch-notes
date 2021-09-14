@@ -7107,6 +7107,52 @@ sinistroverse -- [...] Les systèmes d'écriture sont aussi caractérisés par l
 
 
 
+--------------------------------------
+2021-09-14
+
+vexille, vexillum -- A. [ANTIQ. ROMAINE.] Étendard des armées fait d'une pièce d'étoffe rouge ou blanche frangée d'or, pendant à une traverse horizontale fixée à une hampe, et réservé à la cavalerie et aux détachements spéciaux. B. [ZOOL.] [Sous la forme vexille] Série de barbes étroitement fixées les unes aux autres sur un même côté par rapport à l'axe ou rachis d'une plume d'oiseau -- https://www.cnrtl.fr/definition/vexille
+
+Vexille (ベクシル 2077日本鎖国, Bekushiru 2077 Nihon Sakoku) est un film d'animation de science-fiction japonais réalisé par Fumihiko Sori, sorti le 18 août 2007 -- https://fr.wikipedia.org/wiki/Vexille
+
+- 📺 [YouTube] FAQ vidéo de Gautoz sur Deathloop -- https://youtu.be/5mHK1MEf6BE
+
+- 🐦 [Twitter] Darkest Dungeon II (Early Access) is coming to @EpicGames
+ on October 26th, 2021 -- https://twitter.com/DarkestDungeon/status/1437498054895095808
+- 🇫🇷 [Gamekult] L'accès anticipé de Darkest Dungeon 2 commencera le 26 octobre sur Epic Games Store -- https://gamekult.com/actualite/-3050842823.html
+
+- 🇺🇸 [VGC] God of War for PC, Gears 6 and more ‘discovered’ in Nvidia GeForce Now database. Datamine potentially uncovers multiple unannounced games -- http://cpc.cx/vSg
+- 🇺🇸 [TheGamer] Gears 6, Halo 5 On PC, And Fable Reboot Listed In NVIDIA Geforce Now Database Leak. A Geforce Now leak may point to more major Microsoft titles joining the Xbox PC lineup -- http://cpc.cx/vSj
+- I unlocked NVIDIA GeForce NOW and stumbled upon Pirates? -- https://ighor.medium.com/-dc48a3f8ff7
+
+- 🇫🇷 [Gamekult] LittleBigPlanet : les serveurs des épisodes PS3 et PS Vita ferment définitivement. LittleBigPlanet 3 sur PS4 est en revanche rétabli -- https://gamekult.com/actualite/-3050842815.html
+
+- 🇫🇷 [Gamekult] Sega repousse la sortie de Total War : Warhammer 3 à début 2022 -- https://gamekult.com/actualite/-3050842811.html
+- 🇺🇸 [PC Gamer] Total War: Warhammer 3 delayed into 2022. Tomorrow's reveal of the Grand Cathay faction will take place as scheduled -- http://cpc.cx/vSk
+
+- 📺 [YouTube] Randy Pitchford of Gearbox Entertainment | The AIAS Game Maker's Notebook Podcast -- https://youtu.be/dmiun_4ffbo
+- 🇺🇸 [PC Gamer] A new Brothers in Arms game is in development, confirms Gearbox CEO. But in-keeping with studio policy, it won't be announced until it's almost done -- http://cpc.cx/vSl
+
+- 🇫🇷 [Gamekult] Paradox : de retour au poste de PDG, Fredrik Wester admet avoir été l'auteur d'un comportement inapproprié et présente donc ses excuses -- https://gamekult.com/actualite/-3050842825.html
+- 🇺🇸 [PC Gamer] Paradox CEO apologizes for 'inappropriate behavior' with employee in 2018. Fredrik Wester said the incident was unrelated to his decision to resign as Paradox CEO in 2018 -- http://cpc.cx/vSm
+
+- Omen of Sorrow
+- Len's Island -- https://store.steampowered.com/app/1335830/
+- Retro Classix: Night Slashers -- https://store.steampowered.com/app/1627220/
+- Asterigos -- https://www.asterigos.com/
+
+- 🐦 [Twitter] compte Twitter de Oscar Lemaire → https://twitter.com/oscarlemaire/
+- Ludostrie, le site d'articles de Oscar Lemaire → https://ludostrie.com/
+
+
+:::::
+- 🇫🇷 [Gamekult] Entre action-aventure et simulation, le jeu Len's Island se lancera en accès anticipé le 5 novembre -- https://gamekult.com/actualite/-3050842803.html
+
+- 🇺🇸 [VGC] Hideo Kojima wants to make games that change in real time. The experience would change “depending on where you live and how you feel about it” -- http://cpc.cx/vSh
+- 🇺🇸 [VGC] PlatinumGames interview: ‘Only one project in my career went according to schedule’. Kamiya and Inaba discuss their retro revival Sol Cresta and the ongoing wait for Bayonetta 3 -- http://cpc.cx/vSi
+
+
+
+
 - 🇺🇸 
 - 🇫🇷 
 - 🇯🇵 
@@ -7153,6 +7199,8 @@ clips :
 🎥 Gautoz souhaite un bon anniversaire à Puyo → https://clips.twitch.tv/TenaciousAmazingEmuBleedPurple-Pj5iZaL7XiSFsQfi
 🎥 le tchat est rempli d'abrutis, évidemment → https://clips.twitch.tv/AmericanEvilOstrichHeyGuys-m5hqXr2oEQ0dLnXC
 🎥 Fallout 76 → https://clips.twitch.tv/CleverProductiveSnoodOhMyDog-YmG16UHZjfZLynHh
+🎥 Gautoz est sans pantalon → https://clips.twitch.tv/MistyAssiduousLyrebirdTheRinger-ei13p1qHFkKEktGQ
+🎥 auto in(di)gestion de Gautoz ? → https://clips.twitch.tv/ZanyCuriousCormorantGrammarKing-ZoVi5T8yeHJKCL5N
 
 Doudoune défonce le stream (2021-02-23) :
 - https://clips.twitch.tv/SilkyBenevolentGaurPogChamp-v-8xcJv_WtD4x60s -- et là, c'est le drame
