@@ -13258,12 +13258,13 @@ compte de la précédente session : 1 mort, 12 retours au menu d'options, 22 EUH
 nombre de morts : 5
 retour au menu d'options : 1
 refus de sauvegarde : 0
-nombre de EUH!!! : 16
-nombre d'exclamations diverses : 10
+nombre de EUH!!! : 21
+nombre d'exclamations diverses : 12
 
 excuses de sac :
 - c'est mon arme qui m'a fait peur (Hubert)
-- j'ai l'impression qu'ils bougent plus vite en 60 Hz (Hubert)
+- j'ai l'impression qu'ils bougent plus vite en 60 fps (Hubert)
+- il y a un petit souci de timing (Hubert)
 
 🎥 Hubert, le Chevalier du Zodiaque de la Matrice -- https://clips.twitch.tv/CaringUnusualChickenANELE-SuklPfsk8Oku8SEq
 
@@ -13294,17 +13295,6 @@ excuses de sac :
 🎥 Luma qui speedrun -- https://clips.twitch.tv/HelplessObliviousButterflyImGlitch-MMLpzNAWkbPanuE6
 
 
-📅 le programme de la semaine → http://cpc.cx/vRQ
-📅 mardi 12:30, 
-📅 mercredi 12:00, Dead Space (Hubert & Virgile)
-📅 jeudi 17:30, 
-📅 vendredi 16:00, Football Manager 2021 ⚽ (Florian)
-📺 samedi matin, Gamekult l'émission
-🤿 Plongée dans les arcanes d’Arkane avec Raphaël Lucas
-🎙️ Entretien avec le créateur de El Shaddai
-🗾 Les Français qui travaillent dans le jeu vidéo au Japon
-
-
 --------------------------------------
 2021-09-17 - Football Manager 2021 ⚽
 
@@ -13318,6 +13308,17 @@ développé par Sports Interactive (série des Football Manager), studio d'envir
 
 Football Manager 2022 ⚽ annoncé pour le 9 novembre 2021 sur Windows et Mac
 ⌨️ 🖱️ en promo à 50 € sur Steam (http://cpc.cx/vSb)
+
+
+📅 le programme de la semaine → http://cpc.cx/vRQ
+📅 mardi 12:30, 
+📅 mercredi 12:00, Dead Space (Hubert & Virgile)
+📅 jeudi 17:30, 
+📅 vendredi 16:00, 
+📺 samedi matin, Gamekult l'émission
+🎙️ Entretien avec le créateur de El Shaddai → http://cpc.cx/vTR
+🗾 Les Français qui travaillent dans le jeu vidéo au Japon → http://cpc.cx/vTS
+🤿 Plongée dans les arcanes d’Arkane avec Raphaël Lucas
 
 
 ⚠️ Attention ⚠️ baissez le son de Twitch car Puyo va PARLER 🔊
