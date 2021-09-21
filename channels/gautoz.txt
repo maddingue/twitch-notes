@@ -7249,6 +7249,39 @@ blanc-étoc -- (sylviculture) Coupe d'un bois qui n'en laisse rien subsister (cf
 raids : gautoz => mynthos
 
 
+
+--------------------------------------
+2021-09-20
+
+barlotière \baʁ.lɔ.tjɛʁ\ féminin. (Architecture) (Vitraux) Traverse en fer qui tient les panneaux de vitrail à la maçonnerie. -- https://fr.wiktionary.org/wiki/barloti%C3%A8re | https://www.cnrtl.fr/definition/barloti%C3%A8re
+
+- 🇺🇸 [SteamDB] top 10 des ventes sur Steam de la semaine dernière → https://steamdb.info/topsellers/
+
+raids : gautoz => mynthos
+        gautoz => lesnumeriques
+
+
+
+--------------------------------------
+2021-09-21
+
+- 🇺🇸 [Kotaku] What We’ve Heard About A Quantic Dream Star Wars Game. Sources say the Heavy Rain studio's next game could be more action-focused -- http://cpc.cx/vVb
+- 🇫🇷 [Gamekult] Quantic Dream aurait signé avec Disney pour un jeu Star Wars -- https://gamekult.com/actualite/-3050842983.html
+
+
+- 🇫🇷 [Gamekult] Test : Kena Bridge of Spirits, coup de foudre au premier regard -- http://cpc.cx/vUG
+- 🇺🇸 [Ars Technica] Review: Kena: Bridge of Spirits is this year’s best Zelda 35th-anniversary gift. Studio's first-ever game is a 15-hour adventuring triumph, GOTY contender -- http://cpc.cx/vVc
+- 🇺🇸 [PC Gamer] Kena: Bridge of Spirits review. A great-looking but conventional adventure -- http://cpc.cx/vVd
+- 🇺🇸 [IGN US]Kena: Bridge of Spirits Review. A spiritual journey -- http://cpc.cx/vVe
+- 🇺🇸 [The Gamer] Kena: Bridge of Spirits Review - Smells Like Keen Spirit. Kena doesn't do much new, but does everything well -- http://cpc.cx/vVf
+
+bibus, subst. masc. Vx et fam. [Avec une nuance de mépris] Chose sans importance, sans valeur : Quoi! pour des vanités, des bibus, des sornettes, Se sabrer, s'éventrer avec des baïonnettes ... A. Pommier, Crâneries et dettes de cœur,1842, p. 125 -- https://www.cnrtl.fr/definition/bibus
+
+bibus. D’un radical bib signifiant « menue chose » que l’on retrouve dans rabibocher, babiole, bibelot, bimbelot, etc. ; avec un suffixe latin. Dans le sens de breuvage chaud, le mot est une variante de bubusse peut-être influencée par le latin bibere (i.e. boire). -- https://fr.wiktionary.org/wiki/bibus
+
+raids : gautoz => at0mium => super_bulle
+
+
 - 🇺🇸 
 - 🇫🇷 
 - 🇯🇵 
