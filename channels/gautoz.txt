@@ -7325,6 +7325,50 @@ catastérisation \ka.ta.ste.ʁi.za.sjɔ̃\ féminin. (Mythologie) Transformation
 
 raids : gautoz => 1tlau.
 
+
+
+--------------------------------------
+2021-09-23
+
+agelaste \a.ʒə.last\ masculin et féminin identiques, du grec ancien ἀγέλαστος, agélastos (« qui ne rit pas »). Personne qui ne sait pas rire. -- https://fr.wiktionary.org/wiki/agelaste
+
+- 🐦 [Twitter] le tweet de Jeff Grubb -- https://twitter.com/JeffGrubb/status/1440857519388200967
+
+- 📺 [YouTube] Sable - The World of Sable -- https://www.youtube.com/watch?v=h9zBEaWG0jU
+
+- 🇫🇷 [Gamekult] Nintendo Direct : rendez-vous à minuit dans la nuit de jeudi à vendredi -- https://gamekult.com/actualite/-3050843063.html
+- 🇺🇸 [VGC] Here’s the first look at Nintendo Switch’s OLED model ‘in the wild’. The new model went on display in Japan on Friday -- http://cpc.cx/vUq
+- 🇺🇸 [VGC] FCC points to Nintendo Switch controller announcement this week. US government website says confidentiality around “game controller” will end on Friday -- http://cpc.cx/vVF
+
+- 🐦 [Twitter] tweet de Blod Bowl 3 -- https://twitter.com/BloodBowl_Game/status/1440683566350802946
+
+- 🐦 [Twitter] Project Deluge presents - 135 Dreamcast prototypes and 349 Xbox OG prototypes -- https://twitter.com/HiddenPalaceOrg/status/1439368181789990916
+- 🇺🇸 [Hidden Palace] Project Deluge - Microsoft Xbox -- http://cpc.cx/vUR
+- 🇺🇸 [VGC] Nearly 500 Xbox and Dreamcast prototypes plus unreleased games have been uncovered. Project Deluge’s latest batch continues to preserve pre-release games -- http://cpc.cx/vUQ
+- 🇺🇸 [Kotaku] Almost 500 ‘New’ Xbox, Dreamcast prototypes just got released. Project Deluge releases hundreds of prototypes including Psychonauts, Tony Hawk’s Pro Skater, and Soul Calibur -- http://cpc.cx/vW2
+- 📺 [YouTube] MVG - 349 OG Xbox Prototype games were just released -- https://www.youtube.com/watch?v=-10mGFtDJXw
+
+- 🇺🇸 [VGC] PS4’s latest system update reportedly stops it losing functionality when the CMOS battery dies. The version 9.0 firmware is said to fix an issue that stopped users playing games if the battery died -- http://cpc.cx/vWe
+
+- 📺 [YouTube] IGN - Marvel's Guardians of the Galaxy Hands-On Preview -- https://www.youtube.com/watch?v=qCSR17QYaeU
+
+- 🇫🇷 [AFJV] Ubisoft annonce la nomination de Bénédicte Germain au poste de Directrice Générale d'Ubisoft France -- http://cpc.cx/vWg
+
+- 🇫🇷 [Gamekult] Le contenu de Castlevania Advance Collection est désormais connu, ainsi que les plateformes -- https://gamekult.com/actualite/-3050843075.html
+
+- Patent #11123634 - Tracking file system read operations for instant play of video games, and for client-side discarding and prefetching of game data - https://www.freepatentsonline.com/11123634.html
+
+- 🐦 [Twitter] fil Twitter de Tim Sweeney -- https://twitter.com/TimSweeneyEpic/status/1440711467888615431
+- 🇫🇷 [Gamekult] Tim Sweeney dénonce Apple, qui refuse de remettre Fortnite sur l'App Store -- https://gamekult.com/actualite/-3050843071.html
+- 🇺🇸 [VGC] Apple has blacklisted Fortnite until its legal battle with Epic is completed. Epic says it’s ready to abide by Apple’s rules, but the iPhone maker isn’t playing bal1 -- http://cpc.cx/vWbl
+- 🇺🇸 [Games Industry] Apple won't let Fortnite back on App Store until court ruling finalized. Epic says it has paid the $6 million it owed the iPhone maker, but Apple responded it "will not consider any further requests for reinstatement" -- http://cpc.cx/vWc
+
+- Source of Madness -- https://store.steampowered.com/app/1315610/
+- 🐦 [Twitter] Subway Midnight -- https://twitter.com/bubbydarkstar/status/1440775830347522053
+- Falling Frontier -- https://store.steampowered.com/app/1280190/
+
+raids : gautoz => mynthos
+
 :::::
 - 🇫🇷 [Gamekult] Dying Light arrivera sur Nintendo Switch dans son édition Platinum, mais vous n'en verrez rien aujourd'hui -- https://gamekult.com/actualite/-3050842969.html
 - 🇫🇷 [Gamekult] NEO : The World Ends With You prend date sur PC, deux mois après les consoles https://gamekult.com/actualite/-3050843031.html
@@ -7333,14 +7377,8 @@ raids : gautoz => 1tlau.
 
 - 🇺🇸 [VGC] The UK games industry pays tribute to the late Sir Clive Sinclair. The creator of the ZX80, ZX81 and ZX Spectrum has died at the age of 81 -- http://cpc.cx/vUo
 
-- 🇺🇸 [VGC] Here’s the first look at Nintendo Switch’s OLED model ‘in the wild’. The new model went on display in Japan on Friday -- http://cpc.cx/vUq
-- 🇺🇸 [VGC] FCC points to Nintendo Switch controller announcement this week. US government website says confidentiality around “game controller” will end on Friday -- http://cpc.cx/vVF
 
-- 🐦 [Twitter] Project Deluge presents - 135 Dreamcast prototypes and 349 Xbox OG prototypes -- https://twitter.com/HiddenPalaceOrg/status/1439368181789990916
-- 🇺🇸 [Hidden Palace] Project Deluge - Microsoft Xbox -- http://cpc.cx/vUR
-- 🇺🇸 [VGC] Nearly 500 Xbox and Dreamcast prototypes plus unreleased games have been uncovered. Project Deluge’s latest batch continues to preserve pre-release games -- http://cpc.cx/vUQ
-- 🇺🇸 [Kotaku] Almost 500 ‘New’ Xbox, Dreamcast prototypes just got released. Project Deluge releases hundreds of prototypes including Psychonauts, Tony Hawk’s Pro Skater, and Soul Calibur -- http://cpc.cx/vW2
-- 📺 [YouTube] MVG - 349 OG Xbox Prototype games were just released -- https://www.youtube.com/watch?v=-10mGFtDJXw
+
 
 
 
