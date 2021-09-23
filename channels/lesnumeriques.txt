@@ -782,6 +782,48 @@ Test Motorola Edge 20 : un smartphone de milieu de gamme qui ne cache pas ses am
 - [The Markup] Facebook Rolls Out News Feed Change That Blocks Watchdogs from Gathering Data. The tweak, which targets the code in accessibility features for visually impaired users, drew ire from researchers and those who monitor the platform -- https://themarkup.org/citizen-browser/2021/09/21/facebook-rolls-out-news-feed-change-that-blocks-watchdogs-from-gathering-data
 
 
+--------------------------------------
+2021-09-23
+
+- [Les Numériques] Sound Blaster Katana V2 : la nouvelle barre de son Creative à destination des gamers -- https://lesnumeriques.com/barre-de-son/-n168821.html
+Fuji X-H2 is coming with a newly developed 40MP sensor -- https://www.mirrorlessrumors.com/fuji-x-h2-is-coming-with-a-newly-developed-40mp-sensor/
+- [Les Numériques] Le Dyson V12 Detect Slim Absolute est arrivé à la rédaction -- https://lesnumeriques.com/aspirateur-balai/-n168601.html
+- Gita Mini -- https://mygita.com/
+- [The Verge] Facebook names a new CTO with a major focus on hardware. Andrew ‘Boz’ Bosworth previously led Facebook’s AR / VR division -- https://www.theverge.com/2021/9/22/22688510/
+- [Les Numériques] Nvidia GeForce RTX 30 Super : des rumeurs insistantes sur un rafraîchissement de gamme pour début 2022 -- https://lesnumeriques.com/carte-graphique/-n168801.html
+- [Les Numériques] Surface : ce qu'il faut retenir des annonces de Microsoft -- https://lesnumeriques.com/informatique/-e168849.html
+- [Les Numériques] Microsoft veut séduire les créatifs avec son nouveau PC portable Surface Laptop Studio -- https://lesnumeriques.com/ordinateur-portable/-n168823.html
+- [Les Numériques] Microsoft Surface Go 3 : service minimum pour le nouvel ordinateur portable hybride -- https://lesnumeriques.com/ordinateur-portable/-n168777.html
+- [The Verge] HP’s new 11-inch tablet has a flipping webcam, and can be orientated vertically or horizontally -- https://www.theverge.com/2021/9/22/22687544/
+- [Les Numériques] Test Apple iPad Mini (2021) : un petit format seul au monde -- https://lesnumeriques.com/tablette-tactile/apple-ipad-mini-2021-p62627/test.html
+- [Ars Technica] The pricier 2021 iPad mini is the best one Apple has ever made. Refreshed design and brand-new chip make the mini feel like less of a compromise -- https://arstechnica.com/gadgets/2021/09/the-more-pricey-2021-ipad-mini-is-the-best-one-apple-has-ever-made/
+- [Engadget] iPad mini review (2021): The best small tablet gets a facelift. It finally looks fresh, but the niche appeal remains the same -- https://www.engadget.com/apple-ipad-mini-6th-generation-2021-review-130009170.html
+- [Numérama] Test de l’iPad mini 6 : petite tablette, grande refonte -- https://www.numerama.com/tech/740931-test-de-lipad-mini-6-petite-tablette-grande-refonte.html
+- [XDA Developers] Samsung’s Galaxy S22 Ultra seems to be the spiritual successor to the Galaxy Note -- https://www.xda-developers.com/samsung-galaxy-s22-ultra-spiritual-successor-galaxy-note-s-spen/
+- [Cube] Concept dynamic cargo -- https://www.cube.eu/fr/concept-dynamic-cargo/
+- [Les Numériques] En France, Instagram lance une campagne de lutte contre le cyberharcèlement -- https://lesnumeriques.com/vie-du-net/-n168759.html
+- [Wall Street Journal] Apple Is Working on iPhone Features to Help Detect Depression, Cognitive Decline. Company is working with UCLA, Biogen to see if sensitive data like facial expressions, typing metrics could signal mental-health concerns  -- https://www.wsj.com/articles/apple-wants-iphones-to-help-detect-depression-cognitive-decline-sources-say-11632216601
+- [Amazon] Amazon is supporting the effort to reform the nation’s cannabis policy -- https://www.aboutamazon.com/news/policy-news-views/amazon-is-supporting-the-effort-to-reform-the-nations-cannabis-policy
+- [Engadget] Amazon workers fired for cannabis use can reapply for jobs. Amazon sees the move as both more equitable and better for business -- https://www.engadget.com/amazon-reconsiders-worker-cannabis-marijuana-screening-142918217.html
+- [ZDNet France] Compétences tech 2021 : Surtout le cloud, et toujours l'open source. La dernière enquête sur les embauches de la Fondation Linux et d'edX montre que la demande de compétences en matière de cloud, de conteneurs et de Linux rebondit. Pourquoi ? Parce que les entreprises reconnaissent enfin que ces compétences doivent être développées en interne -- https://www.zdnet.fr/actualites/competences-tech-2021-surtout-le-cloud-et-toujours-l-open-source-39929673.htm
+- [Les Numériques] Square : la solution de paiement de Jack Dorsey se lance en France -- https://lesnumeriques.com/pro/-n168829.html
+- [ZDNet France] Mirakl lève 555 millions de dollars après une précédente grosse levée de fonds en 2020. Avec ce tour de financement colossal, l'éditeur de solutions marketplace devient la licorne tricolore dont la valorisation est la plus élevée dans le secteur de l'e-commerce -- https://www.zdnet.fr/actualites/mirakl-leve-555-millions-de-dollars-apres-une-precedente-grosse-levee-de-fonds-en-2020-39929619.htm
+- [ZDNet France] NFT : La start-up française Sorare lève 680 millions de dollars, un record. Sorare commercialise des vignettes de football virtuelles. Ces vignettes sont liées à un système de blockchain via la technologie de NFT (Non Fungible Token). Son ambition ? Aller vers les sports US -- https://www.zdnet.fr/actualites/nft-la-startup-francaise-sorare-leve-680-millions-de-dollars-un-record-39929555.htm
+- [XDA Developers] U.S. officials can’t decide on if Honor should be blacklisted like Huawei -- https://www.xda-developers.com/us-official-debate-putting-honor-on-entity-list/
+- [Reuters] Lithuania says throw away Chinese phones due to censorship concerns -- https://www.reuters.com/business/media-telecom/lithuania-says-throw-away-chinese-phones-due-censorship-concerns-2021-09-21/
+- [XDA Developers] Xiaomi’s secret blacklist of phrases sounds scary, but it may not be what it seems -- https://www.xda-developers.com/xiaomi-secret-blacklist-explained/
+pc Tattletale - Employee & Child Monitoring Software -- https://www.pctattletale.com/
+- [VICE Motherboard] A Stalkerware Firm Is Leaking Real-Time Screenshots of People's Phones Online -- https://www.vice.com/en/article/m7ezj8/stalkerware-leaking-phone-screenshots-pctattletale
+- [Les Numériques] Qu’est-ce que le doxxing et pourquoi est-il désormais puni par la loi ? -- https://lesnumeriques.com/vie-du-net/-a168491.html
+- [CNET France] Netflix teste une nouvelle offre gratuite (au Kenya). La plateforme de streaming américaine a déclaré le 20 septembre 2021 qu'une version gratuite de ses services était désormais effective au Kenya -- https://www.cnetfrance.fr/news/netflix-teste-une-nouvelle-offre-gratuite-au-kenya-39929553.htm
+- [Les Numériques] Encore méconnu en France, Dazn prend de l'ampleur outre-Manche -- https://lesnumeriques.com/vie-du-net/-n168825.html
+- [Les Numériques] Le cours d'Activision Blizzard chute après l'ouverture d'une enquête de la SEC -- https://lesnumeriques.com/pro/-n168791.html
+- 🇺🇸 [VGC] Blizzard’s chief legal officer has resigned amid lawsuits. Claire Hart steps down after three years at the World of Warcraft maker -- http://cpc.cx/vVD
+- 🇺🇸 [VGC] Overwatch’s executive producer is Blizzard’s latest high-profile departure. Studio says the game is “in the final stages of production” as key figure quits -- http://cpc.cx/vVE
+- [XDA Developers] Google takes action against developer that used sexually explicit ads to promote their game -- https://www.xda-developers.com/google-play-removes-game-using-sexually-explicit-ads/
+- [The Verge] Roblox will start verifying the age of teenage players. Verification is optional but may be required for certain features -- https://www.theverge.com/2021/9/21/22684672/
+
+
 
 
 - [Les Numériques] 
