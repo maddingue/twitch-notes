@@ -824,6 +824,43 @@ pc Tattletale - Employee & Child Monitoring Software -- https://www.pctattletale
 - [The Verge] Roblox will start verifying the age of teenage players. Verification is optional but may be required for certain features -- https://www.theverge.com/2021/9/21/22684672/
 
 
+--------------------------------------
+2021-09-24
+
+- [Les Numériques] French Days 2021 : les vrais bons plans -- https://lesnumeriques.com/vie-du-net/french-days-e1467.html
+- [Les Numériques] Labo – Huawei MateView GT : un contraste natif record pour un moniteur LCD -- https://lesnumeriques.com/moniteur-ecran-lcd/-n168837.html
+- [Les Numériques] Test JBL Partybox 110 : une enceinte transportable XXL pour illuminer vos soirées -- https://lesnumeriques.com/enceintes-portables/jbl-partybox-110-p64877/test.html
+- [Les Numériques] The Pearl Pelegrina : une enceinte sans-fil très luxueuse pour les 70 ans de Cabasse -- https://lesnumeriques.com/platine-musicale-serveur-audio/-n168841.html
+- [The Verge] DJI Mavic 3 Pro leaks out with two cameras, 46-minute flights and a Four Thirds sensor. DJI’s flagship drone is seeing double -- https://www.theverge.com/2021/9/23/22690821/
+- [The Drive] Kratos' New Airwolf Combat Drone Has Launched A Switchblade Loitering Munition In Flight -- https://www.thedrive.com/the-war-zone/42465/
+- [XDA Developers] MSI launches a new all-in-one business PC, the PRO AP241 -- https://www.xda-developers.com/msi-pro-ap241-all-in-on-business-pc/
+- [Les Numériques] Labo – Que vaut le module photo grand-angle de l'iPhone 13 ? -- https://lesnumeriques.com/telephone-portable/-n168895.html
+- [XDA Developers] Exclusive: Here are the new and upcoming camera features of the Google Pixel 6 Pro -- https://xda-developers.com/google-pixel-6-camera-features-revealed/
+- [Anandtech] Samsung's new 200MP HP1 Sensor: Sensible, or Marketing? -- https://www.anandtech.com/show/16966/
+- [Windows central] Surface Duo 2 Pen Cover that recharges the Slim Pen 2 costs $64.99, arrives October 21 -- https://www.windowscentral.com/surface-duo-2-elusive-pen-cover-price-availability
+- [The Verge] Microsoft says the original Surface Duo will get Android 11 before the end of the year. Now the wait for Android 12 begins -- https://www.theverge.com/2021/9/23/22690003/
+- [Les Numériques] Citroën Ami : première bougie et God Save the Queen ! -- https://lesnumeriques.com/voiture/-n168833.html
+- [Les Numériques] Tesla : 2022, l’année du million de véhicules électriques livrés ? -- https://lesnumeriques.com/voiture/-n168655.html
+- [Engadget] Audi tested its RS Q E-Tron hybrid in the deserts of Morocco. It had to survive temperatures in excess of 100 degrees Fahrenheit -- https://www.engadget.com/audi-rs-q-e-tron-phev-test-morocco-173950621.html
+- [AFP] Non, il ne faut pas "225 tonnes" de matières premières pour fabriquer une batterie de voiture électrique -- https://factuel.afp.com/http%253A%252F%252Fdoc.afp.com%252F9MR4LU-1
+- [The Verge] Android Auto is getting a new look to make futzing with your car less distracting. Frequently used apps will now appear first -- https://www.theverge.com/2021/9/23/22689537/
+- [Les Numériques] La "taxe Gafam" pourrait rapporter 518 millions d'euros à l'État en 2022 -- https://lesnumeriques.com/pro/-n168861.html
+- [ZDNet France] Bruxelles propose (enfin) d'ériger l'USB-C en chargeur universel. Au grand dam d'Apple, Bruxelles vient enfin de proposer d'ériger l'USB-C en chargeur universel pour tous les produits électroniques grand public dans les deux ans après l'adoption de cette décision -- https://www.zdnet.fr/actualites/bruxelles-propose-enfin-d-eriger-l-usb-c-en-chargeur-universel-39929717.htm
+- [The Verge] The EU’s USB-C proposal might give us a portless iPhone instead. The future of the iPhone could be wireless -- https://www.theverge.com/2021/9/23/22689432/
+- [Twitter] Bringing Tips to everyone -- https://blog.twitter.com/en_us/topics/product/2021/bringing-tips-to-everyone
+- [The Verge] Google Photos’ nude-friendly folders coming to all Android phones soon. Locked Folders previously came to Pixel phones -- https://www.theverge.com/2021/9/23/22689322/
+- [CNET France] Enfants addicts aux écrans, quelle attitude adopter ? Les enfants sont très attirés par les smartphones et les écrans de manière générale. Mais la dépendance n'est pas toujours très loin, et les conséquences peuvent être importantes. Nous avons interrogé Serge Tisseron et Michael Stora, psychanalystes et spécialistes des écrans, pour déterminer les bons réflexes à adopter -- https://www.cnetfrance.fr/news/enfants-addicts-aux-ecrans-quelle-attitude-adopter-39790241.htm
+- Nintendo Direct 24/09/2021 -- https://www.youtube.com/watch?v=P9ZakvGwBMI
+- 🐦 [Twitter] fil Twitter de Tim Sweeney -- https://twitter.com/TimSweeneyEpic/status/1440711467888615431
+- 🇫🇷 [Gamekult] Tim Sweeney dénonce Apple, qui refuse de remettre Fortnite sur l'App Store -- https://gamekult.com/actualite/-3050843071.html
+- 🇺🇸 [VGC] Apple has blacklisted Fortnite until its legal battle with Epic is completed. Epic says it’s ready to abide by Apple’s rules, but the iPhone maker isn’t playing bal1 -- http://cpc.cx/vWbl
+- 🇺🇸 [Games Industry] Apple won't let Fortnite back on App Store until court ruling finalized. Epic says it has paid the $6 million it owed the iPhone maker, but Apple responded it "will not consider any further requests for reinstatement" -- http://cpc.cx/vWc
+- [Numérama] 11 000 turbines mais pas de vent : l’éolien britannique souffre d’une météo imprévue -- https://www.numerama.com/sciences/740747-11-000-turbines-mais-pas-de-vent-leolien-britannique-souffre-dune-meteo-imprevue.html
+- [TLDR News UK] Why Britain's Electricity Price Increased by 3000% -- https://www.youtube.com/watch?v=7Yw-s0INT4w
+
+
+
+
 
 
 - [Les Numériques] 
@@ -836,6 +873,7 @@ pc Tattletale - Employee & Child Monitoring Software -- https://www.pctattletale
 
 📺 Les Numériques sur YouTube → https://youtube.com/user/LesNumeriques
 📷 Les Numériques sur Instagram → https://instagram.com/lesnumeriques/
+🐦 le Twitter de Lâm Hua → https://twitter.com/LamHua
 
 ⭐⭐⭐⭐⭐
 
