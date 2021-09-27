@@ -7469,6 +7469,51 @@ raids : gautoz => ultia => chat_ = alphacast => kennystream.
 
 
 
+--------------------------------------
+2021-09-27
+
+datisme. Rare. Répétition fastidieuse de synonymes pour exprimer une même idée. Je me réjouis beaucoup, je suis bien aise, je suis content, je suis satisfait de votre arrivée, etc -- https://www.cnrtl.fr/definition/datisme
+
+datisme \da.tism\ masculin. Tautologie. Étymologie : En grec ancien Δατισμός, Datismos signifie « façon de parler de Datis le Mède », qui était un général de Darius. Datis est un personnage perse qu'Aristophane mentionne dans une de ses comédies et qu'il fait parler d'une manière tautologique, petit-nègre, barbare -- https://fr.wiktionary.org/wiki/datisme
+
+
+- 🇫🇷 [Gamekult] Naughty Dog confirme le développement d'un jeu The Last of Us multijoueur -- https://gamekult.com/actualite/-3050843173.html
+- 🇫🇷 [Gamekult] Naughty Dog et HBO dévoilent une première photo de la série The Last of Us -- https://gamekult.com/actualite/-3050843175.html
+
+- 🇺🇸 [PC Gamer] Wizards of the Coast is making a big-budget G.I. Joe game -- http://cpc.cx/vXu
+- 🇺🇸 [PC Gamer] Two clips from The Witcher season 2 are out now, along with a new trailer -- http://cpc.cx/vXv
+
+- 🇫🇷 [Gamekult] Arcane : la série d'animation League of Legends sortira le 7 novembre sur Netflix -- https://gamekult.com/actualite/-3050843165.html
+
+- 🇺🇸 [SteamDB] top 10 des ventes sur Steam de la semaine dernière → https://steamdb.info/topsellers/
+
+- Nykra - https://store.steampowered.com/app/867660/
+- Outer Wilds - Echoes of the Eye -- https://store.steampowered.com/app/1622100/
+- Steel Assault -- http://steelassault.com/ | https://store.steampowered.com/app/1280300/
+- AWAY: The Survival Series -- https://awayseries.com/ | https://store.steampowered.com/app/750200/
+- Lemnis Gate -- https://www.lemnisgategame.com/ | https://store.steampowered.com/app/950180/
+- UnMetal -- http://www.unepicfran.com/en/unmetal.html | https://store.steampowered.com/app/1203710/
+- In Sound Mind -- https://modusgames.com/in-sound-mind/ | https://store.steampowered.com/app/1119980/
+- New World -- https://www.newworld.com | https://store.steampowered.com/app/1063730/
+
+- A Juggler's Tale -- https://ajugglerstale.com  | https://store.steampowered.com/app/1252830/
+- Bonfire Peaks -- https://bonfirepeaks.com | https://store.steampowered.com/app/1147890/
+- Hot Wheels Unleashed -- https://www.hotwheelsunleashed.com | https://store.steampowered.com/app/1271700/
+- Astria Ascending -- https://astria-ascending.com | https://store.steampowered.com/app/1121780/
+- The Eternal Cylinder, sur PlayStation 4, Xbox One et Windows → https://www.EternalCylinder.com/
+- Aeon Drive -- https://store.steampowered.com/app/1252240/
+
+:::::
+- 🇺🇸 [VGC] Xbox’s Edge browser can now run Google Stadia. Chromium version of Edge introduced alongside new PC game streaming options -- http://cpc.cx/vXr
+- 🇺🇸 [VGC] October’s PlayStation Plus games have reportedly been revealed early. Mortal Kombat X and more look set to be given to subscribers next month -- http://cpc.cx/vXt
+
+
+Castlevania Advance Collection, sorti le 24 septembre sur Switch, PlayStation et PC (Windows)
+🎮 20 € sur eShop (http://cpc.cx/vWG), PSN (http://cpc.cx/vWH) et Xbox (http://cpc.cx/vWI)
+⌨️ 🖱️ 20 € sur Steam (http://cpc.cx/vWJ)
+
+raids : gautoz => canardpc.
+
 
 
 
@@ -7520,6 +7565,8 @@ clips :
 🎥 Fallout 76 → https://clips.twitch.tv/CleverProductiveSnoodOhMyDog-YmG16UHZjfZLynHh
 🎥 Gautoz est sans pantalon → https://clips.twitch.tv/MistyAssiduousLyrebirdTheRinger-ei13p1qHFkKEktGQ
 🎥 auto in(di)gestion de Gautoz ? → https://clips.twitch.tv/ZanyCuriousCormorantGrammarKing-ZoVi5T8yeHJKCL5N
+🎥 la défense de Gautoz à l'irrespect de la rédaction Gamekult → https://clips.twitch.tv/AthleticFlaccidMetalHotPokket-iJiUoRUz8vGz1NBf
+🎥 le vieux Puyo n'aime pas Outer Wilds → https://clips.twitch.tv/GoodRoundMacaroniBabyRage-IHp1YJgffyzTaaru
 
 Doudoune défonce le stream (2021-02-23) :
 - https://clips.twitch.tv/SilkyBenevolentGaurPogChamp-v-8xcJv_WtD4x60s -- et là, c'est le drame
