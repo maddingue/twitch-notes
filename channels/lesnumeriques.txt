@@ -893,6 +893,41 @@ pc Tattletale - Employee & Child Monitoring Software -- https://www.pctattletale
 - [Les Numériques] Pas impressionné par Disney+, Netflix annonce 70 films originaux en 2021 -- https://lesnumeriques.com/vie-du-net/-n159177.html
 
 
+--------------------------------------
+2021-09-28
+
+- [Les Numériques] Test Casque sans-fil Marshall Major IV : un nouveau recordman de l'autonomie -- https://www.lesnumeriques.com/casque-nomade/marshall-major-iv-p60251/test.html
+- [Les Numériques] Test Dyson V12 Slim Absolute : un aspirateur-balai qui en a dans le slim -- https://www.lesnumeriques.com/aspirateur-balai/dyson-v12-detect-slim-absolute-p63135/test.html
+- [Les Numériques] Test TP-Link RE605x : un répéteur wifi 6 qui assure de bons débits -- https://www.lesnumeriques.com/repeteurs-wi-fi/tp-link-re605x-p65201/test.html
+- [MacRumors] Kuo: Redesigned MacBook Air With Apple Silicon to Enter Mass Production in Third Quarter of 2022 -- https://www.macrumors.com/2021/09/27/kuo-macbook-air-mass-production-third-quarter/
+- [ZDNet France] Pénurie de puces : Voici pourquoi l'industrie a tant de mal à prévoir l'avenir. Les fabricants de puces font état d'une demande record, alors que l'offre diminue. Pourtant, la pénurie de semi-conducteurs pourrait se prolonger jusqu'en 2023. Pourquoi n'ont-ils rien vu venir ? -- https://www.zdnet.fr/actualites/penurie-de-puces-voici-pourquoi-l-industrie-a-tant-de-mal-a-prevoir-l-avenir-39929849.htm
+- [CNET France] Samsung : le Galaxy S21 FE passerait à la trappe en raison de la pénurie de composants. La présentation prévue en octobre serait déjà annulée… -- https://www.cnetfrance.fr/news/samsung-le-galaxy-s21-fe-passerait-a-la-trappe-en-raison-de-la-penurie-de-composants-39929875.htm
+- [Les Numériques] Le Samsung Galaxy M52 est officiel : M pour montée en gamme -- https://lesnumeriques.com/telephone-portable/-n169045.html
+- [XDA Developers] iQOO’s new mid-range phone offers Snapdragon 778G, UFS 3.1 flash storage, and a 5,000mAh battery -- https://www.xda-developers.com/iqoo-z5-5g-launch/
+- [I fix it] Vue éclatée de l'iPhone 13 Pro -- https://fr.ifixit.com/Tutoriel/Vue+%C3%A9clat%C3%A9e+de+l'iPhone+13+Pro/144928
+- [ZDNet France] iPhone 13 : Si vous cassez votre écran, attention à sa réparation -- https://www.zdnet.fr/pratique/iphone-13-si-vous-cassez-votre-ecran-attention-a-sa-reparation-39929893.htm
+- [NokiaMob] Nokia T20, HMD Global’s first tablet coming with 10.36″ display, UK prices out -- https://nokiamob.net/2021/07/28/nokia-t20-hmd-globals-first-tablet-coming-with-10-36-display-uk-prices-out/
+- [XDA Developers] Leaked specifications reveal Galaxy Tab A8 may feature a 10.5-inch display and a 7040mAh battery -- https://www.xda-developers.com/samsung-galaxy-tab-a8-2021-specs-leaked/
+- [Google Workspace updates] Live translated captions in Google Meet available in beta -- https://workspaceupdates.googleblog.com/2021/09/live-translated-captions-in-google-meet.html
+- [Gizmodo] Deepfake lips are coming to dubbed films -- https://gizmodo.com/deepfake-lips-are-coming-to-dubbed-films-1846840191
+- [Les Numériques] Le successeur du Kadjar sera le premier SUV électrique familial de Renault -- https://lesnumeriques.com/voiture/-n169099.html
+- [Les Numériques] Le vietnamien Vinfast veut électriser l’Europe et l’Amérique du Nord avec deux SUV -- https://lesnumeriques.com/voiture/-n169065.html
+- [Les Numériques] Super Soco CT-3 : le maxi-scooter électrique en approche -- https://lesnumeriques.com/scooter/-n169089.html
+- [Les Numériques] La RATP va développer et exploiter le réseau fibre du Grand Paris Express -- https://lesnumeriques.com/pro/-n169071.html
+- fil Twitter de Paula Barcante -- https://twitter.com/paulabarcante/status/1441457192712818692
+- [Les Numériques] Explore, speed dating et vidéo… La nouvelle recette de Tinder pour faire matcher ses membres -- https://lesnumeriques.com/vie-du-net/-n168987.html
+- [Les Numériques] Facebook a versé 5 milliards de dollars de trop à la FTC pour protéger Mark Zuckerberg -- https://lesnumeriques.com/vie-du-net/-n169067.html
+- [Les Numériques] Facebook met en pause son projet Instagram Kids -- https://lesnumeriques.com/vie-du-net/-n169097.html
+- Senator Markey, Rep. Castor, Senator Blumenthal, and Rep. Trahan Statement on Facebook Plans to Pause Instagram for Kids -- https://www.markey.senate.gov/news/press-releases/senator-markey-rep-castor-senator-blumenthal-and-rep-trahan-statement-on-facebook-plans-to-pause-instagram-for-kids
+- [Les Numériques] La France progresse dans le classement des pays les plus innovants -- https://lesnumeriques.com/pro/-n168933.html
+- [ZDNet France] Grandeur et misère de la French Tech. Oui, la période est faste côté levées de fonds records pour la French Tech. Reste que les brillantes annonces de cette semaine ne doivent pas faire oublier les échecs qui jalonnent la dure histoire des start-up françaises. Ainsi la néobanque Swoon, qui tente encore de rembourser ses ex-clients -- https://www.zdnet.fr/actualites/grandeur-et-misere-de-la-french-tech-39929789.htm
+- [Les Numériques] Les États-Unis en tête des pays demandant le plus de données personnelles aux entreprises privées -- https://lesnumeriques.com/vie-du-net/-n169079.html
+- [ZDNet France] Clés Kaseya : Les choix du FBI font débat. De nombreux experts en sécurité ont défendu la décision du FBI, qui a choisi de laisser les victimes de Kaseya aux prises avec des infections par ransomware pendant des semaines -- https://www.zdnet.fr/actualites/cles-kaseya-les-choix-du-fbi-font-debat-39929853.htm
+- [Les Numériques] Cryptomonnaies : la Chine juge illégales toutes les transactions -- https://lesnumeriques.com/pro/-n169015.html
+- [Engadget] Google Stadia on TVs will let you use your phone as the gamepad. You can also use your phone to enable third-party controllers -- https://www.engadget.com/stadia-tv-phone-gamepad-support-160049482.html
+- [VGC] Xbox’s Edge browser can now run Google Stadia. Chromium version of Edge introduced alongside new PC game streaming options -- https://videogameschronicle.com/news/xboxs-edge-browser-can-now-run-google-stadia/
+- [VGC] Xbox has made it easier to run emulators on Series X|S consoles. Updated web browser bypasses Developer Mode requirement -- https://videogameschronicle.com/news/xbox-series-x-emulator-n64-playstation/
+
 
 
 
@@ -906,6 +941,7 @@ pc Tattletale - Employee & Child Monitoring Software -- https://www.pctattletale
 
 📺 Les Numériques sur YouTube → https://youtube.com/user/LesNumeriques
 📷 Les Numériques sur Instagram → https://instagram.com/lesnumeriques/
+🐦 Les Numériques sur Twitter → https://twitter.com/LesNums
 🐦 le Twitter de Lâm Hua → https://twitter.com/LamHua
 
 ⭐⭐⭐⭐⭐
