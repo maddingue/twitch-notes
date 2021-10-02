@@ -929,6 +929,104 @@ pc Tattletale - Employee & Child Monitoring Software -- https://www.pctattletale
 - [VGC] Xbox has made it easier to run emulators on Series X|S consoles. Updated web browser bypasses Developer Mode requirement -- https://videogameschronicle.com/news/xbox-series-x-emulator-n64-playstation/
 
 
+--------------------------------------
+2021-09-29
+
+- [Les Numériques] Double ration d'écouteurs true wireless pour Technics avec ses nouveaux EAH-AZ60 et AZ40 -- https://lesnumeriques.com/intra-ecouteur-true-wireless/-n169183.html
+- [Les Numériques] Le minuscule aspirateur-balai Dyson Micro 1,5 kg est arrivé à la rédaction -- https://lesnumeriques.com/aspirateur-balai/-n169087.html
+- [Engadget] Samsung recruits Vanilla Ice to fight climate change. The rapper has re-released his '90s hit as 'Reduce your ice, ice baby.' -- https://www.engadget.com/samsung-vanilla-ice-fight-climate-change-114022324.html
+- [Les Numériques] Echo Show 15 : Amazon met Alexa dans un tableau numérique -- https://lesnumeriques.com/assistant-domotique/-n169189.html
+- [Ars Technica] Amazon Halo View tracks your health on an OLED screen. Monitor your heart rate and other fitness metrics -- https://arstechnica.com/gadgets/2021/09/amazons-fitness-efforts-expand-with-halo-view-health-tracker/
+- [Engadget] Amazon's Blink unveils a no-frills $50 video doorbell. There's also a floodlight camera mount and a solar panel -- https://www.engadget.com/amazon-blink-video-doorbell-floodlight-camera-170141201.html
+- [CNET France] Amazon dévoile un drone caméra de surveillance Always Home Cam, une sonnette vidéo et plus. La caméra volante Always Home Cam de Ring prend son envol, mais les ventes se font uniquement sur invitation. Une sonnette vidéo à prix accessible et un système d'alarme avec routeur ont aussi été présentés -- https://www.cnetfrance.fr/news/amazon-devoile-un-drone-camera-de-surveillance-always-home-cam-une-sonnette-video-et-plus-39929967.htm
+- [Les Numériques] Voici Astro, le robot domestique d'Amazon -- https://lesnumeriques.com/objet-connecte/-n169195.html
+- [VICE Motherboard] Leaked documents show how Amazon's Astro robot tracks everything you do. Leaked meetings show the robot will heavily rely on facial recognition and user behavior, but sources who worked on Astro say the robot is flawed -- https://www.vice.com/en/article/93ypp8/leaked-documents-amazon-astro-surveillance-robot-tracking
+- [Engadget] Amazon is turning into a personal security company, and that's terrifying -- https://www.engadget.com/amazon-police-state-robots-personal-security-dystopia-203641655.html
+- [Facebook] What Our Research Really Says About Teen Well-Being and Instagram -- https://about.fb.com/news/2021/09/research-teen-well-being-and-instagram/
+- le twitter de Casey Newton -- https://twitter.com/caseynewton
+- [Platformer] Why Facebook should release the Facebook Files -- https://www.platformer.news/p/why-facebook-should-release-the-facebook
+- [Les Numériques] Facebook investit 50 millions de dollars dans le métaverse, "prochaine plateforme informatique" -- https://lesnumeriques.com/vie-du-net/-n169133.html
+- [Les Numériques] D’anciens ingénieurs d’Apple discréditent la fonction anti-traçage des iPhone -- https://lesnumeriques.com/mobilite/-n169109.html
+- [Les Numériques] Test Apple iPhone 13 Pro Max : plus gros, plus fort, plus polyvalent -- https://www.lesnumeriques.com/telephone-portable/apple-iphone-13-pro-max-p61453/test.html
+- [Les Numériques] Test Xiaomi Pad 5 : quand Xiaomi vient chasser sur les terres des iPad -- https://www.lesnumeriques.com/tablette-tactile/xiaomi-mi-pad-5-p63387/test.html
+- [Ars Technica] Newest iPad mini has a subtle scrolling problem [Updated]. Apple says the issue is caused by normal LCD screen behavior -- https://arstechnica.com/gadgets/2021/09/2021-ipad-mini-suffers-from-uneven-jelly-scrolling-in-portrait-mode/
+- [Next Impact] Il y a 30 ans, Linus Torvalds lançait Linux -- https://www.nextinpact.com/article/47850/il-y-a-30-ans-linus-torvalds-lancait-linux
+- e-OS -- https://e.foundation/
+- GrapheneOS  -- https://grapheneos.org/
+- [Les Numériques] Expérience – Un été sans Google (ou presque...) #1 -- https://lesnumeriques.com/vie-du-net/-a166145.html
+- [Les Numériques] Expérience – Un été sans Google (ou presque…) #2 : les applications -- https://lesnumeriques.com/vie-du-net/-a166871.html
+
+
+--------------------------------------
+2021-09-30
+
+- [Les Numériques] WF-C500 et WH-XB910N : Sony lance des écouteurs true wireless à bas prix et un petit frère du WH-1000XM4 -- https://lesnumeriques.com/intra-ecouteur-true-wireless/-n169221.html
+- [The Verge] Sonos says Google is blocking it from offering more than one voice assistant at once. ‘Concurrency’ makes Alexa and Google Assistant play nice -- https://www.theverge.com/2021/9/29/22700724/
+- [Les Numériques] Ikea et Sonos annoncent enfin leur nouvelle lampe Symfonisk -- https://lesnumeriques.com/platine-musicale-serveur-audio/-n169173.html
+- [Les Numériques] Mi Wireless Outdoor Security Camera 1080p : une première caméra de surveillance extérieure chez Xiaomi -- https://lesnumeriques.com/camera-surveillance/-n169185.html
+- [CNET France] Logitech MX Keys Mini : prise en main de la déclinaison petite taille du clavier -- https://www.cnetfrance.fr/produits/prise-en-main-logitech-mx-keys-mini-39929941.htm
+- [Stackoverflow Blog] No joke—you can buy our copy/paste keyboard right now -- https://stackoverflow.blog/2021/09/28/become-a-better-coder-with-this-one-weird-click/
+- [Les Numériques] Test HP Pavilion 15-eh1000sf : un portable équilibré -- https://www.lesnumeriques.com/ordinateur-portable/hp-pavilion-15-p65295/test.html
+- [Les Numériques] Test Boîtier hybride APS-C Nikon Z fc : le design avant tout -- https://www.lesnumeriques.com/reflex-hybride/nikon-z-fc-p64071/test.html
+- [XDA Developers] iPhone 14 lineup might feature an additional “Max” variant instead of the “Mini” -- https://www.xda-developers.com/iphone-14-max-instead-of-mini/
+- [CNET France] Google s'offre une double page dans le New Yorker pour faire la promotion du Pixel 6 -- https://www.cnetfrance.fr/news/google-s-offre-une-double-page-dans-le-new-yorker-pour-faire-la-promotion-du-pixel-6-39929903.htm
+- [Les Numériques] Google Pixel 6 : des rumeurs évoquent un tarif vraiment abordable -- https://lesnumeriques.com/telephone-portable/-n169219.html
+- [XDA Developers] New Galaxy S22 Ultra renders showcase a split camera module -- https://www.xda-developers.com/galaxy-s22-ultra-split-camera-renders/
+- [Les Numériques] Labo – L'impressionnante recharge rapide HyperCharge du Xiaomi 11T Pro -- https://lesnumeriques.com/telephone-portable/-n169115.html
+- [XDA Developers] Hands-on with Android 12 DP 2 on the OnePlus 9 Pro: OxygenOS makes way for ColorOS -- https://www.xda-developers.com/android-12-dp-2-oneplus-9-pro-oxygenos/
+- [Ferrari] - Exor, Ferrari and LoveFrom announce creative partnership -- https://corporate.ferrari.com/en/exor-ferrari-and-lovefrom-announce-creative-partnership
+- [Les Numériques] Cupra lance la production de la Born, la cousine électrique de la Volkswagen ID.3 -- https://lesnumeriques.com/voiture/-n169227.html
+- [Les Numériques] Le Jeep Grand Cherokee reviendra en version hybride rechargeable en 2022 -- https://lesnumeriques.com/voiture/-n169243.html
+- [Ars Technica] To the mountain and back: Rivian’s electric truck and its 314-mile range. We put the R1T to the test by driving up to the top of a mountain in Colorado -- https://arstechnica.com/cars/2021/09/rivians-67-500-314-mile-electric-adventure-truck-put-to-the-test/
+- [Les Numériques] Le patron de Microsoft ne veut plus acheter TikTok et revient sur l'épisode “le plus étrange” de sa carrière -- https://lesnumeriques.com/vie-du-net/-n169163.html
+- [ZDNet France] Washington détaille son plan d'attaque pour en finir avec Huawei et ZTE. Outre-Atlantique, les petits opérateurs pourront demander l'aide financière des autorités américaines pour débarrasser leurs réseaux des équipements de Huawei et ZTE -- https://www.zdnet.fr/actualites/washington-detaille-son-plan-d-attaque-pour-en-finir-avec-huawei-et-zte-39929921.htm
+- [Wired] In Russia, Apple and Google Staff Get Muscled Up By the State -- https://www.wired.com/story/opinion-in-russia-apple-and-google-staff-get-muscled-up-by-the-state/
+- [ZDNet France] Peut-on prévenir le suicide chez les jeunes en analysant leur comportement en ligne ? Cette étude intervient quelques jours après qu'une enquête a révélé que Facebook comprend l'impact négatif d'Instagram sur les jeunes, sans rien faire pour l'arrêter -- https://www.zdnet.fr/actualites/peut-on-prevenir-le-suicide-chez-les-jeunes-en-analysant-leur-comportement-en-ligne-39929563.htm
+- [Krebs on Security] Apple AirTag Bug Enables ‘Good Samaritan’ Attack -- https://krebsonsecurity.com/2021/09/apple-airtag-bug-enables-good-samaritan-attack/
+- [Les Numériques] L'Europe occidentale devient le premier marché mondial pour les cryptomonnaies -- https://lesnumeriques.com/pro/-a168753.html
+- [Les Numériques] C'est quoi Globo, le service de streaming brésilien qui va débarquer en France ? -- https://lesnumeriques.com/vie-du-net/-n169157.html
+- [Le Figaro] Netflix fait flamber le prix des dessins animés japonais -- https://www.lefigaro.fr/medias/netflix-fait-flamber-le-prix-des-dessins-animes-japonais-20210927
+- 🇫🇷 [Gamekult] Netflix vient d'acheter Night School Studio, son premier studio de jeu vidéo. Netflix veut "élaborer une collection de jeux exclusifs" -- https://gamekult.com/actualite/-3050843245.html
+- [CNET France] Nintendo Switch Oled : la prise en main. L’évolution la plus appréciable n’est peut-être pas le nouvel écran Oled -- https://www.cnetfrance.fr/news/nintendo-switch-oled-la-prise-en-main-39929905.htm
+- 🇫🇷 [Gamekult] Après un nouvel article de Bloomberg, Nintendo dément avoir fourni des kits pour développer des jeux Switch en 4K. Bloomberg affirme que ces outils ont été envoyés à de nombreux studios -- https://gamekult.com/actualite/-3050843279.html
+- [The Verge] Nintendo categorically denies that a 4K Switch Pro is in development. The entire report has false claims, Nintendo says -- https://www.theverge.com/2021/9/29/22701435/
+- annonces Fairphone -- https://event.fairphone.com/
+- [Les Numériques] Samsung travaille à copier-coller votre cerveau sur un réseau de puces 3D -- https://lesnumeriques.com/vie-du-net/-n169165.html
+
+
+--------------------------------------
+2021-10-01
+
+- [YouTube / Les Numériques] Le Salon des Véhicules de Loisir, avec Lâm Hua et Aurélien Piot ! -- https://www.youtube.com/watch?v=fRHuiddHYZo
+- [Les Numériques] Salon des Véhicules de Loisirs : à la découverte des vans aménagés -- https://lesnumeriques.com/voiture/-n169155.html
+- [Les Numériques] Test Sonos Beam Gen 2 : la barre de son compacte de Sonos se met au Dolby Atmos -- https://www.lesnumeriques.com/barre-de-son/sonos-beam-gen-2-p65107/test.html
+- [The Verge] Nreal’s new AR sunglasses are made for binge watching TV. They’ll ship later this year in Asia -- https://www.theverge.com/2021/9/30/22700782/
+- [9to5 Mac] USB-IF reveals new branding in an attempt to clear up USB-C cable confusion -- https://9to5mac.com/2021/09/30/usb-c-branding-cable-confusion/
+- [XDA Developers] Xiaomi’s next flagship phone could have a curved 4K OLED display -- https://www.xda-developers.com/xiaomi-next-flagship-curved-4k-oled-display/
+- [Les Numériques] De la 5G et 5 ans de garantie… Le Faiphone 4 est désormais disponible -- https://lesnumeriques.com/telephone-portable/-n169295.html
+- [Les Numériques] Labo – L'iPhone 13 Pro : une stabilisation du capteur efficace en vidéo ? -- https://lesnumeriques.com/accessoire-photo/-n169179.html
+- [Les Numériques] Test Tesla Model Y : l'un des meilleurs SUV du moment -- https://www.lesnumeriques.com/voiture/tesla-model-y-p55213/test.html
+- [Les Numériques] Genesis GV60 : le plus tech des SUV électriques ? -- https://lesnumeriques.com/voiture/-n169269.html
+- [Les Numériques] Prise en main de la Lexus ES restylée : confort à l’américaine, sobriété à la japonaise -- https://lesnumeriques.com/voiture/-n169281.html
+- [Les Numériques] Rolls-Royce électrifie son Spirit of Ecstasy à partir de 2023 -- https://lesnumeriques.com/voiture/-n169261.html
+- [ZDNet France] Facebook passe au grill concernant les effets de ses plateformes sur la jeunesse. Les révélations du Wall Street Journal continuent à faire trembler l'état-major de Facebook, auditionné devant le Congrès américain. La première semaine d'audition se révèle déjà difficile pour le géant américain -- https://www.zdnet.fr/actualites/facebook-passe-au-grill-concernant-les-effets-de-ses-plateformes-sur-la-jeunesse-39930117.htm
+- [Engadget] Facebook keeps downplaying its own research and lawmakers aren’t buying it. The Facebook whistleblower is testifying at a separate hearing next week -- https://www.engadget.com/facebook-instagram-mental-health-senate-hearing-210317155.html
+- [Les Numériques] Ondes électromagnétiques et téléphones 5G : l'ANFR ne constate aucun excès -- https://lesnumeriques.com/telephone-portable/-n169225.html
+- [ZDNet France] Empreintes digitales : Le ministère de l’Intérieur se fait taper sur les doigts. La CNIL rappelle à l’ordre le ministère de l’Intérieur sur sa gestion du fichier automatisé des empreintes digitales. -- https://www.zdnet.fr/actualites/empreintes-digitales-le-ministere-de-l-interieur-se-fait-taper-sur-les-doigts-39930079.htm
+- [Les Numériques] Gérald Darmanin affirme travailler sur le vote électronique -- https://lesnumeriques.com/vie-du-net/-n169289.html
+- [Les Numériques] Non, le vote électronique n’est pas la solution miracle à l'abstentionnisme -- https://lesnumeriques.com/vie-du-net/-n165417.html
+- [Coin Telegraph] 100 years ago, Henry Ford proposed ‘energy currency’ to replace gold -- https://cointelegraph.com/news/100-years-ago-henry-ford-proposed-energy-currency-to-replace-gold
+- [XDA Developers] BlueStacks X is the first streaming service for mobile games -- https://www.xda-developers.com/bluestacks-x-is-the-first-streaming-service-for-mobile-games/
+- [The Verge] The rumored Noctua-equipped RTX 3070 appeared on Asus’ Facebook page. Now removed, but not before some photos were grabbed -- https://www.theverge.com/2021/9/30/22702067/
+- CORSAIR XENEON 32QHD165 Gaming Monitor -- https://www.corsair.com/us/en/Categories/Products/Monitors/CORSAIR-XENEON-Gaming-Monitor/p/CM-9020001-NA
+- [Wrap Pro] Gaming Leaders Strauss Zelnick of Take-Two, Xbox’s Phil Spencer Join TheGrill 2021 -- https://www.thewrap.com/gaming-leaders-strauss-zelnick-of-take-two-xboxs-phil-spencer-join-thegrill-2021/
+- [Engadget] Elon Musk tells Jeff Bezos you can't 'sue your way to the Moon' (updated). NASA may not be a fan of Blue Origin's tactics, either -- https://www.engadget.com/elon-musk-on-blue-origin-lawsuit-151130133.html
+- [The Verge] Blue Origin ‘gambled’ with its Moon lander pricing, NASA says in legal documents. Blue Origin is backed by the world’s richest man — why didn’t it just offer NASA a cheaper lunar lander? -- https://www.theverge.com/2021/9/29/22689729/
+- [Lioness] Bezos Wants to Create a Better Future in Space. His Company Blue Origin Is Stuck in a Toxic Past -- https://www.lioness.co/post/bezos-wants-to-create-a-better-future-in-space-his-company-blue-origin-is-stuck-in-a-toxic-past
+
+
+
+
 
 
 - [Les Numériques] 
