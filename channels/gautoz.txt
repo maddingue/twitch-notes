@@ -7657,9 +7657,8 @@ raids : gautoz => mynthos
 
 - 🇺🇸 [VGC] Konami apologises for eFootball’s disastrous launch, promises improvements. “We are very sorry for the problems” -- http://cpc.cx/w00
 
-- 🇺🇸 [Eurogamer] Konami has reportedly greenlit a MGS3 remake -- https://www.eurogamer.net/articles/2021-10-01-konami-has-reportedly-greenlit-a-mgs3-remake
-
-- 🇺🇸 [VGC]  Konami is set to revive Metal Gear, Castlevania and Silent Hill. The Japanese publisher will reveal major projects after a period of relative quiet -- http://cpc.cx/w01
+- 🇺🇸 [Eurogamer] Konami has reportedly greenlit a MGS3 remake -- http://cpc.cx/w0y
+- 🇺🇸 [VGC] Konami is set to revive Metal Gear, Castlevania and Silent Hill. The Japanese publisher will reveal major projects after a period of relative quiet -- http://cpc.cx/w01
 
 - 🇫🇷 [Gamekult] Un peu de gameplay pour le TPS Gungrave GORE -- https://gamekult.com/actualite/-3050843293.html
 
@@ -7688,6 +7687,38 @@ raids : gautoz => mynthos
 - Steam Next Festival - https://store.steampowered.com/sale/nextfest
 
 raids : gautoz => artefr
+
+
+
+--------------------------------------
+2021-10-04
+
+caligineux \ka.li.ʒi.nø\ masculin. 1. (Vieilli) Qui est ténébreux, obscur, sombre. 2. (Vieilli) (Littéraire) (Didactique) Décrit une atmosphère qui tient du brouillard ou d’une épaisse vapeur, qui est nébuleuse, nuageuse. 3. (Par extension) (Médecine) Qui souffre d’un assombrissement de la perception oculaire de la luminosité. 4. (Figuré) (Péjoratif) Qui manque d’aptitudes intellectuelles, qui est peu spirituel. -- https://fr.wiktionary.org/wiki/caligineux
+
+- 🇫🇷 [Gamekult] Wanted Dead : des anciens de Ninja Gaiden et DOA sur un nouveau TPS -- https://gamekult.com/actualite/-3050843385.html
+
+- 🇫🇷 [Gamekult] Paradox Interactive annule plusieurs projets en développement. L'éditeur suédois se recentre sur ses spécialités -- https://gamekult.com/actualite/-3050843373.html
+
+- 🇺🇸 [IGN] Konami is Inviting Indie Developers to Make New Games Based on Some of Its Classic Series. Famous IP from the past may be revived through indie creators' eyes -- https://www.ign.com/articles/konami-indie-games-classic-series-gradius-twinbee-goemon
+
+- 🇺🇸 [VGC]  The Xbox Games Store is adding information tags on game accessibility features. Players with disabilities will be able to quickly find out if a game meets their needs -- http://cpc.cx/w0w
+
+- 🇺🇸 [GamesRadar] Battlefield 2042 won't have keyboard and mouse support on consoles, at least at launch -- http://cpc.cx/w0x
+
+- 🇺🇸 [Gematsu] Rumor: Konami developing Castlevania, Metal Gear Solid, and Silent Hill revivals. Classic Konami IP seemingly set to return -- http://cpc.cx/w0z
+
+- 🇫🇷 [Gamekult] Final Fantasy XVI : le scénario principal est prêt. Les confidences de Naoki Yoshida -- https://gamekult.com/actualite/-3050843377.html
+
+- 🇺🇸 [PC Gamer] Friday the 13th developer IllFonic is working on a Ghostbusters game. Presumably based on the upcoming movie -- http://cpc.cx/w0A
+
+- [Ubisoft] Tom Clancy’s Ghost Recon Breakpoint: 20th Anniversary Trailer  -- http://cpc.cx/w0B
+
+- 🇺🇸 [SteamDB] top 10 des ventes sur Steam de la semaine dernière → https://steamdb.info/topsellers/
+
+- JETT: The Far Shore, le 5 octobre 2021 sur PlayStation et PC -- https://www.jett.fyi/
+
+raids : gautoz => opcrotte.
+
 
 
 
