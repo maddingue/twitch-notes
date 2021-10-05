@@ -1069,6 +1069,49 @@ pc Tattletale - Employee & Child Monitoring Software -- https://www.pctattletale
 - [Les Numériques] Test Manette Hori D-Pad pour Nintendo Switch : la croix directionnelle coûte que coûte -- https://www.lesnumeriques.com/joypad/hori-manette-d-pad-l-edition-zelda-pour-nintendo-switch-p65477/test.html
 
 
+--------------------------------------
+2021-10-05
+
+- [Les Numériques] Facebook, Instagram, WhatsApp et Messenger : après la panne, le retour à la normale -- https://lesnumeriques.com/vie-du-net/-n169453.html
+- [Krebs on Security] What happened to Facebook, Instagram, & WhatsApp? -- https://krebsonsecurity.com/2021/10/what-happened-to-facebook-instagram-whatsapp/
+- [Cloudflare blog] Understanding how Facebook disappeared from the Internet -- https://blog.cloudflare.com/october-2021-facebook-outage/
+- [Facebook Engineering] Update about the October 4th outage -- https://engineering.fb.com/2021/10/04/networking-traffic/outage/
+- [Privacy Affairs] Web Scrapers Claim to Possess and Sell Personal Data on 1.5 Billion Facebook Users on a Hacker Forum -- https://www.privacyaffairs.com/facebook-data-sold-on-hacker-forum/
+- [Numérama] 6 questions sur la prétendue « fuite » de 1,5 milliard de profils Facebook -- https://www.numerama.com/tech/744871-questions-sur-la-pretendue-fuite-touchant-15-milliard-de-profils-facebook.html
+- [VICE Motherboard] Conspiracy Theories About Facebook Outage Spread Even Without Facebook -- https://www.vice.com/en/article/4avjqb/conspiracy-theories-about-facebook-outage-spread-even-without-facebook
+- [VICE Motherboard] Facebook Says its Competitors Are the Whole Internet, Because Facebook Is the Internet -- https://www.vice.com/en/article/vbqqgj/facebook-says-its-competitors-are-the-whole-internet-because-facebook-is-the-internet
+- [Twitter / Facebook Gaming] Facebook plays Zork -- https://twitter.com/FacebookGaming/status/1445113672414609413
+- [The Verge] Locked out and totally down: Facebook’s scramble to fix a massive outage. Engineers had to visit a California data center in person -- https://theverge.com/2021/10/4/22709575/
+- [The Verge] What is BGP, and how might it have helped kick Facebook off the internet? Charting the digital seas -- https://theverge.com/2021/10/4/22709260/
+
+
+- [The Verge] Dyson’s next robot vacuum cleaner revealed in FCC filings with new design. It’s presumably coming to the US -- https://www.theverge.com/circuitbreaker/2021/10/4/22708470/
+
+- [Les Numériques] Apple Watch Series 7 : les précommandes ouvrent le 8 octobre -- https://lesnumeriques.com/montre-connectee/-n169433.html
+- [MacRumors] Prosser: Apple Watch Series 7 to Feature Flat-Edged Design, New Green Color Option -- https://www.macrumors.com/2021/05/19/prosser-apple-watch-series-7-design/
+- [Les Numériques] Tamron lève le voile sur les zooms pour hybrides Sony 35-150mm F2-2.8 Di III VXD et 28-75mm F2.8 DI III VXD G2 -- https://lesnumeriques.com/zooms/-n169389.html
+- [Les Numériques] Windows 11 : tout ce qu'il faut savoir sur le nouveau système de Microsoft -- https://lesnumeriques.com/appli-logiciel/-a169291.html
+- [Ars Technica] Windows 11: The Ars Technica review. Attractive new design overshadowed by regressions and high system requirements -- https://arstechnica.com/gadgets/2021/10/windows-11-the-ars-technica-review/
+- [The Verge] Windows 11 review: a familiar home that’s still being renovated. Microsoft’s new OS is a work in progress -- https://theverge.com/22708762/
+- [Android Developers] Android 12 is live in AOSP! -- https://android-developers.googleblog.com/2021/10/android-12-is-live-in-aosp.html
+- [The Verge] OnePlus 9 and 9 Pro get first beta of Android 12. A combined Oxygen and Color OS is here -- https://www.theverge.com/2021/10/4/22704578/
+- [The Verge] Android 12 review: it’s mostly about the looks. There are a just a few noteworthy features in this design-focused update -- https://www.theverge.com/22708720/android-12-review-features-pixel-update-software
+- [YouTube / This is Tech Today] photos & ideos taken by the Google Pixel 6 -- https://www.youtube.com/watch?v=zJObO4TM08E
+- [Les Numériques] Le Realme GT Neo 2 pourrait finalement sortir en Europe, et on a une idée de son prix -- https://lesnumeriques.com/telephone-portable/-n169421.html
+- [CNET France] Samsung Galaxy Z Fold 3 et Z Flip 3, le succès est au rendez-vous ?. Les ventes en Corée du Sud auraient dépassé 1 million d'unités -- https://www.cnetfrance.fr/news/samsung-galaxy-z-fold-3-et-z-flip-3-le-succes-est-au-rendez-vous-39930221.htm
+- [Les Numériques] Samsung apporte la RAM virtuelle (RAM Plus) à son Galaxy Z Fold 3 -- https://lesnumeriques.com/telephone-portable/-n169417.html
+- [VideoCardz] Samsung Exynos 2200 with ray tracing support. The upcoming chip for Samsung Galaxy S and A 2022 series will feature ray tracing acceleration -- https://videocardz.com/newz/samsung-confirms-its-next-gen-exynos-soc-with-amd-rdna2-gpu-will-support-ray-tracing
+- [AnandTech] The Apple A15 SoC Performance Review: Faster & More Efficient -- https://www.anandtech.com/show/16983/
+- [Les Numériques] iPhone 13 Pro : le taux de rafraîchissement de 120 Hz s'adapte… à vos gestes -- https://lesnumeriques.com/telephone-portable/-n169391.html
+- [Les Numériques] Donald Trump porte plainte pour récupérer son compte Twitter -- https://lesnumeriques.com/vie-du-net/-n169411.html
+- [Les Numériques] Les jeunes Français très présents sur les réseaux sociaux, et ce bien avant 13 ans -- https://lesnumeriques.com/vie-du-net/-n169429.html
+- [Les Numériques] Comment la gendarmerie française s'organise pour lutter contre la cybercriminalité -- https://lesnumeriques.com/pro/-a169167.html
+- [Les Numériques] Joe Biden veut créer une coalition de 30 pays contre la cybercriminalité -- https://lesnumeriques.com/vie-du-net/-n169445.html
+- [Yahoo News] Kidnapping, assassination and a London shoot-out: Inside the CIA's secret war plans against WikiLeaks -- https://news.yahoo.com/kidnapping-assassination-and-a-london-shoot-out-inside-the-ci-as-secret-war-plans-against-wiki-leaks-090057786.html
+- [Les Numériques] Netflix, Disney+, Prime Video… Les grosses sorties streaming d'octobre résumées en vidéo -- https://lesnumeriques.com/vie-du-net/-n169403.html
+- [Les Numériques] Melty+, un service SVoD de plus en France -- https://lesnumeriques.com/vie-du-net/-n169401.html
+
+
 
 
 - [Les Numériques] 
