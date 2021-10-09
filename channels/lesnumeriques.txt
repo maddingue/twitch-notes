@@ -1112,6 +1112,43 @@ pc Tattletale - Employee & Child Monitoring Software -- https://www.pctattletale
 - [Les Numériques] Melty+, un service SVoD de plus en France -- https://lesnumeriques.com/vie-du-net/-n169401.html
 
 
+--------------------------------------
+2021-10-06
+
+- [Les Numériques] Il y a 10 ans, Steve Jobs, l'icône d’Apple, nous quittait -- https://lesnumeriques.com/vie-du-net/-n169495.html
+- [CNET France] Comment la recherche du prochain Steve Jobs ruine la Silicon Valley. Le cofondateur d'Apple a changé notre façon de voir la technologie. Dix ans après sa mort, nous avons également changé notre vision de l'industrie technologique -- https://www.cnetfrance.fr/news/comment-la-recherche-du-prochain-steve-jobs-ruine-la-silicon-valley-39930281.htm
+- [Les Numériques] Epos renouvelle sa gamme de casques gaming filaires haut de gamme avec les H6PRO -- https://lesnumeriques.com/casque-gaming-micro/-n169509.html
+- [Engadget] Former Sennheiser engineer Axel Grell made a $200 pair of ANC true wireless earbuds -- https://www.engadget.com/grell-audio-tws-1-earbuds-annoucement-040050084.html
+- [The Verge] Microsoft Surface Pro 8 review: the best of both worlds. This is the best Surface Pro we’ve seen in years -- https://www.theverge.com/22709876/microsoft-surface-pro-8-review
+- [Wired] The Microsoft Surface Go 3 Is a Battery Buster -- https://www.wired.com/review/microsoft-surface-go-3/
+- [XDA Developers] Surface Laptop Studio review: The ultimate creator laptop from Microsoft -- https://www.xda-developers.com/surface-laptop-studio-review/
+- Surface Slim Pen 2 -- https://www.microsoft.com/en-us/d/surface-slim-pen-2/8tb9xw8rwc14
+- [Les Numériques] Microsoft collabore avec AMD pour intégrer des GPU mRDNA2 dans la prochaine Surface Pro X -- https://lesnumeriques.com/cpu-processeur/-n169443.html
+- [Les Numériques] Les investissements dans les start-up de semi-conducteurs atteignent des records -- https://lesnumeriques.com/pro/-n169439.html
+- [Les Numériques] Canon RF 5.2 mm F2.8L Dual Fisheye -- https://www.lesnumeriques.com/focales-fixes/canon-rf-5-2-mm-f2-8l-dual-fisheye-p65533.html
+- [Les Numériques] Canon propose une solution pour les créateurs de contenus de réalité virtuelle en 3D -- https://lesnumeriques.com/focales-fixes/-n169513.html
+- [CNET France] L'iPad Pro aurait enfin un écran OLED, mais il faudra être patient. Il faudra probablement patienter jusqu’en 2023 voire 2024, mais la version Pro de l’iPad pourrait bien recevoir un écran OLED avec un ProMotion amélioré -- https://www.cnetfrance.fr/news/l-ipad-pro-aurait-enfin-un-ecran-oled-mais-il-faudra-etre-patient-39930337.htm
+- [Les Numériques] Test Peugeot 508 PSE : dans la jungle électrique, le lion est-il mort ce soir ? -- https://www.lesnumeriques.com/voiture/peugeot-508-pse-p65443/test.html
+- [Les Numériques] Toyota Aygo X : nouveau mini crossover en approche -- https://lesnumeriques.com/voiture/-n169465.html
+
+- [Les Numériques] Panne de Facebook : pourquoi le géant a planté ? -- https://lesnumeriques.com/vie-du-net/-n169459.html
+- [Facebook] More details about the October 4 outage -- https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/
+- [CBS News / 60 Minutes] Whistleblower: Facebook is misleading the public on progress against hate speech, violence, misinformation -- https://www.cbsnews.com/news/facebook-whistleblower-frances-haugen-misinformation-public-60-minutes-2021-10-03/
+- [Ars Technica] Facebook misled investors about shrinking user base, ex-employee alleges. Complaint to SEC: Facebook mishandling of duplicate accounts was "extensive fraud." -- https://arstechnica.com/tech-policy/2021/10/facebook-misled-investors-about-shrinking-user-base-ex-employee-alleges/
+- [The Verge] Facebook runs the coward’s playbook to smear the whistleblower. The Big Tobacco playbook is underway. Also: where’s Zuck? -- https://www.theverge.com/2021/10/5/22711182/
+- [Facebook / Mark Zuckerberg] I wanted to share a note I wrote to everyone at our company -- https://www.facebook.com/zuck/posts/i-wanted-to-share-a-note-i-wrote-to-everyone-at-our-company-hey-everyone-its-bee/10113961365418581/
+
+- [VGC] The entirety of Twitch has reportedly been leaked. Source codes and user payouts among the data released in a 128GB torrent -- http://cpc.cx/w1C
+- [Eurogamer] Twitch source code leaked by anonymous hacker. Streamer payouts also leaked -- https://www.eurogamer.net/articles/2021-10-06-twitch-source-code-leaked-by-anonymous-hacker
+- [Gamekult] Un hacker aurait exposé l'intégralité de Twitch sur Internet. Code source, revenus des créateurs, projets secrets -- https://gamekult.com/actualite/-3050843469.html
+- [Twitter / Rimmy] As one of the streamers on this list - lmao no. Wish I was making that much, but even adding up all my twitch rev from the last 3 years, it's less than half what is listed -- https://twitter.com/Rimmy_Downunder/status/1445680780995280901
+
+- [New York Times] Russia to Open New Frontier in Space, Shooting First Full-Length Movie. Racing to beat NASA, an actress and a film director will blast off next month for the International Space Station, where they will film “The Challenge.” -- https://www.nytimes.com/2021/09/16/world/europe/russia-movie-space.html
+
+- [Les Numériques] Fujifilm GFX 50S II : un moyen format au gabarit réduit et au prix plus accessible -- https://lesnumeriques.com/reflex-hybride/-n167817.html
+- [Les Numériques] Test QuietComfort 45 (QC45) : l'emblématique casque Bluetooth de Bose se renouvelle (très) timidement -- https://www.lesnumeriques.com/casque-nomade/bose-quietcomfort-45-qc45-p64317/test.html
+
+
 
 
 - [Les Numériques] 
