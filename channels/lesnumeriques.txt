@@ -1149,6 +1149,51 @@ pc Tattletale - Employee & Child Monitoring Software -- https://www.pctattletale
 - [Les Numériques] Test QuietComfort 45 (QC45) : l'emblématique casque Bluetooth de Bose se renouvelle (très) timidement -- https://www.lesnumeriques.com/casque-nomade/bose-quietcomfort-45-qc45-p64317/test.html
 
 
+--------------------------------------
+2021-10-07
+
+- [Les Numériques] Twitch piraté : contenus, code source, données confidentielles, tout est exposé -- https://lesnumeriques.com/vie-du-net/-n169555.html
+- [Les Numériques] Utilisateurs de Twitch, il est temps de changer vos mots de passe -- https://lesnumeriques.com/vie-du-net/-n169573.html
+- [Twitch Blog] Updates on the Twitch Security Incident -- https://blog.twitch.tv/fr-fr/2021/10/06/updates-on-the-twitch-security-incident/
+- [Wired] A Devastating Twitch Hack Sends Streamers Reeling. The data breach apparently includes source code, gamer payouts, and more -- https://www.wired.com/story/devastating-twitch-hack-sends-streamers-reeling/
+- [Twitter / Onscreen] The Golden Kappa is not random -- https://twitter.com/onscreenlol/status/1445710153915895814
+
+- Lâm qui s'embourgeoise chez Les Nums et méprise le canapé de GK -- https://clips.twitch.tv/RamshackleSavageMonkeyFailFish-mSxMj7WuLGZOZli9
+@Lam_Hua : réponse de Puyo à ta remarque sur le canapé de GK : https://www.youtube.com/watch?v=OtGfdLAZ1AM&t=130s
+
+- Someone hijacked a Navy warship’s Facebook account so they could livestream ‘Age of Empires’ -- https://taskandpurpose.com/news/uss-kidd-facebook-account-hacked-age-of-empires/
+- [MacRumors] New AirPods Pro Firmware Enables Conversation Boost, Here's How to Turn It On -- https://www.macrumors.com/2021/10/06/airpods-pro-conversation-boost/
+- [Les Numériques] Kobo Sage/Kobo Libra 2 : les livres audio au bord de la piscine -- https://lesnumeriques.com/liseuse/-n169531.html
+- [Les Numériques] Polar annonce la version Pro de la Grit X, sa montre sportive haut de gamme -- https://lesnumeriques.com/montre-sport/-n169505.html
+- [AnandTech] Samsung Foundry to Almost Double Output by 2026 -- https://www.anandtech.com/show/16996/samsung-foundry-to-almost-double-output-by-2026
+- [AnandTech] Samsung Foundry: 2nm Silicon in 2025 -- https://www.anandtech.com/show/16995/samsung-foundry-2nm-silicon-in-2025
+- [Les Numériques] Prise en main du Surface Duo 2 : Microsoft revoit subtilement sa copie -- https://lesnumeriques.com/telephone-portable/-n169563.html
+- [XDA Developers] German retailer may bundle free Bose headphones with a Pixel 6 pre-order -- https://www.xda-developers.com/saturn-bose-pixel-6-pre-order-leak/
+- [The Verge] Halide’s latest update brings the iPhone 13 Pro’s Macro Mode to older iPhones. The closest you’ll get to cool phone macro shots without buying a new iPhone -- https://www.theverge.com/2021/10/6/22711503/
+- [The Verge] HMD’s Nokia is getting into Android tablets with the $249.99 T20. A 10.4-inch tablet with three years of security updates -- https://www.theverge.com/2021/10/6/22711065/
+
+- [Wall Street Journal] Facebook Slows New Products for ‘Reputational Reviews’ -- https://www.wsj.com/articles/facebook-slows-new-products-for-reputational-reviews-11633535983
+- [The Verge] Facebook’s whistleblower report confirms what researchers have known for years. Efforts to minimize the findings aren’t good for trust -- https://www.theverge.com/2021/10/6/22712927/
+- [Ars Technica] Algorithms shouldn’t be protected by Section 230, Facebook whistleblower tells Senate. Section 230 reform is just a start, Frances Haugen says in Senate testimony -- https://arstechnica.com/tech-policy/2021/10/algorithms-shouldnt-be-protected-by-section-230-facebook-whistleblower-tells-senate/
+- [VICE Motherboard] Uber Is Being Sued Over Its ‘Racist’ Facial Recognition Algorithm. A UK labor union is taking Uber to court after one of its members was fired for failing two of Uber’s facial recognition checks -- https://www.vice.com/en/article/xgxnm3/uber-is-being-sued-over-its-racist-facial-recognition-algorithm
+- [Les Numériques] Google abandonne son projet fintech Plex -- https://lesnumeriques.com/pro/-n169385.html
+- [The Verge] Verge Tech Survey 2021. After a year of the pandemic, we asked Americans if their trust in big tech companies has changed — and if the biggest ones should be broken up -- https://www.theverge.com/2021/10/6/22702798/
+- [Les Numériques] À Orléans, des détecteurs de sons anormaux pour épauler la vidéosurveillance -- https://lesnumeriques.com/vie-du-net/-n169553.html
+- [AP] Groups say gunshot detection systems unreliable, seek review -- https://apnews.com/article/chicago-police-crime-shootings-be9e44796bd7e6e3c94108c5e3905ede
+- [Les Numériques] Yubico lance les premières YubiKeys avec authentification biométrique -- https://lesnumeriques.com/vie-du-net/-n169541.html
+- [Les Numériques] Des membres d’un gang de ransomwares interpellés en Ukraine -- https://lesnumeriques.com/vie-du-net/-n169561.html
+- [Les Numériques] Disney+ : avez-vous remarqué que certains films Marvel étaient absents du catalogue ? -- https://lesnumeriques.com/vie-du-net/-n169461.html
+- [Gamekult] Shawn Layden explique pourquoi PlayStation a commencé à sortir des jeux sur PC -- https://gamekult.com/actualite/-3050843437.html
+- [Gamekult] Test : la Switch Modèle OLED, un écran presque parfait -- https://gamekult.com/actualite/-3050843459.html
+- [Gamekult] La Switch OLED est à la rédac' : verdict en vidéo sur l'intérêt de ses nouveautés -- https://www.gamekult.com/emission/-3050843475.html
+- [Wired] Review: Nintendo Switch OLED. Sure, the improved 7-inch screen is pretty great. But it's the revamped kickstand that makes this handheld shine -- https://www.wired.com/review/nintendo-switch-oled/
+- [Gamekult] Valve nous offre un aperçu des entrailles du Steam Deck dans un tutoriel vidéo -- https://gamekult.com/actualite/-3050843501.html
+- [Les Numériques] Test WD My Passport SSD 1 To : un SSD portable design, léger et très rapide -- https://www.lesnumeriques.com/disque-dur-externe/western-digital-my-passport-ssd-1-to-p65389/test.html
+- [Les Numériques] Tuto – Comment installer facilement Windows 11 -- https://lesnumeriques.com/appli-logiciel/-a169515.html
+- [Les Numériques] Prise en main du Lexus NX : le SUV hybride aux grandes ambitions -- https://lesnumeriques.com/voiture/-n169287.html
+- [YouTube / Les Numériques] iPhone 13 : notre verdict sur toute la gamme -- https://www.youtube.com/watch?v=HETEwXESyx8
+
+
 
 
 - [Les Numériques] 
