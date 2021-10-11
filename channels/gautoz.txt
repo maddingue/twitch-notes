@@ -7804,6 +7804,52 @@ gautoz => at0mium => 1tlau.
 
 
 gautoz => dazjdm => kenb0gard => titavion -> pinde => angledroit => misterjday
+cbw-on-premise/ Procyon Studio → cbw-on-premise/
+
+--------------------------------------
+2021-10-11
+
+- 🇺🇸 [VGC] Nintendo says Switch’s Joy-Cons have been improved to combat drift. Switch OLED and older models now include the “latest version” of the analogue sticks → http://cpc.cx/w3A
+
+- 🇫🇷 [Gamekult] GTA : Rockstar Games annonce les remasters de la trilogie PS2 sur toutes les plateformes. La compilation sortira "bientôt" → https://gamekult.com/actualite/-3050843573.html
+
+- 🇫🇷 [Gamekult] Producteur de Bloodborne, Masaaki Yamagiwa rebondit chez Team Ninja, et pose avec Shuhei Yoshida → https://gamekult.com/actualite/-3050843555.html
+
+- 🇫🇷 [Gamekult] Resident Evil 7 franchit le cap des 10 millions d'exemplaires vendus dans le monde. Nouveau record pour la série → https://gamekult.com/actualite/-3050843535.html
+
+- 🇺🇸 [Nikkei] Sony to join TSMC on new $7bn chip plant in Japan. Toyota group parts maker Denso considers signing up → http://cpc.cx/w3D
+
+- 🇫🇷 [Gamekult] PlayStation a trouvé son directeur du mobile, et il s'agit de monsieur Apple Arcade. Nicola Sebastiani a travaillé 8 ans chez Apple et 3 ans chez Ubisoft → https://gamekult.com/actualite/-3050843563.html
+
+- 🇺🇸 [Axios] Ubisoft’s “Far Cry” bet → http://cpc.cx/w3E
+- 🇺🇸 [VGC] Far Cry 7 could be more online-oriented, it’s claimed. It was previously suggested Ubisoft may take the series in a “radically different direction” → http://cpc.cx/w3F
+
+- 🇺🇸 [NewsBeezer] AVA wrote a song for a “great” PlayStation remake; Announcement in December → http://cpc.cx/w3G
+- 🐦 [Twitter] 光田康典 Yasunori Mitsuda → https://twitter.com/yasunorimitsuda
+- 🐦 [Twitter] プロキオン・スタジオ Procyon Studio → https://twitter.com/procyonstudio
+
+- 🇫🇷 [Gamekult] Apple fait à son tour appel du verdict de son procès contre Epic Games, dans l'espoir de gagner du temps → https://gamekult.com/actualite/-3050843587.html
+
+- 🇺🇸 [VGC] Review: Back 4 Blood is great with friends, but solo players are Left 4 Dead. Turtle Rock attempts to Evolve the formula that made them famous, but there’s little here for single-player fans → https://videogameschronicle.com/review/back-4-blood/
+
+- 🇺🇸 [PC Gamer] New World server transfers delayed due to 'edge cases,' no transfers between regions. You get one free transfer to another server in your region → http://cpc.cx/w3H
+
+- 🇫🇷 [Millenium] Star Citizen : la couverture de la CitizenCon 2021 → https://millenium.org/news/382737.html
+
+
+:::::
+- 🇺🇸 [SteamDB] top 10 des ventes sur Steam de la semaine dernière → https://steamdb.info/topsellers/
+
+- 🇺🇸 [VGC] Rockstar has announced Grand Theft Auto: The Trilogy – The Definitive Edition. The collection is coming to PC and consoles this year, before hitting mobiles in 2022 → http://cpc.cx/w3w
+- 🇺🇸 [VGC] GTA’s Definitive Edition remasters could cost $70, according to a retailer. Rockstar’s parent company has previously defended the new premium price model → http://cpc.cx/w3x
+
+- 🇺🇸 [Games Industry] Dutch antitrust regulator finds Apple App Store payments anti-competitive. iPhone maker ordered to make changes to in-app payment system, following investigation that began in 2019 → http://cpc.cx/w3z
+
+- 🇺🇸 [Games Industry] Jim Ryan: “I would love a world where hundreds of millions enjoy our games”. The PlayStation president and CEO sets out his hopes for a more ubiquitous, limitless games industry → http://cpc.cx/w3C
+- 🇺🇸 [VGC] Jim Ryan says he’s ‘frustrated’ PlayStation’s games can’t reach more players. SIE boss makes surprising comments on the console model reach → http://cpc.cx/w3B
+
+raids : gautoz => camilleunknown => fakhear => bakared_ => maxadrums
+        gautoz => chezguile
 
 
 
