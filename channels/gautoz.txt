@@ -7803,8 +7803,8 @@ gautoz => at0mium => 1tlau.
 - [Gamekult] Kôichi Sugiyama, le compositeur de Dragon Quest, est décédé à l'âge de 90 ans -- https://gamekult.com/actualite/-3050843497.html
 
 
-gautoz => dazjdm => kenb0gard => titavion -> pinde => angledroit => misterjday
-cbw-on-premise/ Procyon Studio → cbw-on-premise/
+gautoz => dazjdm => kenb0gard => titavion -> pinde => angledroit => misterjday.
+
 
 --------------------------------------
 2021-10-11
@@ -7848,8 +7848,49 @@ cbw-on-premise/ Procyon Studio → cbw-on-premise/
 - 🇺🇸 [Games Industry] Jim Ryan: “I would love a world where hundreds of millions enjoy our games”. The PlayStation president and CEO sets out his hopes for a more ubiquitous, limitless games industry → http://cpc.cx/w3C
 - 🇺🇸 [VGC] Jim Ryan says he’s ‘frustrated’ PlayStation’s games can’t reach more players. SIE boss makes surprising comments on the console model reach → http://cpc.cx/w3B
 
-raids : gautoz => camilleunknown => fakhear => bakared_ => maxadrums
-        gautoz => chezguile
+
+raids : gautoz => camilleunknown => fakhear => bakared_ => maxadrums => lata6683 => ericanagashima => missginadarling.
+        gautoz => chezguile.
+
+
+--------------------------------------
+2021-10-12
+
+énantiosémie \e.nɑ̃.tjɔ.se.mi\, du grec ancien ἐναντίος, enantίos (« opposé ») et σῆμα, sễma (« signe »). (Linguistique) Fait pour un mot de signifier une chose et son contraire, ambivalence de celui-ci autorisant des interprétations opposées. -- https://fr.wikipedia.org/wiki/%C3%89nantios%C3%A9mie
+
+crépuscule \kʁe.pys.kyl\ masculin, du latin crepusculum de même sens, diminutif de creper (« obscur ») soit la « petite obscurité ». Lumière incertaine ou faible qui reste après le coucher de soleil jusqu’à ce que la nuit soit entièrement tombée. -- https://fr.wiktionary.org/wiki/cr%C3%A9puscule
+
+illustrations de Ace Attorney → https://www.capcom.co.jp/amusement/capcomstore/2021/10/20.html
+
+
+- 🇫🇷 [Gamekult] Nintendo Switch Online : les jeux N64 du pack additionnel seront disponibles en 60Hz. On ignore toujours à quel prix → https://www.gamekult.com/actualite/-3050843605.html
+
+- 🇫🇷 [Gamekult] Tencent investit dans Bloober Team, qui a signé avec Take-Two. Après Konami, Bloober Team multiplie les partenaires → https://gamekult.com/actualite/-3050843581.html
+
+- 🇫🇷 [Gamekult] IO Interactive annonce un chiffre d'affaire et des bénéfices records pour l'année fiscale écoulée → https://gamekult.com/actualite/-3050843597.html
+
+- 🇫🇷 [Gamekult] Preview : Forza Horizon 5, cette fois, on y a joué !  …et on s'en remet à peine → https://www.gamekult.com/jeux/forza-horizon-5-3050884059/preview-3050843583.html
+- 🇺🇸 [VGC] Hands-On: Forza Horizon 5 takes familiar paths and Mex no apologies. Playground Games’ latest plays to the series’ strengths → https://www.videogameschronicle.com/features/hands-on-forza-horizon-5/
+
+- 🇫🇷 [Gamekult] Légendes Pokémon Arceus : un monde finalement pas si ouvert ? Une structure plus proche de Monster Hunter que de Breath of the Wild → https://gamekult.com/actualite/-3050843589.html
+
+- 🇺🇸 [Games Industry] Metroid Dread | Critical Consensus.  Critics agree Samus Aran's return is engaging to play through but the challenge can be a bit frustrating at times → http://cpc.cx/w48
+- 🇺🇸 [VGC] Metroid Dread enjoys the series’ biggest ever launch in the UK. Switch instalment is off to a strong start in the boxed sales chart → http://cpc.cx/w47
+
+- 🇫🇷 [Gamekult] Monster Hunter Rise : Capcom confirme l'absence de cross-play et de cross-save entre la Switch et le PC → https://gamekult.com/actualite/-3050843617.html
+
+- 🇺🇸 [Games Industry] California DFEH accused of ethics violations in Activision Blizzard lawsuit. A crossover of lawyers on two different cases could be a legal conflict of interest → http://cpc.cx/w49
+
+- 🇫🇷 [Gamekult] Sony revient avec la conférence japonaise Play! Play! Play! le 16 octobre. Elden Ring, Horizon : Forbidden West et Dragon Quest X à l'affiche → https://gamekult.com/actualite/-3050843595.html
+
+
+:::::
+- 🇫🇷 [Gamekult] Raw Fury signe un partenariat avec dj2 Entertainement, le studio faiseur d'adaptations. Sans préciser quels jeux seront concernés → https://gamekult.com/actualite/-3050843611.html
+- 🇫🇷 [Gamekult] Les classiques de Star Wars arrivent en boîte sur PS4 et Switch. Aspyr met ses remasters en boîte → https://gamekult.com/actualite/-3050843603.html
+
+
+raids : gautoz => canardpc => ultia => maechi_ => farore => noom
+
 
 
 
