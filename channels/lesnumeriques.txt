@@ -1194,6 +1194,45 @@ pc Tattletale - Employee & Child Monitoring Software -- https://www.pctattletale
 - [YouTube / Les Numériques] iPhone 13 : notre verdict sur toute la gamme -- https://www.youtube.com/watch?v=HETEwXESyx8
 
 
+--------------------------------------
+2021-10-14
+
+- [CNET France] Unify Tech recrute deux développeurs PHP / Symfony. Pour s'améliorer, optimiser ses performances, grandir et lancer de nouveaux projets, le groupe Unify Tech, éditeur de sites CNET France, ZDnet, Gamekult et Les Numeriques recherche deux développeurs back-end PHP/Symfony en CDI. → https://www.cnetfrance.fr/news/unify-tech-recrute-un-developpeur-php-symfony-39924859.htm
+- [Daring Fireball] Apple Watch Series 7 → https://daringfireball.net/2021/10/apple_watch_series_7
+- [The Verge] Anker announces Soundcore’s first audio glasses, priced at $200. Coming in November with 10 styles of frames to pick from → https://www.theverge.com/2021/10/13/22713183/
+- [Les Numériques] L’emblématique enceinte Zeppelin de Bowers & Wilkins est de retour ! → https://lesnumeriques.com/platine-musicale-serveur-audio/-n169213.html
+- Bose SoundLink Flex Bluetooth® speaker, 150 $ → https://www.bose.com/en_us/products/speakers/portable_speakers/soundlink-flex.html
+- [Les Numériques] Acer renouvelle sa gamme d'ordinateurs portables Chromebooks : du petit prix sous Arm et des modèles sous Core i7 → https://lesnumeriques.com/ordinateur-portable/-n169813.html
+- [Twitter / Ross Young] Panel suppliers are the same between the iPad Pro's and MacBook Pro's - LG Display and Sharp → https://twitter.com/DSCCRoss/status/1447967377426165765
+- [Ncase] Farewell M1 Classic → https://ncases.com/blogs/news/farewell-m1-classic
+- [Drop] Drop Paragon Series Moon Shot Keyboard → https://drop.com/buy/drop-paragon-series-moon-shot-keyboard
+- [The Verge] Facebook execs tease VR prototype hardware with new photos. Zuckerberg looking at the future of the metaverse → https://www.theverge.com/2021/10/13/22724876/
+- [UploadVR] Mark Zuckerberg Teases ‘Retina Resolution’ Prototype VR Headset From Facebook → https://uploadvr.com/mark-zuckerberg-facebook-retina-resolution-vr-headset/
+- [YouTube / AMD] AMD Ryzen™ Processors: 5 Years Later → https://www.youtube.com/watch?v=yE9PsKWYYXA
+- [XDA Developers] AMD’s AM5 platform will launch in 2022 with support for DDR5 and PCIe 5.0 → https://www.xda-developers.com/amds-am5-platform-will-launch-in-2022-with-support-for-ddr5-and-pcie-5-0/
+- [XDA Developers] Nvidia GeForce RTX 3090 Ti said to launch with 450W TDP and a new power connector → https://www.xda-developers.com/nvidia-geforce-rtx-3090-ti-said-to-launch-with-450w-tdp-and-a-new-power-connector/
+- [XDA Developers] OnePlus will launch the OnePlus 9 RT with OxygenOS 12 based on Android 12 later this year → https://www.xda-developers.com/oneplus-will-launch-oneplus-9-rt-later-this-year/
+- [Les Numériques] Nothing laisse entrevoir son futur dans la mobilité → https://lesnumeriques.com/telephone-portable/-n169807.html
+- [Les Numériques] Fujifilm Instax Link Wide : une imprimante instantanée grand format → https://lesnumeriques.com/imprimante-photo-portable/-n169843.html
+- [Les Numériques] GoPro Hero10 Black et problème de surchauffe : une mise à jour firmware est promise → https://lesnumeriques.com/action-cam/-n169809.html
+- [CNET France] Annonces DJI : Action 2, Mavic 3, à quoi s'attendre ? DJI a décidé d’illuminer cette fin d’année avec pas moins de trois événements et annonces produits pour le mois à venir, dont un très mystérieux → https://www.cnetfrance.fr/news/annonces-dji-action-2-mavic-3-a-quoi-s-attendre-39930639.htm
+- [Les Numériques] Test Netgear EX3110, le répéteur wifi basique → https://www.lesnumeriques.com/repeteurs-wi-fi/netgear-ex3110-p65467/test.html
+- [Les Numériques] Test Sony FE 70-200mm F2.8 GM OSS II : le télézoom idéal → https://www.lesnumeriques.com/zooms/sony-fe-70-200-mm-f2-8-gm-oss-ii-p65511/test.html
+- [Les Numériques] Fibre optique : la France en passe d'atteindre ses objectifs → https://lesnumeriques.com/fournisseur-acces-internet/-n169735.html
+- [Les Numériques] Juste avant son entrée en Bourse, OVHcloud tombe en panne → https://lesnumeriques.com/pro/-n169827.html
+- [Twitter Safety] rolling out to everyone on the web → https://twitter.com/TwitterSafety/status/1447630725746987013
+- [Les Numériques] Unfollow Everything, l'outil qui permet de ne plus rien suivre sur Facebook, a été banni → https://lesnumeriques.com/vie-du-net/-n169633.html
+- [ZDNet France] Taxe GAFA : 136 pays parviennent à un accord pour une taxation internationale. L'accord sur une taxation internationale de 15 %, pour lutter contre l'évasion fiscale des multinationales, et notamment des GAFAM, devrait entrer en vigueur dès 2023 → https://www.zdnet.fr/actualites/taxe-gafa-136-pays-parviennent-a-un-accord-pour-une-taxation-internationale-39930495.htm
+- [Les Numériques] Aux Pays-Bas, les règles de l'App Store jugées anticoncurrentielles par l'autorité de la concurrence → https://lesnumeriques.com/vie-du-net/-n169613.html
+- [Les Numériques] France 2030 : le plan d'Emmanuel Macron pour "réconcilier start-up et industrie" → https://lesnumeriques.com/pro/-n169769.html
+- [Les Numériques] Des films en streaming bientôt dans le TGV → https://lesnumeriques.com/vie-du-net/-n169793.html
+- [Les Numériques] Après Netflix, Disney+ étend à son tour l'augmentation de ses tarifs à tous ses abonnés → https://lesnumeriques.com/vie-du-net/-n169771.html
+- [Les Numériques] Mediawan accélère dans le streaming avec Insomnia, une plateforme dédiée à l'horreur → https://lesnumeriques.com/vie-du-net/-n169703.html
+- [CNET France] Scream : la bande-annonce du grand retour de Ghostface → https://www.cnetfrance.fr/news/scream-la-bande-annonce-du-grand-retour-de-ghostface-39930627.htm
+- [Blue Origin] William Shatner and Blue Origin’s Audrey Powers to fly on New Shepard’s 18th mission → https://www.blueorigin.com/news/shatner-powers-announced-ns18
+- [Blue Origin] Blue Origin successfully and safely completes second human flight to space and back → https://www.blueorigin.com/news/new-shepard-ns-18-mission-updates
+- [The Independant] William Shatner admits that he’s ‘terrified’ to go into space. ‘I’m terrified. I’m Captain Kirk, and I’m terrified. I’m not really terrified — yes I am,’ actor said → https://www.independent.co.uk/arts-entertainment/tv/news/william-shatner-space-jeff-bezos-b1934771.html
+
 
 
 - [Les Numériques] 
