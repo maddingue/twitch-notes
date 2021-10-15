@@ -1234,6 +1234,39 @@ pc Tattletale - Employee & Child Monitoring Software -- https://www.pctattletale
 - [The Independant] William Shatner admits that he’s ‘terrified’ to go into space. ‘I’m terrified. I’m Captain Kirk, and I’m terrified. I’m not really terrified — yes I am,’ actor said → https://www.independent.co.uk/arts-entertainment/tv/news/william-shatner-space-jeff-bezos-b1934771.html
 
 
+--------------------------------------
+2021-10-15
+
+- [Les Numériques] Déchets électroniques : une montagne de 57 millions de tonnes en 2021 → https://lesnumeriques.com/vie-du-net/-n169869.html
+- [Ars Technica] Shareholders pressure Microsoft into expanding its right-to-repair efforts. The promises are vague, but we should know more by mid-2022 → https://arstechnica.com/gadgets/2021/10/microsoft-is-evaluating-right-to-repair-options-for-xbox-and-surface-devices/
+- [I fix it] Nintendo Switch OLED Teardown: More Than Screen Deep → https://fr.ifixit.com/News/53272/nintendo-switch-oled-teardown-more-than-screen-deep
+- The Framework Laptop is now shipping → https://frame.work/
+- [Les Numériques] Pour consommer moins, Google Maps suggère l’itinéraire le plus “vert” → https://lesnumeriques.com/voiture/-n169723.html
+- [Les Numériques] La folle histoire de Williwaw, le ventilateur “français” le plus cher du monde → https://lesnumeriques.com/ventilateur/-a169717.html
+- [Twitter / Palm] Get ready #PalmCrew! We have something special we've been working on for you → https://twitter.com/palm/status/1447894910816952324
+- [9to5 Mac] Apple hires new HomePod Software Lead amid rumors of new Home devices → https://9to5mac.com/2021/10/14/apple-hires-new-homepod-software-lead-amid-rumors-of-new-home-devices/
+- [Les Numériques] HTC présente le Vive Flow, un casque de réalité virtuelle ultra-compact → https://lesnumeriques.com/casque-realite-virtuelle/-n169861.html
+- [Les Numériques] Labo – Le point sur les performances de Windows 11 : démarrage, sortie de veille et performances à la loupe → https://lesnumeriques.com/appli-logiciel/-n169601.html
+- [Les Numériques] Realme 8i : un écran 120 Hz et un tarif sous les 200 € → https://lesnumeriques.com/telephone-portable/-n169865.html
+- [Mirrorless Rumors] CRAZY: Nikon patented two f/1.2 zooms! Check out the specs and images here… → https://www.mirrorlessrumors.com/crazy-nikon-patented-two-f-1-2-zooms-check-out-the-specs-and-images-here/
+- [Les Numériques] Voiture : faut-il se rabattre sur l'occasion face à la crise des semi-conducteurs ? → https://lesnumeriques.com/voiture/-n169859.html
+- [Les Numériques] Test Carte microSD Kingston Canvas React Plus UHS-II 128 Go : il va être difficile de trouver plus rapide → https://www.lesnumeriques.com/carte-micro-sd/kingston-canvas-react-plus-uhs-ii-128-go-p65489/test.html
+- [Les Numériques] ⚖️ Face à face : Apple iPhone 13 Pro Max vs Samsung Galaxy S21 Ultra → https://www.lesnumeriques.com/telephone-portable/face-a-face/61453-60959.html
+- [Le Figaro] Facebook : une autre lanceuse d'alerte, Sophie Zhang, va témoigner face au Parlement britannique → https://www.lefigaro.fr/secteur/high-tech/facebook-une-autre-lanceuse-d-alerte-sophie-zhang-va-temoigner-face-au-parlement-britannique-20211014
+- [The Guardian] How Facebook let fake engagement distort global politics: a whistleblower's account. The inside story of Sophie Zhang’s battle to combat rampant manipulation as executives delayed and deflected → https://www.theguardian.com/technology/2021/apr/12/facebook-fake-engagement-whistleblower-sophie-zhang
+- [Engadget] Facebook is using first-person videos to train future AIs. Point-of-view data will help computers see the world as we do → https://www.engadget.com/facebook-ego4d-computer-vision-124759649.html
+- [Les Numériques] En Inde, Amazon aurait copié des produits et promu artificiellement ses propres marques → https://lesnumeriques.com/vie-du-net/-n169897.html
+- [ZDNet France] Quand les cybercriminels utilisent les applications de rencontre pour gagner des millions. Plus de 1,4 million de dollars ont été volés à des victimes par le biais d'une arnaque liée aux cryptomonnaies et perpétrée par le biais d'applications de rencontre → https://www.zdnet.fr/actualites/quand-les-cybercriminels-utilisent-les-applications-de-rencontre-pour-gagner-des-millions-39930715.htm
+- [Les Numériques] 35 millions de dollars volés grâce à une voix clonée par IA → https://lesnumeriques.com/vie-du-net/-n169913.html
+- PrivacyTests.org → https://privacytests.org/
+- [CNET France] Netflix : l'anime culte Cowboy Bebop bientôt disponible sur la plateforme ! Alors que l'adaptation live de Cowboy Bebop est prévue pour le 19 novembre sur Netflix, la plateforme de SVoD vient d'annoncer que la série animée originale va être elle aussi bientôt disponible ! → https://www.cnetfrance.fr/news/netflix-l-anime-culte-cowboy-bebop-bientot-disponible-sur-la-plateforme-39930735.htm
+- ZEvent, du 29 au 31 octobre 2021 → https://zevent.fr/
+- [CNBC] Virgin Galactic delays beginning of commercial spaceflights to fourth quarter 2022, stock falls 20% → https://www.cnbc.com/2021/10/14/virgin-galactic-delays-beginning-of-commercial-spaceflights-to-fourth-quarter-2022.html
+- [Les Numériques] Leonardo, le drôle de robot bipède aux bras composés d'hélices → https://lesnumeriques.com/robot/-n169795.html
+- [Les Numériques] Spur, l'effrayant chien-robot équipé d'un fusil de précision 6,5 mm → https://lesnumeriques.com/robot/-n169901.html
+
+
+
 
 - [Les Numériques] 
 - [ZDNet France] 
@@ -1264,4 +1297,6 @@ clips :
 🎥 Lâm veut vraiment manger son croissant 🥐 → https://clips.twitch.tv/HelpfulGiantFungusYee-yktHMLEAbIRJGepl
 🎥 quand Lâm parle (mal) des Nsex → https://clips.twitch.tv/AbstruseNimbleAntelopeLitty-MhYl8uCc_mo0meca
 🎥 on est d'abord des scientifiques et des journalistes → https://clips.twitch.tv/BlushingResoluteDiscCoolStoryBob-gHuRpK92cZj9Fa-s
+🎥 Lâm ouvre l'Apple Watch de Kevin → https://clips.twitch.tv/KawaiiPlacidStarlingBibleThump-zwvC8f5R_kV476wK
+🎥 Lâm ouvre aussi le bracelet de la montre de Kevin, sans aucun respect → https://clips.twitch.tv/PoisedFuriousTildeDBstyle-oOiolnA4Qw880aVm
 
