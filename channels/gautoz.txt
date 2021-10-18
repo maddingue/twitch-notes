@@ -7999,6 +7999,45 @@ L'agrypnie désigne une perte totale prolongée du sommeil, soit au cours de div
 raids : Gautoz => Kenb0gard => PapeSan
 
 
+--------------------------------------
+2021-10-18
+
+baraquer, verbe intransitif. arabe baraka, s'accroupir, d'une racine sémitique brk-, signifiant genou. S'accroupir, en parlant du chameau, du dromadaire
+
+baraquer \ba.ʁa.ke\ 1er groupe, de l'arabe baraka, « s'agenouiller ». 1. (Transitif) (Militaire) Loger ou installer dans des baraquements. 2. (Intransitif) Séjourner dans des baraquements. 3. (Pronominal) Se construire des baraques. → https://fr.wiktionary.org/wiki/baraquer
+
+baraquer, verbe. A.− Emploi trans., MILIT., vieilli. Installer un campement, des baraques à l'usage des soldats. B.− Emploi pronom. réfl. Se baraquer.S'établir dans des baraques. C.− Emploi intrans. Séjourner dans des baraquements → https://cnrtl.fr/definition/BARAQUER
+
+
+- 🇫🇷 [Gamekult] Suicide Squad : pas de gameplay mais une bande-annonce qui donne le ton → https://gamekult.com/actualite/-3050843757.html
+- 🇺🇸 [VGC] Here’s the first in-game look at Arkham dev’s Suicide Squad game. Kill the Justice League is set for release in 2022 → http://cpc.cx/w78
+
+- 🇫🇷 [Gamekult] Gotham Knights pose la menace de la Cour des Hiboux → https://gamekult.com/actualite/-3050843759.html
+- 🇺🇸 [VGC] Gotham Knights’ latest trailer focuses on the Penguin and the Court of Owls. WB Games Montreal’s action RPG is coming in 2022 → http://cpc.cx/w79
+
+- 🇫🇷 [Gamekult] GTA : La Trilogie - The Definitive Edition laisse filer ses premiers détails officiels. Des améliorations graphiques au programme, comme attendu → https://gamekult.com/actualite/-3050843751.html
+
+- 🇫🇷 [Gamekult] Le deuxième studio américain de Tencent a un nom : Team Kaiju. Financé par TiMi, le studio prépare un gros FPS multijoueur → https://gamekult.com/actualite/-3050843753.html
+- 🇺🇸 [Games Industry] Tencent-owned Team Kaiju is searching for the untapped fantasies of first-person shooters. Former Halo and Battlefield leads Scott Warner and Rosi Zagorcheva share more about TiMi Studio Group's expansion into AAA games → http://cpc.cx/w7b
+
+- 🇫🇷 [Gamekult] Animal Crossing : New Horizons détaille son ultime mise à jour gratuite mais aussi son DLC payant, le tout pour le 5 novembre → https://gamekult.com/actualite/-3050843745.html
+- 🇺🇸 [VGC] Animal Crossing is getting a $25 ‘Happy Home Paradise’ expansion next month. The DLC challenges players to build dream vacation homes for characters → http://cpc.cx/w7d
+- 🇺🇸 [Eurogamer] Animal Crossing 2.0 update release date, Brewster and other new features coming to New Horizons. When we can finally welcome the caffeine-fuelled owl - and much, much more - to our islands → http://cpc.cx/w7e
+
+- 🇫🇷 [Gamekult] Nintendo Switch Online : le pack additionnel doublera le prix de l'abonnement de base. Il faut choyer sa communauté → https://gamekult.com/actualite/-3050843747.html
+- 🇺🇸 [VGC] Switch Online’s new Expansion Pack tier will cost double at $50 / £35. The new subscription tier gains access to N64 and Genesis games, plus Animal Crossing’s expansion → http://cpc.cx/w7f
+
+- 🇺🇸 [Games Industry] Steam bans blockchain and NFT games. Age of Rust developer says Valve won't let it publish the game on Steam because NFTs have real-world value → http://cpc.cx/w7c
+- 🇺🇸 [Eurogamer] Valve bans blockchain, crypto and NFT games from Steam, but Epic is on-board → http://cpc.cx/w77
+- 🇺🇸 [Kotaku] Epic Games Store will 'welcome' NFT games after Steam bans them. Tim Sweeney once said NFTs were tangled up with an "intractable mix of scams" but now, well… → http://cpc.cx/w7a
+- 🇺🇸 [The Verge] Epic says it’s ‘open’ to blockchain games after Steam bans them. Epic has a set of rules, and will likely add more in the future → http://cpc.cx/w7g
+
+- 🇺🇸 [VGC] FIFA says it’s open to working with other developers as EA relationship fractures. The footballing giant appears to challenge EA in a new statement → http://cpc.cx/w7h
+- 🇺🇸 [Games Industry] FIFA doesn't want an exclusive license deal. Longtime EA Sports licensing partner says "it is clear that this needs to be a space that is occupied by more than one party controlling all rights" → http://cpc.cx/w7i
+
+raids : Gautoz => At0mium => SnoozInSnoozyLand => Natamaniac => adaralex => Pyrha_Nah
+
+
 
 
 - 🇺🇸 
@@ -8012,6 +8051,7 @@ raids : Gautoz => Kenb0gard => PapeSan
 - 🇺🇸 [Gematsu] 
 - 🇺🇸 [Games Industry] 
 - 🇺🇸 [Game Developer] 
+- 🇺🇸 [Eurogamer] 
 
 
 --------------------------------------------------------------------------------
