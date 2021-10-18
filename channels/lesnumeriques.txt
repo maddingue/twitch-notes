@@ -1266,6 +1266,50 @@ pc Tattletale - Employee & Child Monitoring Software -- https://www.pctattletale
 - [Les Numériques] Spur, l'effrayant chien-robot équipé d'un fusil de précision 6,5 mm → https://lesnumeriques.com/robot/-n169901.html
 
 
+--------------------------------------
+2021-10-18
+
+- [Les Numériques] Avec son distributeur automatique, Amazon nous passe un savon → https://lesnumeriques.com/objet-connecte/-n169991.html
+- [Xbox News] You Voted. Now We’re Making Your Xbox Series X “Mini Fridge” a Reality → https://news.xbox.com/en-us/2021/10/15/xbox-series-x-mini-fridge/
+- [XDA Developers] Alienware’s new Aurora desktop gaming PC is cooler and quieter → https://www.xda-developers.com/new-alienware-aurora-cooler-quieter/
+- [ZDNet France] L'armée américaine reporte la livraison des 120 000 casques HoloLens en 2022. L'accord, d'une valeur de 22 milliards de dollars, portant sur la fourniture par Microsoft à l'armée américaine de casques HoloLens est toujours d'actualité, même si l'armée a repoussé son calendrier de tests et de déploiement → https://www.zdnet.fr/actualites/l-armee-americaine-reporte-la-livraison-des-120-000-casques-hololens-en-2022-39930819.htm
+- [Twitter / Snapdragon] le tweet de Snapdragon → https://twitter.com/Snapdragon/status/1448317606365179906
+- [Frandroid] Pourquoi le tacle de Qualcomm contre Google n’est pas bienvenu → https://www.frandroid.com/marques/qualcomm/1093695_qualcomm-tacle-google-sur-twitter-avec-le-dernier-meme-a-la-mode
+- [YouTube] Breaking the Spell: Social Experiment → https://www.youtube.com/watch?v=Xp0xzapm-zY
+- PinePhone Pro → https://www.pine64.org/pinephonepro/
+- [XDA Developers] PinePhone Pro is an upgrade to the original Linux-powered smartphone for $399 → https://www.xda-developers.com/pinephone-pro-announced/
+- [Windows] Releasing Windows 11 Build 22000.282 to Beta and Release Preview Channels → https://blogs.windows.com/windows-insider/2021/10/15/releasing-windows-11-build-22000-282-to-beta-and-release-preview-channels/
+- [Les Numériques] Le SUV électrique Audi Q4 e-tron gagne une nouvelle motorisation 45 e-tron quattro → https://lesnumeriques.com/voiture/-n169979.html
+- [Les Numériques] Opel Grandland Hybrid4 : restylage numérique, mais motorisation identique → https://lesnumeriques.com/voiture/-n169777.html
+- [Engadget] Tesla debuts new car insurance that uses Texans' real-time driving behavior. It computes for premiums based on an owner's 'safety score.' → https://www.engadget.com/tesla-car-insurance-texas-real-time-driving-behavior-103501859.html
+- [CNET France] BMW CE 04, le scooter électrique futuriste en précommande. Près d'un an après que BMW ait retiré le C Evolution de son catalogue, la marque allemande revient avec un nouveau concept de mobilité urbaine, le CE 04 → https://www.cnetfrance.fr/news/bmw-ce-04-le-scooter-electrique-futuriste-en-precommande-39925865.htm
+- [Les Numériques] Test iWeech : un vélo électrique urbain, intelligent et pratique → https://www.lesnumeriques.com/velo-electrique/iweech-velo-electrique-urbain-p65423/test.html
+- [Twitch] Mises à jour sur l'incident de sécurité de Twitch → https://blog.twitch.tv/fr-fr/2021/10/15/updates-on-the-twitch-security-incident//
+- Algorithmic Perfumery → https://www.algorithmicperfumery.com/
+- à ce sujet, je vous conseille l'écoute du podcast Le code a changé, de Xavier de la Porte, sur la conception des parfums assistée par ordinateur → https://www.franceinter.fr/emissions/le-code-a-change/la-parfumeuse-ses-ecrans-et-les-robots
+- [US DoJ] Northern Michigan Man Arrested In Connection With Pipe Bombs Left At Cell Phone Stores → https://www.justice.gov/Usao-wdmi/pr/2021_0921_Allen
+- [ABC News] Man charged for allegedly planting pipe bombs outside telecommunications stores in Michigan → https://abcnews.go.com/US/man-charged-allegedly-planting-pipe-bombs-telecommunications-stores/story?id=80153939
+- [CNN] Michigan man charged for allegedly leaving pipe bombs at cell phone stores to stop the spread of cursing and pornography, Justice Department says → https://edition.cnn.com/2021/09/22/us/michigan-man-charged-pipe-bombs-cell-phone-stores/index.html
+- 🇺🇸 [Games Industry] Steam bans blockchain and NFT games. Age of Rust developer says Valve won't let it publish the game on Steam because NFTs have real-world value → http://cpc.cx/w7c
+- 🇺🇸 [Eurogamer] Valve bans blockchain, crypto and NFT games from Steam, but Epic is on-board → http://cpc.cx/w77
+- 🇺🇸 [The Verge] Epic says it’s ‘open’ to blockchain games after Steam bans them. Epic has a set of rules, and will likely add more in the future → http://cpc.cx/w7g
+- Analogue OS → https://www.analogue.co/os
+- [Les Numériques] La neuroscience à la rescousse des constructeurs automobiles pour détecter la fatigue → https://lesnumeriques.com/voiture/-n169711.html
+- [MacRumors] Future AirPods Could Monitor Body Temperature and Posture, and Work as a Hearing Aid → https://www.macrumors.com/2021/10/13/future-airpods-temperature-posture-hearing-aid/
+- [Ars Technica] Brain implant relieves patient’s severe depression in “landmark” US study. Device zaps brain when it detects neural activity associated with irrational thoughts → https://arstechnica.com/science/2021/10/brain-implant-relieves-patients-severe-depression-in-landmark-us-study/?comments=1&start=80
+- [ZDNet France] La Marine va organiser une compétition de robots maritimes. L'avenir de la suprématie maritime sera très probablement autonome. → https://www.zdnet.fr/actualites/la-marine-va-organiser-une-competition-de-robots-maritimes-39930681.htm
+- Arktype → https://www.arktypedesign.com/
+  - les porte-clés Arktype → https://www.arktypedesign.com/collections/keychains
+- [YouTube / Les Numérique] test de la Switch OLED → https://www.youtube.com/watch?v=tgOsFS3pB3g
+- [YouTube / Les Numérique] test du Xiaomi 11 T Pro → https://www.youtube.com/watch?v=2Lxa6_jcfVM
+
+
+Keynote d'Apple commentée
+📡 le stream d'Apple : https://apple.com/apple-events/event-stream/
+
+
+
+
 
 
 - [Les Numériques] 
