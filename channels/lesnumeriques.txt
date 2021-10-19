@@ -1308,6 +1308,22 @@ Keynote d'Apple commentée
 📡 le stream d'Apple : https://apple.com/apple-events/event-stream/
 
 
+--------------------------------------
+2021-10-19
+
+- [Les Numériques] Quinze niveaux de puissance sur la plaque de cuisson par induction Scholtès SOTF1610B → https://lesnumeriques.com/table-de-cuisson-a-induction/-n170067.html
+- [AnandTech] TSMC Roadmap Update: 3nm in Q1 2023, 3nm Enhanced in 2024, 2nm in 2025 → https://www.anandtech.com/show/17013/
+- [Les Numériques] Redmi Note 11 et 11 Pro : des fiches techniques en fuite et une sortie imminente → https://lesnumeriques.com/telephone-portable/-n170065.html
+- [CNET France] 4 logiciels pour convertir les fichiers audio et vidéo. Vous pouvez avoir besoin de logiciels informatiques spécifiques pour convertir le format de vos fichiers audio et vidéo : ces programmes ont été élaborés dans cette optique → https://www.cnetfrance.fr/news/4-logiciels-pour-convertir-les-fichiers-audio-et-video-39930931.htm
+- [Les Numériques] Samyang AF 24-70mm F2.8 FE : un zoom parafocal pour hybrides Sony → https://lesnumeriques.com/zooms/-n170049.html
+- [Les Numériques] Porsche vend désormais plus de modèles électriques Taycan que de la mythique 911 → https://lesnumeriques.com/voiture/-n170051.html
+
+- Apple présente l’Offre Apple Music Voice. Une expérience musicale inédite, conçue exclusivement pour Siri, pour seulement 4,99 € par mois → https://www.apple.com/fr/newsroom/2021/10/apple-introduces-the-apple-music-voice-plan/
+- [Les Numériques] Nouveaux Apple MacBook Pro 14” et 16” : design repensé, écran mini-led à encoche et performances en hausse → https://lesnumeriques.com/ordinateur-portable/-n170075.html
+- [Les Numériques] Apple M1 Pro et M1 Max : de nouveaux SoC qui s'annoncent ultra-séduisants pour les créateurs → https://lesnumeriques.com/cpu-processeur/-n170089.html
+- [AnandTech] Apple Announces M1 Pro & M1 Max: Giant New Arm SoCs with All-Out Performance → https://www.anandtech.com/show/17019/
+- [Twitter] fil de Steven Sinofsky → https://twitter.com/stevesi/status/1450255227945242628 | https://medium.learningbyshipping.com/apples-long-journey-to-the-m1-pro-chip-250309905358
+
 
 
 
