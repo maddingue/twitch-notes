@@ -1325,6 +1325,38 @@ Keynote d'Apple commentée
 - [Twitter] fil de Steven Sinofsky → https://twitter.com/stevesi/status/1450255227945242628 | https://medium.learningbyshipping.com/apples-long-journey-to-the-m1-pro-chip-250309905358
 
 
+--------------------------------------
+2021-10-20
+
+- [Les Numériques] Fit Pro : les nouveaux écouteurs de Beats pourraient sortir ce 1er novembre → https://lesnumeriques.com/intra-ecouteur-true-wireless/-n170107.html
+- [The Verge] Amazon Music can now play spatial audio on your favorite headphones. Spatial audio is the buzziest music streaming feature of 2021 → https://www.theverge.com/2021/10/19/22734261/
+- [Nikkei Asia] China's Oppo joins race to develop own smartphone chips. China's top handset maker looks to use TSMC's cutting-edge 3-nm tech → https://asia.nikkei.com/Business/Tech/Semiconductors/China-s-Oppo-joins-race-to-develop-own-smartphone-chips
+- [Les Numériques] Vivo dévoile les Y33s, Y21s et Y21, trois smartphones pour occuper le marché de l’entrée de gamme → https://lesnumeriques.com/telephone-portable/-n170117.html
+- [Les Numériques] Fisher-Price : le téléphone à roulettes de notre enfance n'est plus un jouet → https://lesnumeriques.com/vie-du-net/-n170127.html
+- [Les Numériques] Pixel 6 et 6 Pro : les “flagship killers” de Google → https://lesnumeriques.com/telephone-portable/-n170135.html
+- [The Verge] Spec showdown: Google’s new Pixel 6 vs. Samsung, Apple, and more. Here’s how Google’s specs stack up against the competition → https://www.theverge.com/2021/10/19/22735208/
+- [Engadget] The Pixel 6 vs. the competition: The Tensor chip goes up to bat → https://www.engadget.com/google-pixel-6-vs-the-competition-iphone-12-galaxy-s21-171553646.html
+- [Ars Technica] The “Google Silicon” team gives us a tour of the Pixel 6’s Tensor SoC. Learn more about the Google Tensor from the people that designed it → https://arstechnica.com/gadgets/2021/10/the-google-silicon-team-gives-us-a-tour-of-the-pixel-6s-tensor-soc/
+- [Engadget] Google details the Pixel 6's unique Tensor chip. It's ready to go toe-to-toe with flagship mobile CPUs → https://www.engadget.com/google-tensor-soc-pixel-6-chip-170059466.html
+- [Nikkei Asia] Google aims to double smartphone output with new Pixel 6. U.S. tech giant bets it can woo users with in-house chips, better camera and security promises → https://asia.nikkei.com/Business/Technology/Google-aims-to-double-smartphone-output-with-new-Pixel-6
+- [XDA Developers] Google Pixel Stand 2nd Gen comes with a built-in fan and fast-charging support → https://www.xda-developers.com/google-pixel-stand-2nd-gen-built-in-fan-fast-charging-support/
+- [Les Numériques] Pixel 6 et 6 Pro : un casque Bose HP700 offert avec les précommandes → https://lesnumeriques.com/telephone-portable/-n170141.html
+- [Les Numériques] Deco XE75 et XE200 : TP-Link se positionne à son tour sur les systèmes wifi 6E mesh → https://lesnumeriques.com/repeteurs-wi-fi/-n170077.html
+- [Les Numériques] Starlink : nous avons testé l'Internet par satellite d'Elon Musk et de SpaceX → https://lesnumeriques.com/fournisseur-acces-internet/-a169765.html
+- [Les Numériques] Kawasaki met les gaz sur l'électrique et l'hybride → https://lesnumeriques.com/moto/-n170143.html
+- [Les Numériques] Test Asus TUF VG28UQL1A : un moniteur de jeu 28 pouces Ultra HD taillé pour les Xbox Series et PS5 → https://www.lesnumeriques.com/moniteur-ecran-lcd/asus-tuf-vg28uql1a-p65655/test.html
+- [Les Numériques] Labo – Philips 55OLED856 : un pic de luminosité retrouvé → https://lesnumeriques.com/tv-televiseur/-n170083.html
+- [Les Numériques] Labo – Les très bons débits de ProtonVPN avec WireGuard → https://lesnumeriques.com/vpn/-n170123.html
+- [The Verge] Facebook is planning to rebrand the company with a new name. Mark Zuckerberg wants to be known for building the metaverse → https://www.theverge.com/2021/10/19/22735612/
+- [Les Numériques] La communication de Facebook autour du metaverse se poursuit en Europe → https://lesnumeriques.com/pro/-n170043.html
+- [ZDNet France] ZD Tech : Comment le QR code est devenu indispensable en France. Si vous avez votre pass sanitaire, vous avez probablement une petite idée de ce qu’est un QR code : c’est ce que vous présentez au serveur en terrasse pour commander un verre. Mais comment ce dérivé du code-barres s’est-il retrouvé sur les écrans de smartphones des Français ? → https://www.zdnet.fr/actualites/zd-tech-comment-le-qr-code-est-devenu-indispensable-en-france-39930941.htm
+- [The Verge] UK schools are using facial recognition to take pupils’ lunch money. The slow normalization of facial recognition continues → https://www.theverge.com/2021/10/18/22732330/
+- [US DoJ] California Man Known As “icloudripper4you” Pleads Guilty To Hacking Into Hundreds Of Apple iCloud Accounts And Stealing Nude Photographs And Images → https://www.justice.gov/usao-mdfl/pr/california-man-known-icloudripper4you-pleads-guilty-hacking-hundreds-apple-icloud
+- [Les Numériques] Les musées de Vienne s’invitent sur OnlyFans pour contrer la censure pudibonde des réseaux sociaux → https://lesnumeriques.com/vie-du-net/-n170101.html
+- 📺 [YouTube] Steam Deck: Introducing Deck Verified → https://youtu.be/_OAqvtlgfGA
+- 🇫🇷 [Gamekult] Steam Deck : Valve explique comment savoir si un jeu est compatible avec l'appareil. Un système de vignettes sera mis en avant → https://gamekult.com/ac
+tualite/-3050843801.html
+
 
 
 
