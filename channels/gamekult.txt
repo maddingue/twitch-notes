@@ -13787,11 +13787,26 @@ compte de l'épisode 2 : 5 morts, 1 retour au menu d'options, 21 EUH!!, 12 excla
 compte de l'épisode 3 : 8 morts, 1 retour au menu d'options, 16 EUH!!!, 12 exclamations diverses
 compte de l'épisode 4 : aucune mort, 19 EUH!!!, 5 exclamations diverses, 1 excuse de sac
 
-nombre de morts : 0
+nombre de morts : 4
 retour au menu d'options : 0
 refus de sauvegarde : 0
-nombre de EUH!!! : 0
-nombre d'exclamations diverses : 0
+nombre de EUH!!! : 18
+nombre d'exclamations diverses : 7
+
+compte de l'épisode 6 : 4 morts, 18 EUH!!!, 7 exclamations diverses, 3 excuses de sac
+
+excuses de sac :
+- j'étais trop reculé, je voyais pas ma vie (Hubert)
+- je comprends pas ! on voit pas trop ! (Hubert)
+- j'appuyais sur la touche, mais j'étais en train de viser (Hubert)
+
+
+--------------------------------------
+2021-10-21 - Demon Slayer - The Hinokami Chronicles
+
+Demon Slayer - The Hinokami Chronicles
+🎮 xxx
+⌨️ 🖱️ xxx
 
 
 📅 le programme de la semaine → http://cpc.cx/w3S
@@ -13804,14 +13819,6 @@ nombre d'exclamations diverses : 0
 🎂 Retour sur 20 ans de GTA
 ⚔️ Le Père Fidalbion mène l'enquête sur le jeu officiel Le Puy du Fou
 🚀 Noddus a relancé Starbound
-
-
---------------------------------------
-2021-10-21 - Demon Slayer - The Hinokami Chronicles
-
-Demon Slayer - The Hinokami Chronicles
-🎮 xxx
-⌨️ 🖱️ xxx
 
 
 --------------------------------------
