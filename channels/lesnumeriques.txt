@@ -1358,6 +1358,77 @@ Keynote d'Apple commentée
 tualite/-3050843801.html
 
 
+--------------------------------------
+2021-10-21
+
+- [Les Numériques] Le Dyad, l'aspirateur-laveur multitâche de Roborock → https://lesnumeriques.com/nettoyeur-sol/-n170103.html
+- [Les Numériques] Leroy Merlin s'aventure sur le créneau du rachat et de la vente d'outils d'occasion → https://lesnumeriques.com/perceuse-visseuse/-n170175.html
+- [Les Numériques] Le Pixel Pass existe bien (mais pas en France) → https://lesnumeriques.com/telephone-portable/-n170187.html
+- [Microsoft Windows] Introducing Android™ Apps on Windows 11 to Windows Insiders → https://blogs.windows.com/windows-insider/2021/10/20/introducing-android-apps-on-windows-11-to-windows-insiders/
+- [Les Numériques] DxO Photolab 5 : plus rapide, FilmPack 6 et la compatibilité avec les appareils Fujifilm → https://lesnumeriques.com/developpement-photo/-n170147.html
+- [Les Numériques] Sigma 18-50mm F2.8 DC DN : un zoom au format APS-C compact et léger → https://lesnumeriques.com/zooms/-n170181.html
+- DJI Ronin 4D → https://www.dji.com/fr/ronin-4d
+- DJI Ronin 4D - Caractéristiques techniques → https://www.dji.com/fr/ronin-4d/specs
+- [Les Numériques] MacBook Pro 2021 : Apple invite les développeurs à prendre en considération l'encoche → https://lesnumeriques.com/ordinateur-portable/-n170137.html
+- [MacGénération] Notch Pro, une app pour avoir une encoche sur son Mac comme un pro → https://www.macg.co/galerie/2021/10/notch-pro-une-app-pour-avoir-une-encoche-sur-son-mac-comme-un-pro-124781
+- [Raspberry Pi] Supply chain, shortages, and our first-ever price increase → https://www.raspberrypi.com/news/supply-chain-shortages-and-our-first-ever-price-increase/
+- [Les Numériques] Voiture électrique : vers une prolongation du bonus écologique de 6000 € ? → https://lesnumeriques.com/voiture/-n170185.html
+- [CNBC] Tesla posts record revenue and profits in third quarter. Tesla reported third-quarter earnings after the bell Wednesday, and it’s a beat on both the top and bottom lines. The record results were driven by improved gross margins of 30.5% on its automotive business and 26.6% overall, both of which are records for at least the last five quarters. The company’s stock dropped less than a point after hours on the results → https://www.cnbc.com/2021/10/20/tesla-tsla-earnings-q3-2021.html
+- [Segway] Ninebot Mecha Kit, à partir de 500 USD → https://store.segway.com/ninebot-mecha-kit
+- [Engadget] Instagram will finally let you create posts on the desktop. You can also collaborate on posts → https://www.engadget.com/instagram-desktop-web-post-creation-and-collabs-150032945.html
+- [Reuters] Former U.S. president Donald Trump launches 'TRUTH' social media platform → https://www.reuters.com/world/us/former-us-president-donald-trump-launches-new-social-media-platform-2021-10-21/
+- [Les Numériques] Pas d'annulation du rachat de Giphy, mais une amende pour Facebook → https://lesnumeriques.com/vie-du-net/-n170201.html
+- [CNBC] Facebook settles claims it discriminated against U.S. workers for some jobs in favor of temporary visa holders → https://www.cnbc.com/2021/10/19/facebook-settles-claims-it-discriminated-against-us-workers-for-jobs.html
+- [Engadget] Sen. Blumenthal says Zuckerberg needs to testify about Instagram and kids. Blumenthal said that it's 'urgent and necessary' for Zuckerberg or Adam Mosseri to appear → https://www.engadget.com/senator-blumenthal-says-zuckerberg-needs-to-testify-about-instagram-and-kids-194805814.html
+- [Politico] The tech billionaire aiding the Facebook whistleblower. Support from eBay-founder-turned-tech-critic Pierre Omidyar is helping Frances Haugen take on one of the world's most powerful companies → https://www.politico.com/news/2021/10/20/tech-billionaire-aiding-facebook-whistleblower-516358
+- The Intercept → https://theIntercept.com/
+- Omidyar Network → https://omidyar.com/
+- [ZDNet France] Revil tire (encore) sa révérence. Le groupe a refait surface il y a quelques semaines après avoir fermé boutique en juillet, ce qui laisse les chercheurs sceptiques quant à cette dernière fermeture → https://www.zdnet.fr/actualites/revil-tire-encore-sa-reverence-39930995.htm
+- [Les Numériques] Les données d'identité de tous les Argentins en vente sur le darknet → https://lesnumeriques.com/vie-du-net/-n170171.html
+- [Les Numériques] Au lycée, le numérique et les sciences informatiques peinent encore à attirer les filles → https://lesnumeriques.com/vie-du-net/-n168711.html
+- [Les Numériques] Le cours du bitcoin atteint de nouveaux records → https://lesnumeriques.com/pro/-n170195.html
+- [Les Numériques] Facebook lance une version pilote de son portefeuille numérique Novi → https://lesnumeriques.com/pro/-n170157.html
+- [Les Numériques] Porté par Squid Game, Netflix a fait mieux que prévu au troisième trimestre → https://lesnumeriques.com/vie-du-net/-n170177.html
+- [Les Numériques] Streaming, jeux vidéo, applis : la garantie légale de conformité va couvrir les biens numériques → https://lesnumeriques.com/vie-du-net/-n170111.html
+- nouvelle annonce de retard des jeux CD Projekt Red → https://twitter.com/CDPROJEKTRED/status/1450845753996455944
+- [Gamekult] Le God of War de 2018 sortira sur PC le 14 janvier 2022. Oh BOY → https://gamekult.com/actualite/-3050843883.html
+- [The Verge] Scientists took the first steps toward pig-to-human kidney transplants. It’s a major scientific breakthrough → https://www.theverge.com/2021/10/20/22736241/
+
+
+--------------------------------------
+2021-10-22
+
+- [ZDNet France] Calculatrice graphique NumWorks : Oui, les calculatrices existent toujours, et elles fonctionnent avec Python. Si vous êtes un étudiant en informatique ou en mathématique, cette calculatrice peut s'avérer très utile. Car oui, les calculatrices existent encore. Retour, pour les nostalgiques, sur la grande époque des calculatrices graphiques → https://www.zdnet.fr/guide-achat/calculatrice-graphique-numworks-oui-les-calculatrices-existent-toujours-et-elles-fonctionnent-avec-python-39931157.htm
+- [Les Numériques] Home Potager : la main verte toute l’année avec le Kit Mini → https://lesnumeriques.com/objet-connecte/-n170183.html
+- [CNET France] Ventes de smartphones Q3 2021 : Apple en deuxième position, mais devant Xiaomi d'après Canalys. Apple remonte dans le classement des meilleurs vendeurs de smartphones ce dernier trimestre. La firme à la pomme demeure malgré tout derrière Samsung → https://www.cnetfrance.fr/news/ventes-de-smartphones-q3-2021-apple-en-deuxieme-positon-et-devant-xiaomi-d-apres-canalys-39931145.htm
+- [XDA Developers] Microsoft Surface Duo 2 review: Productivity powerhouse, this time with a decent camera → https://www.xda-developers.com/microsoft-surface-duo-2-review/
+- [Engadget] Surface Duo 2 review: Microsoft's second dual-screen hybrid is a letdown. Despite some improvements, the Duo is still plagued by unreliable software → https://www.engadget.com/microsoft-surface-duo-2-review-camera-sample-specs-glance-bar-130004036.html
+- [Les Numériques] Canon attaqué en justice pour la désactivation du scanner de ses imprimantes lorsqu'elles n'ont plus d'encre → https://lesnumeriques.com/imprimante/-n170223.html
+- [Les Numériques] Sony Alpha 7 IV (A7 IV) : capteur 24x36 de 33 mégapixels, autofocus revu et vidéo survitaminée → https://lesnumeriques.com/reflex-hybride/-n170209.html
+- [DP Review] Sony a7 IV initial review → https://www.dpreview.com/reviews/sony-a7-iv-initial-review
+- [Les Numériques] Windows 11 : Microsoft et AMD règlent les problèmes de performances des Ryzen → https://lesnumeriques.com/cpu-processeur/-n170279.html
+- Razer Hanbo Chroma → https://www.razer.com/gaming-pc-accessories/razer-hanbo-chroma
+- Razer Zephy - restez durablement en interaction tout en étant en sécurité → https://www.razer.com/fr-fr/gear-accessories/razer-zephyr
+- [Engadget] The new 16-inch MacBook Pro offers a speed-enhancing 'High Power Mode'. You'll need an M1 Max to take advantage of it, though → https://www.engadget.com/apple-16-inch-macbook-pro-high-power-mode-m1-max-232408937.html
+- [Les Numériques] Nissan Leaf : son successeur sera un crossover électrique → https://lesnumeriques.com/voiture/-n170205.html
+- [Les Numériques] Comparatif des moniteurs : tout change pour plus de précision dans la notation → https://lesnumeriques.com/moniteur-ecran-lcd/-n170231.html
+- [Les Numériques] Test Huawei MatePad T 10s : une tablette d'entrée de gamme qui peine à convaincre → 
+- [Les Numériques] Test Yeedi Mop Station : un robot laveur de sol pas comme les autres → https://www.lesnumeriques.com/robot-laveur-sol/yeedi-mop-station-p64729/test.html
+- [Les Numériques] Test Sony Alpha 7 IV (A7 IV) : le mélange parfait entre photo et vidéo ? → https://www.lesnumeriques.com/reflex-hybride/sony-alpha-7-iv-a7-iv-p56661/test.html
+- [Les Numériques] Truth Social, le nouveau réseau social de Donald Trump, sera lancé en 2022 → https://lesnumeriques.com/vie-du-net/-n170235.html
+- [VICE Motherboard] Trump Wants to Build a ‘Non-Cancelable’ Internet for Conservatives. The Trump Media & Technology Group’s pitch reveals the perceived existential threat many conservatives and Trump specifically think they are facing online → https://www.vice.com/en/article/k7wegw/trump-wants-to-build-a-non-cancelable-internet-for-conservatives
+- [VICE Motherboard] Mastodon's Founder Says Trump's New Social Network Is Just Mastodon. 'Truth Social', which will launch officially later in the year, is seemingly using Mastodon's codebase without credit → https://www.vice.com/en/article/5dgm5k/truth-social-is-mastodon-trump
+- [VICE Motherboard] Trump Named His New Social Network ‘Truth’ and It’s Already a Mess. Within minutes of the platform being announced, people had found a way to register fake Donald Trump accounts → https://www.vice.com/en/article/4awgnq/trump-named-his-new-social-network-truth-and-its-already-a-mess
+- [Twitter blog] Examining algorithmic amplification of political content on Twitter → https://blog.twitter.com/en_us/topics/company/2021/rml-politicalcontent
+- [Bloomberg] Celebrities Are Sued for Posting Paparazzi Photos of Themselves → https://www.bloomberg.com/news/articles/2021-10-15/ratajkowski-dua-lipa-targeted-not-just-by-cameras-but-lawsuits
+- [The Cut] Emily Ratajkowski - Buying Myself Back When does a model own her own image? → https://www.thecut.com/article/emily-ratajkowski-owning-my-image-essay.html
+- [Los Angeles Times] This picture of Emily Ratajkowski is free to look at. But its NFT sold for $140,000 → https://www.latimes.com/entertainment-arts/story/2021-05-17/emily-ratajkowski-nft-sells-for-140000
+- instagram de Emily Ratajkowski → https://www.instagram.com/emrata/
+- [CNET France] HBO Max : sortie en France, prix, catalogue... À quoi s'attendre ? Vous cherchez des informations sur HBO Max, la plateforme de streaming SVoD qui arrive en Europe ? Sortie en France, listes de films et séries, prix... Voici tout ce qu'il faut savoir sur le nouveau concurrent de Netflix et de Disney+ ! → https://www.cnetfrance.fr/news/hbo-max-sortie-france-prix-catalogue-39931063.htm
+- [Les Numériques] Cloud gaming : Nvidia GeForce Now passe à la RTX 3080 avec une nouvelle formule d'abonnement → https://lesnumeriques.com/cloud-gaming/-n170215.html
+- [9to5 Google] AT&T confirms Stadia tech used in Arkham Knight stream, teases cloud gaming ambitions → https://9to5google.com/2021/10/21/att-confirms-stadia-arkham-knight-teases-cloud-gaming-ambitions/
+
+
 
 
 - [Les Numériques] 
