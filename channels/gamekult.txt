@@ -13708,11 +13708,22 @@ compte de l'épisode 2 : 5 morts, 1 retour au menu d'options, 21 EUH!!, 12 excla
 compte de l'épisode 3 : 8 morts, 1 retour au menu d'options, 16 EUH!!!, 12 exclamations diverses
 compte de l'épisode 4 : aucune mort, 19 EUH!!!, 5 exclamations diverses, 1 excuse de sac
 
-nombre de morts : 0
-retour au menu d'options : 0
+nombre de morts : 6
+retour au menu d'options : 1
 refus de sauvegarde : 0
-nombre de EUH!!! : 0
-nombre d'exclamations diverses : 0
+nombre de EUH!!! : 13
+nombre d'exclamations diverses : 11
+
+compte de l'épisode 5 : 6 morts, 13 EUH!!!, 11 exclamations diverses, 7 excuses de sac
+
+excuses de sac :
+- j'ai eu que des couilles techniques aujourd'hui, j'ai rien pu faire (Hubert)
+- j'étais pas passé par là à l'aller (Hubert)
+- je crois bien que je suis 2 de tens', c'est les soucis techniques qui m'ont complètement ramolli (Hubert)
+- j'me sens pas au top (Hubert)
+- au départ il veut pas, il m'interdit, du coup je perds du temps (Hubert)
+- il est chiant ce truc, il arrête pas de bouger (Virgile)
+- en plein stress, c'est compliqué (Hubert)
 
 
 --------------------------------------
@@ -13792,6 +13803,7 @@ compte de l'épisode 1 : 1 mort, 12 retours au menu d'options, 22 EUH!!, 11 excl
 compte de l'épisode 2 : 5 morts, 1 retour au menu d'options, 21 EUH!!, 12 exclamations diverses et 3 excuses de sac
 compte de l'épisode 3 : 8 morts, 1 retour au menu d'options, 16 EUH!!!, 12 exclamations diverses
 compte de l'épisode 4 : aucune mort, 19 EUH!!!, 5 exclamations diverses, 1 excuse de sac
+compte de l'épisode 5 : 6 morts, 13 EUH!!!, 11 exclamations diverses, 7 excuses de sac
 
 nombre de morts : 4
 retour au menu d'options : 0
