@@ -1408,7 +1408,7 @@ tualite/-3050843801.html
 - [DP Review] Sony a7 IV initial review → https://www.dpreview.com/reviews/sony-a7-iv-initial-review
 - [Les Numériques] Windows 11 : Microsoft et AMD règlent les problèmes de performances des Ryzen → https://lesnumeriques.com/cpu-processeur/-n170279.html
 - Razer Hanbo Chroma → https://www.razer.com/gaming-pc-accessories/razer-hanbo-chroma
-- Razer Zephy - restez durablement en interaction tout en étant en sécurité → https://www.razer.com/fr-fr/gear-accessories/razer-zephyr
+- Razer Zephyr - restez durablement en interaction tout en étant en sécurité → https://www.razer.com/fr-fr/gear-accessories/razer-zephyr
 - [Engadget] The new 16-inch MacBook Pro offers a speed-enhancing 'High Power Mode'. You'll need an M1 Max to take advantage of it, though → https://www.engadget.com/apple-16-inch-macbook-pro-high-power-mode-m1-max-232408937.html
 - [Les Numériques] Nissan Leaf : son successeur sera un crossover électrique → https://lesnumeriques.com/voiture/-n170205.html
 - [Les Numériques] Comparatif des moniteurs : tout change pour plus de précision dans la notation → https://lesnumeriques.com/moniteur-ecran-lcd/-n170231.html
@@ -1473,6 +1473,35 @@ tualite/-3050843801.html
 - [IEEE Spectrum] Pentagon wants AI to predict events before they occur. Haven’t we seen this film before? → https://spectrum.ieee.org/predictive-ai-pentagon
 
 
+--------------------------------------
+2021-10-26
+
+- Razer Zephyr - restez durablement en interaction tout en étant en sécurité → https://www.razer.com/fr-fr/gear-accessories/razer-zephyr
+- [Les Numériques] SoupEasy+ CBL30.009CP : le nouveau blender chauffant de Kenwood → https://lesnumeriques.com/blender/-n170385.html
+- [XDA Developers] New Motorola-branded smartwatch with a circular display spotted on FCC → https://www.xda-developers.com/moto-watch-100-fcc-listing/
+- [The Verge] Apple releases iOS 15.1 with SharePlay and more iPhone 13 Pro camera options. Apple’s latest OS update includes a missing iOS 15 feature → https://www.theverge.com/2021/10/25/22732647/
+- [Les Numériques] Intel Alder Lake mobile : un premier benchmark le place devant le M1 Max d'Apple → https://lesnumeriques.com/cpu-processeur/-n170375.html
+- [XDA Developers] Samsung launches three new Galaxy Book laptops with Windows 11 → https://www.xda-developers.com/samsung-new-galaxy-book-laptops-windows-11/
+- [Engadget] MacBook Pro 14-inch and 16-inch review (2021): Apple’s mighty Macs. They represent the evolution of the M1 chip, while hearkening back to the PowerBook → https://www.engadget.com/mac-book-pro-14-16-inch-review-2021-apple-mighty-macs-130011975.html
+- [Paul Reiffer] Supercharged for Photographers – The brand new Apple 16 inch MacBook Pro M1 Max → https://www.paulreiffer.com/2021/10/supercharged-for-photographers-the-new-16-inch-m1-max-apple-macbook-pro/
+- [01Net] Test du MacBook Pro 16 pouces M1 Max, puissant, endurant, le portable Pro presque parfait → https://www.01net.com/tests/test-du-macbook-pro-16-pouces-m1-max-puissant-endurant-le-portable-pro-presque-parfait-6696.html
+- [AnandTech] Apple's M1 Pro, M1 Max SoCs Investigated: New Performance and Efficiency Heights → https://www.anandtech.com/show/17024/apple-m1-max-performance-review
+- [XDA Developers] MacBook Pro 16 (2021) Review: Apple finally does justice to Pros with the M1 Max → https://www.xda-developers.com/apple-macbook-pro-2021-m1-max-review/
+- [The Verge] MacBook Pro with M1 Pro and M1 Max impressions: giving the people what they want. New chips, familiar ports, and actual volume buttons — it might be love → https://www.theverge.com/22744023/macbook-pro-2021-m1-pro-m1-max-impressions
+- Fairphone 4 -- 579 € sur plus frais de port → https://shop.fairphone.com/fr/buy-fairphone4
+- [Les Numériques] Xperia Pro-I : le smartphone premium de Sony s'offre un capteur photo d'un pouce → https://lesnumeriques.com/telephone-portable/-n170429.html
+- [Les Numériques] Redmi Note 11 : la recharge à 120 W se confirme… Une première pour le milieu de gamme → https://lesnumeriques.com/telephone-portable/-n170387.html
+- [CNET France] Xiaomi 12 : prévu pour la fin de l'année, il serait le premier à embarquer ces nouveautés. Il serait équipé du prochain processeur S898 de Qualcomm → https://www.cnetfrance.fr/news/xiaomi-12-prevu-pour-la-fin-de-l-annee-il-serait-le-premier-a-embarquer-ces-nouveautes-39931287.htm
+- [Les Numériques] Test Google Pixel 6 : le retour du photophone roi → https://www.lesnumeriques.com/telephone-portable/google-pixel-6-p63381/test.html
+- [Les Numériques] Test Google Pixel 6 Pro : le photophone des noctambules, mais pas seulement → https://www.lesnumeriques.com/telephone-portable/google-pixel-6-pro-p63527/test.html
+- [Engadget] Pixel 6 and Pixel 6 Pro review: Solid phones, great software, perfect pricing. Despite some minor flaws, these are excellent phones for the price → https://www.engadget.com/google-pixel-6-and-pixel-6-pro-review-specs-camera-samples-battery-test-160014200.html
+- [XDA Developers] Google Pixel 6 Pro Review: Fantastic everyday phone with an undeniable Exynos inspiration → https://www.xda-developers.com/google-pixel-6-pro-review/
+- [Numérama] Test du Pixel 6 Pro : Google passe enfin aux choses sérieuses → https://www.numerama.com/tech/750039-test-du-pixel-6-pro-google-passe-enfin-aux-choses-serieuses.html
+- [Les Numériques] Labo – Que vaut la puce Google Tensor des nouveaux Pixel 6 et Pixel 6 Pro ? → https://lesnumeriques.com/telephone-portable/-n170125.html
+- [GSMArena] Early Pixel 6 benchmarks put CPU performance below Snapdragon 888, Exynos 2100 → https://www.gsmarena.com/early_pixel_6_chipset_benchmarks_put_cpu_performance_below_snapdragon_888_exynos_2100-news-51569.php
+
+
+
 
 
 - [Les Numériques] 
@@ -1506,4 +1535,6 @@ clips :
 🎥 on est d'abord des scientifiques et des journalistes → https://clips.twitch.tv/BlushingResoluteDiscCoolStoryBob-gHuRpK92cZj9Fa-s
 🎥 Lâm ouvre l'Apple Watch de Kevin → https://clips.twitch.tv/KawaiiPlacidStarlingBibleThump-zwvC8f5R_kV476wK
 🎥 Lâm ouvre aussi le bracelet de la montre de Kevin, sans aucun respect → https://clips.twitch.tv/PoisedFuriousTildeDBstyle-oOiolnA4Qw880aVm
+🎥 cet homme a 42 ans → https://clips.twitch.tv/EsteemedMistyAsparagusBatChest-Cycc3_pJDbabB9tg
+🎥 Darth Lâm → https://clips.twitch.tv/NaiveEsteemedMuleThisIsSparta-9mn7Os9v_Nn6XWpr
 
