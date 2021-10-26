@@ -8206,8 +8206,20 @@ raids : Gautoz => BanjoGuyOllie => windy_harper => Loren_s2 => Eros_Bil.
 - 🇺🇸 [VGC] CPU and graphics card shortages could last until 2023, claims Intel. The computing giant’s shares have fallen 8% in part due to these shortages → https://www.videogameschronicle.com/news/cpu-and-graphics-card-shortages-could-last-until-2023-claims-intel/
 - 🇺🇸 [VGC] Xbox’s Edge browser will soon support GeForce Now. Death Stranding and more will be playble on Xbox consoles → http://cpc.cx/wak
 
-raids : Gautoz => AlphaCast
-        Gautoz => PuNkY___ => Jeannot_Nymouce
+raids : Gautoz => AlphaCast => LittleBigWhale => cokoooooo => MoMaN (24h).
+        Gautoz => PuNkY___ => Jeannot_Nymouce.
+
+
+--------------------------------------
+2021-10-26
+
+casuistiquer \ka.zɥi.sti.ke\ intransitif 1er groupe. Faire le casuiste ; discuter des cas de conscience → https://fr.wiktionary.org/wiki/casuistiquer
+
+casuistique \ka.zɥis.tik\ féminin. 1. (Théologie) Partie de la théologie morale qui traite des cas de conscience. 2. (Péjoratif) Jésuitisme, escobarderie. 3. Analyse détaillée d’un sujet précis, voire d’une singularité, dans le cadre d’une discipline donnée, d’un modèle prédéfini. → https://fr.wiktionary.org/wiki/casuistique
+
+casuistique \ka.zɥis.tik\ féminin. A.− Subst. fém. Partie de la théologie morale qui a pour objet de résoudre les cas de conscience en appliquant les principes théoriques aux situations de la vie. B.− Adj. Qui est relatif ou propre à la casuistique, aux casuistes → https://www.cnrtl.fr/definition/casuistique
+
+raids : Gautoz => Bestiyo.
 
 
 
