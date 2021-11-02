@@ -1501,6 +1501,53 @@ tualite/-3050843801.html
 - [GSMArena] Early Pixel 6 benchmarks put CPU performance below Snapdragon 888, Exynos 2100 → https://www.gsmarena.com/early_pixel_6_chipset_benchmarks_put_cpu_performance_below_snapdragon_888_exynos_2100-news-51569.php
 
 
+--------------------------------------
+2021-11-02
+
+- [YouTube] “Spot Me Up” | The Rolling Stones & Boston Dynamics → https://www.youtube.com/watch?v=XnZH4izf_rI
+- [Les Numériques] H11 et H11 Max : Dreame se lance dans les aspirateurs-balais laveurs de sol sans fil → https://lesnumeriques.com/nettoyeur-sol/-n170655.html
+- [Les Numériques] Project Mic : Amazon se met aussi à l'audio, version radio → https://lesnumeriques.com/vie-du-net/-n170599.html
+- [Les Numériques] Fairphone propose des écouteurs true wireless éthiques et respectueux de l’environnement → https://lesnumeriques.com/intra-ecouteur-true-wireless/-n170631.html
+- [Les Numériques] Pentax HD FA 21mm F2.4ED Limited DC WR : un grand-angle au look vintage → https://lesnumeriques.com/focales-fixes/-n170657.html
+- [Les Numériques] Vivo : en quoi consiste son partenariat avec Zeiss ? → https://lesnumeriques.com/telephone-portable/-n170505.html
+- [Les Numériques] Labo – Que vaut le double module photo du nouveau Fairphone 4 ? → https://lesnumeriques.com/telephone-portable/-n170589.html
+- [Les Numériques] Xiaomi Redmi Note 11 Pro+ : le fleuron des Redmi s'offre de la charge à 120 W → https://lesnumeriques.com/telephone-portable/-n170633.html
+- [XDA Developers] Royole FlexPai 3 leaked render shows a new design and a pop-selfie camera → https://www.xda-developers.com/royole-flexpie-3-design-leak/
+- [XDA Developers] JioPhone Next pricing officially revealed ahead of launch → https://www.xda-developers.com/jiophone-next-pricing-revealed/
+- [SamMobile] Confirmed: Galaxy S21 FE launch is planned for CES 2022 → https://www.sammobile.com/news/confirmed-galaxy-s21-fe-launch-planned-ces-2022/
+- [Les Numériques] Apple et Amazon à leur tour touchés par la pénurie de composants → https://lesnumeriques.com/pro/-n170623.html
+- [Les Numériques] La production automobile mondiale sérieusement affectée par la pénurie de composants → https://lesnumeriques.com/pro/-n170613.html
+- [VideoCardz] Intel Arc Alchemist flagship desktop graphics card has been pictured → https://videocardz.com/newz/intel-arc-alchemist-flagship-desktop-graphics-card-has-been-pictured
+- [Engadget] Apple's mixed reality headset might play 'high-quality' VR games. The headset could still launch as soon as 2022 → https://www.engadget.com/apple-mixed-reality-headset-vr-games-160752822.html
+- [Twitter] Have you guys seen this yet? 17-inch ThinkBook Plus from Lenovo... → https://twitter.com/evleaks/status/1454872863572365321
+- [Yahoo! Finance] Amazon Discloses 20% Stake in EV Maker Rivian as IPO Approaches → https://finance.yahoo.com/news/amazon-discloses-20-stake-ev-150652253.html
+- [Les Numériques] Avec l'Ulysse, Fiat ressuscite son monospace en version électrique → s://lesnumeriques.com/voiture/-n170617.html
+- [Les Numériques] XPeng Motors poursuit sa percée en Norvège avec la berline électrique P7 → https://lesnumeriques.com/voiture/-n170621.html
+- [Les Numériques] Panasonic lève le voile sur sa cellule de batterie 4680 destinée à Tesla → https://lesnumeriques.com/voiture/-n170509.html
+- [Les Numériques] TotalEnergies investit 200 millions € dans des bornes de recharge rapide sur autoroutes → https://lesnumeriques.com/voiture/-n170619.html
+- [Motor1] Mercedes-Benz Sustaineer Concept Is The Delivery Van Of The Future. It has a massive solar cell on the roof that can add thousands of miles a year in range → https://www.motor1.com/news/543649/mercedes-benz-sustainer-tech-demonstrator/
+- [OneWheel] Pint X, 1400 USD → https://onewheel.com/products/onewheel-pint-x
+- [OneWheel] Pint GT, 2200 USD → https://onewheel.com/products/onewheel-pint-gt
+- [MSN] Startup's $700,000 hoverbike targets supercar buyers in Japan → https://www.msn.com/en-us/autos/news/startup-s-700-000-hoverbike-targets-supercar-buyers-in-japan/ar-AAPYpW2
+- [Les Numériques] Certimoov : des tests de casques vélo et moto plus complets pour une meilleure sécurité → https://lesnumeriques.com/accessoire-velo/-a170553.html
+- [Les Numériques] Essai Honda HR-V e:HEV hybride : le retour musclé du Joy Machine → https://lesnumeriques.com/voiture/-n170491.html
+- [Les Numériques] Labo – La notation Ergonomie des tablettes tactiles évolue → https://lesnumeriques.com/tablette-tactile/-n170395.html
+- [Les Numériques] Test Facebook Portal Go : un assistant sur batterie orienté Whatsapp et Messenger → https://www.lesnumeriques.com/assistant-domotique/facebook-portal-go-p65301/test.html
+- [Les Numériques] Test Dell Inspiron 15 : un PC portable capable du meilleur comme du pire  → https://www.lesnumeriques.com/ordinateur-portable/dell-inspiron-15-3511-p65695/test.html
+- [Les Numériques] Labo – Apple MacBook Pro 16 : le M1 Pro face aux processeurs Core i9 et Ryzen 9 → https://lesnumeriques.com/ordinateur-portable/-n170597.html
+- [Les Numériques] Test Rasoir électrique Braun Series 9 9390CC : le rasage dans la douceur → https://www.lesnumeriques.com/rasoir-electrique/braun-series-9-9390cc-p65831/test.html
+- [Les Numériques] Labo – Le système de navigation complet, mais hasardeux, du Samsung JetBot AI+ → https://lesnumeriques.com/aspirateur-robot/-n170611.html
+- [Les Numériques] Spotify en grande forme au troisième trimestre → https://lesnumeriques.com/pro/-n170577.html
+- [Les Numériques] Microsoft chipe le titre de première capitalisation boursière mondiale à Apple → https://lesnumeriques.com/pro/-n170667.html
+- Apple Reports Fourth Quarter Results. New September quarter record with revenue up 29 percent. Services and Mac revenue reach new all-time highs → https://www.apple.com/newsroom/2021/10/apple-reports-fourth-quarter-results/
+- [Les Numériques] Meta : pourquoi et comment Facebook veut se réinventer → https://lesnumeriques.com/vie-du-net/-n170625.html
+- [Les Numériques] Metaverse : Mark Zuckerberg a trop fantasmé Ready Player One → https://lesnumeriques.com/vie-du-net/-n170651.html
+- [Les Numériques] Les données des agences de renseignement britanniques confiées à Amazon → https://lesnumeriques.com/vie-du-net/-n170529.html
+- [ZDNet France] L'opérateur China Telecom déclaré persona non grata outre-Atlantique. Les autorités américaines viennent de donner à China Telecom 60 jours pour cesser toute activité sur le territoire américain → https://www.zdnet.fr/actualites/l-operateur-china-telecom-declare-persona-non-grata-outre-atlantique-39931457.htm
+- [ZDNet France] Dès 2022, exit la Hadopi et bonjour l'Arcom. La Hadopi disparaîtra officiellement sous sa forme actuelle le 1er janvier 2022, pour accueillir l'Arcom, née de la fusion entre la Hadopi et le CSA. Cette nouvelle structure entend moderniser l'exercice de la régulation, avec de nouveaux outils de lutte contre le piratage en ligne à la clé → https://www.zdnet.fr/actualites/des-2022-exit-la-hadopi-et-bonjour-l-arcom-39931449.htm
+- [CNET France] Pass sanitaire prolongé : le Sénat retoque le gouvernement. Alors que l'exécutif souhaitait une prolongation du pass sanitaire jusqu'au 31 juillet 2022, les sénateurs ont ramené cette date au 28 février → https://www.cnetfrance.fr/news/pass-sanitaire-prolonge-le-senat-retoque-le-gouvernement-39931633.htm
+- GA-EMS and Boeing Team to Develop 300kW-class HELWS Prototype for US Army → https://www.ga.com/ga-ems-and-boeing-team-to-develop-300kw-class-helws-prototype-for-us-army
+
 
 
 
