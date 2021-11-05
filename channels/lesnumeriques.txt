@@ -1573,7 +1573,45 @@ tualite/-3050843801.html
 - [VICE Motherboard] Is This Timothée Chalamet’s Xbox Modding YouTube Channel? A conversation with a security expert who investigates war crimes has helped Motherboard uncover the truth of Chalamet’s past as a YouTuber who did custom paint jobs of Xbox 360 controllers. → https://www.vice.com/en/article/3ab835/is-this-timothee-chalamets-xbox-modding-youtube-channel-an-investigation
 
 
+--------------------------------------
+2021-11-04
 
+- Meet Volvo prototype LX03: the intelligent future of construction → https://www.volvoce.com/global/en/news-and-events/press-releases/2021/meet-volvo-prototype-lx03-the-intelligent-future-of-construction/
+- Samsung and Dr Denim say goodbye to large pockets with Z Flip Pocket Denim Jeans → https://news.samsung.com/au/samsung-and-dr-denim-say-goodbye-to-large-pockets-with-z-flip-pocket-denim-jeans
+- Logitech G HUB – NVIDIA Broadcast Integration enters Open Beta → https://blog.logitech.com/2021/11/02/logitech-g-hub-nvidia-broadcast-integration-enters-open-beta/
+- Razer Pro Click Mini, 129 USD → https://www.razer.com/sg-en/gaming-mice/Razer-Pro-Click-Mini/RZ01-03990100-R3A1
+- Razer Pro Type Ultra → https://www2.razer.com/au-en/store/razer-pro-type-ultra
+- Oura Ring Generation 3, 419 € → https://ouraring.com/product/heritage-gold
+- [9to5 Mac] Report: iPhone 14 unlikely to feature 3nm chips as TSMC faces production challenges → https://9to5mac.com/2021/11/02/apple-tsmc-relationship-iphone-14-more/
+- [Les Numériques] Apple augmente la cadence de production des iPhone 13 au détriment des iPad → https://lesnumeriques.com/telephone-portable/-n170685.html
+- [CNET France] D’après Canalys, les ventes de tablettes chutent fortement ce trimestre. Alors que le marché du PC semble reparti à la hausse, celui de la tablette marque le pas et chute de façon assez importante → https://www.cnetfrance.fr/news/d-apres-canalys-les-ventes-de-tablettes-chutent-fortement-ce-trimestre-39931781.htm
+- [Les Numériques] Asus VivoBook Slate 13 Oled : à 499 €, ceci n’est pas une tablette → https://lesnumeriques.com/ordinateur-portable/-n170793.html
+- [Volkswagen] Le Nouveau ID.5 100% électrique → https://www.volkswagen.fr/fr/rouler-en-electrique/technologie/concept-cars-id/id-5.html
+- [Les Numériques] Essai Ford Mustang Mach-E GT : le plus sportif des SUV électriques → https://lesnumeriques.com/voiture/-n170445.html
+- [Ars Technica] Electric conversions are this year’s hot trend at SEMA. Electrification is coming to the aftermarket, too, as evinced by this year's show → https://arstechnica.com/cars/2021/11/custom-electric-cars-take-charge-at-sema-2021/
+- [CNET France] Tesla : l’ouverture du réseau Supercharger pour toutes les voitures électriques démarre, mais doucement. Tesla devait ouvrir son réseau à l’ensemble des véhicules électriques, c’est maintenant chose faite… dans 10 stations pilotes → https://www.cnetfrance.fr/news/tesla-l-ouverture-du-reseau-supercharger-pour-toutes-les-voitures-electriques-demarre-mais-doucement-39931789.htm
+- [Les Numériques] OM System M.Zuiko Digital ED 20mm F1.4 PRO : le premier objectif photo de feu Olympus → https://lesnumeriques.com/focales-fixes/-n170779.html
+- [Les Numériques] Test Sony FE 24mm F2.8 G : fort piqué et distorsion marquée pour cet objectif grand-angle → https://www.lesnumeriques.com/focales-fixes/sony-fe-24mm-f2-8-g-p62679/test.html
+- [Les Numériques] Labo – Google Chrome plombe l'autonomie des MacBook Pro 14 et 16 d'Apple → https://lesnumeriques.com/ordinateur-portable/-n170679.html
+- [Les Numériques] Labo – Écran Mini-Led du MacBook Pro M1 Pro : un pic de luminosité encore jamais vu sur un ordinateur portable → https://www.lesnumeriques.com/ordinateur-portable/labo-ecran-mini-led-du-macbook-pro-m1-pro-un-pic-de-luminosite-encore-jamais-vu-sur-un-ordinateur-portable-n170635.html
+- [Les Numériques] Test Samsung Jetbot AI+ : un aspirateur-robot truffé de technologies → https://www.lesnumeriques.com/aspirateur-robot/samsung-jet-bot-ai-vr50t95735w-wa-p65705/test.html
+- [Meta Company] Facebook Stole Our Name and Livelihood → https://meta.company/
+- [VICE Motherboard] Ethical AI Trained on Reddit Posts Said Genocide Is OK If It Makes People Happy. Fed by Reddit and Mechanical Turks, the algorithmic morality spinner is a dangerous and stupid use of technology → https://www.vice.com/en/article/v7dg8m/ethical-ai-trained-on-reddit-posts-said-genocide-is-okay-if-it-makes-people-happy
+- [Bloomberg] Eric Adams Aims to Make NYC Crypto-Friendly With Coin → https://www.bloomberg.com/news/articles/2021-11-03/mayor-elect-eric-adams-to-explore-nyc-coin-similar-to-miami-s
+- [The Wall Street Journal] First Bitcoin. Then GameStop. Now Tiny Tungsten Cubes. Online investors crave tangible pleasure of holding surprisingly heavy metal blocks; 1.7 times as dense as lead → https://www.wsj.com/articles/tungsten-cubes-bitcoin-gamestop-crypto-investors-11635431036
+- [The Verge] A one-ton tungsten cube was just bought by a crypto cabal for $250,000. Worth its weight in ether → https://www.theverge.com/2021/11/3/22761305/
+- [Les Numériques] Jeff Bezos présente Orbital Reef, future station spatiale de Blue Origin → https://lesnumeriques.com/voitures-co/-n170473.html
+- [Les Numériques] Coup d'envoi du projet Starlab, future station spatiale commerciale → https://lesnumeriques.com/spatial/-n170359.html
+- [Korii] La Chine travaille au sabotage furtif des satellites ennemis. Mauvaise nouvelle pour quiconque dépend des machines orbitales → https://korii.slate.fr/tech/espace-chine-travaille-sabotage-furtif-satellites-ennemis-explosion-bombe-tuyeres
+- [Wired] The United Nations Could Finally Create New Rules for Space. The proposal to create a process for preventing military confrontations and misunderstandings in orbit would be the first major step in more than 40 years → https://www.wired.com/story/the-united-nations-could-finally-create-new-rules-for-space/
+
+raids : lesnumeriques => marmiton_officiel
+
+
+
+
+
+12:44 Mackdolphin : stop Lamasturbation en regie !(Supprimé par maddingue)
 
 
 - [Les Numériques] 
