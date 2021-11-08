@@ -1628,6 +1628,39 @@ raids : lesnumeriques => marmiton_officiel
 - [Les Numériques] Test Apple MacBook Pro 16 pouces M1 Pro : le plein de cœurs qui fait la différence → https://lesnumeriques.com/ordinateur-portable/apple-macbook-pro-16-2021-p65729/test.html
 
 
+--------------------------------------
+2021-11-08
+
+- ...
+- [Fronpage Tech] EXCLUSIVE: First Real-Life Photos of Samsung Galaxy S22 Ultra → https://www.frontpagetech.com/2021/11/05/exclusive-first-real-life-photos-of-samsung-galaxy-s22-ultra/
+- [Les Numériques] Internet satellitaire : Boeing va pouvoir déployer sa propre constellation → https://lesnumeriques.com/vie-du-net/-n170909.html
+- [Les Numériques] La 5G pourrait-elle perturber le trafic aérien ? → https://lesnumeriques.com/mobilite/-n170915.html
+- [CNET France] Ile-de-France Mobilités : le Passe Navigo arrive sur les smartphones Android, l'iPhone attendra. Le passage au dématérialisé est prévu en 2022 sur les smartphones Android → https://www.cnetfrance.fr/news/ile-de-france-mobilites-le-passe-navigo-arrive-sur-les-smartphones-android-l-iphone-attendra-39931987.htm
+- [Les Numériques] Volkswagen dévoile ses deux SUV coupés électriques ID.5 et ID.5 GTX → https://lesnumeriques.com/voiture/-n170845.html
+- [Les Numériques] Essai Volkswagen Multivan eHybrid : l’héritier du Combi s’électrifie → https://lesnumeriques.com/voiture/-n170771.html
+- [Les Numériques] Volkswagen ID.Buzz : le Combi électrique à moins de 60 000 € ? → https://lesnumeriques.com/voiture/-n161795.html
+- [Les Numériques] Essai Hyundai Tucson hybride rechargeable 265 HTRAC : sobriété et conduite coulée → https://lesnumeriques.com/voiture/-n170723.html
+- [Les Numériques] Toyota Aygo X : un micro-SUV haut en couleur pour villes congestionnées → https://lesnumeriques.com/voiture/-n170867.html
+- [Les Numériques] Test Decathlon Riverside 500 E : un vélo électrique tout-chemin un peu brut de décoffrage → https://www.lesnumeriques.com/velo-electrique/decathlon-riverside-500-e-p64533/test.html
+- [Les Numériques] ⚖️ Duel : Google Pixel 6 vs Pixel 5 → https://www.lesnumeriques.com/telephone-portable/face-a-face/63381-56587.html
+- [Les Numériques] Test Apple MacBook Pro 14 pouces M1 Pro : la productivité en vadrouille → https://www.lesnumeriques.com/ordinateur-portable/apple-macbook-pro-14-2021-m1-pro-10-16-p65759/test.html
+- [Les Numériques] Test Apple AirPods 3 : Les écouteurs true wireless les plus populaires se renouvellent pour le meilleur → https://www.lesnumeriques.com/intra-ecouteur-true-wireless/apple-airpods-3-p65143/test.html
+- [Les Numériques] Labo – La double caméra du Mavic 3 à capteur 4/3 et zoom 28x à l'épreuve de notre scène de test photo et vidéo → https://lesnumeriques.com/drone/-n170901.html
+- [Les Numériques] Cloud : Amazon, Microsoft et Google progressent encore, les Européens à la traîne → https://lesnumeriques.com/pro/-n170683.html
+- [Les Numériques] À Monaco, un cloud d'État qui se veut réellement souverain → https://lesnumeriques.com/pro/-a170483.html
+- [ZDNet France]  « Cloud de confiance » : un paradoxe français. Le gouvernement français l’a bien compris : le cloud est un enjeu majeur des prochaines décennies. Avec une croissance annuelle de 20 % par an en moyenne, la taille du marché européen du cloud devrait être décuplée d’ici dix ans, et atteindre la taille du secteur des télécoms d’ici 2030 explique Laurent Michel, de Platform.sh ¬ https://www.zdnet.fr/actualites/cloud-de-confiance-un-paradoxe-francais-39931495.htm
+- [Les Numériques] NSO Group, éditeur du logiciel espion Pegasus, placé sur liste noire par les États-Unis ¬ https://lesnumeriques.com/pro/-n170777.html
+- [Les Numériques] Cyberattaques : Microsoft alerte sur une nouvelle campagne d'ampleur du groupe Nobelium → https://lesnumeriques.com/pro/-n170469.html
+- [Numérama / Cyberguerre] Un homme soupçonné d’être un cybercriminel de premier plan du groupe REvil identifié par la police → https://cyberguerre.numerama.com/13640-un-homme-soupconne-detre-un-cybercriminel-de-premier-plan-du-groupe-revil-identifie-par-la-police.html
+- [DailyMail] Massive cyber heist rocks high society jeweller Graff: Russian gang demand multi-million ransom or they'll release private details of rich and famous - after leaking files on David Beckham, Oprah and Donald Trump → https://www.dailymail.co.uk/news/article-10148265/Massive-cyber-heist-rocks-high-society-jeweller-Graff.html
+- [VICE Motherboard] Hackers Apologize to Arab Royal Families for Leaking Their Data → https://www.vice.com/en/article/n7nw8m/conti-ransomware-hackers-apologize-to-arab-royal-families-for-leaking-their-data
+- [VICE Motherboard] Instagram Hacker Forces Victim to Make Hostage-Style Video. The video was part of a fairly elaborate scam to trick people into sending the hacker Bitcoin → https://www.vice.com/en/article/y3vzzx/instagram-scam-video-bitcoin
+- Netflix - Arcane → https://www.netflix.com/fr/title/81435684
+- [Les Numériques] Analyse technique par Furolith : Forza Horizon 5 sur Xbox Series X/S et Xbox One, un étalon graphique intergénérationnel → https://lesnumeriques.com/jeux-video/-a170755.html
+- [Gamekult] Test : Forza Horizon 5, on a trouvé notre Eldorado → https://www.gamekult.com/jeux/forza-horizon-5-3050884059/test.html
+
+raids : Gautoz => lesnumeriques => Modiiie => OPcrotte.
+
 
 
 
