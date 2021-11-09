@@ -1662,6 +1662,44 @@ raids : lesnumeriques => marmiton_officiel
 raids : Gautoz => lesnumeriques => Modiiie => OPcrotte.
 
 
+--------------------------------------
+2021-11-09
+
+
+- [Le Monde] Pour Jean-Michel Jarre, « il faut d’urgence faire un “métavers” français ». Le « métavers », contraction de méta et d’univers, véritable doublure numérique du monde physique accessible via Internet, fait l’objet d’investissements colossaux. Le musicien français parie qu’il « sera le mode d’expression majeur du XXIe siècle » → https://www.lemonde.fr/pixels/article/2021/11/08/pour-jean-michel-jarre-il-faut-d-urgence-faire-un-metavers-francais_6101387_4408996.html
+- [The Verge] Niantic launches platform to build ‘real-world metaverse’ apps. The maker of Pokémon Go wants to power future AR glasses → https://www.theverge.com/2021/11/8/22768925/
+- [YouTube] GTC November 2021 Keynote with NVIDIA CEO Jensen Huang → https://www.youtube.com/watch?v=jhDiaUL_RaM
+- [Engadget] NVIDIA's new AI brain for robots is six times more powerful than its predecessor, and it can still fit in the palm of your hand → https://www.engadget.com/nvidi-as-new-ai-brain-for-robots-is-six-times-more-powerful-than-its-predecessor-093024102.html
+- [YouTube] AMD Accelerated Data Center Premiere Keynote → https://www.youtube.com/watch?v=ECHhuvuiNzs
+- [AnandTech] AMD Announces Instinct MI200 Accelerator Family: Taking Servers to Exascale and Beyond → https://www.anandtech.com/show/17054/
+- [AnandTech] AMD Gives Details on EPYC Zen4: Genoa and Bergamo, up to 96 and 128 Cores → https://www.anandtech.com/show/17055/
+- [AnandTech] AMD Confirms Milan-X with 768 MB L3 Cache: Coming in Q1 2022 → https://www.anandtech.com/show/17053/
+- [Ars Technica] Leaked Alder Lake Core i3 would be first interesting budget CPU in almost 2 years. April 2020 was the last time Intel or AMD released a new $100-ish desktop CPU → https://arstechnica.com/gadgets/2021/11/leaked-alder-lake-core-i3-would-be-first-interesting-budget-cpu-in-almost-2-years/
+- Samsung Develops Industry’s First LPDDR5X DRAM → https://news.samsung.com/global/samsung-develops-industrys-first-lpddr5x-dram
+- [Les Numériques] Samsung pourrait opter pour une puce Snapdragon 898 sur tous ses Galaxy S22 → https://lesnumeriques.com/telephone-portable/-n170981.html
+- [SammyFans] Samsung may introduce Exynos 2200 processor on November 19 → https://www.sammyfans.com/2021/11/09/samsung-may-introduce-exynos-2200-processor-on-november-19/
+- [Digit] Exclusive First Look at Samsung Galaxy A53 5G in leaked renders reveals quad-cameras, Infinity-O display and more → https://www.digit.in/news/mobile-phones/samsung-galaxy-a53-5g-exclusive-leaked-renders-specs-61800.html
+- [Windows United] [Exklusiv] Kommt eine faltbare Surface Maus? → https://windowsunited.de/exklusiv-kommt-eine-faltbare-surface-maus/
+- [Les Numériques] Tesla Model 3 : autonomie en hausse et prix inchangé pour la version de base → https://lesnumeriques.com/voiture/-n170973.html
+- [Les Numériques] Apple accélère dans sa voiture autonome avec le recrutement du responsable Autopilot de Tesla → https://lesnumeriques.com/voiture/-n170955.html
+- [Detroit Free Press] Private moments with Ford CEO Jim Farley reveal how he works. Behind the scenes, Ford CEO Jim Farley is remaking a 118-year-old automaker with the blessing of Executive Chair Bill Ford → https://eu.freep.com/in-depth/money/cars/ford/2021/10/14/ford-ceo-jim-farley-culture/6027963001/
+- [YouTube] Message à caractère informatif : Opération séduction → https://www.youtube.com/watch?v=VMZ_naxXoNk
+- [Ars Technica] Lithium-metal “hybrid” battery promises lighter, longer-range EVs by 2025. SES showed off a promising new cell targeted for mass production in a few years → https://arstechnica.com/cars/2021/11/lithium-metal-hybrid-battery-promises-lighter-longer-range-evs-by-2025/
+- [Les Numériques] Test Samsung Galaxy Watch 4 : un nouvel OS et des améliorations discrètes → https://www.lesnumeriques.com/montre-connectee/samsung-galaxy-watch-4-p63479/test.html
+- [Les Numériques] Test Whirlpool Supreme Silence W6X W845WB FR : aussi discret qu'une plume effleurant un coussin → https://www.lesnumeriques.com/lave-linge/whirlpool-supreme-silence-w6x-w845wb-fr-p63985/test.html
+- [Les Numériques] Twitter conseille à Elon Musk de vendre 10 % de ses actions Tesla, le cours boursier chute → https://lesnumeriques.com/vie-du-net/-n170985.html
+- [Les Numériques] Intelligence artificielle : le gouvernement consacre 2,1 milliards d'euros à un nouveau plan national → https://lesnumeriques.com/pro/-n170995.html
+- [Europol] Five affiliates to Sodinokibi/REvil unplugged → https://www.europol.europa.eu/newsroom/news/five-affiliates-to-sodinokibi/revil-unplugged
+- [Les Numériques] Google automatise l'authentification à double facteur pour 150 millions de comptes → https://lesnumeriques.com/vie-du-net/-n170881.html
+- [Twitter / fail0verflow] Translation: We got all (symmetric) ps5 root keys → https://twitter.com/fail0verflow/status/1457526453105569793
+- [Twitter / foone] How to scam people with NTFS and how the IRS is going to ruin it: a beginners guide → https://twitter.com/Foone/status/1457749433844568066
+- [CNBC] Treasury will not target non-brokers like miners even if the crypto tax provision isn’t amended → https://www.cnbc.com/2021/08/24/treasury-will-not-target-non-brokers-even-without-crypto-tax-amendment.html
+- [CNET France] Apple Fitness+ : salle de sport à domicile et offre Premium disponibles en France. Apple étend son offre Fitness+ et One Premier à 15 nouveaux pays, dont la France. → https://www.cnetfrance.fr/news/apple-fitness-salle-de-sport-a-domicile-et-offre-premium-disponibles-en-france-39931849.htm
+-  Virgin Galactic Announces Third Quarter 2021 Financial Results → https://investors.virgingalactic.com/news/news-details/2021/Virgin-Galactic-Announces-Third-Quarter-2021-Financial-Results/default.aspx
+
+raids : lesnumeriques => marmiton_officiel.
+
+
 
 
 - [Les Numériques] 
