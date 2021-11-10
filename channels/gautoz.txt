@@ -8442,6 +8442,46 @@ raids : Gautoz => lesnumeriques => Modiiie => OPcrotte.
 raids : Gautoz => ALaiseBlaze.
 
 
+--------------------------------------
+2021-11-10
+
+- 🇫🇷 [Gamekult] L'influence Bloodborne se confirme dans le gameplay de Lies of P, mais le jeu ne sortira pas avant 2023 → https://gamekult.com/actualite/-3050844397.html
+
+- 🇫🇷 [Gamekult] Sony Interactive Entertainment cède la licence The Tomorrow Children au studio Q-Games, et le jeu va donc refaire surface → https://gamekult.com/actualite/-3050844415.html
+- 🇺🇸 [VGC] Shut-down PS4 free-to-play exclusive The Tomorrow Children is returning. Developer Q-Games has recovered the rights from Sony and will be bringing it back → http://cpc.cx/whs
+
+- PlayStation Direct → https://direct.playstation.com/
+
+- 🇫🇷 [Gamekult] Forza Horizon 5 est le plus gros lancement de l'histoire des exclusivités Xbox en termes de nombre de joueurs → https://gamekult.com/actualite/-3050844429.html
+
+- 🇺🇸 [Bloomberg] Microsoft Xbox chief is looking for acquisitions in social, casual games.  The company also wants to geographically diversify chip sources to ease console shortages in the future → http://cpc.cx/whB
+- 🇺🇸 [VGC] Phil Spencer says Xbox is looking to buy social and casual game developers. The platform holder wants to offer more content with a broad appeal → http://cpc.cx/whC
+
+- 🇺🇸 [Games Industry] Arkane Lyon director on leaving violent stealth for children's educational games. Romuald Capron on his new role at academic startup PowerZ, and leaving the Deathloop studio after 17 years → http://cpc.cx/whu
+- 🇺🇸 [Games Industry] Deathloop director Dinga Bakaba now head of Arkane Lyon. Promotion follows Romuald Capron's departure last month, Bakaba will continue as co-creative director → http://cpc.cx/whx
+- 🇫🇷 [Gamekult] Dinga Bakaba promu directeur d'Arkane Lyon. Un des grands esprits de Dishonored et Deathloop → https://gamekult.com/actualite/-3050844399.html
+- 🇺🇸 [VGC] Deathloop’s director has been appointed as the new head of Arkane Lyon. Dinga Bakaba steps into the role previously held by Romuald Capron → http://cpc.cx/wht
+
+- 🇫🇷 [Gamekult] Back 4 Blood détaille sa feuille de route pour les mois à venir → https://gamekult.com/actualite/-3050844421.html
+
+- 🇺🇸 [Games Industry] 2K acquires Elite3D. Spanish art studio will become a second office for recently formed 31st Union studio and a 2K Publishing location → http://cpc.cx/whD
+- 🇫🇷 [Gamekult] 2K Games annonce l'acquisition du studio espagnol elite3D, et c'est le studio 31st Union qui en profite → https://gamekult.com/actualite/-3050844417.html
+
+- 🇫🇷 [Gamekult] Bandai Namco dévoile des résultats meilleurs que prévu → https://gamekult.com/actualite/-3050844395.html
+
+- 🇺🇸 [The Verge] Judge orders Apple to allow external payment options for App Store by December 9th, denying stay, and Apple announces it will appeal → http://cpc.cx/whw
+
+- 🇺🇸 [The Verge] Unity to pay $1.6 billion for The Lord of the Rings VFX maker Weta Digital → http://cpc.cx/whE
+
+- 🇺🇸 [Kotaku] Activision Blizzard devs win better pay and PTO for contractors. The publisher announced contractors will earn a minimum $17 hourly rate and paid holidays off → http://cpc.cx/whF
+
+:::::
+- 🇺🇸 [Games Industry] Denuvo DRM renders legitimate games temporarily unplayable. Company says unreachable domain made games like Guardians of the Galaxy and Football Manager 2 unplayable for customers → http://cpc.cx/whv
+
+raids : Gautoz => Modiiie => OsmosisCoop => Super_Bulle
+
+
+
 
 
 - 🇺🇸 
