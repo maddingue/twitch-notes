@@ -1700,6 +1700,34 @@ raids : Gautoz => lesnumeriques => Modiiie => OPcrotte.
 raids : lesnumeriques => marmiton_officiel.
 
 
+--------------------------------------
+2021-11-10
+
+- [Les Numériques] Intel Core de 12e génération : les processeurs hybrides Alder Lake font une entrée fracassante → https://lesnumeriques.com/cpu-processeur/-a170711.html
+- [Ars Technica] Leaked Alder Lake Core i3 would be first interesting budget CPU in almost 2 years. April 2020 was the last time Intel or AMD released a new $100-ish desktop CPU → https://arstechnica.com/gadgets/2021/11/leaked-alder-lake-core-i3-would-be-first-interesting-budget-cpu-in-almost-2-years/
+- 🇺🇸 [The Verge] Unity to pay $1.6 billion for The Lord of the Rings VFX maker Weta Digital → http://cpc.cx/whE
+- [The Verge] Microsoft announces Windows 11 SE, a new Chrome OS competitor. Microsoft’s latest effort to beat Chromebooks is a little different → https://theverge.com/2021/11/9/22771742/
+- [The Verge] Apple backs off of breaking Face ID after DIY iPhone 13 screen replacements. A software update is on the way that won’t require repair shops to transfer a microcontroller → https://theverge.com/2021/11/9/22772433/
+- [Les Numériques] Edge X : Motorola prépare son retour sur le marché du smartphone premium → https://lesnumeriques.com/telephone-portable/-n170977.html
+- [Les Numériques] Les Realme GT Neo 2 et Realme Pad seront présentés en France le 15 novembre → https://lesnumeriques.com/telephone-portable/-n170997.html
+- [Les Numériques] Poco officialise son Poco M4 Pro 5G… qui fait beaucoup penser au Redmi Note 11 → https://lesnumeriques.com/telephone-portable/-n171055.html
+- [WCCF Tech] No Exynos Launch Happening on November 19, Says Samsung → https://wccftech.com/no-exynos-launch-happening-on-november-19/
+- [Les Numériques] Bientôt des abonnements payants sur Instagram → https://lesnumeriques.com/vie-du-net/-n171059.html
+- [Les Numériques] Frances Haugen devant les députés et sénateurs français : mais pour quoi faire ? → https://lesnumeriques.com/vie-du-net/-n171091.html
+- [Les Numériques] Facebook : Frances Haugen n’est pas vraiment fan du metaverse → https://lesnumeriques.com/vie-du-net/-n171017.html
+- [Meta / Facebook] Community Standards Enforcement Report, Third Quarter 2021 → https://about.fb.com/news/2021/11/community-standards-enforcement-report-q3-2021/
+- [ZDNet France] Facebook : Des publicités moins ciblées pour réduire la discrimination. Dès janvier 2022, la maison mère de Facebook supprimera certains critères de ciblage publicitaire, notamment concernant l'origine ethnique ou la religion → https://www.zdnet.fr/actualites/facebook-des-publicites-moins-ciblees-pour-reduire-la-discrimination-39932197.htm
+- [Facebook] Meta Q2 + Q3 2021 Quarterly Update on the Oversight Board → https://about.fb.com/wp-content/uploads/2021/11/Meta-Q2-and-Q3-2021-Quarterly-Update-on-the-Oversight-Board.pdf
+- [Ars Technica] Google sends anti-regulation propaganda to small businesses using Google Maps. Scary new site tells Google users antitrust limits could "impact your business." → https://arstechnica.com/gadgets/2021/11/google-sends-anti-regulation-propaganda-to-small-businesses-using-google-maps/
+- [The New York Times] Google Wants to Work With the Pentagon Again, Despite Employee Concerns. Three years ago, the company walked away from a Defense Department project after employees objected to it. Now the company is working on a new proposal for the Pentagon → https://www.nytimes.com/2021/11/03/technology/google-pentagon-artificial-intelligence.html
+- [Les Numériques] Alphabet va utiliser l'IA pour découvrir des médicaments → https://lesnumeriques.com/vie-du-net/-n170903.html
+- [Bloomberg] Netflix to Roll Out TikTok-Like Short Clip Feature Aimed at Kids → https://www.bloomberg.com/news/articles/2021-11-09/netflix-to-roll-out-tiktok-like-short-clip-feature-aimed-at-kids
+- [IGN France] One Piece : le casting de la série live de Netflix se dévoile → https://fr.ign.com/one-piece-live-action/56928/
+
+raids : lesnumeriques => Mizu.
+
+
+
 
 
 - [Les Numériques] 
