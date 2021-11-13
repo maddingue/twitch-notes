@@ -8481,6 +8481,52 @@ raids : Gautoz => ALaiseBlaze.
 raids : Gautoz => Modiiie => OsmosisCoop => Super_Bulle
 
 
+--------------------------------------
+2021-11-12
+
+- 🇫🇷 [Gamekult] Valve repousse les livraisons du Steam Deck à février 2022 → https://gamekult.com/actualite/-3050844465.html
+- 🇺🇸 [The Verge] Steam Deck launch delayed by two months. Valve now estimates the first consoles will ship in February 2022 → https://theverge.com/2021/11/10/22774888/
+- 🇺🇸 [Games Industry] Valve delays Steam Deck. First round of preorders for the portable PC device now estimated to ship in February 2022 → http://cpc.cx/wiw
+- 🇺🇸 [VGC] Valve has delayed Steam Deck into next year. Supply chain issues mean all orders will be shifted back by two months → http://cpc.cx/wis
+
+- 🇫🇷 [Gamekult] Les premières livraisons de Playdate sont aussi repoussées début 2022 → https://gamekult.com/actualite/-3050844493.html
+- 🇺🇸 [VGC] The Playdate handheld has been delayed until 2022. Problems with the battery and CPU shortages have held back the crank-based device → http://cpc.cx/wio
+
+- 🇺🇸 [VGC] Sources: EA has greenlit a Fight Night revival, but it’s ‘on pause’. The new game, codenamed ‘Moneyball’, has entered early development and will resume after UFC 5 → http://cpc.cx/wix
+
+- 🇺🇸 [Windows Central] New upcoming Xbox exclusives revealed: Project 'Midnight' from Compulsion and 'Pentiment' from Obsidian. We've got details on two more upcoming Xbox exclusives. → http://cpc.cx/wiz
+- 🇫🇷 [Gamekult] Xbox Game Studios : des détails sur les prochains Compulsion et Obsidian, mais aussi le retour de 1 contre 100 → https://gamekult.com/actualite/-3050844491.html
+- 🇺🇸 [VGC] New Xbox exclusives from Obsidian and Compulsion have seemingly leaked. Details on ‘Pentiment’ and project ‘Midnight’ revealed → http://cpc.cx/wir
+- 🇺🇸 [VGC] Xbox ‘is definitely making’ a new 1 vs 100, it’s claimed. The online quiz show originally ran on Xbox Live in 2009 → http://cpc.cx/wiq
+
+- 🇺🇸 [VGC] The Xbox PC app will soon let players choose and browse install folders. The news opens up the possibility of easier modding of Xbox titles → http://cpc.cx/wiA
+
+- 🇺🇸 [Games Industry] Report: Tencent acquires majority stake in Ninjala studio parent. Bloomberg says online giant paid roughly $44 million for Soleil owner Wake Up Interactive → http://cpc.cx/wiB
+- 🇺🇸 [Games Industry] Tencent international revenue up, China's regulations limit domestic growth. International games revenue was up 20% year-on-year during Q3 2021 → http://cpc.cx/wiC
+
+- 🇺🇸 [GamesBeat] Far Cry creative director Dan Hay is leaving Ubisoft → http://cpc.cx/wiD
+- 🇺🇸 [Games Industry] Far Cry dev Dan Hay leaving Ubisoft. Executive producer of Far Cry 3 through Far Cry: New Dawn steps down; Sandra Warren named interim head of Far Cry brand team → http://cpc.cx/wiv
+- 🇫🇷 [Gamekult] Dan Hay quitte Ubisoft après 10 ans à veiller sur Far Cry, au moment où la franchise emprunterait un virage live-service → https://gamekult.com/actualite/-3050844485.html
+- 🇫🇷 [Gamekult] Ubisoft : une hausse des salaires et des congés payés au Canada pour limiter la fuite des talents ? Pendant que les employés militants restent sur leur faim → https://gamekult.com/actualite/-3050844387.html
+- 🐦 [Twitter] A Better Ubisoft → https://twitter.com/abetterubisoft
+
+- Thunderful Games → https://thunderfulgames.com/
+  - [Thunderful Games] Play The Gunk December 16th on Xbox with Game Pass → http://cpc.cx/wiF
+  - [Thunderful Games] World Premiere – SteamWorld returns with a head-over-heels adventure in full 3D! → http://cpc.cx/wiI
+  - [Thunderful Games] Wavetale → https://thunderfulgames.com/games/wavetale/
+  - [Thunderful Games] Experience the monochromatic wonder of White Shadows → http://cpc.cx/wiG
+  - [Thunderful Games] Cursed to Golf, by par the best golf game ever made! → http://cpc.cx/wiK
+  - [Thunderful Games] Metroidvania goes full throttle in Laika: Aged Through Blood → http://cpc.cx/wiL
+
+- 🇺🇸 [VGC] GTA Trilogy PC players have been locked out for over 12 hours. Due to Rockstar Launcher downtime, players who bought the game are still unable to play it → http://cpc.cx/wiE
+- 🇺🇸 [VGC] Here’s how GTA Trilogy: Definitive Edition compares on PS4 vs Switch. See the first PS4 vs Switch screenshots → http://cpc.cx/wip
+
+- 🇺🇸 [VGC] Twitch has finally launched on Nintendo Switch. The streaming platform now has an app on the Nintendo eShop → http://cpc.cx/wiO
+
+- 🇬🇧 [Eurogamer] Level editor coming to Baba Is You in free update. Baba Is Updated → http://cpc.cx/wiP
+
+raids : Gautoz => Ultia.
+
 
 
 
