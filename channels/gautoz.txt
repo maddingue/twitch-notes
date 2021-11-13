@@ -8478,7 +8478,7 @@ raids : Gautoz => ALaiseBlaze.
 :::::
 - 🇺🇸 [Games Industry] Denuvo DRM renders legitimate games temporarily unplayable. Company says unreachable domain made games like Guardians of the Galaxy and Football Manager 2 unplayable for customers → http://cpc.cx/whv
 
-raids : Gautoz => Modiiie => OsmosisCoop => Super_Bulle
+raids : Gautoz => Modiiie => OsmosisCoop => Super_Bulle => Creal_el_Killer.
 
 
 --------------------------------------
