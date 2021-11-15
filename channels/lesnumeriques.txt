@@ -1727,6 +1727,43 @@ raids : lesnumeriques => marmiton_officiel.
 raids : lesnumeriques => Mizu.
 
 
+--------------------------------------
+2021-11-10
+
+- [CNET France] Unify Tech recrute deux développeurs PHP / Symfony. Pour s'améliorer, optimiser ses performances, grandir et lancer de nouveaux projets, le groupe Unify Tech, éditeur de sites CNET France, ZDnet, Gamekult et Les Numeriques recherche deux développeurs back-end PHP/Symfony en CDI → https://www.cnetfrance.fr/news/unify-tech-recrute-un-developpeur-php-symfony-39924859.htm
+- [Les Numériques] L'Intel 4004, premier processeur du fondeur, fête aujourd'hui ses 50 ans → https://lesnumeriques.com/cpu-processeur/-n171113.html
+- [Engadget] Sony and TSMC attempt to address chip shortages with a factory in Japan. The factory will only be ready in 2024, however → https://www.engadget.com/sony-tsmc-confirm-japan-factory-chip-shortage-153515725.html
+- Vissles LP85: Ultra-Thin 75% Optical-Mechanical Keyboard → https://www.kickstarter.com/projects/vissles/vissles-lp85ultra-thin-75-optical-mechanical-keyboard
+- [Les Numériques] Logitech apporte couleur et originalité avec sa nouvelle gamme de claviers/souris Pop → https://lesnumeriques.com/clavier/-n171177.html
+- The Lord of the Rings Has Landed - The world of Middle-earth has reached our Mech Keys community here on Drop. Visit this page for officially licensed keycap sets, wrist rests, artisan keycaps, and more → https://drop.com/featured/lotr
+- [Android Police] Samsung Galaxy S21 FE fully revealed thanks to leaked marketing materials → https://www.androidpolice.com/samsung-galaxy-s21-fe-fully-revealed-thanks-to-leaked-marketing-materials/
+- [CNET France] Google Pixel 6 : le déverrouillage facial était prévu, mais n’est finalement pas sorti. Du code source confirme que les Pixel 6 et 6 Pro auraient dû proposer la reconnaissance faciale → https://www.cnetfrance.fr/news/google-pixel-6-le-deverrouillage-facial-etait-prevu-mais-n-est-finalement-pas-sorti-39932281.htm
+- [Les Numériques] Astell & Kern se lance dans l’enceinte sans-fil avec l’Acro BE100 → https://lesnumeriques.com/platine-musicale-serveur-audio/-n171049.html
+- [Les Numériques] Aonic Free : Shure sort une nouvelle paire d’écouteurs true wireless → https://lesnumeriques.com/intra-ecouteur-true-wireless/-n171063.html
+- [Les Numériques] Nuki Smart Lock 3.0 et 3.0 Pro : deux nouvelles serrures connectées pour une montée en gamme → https://lesnumeriques.com/objet-connecte/-n171145.html
+- [Les Numériques] Xelsis Deluxe & Suprema : Saeco étoffe son catalogue avec deux nouvelles cafetières automatiques grand luxe → https://lesnumeriques.com/cafetiere-automatique/-n171191.html
+- [The Verge] Vergecast: How EV startup Rivian achieved a record-breaking IPO. This week’s tech headlines on our flagship podcast → https://theverge.com/2021/11/12/22778165/
+- [Les Numériques] Renault Arkana : ce SUV cartonne, on vous explique pourquoi ! → https://lesnumeriques.com/voiture/-n171175.html
+- [Les Numériques] Renault se cantonne aux batteries lithium-ion pour ses prochaines voitures électriques → https://lesnumeriques.com/voiture/-n171027.html
+- [Les Numériques] Le constructeur vietnamien VinFast signe un accord avec EDF pour l’installation de bornes de recharge en France → https://lesnumeriques.com/voiture/-n171193.html
+- [Les Numériques] Lancia fera son retour en France en 2024 et lancera trois nouveaux modèles électriques → https://lesnumeriques.com/voiture/-n171131.html
+- [Les Numériques] Toyota bZ4X et Subaru Solterra : deux nouveaux jumeaux dans la grande famille des SUV électriques → https://lesnumeriques.com/voiture/-n171187.html
+- [Les Numériques] Il sera bientôt possible d’autoriser un paiement avec son empreinte digitale à bord de sa Mercedes → https://lesnumeriques.com/voiture/-n171075.html
+- [CNBC] GM Defense plans to produce military vehicle based on Hummer EV in 2022 → https://www.cnbc.com/2021/11/09/gm-plans-to-produce-military-vehicle-based-on-hummer-ev-in-2022.html
+- [Les Numériques] Test Pure Flux One : un vélo électrique léger et épuré → https://www.lesnumeriques.com/velo-electrique/pure-electric-flux-one-p66021/test.html
+- [Les Numériques] Le vélo cargo longtail R500 Elec de Decathlon fait son entrée à 2700 € → https://lesnumeriques.com/velo-electrique/-n171219.html
+- [Les Numériques] Essai Piaggio 1 Active : branché pour sortir en ville → https://lesnumeriques.com/scooter/-n170943.html
+- [Les Numériques] Zero Motorcycles SR : une moto électrique évolutive qui se veut accessible → https://lesnumeriques.com/moto/-n171215.html
+- [Les Numériques] Super Soco à l’assaut de la moto électrique premium avec la Vmoto Stash → https://lesnumeriques.com/moto/-n171209.html
+- [Les Numériques] Netflix se lance doucement mais officiellement dans le gaming → https://lesnumeriques.com/jeux-video/-n170759.html
+- [Les Numériques] Kenobi absent, du Marvel en pagaille, Disney à l'honneur : retour sur le Disney+ Day → https://lesnumeriques.com/vie-du-net/-n171217.html
+- [The Verge] Steam Deck: Five big things we learned from Valve’s developer summit. Don’t wait up for the white Portal-themed one → https://www.theverge.com/22779252/steam-deck-things-we-learned-from-valve-developer-summit
+- 🇫🇷 [Gamekult] Les premières livraisons de Playdate sont aussi repoussées début 2022 → https://gamekult.com/actualite/-3050844493.html
+- 🇺🇸 [VGC] The Playdate handheld has been delayed until 2022. Problems with the battery and CPU shortages have held back the crank-based device → http://cpc.cx/wio
+
+raids : LesNumeriques => Koka.
+
+
 
 
 
