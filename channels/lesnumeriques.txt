@@ -1728,7 +1728,7 @@ raids : lesnumeriques => Mizu.
 
 
 --------------------------------------
-2021-11-10
+2021-11-15
 
 - [CNET France] Unify Tech recrute deux développeurs PHP / Symfony. Pour s'améliorer, optimiser ses performances, grandir et lancer de nouveaux projets, le groupe Unify Tech, éditeur de sites CNET France, ZDnet, Gamekult et Les Numeriques recherche deux développeurs back-end PHP/Symfony en CDI → https://www.cnetfrance.fr/news/unify-tech-recrute-un-developpeur-php-symfony-39924859.htm
 - [Les Numériques] L'Intel 4004, premier processeur du fondeur, fête aujourd'hui ses 50 ans → https://lesnumeriques.com/cpu-processeur/-n171113.html
@@ -1763,6 +1763,25 @@ raids : lesnumeriques => Mizu.
 
 raids : LesNumeriques => Koka.
 
+
+--------------------------------------
+2021-11-16
+
+- [Les Numériques] Test Delonghi Specialista Maestro : la cafetière semi-automatique devient plus accessible → https://www.lesnumeriques.com/cafetiere-automatique/delonghi-specialista-maestro-p65585/test.html
+- [Les Numériques] Test Cafetière automatique avec broyeur Saeco Gran Aroma SM6580 : pour un coup de fouet caféiné et personnalisé → https://www.lesnumeriques.com/cafetiere-automatique/saeco-sm6580-p65685/test.html
+- [Les Numériques] Café en grain vs capsules/dosettes : le vrai coût d'usage des machines → https://lesnumeriques.com/cafetiere-automatique/-a3103.html
+
+- [Les Numériques] Windows 11 : l'écran bleu de la mort (BSoD) est de retour → https://lesnumeriques.com/appli-logiciel/-n171257.html
+- [Les Numériques] La nouvelle antenne Starlink est plus petite et légère, mais toujours aussi chère → https://lesnumeriques.com/vie-du-net/-n171241.html
+- [Electrek] New Teslas delivered with surprise missing USB ports due to parts shortages → https://electrek.co/2021/11/12/new-teslas-delivered-with-surprise-missing-usb-ports-due-to-parts-shortages/
+- Hyundai Motor Pays Tribute to Original Grandeur Flagship Sedan with Heritage Series EV Resto-mod → https://www.hyundai.com/worldwide/en/company/newsroom/hyundai-motor-pays-tribute-to-original-grandeur-flagship-sedan-with-heritage-series-ev-resto-mod-0000016755
+- [Les Numériques] Labo – Canon EOS R3 : l'autofocus le plus performant du marché photo ? → https://lesnumeriques.com/reflex-hybride/-n171225.html
+- [MacRUmors] iOS 15.2 Beta Adds Messages Communication Safety Feature for Kids → https://www.macrumors.com/2021/11/09/apple-messages-communication-safety-ios-15-2/
+- [Les Numériques] Pornographie : une proposition de loi pour installer un contrôle parental sur les smartphones → https://lesnumeriques.com/vie-du-net/-n171197.html
+- [VICE] Virginia School Board Bans ‘Sexually Explicit’ Books, Threatens to Burn Them → https://www.vice.com/en/article/4awd7q/virginia-school-board-bans-sexually-explicit-books-threatens-to-burn-them
+- [CBS Baltimore] Cambridge Mayor Andrew Bradshaw Charged With Distributing Revenge Porn On Reddit → https://baltimore.cbslocal.com/2021/11/15/cambridge-mayor-andrew-bradshaw-charged-for-distributing-revenge-porn-state-prosecutor-says/
+
+raids : lesnumeriques => marmiton_officiel => lusth => faudrey_voir => solivann78 => ng_sam_butes.
 
 
 
@@ -1801,4 +1820,5 @@ clips :
 🎥 Lâm ouvre aussi le bracelet de la montre de Kevin, sans aucun respect → https://clips.twitch.tv/PoisedFuriousTildeDBstyle-oOiolnA4Qw880aVm
 🎥 cet homme a 42 ans → https://clips.twitch.tv/EsteemedMistyAsparagusBatChest-Cycc3_pJDbabB9tg
 🎥 Darth Lâm → https://clips.twitch.tv/NaiveEsteemedMuleThisIsSparta-9mn7Os9v_Nn6XWpr
+🎥 Lâm s'engage à faire le café pour Hubert → https://clips.twitch.tv/DifferentBombasticPizzaDogFace-al8TEUVZ67PMxiT4
 
