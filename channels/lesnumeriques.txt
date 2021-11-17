@@ -1784,6 +1784,57 @@ raids : LesNumeriques => Koka.
 raids : lesnumeriques => marmiton_officiel => lusth => faudrey_voir => solivann78 => ng_sam_butes.
 
 
+--------------------------------------
+2021-11-17
+
+- [Ars Technica] UK announces national security probe of Nvidia’s $54 billion Arm deal. Phase 2 investigation into transaction ordered on public interest grounds → https://arstechnica.com/tech-policy/2021/11/uk-announces-national-security-probe-of-nvidias-54-billion-arm-deal/
+- [The Verge] Qualcomm’s next-gen CPU for PCs will take on Apple’s M-series chips in 2023. Developed by the Nuvia team → https://theverge.com/2021/11/16/22785181/
+- [Wired] (24 avril 2008) Four Reasons Apple Bought PA Semi → https://www.wired.com/2008/04/four-reasons-ap/
+- Qualcomm to Acquire NUVIA → https://www.qualcomm.com/news/releases/2021/01/13/qualcomm-acquire-nuvia
+- [TechCrunch] (15 novembre 2019) Three of Apple and Google’s former star chip designers launch NUVIA with $53M in series A funding.  Can the smartest mobile chip designers rethink silicon in the enterprise data center? → https://techcrunch.com/2019/11/15/three-of-apple-and-googles-former-star-chip-designers-launch-nuvia-with-53m-in-series-a-funding/
+- Happy Hacking Keyboard → https://www.hhkeyboard.com/fr/
+- [Google] Full OTA Images for Nexus and Pixel Devices → https://developers.google.com/android/ota
+- [XDA Developers] Pixel 6’s surprise mid-November update fixes the fingerprint scanner issue → https://www.xda-developers.com/pixel-6-november-update-fingerprint-bug-fixed/
+- [Frandroid] Voici ce qu’il se passe quand un spécialiste du grille-pain crée un smartphone Android → https://www.frandroid.com/produits-android/smartphone/1126513_balmuda
+- [The Verge] The Balmuda Phone is a compact Android phone from a high-end toaster company. A 4.9-inch screen for over $900 in Japan → https://theverge.com/2021/11/16/22784878/
+-  Fujifilm launches Hybrid instant camera “instax mini Evo” → https://www.fujifilm.com/jp/en/news/hq/7203
+- [Les Numériques] Lidl lance son Monsieur Cuisine Connect Smart le 6 décembre prochain → https://lesnumeriques.com/robot-cuiseur-multifonction/-n171343.html
+- [The Verge] Spotify, Discord, and others are coming back online after a brief Google Cloud outage. A Google Cloud networking issue made a mess of the internet for a moment → https://www.theverge.com/2021/11/16/22785599/
+- [Les Numériques] Citroën plaide en faveur des hybrides rechargeables, pointées du doigt pour leur pollution réelle → https://lesnumeriques.com/voiture/-n171269.html
+- Lucid Motors → https://www.lucidmotors.com/
+- [Vox] Electric car startup Lucid Motors is short of cash and weighing its options. Will Lucid ever launch its Tesla-like sedan? Or will it be a Ford? → https://www.vox.com/2017/7/20/15999024/
+- [Les Numériques] Test Canon RF 100mm F2.8L Macro IS USM : un objectif macro hors du commun → https://www.lesnumeriques.com/focales-fixes/canon-rf-100mm-f2-8l-macro-is-usm-p62991/test.html
+- [Les Numériques] Test Huawei Nova 9 : sans 5G, difficile d'émerger → https://www.lesnumeriques.com/telephone-portable/huawei-nova-9-p65409/test.html
+- [Les Numériques] Alibaba : nouveau record de ventes pour son rendez-vous commercial 11.11 → https://lesnumeriques.com/pro/alibaba-nouveau--n171181.html
+- [Les Numériques] Carrefour investit 3 milliards dans le numérique et s'associe à Meta (Facebook)) → https://lesnumeriques.com/vie-du-net/-n171203.html
+- [Les Numériques] YouTube masque le compteur de dislikes pour toutes les vidéos → https://lesnumeriques.com/vie-du-net/-n171183.html
+- [The Verge] Patreon’s building native video hosting for creators to sidestep YouTube. CEO Jack Conte: ‘We’re building a video product’ → https://theverge.com/2021/11/11/22774301/
+ PomplamooseMusic → https://www.youtube.com/c/PomplamooseMusic- 
+ - [Twitter] Testing “Take a Break” 🧑‍🔬 → https://twitter.com/mosseri/status/1458468539812044803
+- [ZDNet France] Twitter lance son premier service d'abonnement, Twitter Blue. Ce service, lancé d'abord au Canada et en Australie, est la première tentative de Twitter de diversifier ses sources de revenus grâce à un modèle économique d'abonnement → https://www.zdnet.fr/actualites/video-twitter-lance-son-premier-service-d-abonnement-twitter-blue-39923911.htm
+- Threader has joined Twitter → https://threader.app/threader-has-joined-twitter
+- [Les Numériques] Pourquoi 50 % du trafic mondial de notes vocales sur Facebook provient du Cambodge → https://lesnumeriques.com/vie-du-net/-n171337.html
+- [Les Numériques] Le bitcoin connaît une mise à niveau majeure avec l'activation de Taproot → https://lesnumeriques.com/pro/-n171237.html
+- [Les Numériques] Aux États-Unis, certains cinémas acceptent désormais les paiements en cryptos → https://lesnumeriques.com/vie-du-net/-n171341.html
+- [The Verge] LA’s Staples Center will be renamed ‘Crypto.com Arena'. One of the biggest naming rights deals in history → https://www.theverge.com/2021/11/17/22786809/
+- [The Verge] Tim Cook says he owns cryptocurrency, as part of a ‘diversified portfolio’ → https://www.theverge.com/2021/11/9/22772092/
+- [The Verge] Twitter is launching a dedicated crypto team, part of its push toward decentralization → https://www.theverge.com/2021/11/10/22774501/
+- [Les Numériques] La Chine accentue ses efforts contre le minage de cryptomonnaies → https://lesnumeriques.com/pro/-n171349.html
+- [VICE] Swedish Officials Call For EU-Wide Ban On ‘Proof of Work’ Crypto Mining. The officials argue that if energy-intensive crypto mining remains legal, the European Union will not be able to meet its climate targets → https://www.vice.com/en/article/dypv8z/swedish-officials-call-for-eu-wide-ban-on-proof-of-work-crypto-mining
+- [GQ] How Xbox outgrew the console: inside Phil Spencer’s multi-billion dollar gamble → https://www.gq-magazine.co.uk/culture/article/xbox-phil-spencer-todd-howard-interview
+- [Les Numériques] Forza Horizon 5 : comment Playground Games a créé son magnum opus technique sur consoles et PC → https://lesnumeriques.com/jeux-video/-a171233.html
+
+- 🇺🇸 [Wall Street Journal] Activision CEO Bobby Kotick knew for years about sexual-misconduct allegations at videogame giant. Top executive didn’t inform board of some reports, including alleged rapes; company faces multiple regulatory investigations → http://cpc.cx/wlh
+- 🇺🇸 [Games Industry] Report: Activision Blizzard's Kotick knew of sexual misconduct issues for years. Wall Street Journal says publisher's CEO threatened to have his assistant killed, intervened to keep Treyarch co-head after HR recommended firing him, and more → http://cpc.cx/wlj
+- 🇺🇸 [VGC] Report alleges Activision boss Bobby Kotick knew about misconduct and ‘made death threat’. It’s claimed Kotick withheld sexual misconduct allegations from Activision’s board → http://cpc.cx/wlk
+- 🇫🇷 [Gamekult] Activision : selon le Wall Street Journal, Bobby Kotick a mis les scandales sexuels sous l'éteignoir. Le quotidien accuse le PDG du groupe d'être au courant des agressions et du harcèlement depuis des années → https://gamekult.com/actualite/-3050844603.html
+- 🇺🇸 [VGC] Bobby Kotick Actually Wrote Fran Townsend's Deranged, Company-Wide Email. The email led to a staff walkout earlier this year. Kotick now "regrets" it → http://cpc.cx/wlH
+- 🇺🇸 [Games Industry] Activision Blizzard board gives Kotick a vote of confidence. Amid calls for the CEO's dismissal, board of directors "remains confident that Bobby Kotick appropriately addressed workplace issues brought to his attention" → http://cpc.cx/wln
+- 🇺🇸 [Games Industry] Activision Blizzard employee group calls for Kotick's ouster. ABK Workers Alliance stages walkout, says it "will not be silenced until Bobby Kotick has been replaced as CEO" → http://cpc.cx/wlo
+
+raids : lesnumeriques => TiTavion => bakadevil -> lynkus_
+
+
 
 
 - [Les Numériques] 
