@@ -1832,7 +1832,41 @@ raids : lesnumeriques => marmiton_officiel => lusth => faudrey_voir => solivann7
 - 🇺🇸 [Games Industry] Activision Blizzard board gives Kotick a vote of confidence. Amid calls for the CEO's dismissal, board of directors "remains confident that Bobby Kotick appropriately addressed workplace issues brought to his attention" → http://cpc.cx/wln
 - 🇺🇸 [Games Industry] Activision Blizzard employee group calls for Kotick's ouster. ABK Workers Alliance stages walkout, says it "will not be silenced until Bobby Kotick has been replaced as CEO" → http://cpc.cx/wlo
 
-raids : lesnumeriques => TiTavion => bakadevil -> lynkus_
+raids : lesnumeriques => TiTavion => bakadevil -> lynkus_.
+
+
+--------------------------------------
+2021-11-18
+
+- [Les Numériques] Test Canon EOS R3 : un quasi sans-faute pour l'hybride haut de gamme → https://www.lesnumeriques.com/reflex-hybride/canon-eos-r3-p62989/test.html
+- [Les Numériques] Test Mixcover Eplucheuse Veggi : l'accessoire de découpe qui manquait au Thermomix → https://www.lesnumeriques.com/divers-electromenager/mixcover-eplucheuse-veggi-compatible-avec-le-thermomix-tm6-t-p65809/test.html
+- [AnandTech] The Mountain Everest Max mechanical keyboard review: reaching new heights in build quality → https://www.anandtech.com/show/17000/
+- [CNET France] Comment nettoyer et désinfecter son clavier et sa souris. La saleté s'incruste partout, et surtout entre les touches de notre clavier et entre les boutons de notre souris. Ces quelques mesures rapides à mettre en œuvre de façon régulière vont vous permettre de nettoyer et désinfecter vos appareils qui sont constamment en contact avec vos mains → https://www.cnetfrance.fr/produits/comment-nettoyer-et-desinfecter-son-clavier-et-sa-souris-39900973.htm
+- Apple annonce la mise en place du programme Self Service Repair → https://www.apple.com/fr/newsroom/2021/11/apple-announces-self-service-repair/
+- [I Fix It] Everyone is a Genius: Apple will offer parts and tools for DIY repairs → https://fr.ifixit.com/News/55370/
+- [The Verge] The shareholder fight that forced Apple’s hand on repair rights. ‘The timing is definitely no coincidence,’ says shareholder group → https://theverge.com/2021/11/17/22787336/
+- [Green Century Funds] New Green Century shareholder proposal presses Apple* to expand access to repair → https://www.greencentury.com/green-century-shareholder-proposal-presses-apple-to-expand-access-to-repair/
+- [John Gruber] Apple’s New Self Service Repair Program → https://daringfireball.net/2021/11/apple_self_service_repair_program
+- [Les Numériques] Intel Core 12e gén. : les versions pour PC portables sont prometteuses → https://lesnumeriques.com/cpu-processeur/-n171353.html
+- [Les Numériques] Realme pourrait proposer un smartphone pliable plus abordable dès 2022 → https://lesnumeriques.com/telephone-portable/-n171395.html
+- [Les Numériques] Windows 10 : Microsoft ne publiera qu'une mise à jour majeure par an → https://lesnumeriques.com/appli-logiciel/-n171393.html
+- fil Twitter du projet OBS → https://twitter.com/OBSProject/status/1460782968633499651
+- réponse Twitter de Streamlabs → https://twitter.com/streamlabs/status/1461044715634135046
+- [HyperBeast] McIntosh Labs Brings the Iconic MC3500 Amplifier From Woodstock '69 Back to Life → https://hypebeast.com/2021/11/mcintosh-laboratory-1969-woodstock-mc3500-1-channel-vacuum-tube-amplifier-mk-ii
+- [Les Numériques] Samsung fait l'impasse sur ses téléviseurs Micro-Led plus petits → https://lesnumeriques.com/tv-televiseur/-n171309.html
+- [Les Numériques] Toyota, Mazda et Subaru s'unissent pour sauver le moteur à combustion → https://lesnumeriques.com/voiture/-n171377.html
+- [CNET] Barbie Extra Car is an over-the-top LA Auto Show debut for kids. Naturally, there's a smaller version, too → https://www.cnet.com/roadshow/news/barbie-extra-car-debut-mattel-walmart-la-auto-show/
+- [Business Insider] Instagram’s video selfie verification feature can be easily tricked with a Barbie doll → https://www.businessinsider.in/tech/apps/news/instagram-video-selfie-verification-feature-tricked-by-a-barbie-doll/articleshow/87773617.cms
+- [The Verge] YouTube co-founder predicts ‘decline’ of the platform following removal of dislikes. It’s a ‘universally disliked change,’ says co-founder Jawed Karim → https://theverge.com/2021/11/17/22787080/
+- [The Verge] Rittenhouse defense requests a mistrial after iPhone Mail app compresses key video evidence. Prosecutors say a detective tried to AirDrop full-res video, but couldn’t because defense attorneys use Android → https://theverge.com/2021/11/17/22788080/
+- [Les Numériques] Activision Blizzard : les employés réclament le départ du PDG Bobby Kotick → https://lesnumeriques.com/vie-du-net/-n171409.html
+- [Polygon] Bobby Kotick must resign. New allegations in a report from the Wall Street Journal suggest the CEO of Activision Blizzard isn’t fit to fix the company → https://www.polygon.com/22785788/bobby-kotick-resign-activision-blizzard-controversy-allegations
+- [Engadget] PlayStation head Jim Ryan criticizes Activision Blizzard response to sexual harassment scandal. Ryan addressed the situation in an email to employees → https://www.engadget.com/jim-ryan-email-activision-blizzard-195248273.html
+- [Washington Post] Group of Activision Blizzard shareholders joins call for CEO Bobby Kotick’s resignation → https://www.washingtonpost.com/video-games/2021/11/17/bobby-kotick-resignation-shareholders/
+
+raids : lesnumeriques => marmiton_officiel => trinity -> wisethug
+
+
 
 
 
@@ -1844,6 +1878,7 @@ raids : lesnumeriques => TiTavion => bakadevil -> lynkus_
 - [The Verge] 
 - [XDA Developers] 
 - [Engadget] 
+- [AnandTech] 
 
 📺 Les Numériques sur YouTube → https://youtube.com/user/LesNumeriques
 📷 Les Numériques sur Instagram → https://instagram.com/lesnumeriques/
