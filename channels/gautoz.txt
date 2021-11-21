@@ -8611,8 +8611,47 @@ De but en blanc : Le mot but (ou butte) désignait le monticule sur lequel on pl
 :::::
 - 🇺🇸 [Games Industry] Xbox Studios' Cox on ethical monetization: "Design to reduce regret". Former MapleStory director and Guild Wars 2 head of commerce Crystin Cox says devs need to think about where their own ethical lines are  → http://cpc.cx/wlt
 
-raids : Gautoz => At0mium => SnoozInSnoozyLand => thana_khan
+raids : Gautoz => At0mium => SnoozInSnoozyLand => thana_khan.
 
+
+--------------------------------------
+2021-11-19
+
+tenir la dragée haute - Étymologie : (Date à préciser) Composé de tenir, dragée et haut, cette locution serait tirée d’un vieux jeu pour enfants qui supposait d’accrocher ces bonbons au bout d’une ligne de canne à pêche qu’un adulte tenait en hauteur → https://fr.wiktionary.org/wiki/tenir_la_drag%C3%A9e_haute
+
+- 🇺🇸 [Kotaku] See Arya Stark fight Batman in W.B.’s bonkers new fighting game. MultiVersus, first leaked last month, looks cooler than the elevator pitch → http://cpc.cx/wmV
+
+- 🇫🇷 [Gamekult] Capcom annonce le report de Pragmata à 2023 → https://gamekult.com/actualite/-3050844639.html
+
+
+- 🇫🇷 [Les Numériques] Activision Blizzard : les employés réclament le départ du PDG Bobby Kotick → https://lesnumeriques.com/vie-du-net/-n171409.html
+- 🇺🇸 [VGC] Activision Blizzard staff and players are petitioning for Bobby Kotick’s resignation. Over 1,300 Activision Blizzard employees have called for the under-fire CEO to step down → http://cpc.cx/wmS
+- 🐦 [Twitter] A better ABK public petition → https://twitter.com/ABetterABK/status/1461427424571400199
+
+- 🇺🇸 [Washington Post] Group of Activision Blizzard shareholders joins call for CEO Bobby Kotick’s resignation → http://cpc.cx/wmN
+
+- 🇺🇸 [Engadget] PlayStation head Jim Ryan criticizes Activision Blizzard response to sexual harassment scandal. Ryan addressed the situation in an email to employees → http://cpc.cx/wmO
+- 🇫🇷 [Gamekult] Affaire Kotick : Sony demande des explications à Activision Blizzard, Microsoft fait part de son inquiétude → https://gamekult.com/actualite/-3050844669.html
+- 🇺🇸 [The Verge] Microsoft Xbox boss Phil Spencer tells staff he’s ‘deeply troubled’ by Activision Blizzard. Bloomberg reports Spencer is ‘evaluating all aspects of our relationship’ → https://theverge.com/2021/11/18/22789881/
+- 🇺🇸 [VGC] Phil Spencer is ‘evaluating Xbox’s relationship with Activision’ following Kotick allegations. The Xbox boss says the team is “disturbed and deeply troubled” by recent events → http://cpc.cx/wmT
+
+- 🇺🇸 [Games Industry] Kotick's poor decision-making has only deepened Activision Blizzard's crisis. The Activision Blizzard boss has prioritised his own survival as CEO over the company's best interests in recent months - a competent board would demand his resignation → http://cpc.cx/wmR
+- 🇺🇸 [Polygon] Bobby Kotick must resign. New allegations in a report from the Wall Street Journal suggest the CEO of Activision Blizzard isn’t fit to fix the company → http://cpc.cx/wmP
+- 🇺🇸 [Eurogamer] The games industry must not tolerate people like Bobby Kotick anymore. Activision's CEO should take responsibility and stand aside → http://cpc.cx/wmM
+
+- An update on Girls Who Code’s partnership with Activision Blizzard → https://girlswhocode.medium.com/-60d9065ee0d8
+
+
+- 🇺🇸 [Axios] Microsoft gaming chief calls for industry-wide game preservation → http://cpc.cx/wmZ
+- 🇺🇸 [Kotaku] Microsoft exec praises preservation and emulation, but Xbox isn't getting more. New Xboxes already emulate some older games, gaming VP wants industry to follow suit → http://cpc.cx/wmY
+
+- 🇺🇸 [Games Industry] Yooka-Laylee developer Playtonic plots new studios following major Tencent investment. The company says it expects to double its headcount in the next few years → http://cpc.cx/wn0
+
+- 🇫🇷 [Gamekult] Ubisoft annonce l'ouverture de son mini-parc d'attractions à Béziers, en attendant l'arrivée d'un parc à thème Ubisoft "à grande échelle" → https://gamekult.com/actualite/-3050844673.html
+
+- 🇫🇷 [Gamekult] Sloclap avance la sortie de Sifu au 8 février, soit deux semaines plus tôt, et présente son gameplay dans deux nouvelles vidéos → https://gamekult.com/actualite/-3050844679.html
+
+raids : Gautoz => At0mium => keydeegamerboy => desertbusfr
 
 
 
@@ -8671,6 +8710,7 @@ clips :
 🎥 la défense de Gautoz à l'irrespect de la rédaction Gamekult → https://clips.twitch.tv/AthleticFlaccidMetalHotPokket-iJiUoRUz8vGz1NBf
 🎥 le vieux Puyo n'aime pas Outer Wilds → https://clips.twitch.tv/GoodRoundMacaroniBabyRage-IHp1YJgffyzTaaru
 🎥 Bonjour Cher Gautoz, tu penses quoi de Disco Elysium → https://clips.twitch.tv/SpookyIncredulousPonyTakeNRG-Whi1O7cl9a3tjlNw
+🎥 Gautoz respire la forme → https://clips.twitch.tv/HorribleAgreeableHyenaUnSane-hMLgcAMNZY7oelOA
 
 Doudoune défonce le stream (2021-02-23) :
 - https://clips.twitch.tv/SilkyBenevolentGaurPogChamp-v-8xcJv_WtD4x60s -- et là, c'est le drame
