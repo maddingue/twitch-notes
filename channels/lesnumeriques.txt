@@ -1862,10 +1862,42 @@ raids : lesnumeriques => TiTavion => bakadevil -> lynkus_.
 - [Les Numériques] Activision Blizzard : les employés réclament le départ du PDG Bobby Kotick → https://lesnumeriques.com/vie-du-net/-n171409.html
 - [Polygon] Bobby Kotick must resign. New allegations in a report from the Wall Street Journal suggest the CEO of Activision Blizzard isn’t fit to fix the company → https://www.polygon.com/22785788/bobby-kotick-resign-activision-blizzard-controversy-allegations
 - [Engadget] PlayStation head Jim Ryan criticizes Activision Blizzard response to sexual harassment scandal. Ryan addressed the situation in an email to employees → https://www.engadget.com/jim-ryan-email-activision-blizzard-195248273.html
-- [Washington Post] Group of Activision Blizzard shareholders joins call for CEO Bobby Kotick’s resignation → https://www.washingtonpost.com/video-games/2021/11/17/bobby-kotick-resignation-shareholders/
 
 raids : lesnumeriques => marmiton_officiel => trinity -> wisethug
 
+
+--------------------------------------
+2021-11-19
+
+- [Les Numériques] L'autorité américaine des médicaments autorise la réalité virtuelle pour traiter les lombalgies chroniques → https://lesnumeriques.com/vie-du-net/-n171437.html
+- [Les Numériques] Meta présente des gants haptiques pour le metaverse, qui violeraient les brevets de HaptX → https://lesnumeriques.com/vie-du-net/-n171371.html
+- [Engadget] Nreal's Light mixed reality glasses arrive in the US November 30th. Twenty Verizon stores nationwide will carry the device → https://www.engadget.com/nreal-light-mixed-reality-glasses-us-verizon-140017764.html
+- [Ars Technica] Nvidia acquisition of Arm now under scrutiny by FTC. FTC highlights potential objections, adding to UK and European scrutiny of the deal → https://arstechnica.com/tech-policy/2021/11/nvidia-acquisition-of-arm-now-under-scrutiny-by-ftc/
+- [Les Numériques] Nvidia : nouveau record au troisième trimestre → https://lesnumeriques.com/pro/-n171463.html
+- [AnandTech] Qualcomm x Nuvia: Silicon Sampling in Late 2022, Products in 2023 → https://anandtech.com/show/17075/
+- [AnandTech] MediaTek Announces Dimensity 9000: Supercharged Flagship SoC on 4nm → https://anandtech.com/show/17070/
+- [Les Numériques] Motorola : un Moto G200 avec Snapdragon 888+ et quatre Moto G d'entrée de gamme au menu → https://lesnumeriques.com/telephone-portable/-n171457.html
+- [Google] How charging works on Pixel 6 and Pixel 6 Pro → https://support.google.com/pixelphone/thread/135906719/
+- [Les Numériques] Razer Kaira, une nouvelle gamme complète de casques gaming pour PS5 et Xbox Series → https://lesnumeriques.com/casque-gaming-micro/-n171415.html
+- https://you.com/
+- [Auto Moto.com] Hyundai Seven et Kia EV9 : cousins cubiques → https://www.auto-moto.com/insolite/concept-cars/hyundai-seven-kia-ev9-cousins-cubiques-299953.html
+- [Les Numériques] Nouveau Porsche Taycan GTS : nouvelle carrosserie et une autonomie supérieure à 500 km → https://lesnumeriques.com/voiture/-n171467.html
+- [Les Numériques] Voiture électrique : un nouveau câble de recharge pour faire le plein en 5 minutes → https://lesnumeriques.com/voiture/-n171459.html
+- [Wired] Norway is running out of gas-guzzling cars to tax. The oil producing nation is learning what happens after a country fills its roads with electric vehicles → https://www.wired.com/story/norway-electric-vehicle-tax/
+- [Bloomberg] Apple accelerates work on car project, aiming for fully autonomous vehicle. Inc. is pushing to accelerate development of its electric car and is refocusing the project around full self-driving capabilities, according to people familiar with the matter, aiming to solve a technical challenge that has bedeviled the auto industry → https://www.bloomberg.com/news/articles/2021-11-18/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle
+- [Les Numériques] Test Microsoft Surface Go 3 : Windows 11 sur un ordinateur-tablette nomade → https://www.lesnumeriques.com/ordinateur-portable/microsoft-surface-go-3-p65305/test.html
+- [Les Numériques] Test Huawei MateBook 14s : un ultrabook à la prestation ultra-soignée → https://www.lesnumeriques.com/ordinateur-portable/huawei-matebook-14s-p65613/test.html
+- [Les Numériques] Black Friday 2021 : les meilleurs bons plans avant l'heure → https://www.lesnumeriques.com/vie-du-net/black-friday-cyber-monday-e1447.html
+- [Eurogamer] The games industry must not tolerate people like Bobby Kotick anymore.  Activision's CEO should take responsibility and stand aside → https://www.eurogamer.net/articles/2021-11-17-the-games-industry-must-not-tolerate-people-like-bobby-kotick-anymore
+- [Washington Post] Group of Activision Blizzard shareholders joins call for CEO Bobby Kotick’s resignation → https://www.washingtonpost.com/video-games/2021/11/17/bobby-kotick-resignation-shareholders/
+- [The Verge] Microsoft Xbox boss Phil Spencer tells staff he’s ‘deeply troubled’ by Activision Blizzard. Bloomberg reports Spencer is ‘evaluating all aspects of our relationship’ → https://theverge.com/2021/11/18/22789881/
+- [Engadget] The employee behind the #AppleToo protest is leaving the company. She reached a settlement with the tech giant regarding her National Labor Relations Board complaint. → https://www.engadget.com/cher-scarlett-appletoo-leaving-apple-085237633.html
+- [IGN] Star Wars: Galactic Starcruiser Preview - We Visited the Star Wars Hotel! A hotel experience far, far away from anything we’ve ever experienced → https://www.ign.com/articles/star-wars-hotel-galactic-starcruiser-preview
+- [CNET France] Harry Potter fête ses 20 ans avec un événement spécial et un teaser magique. Le trio Daniel Radcliffe, Rupert Grint et Emma Watson se reforme pour une émission spéciale, prévue pour 2022 → https://www.cnetfrance.fr/news/harry-potter-fete-ses-20-ans-avec-un-evenement-special-et-un-teaser-magique-39932529.htm
+- [Les Numériques] Netflix : on sait désormais combien de milliers d'années les abonnés ont passé devant Squid Game → https://lesnumeriques.com/vie-du-net/-n171357.html
+- [Les Numériques] Toujours à la peine en France, Apple TV+ serait moins populaire que Salto → https://lesnumeriques.com/vie-du-net/-n171403.html
+
+raiids : lesnumeriques => kaorinchan => DamDamLive => desertbusfr
 
 
 
