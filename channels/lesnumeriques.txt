@@ -1897,8 +1897,25 @@ raids : lesnumeriques => marmiton_officiel => trinity -> wisethug
 - [Les Numériques] Netflix : on sait désormais combien de milliers d'années les abonnés ont passé devant Squid Game → https://lesnumeriques.com/vie-du-net/-n171357.html
 - [Les Numériques] Toujours à la peine en France, Apple TV+ serait moins populaire que Salto → https://lesnumeriques.com/vie-du-net/-n171403.html
 
-raiids : lesnumeriques => kaorinchan => DamDamLive => desertbusfr
+raids : lesnumeriques => kaorinchan => DamDamLive => desertbusfr
 
+
+--------------------------------------
+2021-11-22
+
+- [Les Numériques] Black Friday 2021 : les vrais bons plans du jour → https://lesnumeriques.com/vie-du-net/-e1447.html
+- [Les Numériques] Guide d'achat de Noël 2021 – Nos idées de cadeaux à moins de 100 € → https://lesnumeriques.com/vie-du-net/-a171271.html
+- [91mobiles] [Exclusive] Google Pixel 6a renders reveal punch-hole display, Pixel 6-like rear camera design, and more → https://www.91mobiles.com/hub/google-pixel-6a-renders-exclusive/
+- [CNET France] L’Apple Car va révolutionner l’industrie automobile selon Morgan Stanley. Morgan Stanley a prévenu ses clients qu’un bouleversement majeur se prépare dans le monde de la voiture électrique. → https://www.cnetfrance.fr/news/l-apple-car-va-revolutionner-l-industrie-automobile-selon-morgan-stanley-39932745.htm
+- [Washington Post] A Tesla factory worker alleges sexual harassment is rampant in a rare lawsuit. Now other women are stepping forward. → https://www.washingtonpost.com/technology/2021/11/19/tesla-sexual-harassment/
+- Life Outside the boys club: why I spoke up about Rivian’s toxic bro culture (and got fired) → https://medium.com/@lauraschwab1/-15600b999ae7
+- [Les Numériques] Retour sur Terre réussi pour la mission Crew-2 de SpaceX avec Thomas Pesquet → https://lesnumeriques.com/spatial/-n171043.html
+- [Les Numériques] Un tir de missile antisatellite russe jugé "irresponsable" par les États-Unis → https://lesnumeriques.com/spatial/-n171339.html
+- EU SST confirms the fragmentation of space object COSMOS 1408 → https://www.eusst.eu/newsroom/eu-sst-confirms-fragmentation-cosmos-1408/
+- [Ars Technica] Russia acknowledges anti-satellite test, but says it’s no big deal → https://arstechnica.com/science/2021/11/russia-acknowledges-anti-satellite-test-but-says-its-no-big-deal/
+- [Kotaku] Rockstar apologizes for busted GTA Trilogy, offers free games to owners. The publisher also promised future updates for the remastered collection → https://kotaku.com/rockstar-apologizes-for-busted-gta-trilogy-offers-free-1848090482
+- 🇫🇷 [Gamekult] Rockstar Games s'excuse pour l'état de GTA Trilogy à la sortie → https://gamekult.com/actualite/-3050844723.html
+- 🐦 [Twitter] This was the only request I had in our ever changing industry! We don’t create albums with so much care and thought into our track listing for no reason → https://twitter.com/Adele/status/1462260324485242881
 
 
 
@@ -1939,4 +1956,8 @@ clips :
 🎥 cet homme a 42 ans → https://clips.twitch.tv/EsteemedMistyAsparagusBatChest-Cycc3_pJDbabB9tg
 🎥 Darth Lâm → https://clips.twitch.tv/NaiveEsteemedMuleThisIsSparta-9mn7Os9v_Nn6XWpr
 🎥 Lâm s'engage à faire le café pour Hubert → https://clips.twitch.tv/DifferentBombasticPizzaDogFace-al8TEUVZ67PMxiT4
+🎥 le studio de Gamekult devient une cuisine → https://clips.twitch.tv/CalmBoredMarrowUncleNox-tvYr0xb8rhVi6vE7
+🎥 1ère surprise, préparer les frites, il faut du sopalin → https://clips.twitch.tv/SmilingBlushingPotCeilingCat-vKFKreRCmodBke3v
+🎥 la vérité sur les odeurs d'huile dans le studio Gamekult → https://clips.twitch.tv/CredulousManlyPeanutDerp-WBgjjZgX0AWcclAR
+🎥 des bisous à Gamekult et à Hubert → https://clips.twitch.tv/TriumphantPluckySwallowImGlitch-n5-nnJy54t0rd8Hj
 
