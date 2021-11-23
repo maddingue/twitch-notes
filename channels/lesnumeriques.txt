@@ -1918,6 +1918,51 @@ raids : lesnumeriques => kaorinchan => DamDamLive => desertbusfr
 - 🐦 [Twitter] This was the only request I had in our ever changing industry! We don’t create albums with so much care and thought into our track listing for no reason → https://twitter.com/Adele/status/1462260324485242881
 
 
+--------------------------------------
+2021-11-23
+
+- [Les Numériques] Test Merlin : l'enceinte conteuse d'histoires de Bayard et Radio France au contenu enchanteur → https://www.lesnumeriques.com/conteuse-histoires/la-chouette-radio-merlin-p66161/test.html
+- [Les Numériques] Quelle conteuse d'histoires pour enfant choisir ? Novembre 2021 → https://lesnumeriques.com/conteuse-histoires/-a171385.html
+- [Les Numériques] Test Lunii Ma Fabrique à Histoires : made in France et riche catalogue pour la numéro 1 des conteuses d'histoires → https://www.lesnumeriques.com/conteuse-histoires/lunii-p25301/test.html
+- [Les Numériques] Test Bookinou : une conteuse d'histoires avec la voix des proches en complément des livres → https://www.lesnumeriques.com/conteuse-histoires/pimely-bookinou-p66149/test.html
+- [XDA Developers] Qualcomm has an exclusivity deal with Microsoft for Windows on ARM → https://www.xda-developers.com/qualcomm-exclusivity-deal-microsoft-windows-on-arm/
+- [CNET France] Crosscall Action-X5 : le fabricant français annonce un nouveau smartphone pour les baroudeurs. Une conception renforcée et une partie vidéo plus performante pour les sportifs et vadrouilleurs. → https://www.cnetfrance.fr/news/crosscall-action-x5-le-fabricant-francais-annonce-un-nouveau-smartphone-pour-les-baroudeurs-39932801.htm
+- [Les Numériques] Samsung Display : l'avenir de ses écrans sera résolument flexible → https://lesnumeriques.com/telephone-portable/-n171693.html
+- [Les Numériques] Oppo X 2021 : un premier smartphone à écran enroulable chez Oppo → https://lesnumeriques.com/telephone-portable/-n157057.html
+- [Les Numériques] Magimix connecte son Blender Power 5 au smartphone → https://lesnumeriques.com/blender/-n171705.html
+- [Les Numériques] Genesis GV70 Electrified : le premium Hyundai s'électrise aussi → https://lesnumeriques.com/voiture/-n171589.html
+- [The Verge] Ford drops plan for Rivian-powered EV. Rivian says the decision was mutual → https://theverge.com/2021/11/19/22791984/
+- [Les Numériques] Nawa Racer, la moto électrique boostée aux super-condensateurs → https://lesnumeriques.com/moto/-n171701.html
+- [Rolls Royce] ‘Spirit of Innovation’ stakes claim to be the world’s fastest all-electric vehicle → https://www.rolls-royce.com/media/press-releases/2021/19-11-2021-spirit-of-innovation-stakes-claim-to-be-the-worlds-fastest-all-electric-vehicle.aspx
+- [Les Numériques] Comparatif des ordinateurs portables : du changement pour plus de précision dans la notation → https://lesnumeriques.com/ordinateur-portable/-n171541.html
+- [Les Numériques] WhatsApp liste plus précisément les données qu'il collecte → https://lesnumeriques.com/vie-du-net/-n171683.html
+- [Les Numériques] Facebook va signer de jolis chèques aux créateurs prêts à animer des Live Audio Rooms → https://lesnumeriques.com/vie-du-net/-n171549.html
+- [Twitter] 🐦Introducing Birdwatch aliases → https://twitter.com/birdwatch/status/1462834006618214400
+- [PR News Wire] Cannabis Retailer Tokyo Smoke and Uber Eats form innovative partnership to offer cannabis online order and pickup in Canada → https://www.prnewswire.com/news-releases/cannabis-retailer-tokyo-smoke-and-uber-eats-form-innovative-partnership-to-offer-cannabis-online-order-and-pickup-in-canada-301429818.html
+- [Les Numériques] Quel bilan pour le premier anniversaire de la 5G ? → https://lesnumeriques.com/mobilite/-n171689.html
+- [Les Numériques] Scaleway, membre fondateur du projet Gaia-X, quitte le programme → https://lesnumeriques.com/pro/-n171519.html
+- [Les Numériques] Quand le logiciel libre tente de se faire une place au sein de l'administration publique → https://lesnumeriques.com/vie-du-net/-n171167.html
+- [Les Numériques] Next40/120 : la mission French Tech lance son appel à candidatures pour l'édition 2022 → https://lesnumeriques.com/pro/-n171473.html
+- [Ars Technica] FBI raids home of Trumpist county clerk in probe of voting-system passwords leak. FBI, Colorado obtain evidence on Tina Peters, who is already barred from elections → https://arstechnica.com/tech-policy/2021/11/fbi-raids-home-of-trumpist-county-clerk-in-probe-of-voting-system-passwords-leak/
+- [Ars Technica] More than 1,000 Android phones found infected by creepy new spyware. PhoneSpy records video and audio and steals contacts, images, messages, and more → https://arstechnica.com/gadgets/2021/11/1000-android-phones-found-infected-by-creepy-new-spyware/
+- [Wired] Hackers Targeted Apple Devices in Hong Kong for Widespread Attack. Visitors to pro-democracy and media sites in the region were infected with malware that could download files, steal data, and more → https://www.wired.com/story/ios-macos-hacks-hong-kong-watering-hole/
+- [VICE] South Korea is giving millions of photos to facial recognition researchers. Travelers to the country are having their biometric data given to private companies under a program recently uncovered by civil rights advocates → https://www.vice.com/en/article/xgdxqd/south-korea-is-selling-millions-of-photos-to-facial-recognition-researchers
+- No Amazon Palm Scanning at Red Rocks → https://www.AmazonDoesntRock.com/
+- [Engadget] Artists, activists demand concert venues drop Amazon's palm-scanning tech. Tom Morello and others see Amazon One as a privacy invasion → https://www.engadget.com/artist-rights-groups-protest-amazon-palm-tech-100024591.html
+- [The Verge] A hedge fund billionaire outbid crypto investors for a rare copy of the US Constitution. The document sold for $43 million on Thursday night → https://theverge.com/2021/11/19/22791989/
+- [Engadget] Canadian police arrest teen for stealing $36.5 million in cryptocurrency. It's one of the biggest crypto thefts involving a single person → https://www.engadget.com/canada-cryptocurrency-arrest-171617452.html
+- [Les Echos] Miramax et Quentin Tarantino s'affrontent au sujet des NFT de « Pulp Fiction ». La société de production, qui avait cofinancé le film dans les années 1990, remet en cause la décision du cinéaste de vendre aux enchères des extraits inédits. → https://www.lesechos.fr/tech-medias/medias/miramax-et-quentin-tarantino-saffrontent-au-sujet-des-nft-de-pulp-fiction-1364663
+- [The Verge] NFT makers are trying to build the next Disney → https://www.theverge.com/22785051/nft-collectibles-intellectual-property-decentralized-disney
+- [Ars Technica] Activision Blizzard CEO Bobby Kotick says he would consider stepping down. He didn't seem to get very specific about what it'd take, though → https://arstechnica.com/gadgets/2021/11/activision-blizzard-ceo-bobby-kotick-says-he-would-consider-stepping-down/
+- [The Verge] Kojima Productions launches new division focused on film and TV. No new projects have been announced yet → https://theverge.com/2021/11/22/22796261/
+- [Engadget] Ridley Scott says a Blade Runner TV series is in development. A script has been written for the pilot → https://www.engadget.com/ridley-scott-blade-runner-tv-series-pilot-174023946.html
+- [Numérama] Sans âme, l’adaptation de Cowboy Bebop par Netflix est un immense gâchis → https://www.numerama.com/pop-culture/756458-ladaptation-de-cowboy-bebop-par-netflix-est-sans-ame-malgre-lalchimie-du-trio.html
+- [Next Impact] Censuré sur Twitch à la demande de BFMTV, le Parti Pirate saisit le CSA → https://www.nextinpact.com/article/48938/censure-sur-twitch-a-demande-bfmtv-parti-pirate-saisit-csa
+
+raids : lesnumeriques => Aubii_ => TiTavion => AVAMind => redfanny_
+
+
+
 
 
 - [Les Numériques] 
