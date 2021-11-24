@@ -1959,7 +1959,43 @@ raids : lesnumeriques => kaorinchan => DamDamLive => desertbusfr
 - [Numérama] Sans âme, l’adaptation de Cowboy Bebop par Netflix est un immense gâchis → https://www.numerama.com/pop-culture/756458-ladaptation-de-cowboy-bebop-par-netflix-est-sans-ame-malgre-lalchimie-du-trio.html
 - [Next Impact] Censuré sur Twitch à la demande de BFMTV, le Parti Pirate saisit le CSA → https://www.nextinpact.com/article/48938/censure-sur-twitch-a-demande-bfmtv-parti-pirate-saisit-csa
 
-raids : lesnumeriques => Aubii_ => TiTavion => AVAMind => redfanny_
+raids : lesnumeriques => Aubii_ => TiTavion => AVAMind => redfanny_ => LAntiStream => ConcretementMoi => yukaino => dragvrallass => ManuelFerraraTV (24h)
+
+
+--------------------------------------
+2021-11-24
+
+- [The Verge] Android 10 is coming to the six-year-old Fairphone 2. And the Fairphone 3 is getting Android 11 → https://theverge.com/2021/11/23/22798512/
+- [Les Numériques] Test Fairphone 4 : le smartphone écolo et modulaire devient plus convaincant → https://www.lesnumeriques.com/telephone-portable/fairphone-fairphone-4-p64625/test.html
+- [Les Numériques] Qualcomm va changer le nom de ses puces Snapdragon → https://lesnumeriques.com/telephone-portable/-n171761.html
+- [The Verge] Samsung is building a new $17 billion advanced chip plant in Texas, creating Creating 1,800 jobs in the city of Taylor → https://theverge.com/2021/11/23/22245325/
+- [MacRumors] TSMC to Begin Producing Apple-Designed 5G Modems for iPhones in 2023 → https://www.macrumors.com/2021/11/23/tsmc-apple-5g-modem-2023/
+- [GSM Arena] OnePlus 10 Pro specs leak - 6.7-inch QHD+ 120Hz, Snapdragon 8 gen 1, IP68 → https://www.gsmarena.com/oneplus_10_pro_specs_leak__67inch_qhd_120hz_snapdragon_8_gen1_ip68-news-51968.php
+- [GSM Arena] Google Pixel 6a to feature Tensor chip but will use older camera setup → https://www.gsmarena.com/google_pixel_6a_to_feature_tensor_chip_but_will_use_older_camera_setup-news-51971.php
+- [SamMobile] Galaxy S21 Ultra gets Pro Mode support for telephoto cameras via Expert RAW app → https://www.sammobile.com/news/galaxy-s21-ultra-pro-mode-telephoto-cameras-expert-raw-app/
+- [Clubic] Sans crier gare, Amazon dévoile 4 nouveaux interrupteurs connectés → https://www.clubic.com/amp/395052-sans-crier-gare-amazon-devoile-4-nouveaux-interrupteurs-connectes.html
+- Wallet of Tomorrow → https://walletmor.com/
+- [Clubic] Alphabet (Google) va intégrer des robots à ses équipes pour les tâches d'entretien → https://www.clubic.com/pro/entreprises/google/actualite-394878-alphabet-google-va-integrer-des-robots-a-ses-equipes-pour-les-taches-d-entretien.html
+- [01net] Ces chercheurs ont développé une appli pour localiser les caméras cachées qui vous espionnent → https://www.01net.com/actualites/ces-chercheurs-ont-developpe-une-appli-pour-localiser-les-cameras-cachees-qui-vous-espionnent-2051568.html
+- [Les Numériques] Palmarès fiabilité : Lexus, Mazda, Toyota en tête, Tesla bon dernier → https://lesnumeriques.com/voiture/-n171735.html
+- [Les Numériques] Nakamura E-Crossover A, V et S, trois vélos électriques urbains et polyvalents chez Intersport → https://lesnumeriques.com/velo-electrique/-n171295.html
+- [MacRumors] Apple Outlines How It Will Notify Users Who Have Been Targeted by State-Sponsored Spyware Attacks → https://www.macrumors.com/2021/11/23/apple-state-sponsored-spyware-threat-notifications/
+- [Le Monde] Wish, le site de vente en ligne, va disparaître des moteurs de recherche en France.  Les services français de la répression des fraudes ont demandé le déréférencement de la plate-forme, dont l’application ne sera plus disponible, pour vente de produits non conformes et dangereux → https://www.lemonde.fr/pixels/article/2021/11/24/le-site-de-vente-en-ligne-wish-va-disparaitre-des-grands-moteurs-de-recherche-en-france_6103342_4408996.html
+- [Les Numériques] France - Nouvelle-Zélande vu à travers les Canon RF 600mm F4L IS USM et RF 100-500mm F4.5-7.1 L IS USM → https://lesnumeriques.com/focales-fixes/-a171711.html
+- [Les Numériques] Test Insta360 GO 2 : une mini action-cam ludique et efficace à glisser partout → https://www.lesnumeriques.com/action-cam/insta360-go-2-p62415/test.html
+- [Les Numériques] Test Nokia T20 : une tablette simple et familiale → https://www.lesnumeriques.com/tablette-tactile/nokia-t20-p65519/test.html
+- [Les Numériques] Reconnaissance faciale : comment et où est-elle utilisée actuellement en France ? → https://lesnumeriques.com/vie-du-net/-n171769.html
+- [Business Insider] Facebook researchers wanted to block racist hate speech, but executives reportedly dismissed their solution to avoid backlash from 'conservative partners' → https://www.businessinsider.fr/us/facebook-meta-employees-hate-speech-dismissed-2021-11
+- 🇺🇸 [Axios] Lawsuit against PlayStation alleges gender discrimination. A former IT security analyst at Sony PlayStation filed a lawsuit against the company in California on Monday, alleging gender discrimination and wrongful termination after speaking up “about discrimination against females” at the gaming giant → http://cpc.cx/wpe
+- [Reuters] Amazon and Apple handed $225 million in Italian antitrust fines → https://www.reuters.com/technology/italys-antitrust-fines-amazon-apple-more-than-200-mln-euros-alleged-collusion-2021-11-23/
+- 🇺🇸 [Games Industry] Epic Games acquires Harmonix. Rock Band maker says it will continue supporting existing titles as it creates "musical journeys" for Fortnite → http://cpc.cx/wp4
+- 🇫🇷 [Gamekult] Epic Games annonce l'acquisition du studio Harmonix → https://gamekult.com/actualite/-3050844821.html
+- 🇺🇸 [Kotaku] Report: Amazon wants to make a Mass Effect TV series. Maybe a TV show will work where attempts to make movies have failed → http://cpc.cx/wpb
+- [ComicBlog] Hawkeye : premier tir manqué pour Marvel Studios → http://www.comicsblog.fr/42167-Hawkeye
+- [The Verge] Spotify’s Netflix hub includes some exclusive audio extras. The new hub contains official playlists and soundtracks from Netflix’s most popular shows and movies → https://theverge.com/2021/11/23/22798338/
+- [VICE] NASA plans to put a nuclear reactor on the Moon within a decade. The agency put out a request for proposals for a lunar nuclear power plant that can power surface exploration → https://www.vice.com/en/article/y3vd4g/nasa-plans-to-put-a-nuclear-reactor-on-the-moon-within-a-decade
+- [Space.com] NASA launches DART asteroid mission to destroy a spacecraft to (potentially) save planet Earth → https://www.space.com/nasa-dart-mission-launch-asteroid-planetary-defense
+- [Numérama] Malgré les critiques sur son bilan carbone, Blue Origin enverra d’autres touristes dans l’espace → https://www.numerama.com/sciences/757670-critique-pour-son-bilan-carbone-blue-origin-enverra-dautres-touristes-dans-lespace.html
 
 
 
