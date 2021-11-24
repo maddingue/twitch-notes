@@ -8703,7 +8703,52 @@ raids : Gautoz => At0mium => Aubii_ => TiTavion => bakadevil.
 rhume carabiné -- A l’origine, « carabiné » n’était pas utilisé pour qualifier un rhume violent et ponctué de pics de fièvre. C’est un adjectif datant du XVIe siècle, qui fait référence aux carabins. Ces soldats de la cavalerie légère étaient connus pour la violence et la soudaineté de leurs attaques. Ils arrivaient jusqu’aux lignes ennemies, déchargeaient d’une seule traite leurs canons et rejoignaient rapidement leurs positions, sans demander leur reste. Ce procédé était relativement efficace et redouté. → https://www.defense.gouv.fr/actualites/articles/un-rhume-carabine
 
 
-raids : Gautoz => CanardPC => AdrienMenielle
+raids : Gautoz => CanardPC => AdrienMenielle => Guile.
+
+
+--------------------------------------
+2021-11-24
+
+avoir à la bonne
+
+être à la bourre
+
+
+- 🇺🇸 [Games Industry] Epic Games acquires Harmonix. Rock Band maker says it will continue supporting existing titles as it creates "musical journeys" for Fortnite → http://cpc.cx/wp4
+- 🇺🇸 [VGC] Epic Games has acquired Rock Band and Dance Central creator Harmonix. It will collaborate with Epic to “develop musical journeys and gameplay for Fortnite” → http://cpc.cx/wp5
+- 🇫🇷 [Gamekult] Epic Games annonce l'acquisition du studio Harmonix → https://gamekult.com/actualite/-3050844821.html
+
+- 🇫🇷 [Gamekult] La saison 6 de Fall Guys se dévoile et nécessitera un compte Epic Games. La saison commencera le 30 novembre → https://gamekult.com/actualite/-3050844797.html
+
+- 🇺🇸 [VGC] The upcoming ‘big PlayStation remake’ is reportedly Chrono Cross. Square Enix RPG remaster could be announced for multiple platforms this Christmas → http://cpc.cx/wpa
+
+- 🇺🇸 [Kotaku] Report: Amazon wants to make a Mass Effect TV series. Maybe a TV show will work where attempts to make movies have failed → http://cpc.cx/wpb
+
+- 📺 [YouTube] Marvel's Avengers: Spider-Man Exclusive Hands-On Preview → https://www.youtube.com/watch?v=sm7UihBP2PE
+- 🇫🇷 [Gamekult] Spider-Man dévoile son gameplay dans Marvel's Avengers → https://gamekult.com/actualite/-3050844785.html
+- 🇺🇸 [VGC] Avengers’ Spider-Man update won’t include story missions, unlike previous character DLC. The first Spider-Man gameplay has also been released → http://cpc.cx/wp6
+
+- 🇺🇸 [IO Interactive] HITMAN 3 – Year 2 Announcement → https://www.ioi.dk/hitman-3-year-2/
+
+- 🇫🇷 [Gamekult] Kojima Productions ouvre une filiale dédiée aux projets ciné, TV et musicaux → https://gamekult.com/actualite/-3050844757.html
+
+- 🇺🇸 [Games Industry] TinyBuild acquires Versus Evil and Red Cerberus in $31.3m deal. Acquisition adds more than 250 staff and 32 titles to Hello Neighbor publisher → http://cpc.cx/wp9
+
+- 🇺🇸 [Games Industry] Nintendo's Doug Bowser comments on "distressing" Activision reports, calls on ESA to strengthen stance. Exec says Nintendo has "taken action" concerning Activision Blizzard and is "assessing others" → http://cpc.cx/wp8
+- 🇺🇸 [VGC] Nintendo joins Xbox and PlayStation in condemning Activision’s harassment response. NOA president Doug Bowser says the company has “taken action” → http://cpc.cx/wp7
+- 🇫🇷 [Gamekult] Activision Blizzard : Nintendo exprime à son tour son inquiétude. Nintendo en appelle à l'exemplarité de ses partenaires → https://gamekult.com/actualite/-3050844783.html
+- 🇺🇸 [Games Industry] ESA on Activision Blizzard: “Harassment must never be tolerated”. US trade body promises to “create dialogue and shape actions” with members to improve industry workplaces → http://cpc.cx/wpf
+
+- 🇺🇸 [Games Industry] Activision Blizzard creates Workplace Responsibility Committee. Committee to oversee progress to "improve workplace culture and eliminate all forms of harassment and discrimination" → http://cpc.cx/wpg
+
+- 🇺🇸 [Axios] Lawsuit against PlayStation alleges gender discrimination. A former IT security analyst at Sony PlayStation filed a lawsuit against the company in California on Monday, alleging gender discrimination and wrongful termination after speaking up “about discrimination against females” at the gaming giant → http://cpc.cx/wpe
+- 🇺🇸 [Kotaku] PlayStation faces gender discrimination lawsuit from former staffer. The class action complaint was filed in California’s northern district → http://cpc.cx/wpc
+- 🇫🇷 [Gamekult] Une ancienne employée de PlayStation porte plainte pour discrimination sexiste. Emma Lee Majo espère rallier d'autres employées à sa cause → https://gamekult.com/actualite/-3050844819.html
+
+:::::
+- 🇺🇸 [Kotaku] Microsoft publishes 1999 letter from failed attempt to buy Nintendo. Nintendo would later 'laugh their asses off' at the proposal → http://cpc.cx/wpd
+
+raids : Gautoz => Modiiie => popeetv
 
 
 
@@ -8719,6 +8764,7 @@ raids : Gautoz => CanardPC => AdrienMenielle
 - 🇺🇸 [Gematsu] 
 - 🇺🇸 [Games Industry] 
 - 🇺🇸 [Game Developer] 
+- 🇺🇸 [Kotaku] 
 - 🇬🇧 [Eurogamer] 
 - 🇬🇧 [PC Gamer] 
 
