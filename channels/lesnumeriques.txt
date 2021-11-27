@@ -1998,6 +1998,75 @@ raids : lesnumeriques => Aubii_ => TiTavion => AVAMind => redfanny_ => LAntiStre
 - [Numérama] Malgré les critiques sur son bilan carbone, Blue Origin enverra d’autres touristes dans l’espace → https://www.numerama.com/sciences/757670-critique-pour-son-bilan-carbone-blue-origin-enverra-dautres-touristes-dans-lespace.html
 
 
+--------------------------------------
+2021-11-25
+
+- [Le Monde] Trois entreprises françaises ont vendu des outils de surveillance numérique massive à l’Egypte. S’appuyant sur plusieurs documents internes, Disclose et Télérama révèlent l’implication de trois entreprises dans diverses prestations de surveillance, avec l’assentiment de l’Etat français → https://www.lemonde.fr/pixels/article/2021/11/24/trois-entreprises-francaises-ont-vendu-des-outils-de-surveillance-numerique-massive-a-l-egypte_6103421_4408996.html
+- [Numérama] « Nos patrons sont des algorithmes » : pourquoi des chauffeurs Uber interpellent la Cnil → https://www.numerama.com/tech/757909-nos-patrons-sont-des-algorithmes-pourquoi-des-chauffeurs-uber-interpellent-la-cnil.html
+- [Le Monde] Pegasus : Apple révèle l’existence de dizaines de nouvelles victimes dans le monde.  De la Thaïlande au Salvador, en passant par l’Arménie, des journalistes, artistes, militants politiques ou des droits humains ont été ciblés par le puissant logiciel espion de NSO Group → https://www.lemonde.fr/pixels/article/2021/11/24/pegasus-apple-revele-l-existence-de-dizaines-de-nouvelles-victimes-dans-le-monde_6103461_4408996.html
+- [Les Numériques] Test Äike : une trottinette électrique éco-responsable qui oublie les fondamentaux → https://www.lesnumeriques.com/trottinette-electrique/aeike-aeike-p66159/test.html
+- [Les Numériques] Test Roborock S7+ : un aspirateur-robot polyvalent et bien équipé → https://www.lesnumeriques.com/aspirateur-robot/roborock-s7-p66027/test.html
+- [MS Power User] OnePlus may be working on a dual-hinged foldable phone → https://mspoweruser.com/oneplus-working-on-a-dual-hinged-foldable-phone/
+- [Les Numériques] Xiaomi subit les effets de la pénurie de composants → https://lesnumeriques.com/pro/-n171797.html
+- [The Next Web] Think predictive text makes you faster? You’re a fool. You're typing much slower than you think → https://thenextweb.com/news/predictive-text-makes-you-slow-syndication
+- [Phone Arena] Motorola may be the first to release a 200MP phone → https://www.phonearena.com/news/motorola-will-be-first-to-release-200mp-smartphone_id136642
+- [Mashable] Spotify is reportedly testing a TikTok-like video feed → https://mashable.com/article/spotify-tiktok-discover-vertical-video
+- Lush is becoming anti-social, and taking a fresh approach to social media with a new global Anti-Social Media policy → https://weare.lush.com/press-releases/lush-is-becoming-anti-social/
+- [PetaPixel] The Kodak Reelz Digitizer converts 8mm film strips into MP4 files → https://petapixel.com/2021/11/24/the-kodak-reelz-digitizer-converts-8mm-film-strips-into-mp4-files/
+- [Le Monde] Dans le Nevada, un projet de mine géante de lithium menace toute une région → https://www.lemonde.fr/planete/article/2021/11/23/dans-le-nevada-un-projet-de-mine-geante-de-lithium-menace-toute-une-region_6103223_3244.html
+- [Le Parisien] À Paris, Carrefour expérimente les courses sans caisse ni contrainte → https://www.leparisien.fr/economie/consommation/a-paris-carrefour-experimente-les-courses-sans-caisse-ni-contraintes-24-11-2021-FHI6HXVWVNHEHNKLTKW6LFBY6Q.php
+- [Les Numériques] Prime Video va installer un vidéoclub éphémère à Paris en décembre → https://lesnumeriques.com/vie-du-net/-n171743.html
+- [Les Numériques] Satoshi Nakamoto aux origines du bitcoin : une mini-série pour mieux comprendre le mythe → https://lesnumeriques.com/vie-du-net/-n171755.html
+- [YouTube - Arte] Le mystère Satoshi : enquête sur l'inventeur du bitcoin → https://www.youtube.com/watch?v=0ETcLj5jBy4
+- [Arte] Le mystère Satoshi, aux origines du Bitcoin → https://www.arte.tv/fr/videos/RC-021581/le-mystere-satoshi/
+- [MSN] ‘Pokemon Go’ developers made a new game that lets you mine Bitcoin → https://www.msn.com/en-us/news/technology/e2-80-98pokemon-go-e2-80-99-developers-made-a-new-game-that-lets-you-mine-bitcoin/ar-AAR6q6o
+- [Neowin] Collins Dictionary chooses NFT as its Word of the Year for 2021 → https://www.neowin.net/news/collins-dictionary-chooses-nft-as-its-word-of-the-year-for-2021/
+- Metaverse : un terrain immobilier virtuel se vend pour un montant record de 2,4 millions de dollars à Decentraland → https://news.fr-24.com/entreprise/430757.html
+- [TV5 Monde] Virgin Galactic révèle la gagnante de deux sièges pour l'espace → https://information.tv5monde.com/info/virgin-galactic-revele-la-gagnante-de-deux-sieges-pour-l-espace-433791
+
+raids : lesnumeriques => marmiton_officiel.
+
+
+--------------------------------------
+2021-11-26
+
+- [Les Numériques] Black Friday 2021 : tous les vrais bons plans → https://lesnumeriques.com/vie-du-net/-e1447.html
+- [Gizmodo] Super-tall vertical monitor is perfect for doomscrolling. Keep the depressing distraction of Twitter and Instagram on its own screen and away from your work → https://gizmodo.com/super-tall-vertical-monitor-is-perfect-for-doomscrollin-1848116439
+- [Les Numériques] Il y a 50 ans, Thermomix débarquait dans nos cuisines → https://lesnumeriques.com/robot-cuiseur-multifonction/-n171525.html
+- [Counterpoint] Wear OS share surges on Samsung’s highest quarterly smartwatch shipments in Q3 2021 → https://www.counterpointresearch.com/wear-os-share-surges-samsungs-highest-quarterly-smartwatch-shipments-q3-2021/
+- [Les Numériques] Tile, rival des AirTag d'Apple, acquis pour 205 millions de dollars → https://lesnumeriques.com/pro/-n171739.html
+- McBroken - is the mcdonald’sice cream machine broken? → https://mcbroken.com/
+- [Wired] (2021.04.20) They hacked McDonald’s ice cream machines—and started a cold war → https://www.wired.com/story/they-hacked-mcdonalds-ice-cream-makers-started-cold-war/
+- [Wired] The McDonald’s ice cream machine hacking saga has a new twist → https://www.wired.com/story/mcdonalds-ice-cream-machine-hacking-kytch-taylor-internal-emails/
+- [YouTube / Johnny Harris] The REAL reason McDonalds ice cream machines are always broken → https://www.youtube.com/watch?v=SrDEtSlqJC4
+- [Les Numériques] Marché des cartes graphiques : des livraisons en hausse, Nvidia domine outrageusement AMD → https://lesnumeriques.com/carte-graphique/-n171765.html
+- [Les Numériques] AMD et MediaTek s'associent pour équiper les futurs PC portables Ryzen de puces wifi 6E → https://lesnumeriques.com/ordinateur-portable/-n171751.html
+- [Les Numériques] Snapdragon 8cx Gen 3 : premières fuites sur les performances sous Windows 11 → https://lesnumeriques.com/cpu-processeur/-n171953.html
+- [Les Numériques] Xiaomi subit les effets de la pénurie de composants → https://lesnumeriques.com/pro/-n171797.html
+- [Les Numériques] Série Honor 60 : rendez-vous le 1er décembre → https://lesnumeriques.com/telephone-portable/-n171559.html
+- [Twitter] Samsung Electronics IM Division Plans for Major New Products in 2022 → https://twitter.com/FrontTron/status/1463067090919649281
+- [Les Numériques] Rideology : quand Kawasaki entame sa mutation connectée et électrifiée → https://lesnumeriques.com/moto/-n171837.html
+- [Les Numériques] Bornes de recharge : Ionity passe (enfin) la seconde ! → https://lesnumeriques.com/voiture/-n171831.html
+- [Electrek] Mercedes-Benz teases upcoming hyper-efficient electric car with over 1,000 km (620 miles) of range → https://electrek.co/2021/11/25/mercedes-benz-teases-upcoming-hyper-efficient-electric-car-1000-km-620-miles-range/
+- [Les Numériques] Test Lenovo Legion Slim 7 : un PC gaming fin et très performant → https://www.lesnumeriques.com/ordinateur-portable/lenovo-legion-s7-15ach6-rtx-3060-amd-ryzen-9-p65771/test.html
+- [Les Numériques] Test Philips Sonicare 2100 : une brosse à dent d’entrée de gamme très convaincante → https://www.lesnumeriques.com/brosse-a-dent-electrique/philips-sonicare-serie-2100-hx3651-p65799/test.html
+- [Les Numériques] L'indice de réparabilité compte désormais dans la note des smartphones, TV, ordinateurs… → https://lesnumeriques.com/vie-du-net/-n171491.html
+- [Les Numériques] Test Nokia T20 : une tablette simple et familiale → https://www.lesnumeriques.com/tablette-tactile/nokia-t20-p65519/test.html
+- [France 24] Epic CEO says Apple, Google must be stopped from monopoly abuse → https://www.france24.com/en/live-news/20211116-epic-ceo-says-apple-google-must-be-stopped-from-monopoly-abuse
+- [XDA Developers] Epic Games CEO wants to resist monopoly, suggests a single app store for all platforms → https://www.xda-developers.com/epic-games-ceo-resist-monopoly/
+- [The Record] Israel restricts cyberweapons export list by two-thirds, from 102 to 37 countries → https://therecord.media/israel-restricts-cyberweapons-export-list-by-two-thirds-from-102-to-37-countries/
+- 🇺🇸 [Games Industry] Nintendo's Doug Bowser comments on "distressing" Activision reports, calls on ESA to strengthen stance. Exec says Nintendo has "taken action" concerning Activision Blizzard and is "assessing others" → http://cpc.cx/wp8
+- 🇫🇷 [Gamekult] Activision Blizzard : Nintendo exprime à son tour son inquiétude. Nintendo en appelle à l'exemplarité de ses partenaires → https://gamekult.com/actualite/-3050844783.html
+- [Engadget] Game Boy Advance 'hacked' to run PlayStation games using a Raspberry Pi. There are no mods to the handheld itself → https://www.engadget.com/game-boy-advance-runs-playstation-games-164220518.html
+- [Reuters] Russia investigates complaint against Netflix over LGBT content → https://www.reuters.com/world/europe/russia-investigates-netflix-after-complaint-over-lgbt-content-2021-11-25/
+- [Euronews] Russia investigates Netflix after complaint over LGBT content → https://www.euronews.com/2021/11/26/uk-netflix-russia-lgbt
+- [Clubic] X-59 QueSST de la NASA : vers un retour en grâce des avions de ligne supersoniques ? → https://www.clubic.com/nasa/dossier-384618-.html
+- [Science Focus] X-59 QueSST: The quiet supersonic aeroplane that could revolutionise air travel → https://www.sciencefocus.com/future-technology/x-59-quesst/
+- DoD Announces the Establishment of the Airborne Object Identification and Management Synchronization Group (AOIMSG) → https://www.defense.gov/News/Releases/Release/Article/2853121/
+- [NASA] Double Asteroid Redirection Test (DART) Mission → https://www.nasa.gov/planetarydefense/dart
+
+raids : lesnumeriques => LigeiaNFLH => Elyziaaa.
+
 
 
 
