@@ -2068,6 +2068,43 @@ raids : lesnumeriques => marmiton_officiel.
 raids : lesnumeriques => LigeiaNFLH => Elyziaaa.
 
 
+--------------------------------------
+2021-11-29
+
+- [Les Numériques] Cyber Monday 2021 : les vrais bons plans → https://lesnumeriques.com/vie-du-net/-e1447.html
+- Radioooo, la machine musicale → https://radiooooo.com/
+- [Wired] Locked Out of ‘God Mode,’ Runners Are Hacking Their Treadmills → https://www.wired.com/story/nordictrack-ifit-treadmill-privilege-mode/
+- Cleo - Dronut X1, 9 800 $ → https://cleorobotics.com/product/dronut-x1/
+- [LG Newsroom] LG Electronics Announces New CEO and Other Changes to Aggressively Tackle 2022 and Beyond → https://www.lgnewsroom.com/2021/11/lg-electronics-announces-new-ceo-and-other-changes-to-aggressively-tackle-2022-and-beyond/
+- [Engadget] LG appoints new CEO to lead its beleaguered electronics division. William Cho will take over the reins of LG Electronics on December 1st → https://www.engadget.com/lg-electronics-appoints-ceo-william-cho-202902514.html
+- [Nikkei Asia] Apple taps TSMC to build custom iPhone 5G modem in 2023. U.S. company aims to cut reliance on Qualcomm for key components → https://asia.nikkei.com/Business/Tech/Semiconductors/Apple-taps-TSMC-to-build-custom-iPhone-5G-modem-in-2023
+- Wooting two HE → https://wooting.io/
+- [The Verge] Wooting Two HE review: an analog keyboard in a digital world. The ecosystem isn’t quite ready → https://www.theverge.com/22796553/wooting-two-he-review-analog-mechanical-keyboard-lekker-switches-hall-effect
+- [Les Numériques] Waze, TomTom et Coyote pourront toujours signaler les contrôles de vitesse → https://lesnumeriques.com/voiture/-n172019.html
+- [Les Numériques] Et la Renault 4L s'envola... → https://lesnumeriques.com/spatial/-n172077.html
+- [Les Numériques] Le Kia Niro de seconde génération affirme son style → https://lesnumeriques.com/voiture/-n171989.html
+- [Les Numériques] Jusqu’à 8 % d’autonomie en plus pour les voitures électriques de Peugeot, Citroën, DS et Opel → https://lesnumeriques.com/voiture/-n171943.html
+- [Ars Technica] Tesla forced to turn down €1.1 billion in EU support for German battery plant. Delays to factory near Berlin left carmaker unable to meet EU state aid conditions → https://arstechnica.com/cars/2021/11/tesla-forced-to-turn-down-e1-1-billion-in-eu-support-for-german-battery-plant/
+- [Electrek] Tesla moves to AMD chip in new Model Y in China → https://electrek.co/2021/11/26/tesla-moves-amd-chip-new-model-y-china/
+- [Les Numériques] Test Microsoft Surface Pro 8 : un convertible qui manque de souffle → https://www.lesnumeriques.com/ordinateur-portable/microsoft-surface-pro-8-i7-1185g7-p65777/test.html
+- [Les Numériques] Test Huawei MateView GT (sans barre de son) : un moniteur panoramique 165 Hz pas que pour les joueurs → https://www.lesnumeriques.com/moniteur-ecran-lcd/huawei-mateview-gt-sans-barre-de-son-p66225/test.html
+- [Les Numériques] Test Hisense 55A85G : le téléviseur Oled 100 Hz le plus abordable du marché → https://www.lesnumeriques.com/tv-televiseur/hisense-55a85g-p65929/test.html
+- [Les Numériques] Test Conteuse d'histoires Faba : une petite boîte qui mise beaucoup sur ses figurines → https://www.lesnumeriques.com/conteuse-histoires/faba-conteuse-d-histoires-faba-p66187/test.html
+- [Les Numériques] Test La Conteuse Merveilleuse de Joyeuse : le petit cube français qui se commande par les gestes → https://www.lesnumeriques.com/conteuse-histoires/joyeuse-la-conteuse-merveilleuse-p66233/test.html
+- [Les Numériques] Test Poco M4 Pro : une entrée de gamme bien finie et abordable → https://www.lesnumeriques.com/telephone-portable/poco-m4-pro-5g-p66019/test.html
+- [Reuters] India tells public to shun Musk-backed Starlink until it gets licence → https://www.reuters.com/technology/india-tells-public-shun-musk-backed-starlink-until-it-gets-licence-2021-11-27/
+- [ZDNet] Chrome : Comment s'y retrouver dans tous vos onglets ouverts ? Vous travaillez sur Google Chrome et vous avez toujours des tonnes d'onglets ouverts ? Voici une astuce très simple qui va vous changer la vie → https://www.zdnet.fr/pratique/chrome-comment-s-y-retrouver-dans-tous-vos-onglets-ouverts-39933221.htm
+- [Les Numériques] Gafam : l'UE fait un pas de géant pour mieux encadrer leurs activités → https://lesnumeriques.com/pro/-n172009.html
+- [Les Numériques] Facebook Papers : de nouvelles révélations attendues avec la publication de documents volés → https://lesnumeriques.com/vie-du-net/-n171745.html
+- 🇺🇸 [Axios] Lawsuit against PlayStation alleges gender discrimination. A former IT security analyst at Sony PlayStation filed a lawsuit against the company in California on Monday, alleging gender discrimination and wrongful termination after speaking up “about discrimination against females” at the gaming giant → http://cpc.cx/wpe
+- [The Verge] Medical photography is failing patients with darker skin. Even medical stock photos only depict white people → https://www.theverge.com/22778114/medical-photography-racial-bias
+- [ZDNet France] L'Unesco tire la sonnette d'alarme sur les défis de l'intelligence artificielle. L'Unesco dévoile un cadre normatif sur l'éthique de l'IA, invitant les Etats membres à appliquer des dispositions, notamment sur des principes de proportionnalité, de sécurité ou encore de non-discrimination → https://www.zdnet.fr/actualites/l-unesco-tire-la-sonnette-d-alarme-sur-les-defis-de-l-intelligence-artificielle-39933139.htm
+- [Les Numériques] Netflix : les programmes à ne pas manquer en décembre 2021 → https://lesnumeriques.com/vie-du-net/-n171855.html
+
+raids : lesnumeriques => Marikigai.
+
+
+
 
 
 - [Les Numériques] 
