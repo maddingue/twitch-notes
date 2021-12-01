@@ -8775,7 +8775,7 @@ La saint-glinglin est un jour fictif du calendrier liturgique catholique, utilis
 
 - 🇫🇷 [Gamekult] Clockwork Aquario : une bande-annonce avant la sortie du miraculé de 1993 → https://gamekult.com/actualite/-3050844859.html
 
-raids : Gautoz => Aubii_ => At0mium => RAYMmusic => JulienBelhumeur => KingKorgan => BadToothRecords => P_Chops => MamajoeVramajoe (24h) => vjpcat => bleeptemple => beardymanananan => EtownJunglists => jacob_welsh => PatientDnB => captainedith => dream_jesters => JustSamDJ (48h) => acidspacecat => dj_octurian => PeterundderWolf_Berlin => basswumme => AUGNERaudio => spacetrancer (72h) => DJ_Affengehacktes => taucher66 => Smau_R (96h) => VlastimilVibes => dj_sarah_hall
+raids : Gautoz => Aubii_ => At0mium => RAYMmusic => JulienBelhumeur => KingKorgan => BadToothRecords => P_Chops => MamajoeVramajoe (24h) => vjpcat => bleeptemple => beardymanananan => EtownJunglists => jacob_welsh => PatientDnB => captainedith => dream_jesters => JustSamDJ (48h) => acidspacecat => dj_octurian => PeterundderWolf_Berlin => basswumme => AUGNERaudio => spacetrancer (72h) => DJ_Affengehacktes => taucher66 => Smau_R (96h) => VlastimilVibes => DJ_Sarah_Hall => loalalunadj => vlouue.
 
 
 
@@ -8805,7 +8805,59 @@ Mais d'où vient «poser un lapin» ? → https://www.lefigaro.fr/langue-francai
 - 🇫🇷 [Gamekult] CD Projekt ne recherche ni acquéreur ni investisseur. Envahir la Pologne, certains ont déjà essayé → https://gamekult.com/actualite/-3050844927.html
 - 🇺🇸 [VGC] Sony could be planning a PlayStation mobile controller, patent suggests. DualShock-style design shown in patent drawings → http://cpc.cx/wqX
 
-raids : Gautoz => BanjoGuyOllie => kalyoz => KeydeeGamerBoy => Bejito
+raids : Gautoz => BanjoGuyOllie => kalyoz => KeydeeGamerBoy => Bejito.
+
+
+
+--------------------------------------
+2021-12-01
+
+trier sur le volet : Le volet est à l’origine une tablette horizontale utilisée notamment pour trier les graines. Cette tablette était parfois également utilisée pour assurer la fermeture de la boîte contenant les éléments à trier. De même, le volet de fermeture de certaines échoppes était utilisé, pendant la période d’ouverture, comme table à présenter les marchandises mises en vente. Employée surtout à l’origine pour des marchandises ou des objets, cette expression s’applique aussi bien à des personnes → https://fr.wiktionary.org/wiki/trier_sur_le_volet
+
+La puce à l'oreille, par Claude Duneton, 8 € chez votre libraire → https://livre.fnac.com/a154582/
+
+
+- 🇺🇸 [VGC] Halo Infinite’s campaign launch trailer has been released. “The biggest Halo ever” arrives next week → http://cpc.cx/ws0
+- 🇺🇸 [VGC] Halo Infinite will give more XP for players’ first six multiplayer games each day. Starting on Wednesday, players will get XP quicker for simply playing the game. → http://cpc.cx/ws4
+
+- 🇺🇸 [VGC] A Company of Heroes 3 multiplayer test is launching on Tuesday. Pre-alpha test includes four Italian maps and a variety of game modes → http://cpc.cx/wrX
+
+- 🇺🇸 [Gematsu] 505 Games and MercurySteam to co-publish and co-develop new third-person action RPG for consoles, PC, code-named "Project Iron" → http://cpc.cx/wrW
+- 🇫🇷 [Gamekult] Après Metroid Dread, MercurySteam signe avec 505 Games pour un action-RPG. Project Iron sortira sur PC et consoles → https://gamekult.com/actualite/-3050844993.html
+- 🇺🇸 [VGC] Metroid Dread studio announces new 3rd person fantasy action RPG. Multiplatform title codenamed ‘Project Iron’ will be co-published by 505 Games → http://cpc.cx/wrZ
+
+- 🇺🇸 [Kotaku] Final Fantasy XIV's Endwalker launch will prioritize game owners over trial players. Square Enix is taking measures to improve congested servers for FFXIV's upcoming expansion → http://cpc.cx/ws5
+
+- 🇫🇷 [IGN France] Le studio de DC Universe Online travaille sur un MMO Marvel. Le projet est « dirigé par Jack Emmert, qui a conçu et chapeauté City of Heroes, et dirige actuellement DCUO. » → http://cpc.cx/ws6
+- 🇺🇸 [Kotaku] Devs behind DC Universe Online are working on a Marvel MMO. The new MMO probably won't be out until sometime after 2023 → http://cpc.cx/ws7
+
+- 🇺🇸 [VGC] Xbox Cloud Gaming is rolling out a Clarity Boost feature on Edge browsers. New client-side processing will give players streaming on Edge a sharper image → http://cpc.cx/ws8
+- 🇺🇸 [The Verge] xCloud’s new Clarity Boost promises clearer streams, but it’s only on Edge, and, for the moment, only on Edge Canary → https://theverge.com/2021/11/29/22808656/
+
+- 🇫🇷 [Gamekult] Sea of Thieves annonce sa saison 5 avec une grosse mise à jour → https://gamekult.com/actualite/-3050844967.html
+
+- 🇺🇸 [VGC] The physical versions of GTA Trilogy Definitive Edition have been delayed. Xbox and PS4 versions arriving later in December as Switch version is pushed to 2022 → http://cpc.cx/ws9
+- 🇫🇷 [Gamekult] GTA trilogie : Rockstar repousse la sortie physique et publie la mise à jour 1.03. Une attente plus longue pour la Switch → https://gamekult.com/actualite/-3050845007.html
+
+- 🇫🇷 [Gamekult] Nacon annonce des résultats en baisse et repousse Vampire : The Masquerade - Swansong. L'éditeur français est dans un temps faible → https://gamekult.com/actualite/-3050844971.html
+
+- 🇺🇸 [VGC] Alien Isolation’s lead designer has joined Rare to work on Everwild. The game was internally rebooted earlier this year, VGC understands → http://cpc.cx/ws3
+
+- 🇺🇸 [Games Industry] Fawzi Mesmar joins Ubisoft as VP of editorial. Former DICE head of design will work with Ubisoft's teams "to shape the creative vision of its games and ensure the inclusion of diverse perspectives" → http://cpc.cx/ws2
+
+- 🇺🇸 [Axios] Activision Blizzard walkout organizer Jessica Gonzalez resigns → http://cpc.cx/wsb
+
+- 🇫🇷 [Gamekult] Chrono Cross : une collaboration avant un remaster ? Dans l'ombre depuis plus de 20 ans → https://gamekult.com/actualite/-3050844973.html
+- 🇺🇸 [Gematsu] Another Eden: The Cat Beyond Time and Space teases Chrono Cross collaboration announcement for December 4 → http://cpc.cx/wrU
+
+:::::
+- 🇺🇸 [Games Industry] CD Projekt sales up but GOG struggles. Third quarter revenues up 38% as Cyberpunk and Witcher help offset digital storefront's ongoing losses → http://cpc.cx/wrT
+- 🇺🇸 [VGC] As GOG posts a year-to-date loss, CD Projekt pledges to bring it back to basics. The online store will return to a curated selection of DRM-free games → http://cpc.cx/wrY
+
+- 🇺🇸 [VGC] Starfield has two ‘special step out into the world moments’, Todd Howard teases. New Starfield behind the scenes video also includes fresh concept art → http://cpc.cx/ws1
+- 🇫🇷 [Gamekult] Starfield fait le plein d'artworks dans une nouvelle vidéo commentée. L'équipe discute de la "science-fiction réaliste" → https://gamekult.com/actualite/-3050845009.html
+
+raids : Gautoz => ALaiseBlaze => Pandrezz => toxavenger mais aurait dû être ToxAvanger.
 
 
 
