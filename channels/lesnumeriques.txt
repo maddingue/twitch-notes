@@ -2104,6 +2104,40 @@ raids : lesnumeriques => LigeiaNFLH => Elyziaaa.
 raids : lesnumeriques => Marikigai.
 
 
+--------------------------------------
+2021-11-30
+
+- [ZDNet France] Covid-19 : Le variant Omicron ne devrait pas peser sur les achats de Noël, estime Amazon. Le géant du commerce en ligne estime que l'arrivée du nouveau variant Omicron de la Covid-19 sur le territoire français ne devrait pas avoir d'impact sur les achats de fin d'année → https://www.zdnet.fr/actualites/covid-19-le-variant-omicron-ne-devrait-pas-peser-sur-les-achats-de-noel-estime-amazon-39933263.htm
+- [FIFA] Semi-automated offside technology explained ahead of FIFA Arab Cup → https://www.fifa.com/news/semi-automated-offside-technology-explained-ahead-of-fifa-arab-cup
+- [The Verge] FIFA is trialling limb-tracking tech to catch offside players. The system could be used at next year’s World Cup → https://theverge.com/2021/11/30/22809396/
+- [Les Numériques] Intel Meteor Lake : les Core de 14e génération combineront trois finesses de gravure différentes → https://lesnumeriques.com/cpu-processeur/-n172147.html
+- [ZDNet France] Semi-conducteurs : Un European Chips Act début 2022. Le texte inclura « un mécanisme de préférence européenne en cas de crise », a indiqué le commissaire européen Thierry Breton, et ce en échange d'aides publiques → https://www.zdnet.fr/actualites/semi-conducteurs-un-european-chips-act-debut-2022-39933223.htm
+- [Android Authority] Mediatek Dimensity 7000 specs leak: A few steps below the Dimensity 9000. We're guessing this new chipset could power devices like the cheaper Galaxy A phones, Poco M range, and more → https://www.androidauthority.com/mediatek-dimensity-7000-3067935/
+- [CNET France] Smartphones : Apple numéro 1 en Chine grâce à ses iPhone 13. Apple a pris la tête des ventes de smartphone en Chine, une bonne nouvelle pour la marque, une mauvaise pour Android → https://www.cnetfrance.fr/news/smartphones-apple-numero-1-en-chine-grace-a-ses-iphone-13-39933309.htm
+- [COunterpoint Research] Apple becomes largest smartphone brand in China in October 2021 → https://www.counterpointresearch.com/apple-becomes-largest-smartphone-brand-china-october-2021/
+- [91mobiles] [Exclusive] Realme GT 2 Pro render, key specs, price revealed: Nexus 6P-like design, Snapdragon 8 Gen1, and more → https://www.91mobiles.com/hub/realme-gt-2-pro-render-specs-price-exclusive/
+- [Les Numériques] Nissan dévoile son plan d'électrification Ambition 2030 → https://lesnumeriques.com/voiture/-n172139.html
+- [Ars Technica] Nissan announces halfhearted EV strategy after fumbling its lead. New playbook appears ripped from 2010, relies heavily on series hybrids → https://arstechnica.com/cars/2021/11/nissan-announces-halfhearted-ev-strategy-after-fumbling-its-lead/
+- [Les Numériques] Mercedes EQS 350 : une limousine électrique à moins de 100 000 € → https://lesnumeriques.com/voiture/-n172125.html
+- [Les Numériques] Test Volkswagen ID.3 Pro Performance : l'une des meilleures voitures électriques du marché → https://www.lesnumeriques.com/voiture/volkswagen-id-3-pro-performance-58-kwh-p59063/test.html
+- [Les Numériques] Test Shark IQ RV2001WDEU Robot VACMOP : l'aspirateur-robot le plus évolué de la gamme → https://www.lesnumeriques.com/aspirateur-robot/shark-ai-vacmop-rv2001wdeu-p64011/test.html
+- [Les Numériques] Test AKG K371 BT : une intégration du Bluetooth des plus simplistes → https://www.lesnumeriques.com/casque-nomade/akg-k371-bt-p56969/test.html
+- [Les Numériques] Jack Dorsey démissionne de son poste de PDG de Twitter → https://lesnumeriques.com/vie-du-net/-n172155.html
+- [Wired] Jack Dorsey was the soul of Twitter → https://www.wired.com/story/jack-dorsey-was-the-soul-of-twitter/
+- [The Verge] An introduction to Parag Agrawal, Twitter’s new CEO. A look at Twitter’s new chief executive → https://theverge.com/2021/11/29/22808756/
+- [VICE Motherboard] New Twitter CEO’s tenure begins with people dragging old tweet in bad faith. Immediately after Parag Agrawal was announced as Twitter's new CEO, a 2010 tweet went viral among right-wing users → https://www.vice.com/en/article/88gg5a/new-twitter-ceos-tenure-begins-with-people-dragging-old-tweet-in-bad-faith
+- [TechCrunch] eBay acquires the sneaker authentication business from partner Sneaker Con Digital → https://techcrunch.com/2021/11/29/ebay-acquires-the-sneaker-authentication-business-from-partner-sneaker-con-digital/
+- eBay Acquires Sneaker Con Authentication Business → https://www.ebayinc.com/stories/news/ebay-acquires-sneaker-con-authentication-business/
+- [Le Figaro] Facebook rachète Giphy pour l'intégrer à Instagram → https://www.lefigaro.fr/flash-eco/facebook-rachete-giphy-pour-l-integrer-a-instagram-20200515
+- [Les Numériques] Le gendarme de la concurrence britannique pourrait bloquer le rachat de Giphy par Meta (Facebook) → https://lesnumeriques.com/vie-du-net/-n172127.html
+- [VICE] Fired employees sue Google for breaching 'Don't Be Evil' part of contract. Google terminated the three employees in 2019 after they circulated a petition to end Google's relationship with Customs and Border Protection  → https://www.vice.com/en/article/epxxb4/fired-employees-sue-google-for-breaching-dont-be-evil-part-of-contract
+- [ZDNet France] Les opérateurs européens appellent les GAFA à participer au financement des réseaux. Orange, Deutsche Telekom, Telefonica ou encore BT appellent les géants du numérique à mettre la main à la poche pour financer les réseaux → https://www.zdnet.fr/actualites/les-operateurs-europeens-appellent-les-gafa-a-participer-au-financement-des-reseaux-39933229.htm
+- [ZDNet France] Bruno Le Maire menace les moteurs de recherche qui ne déréférencent pas Wish. Après la décision prononcée contre le site de e-commerce Wish, Bruno Le Maire met en garde les moteurs de recherche qui ne respecteraient pas la décision de déréférencement → https://www.zdnet.fr/actualites/bruno-le-maire-menace-les-moteurs-de-recherche-qui-ne-dereferencent-pas-wish-39933235.htm
+- [Les Numériques] Cyberscore : l'Assemblée nationale vote une notation de la sécurité des sites internet → https://lesnumeriques.com/pro/-n172129.html
+- [Xbox] Available Now: Experience Clarity Boost with Xbox Cloud Gaming on Microsoft Edge browser → https://news.xbox.com/en-us/2021/11/29/clarity-boost-with-xbox-cloud-gaming-on-edge-browser/
+
+raids : lesnumeriques => marmiton_officiel => billiechou.
+
 
 
 
