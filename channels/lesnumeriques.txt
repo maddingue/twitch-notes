@@ -2139,6 +2139,37 @@ raids : lesnumeriques => Marikigai.
 raids : lesnumeriques => marmiton_officiel => billiechou.
 
 
+--------------------------------------
+2021-12-01
+
+- [Xbox] Windows Holiday soft-wear shop → https://gear.xbox.com/pages/windows
+- [Les Numériques] Qualcomm Snapdragon 8 Gen 1 : la puce pour smartphones premium mise tout sur l'IA et l'image → https://lesnumeriques.com/telephone-portable/-n172165.html
+- [XDA Developers] The new Qualcomm Snapdragon 8 Gen 1 is the flagship SoC of 2022 — Here’s what you need to know → https://www.xda-developers.com/qualcomm-snapdragon-8-gen-1/
+- [XDA Developers] Hands-on with Qualcomm’s Snapdragon 8 Gen 1 Reference Device → https://www.xda-developers.com/hands-on-qualcomm-snapdragon-8-gen-1/
+- [XDA Developers] Xiaomi reveals the first Snapdragon 8 powered smartphone → https://www.xda-developers.com/xiaomi-reveals-the-first-snapdragon-8-powered-smartphone/
+- [TechPowerUp] MediaTek Announces Flagship Dimensity 9000 5G SoC on TSMC 4 nm → https://www.techpowerup.com/289130/
+- [VideoCardz] Qualcomm Snapdragon G3x powers Razer’s handheld gaming console, Snapdragon 8 Gen1 flagship SoC also leaked. Qualcomm and Razer develop a Developer kit for next-gen mobile gaming. The device, which is a Developer Kit, is powered by Snapdragon G3x silicon → https://videocardz.com/newz/qualcomm-snapdragon-g3x-powers-razers-handheld-gaming-console-snapdragon-8-gen1-flagship-soc-also-leaked
+- [XDA Developers] Nokia 9 PureView owners will get a discount on a budget phone instead of Android 11 → https://www.xda-developers.com/nokia-9-pureview-android-11/
+- [Twitter] The world through iPhone 13 Pro Max sensors (Shibuya, 23rd Nov) → https://twitter.com/_kzr/status/1464210683432558595
+- [Les Numériques] Dacia Jogger : ouverture des commandes et annonce des tarifs pour le nouveau crossover low cost → https://lesnumeriques.com/voiture/-n172193.html
+- [Les Numériques] Škoda Karoq : un restylage suffisant pour sortir du lot ? → https://lesnumeriques.com/voiture/-n172211.html
+- [Les Numériques] BMW Concept XM : 750 ch pour le premier modèle M hybride rechargeable → https://lesnumeriques.com/voiture/-n172169.html
+- [Les Numériques] Essai Mercedes EQS 450+ AMG Line : quand électrique rime avec excellence et performance → https://lesnumeriques.com/voiture/-n172049.html
+- [Twitter blog] Expanding our private information policy to include media → https://blog.twitter.com/en_us/topics/company/2021/private-information-policy-update
+- [Twitch blog] Battling Ban Evasion with Machine Learning → https://safety.twitch.tv/s/safety-news/detail?language=en_US&post=Using-Machine-Learning-to-Curb-Ban-Evasion
+- [Les Numériques] Sur Twitch, Jean Massiet fait matcher le politique et le joueur de Fortnite → https://lesnumeriques.com/vie-du-net/-a172137.html
+📡 la chaîne Twitch de Jean Massiet → https://twitch.tv/jeanmassiet
+- [The Verge] How an Excel TikToker manifested her way to making six figures a day. Taking an unconventional route to a conventional business → https://www.theverge.com/22807858/tiktok-influencer-microsoft-excel-instagram-decoder-podcast
+- [Twitter] 📽️Original productions on SVoD by platform from 2015 to Sep 2021 → https://twitter.com/AmpereAnalysis/status/1462739525382381577
+- [CNET France] Le groupe TF1 lance MyTF1 Max, une nouvelle offre SVoD. Dans un communiqué du 30 novembre 2021, le groupe TF1 a annoncé le lancement officiel de MyTF1 Max, "une extension de sa plateforme de replay" initiale → https://www.cnetfrance.fr/news/le-groupe-tf1-lance-mytf1-max-une-nouvelle-offre-svod-39930609.htm
+- [France Info] A Hong Kong, Disney+ retire un épisode des "Simpsons" sur la répression de la place Tiananmen. Un épisode des Simpsons dans lequel la famille américaine se rend sur la place Tiananmen à Pékin a été retiré de la plateforme américaine de vidéo en ligne Disney+ à Hong Kong → https://www.francetvinfo.fr/culture/disney-retire-a-hong-kong-un-episode-des-simpson-sur-la-repression-de-la-place-tiananmen_4863331.html
+- [The Verge] This graphene battery pack charges incredibly fast. The Elecjet Apollo Ultra power bank charges five times faster than conventional battery packs → https://www.theverge.com/22771702/graphene-power-bank-review-price-speed
+- [Inceptive Mind] Fortescue Future plans to launch green ammonia-powered ship in 2022 → https://www.inceptivemind.com/fortescue-future-plans-launch-green-ammonia-powered-ship-2022/22038/
+
+raids : lesnumeriques => yoorubytv => YuriJoa
+
+
+
 
 
 - [Les Numériques] 
