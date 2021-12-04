@@ -2166,7 +2166,83 @@ raids : lesnumeriques => marmiton_officiel => billiechou.
 - [The Verge] This graphene battery pack charges incredibly fast. The Elecjet Apollo Ultra power bank charges five times faster than conventional battery packs → https://www.theverge.com/22771702/graphene-power-bank-review-price-speed
 - [Inceptive Mind] Fortescue Future plans to launch green ammonia-powered ship in 2022 → https://www.inceptivemind.com/fortescue-future-plans-launch-green-ammonia-powered-ship-2022/22038/
 
-raids : lesnumeriques => yoorubytv => YuriJoa
+raids : lesnumeriques => yoorubytv => YuriJoa => CookSux => Yunicorn19 => EXBC (24h) => robcdee => anny => Apricot => HarukaKaribu => nyanners => nihmune => UNREALGRL => marimari_en (48h) => ReiyuGuiGui => YozoraAoi => koopa_ch => Ninaninin => Bellyka => HinaBoBina => marimari_en (72h)
+
+
+--------------------------------------
+2021-12-02
+
+- [Tesla] Cyberwhistle, 50 $ → https://shop.tesla.com/product/cyberwhistle?sku=1715672-00-A
+- [Les Numériques] Quand Devialet et ArianeGroup vous font ressentir le décollage d'une fusée → https://lesnumeriques.com/platine-musicale-serveur-audio/-n172243.html
+- [Les Numériques] ATH-SQ1TW : Audio-Technica lance des écouteurs true wireless abordables et colorés → https://lesnumeriques.com/intra-ecouteur-true-wireless/-n172261.html
+- [Les Numériques] Sennheiser annonce le HD 400 Pro, son nouveau casque de monitoring ouvert → https://lesnumeriques.com/casque-dj-monitoring/-n172273.html
+- [Les Numériques] Cherry à l’assaut des casques audio avec le HC 2.2 : un casque gaming en toute simplicité → https://lesnumeriques.com/casque-gaming-micro/-n172257.html
+- [Les Numériques] L'e-santé, un marché mondial en ébullition → https://lesnumeriques.com/pro/-a172011.html
+- [Les Numériques] Snapdragon G3x : Qualcomm s'attaque au marché des consoles de jeu portables → https://lesnumeriques.com/console-de-jeu/-n172245.html
+- [Les Numériques] Qualcomm Snapdragon 8cx Gen 3 : un SoC en 5 nm pour des PC portables ultra endurants → https://lesnumeriques.com/cpu-processeur/-n172175.html
+- [Les Numériques] Qualcomm Snapdragon 8 Gen 1 : quels seront les premiers smartphones équipés du nouveau SoC haut de gamme ? → https://lesnumeriques.com/telephone-portable/-n172233.html
+- [Les Numériques] Des Ryzen 6000 et des GeForce RTX 3080 Ti bientôt sur PC portables ? → https://lesnumeriques.com/ordinateur-portable/-n172247.html
+- [ZDNet France] Pour Deloitte, la pénurie de puces se prolongera en 2022. Le cabinet de conseil a donné ses prévisions concernant l'ampleur de la pénurie actuelle de semi-conducteurs et l'impact qu'elle aura sur l'innovation du marché. Le fondeur américain Globalfoundries partage ce constat → https://www.zdnet.fr/actualites/pour-deloitte-la-penurie-de-puces-se-prolongera-en-2022-39933423.htm
+- [Les Numériques] Opel Astra Sports Tourer : il est encore temps de faire un break → https://lesnumeriques.com/voiture/-n172263.html
+- [Les Numériques] Voxan Wattman pulvérise le record de vitesse en moto électrique avec 456 km/h → https://lesnumeriques.com/moto/-n172223.html
+- [Les Numériques] Test Teeno 21V LD5816 : une perceuse visseuse très abordable au format compact → https://www.lesnumeriques.com/perceuse-visseuse/teeno-perceuse-visseuse-sans-fil-21v-p61105/test.html
+- [Les Numériques] Cherry annonce le G80-3000N RGB TKL, un mini clavier mécanique bureautique ET gaming → https://lesnumeriques.com/clavier/-n168427.html
+- [Les Numériques] L'infographie à contribution pour une passionnante plongée dans les données d'Internet → https://lesnumeriques.com/vie-du-net/-n172215.html
+- [ProPublica] Amazon’s New Competitive Advantage: Putting Its Own Products First. Brands have long been able to bid for the premier slot at the top left of Amazon’s listings, but during the pandemic the online retailer has begun using this position for its private-label items, raising antitrust concerns → https://www.propublica.org/article/amazons-new-competitive-advantage-putting-its-own-products-first
+- [Les Numériques] Cloud : une coalition d'acteurs européens s'attaque à l'hégémonie de Microsoft → https://lesnumeriques.com/pro/-n172177.html
+- Meta’s Adversarial Threat Report → https://about.fb.com/news/2021/12/metas-adversarial-threat-report/
+- [Les Numériques] Efficacité du Pass sanitaire : la Cnil demande des comptes → https://lesnumeriques.com/vie-du-net/-n172225.html
+- [Les Numériques] Sondage Ifop : les Français se tournent de plus en plus vers le reconditionné pour leurs cadeaux → https://lesnumeriques.com/telephone-portable/-n172171.html
+- [Wired] My Music App Knows Me Way Too Well. Am I Stuck in a Groove? → https://www.wired.com/story/cloud-support-music-apps-predictability/
+- [Wired 2013.05.10] Watch Wired Get Rich Quick With Our Sleek Bitcoin Miner → https://www.wired.com/2013/05/butterfly-live/
+- [Les Numériques] Nouveau coup dur pour Novi, le projet crypto de Facebook perd son directeur → https://lesnumeriques.com/pro/-n172237.html
+- [Les Numériques] Klapcoin, une cryptomonnaie pour aider le cinéma à se financer → https://lesnumeriques.com/vie-du-net/-n172259.html
+
+raids : lesnumeriques => marmiton_officiel => chef_jm => Lua_Wilk.
+
+
+--------------------------------------
+2021-12-03
+
+- [Les Numériques] Oracle Touch : une cafetière semi-automatique de prestige chez Sage → https://lesnumeriques.com/cafetiere-automatique/-n172343.html
+- [Les Numériques] Laowa 85mm f/5,6 2X Ultra Macro APO : un objectif macro original pour hybrides 24x36 → https://lesnumeriques.com/focales-fixes/-n172265.html
+- [Federal Trace Commission] FTC Sues to Block $40 Billion Semiconductor Chip Merger. Vertical deal between chip supplier Nvidia and chip design provider Arm would allow combined firm to stifle competing next-generation technologies → https://www.ftc.gov/news-events/press-releases/2021/12/ftc-sues-block-40-billion-semiconductor-chip-merger
+- [Bloomberg] Apple tells suppliers iPhone demand has slowed as holidays near → https://www.bloomberg.com/news/articles/2021-12-02/apple-tells-suppliers-iphone-demand-has-slowed-as-holidays-near
+- [Android Central] Samsung Galaxy A73 leak reveals a major camera upgrade, familiar design. The Galaxy A73 is rumored to be Samsung's first A series phone with a 108MP main camera → https://www.androidcentral.com/samsung-galaxy-a73-leak
+- [XDA Developers] Samsung Galaxy S21 FE leaks again, this time with European pricing → https://www.xda-developers.com/samsung-galaxys-21-fe-leak-europe/
+- [IndiaToday] Google Pixel Watch codenamed "Rohan" is in the works, could launch next year to compete with Apple Watch → https://www.indiatoday.in/technology/news/story/google-pixel-watch-codenamed-rohan-is-in-the-works-could-launch-next-year-to-compete-with-apple-watch-1883724-2021-12-03
+- [Les Numériques] Google déploie de nouvelles fonctionnalités sur Android pour vous faciliter la vie → https://lesnumeriques.com/telephone-portable/-n172297.html
+- [ZDNet France] Brevets : LG enterre la hache de guerre avec Wiko… à une condition. LG a accepté d'accorder une licence pour tous ses brevets essentiels à la norme LTE à la société mère de Wiko, Tinno Mobile → https://www.zdnet.fr/actualites/brevets-lg-enterre-la-hache-de-guerre-avec-wiko-a-une-condition-39933519.htm
+- [Apple] App Store Awards honor the best apps and games of 2021 → https://www.apple.com/newsroom/2021/12/app-store-awards-honor-the-best-apps-and-games-of-2021/
+- [9to5Google] Google Play Store names best Android apps and games of 2021 → https://9to5google.com/2021/11/29/google-best-android-apps-2021/
+- [Twitter - David Barnard] What I’ve come to assume is now in black and white in this filing from Apple: If the injunction goes into effect, Apple seems likely to charge a commission on any transactions that start in the app, even if they are completed on the web → https://twitter.com/drbarnard/status/1466413735220760584
+- [9to5Mac] Apple legal filing indicates it intends to collect commission regardless of whether developers use IAP or a competing payments platform → https://9to5mac.com/2021/12/02/apple-commision-outside-of-the-app/
+- [Les Numériques] Voitures électriques : Dacia Spring, la nouvelle star du top 10 des ventes (janvier-novembre 2021) → https://lesnumeriques.com/voiture/-n172333.html
+- [Les Numériques] Que faut-il savoir avant d’acheter une voiture électrique d’occasion ? → https://lesnumeriques.com/voiture/-a171929.html
+- [Les Numériques] DS 9 E-Tense 250 : une nouvelle variante hybride rechargeable pour la grande routière française → https://lesnumeriques.com/voiture/-n172315.html
+- [Engadget] Polestar offers an early, camouflaged glimpse at its electric SUV. The 3 will be Polestar's first US-made EV → https://www.engadget.com/polestar-3-suv-teaser-182614489.html
+- [Les Numériques] Jaguar ne lancera plus aucune voiture d’ici à 2025 et annonce son passage au tout électrique → https://lesnumeriques.com/voiture/-n172267.html
+- [Les Numériques] Toyota T-Mate, le nouveau compagnon des aides à la conduite et de la sécurité → https://lesnumeriques.com/voiture/-n172285.html
+- [Les Numériques] Le Tesla Cyberquad pour enfants en vente au prix de 1900 $ → https://lesnumeriques.com/vie-du-net/-n172319.html
+- [Les Numériques] Hennessey Deep Space : une délirante hypercar électrique à six roues → https://lesnumeriques.com/voiture/-n172271.html
+- [Les Numériques] Test TP-Link Deco X90 : un système mesh compatible wifi 6 au top → https://www.lesnumeriques.com/repeteurs-wi-fi/tp-link-deco-x90-p55783/test.html
+- [Les Numériques] Test Magimix Cook Expert Connect : un robot cuiseur multifonction connecté → https://www.lesnumeriques.com/robot-cuiseur-multifonction/magimix-cook-expert-connect-p66325/test.html
+- [Les Numériques] Test Serrure connectée Nuki Smart Lock 3.0 : un presque sans-faute → https://www.lesnumeriques.com/objet-connecte/nuki-smart-lock-3-0-p66041/test.html
+- [Ars Technica] I like Microsoft Edge. But if it doesn’t get less annoying, I’ll switch again. Edge can succeed on its merits, and Microsoft needs to start acting like it → https://arstechnica.com/gadgets/2021/12/edge-is-a-good-browser-but-microsofts-heavy-handed-tactics-make-it-hard-to-love/
+- [Numérama] « Analyses déformées et instrumentalisées à des fins politiques » : Wish n’est pas content d’avoir été effacé du web français → https://www.numerama.com/politique/760739-analyses-deformees-et-instrumentalisees-a-des-fins-politiques-wish-nest-pas-content-davoir-ete-efface-du-web-francais.html
+- [Les Numériques] Chez Facebook, les salariés perdent confiance et beaucoup s'imaginent ailleurs → https://lesnumeriques.com/vie-du-net/-n172289.html
+- [Gamekult] « We bleed blue » : enquête sur la fermeture brutale de Blizzard Versailles → https://gamekult.com/actualite/-3050844941.html
+- [Axios] 6 state treasurers pressure Activision over misconduct allegations → https://www.axios.com/state-treasurers-pressure-activision-over-misconduct-352fe2e6-64d4-4f30-ba7e-39e0e13419de.html
+- [Eurogamer] Six US states pressure Activision Blizzard to make "sweeping changes". Threaten potential vote against board members → https://www.eurogamer.net/articles/2021-12-02-six-us-states-pressure-activision-blizzard-to-make-sweeping-changes
+- 🇺🇸 [Axios] Activision Blizzard walkout organizer Jessica Gonzalez resigns → http://cpc.cx/wsb
+- [Twitter - Jessica Gonzalez] My resignation from Blizzard Entertainment → https://twitter.com/BlizzJess/status/1465714592189849613
+- [Epic Games] Introducing Fortnite Party Worlds → https://www.epicgames.com/fortnite/en-US/news/introducing-fortnite-party-worlds
+- [Les Numériques] Prise en main – Geforce Now RTX 3080 : le cloud gaming fait un grand bond en avant → https://lesnumeriques.com/cloud-gaming/-a172221.html
+- [Gamekult] Enquête Jeux vidéo et écologie (4/5) : le cloud gaming, un mirage écologique → https://gamekult.com/actualite/-3050823247.html
+- [Gamekult] Microsoft publie une lettre de 1999 précédant sa tentative de racheter Nintendo → https://gamekult.com/actualite/-3050844875.html
+
+raids : lesnumeriques => Gautoz => ALaiseBlaze => kaorinchan => KenB0gard => FibreTigre => ZulZorander.
+
 
 
 
