@@ -14301,25 +14301,17 @@ compte de l'épisode 4 : aucune mort, 19 EUH!!!, 5 exclamations diverses, 1 excu
 compte de l'épisode 5 : 6 morts, 13 EUH!!!, 11 exclamations diverses, 7 excuses de sac
 compte de l'épisode 6 : 4 morts, 18 EUH!!!, 7 exclamations diverses, 3 excuses de sac
 compte de l'épisode 7 : 2 morts, 12 EUH!!!, 6 exclamations diverses
+compte de l'épisode 8 : 1 mort, 1 retour au menu d'options, 5 EUH!!!, 6 exclamations diverses, 1 excuse de sac
 
-nombre de morts : 0
-refus de sauvegarde : 0
-nombre de EUH!!! : 0
-nombre d'exclamations diverses : 0
+retour au menu d'options : 1
+nombre de morts : 1
+nombre de EUH!!! : 5
+nombre d'exclamations diverses : 6
 
+total : 26 morts, 126 EUH!!, 70 exclamations diverses, 18 excuses de sac
 
-📅 le programme de la semaine → http://cpc.cx/wrj
-📅 mardi 12:30, 
-📅 mercredi 17:30, Farming Simulator 22 (Noddus)
-📅 jeudi 12:30, Dead Space (Hubert et Virgile)
-📅 vendredi 17:30, Halo Infinite (Noddus et ses copaings)
-📺 samedi matin, Gamekult l'émission
-
-📚 Lecture Seule sur la saga GTA et Dark Souls I & II Design Works → http://cpc.cx/wrf
-🚗 Noddus est devenu un fan de drift, il vous parle de sa nouvelle passion → http://cpc.cx/wrE
-🎤 Patrick Hellio est allé enquêter du côté de Red Art Games, le « Limited Run à la française »
-📜 Test : Solar Ash, l'as des astres, 9/10 par Pipomantis → http://cpc.cx/wsq
-
+excuses de sac :
+- je vous rappelle qu'on a picolé, nous, hier soir 🥴 (Hubert)
 
 
 --------------------------------------
@@ -14329,6 +14321,26 @@ Halo Infinite, multi jouable depuis le 15 novembre 2021 sur Xbox et PC
 🎮 multi gratuit sur Xbox (http://cpc.cx/woR)
 ⌨️ 🖱️ multi gratuit sur Steam (http://cpc.cx/woQ)
 
+excuses de sac :
+- je serai nul à chier car la télé fait 12 m (Noddus)
+- la carte était plus serrée (Polochon)
+- le canon était trop gros, il me bouchait la vue (Polochon)
+- c'est la map, elle prend trop de place sur mon écran (Citizen Erased)
+- j'ai fais l'erreur de laisser la porte ouverte, donc Puyo m'entend quand je veux le vanner (Noddus)
+
+
+📅 le programme de la semaine → http://cpc.cx/wrj
+📅 mardi 12:30, 
+📅 mercredi 17:30, 
+📅 jeudi 12:30, 
+📅 vendredi 17:30, 
+📺 samedi matin, Gamekult l'émission
+
+📚 Lecture Seule sur la saga GTA et Dark Souls I & II Design Works → http://cpc.cx/wrf
+🚗 Noddus est devenu un fan de drift, il vous parle de sa nouvelle passion → http://cpc.cx/wrE
+📜 Test : Solar Ash, l'as des astres, 9/10 par Pipomantis → http://cpc.cx/wsq
+📰 « We bleed blue » : enquête sur la fermeture brutale de Blizzard Versailles → https://gamekult.com/actualite/-3050844941.html
+🎤 Patrick Hellio est allé enquêter du côté de Red Art Games, le « Limited Run à la française » → http://cpc.cx/wtY
 
 
 
