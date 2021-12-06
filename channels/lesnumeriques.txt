@@ -2166,7 +2166,7 @@ raids : lesnumeriques => marmiton_officiel => billiechou.
 - [The Verge] This graphene battery pack charges incredibly fast. The Elecjet Apollo Ultra power bank charges five times faster than conventional battery packs → https://www.theverge.com/22771702/graphene-power-bank-review-price-speed
 - [Inceptive Mind] Fortescue Future plans to launch green ammonia-powered ship in 2022 → https://www.inceptivemind.com/fortescue-future-plans-launch-green-ammonia-powered-ship-2022/22038/
 
-raids : lesnumeriques => yoorubytv => YuriJoa => CookSux => Yunicorn19 => EXBC (24h) => robcdee => anny => Apricot => HarukaKaribu => nyanners => nihmune => UNREALGRL => marimari_en (48h) => ReiyuGuiGui => YozoraAoi => koopa_ch => Ninaninin => Bellyka => HinaBoBina => marimari_en (72h) => moonjelly0 => nadechama => kuromiyalucien
+raids : lesnumeriques => yoorubytv => YuriJoa => CookSux => Yunicorn19 => EXBC (24h) => robcdee => anny => Apricot => HarukaKaribu => nyanners => nihmune => UNREALGRL => marimari_en (48h) => ReiyuGuiGui => YozoraAoi => koopa_ch => Ninaninin => Bellyka => HinaBoBina => marimari_en (72h) => moonjelly0 => nadechama => kuromiyalucien (96h) => KiraKuroto => IsiKikoro => Nyancifer.
 
 
 --------------------------------------
