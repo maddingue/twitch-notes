@@ -2244,6 +2244,35 @@ raids : lesnumeriques => marmiton_officiel => chef_jm => Lua_Wilk.
 raids : lesnumeriques => Gautoz => ALaiseBlaze => kaorinchan => KenB0gard => FibreTigre => ZulZorander.
 
 
+--------------------------------------
+2021-12-07
+
+- [Les Numériques] L'émoji qui pleure de rire est toujours le plus utilisé en 2021 → https://lesnumeriques.com/vie-du-net/-n172437.html
+- [Les Numériques] Nvidia renouvelle sa GeForce RTX 2060 à un tarif indécent → https://lesnumeriques.com/carte-graphique/-n172463.html
+- [Ars Technica] Asus’ new MacBook Pro rival costs $5,000. Includes Intel Xeon W-11955M, Nvidia RTX A5000 graphics, and a tall OLED screen → https://arstechnica.com/gadgets/2021/12/asus-proart-studiobook-pro-16-oled-is-a-5000-macbook-pro-alternative/
+- [Les Numériques] Apple préparerait cinq nouveaux Mac pour 2022, dont un MacBook Pro d'entrée de gamme → https://lesnumeriques.com/ordinateur-portable/-n172455.html
+- [Mozilla Hacks] WebAssembly and Back Again: Fine-Grained Sandboxing in Firefox 95 → https://hacks.mozilla.org/2021/12/webassembly-and-back-again-fine-grained-sandboxing-in-firefox-95/
+- [XDA Developers] December 2021 Android security updates now rolling out to select Pixel phones → https://www.xda-developers.com/december-2021-android-security-update/
+- [Twitter - Jane McGonigal] don't send your Google phone in for warranty repair/replacement → https://twitter.com/avantgame/status/1467192779973398531
+- [The Verge] Google Pixel mail-in repairs have allegedly twice resulted in leaked pics and a privacy nightmare. Google says it’s investigating the latest report → https://theverge.com/2021/12/4/22817758/
+- [Les Numériques] Toyota Corolla Cross : un nouveau SUV hybride pour le segment C → https://lesnumeriques.com/voiture/-n172395.html
+- Toyota Selects North Carolina for New U.S. Automotive Battery Plant. Plant is first to produce automotive batteries for Toyota in North America, enough battery packs for 1.2 million electrified vehicles per year → https://global.toyota/en/newsroom/corporate/36418723.html
+- [Les Numériques] EyeLights : l'affichage tête haute pour deux-roues → https://lesnumeriques.com/moto/-n172401.html
+- [YouTube - Les Numériques] Mon smartphone est tombé à l'eau, que faire ? Les gestes qui sauvent ! → https://www.youtube.com/watch?v=S8rNdNRKtKA
+- [Les Numériques] Truth Social, le futur réseau de Donald Trump, lève 1 milliard de dollars → https://lesnumeriques.com/vie-du-net/-n172429.html
+- [Les Numériques] Caméras de surveillance : les Français de plus en plus nombreux à sécuriser leur domicile → https://lesnumeriques.com/objet-connecte/-n172369.html
+- [VICE] A peek inside Anom, the phone company secretly used in an FBI honeypot. Videos, documents, and other files obtained by Motherboard show how the company functioned as an entity in its own right → https://www.vice.com/en/article/n7nnmg/inside-anom-video-operation-trojan-shield-ironside
+- How we tracked down Australia’s most wanted man to his glamorous new life. Authorities have been hunting Hakan Ayik for more than a decade. Now for the first time we have uncovered his life of luxury lived in the open on the border between east and west → https://www.smh.com.au/national/how-we-tracked-down-australia-s-most-wanted-man-to-his-glamorous-new-life-20210601-p57x7w.html
+- [Les Numériques] Pistage publicitaire : l'Unesco prend les annonceurs à leur propre jeu avec sa Cookie Factory → https://lesnumeriques.com/vie-du-net/-n172371.html
+- [Les Numériques] Cloud souverain : "Le rôle des Français sera juste de pousser des boutons" → https://lesnumeriques.com/pro/-a172187.html
+- [Games Industry] Activision lays off a third of QA team at Raven Software. Contractors were summoned to meetings to find out if they were being promoted to full-time roles or let go → https://www.gamesindustry.biz/articles/2021-12-06-activision-lays-off-a-third-of-qa-team-at-raven-software
+- [Wired] These retro gaming consoles deliver a dose of nostalgia. From the stylish Evercade to the old-school Sega Genesis Mini, these machines will have you bleeping, blooping, and blasting back to the good old days → https://www.wired.com/gallery/best-retro-gaming-consoles/
+- [CNET France] The Last of US (HBO) : un acteur culte rejoint le casting de la série. L'adaptation en série du célèbre jeu vidéo est actuellement en tournage → https://www.cnetfrance.fr/news/the-last-of-us-hbo-un-acteur-culte-rejoint-le-casting-de-la-serie-39933631.htm
+- [ZDNet France] Comment la pandémie a tué la télévision. Médiamétrie vient de publier les audiences du mois de novembre 2021. Des résultats peu rassurants au moment où l’offre de services OTT se densifie chaque mois → https://www.zdnet.fr/blogs/digital-home-revolution/comment-la-pandemie-a-tue-la-television-39933539.htm
+- [Les Numériques] Fusion TF1/M6 : France Télévisions pourrait-il quitter Salto ? → https://lesnumeriques.com/vie-du-net/-n172295.html
+
+raids : lesnumeriques => marmiton_officiel.
+
 
 
 
