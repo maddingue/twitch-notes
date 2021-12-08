@@ -2274,6 +2274,45 @@ raids : lesnumeriques => Gautoz => ALaiseBlaze => kaorinchan => KenB0gard => Fib
 raids : lesnumeriques => marmiton_officiel.
 
 
+--------------------------------------
+2021-12-08
+
+- [Le Figaro] Covid, wokisme et tronçonneuses : Google dévoile ce qui a intrigué les Français en 2021 → https://www.lefigaro.fr/secteur/high-tech/covid-wokisme-et-tronconneuses-google-devoile-ce-qui-a-intrigue-les-francais-en-2021-20211208
+- [Les Numériques] Amibot Spirit Premium Station : un nouveau robot avec base aspirante automatique → https://lesnumeriques.com/aspirateur-robot/-n172381.html
+- [Les Numériques] Nikkor Z 28mm f/2.8 : un grand-angle compact pour les hybrides Nikon → https://lesnumeriques.com/focales-fixes/-n172483.html
+- [ZDNet France] Fibre : La pénurie pénalise les fabricants français de câbles. Les livraisons de câbles à fibres optiques produits par les industriels français du secteur ont brutalement chuté au troisième trimestre. Une conséquence de la pénurie, estiment les acteurs français du marché → https://www.zdnet.fr/actualites/fibre-la-penurie-penalise-les-fabricants-francais-de-cables-39933723.htm
+- [XDA Developers] Benchmarking the Qualcomm Snapdragon 8 Gen 1: Setting performance expectations for 2022’s flagships → https://www.xda-developers.com/qualcomm-snapdragon-8-gen-1-benchmarks/
+- [Les Numériques] Motorola dévoile un impressionnant capteur sous écran de 60 Mpx pour son Moto Edge X30 → https://lesnumeriques.com/telephone-portable/-n172523.html
+- [MacRumors] Some SD cards not working properly with 2021 14 and 16-inch MacBook Pros → https://www.macrumors.com/2021/12/06/macbook-pro-sd-card-issue/
+- [The Verge] Snap’s first AR Spectacles are an ambitious, impractical start. Mainstream AR glasses are still years away → https://www.theverge.com/22819963/snap-ar-spectacles-glasses-hands-on-pictures-design-features
+- [Les Numériques] Toyota GR86 : les sportives analogiques ont encore leur place, mais plus pour longtemps → https://lesnumeriques.com/voiture/-n172471.html
+- [Les Numériques] Mobileye, la filiale d'Intel dédiée à la conduite autonome, va entrer en Bourse → https://lesnumeriques.com/pro/-n172535.html
+- [Les Numériques] Le Vélo Mad : meilleure intégration et plus grosse batterie pour les vélos électriques Le Sport 2 et L'Urbain 2 → https://lesnumeriques.com/velo-electrique/-2-n172537.html
+- Jetson, your personal aircraft in aluminium and carbon fibre, powered with eight powerful electric motors → https://www.jetsonaero.com/
+- [Les Numériques] Labo – Le nouveau moteur du Monsieur Cuisine Smart de Lidl à l'épreuve du pétrissage → https://lesnumeriques.com/robot-cuiseur-multifonction/-n172481.html
+- [Les Numériques] Test Xiaomi Redmi 10 : toujours un bon rapport qualité/prix, mais plus le seul à moins de 200 € → https://www.lesnumeriques.com/telephone-portable/xiaomi-redmi-10-p64551/test.html
+- [Les Numériques] Test Razer Enki : une assise ferme, mais confortable → https://www.lesnumeriques.com/chaise-fauteuil-bureau/razer-enki-black-p65893/test.html
+- [Les Numériques] Labo – Worx Slammerdrill WX354 : les performances d'un perforateur dans une perceuse ? → https://lesnumeriques.com/perceuse-visseuse/-n172453.html
+- [Les Numériques] La norme wifi 6E est enfin disponible en France → https://lesnumeriques.com/repeteurs-wi-fi/-n172467.html
+- [THe Information] Inside Tim Cook’s Secret $275 Billion Deal with Chinese Authorities. Interviews and internal Apple documents provide a behind-the-scenes look at how the company made concessions to Beijing and won key legal exemptions. CEO Tim Cook personally lobbied officials over threats that would have hobbled its devices and services → https://www.theinformation.com/articles/facing-hostile-chinese-authorities-apple-ceo-signed-275-billion-deal-with-them
+- [Ars Technica] Report: Apple CEO Tim Cook engineered a secret $275 billion deal with China. Apple invested heavily in Chinese tech to prevent hostile regulations → https://arstechnica.com/gadgets/2021/12/report-apple-ceo-tim-cook-engineered-a-secret-275-billion-deal-with-china/
+- [Instagram] Raising the Standard for Protecting Teens and Supporting Parents Online → https://about.instagram.com/blog/announcements/raising-the-standard-for-protecting-teens-and-supporting-parents-online
+- [The Verge] Twitter acquires messaging platform Quill to make DMs suck less. The Slack-like platform was built to make work messaging more focused → https://theverge.com/2021/12/7/22822184/
+- [Les Numériques] Samsung fusionne ses activités mobile et électronique grand public, avec les semi-conducteurs en tête → https://lesnumeriques.com/pro/-n172501.html
+- [ZDNet France] Pour inciter les entreprises à s’abonner plus longtemps, Microsoft veut augmenter ses tarifs. Microsoft s'apprête à apporter des modifications à la facturation des abonnements pour un certain nombre de ses services logiciels destinés aux entreprises… avec l’ambition de fidéliser davantage ses partenaires et ses clients → https://www.zdnet.fr/actualites/pour-inciter-les-entreprises-a-s-abonner-plus-longtemps-microsoft-veut-augmenter-ses-tarifs-39933709.htm
+- [ZDNet France] Meta : 150 milliards de dollars demandés par des réfugiés Rohingyas. Deux plaintes accusent Facebook d'avoir contribué à diffuser des messages de haine ayant conduit à des violences à l'encontre du peuple rohingya au Myanmar → https://www.zdnet.fr/actualites/meta-150-milliards-de-dollars-demandes-par-des-refugies-rohingyas-39933727.htm
+- [Ars Technica] Verizon overrides users’ opt-out preferences in push to collect browsing history. Verizon renamed scanning program and enrolled customers who previously opted out. → https://arstechnica.com/information-technology/2021/12/verizon-ignored-users-previous-opt-outs-in-latest-push-to-scan-web-browsing/
+- [Les Numériques] Cloud : l'organisation Euclidia demande un moratoire sur les stratégies nationales → https://lesnumeriques.com/pro/-n172525.html
+- [Les Numériques] Hadopi : 12 ans d’existence, 14 millions d’avertissements et 517 jugements → https://lesnumeriques.com/vie-du-net/-n172541.html
+- [Les Numériques] Bruno Studer, le député qui interroge la présence des boutons Netflix ou Prime sur nos télécommandes → https://lesnumeriques.com/telecommande-universelle/-n172199.html
+- [The Verge] I regret to inform you that Digital Human as a Service (DHaaS) is now an acronym. 5G + Edge compute + Metaverse = buzzword business opp → https://www.theverge.com/tldr/22821377/digital-human-as-a-service-kddi-mawari
+- [Les Numériques] Quel bilan pour le marché des NFT en 2021 ? → https://lesnumeriques.com/pro/-n172397.html
+- [Les Numériques] Le prochain Scorsese sera financé par des NFT → https://lesnumeriques.com/vie-du-net/-n172439.html
+- [L'Obs] Ubisoft : « La blockchain a le pouvoir de changer le jeu vidéo » → https://www.nouvelobs.com/economie/20211202.OBS51720/ubisoft-la-blockchain-a-le-pouvoir-de-changer-le-jeu-video.html
+- 🇫🇷 [Gamekult] Jeu vidéo et NFT : le point sur un phénomène aussi médiatique que nébuleux → https://gamekult.com/actualite/-3050845163.html
+- 🇫🇷 [Gamekult] Quartz : que vient chercher Ubisoft en lançant sa propre blockchain ? → https://gamekult.com/actualite/-3050845225.html
+
+raids : lesnumeriques => ClTRON_ => mileina.
 
 
 
