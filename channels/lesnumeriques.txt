@@ -2315,6 +2315,59 @@ raids : lesnumeriques => marmiton_officiel.
 raids : lesnumeriques => ClTRON_ => mileina.
 
 
+--------------------------------------
+2021-12-09
+
+- [XDA Developers] HUAWEI Watch D Expected to Launch on December 23 → https://www.xda-developers.com/huawei-watch-d-expected-to-launch-on-december-23/
+- [XDA Developers] Everything we Know About HUAWEI’s Upcoming Clamshell Foldable Phone → https://www.xda-developers.com/huawei-clamshell-phone/
+- [CNET France] OnePlus 10 / 10 Pro : vers une présentation en tout début d'année prochaine ? OnePlus pourrait profiter du CES de Las Vegas pour dévoiler son nouveau fleuron → https://www.cnetfrance.fr/news/oneplus-10-10-pro-vers-une-presentation-en-tout-debut-d-annee-prochaine-39933789.htm
+- [Les Numériques] Apple a stoppé sa production pour la première fois depuis une décennie → https://lesnumeriques.com/telephone-portable/-n172561.html
+- [CNET France] Application mobile : dans un marché en hausse, Google tire son épingle du jeu. Apple reste toujours loin devant avec l'App Store, mais Google rattrape son retard → https://www.cnetfrance.fr/news/application-mobile-dans-un-marche-en-hausse-google-tire-son-epingle-du-jeu-39933769.htm
+- [CNET France] Horwin SK3 : un scooter électrique abordable plein de promesses. Prévu en Europe pour moins de 4 000 euros, Horwin nous propose un scooter électrique utilitaire à un prix enfin décent → https://www.cnetfrance.fr/news/horwin-sk3-un-scooter-electrique-abordable-plein-de-promesses-39933841.htm
+- [The Verge] Tesla allows drivers to play video games in moving cars, raising safety concerns. The latest revelation concerning Tesla’s lax approach to safety → https://theverge.com/2021/12/8/22823127/
+- [Les Numériques] Test Apple MacBook Pro 16 pouces M1 Max : des performances graphiques hors norme → https://www.lesnumeriques.com/ordinateur-portable/apple-macbook-pro-16-2021-m1-max-p65735/test.html
+- [Les Numériques] Labo – Sony Xperia Pro-I : derrière le marketing, la réalité contrastée → https://lesnumeriques.com/telephone-portable/-n172479.html
+- eBay Debuts New 3D True View Feature for Sneakers → https://www.ebayinc.com/stories/news/ebay-debuts-new-3d-true-view-feature-for-sneakers/
+- [ZDNet France] Les jeunes font confiance à LinkedIn. Le réseau social professionnel s’est intéressé à la génération Z et a récemment partagé des chiffres intéressant sur l’engagement des jeunes, leurs choix et modes consommation. Bref, un coup d’oeil sur une génération qui se concentre sur sa carrière et qui recherche des entreprises auxquelles elle peut faire confiance → https://www.zdnet.fr/blogs/watch-it/les-jeunes-font-confiance-a-linkedin-39933851.htm
+- [VICE Motherboard] Google tells specific apps to disclose location gathering or be removed. The move comes after Motherboard reported that apps working with a location data vendor called Huq were collecting data even when users opted-out → https://www.vice.com/en/article/y3vp35/google-tells-apps-disclose-location-data-removed-huq
+- [XDA Developers] Facebook and Snapchat are still tracking iOS users who have opted out → https://www.xda-developers.com/facebook-and-snapchat-tracking-ios-users-who-opted-out/
+- [Daily Beast] Actually, Kamala is right. Bluetooth is a Risk. Bluetooth’s security risks have been well documented and government officials have been warned about the potential problems of using it → https://www.thedailybeast.com/well-actually-vice-president-kamala-harris-is-right-bluetooth-is-a-risk
+- [YouTube - Arte] Le mystère Satoshi : enquête sur l'inventeur du bitcoin → https://www.youtube.com/watch?v=0ETcLj5jBy4
+- [CNBC] Miami jury rules in favor of Craig Wright, who claimed to invent bitcoin → https://www.cnbc.com/2021/12/06/miami-jury-rules-in-favor-of-craig-wright-bitcoin-claimed-inventor.html
+- Gamekult Awards 2021 : votez pour vos jeux vidéo de l'année → https://www.gamekult.com/actualite/gamekult-awards-2021-votez-pour-vos-jeux-video-de-l-annee-3050845165.html
+- [Ars Technica] Stadia finally launches on LG TVs, shows off the greatness that could’ve been. Solid stuff, but it comes well after Google began winding Stadia's concept down → https://arstechnica.com/gaming/2021/12/stadia-finally-launches-on-lg-tvs-shows-off-the-greatness-that-couldve-been/
+- Razer - Refroidisseur de téléphone Razer Chroma → https://www.razer.com/fr-fr/mobile-accessories/razer-phone-cooler-chroma
+- [The Verge] Apple will pay for Jennifer Lawrence to play Elizabeth Holmes in new Theranos film. Holmes is currently on trial for wire fraud and conspiracy to commit wire fraud → https://theverge.com/2021/12/8/22824561/
+- [Les Numériques] Netflix, YouTube… Vers une limitation de la qualité des flux vidéo sur smartphone ? → https://lesnumeriques.com/vie-du-net/-n172293.html
+- [Advanced Earth & Space Science] A bird’s-eye view on ambient infrasonic soundscapes → https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL094555
+
+raids : lesnumeriques => marmiton_officiel.
+
+
+--------------------------------------
+2021-12-10
+
+- [Les Numériques] JVC débarque dans l’univers du gaming avec deux casques-micros, les GG-01 et GG-01W → https://lesnumeriques.com/casque-gaming-micro/-n172579.html
+- [Les Numériques] Apple iPhone 14 : l'encoche tirerait sa révérence au profit du poinçon → https://lesnumeriques.com/telephone-portable/-n172597.html
+- [Les Numériques] Nvidia : des GeForce RTX 3050, 3070 Ti 16 Go et 3090 Ti pour PC de bureau bientôt annoncées → https://lesnumeriques.com/carte-graphique/-n172619.html
+- [Les Numériques] DirectX 12 intègre un moteur d'accélération de compression vidéo → https://lesnumeriques.com/carte-graphique/-n172609.html
+- We will be retiring Alexa.com on May 1, 2022 → https://support.alexa.com/hc/en-us/articles/4410503838999-We-will-be-retiring-Alexa-com-on-May-1-2022
+- [Les Numériques] Amazon se voit infliger une amende de 1,13 milliard d'euros en Italie pour abus de position dominante → https://lesnumeriques.com/pro/-n172615.html
+- [Les Numériques] L'UE pour une présomption de salariat des autoentrepreneurs d'Uber, Deliveroo & co → https://lesnumeriques.com/vie-du-net/-n172617.html
+- 🇺🇸 [VGC] Masayuki Uemura, the designer of the NES and SNES, has died age 78. Uemura was the general manager of Nintendo’s R&D2 hardware division until 2004 → http://cpc.cx/www
+- [Ars Technica] The NES: How it began, worked, and saved an industry. On July 15, 1983, Nintendo sold its first Famicom. Gaming hasn't been the same since → https://arstechnica.com/gaming/2021/12/time-to-feel-old-inside-the-nes-on-its-30th-birthday/
+- [Gamekult] Masayuki Uemura, l'architecte de la NES et de la Super Nintendo, est décédé. L'un des sauveurs du marché des consoles dans les années 80 → https://gamekult.com/actualite/-3050845285.html
+- [The Verge] Microsoft quietly told Apple it was willing to turn big Xbox-exclusive games into iPhone apps. Private emails show Microsoft wheeling and dealing to get into the App Store → https://theverge.com/2021/12/9/22826297/
+- [The Verge] Google is bringing Android games to Windows in 2022. Google Play Games comes to PC next year → https://theverge.com/2021/12/9/22827037/
+- chaîne YouTube des Game Awards → https://www.youtube.com/c/thegameawards/videos
+- [Les Numériques] Peugeot, un constructeur 100 % électrique d'ici 2030, mais uniquement en Europe → https://lesnumeriques.com/voiture/-n172589.html
+- [CNET France] Cocorico, la production des scooters électriques Red se fera en France. Basée dans la Sarthe (72), c’est l’entreprise Chastagner qui servira d’intermédiaire → https://www.cnetfrance.fr/news/cocorico-la-production-des-scooters-electriques-red-se-fera-en-france-39933927.htm
+- [Les Numériques] Que faut-il savoir avant d’acheter une voiture électrique d’occasion ? → https://lesnumeriques.com/voiture/-a171929.html
+
+raids : lesnumeriques => 헤르반테스 (harvantes4)
+
+
+
 
 - [Les Numériques] 
 - [ZDNet France] 
