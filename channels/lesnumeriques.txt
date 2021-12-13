@@ -2367,6 +2367,37 @@ raids : lesnumeriques => marmiton_officiel.
 raids : lesnumeriques => 헤르반테스 (harvantes4)
 
 
+--------------------------------------
+2021-12-13
+
+- [Les Numériques] Samsung devrait acheter 2 millions de dalles Oled à LG Display → https://lesnumeriques.com/tv-televiseur/-n172651.html
+- [Les Numériques] Pas moins de sept têtes pour se raser le crâne avec le rasoir Feimuosi → https://lesnumeriques.com/rasoir-electrique/-n172691.html
+- [Les Numériques] Samsung Galaxy S21 FE : une fiche technique apparaît déjà → https://lesnumeriques.com/telephone-portable/-n172661.html
+- [Les Numériques] GoPro met à jour son action-cam Hero10 pour régler le problème de surchauffe → https://lesnumeriques.com/action-cam/-n172643.html
+- [Les Numériques] Comment les Cycles Lapierre comptent reprendre leur place dans le vélo du quotidien → https://lesnumeriques.com/velo-electrique/-a172603.html
+- [Les Numériques] Mercedes-Benz reçoit l'homologation pour sa conduite autonome de niveau 3 → https://lesnumeriques.com/voiture/-n172669.html
+- [Synopsis] The 6 levels of vehicle autonomy explained → https://www.synopsys.com/automotive/autonomous-driving-levels.html
+- [Engadget] Mercedes-Benz recalls EQS over error that allowed dashboard video playback while driving. Some S-Class sedans are also included in the recall → https://www.engadget.com/mercedes-benz-mbux-server-side-configuration-error-224912962.html
+- [Twitter] réponse d'Elon Musk → https://twitter.com/elonmusk/status/1469371515430912004
+- [Les Numériques] Voitures électriques : les meilleurs choix en occasion → https://lesnumeriques.com/voiture/-a171933.html
+- [Les Numériques] Test Lenovo Yoga Tab 13 : tablette tactile et écran secondaire → https://www.lesnumeriques.com/tablette-tactile/lenovo-yoga-tab-13-p65653/test.html
+- [Les Numériques] Test Portable Dell XPS 17 9710 : une station de travail qui cache bien son jeu → https://www.lesnumeriques.com/ordinateur-portable/dell-xps-17-2021-p66315/test.html
+- [Les Numériques] Test MSI Creator PS321QR : un moniteur 32 pouces Quad HD 165 Hz pour créatif qui se prend au jeu → https://www.lesnumeriques.com/moniteur-ecran-lcd/msi-creator-ps321qr-p66343/test.html
+- [Les Numériques] ⚖️ Duel : Dyson Omni-glide vs V12 Slim Absolute → https://www.lesnumeriques.com/aspirateur-balai/face-a-face/62751-63135.html
+- [Les Numériques] Test Sony Xperia Pro-I : Un photophone de niche vendu au prix fort → https://www.lesnumeriques.com/telephone-portable/sony-xperia-pro-i-p65837/test.html
+- [Les Numériques] Test Amazon Kindle Paperwhite 2021 : un écran plus grand et une mémoire de 8 Go → https://www.lesnumeriques.com/liseuse/amazon-kindle-paperwhite-2021-p66205/test.html
+- Reddit Recap 2021 → https://www.reddit.com/r/blog/comments/rbqu7c/reddit_recap_2021/
+- Quelle quantité de raclette ce soir ? → https://raclette.world/
+- [blogTO] Ontario police reveal how some thieves have been able to steal so many luxury cars → https://www.blogto.com/city/2021/12/ontario-police-thieves-steal-luxury-cars/
+- [Les Numériques] Sites porno : le CSA va mettre en demeure ceux qui ne vérifient pas suffisamment l'âge des visiteurs → https://lesnumeriques.com/vie-du-net/-n172703.html
+- [ZDNet France] Kickstarter mise sur un protocole de blockchain pour étendre sa toile. Après l’adoption d’un nouveau protocole blockchain, la plateforme de crowdfunding Kickstarter estime qu'elle doit fonctionner à une échelle « que seuls les gouvernements et les méga-corporations peuvent appréhender » → https://www.zdnet.fr/actualites/kickstarter-mise-sur-un-protocole-de-blockchain-pour-etendre-sa-toile-39933859.htm
+- [The Verge] Keanu Reeves doesn’t get the NFT hype either. Neo is a HODLer → https://www.theverge.com/2021/12/11/22829383/
+- FMWC Open – Excel as esports for Everybody! → https://www.fmworldcup.com/excel-as-esports/fmwc-open/
+
+raids : lesnumeriques => Aubii_ => Nat_Ali.
+
+
+
 
 
 - [Les Numériques] 
