@@ -2397,6 +2397,37 @@ raids : lesnumeriques => 헤르반테스 (harvantes4)
 raids : lesnumeriques => Aubii_ => Nat_Ali.
 
 
+--------------------------------------
+2021-12-14
+
+- [Les Numériques] Inno Day : Oppo présente MariSilicon X, son premier processeur maison dédié à la photo mobile → https://lesnumeriques.com/telephone-portable/-n172729.html
+- [Interesting Engineering] Samsung and IBM could break the nanosheet threshold in chips with 'vertically stacked transistors'. This design can either double the performance of chips or reduce power use by 85% → https://interestingengineering.com/samsung-ibm-could-break-1nm-threshold-in-chips-with-stacked-transistors
+- [Interesting Engineering] Semiconductor breakthrough: scientists just widened the gap with new tiny chips. This could quadruple smartphone battery life → https://interestingengineering.com/semiconductor-breakthrough-widened-gap-tiny-chips
+- [Les Numériques] OnePlus Pad : avant les smartphones de série 10, une tablette se profile → https://lesnumeriques.com/tablette-tactile/-n172751.html
+- [Les Numériques] Les Numériques crée un score pour identifier les smartphones les plus durables → https://lesnumeriques.com/vie-du-net/-n172335.html
+- iFixit Works With Microsoft to Manufacture Service Tools for Repair Techs → https://fr.ifixit.com/News/56078/
+- [Les Numériques] Les produits Sonos doivent réduire leur consommation électrique pour que le fabricant atteigne la neutralité carbone → https://lesnumeriques.com/tv-video/-n172763.html
+- [The Verge] Google starts rolling out major Pixel 6 update with camera and fingerprint sensor improvements. Plus fixes for display, audio, and Bluetooth issues → https://www.theverge.com/2021/12/13/22832212/
+- [The Verge] Alpha Motor’s EV designs look cool, but will they ever get made?. An interview with lots of questions and a few answers → https://www.theverge.com/2021/12/13/22826413/
+- [Les Numériques] Volkswagen confirme un ID. California 100 % électrique basé sur l’ID. Buzz → https://lesnumeriques.com/voiture/-n172727.html
+- [The Drive] Toyota made its key fob remote start into a subscription service. Subscription-based features are taking over the automotive industry—and now they're coming for your key fob → https://www.thedrive.com/news/43329/
+- [CNET France] CES 2022 - BMW : changez la couleur de votre voiture avec un simple bouton. Lors du CES 2022 qui débutera en janvier prochain, le constructeur allemand présentera sa nouvelle voiture électrique avec une fonction surprenante → https://www.cnetfrance.fr/news/ces-2022-bmw-changez-la-couleur-de-votre-voiture-avec-un-simple-bouton-39934059.htm
+- Triton 660 AVA → https://tritonsubs.com/subs/t660-9-ava/
+- [ZDNet France] AWS raconte l’origine de sa dernière grande panne informatique. Après s’être excusé pour une longue panne survenue sur sa plateforme, AWS l’a justifié par un problème de traduction d'adresses entre son réseau principal et son réseau interne → https://www.zdnet.fr/actualites/aws-raconte-l-origine-de-sa-derniere-grande-panne-informatique-39934031.htm
+- [ZDNet France] eVoyageurs SNCF bascule dans le cloud d'AWS. 7000 serveurs physiques et virtuels et 250 applications de eVoyageurs SNCF basculent dans le cloud. A la prochaine panne, la SNCF pourra donc dire à ses clients que ce n'est pas de sa faute, mais bien celle d'AWS → https://www.zdnet.fr/actualites/evoyageurs-sncf-bascule-dans-le-cloud-d-aws-39934047.htm
+- [ZDNet France] Les salariés de plus en plus attachés au travail hybride. Une enquête de Microsoft révèle qu’un grand nombre d’employés démissionneraient si leur employeur ne propose plus le travail hybride comme option → https://www.zdnet.fr/actualites/les-salaries-de-plus-en-plus-attaches-au-travail-hybride-39934037.htm
+- [Le Monde] En Allemagne, tomber en sortant du lit pour faire du télétravail est désormais considéré comme un accident du travail → https://www.lemonde.fr/big-browser/article/2021/12/10/en-allemagne-tomber-en-sortant-du-lit-pour-faire-du-teletravail-est-desormais-considere-comme-un-accident-du-travail_6105594_4832693.html
+- [CNET France] Taper, filmer, c’est publié : les réseaux sociaux poussent-ils les ados à la violence ? En 2021 les réseaux sociaux sont devenus le réceptacle des images prises au moment de bagarres et règlements de comptes. La dernière ayant marqué les esprits : celle de Yanis, 17 ans, agressé dans les rues de Montgeron (Essonne)  → https://www.cnetfrance.fr/news/taper-filmer-c-est-publie-les-reseaux-sociaux-poussent-ils-les-ados-a-la-violence-39932889.htm
+- [Les Numériques] The Matrix Awakens : l'Unreal Engine 5 se montre sur PS5 et Xbox Series X/S dans une démo gratuite → https://lesnumeriques.com/gaming/-n172743.html
+- [Ars Technica] Defending quantum chess champion takes the title again in 2021 tournament. AWS' Aleksander Kubica defeated Seneca Meeks from Google Quantum AI in the final match → https://arstechnica.com/gaming/2021/12/defending-quantum-chess-champion-takes-the-title-again-in-2021-tournament/
+- Analogue Pocket → https://www.analogue.co/pocket
+- [Ars Technica] Analogue Pocket review: The greatest Game Boy ever made. After testing hundreds of games over three weeks, the results are (mostly) fantastic → https://arstechnica.com/gaming/2021/12/analogue-pocket-review-the-greatest-game-boy-ever-made/
+- [The Verge] Analogue Pocket review: Game Boy games have never looked so good. A modern handheld that celebrates the classics → https://www.theverge.com/22831589/analogue-pocket-review
+- Power On: The Story of Xbox 'Red Ring of Death' Premium Print → https://gear.xbox.com/products/red-ring-of-death-premium-poster
+
+raids : Gautoz => lesnumeriques => marmiton_officiel => Gastronogeek
+
+
 
 
 
@@ -2440,4 +2471,5 @@ clips :
 🎥 1ère surprise, préparer les frites, il faut du sopalin → https://clips.twitch.tv/SmilingBlushingPotCeilingCat-vKFKreRCmodBke3v
 🎥 la vérité sur les odeurs d'huile dans le studio Gamekult → https://clips.twitch.tv/CredulousManlyPeanutDerp-WBgjjZgX0AWcclAR
 🎥 des bisous à Gamekult et à Hubert → https://clips.twitch.tv/TriumphantPluckySwallowImGlitch-n5-nnJy54t0rd8Hj
+🎥 Le drame de la savonnette Pixel 6 → https://clips.twitch.tv/PowerfulTrustworthyLapwingFailFish-ErPQN9oh5MvH3TOW
 
