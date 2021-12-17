@@ -2428,6 +2428,50 @@ raids : lesnumeriques => Aubii_ => Nat_Ali.
 raids : Gautoz => lesnumeriques => marmiton_officiel => Gastronogeek
 
 
+--------------------------------------
+2021-12-15
+
+- [Les Numériques] Deezer augmente le prix de ses abonnements au grand dam des utilisateurs → https://lesnumeriques.com/tv-video/-n172853.html
+- [The Verge] Opal’s C1 offers DSLR-rivaling video quality in a small form factor. Stellar design and performance, with more improvements to come → https://www.theverge.com/22834196/opal-c1-webcam-camera-dslr-video-quality-performance-review-price
+- [TFT Central] When HDMI 2.1 isn’t HDMI 2.1 – The confusing world of the standard, “fake HDMI 2.1” and likely future abuse → https://tftcentral.co.uk/articles/when-hdmi-2-1-isnt-hdmi-2-1
+- [XDA Developers] Dell shows off new concepts to reimagine working from home → https://www.xda-developers.com/dell-shows-off-new-concepts-to-reimagine-working-from-home/
+- [Les Numériques] Apple : les iMac Pro grand format avec écran miniled et nouveaux M1 au printemps ? → https://lesnumeriques.com/ordinateur/-n172815.html
+- [AnandTech] The Snapdragon 8 Gen 1 Performance Preview: Sizing Up Cortex-X2 → https://anandtech.com/show/17102/
+- [Les Numériques] La compagnie de taxis G7 suspend sa flotte de Tesla à la suite d'un accident à Paris → https://lesnumeriques.com/voiture/-n172859.html
+- [Les Numériques] The Matrix Awakens : l'Unreal Engine 5 se montre sur PS5 et Xbox Series X/S dans une démo gratuite → https://lesnumeriques.com/gaming/-n172743.html
+
+raids : lesnumeriques => lestream
+
+
+--------------------------------------
+2021-12-16
+
+- [Les Numériques] Black Friday : coup de frein général en 2021, l'e-commerce progresse selon GfK → https://lesnumeriques.com/pro/-n172915.html
+- https://forum.hardware.fr/hfr/Discussions/Viepratique/unique-choisir-matelas-sujet_71389_1.htm
+- [Les Numériques] Covid, médias, voitures électriques, photo… Notre sélection de livres pour Noël → https://lesnumeriques.com/vie-du-net/-n172877.html
+- [Le Parisien] «J’ai pensé que j’allais mourir» : le récit glaçant des témoins du grave accident de la route dans le XIIIe à Paris → https://www.leparisien.fr/faits-divers/jai-pense-que-jallais-mourir-le-recit-glacant-des-temoins-du-grave-accident-de-la-route-dans-le-xiiie-a-paris-12-12-2021-JXEETCLLE5H7RIDVVDOY2BZCZU.php
+- [Le Monde] Accident de la route mortel à Paris : le chauffeur de la Tesla mis en examen pour « homicide involontaire » → https://www.lemonde.fr/societe/article/2021/12/16/accident-de-la-route-mortel-a-paris-le-chauffeur-de-la-tesla-mis-en-examen-pour-homicide-involontaire_6106221_3224.html
+- Arrival → https://arrival.com/eu/en
+- [Les Numériques] Apple tout proche des 3000 milliards de dollars de capitalisation boursière → https://lesnumeriques.com/pro/-n172797.html
+- [Numérama] La France garde le contrôle de France.com → https://www.numerama.com/tech/790529-la-france-garde-le-controle-de-france-com.html
+- [Engadget] US puts drone maker DJI and seven other Chinese companies on investment blocklist. US citizens will be barred from making any investments in the companies → https://www.engadget.com/us-government-china-dji-investment-blocklist-103514525.html
+- [Numérama] Le gouvernement veut aller très vite sur le contrôle parental sur les objets tech → https://www.numerama.com/politique/791529-tech.html
+- CVE-2021-44228 → https://cve.mitre.org/cgi-bin/cvename.cgi?name=2021-44228
+- [Ars Technica] Patch fixing critical Log4J 0-day has its own vulnerability that’s under exploit. If you've patched using Log4J 2.15.0, it's time to update again. Stat! → https://arstechnica.com/information-technology/2021/12/patch-fixing-critical-log4j-0-day-has-its-own-vulnerability-thats-under-exploit/
+- [Les Numériques] Sonic, le hérisson bleu, déboule sur les écrans des voitures Tesla → https://lesnumeriques.com/voiture/-n172879.html
+- 🇫🇷 [Gamekult] Ubisoft annonce un remake du premier Splinter Cell, et ce ne sera pas un monde ouvert → https://gamekult.com/actualite/-3050845539.html
+- [Les Numériques] On sait combien vont donner Netflix, Disney+ et compagnie au cinéma français → https://lesnumeriques.com/vie-du-net/-n172657.html
+- [Les Numériques] Aux aguets, TF1 se méfie de la nouvelle chronologie des médias → https://lesnumeriques.com/vie-du-net/-n172637.html
+- [CNET France] Cowboy Bebop : devant l'échec de la série, Netflix annule la saison 2. Après une seule et unique saison, l’adaptation du célèbre manga n’aura pas fait long feu → https://www.cnetfrance.fr/news/cowboy-bebop-devant-l-echec-de-la-serie-netflix-annule-la-saison-2-39933981.htm
+- [The Verge] Oppo’s Find N is an impressive first folding phone → https://www.theverge.com/2021/12/15/22837149/
+- [MacRumors] Apple Removes All References to Controversial CSAM Scanning Feature From Its Child Safety Webpage → https://www.macrumors.com/2021/12/15/apple-nixes-csam-references-website/
+- [Les Numériques] Qualcomm Snapdragon 8cx Gen 3 : un SoC en 5 nm pour des PC portables ultra endurants → https://lesnumeriques.com/cpu-processeur/-n172175.html
+- [Tech PowerUp] NVIDIA MX550 Rumored to Feature GA107 GPU with 2 GB of GDDR6 memory → https://www.techpowerup.com/289852/
+- [Les Numériques] Des Ryzen 6000 et des GeForce RTX 3080 Ti bientôt sur PC portables ? → https://lesnumeriques.com/ordinateur-portable/-n172247.html
+- [The Verge] Intel thinks the metaverse will need a thousand-fold increase in computing capability. A reality check for computing’s next big leap → https://www.theverge.com/2021/12/15/22836401/
+
+raids : lesnumeriques => marmiton_officiel.
+
 
 
 
