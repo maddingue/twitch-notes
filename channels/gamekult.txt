@@ -14419,28 +14419,13 @@ io basé à Shenzhen, Chine 🇨🇳 → https://unite.pokemon.com/
 🎟️ ID du club Gamekult : #XTPP3CH0
 
 
-
-📅 le programme de la semaine → http://cpc.cx/wys
-📅 mardi 17:30, Pokémon Unite (Luma & Puyo)
-📅 mercredi 17:30, jeu mystère (Noddus)
-📅 jeudi 12:30, Shovel Knight Pocket Dungeon (Luma)
-📅 vendredi 17:30, GTFO (Noddus)
-📅 vendredi 18:30, Les Gamekult Awards 2021 🏆
-📺 samedi matin, Gamekult l'émission
-
-🏆 Les Gamekult Awards 2021 → http://cpc.cx/wv3
-🏴‍☠️ Butin de Nerd → http://cpc.cx/wyr
-🏎️ Ce que les grosses écuries viennent chercher dans l'eSport, par Alexis Bross
-💹 Le Père et Lemaire, votre nouveau podcast dédié à l’économie du jeu vidéo
-📷 Luma tire le portrait des jeux de photo
-
-
 --------------------------------------
-2021-12-15 - jeu mystère
+2021-12-15 - Sifu (annulé)
 
-xxx
-🎮 xx
-⌨️ 🖱️ xx
+Sifu, le 8 février 2022 sur PlayStation et PC
+développé par Soclap (Absolver), studio d'une trentaine de personnes basé à Paris → https://www.SifuGame.com/  
+🎮 40 € sur PSN (http://cpc.cx/wzP)
+⌨️ 🖱️ 40 € sur EGS (http://cpc.cx/wzO)
 
 
 --------------------------------------
@@ -14460,6 +14445,22 @@ après environ 4 ans de développement dont 2 ans d'accès anticipé
 développé par 10 Chambers, studio suédois 🇸🇪 dirigé par Ulf Andersson, un des créateurs de Payday → https://GTFOtheGame.com/
 ⌨️ 🖱️ en promo à 30 € sur Steam (http://cpc.cx/qcW)
 ⚙️ moteur utilisé : Unity
+
+
+
+📅 le programme de la semaine → http://cpc.cx/wys
+📅 mardi 17:30, 
+📅 mercredi 17:30, 
+📅 jeudi 12:30, 
+📅 vendredi 17:30, GTFO (Noddus)
+📅 vendredi 18:30, Les Gamekult Awards 2021 🏆
+📺 samedi matin, Gamekult l'émission
+
+🏆 Les Gamekult Awards 2021 → http://cpc.cx/wv3
+🏴‍☠️ Butin de Nerd → http://cpc.cx/wyr
+💹 Le Père et Lemaire, votre nouveau podcast dédié à l’économie du jeu vidéo → http://cpc.cx/wAj
+📷 Luma tire le portrait des jeux de photo → http://cpc.cx/wAi
+🏎️ Ce que les grosses écuries viennent chercher dans l'eSport, par Alexis Bross
 
 
 
