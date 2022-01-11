@@ -9107,6 +9107,49 @@ raids : Gautoz => Aubii_ => TiTavion => Lynkus_ => ceizyl => Jyrald => fourbax_e
 
 
 
+--------------------------------------
+2022-01-10
+
+- 🇫🇷 [Gamekult] L'E3 2022 n'aura pas lieu en présentiel, et les organisateurs n'ont rien d'autre à annoncer → https://gamekult.com/actualite/-3050845929.html
+- 🇺🇸 [VGC] E3’s in-person event has been cancelled for the third year in a row. Organiser blames risks surrounding Covid-19 for the latest cancellation; no word on a digital replacement → http://cpc.cx/wGZ
+- 🇫🇷 [IGN] Pas d'E3 physique en 2022, la version numérique encore incertaine. Est-ce que le salon revient cette année ? Même les collaborateurs n'en sont pas très sûr → https://fr.ign.com/e3/57691/news/
+
+- 🇫🇷 [Gamekult] Sony dévoile les caractéristiques techniques du PlayStation VR2 et des contrôleurs PlayStation VR2 Sense → https://gamekult.com/actualite/-3050845863.html
+- 🇺🇸 [VGC] Sony reveals PSVR2 specs and promises to take gaming ‘to a new level’. PS5 headset will include eye-tracking, an OLED display, built-in vibration and a more simple setup → http://cpc.cx/wGX
+- 🇺🇸 [VGC] Sony tech could allow PSVR users to scan real-world objects into games. Company updates patent describing the ability to insert objects into virtual worlds → http://cpc.cx/wGY
+
+- 🇺🇸 [Xbox] Coming Soon to Xbox Game Pass: Mass Effect Legendary Edition, The Anacrusis (Game Preview), Spelunky 2, and More → https://news.xbox.com/en-us/2022/01/04/coming-soon-to-xbox-game-pass-january-2022/
+
+- 🇫🇷 [Gamekult] Rainbow Six Extraction sera disponible le 20 janvier dans le Xbox Game Pass, et l'abonnement Ubisoft+ va sortir sur Xbox → https://gamekult.com/actualite/-3050845891.html
+
+- 🇺🇸 [GameRant] Skull and Bones Loses Co-Director. The already turbulent development of Skull and Bones hits another setback as co-director Antoine Henry announces his departure from Ubisoft. → https://gamerant.com/skull-and-bones-loses-co-director-antoine-henry/
+
+- 🇺🇸 Embracer Group enters into an agreement to acquire Dark Horse and forms the tenth operative group → https://embracer.com/release/embracer-group-enters-into-an-agreement-to-acquire-dark-horse-and-forms-the-tenth-operative-group/
+- 🇫🇷 [Gamekult] Embracer avait encore une petite faim et s'offre Dark Horse, le géant des comics. Ça fait 300 licences en plus pour Embracer → https://gamekult.com/actualite/-3050845671.html
+- 🇫🇷 [ActuGaming] Embracer Group multiplie les acquisitions dont Perfect World Entertainment et Dark Horse → https://www.actugaming.net/embracer-group-acquisition-dark-horse-463739/
+
+- 🇺🇸 [Games Industry] Raven Software strike continues as staff report no response from Activision management. Update: Activision says "Raven leadership has engaged in dialogue with its staff to hear concerns" → http://cpc.cx/wH4
+- 🇬🇧 [Eurogamer] Activision responds to ongoing worker strike at Raven Software.  "Raven leadership has engaged in dialogue with its staff to hear concerns" → http://cpc.cx/wH2
+
+- 🇺🇸 [Washington Post] Riot Games agrees to pay $100 million in settlement of class-action gender discrimination lawsuit → http://cpc.cx/wH5
+- 🇺🇸 [Forbes] League Of Legends’ Riot Games Must Pay $100 Million In Gender Discrimination Settlement → http://cpc.cx/wH0
+- 🇺🇸 [The Gamer] Riot Games Employees Threatening Walkout Over Company's Response To Toxic Workplace Claims. After Riot forced two former employees into arbitration over their claims of a toxic work environment, rumblings of a walkout have resurfaced → https://thegamer.com/riot-employees-threatening-walkout/
+
+- 🇺🇸 [Windows Central] Playground Games' co-founder Trevor Williams is set to replace Gavin Raeburn as Studio Head. Industry heavyweight Gavin Raeburn is moving on from Playground Games. → http://cpc.cx/wH6
+
+- 🇫🇷 [Les Numériques] Nvidia : des GeForce RTX 3050, 3070 Ti 16 Go et 3090 Ti pour PC de bureau bientôt annoncées → https://lesnumeriques.com/carte-graphique/-n172619.html
+
+- 🇺🇸 [Ars Technica] Amazon’s Fallout TV series is about to enter production → http://cpc.cx/wH7
+
+- 🇫🇷 [Gamekult] Le PDG de Square Enix déclare sa flamme à la blockchain et aux NFT dans son message du nouvel an. La danse du ventre de Yosuke Matsuda aux actionnaires → https://gamekult.com/actualite/-3050845829.html
+- 🇫🇷 [Gamekult] Konami met des NFT aux enchères pour les 35 ans de Castlevania → https://gamekult.com/actualite/-3050845899.html
+
+raids : Gautoz => BanjoGuyOllie => Anfalmyr => FredZolf.
+
+
+
+
+
 
 - 🇺🇸 
 - 🇫🇷 
