@@ -2473,6 +2473,124 @@ raids : lesnumeriques => lestream
 raids : lesnumeriques => marmiton_officiel.
 
 
+--------------------------------------
+2022-01-06
+
+- [Les Numériques] CES 2022 – Technics à l’assaut de Bose et Sony avec le casque EAH-A800 à réduction de bruit active → https://lesnumeriques.com/casque-nomade/-n173909.html
+- [Engadget] Harman would like to sell you some $1,000 headphones. If you thought the AirPods Max were expensive, hold on to your butts. → https://www.engadget.com/mark-levinson-5909-headphones-announced-price-specs-130056543.html
+- [Les Numériques] Canon ne lancera plus jamais de reflex haut de gamme, selon son PDG → https://lesnumeriques.com/reflex-hybride/-n173887.html
+- [CNET France] CES 2022 : le nouveau Withings Body Scan va bien plus loin que la mesure du poids. La nouvelle balance intelligente Withings Body Scan propose d'évaluer l'activité nerveuse et le rythme cardiaque → https://www.cnetfrance.fr/news/ces-2022-le-nouveau-withings-body-scan-va-bien-plus-loin-que-la-mesure-du-poids-39934917.htm
+- [Les Numériques] CES 2022 - Des plantes par dizaines grâce à Multo, le potager d’intérieur XXL de Prêt à Pousser → https://lesnumeriques.com/objet-connecte/-n173931.html
+- [Les Numériques] CES 2022 – La montre connectée Garmin Venu 2 Plus gagne des fonctions d'appel, envoi de SMS et assistant vocal → https://lesnumeriques.com/montre-connectee/-n173807.html
+- [Les Numériques] CES 2022 – La montre connectée à aiguilles Garmin Vívomove s'allège en version sport → https://lesnumeriques.com/montre-connectee/-n173891.html
+- [Engadget] Razer x Fossil smartwatch hands-on: Only for hardcore fans. Only 1,337 units will be available → https://www.engadget.com/razer-x-fossil-gen-6-smartwatch-hands-on-160052253.html
+- [Les Numériques] CES 2022 – Chat alors, un collier capteur d'activité pour chiens ! → https://lesnumeriques.com/vie-du-net/-n173803.html
+- [Engadget] Razer's $150 Zephyr Pro smart mask adds voice amplification. Bane, is that you? → https://www.engadget.com/razer-zephyr-pro-announcement-180037042.html
+- [Les Numériques] CES 2022 – Acer rafraîchit ses PC Swift X et modèles gaming avec de nouveaux processeurs et cartes graphiques → https://lesnumeriques.com/ordinateur-portable/-n173819.html
+- [Kotaku] Dell Makes A Lot Of Promises With Alienware’s Concept Polaris → https://www.kotaku.com.au/2022/01/concept-polaris-alienware-dell/
+- [Ars Technica] Concept Nyx is Alienware’s take on a household gaming server. Alienware explores simultaneous game streaming for four players → https://arstechnica.com/gadgets/2022/01/concept-nyx-is-alienwares-take-on-a-household-gaming-server/
+- Aorus → https://www.aorus.com/laptops/gaming
+- [Les Numériques] CES 2022 – Asus ROG renouvelle ses PC portables et sort une tablette gaming sous Windows → https://lesnumeriques.com/ordinateur-portable/-n173737.html
+- [Les Numériques] CES 2022 – Asus ZenBook 17 Fold Oled : un PC portable à écran pliant → https://lesnumeriques.com/ordinateur-portable/-n173193.html
+- [Les Numériques] CES 2022 – Dell propose un nouveau design audacieux pour son portable XPS 13 Plus → https://lesnumeriques.com/ordinateur-portable/-n173627.html
+- [XDA Developers] Dell XPS 13 Plus versus XPS 13 (2021): How much better is it? → https://www.xda-developers.com/dell-xps-13-plus-vs-xps-13-9310/
+- [Tom's Hardware] HP's Latest Omen 45L Gaming PC Moves the Radiator Outside the Case → https://www.tomshardware.com/news/hans-on-hp-omen-45L-gaming-oc
+- [Les Numériques] Huawei dévoile un nouveau MateBook X Pro à l’écran attrayant → https://lesnumeriques.com/ordinateur-portable/-n173397.html
+- [Les Numériques] CES 2022 – Lenovo renouvelle ses PC portables convertibles Yoga et ses modèles gaming Legion → https://lesnumeriques.com/ordinateur-portable/-n173915.html
+- [Engadget] Lenovo's ultrawide 17-inch laptop has an 8-inch screen next to the keyboard → https://www.engadget.com/lenovo-thinkbook-plus-gen-3-dual-screen-laptop-hands-on-price-specs-availability-160028888.html
+- [Les Numériques] LG s’attaque au marché gaming avec l'UltraGear 17G90Q, un PC portable à écran 300 Hz → https://lesnumeriques.com/ordinateur-portable/-n173231.html
+- [Les Numériques] CES 2022 – MSI ajuste les configurations de ses PC portables gamers et surfe sur le metaverse → https://lesnumeriques.com/ordinateur-portable/-n173903.html
+- [Les Numériques] CES 2022 – Razer met à jour ses PC portables Blade 14,15 et 17 avec les nouveaux processeurs Intel et AMD → https://lesnumeriques.com/ordinateur-portable/-n173843.html
+- Razer - Project Sophia → https://www.razer.com/concepts/razer-project-sophia
+- [Les Numériques] CES 2022 – LG dévoile sa nouvelle gamme de téléviseurs Oled plus lumineux de 42 à 97 pouces → https://lesnumeriques.com/tv-televiseur/-n173789.html
+- Samsung Electronics Unveils Its 2022 MICRO LED, Neo QLED and Lifestyle TVs, With Next-Generation Picture Quality and Range of Cutting-Edge Personalization Options → https://news.samsung.com/global/samsung-electronics-unveils-its-2022-micro-led-neo-qled-and-lifestyle-tvs-with-next-generation-picture-quality-and-range-of-cutting-edge-personalization-options
+- [Les Numériques] CES 2022 – Sony dévoile le premier téléviseur QD-Oled et ses nouveaux Oled → https://lesnumeriques.com/tv-televiseur/-n173805.html
+- [CNET France] CES 2022 : Hisense dévoile des Laser TV riches en couleurs, deux ULED et un OLED. La firme chinoise Hisense fait le plein de nouveautés à l'occasion du CES de Las Vegas. La marque a annoncé trois Laser TV promettant de très larges palettes de couleurs, dont un enroulable, deux ULED, dont un 8K, et une série OLED → https://www.cnetfrance.fr/news/ces-2022-hisense-devoile-des-laser-tv-riches-en-couleurs-deux-uled-et-un-oled-39935017.htm
+- [Les Numériques] CES 2022 – Samsung The Freestyle : un picoprojecteur tout-en-un pratique → https://lesnumeriques.com/videoprojecteur/-n173747.html
+
+raids : lesnumeriques => marmiton_officiel
+
+
+--------------------------------------
+2022-01-07
+
+-  Walmart Metaverse Looks Like Hell → https://www.papermag.com/walmart-metaverse-2656245537.html
+- [The Verge] That Walmart VR shopping video is old news — but so is the metaverse. The clip is from 2017, but it shows how aged the metaverse already is → https://theverge.com/e/22632364
+- [Twitter] Pepe Garcia sur le stand LG → https://twitter.com/ppgarcia75/status/1478845850042388482
+- [GamesBeat] E3 shifts to online-only event because of Omicron concerns → https://venturebeat.com/2022/01/06/e3-shifts-to-online-only-event-because-of-omicron-concerns/
+- [Les Numériques] CES 2022 – Les premiers retours sur la technologie QD-Oled sont enthousiastes → https://lesnumeriques.com/tv-televiseur/-n173953.html
+- [Les Numériques] CES 2022 – Le téléviseur Oled Panasonic LZ2000 avec une dalle Master Oled Pro encore plus lumineuse → https://lesnumeriques.com/tv-televiseur/-n173889.html
+- [CNET France] CES 2022 : Anker présente un vidéoprojecteur laser 4K compact. Le Anker Nebula Cosmos Laser 4K propose une fiche technique intéressante, mais il n'est pas bon marché... → https://www.cnetfrance.fr/news/ces-2022-anker-presente-un-videoprojecteur-laser-4k-compact-39935093.htm
+- [Ars Technica] Samsung shows off foldable laptop, tablet, and smartphone concepts at CES. After the success of the Galaxy Fold, Samsung shows off more ambitious designs → https://arstechnica.com/gadgets/2022/01/samsung-shows-off-foldable-laptop-tablet-and-smartphone-concepts-at-ces/
+- [Les Numériques] CES 2022 – Nos cheveux en voient de toutes les couleurs avec le L’Oréal Colorsonic → https://lesnumeriques.com/objet-connecte/-n173881.html
+- [Les Numériques] CES 2022 – Oral-B rafraîchit sa gamme de BDE avec la iO Series 10 → https://lesnumeriques.com/brosse-a-dent-electrique/-n173923.html
+- [Les Numériques] CES 2022 — Ring annonce un détecteur de bris de glace pour compléter son système Ring Alarm → https://lesnumeriques.com/objet-connecte/-n173975.html
+- [MySmartPrice] [Exclusive] Honor Magic V Full Specs and Renders Leaked: To Feature Snapdragon 8 Gen 1 SoC, 12GB RAM, More → https://www.mysmartprice.com/gear/honor-magic-v-specifications-renders-leaked/
+- [Les Numériques] Vidéo – Nos premières impressions sur le smartphone Samsung Galaxy S21 FE → https://lesnumeriques.com/telephone-portable/-fe-n173983.html
+- [UploadVR] HTC Vive Wrist Tracker Announced For Focus 3 → https://uploadvr.com/htc-vive-wrist-tracker/
+- [Les Numériques] CES 2022 – TCL NXTwear Air : une seconde version plus design des lunettes connectées → https://lesnumeriques.com/accessoire-pour-smartphone/-n173823.html 
+- [Les Numériques] Google s’inspire d’Apple en annonçant de nouvelles fonctionnalités audio pour son écosystème → https://lesnumeriques.com/tv-video/-n173969.html
+- [Les Numériques] Android 13 : un aperçu de ce que nous réserve "Tiramisu" → https://lesnumeriques.com/telephone-portable/-n173517.html
+- [Ars Technica] Mac architecture lead Jeff Wilcox defects to Intel to design new SoCs. It's a homecoming for Wilcox, who left Intel for Apple in 2013 → https://arstechnica.com/gadgets/2022/01/apple-loses-a-key-mac-silicon-executive-to-intel-amidst-m1-transition/
+- [Les Numériques] Apple offre des bonus allant jusqu’à 180 000 dollars pour retenir ses ingénieurs → https://lesnumeriques.com/pro/-n173577.html
+- [Les Numériques] Google : une politique salariale à deux vitesses → https://lesnumeriques.com/pro/-n173897.html
+- [SpartsCar365] Porsche Reveals First Photos of LMDh Car.  Porsche reveals first photos of its 2023 LMDh car built in partnership with Multimatic… → https://sportscar365.com/lemans/wec/porsche-reveals-first-photos-of-lmdh-car/
+- [Les Numériques] CES 2022 – BMW iX M60 : le SUV électrique déraisonnable signé Motorsport → https://lesnumeriques.com/voiture/-n173895.html
+- [BMW blog] CES 2022: Check Out the BMW iX Flow — Color Changing Tech → https://www.bmwblog.com/2022/01/06/ces-2022-bmw-ix-flow-2/
+- [BMW blog] Exclusive Demo: BMW Theater Screen – 31 inch and 8K resolution → https://www.bmwblog.com/2022/01/06/exclusive-demo-bmw-theater-screen-31-inch-and-8k-resolution/
+- [Les Numériques] Mercedes-Benz Vision EQXX : la promesse de plus de 1000 km d'autonomie en berline électrique → https://lesnumeriques.com/voiture/-n173749.html
+- [Les Numériques] Mercedes EQV : une version aménagée du van électrique pour le camping de luxe → https://lesnumeriques.com/voiture/-n173947.html
+- [Les Numériques] Smart arrête la production de la mini-citadine électrique EQ Forfour → https://lesnumeriques.com/voiture/-n173711.html
+- [Les Numériques] General Motors cède sa place de numéro un à Toyota, après 90 ans au sommet → https://lesnumeriques.com/voiture/-n173857.html
+- [Ars Technica] Chevrolet shows off the 2024 Silverado EV, its first electric pickup. The first versions will have a 400-mile range, but they won't be cheap → https://arstechnica.com/cars/2022/01/chevrolet-shows-off-the-2024-silverado-ev-its-first-electric-pickup/
+- [Ars Technica] Chrysler to go all-electric by 2028, starting with the Airflow in 2025. Though technically a concept, the Airflow appears set for production → https://arstechnica.com/cars/2022/01/chrysler-to-go-all-electric-by-2028-starting-with-the-airflow-in-2025/
+- [Les Numériques] Tesla a livré près d’un million de véhicules électriques en 2021 → https://lesnumeriques.com/pro/-n173715.html
+- [Les Numériques] Tesla rappelle près d'un demi-million de Model 3 et S → https://lesnumeriques.com/voiture/-n173651.html
+- [Philadelphia Inquirer] Long but eventful drive to the hospital → https://www.inquirer.com/life/yiran-keating-sherry-wayne-rafa-maeve-tesla-shanghai-san-francisco-teachers-china-mandarin-20211215.html
+- [Les Numériques] CES 2022 – Sony dévoile un SUV électrique 7 places, baptisé Vision-S 02 Concept → https://lesnumeriques.com/voiture/-n173929.html
+- [Les Numériques] Sony va créer une filiale dédiée aux voitures électriques → https://lesnumeriques.com/pro/-n173871.html
+- [Les Numériques] CES 2022 – Stellantis et Amazon collaborent pour intégrer des expériences connectées aux véhicules → https://lesnumeriques.com/voiture/-n173925.html
+- [XDA Developers] Volvo is working on cars with Android Automotive and Snapdragon Cockpit → https://www.xda-developers.com/volvo-is-working-on-cars-with-android-automotive-and-snapdragon-cockpit/
+- [Les Numériques] Volta Charging : quand la pub paie les recharges électriques → https://lesnumeriques.com/voiture/-n173951.html
+- [Les Numériques] Bornes de recharge publiques : défense de compter ! → https://lesnumeriques.com/voiture/-n173271.html
+
+raids : lesnumeriques => sushipotato => hyubsama => reydempto => NikoNiiku => b3ck => thatoglife => PottsieTV => MegaGremlin => NyyKage => podgie => boozin.
+
+
+--------------------------------------
+2022-01-10
+
+- [Les Numériques] CES 2022 – Hisense 77R1 : un meuble intégrant un écran déroulable et un vidéoprojecteur laser ultra courte focale → https://lesnumeriques.com/videoprojecteur/-n173977.html
+- [Les Numériques] CES 2022 – Où est le téléviseur QD-Oled de Samsung ? → https://lesnumeriques.com/tv-televiseur/-n174039.html
+- [Les Numériques] Sonos remporte son combat juridique contre Google → https://lesnumeriques.com/tv-video/-n174053.html
+- [CNET France] Apple : les AirPods Pro 2 passeraient au Lossless selon l'analyste Ming-Chi Quo. Attendu depuis un moment, le support de la qualité Lossless audio pourrait débarquer sur la prochaine génération d'écouteurs True Wireless à réduction du bruit active d'Apple, les AirPods Pro 2 → https://www.cnetfrance.fr/news/apple-les-airpods-pro-2-passeraient-au-lossless-selon-l-analyste-ming-chi-quo-39934845.htm
+- [What Hi-Fi] How the AirPods 3 were made – and how Apple plans to make them even better → https://www.whathifi.com/features/is-bluetooth-holding-back-apples-airpods-we-asked-the-man-who-made-them
+- [Les Numériques] CES 2022 – Avec Bev, Black+Decker la joue comme Tom Cruise dans le film “Cocktail” → https://lesnumeriques.com/divers-electromenager/-n173981.html
+- [9to5 Google] Pixel Watch will bring next-gen Google Assistant to Wear OS, may be powered by Exynos → https://9to5google.com/2021/12/21/pixel-watch-next-gen-google-assistant-wear-os-exynos/
+- [Les Numériques] Laowa dégaine son Argus 45mm f/0.95 FF, une optique ultra lumineuse → https://lesnumeriques.com/focales-fixes/-n173365.html
+- [Les Numériques] Viltrox dévoile le 13mm F/1.4 AF, un très grand-angle pour hybrides Fujifilm → https://lesnumeriques.com/focales-fixes/-n173985.html
+- [Les Numériques] OnePlus 10 Pro : la partie photo signée Hasselblad n'a presque plus de secrets → https://lesnumeriques.com/telephone-portable/-n174033.html
+- [Les Numériques] 717 milliards de pixels : un tableau de Rembrandt devient la plus grande "photo" de l'histoire → https://lesnumeriques.com/developpement-photo/-n174021.html
+- [Les Numériques] Intel vend ses branches mémoire NAND et SSD à SK Hynix → https://lesnumeriques.com/ssd/-n173653.html
+- [Les Numériques] Semi-conducteurs : l'Italie devrait accueillir un site d'assemblage d'Intel → https://lesnumeriques.com/pro/-n173413.html
+- [Les Numériques] AMD continuera de graver certaines puces chez GlobalFoundries pour un contrat de 500 millions de dollars → https://lesnumeriques.com/cpu-processeur/-n173421.html
+- [AnandTech] CES 2022: AMD’s Next-Gen AM5 Platform to Have Long Term Support → https://anandtech.com/show/17192/
+- [Boing Boing] Forced by shortages to sell chipless ink cartridges, Canon tells customers how to bypass DRM warnings → https://boingboing.net/2022/01/08/forced-by-shortages-to-sell-chipless-cartridges-canon-tells-customers-how-to-bypass-drm-warnings.html
+- [Les Numériques] Vivo présente les V23 et V23 Pro, des smartphones prometteurs capables de changer de couleur → https://lesnumeriques.com/telephone-portable/-n173963.html
+- [ZDNet France] La fin des cartes SIM physiques sur iPhone annoncée. Quelques années seulement après avoir permis aux utilisateurs de configurer une carte SIM électronique (eSIM) avec les iPhone XS, Apple serait en bonne voie de supprimer la carte SIM physique des iPhone → https://www.zdnet.fr/actualites/la-fin-des-cartes-sim-physiques-sur-iphone-annoncee-39934787.htm
+- [9to5 Mac] Kuo: Apple’s mixed reality headset to be released in late 2022 with limited supplies → https://9to5mac.com/2022/01/04/kuo-apples-mixed-reality-headset-to-be-released-in-late-2022-with-limited-supplies/
+- [CNET France] CES 2022 : ActiveLook présente ses lunettes à réalité augmentée pour le sport. Le spécialiste français de la réalité augmentée a dévoilé les Engo-1, ses toutes premières à réalité augmentée → https://www.cnetfrance.fr/news/ces-2022-activelook-presente-ses-lunettes-a-realite-augmentee-pour-le-sport-39935211.htm
+- [Les Numériques] Stellantis sacrifie ses vans et ludospaces thermiques sur l’autel de la norme CAFE → https://lesnumeriques.com/voiture/-n173989.html
+- [Les Numériques] Facebook (Meta) élu pire entreprise de l'année → https://lesnumeriques.com/vie-du-net/-n173151.html
+- [Axios] Exclusive: Meta shareholders call for oversight audit → https://www.axios.com/meta-shareholder-oversight-audit-facebook-13529117-1ff0-4abc-b604-ddb42ce8c94c.html
+- [Les Numériques] Google et Meta condamnés à de lourdes amendes en Russie → https://lesnumeriques.com/pro/-n173437.html
+- [Les Numériques] Le chiffre d’affaires de Huawei en chute libre après une autre année difficile → https://lesnumeriques.com/pro/-n173723.html
+- [Les Numériques] Tim Cook, le patron d’Apple, a gagné près de 100 millions de dollars en 2021 → https://lesnumeriques.com/pro/-n174057.html
+- [Les Numériques] 6,5 millions de Français pourraient revendre leurs cadeaux de Noël → https://lesnumeriques.com/vie-du-net/-n173419.html
+- [Engadget] Samsung is putting NFTs in its smart TVs → https://www.engadget.com/samsung-nft-platform-smart-tvs-020825042.html
+- 🇫🇷 [Gamekult] Konami met des NFT aux enchères pour les 35 ans de Castlevania → https://gamekult.com/actualite/-3050845899.html
+- My first impressions of web3 → https://moxie.org/2022/01/07/web3-first-impressions.html
+
 
 
 - [Les Numériques] 
@@ -2491,6 +2609,7 @@ raids : lesnumeriques => marmiton_officiel.
 
 ⭐⭐⭐⭐⭐
 SwiftRage Lâm ! on enchaîne !
+📢 @lesnumeriques il est 13:00 🕐
 
 Message à caractère informatif - Excellent produit -- https://www.youtube.com/watch?v=-NzxJGvZzeQ
 
