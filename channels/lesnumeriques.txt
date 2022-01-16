@@ -2592,6 +2592,139 @@ raids : lesnumeriques => sushipotato => hyubsama => reydempto => NikoNiiku => b3
 - My first impressions of web3 → https://moxie.org/2022/01/07/web3-first-impressions.html
 
 
+--------------------------------------
+2022-01-11
+
+- [Twitter - Nima Zeighami] In this thread I will post every ridiculous usage of metaverse I see at #CES → https://twitter.com/nimazeighami/status/1478816178470473730
+- [CNET France] XGIMI dévoile le Halo+ : posez, allumez, profitez. XGIMI présente son nouveau projecteur portable intelligent → https://www.cnetfrance.fr/news/xgimi-devoile-le-halo-posez-allumez-profitez-39935353.htm
+ - [Billboard] CD Sales Are Up for the First Time in 17 Years — Thanks to Adele, BTS & Taylor Swift.  Adele's '30' was 2021's top-selling CD, accounting for more than 2% of all the format's sales -- and leading an overall increase in units → https://www.billboard.com/pro/cd-sales-up-2021-adele-bts-taylor-swift/
+- [Engadget] Razer reneges on its claim the Zephyr mask uses 'N95-grade' filters. The company claims the change wasn't prompted by regulatory pressure → https://www.engadget.com/razer-reneges-on-zephyr-n95-claims-201857955.html
+- [Les Numériques] Fujifilm annoncera un nouvel appareil photo hybride en mai 2022 → https://lesnumeriques.com/reflex-hybride/-n174189.html
+- [AnandTech] AMD Expanding Into Tesla Model 3 and Model Y → https://www.anandtech.com/show/17198/
+- [YouTube] Comment réparer et garder longtemps ses câbles, notre tuto maison ! → https://www.youtube.com/watch?v=C6mPDqRHLug
+- [TechRadar] MWC 2022 confirmed to still go ahead in-person next month, despite Omicron surge → https://www.techradar.com/news/mwc-2022-confirmed-to-still-go-ahead-in-person-next-month-despite-omicron-surge
+- [Les Numériques] Honor officialise le Magic V, son premier smartphone pliable → https://lesnumeriques.com/telephone-portable/-n174177.html
+- [CNET France] Les 15 ans de l’iPhone en 15 faits marquants. C’était le 9 janvier 2007. Avec l’iPhone, Apple a initié une révolution technologique qui lui a permis de devenir 15 ans plus tard la première entreprise à atteindre 3 000 dollars de valorisation boursière → https://www.cnetfrance.fr/news/les-15-ans-de-l-iphone-en-15-faits-marquants-39935309.htm
+- [MacRumors] Gurman: New iPhone SE and More Likely at Apple Event in March or April → https://www.macrumors.com/2022/01/09/apple-event-march-or-april-2022-gurman/
+- [The Verge] TSA checkpoints will start supporting Apple Wallet IDs in February. Tests will begin in two airports next year → https://theverge.com/2021/12/21/22848300/
+- [Substack] Cortana with Sandeep Paruchuri (Big Bets 8) → https://bigbets.substack.com/p/cortana-with-sandeep-paruchuri-big
+- [Twitter - Hiroshi Lockheimer] We’re not asking Apple to make iMessage available on Android. We’re asking Apple to support the industry standard for modern messaging (RCS) in iMessage, just as they support the older SMS / MMS standards → https://twitter.com/i/web/status/1480663650775883777
+- [Ars Technica] After ruining Android messaging, Google says iMessage is too powerful. Google failed to compete with iMessage for years. Now it wants Apple to play nice → https://arstechnica.com/gadgets/2022/01/after-ruining-android-messaging-google-says-imessage-is-too-powerful/
+- [ZDNet France] Le fondateur de l'application Signal tire sa révérence. Le fondateur et PDG de Signal vient d'annoncer sa démission. Tout en se réjouissant de partir sur un bilan plus qu'honorable → https://www.zdnet.fr/actualites/le-fondateur-de-l-application-signal-tire-sa-reverence-39935379.htm
+- [Les Numériques] Le roadster électrique Niu RQi Sport arrivera pour l'été 2022 → https://lesnumeriques.com/moto/-n174165.html
+- [Les Numériques] Une Tesla Model S parcourt 1210 km grâce à une nouvelle batterie signée One → https://lesnumeriques.com/voiture/-n174127.html
+- [The Verge] Volvo confident it can get its ‘unsupervised’ highway driving mode approved in California. ‘We will not require hands on the steering wheel and we will not require eyes on the road’ → https://www.theverge.com/2022/1/5/22866190/
+- [Les Numériques] Pour ses 10 ans, Free Mobile booste son forfait 5G à 210 Go pour 19,99 € mensuels → https://lesnumeriques.com/forfait-mobile/-n174135.html
+- [Les Numériques] Comment des Apple AirTag malveillants sont utilisés pour suivre des personnes → https://lesnumeriques.com/vie-du-net/-n173741.html
+- [Engadget] Model Brooks Nader says someone used an AirTag to track her. She claims she didn't get a notification about the device until she was walking home alone → https://www.engadget.com/apple-airtag-brooks-nader-tracked-privacy-175938300.html
+- [Le Figaro] Classement des applications les plus téléchargées de 2021: TousAntiCovid numéro 1, Doctolib quatrième → https://www.lefigaro.fr/secteur/high-tech/classement-des-applications-les-plus-telechargees-de-2021-tousanticovid-numero-1-doctolib-quatrieme-20220109
+- [Les Numériques] Une micropuce sous-cutanée pour valider le pass sanitaire en Suède → https://lesnumeriques.com/vie-du-net/-n173433.html
+- [BBC] Alexa tells 10-year-old girl to touch live plug with penny → https://www.bbc.com/news/technology-59810383
+- [Les Numériques] CES 2022 – Video Doorbell Dual : deux caméras pour la nouvelle sonnette connectée d'Eufy → https://lesnumeriques.com/sonnette-connectee/-n174087.html
+- [Les Numériques] CES 2022 – Avec l'Outdoor Cam, Eve propose une caméra extérieure avec projecteur compatible HomeKit → https://lesnumeriques.com/objet-connecte/-n174081.html
+- [Les Numériques] CES 2022 – Wemo lance une sonnette vidéo intelligente pour HomeKit → https://lesnumeriques.com/sonnette-connectee/-n174049.html
+- [Les Numériques] CES 2022 – Masonite M-Pwr Smart Door, la porte connectée qui intègre caméra Ring et sonnette Yale → https://lesnumeriques.com/objet-connecte/-n174149.html
+- [Les Numériques] CES 2022 – Ecovacs Deebot X1 Omni, le robot laveur de sol avec base automatique multi-fonction → https://lesnumeriques.com/aspirateur-robot/-n174185.html
+- [Les Numériques] CES 2022 – Avec le S7 MaxV Ultra, Roborock dévoile son nouvel aspirateur robot laveur le plus complet → https://lesnumeriques.com/aspirateur-robot/-n173725.html
+- [Les Numériques] CES 2022 – Des plantes par dizaines grâce à Multo, le potager d’intérieur XXL de Prêt à Pousser → https://lesnumeriques.com/objet-connecte/-n173931.html
+- [Les Numériques] CES 2022 – Nos cheveux en voient de toutes les couleurs avec le L’Oréal Colorsonic → https://lesnumeriques.com/objet-connecte/-n173881.html
+- [Les Numériques] CES 2022 – Smart Dog Collar : géolocalisation et suivi de santé grâce au nouveau collier pour chiens d'Invoxia → https://lesnumeriques.com/objet-connecte/-n174197.html
+- [Les Numériques] CES 2022 – Samsung étoffe sa gamme de réfrigérateurs Bespoke → https://lesnumeriques.com/refrigerateur/-n174161.html
+- [The Verge] Matter was a major star at CES 2022, but can it maintain its shine? The soon-to-be smart home standard gained momentum in Las Vegas → https://theverge.com/2022/1/8/22872311/
+- [The Verge] Matter’s plan to save the smart home. Matter is a new standard that promises to fix smart home interoperability — but can it deliver? → https://www.theverge.com/22787729/matter-smart-home-standard-apple-amazon-google
+
+raids : lesnumeriques => marmiton_officiel
+
+
+--------------------------------------
+2022-01-12
+
+- [Les Numériques] Soldes d'hiver 2022 – Tous les vrais bons plans → https://www.lesnumeriques.com/vie-du-net/soldes-hiver-e1411.html
+- [Les Numériques] CES 2022 – Netatmo s'ouvre à Matter avec son Capteur de Sécurité Intelligent → https://lesnumeriques.com/objet-connecte/-n174253.html
+- Razer Chroma RGB goes beyond PC and expands into smart home → https://press.razer.com/product-news/ces-2022-chroma-smart-home/
+- [ZDNet France] Le constructeur ASML lance un plan de remise en marche après l'incendie de son usine. L'incendie a eu lieu dans un site de production de Berlin de la société ASML, spécialisée dans la fabrication de composants et de pièces à destination de l'industrie des semi-conducteurs → https://www.zdnet.fr/actualites/le-constructeur-asml-lance-un-plan-de-remise-en-marche-apres-l-incendie-de-son-usine-39935399.htm
+- [Les Numériques] OnePlus 10 Pro : un nouveau fleuron qui s'annonce prometteur → https://lesnumeriques.com/telephone-portable/-n174217.html
+- [Les Numériques] Le Motorola Razr 3 pourrait disposer d’une fiche technique haut de gamme → https://lesnumeriques.com/telephone-portable/-n174229.html
+- [Les Numériques] 2021, année record pour l'App Store → https://lesnumeriques.com/vie-du-net/-n174243.html
+- [Les Numériques] Les bloqueurs de pub sont toujours les extensions les plus populaires sur Firefox → https://lesnumeriques.com/vie-du-net/-n173139.html
+- [The Verge] General Motors claims it will sell autonomous vehicles to consumers by ‘middle of decade’. Let’s be legends → https://theverge.com/2022/1/5/22867455/
+- [The Drive] Bugatti’s Latest Model Has Under 1 HP, Top Speed of 18.5 MPH. It's a surprise move from the hypercar manufacturer → https://www.thedrive.com/news/43830/
+- [VICE Motherboard] Tim Stokely, Founder and CEO of OnlyFans, Steps Down → https://www.vice.com/en/article/akv3ag/tim-stokely-founder-and-ceo-of-onlyfans-ami-gan
+- [CNET France] Le patron d'Instagram affirme que l'application va "repenser ce qu'est Instagram" en 2022. Dans sa vidéo décrivant les objectifs généraux d'Instagram pour 2022, Adam Mosseri n'aborde pas directement les scandales qui ont secoué Instagram l'année dernière → https://www.cnetfrance.fr/news/le-patron-d-instagram-affirme-que-l-application-va-repenser-ce-qu-est-instagram-en-2022-39934721.htm
+- [Les Numériques] TikTok ne protège pas assez la santé mentale de ses employés, selon une ancienne modératrice → https://lesnumeriques.com/vie-du-net/-n173539.html
+- [Kotaku] Twitch Streamer Amouranth Bought A Gas Station For -$110,000 Using Rich-Person Math. Twitch’s signature hot tub streamer made a surprisingly normal investment → https://kotaku.com/twitch-streamer-amouranth-bought-a-gas-station-for-11-1848032626
+- [Les Numériques] Le réseau social de Donald Trump sera en ligne le 21 février → https://lesnumeriques.com/vie-du-net/-n174067.html
+- [Les Numériques] Aux Pays-Bas, le projet d'implantation d'un immense datacenter Facebook fait polémique → https://lesnumeriques.com/vie-du-net/-n174145.html
+- [Les Numériques] Les patrons de la French Tech ont gagné en moyenne 120 000 € en 2021 → https://lesnumeriques.com/pro/-n174133.html
+- [Les Numériques] French Tech : Ankorstore devient une licorne deux ans après son lancement → https://lesnumeriques.com/pro/-n174073.html
+- [Les Numériques] Back Market coiffe Qonto au poteau pour devenir la licorne française la mieux valorisée → https://lesnumeriques.com/pro/-n174211.html
+- [The Guardian] Wordle creator overwhelmed by global success of hit puzzle. Josh Wardle developed game to play with his partner – and now more than 2m others have joined in → https://www.theguardian.com/games/2022/jan/11/wordle-creator-overwhelmed-by-global-success-of-hit-puzzle
+- [The Verge] The Wordle clones have disappeared from the App Store. It seems Apple has taken action → https://www.theverge.com/2022/1/11/22879295/
+- [Les Numériques] Amazon Prime Video voit l'avenir en 8K → https://lesnumeriques.com/vie-du-net/-n174029.html
+- [Les Numériques] Le piratage fait encore recette, et c'est Disney+ qui en pâtit le plus → https://lesnumeriques.com/vie-du-net/-n173575.html
+- [Les Numériques] La Russie va forcer Netflix à distribuer des chaînes d'État → https://lesnumeriques.com/vie-du-net/-n173785.html
+- [Twitter - Loopsider] Vous croyez que «Don't Look Up» est un peu exagéré? Dites-vous que la réalité dépasse la fiction → https://twitter.com/Loopsidernews/status/1480491053169971201
+- [The Verge] Intel’s funding threatened by Marco Rubio after ‘humiliating apologies’ to China. Intel apologized for referencing forced labor in Xinjiang → https://www.theverge.com/2022/1/11/22877916/
+- [Les Numériques] CES 2022 – Intel commence à livrer des cartes graphiques Arc Alchemist aux OEM → https://lesnumeriques.com/carte-graphique/-n173829.html
+- [Les Numériques] CES 2022 – Intel Core de 12e gén. : une déferlante de CPU pour ordinateurs portables → https://lesnumeriques.com/cpu-processeur/-n173729.html
+- [Les Numériques] CES 2022 – Intel Alder Lake : des prix plus doux avec 22 nouveaux Core de 12e génération et 3 chipsets → https://lesnumeriques.com/cpu-processeur/-n173447.html
+- [Les Numériques] CES 2022 – Intel fait évoluer sa norme Evo : 12e gén., wifi 6E, webcam, on vous dit tout → https://lesnumeriques.com/ordinateur-portable/-n173583.html
+- [Les Numériques] CES 2022 – Nvidia officialise ses GeForce RTX 3070 Ti et 3080 Ti pour PC portables → https://lesnumeriques.com/carte-graphique/-n173893.html
+- [Les Numériques] Nvidia met à jour sa GeForce RTX 3080 : 12 Go de GDDR6X et disponibilité immédiate → https://lesnumeriques.com/carte-graphique/-n174247.html
+- [XDA Developers] NVIDIA GeForce NOW’s RTX 3080 tier adds 120FPS streaming support for the Pixel 6 Pro → https://www.xda-developers.com/geforce-now-rtx-3080-tier-120fps-streaming-support-pixel-6-pro/
+- [Les Numériques] CES 2022 – AMD : le Ryzen 7 5800X3D pour les joueurs, en attendant les Ryzen 7000 en 5 nm → https://lesnumeriques.com/cpu-processeur/-n173817.html
+- [Les Numériques] CES 2022 – AMD Ryzen 6000 : des puces Zen 3+ en 6 nm pour ordinateurs portables → https://lesnumeriques.com/cpu-processeur/-n173783.html
+- [Les Numériques] CES 2022 – AMD fait le plein de fonctionnalités : SmartShift, RSR, Advantage → https://lesnumeriques.com/ordinateur-portable/-n173841.html
+- [Les Numériques] CES 2022 – AMD inonde les PC portables de ses GPU mobiles Radeon RX 6000M et 6000S → https://lesnumeriques.com/ordinateur-portable/-n173799.html
+- [Les Numériques] CES 2022 – Razer met à jour ses PC portables Blade 14,15 et 17 avec les nouveaux processeurs Intel et AMD → https://lesnumeriques.com/ordinateur-portable/-n173843.html
+- [Les Numériques] CES 2022 – Acer rafraîchit ses PC Swift X et modèles gaming avec de nouveaux processeurs et cartes graphiques → https://lesnumeriques.com/ordinateur-portable/-n173819.html
+- [Les Numériques] CES 2022 – Lenovo renouvelle ses PC portables convertibles Yoga et ses modèles gaming Legion → https://lesnumeriques.com/ordinateur-portable/-n173915.html
+- [Les Numériques] CES 2022 – Samsung a dans ses cartons un PC portable à écran pliable → https://lesnumeriques.com/ordinateur-portable/-n174063.html
+- [Les Numériques] CES 2022 – Asus ZenBook 17 Fold Oled : un PC portable à écran pliant → https://lesnumeriques.com/ordinateur-portable/-n173193.html
+- [Les Numériques] CES 2022 – Asus arbore un nouveau design pour ses ZenBook ainsi qu'une “édition spatiale” → https://lesnumeriques.com/ordinateur-portable/-n173907.html
+- [Les Numériques] CES 2022 – Asus ROG renouvelle ses PC portables et sort une tablette gaming sous Windows → https://lesnumeriques.com/ordinateur-portable/-n173737.html
+- [Les Numériques] CES 2022 – MSI ajuste les configurations de ses PC portables gamers et surfe sur le metaverse → https://lesnumeriques.com/ordinateur-portable/-n173903.html
+- [DevGenius] Nude Pictures on early Retro PCs — Was it Possible? → https://blog.devgenius.io/nude-pictures-on-early-retro-pcs-was-it-possible-3434b5c0447e
+
+raids : lesnumeriques => OG_FunKa.
+
+
+--------------------------------------
+2022-01-13
+
+- [CNET France] Omicron, origines de la Covid 19, théories conspirationnistes… Bill Gates prend la parole. Il fut l’un des premiers à mettre en garde contre les risques d’une pandémie. Bill Gates a répondu aux questions sur le coronavirus, les vaccins et abordé d’autres problématiques d’avenir → https://www.cnetfrance.fr/news/omicron-origines-de-la-covid-19-theories-conspirationnistes-bill-gates-prend-la-parole-39935527.htm
+- Qudi Mask → https://qudi.space/
+- [Les Numériques] Fit Pro : Beats dévoile le prix et la date de sortie française de ses nouveaux écouteurs → https://lesnumeriques.com/intra-ecouteur-true-wireless/-n174393.html
+- [DJ Tech Tools] Pioneer DJ’s DDJ-REV7: is this finally the Pioneer DJ revolution we wanted? → https://djtechtools.com/2022/01/13/pioneer-djs-ddj-rev7-is-this-finally-the-pioneer-dj-revolution-we-wanted/
+- [BusinessKorea] Samsung Electronics to Unveil Exynos 2200 AP on Launch Day of Galaxy 22 → http://www.businesskorea.co.kr/news/articleView.html?idxno=85865
+- [AnandTech] PCI Express 6.0 Specification Finalized: x16 Slots to Reach 128GBps → https://www.anandtech.com/show/17203/
+- [Canalys] Global PC shipments pass 340 million in 2021 and 2022 is set to be even stronger → https://canalys.com/newsroom/global-pc-market-Q4-2021
+- [Nvidia blog] Elevated Entertainment: SHIELD Experience 9.0 Upgrade Rolling Out Now. The update delivers the Android 11 operating system, app updates and support for the next generation of GeForce NOW cloud gaming in 4K HDR → https://blogs.nvidia.com/blog/2022/01/12/shield-experience-9/
+- Nuro → https://www.nuro.ai/
+- Hankook rolls out latest i-Flex airless tire on Hyundai concept vehicle → https://newatlas.com/automotive/hankook-i-flex-airless-tire-hyundai-l7-concept/
+- [Numérama] Mozilla part à la chasse aux pixels Facebook qui pistent les internautes → https://www.numerama.com/tech/816363-mozilla-part-a-la-chasse-aux-pixels-facebook-qui-pistent-les-internautes.html
+- [Mozilla] Facebook Pixel Hunt → https://rally.mozilla.org/current-studies/facebook-pixel-hunt/index.html
+- [Les Numériques] En Allemagne, l'autorité de la concurrence promet de la sévérité contre Google → https://lesnumeriques.com/vie-du-net/-n174041.html
+- [ZDNet France] L'Europe traîne des pieds dans la course à la technologie → https://www.zdnet.fr/actualites/l-europe-tra-ne-des-pieds-dans-la-course-a-la-technologie-39934405.htm
+- [VICE Motherboard] Uber CEO Admits It 'Can Make Any Model Work' After Years Denying Employment. Uber previously claimed employment models would force it to fire 75 percent of its U.S. drivers. → https://www.vice.com/en/article/pkpkny/uber-ceo-admits-it-can-make-any-model-work-after-years-denying-employment
+- [Twitter - David Colombo] So, I now have full remote control of over 20 Tesla’s in 10 countries and there seems to be no way to find the owners and report it to them… → https://twitter.com/david_colombo_/status/1480632304045330433
+- [CNBC] This Tesla owner says he mines up to $800 a month in cryptocurrency with his car → https://www.cnbc.com/2022/01/08/tesla-owner-mines-bitcoin-ethereum-with-his-car.html
+- [Les Numériques] Cryptomonnaies : plus de 14 000 milliards de dollars d’échanges en 2021 → https://lesnumeriques.com/pro/-n173519.html
+- [Les Numériques] Propriétaires de bitcoins cherchent mots de passe désespérément → https://lesnumeriques.com/vie-du-net/-a173401.html
+- [The Verge] How Signal is playing with fire. A push into untraceable payments could put end-to-end encryption at risk → https://www.theverge.com/22872133/signal-cryptocurrency-payments-encryption-invite-regulator-scrutiny
+- FAQ: Norton Crypto → https://community.norton.com/en/forums/faq-norton-crypto
+- [Les Numériques] Mozilla démoli par l'un de ses fondateurs pour s'être ouvert aux cryptomonnaies → https://lesnumeriques.com/vie-du-net/-n173811.html
+- [Les Numériques] Les ventes de NFT ont rapporté 25 milliards de dollars en 2021 → https://lesnumeriques.com/pro/-n174219.html
+- [Wall Street Journal] GameStop Entering NFT and Cryptocurrency Markets as Part of Turnaround Plan.  The retailer is launching a division dedicated to the buzzy new technologies amid a push to turn a profit → https://www.wsj.com/articles/gamestop-entering-nft-and-cryptocurrency-markets-as-part-of-turnaround-plan-11641504417
+- [YouTube - Les Numériques] Le nouveau roi des pliants ? On a vu le Oppo Find N ! → https://www.youtube.com/watch?v=rainuInh1qU
+
+
+--------------------------------------
+2022-01-14
+
+(chaotique, non présent)
+
+
 
 - [Les Numériques] 
 - [ZDNet France] 
@@ -2608,8 +2741,9 @@ raids : lesnumeriques => sushipotato => hyubsama => reydempto => NikoNiiku => b3
 🐦 le Twitter de Lâm Hua → https://twitter.com/LamHua
 
 ⭐⭐⭐⭐⭐
-SwiftRage Lâm ! on enchaîne !
-📢 @lesnumeriques il est 13:00 🕐
+SwiftRage 📢 Lâm ! on enchaîne !
+SwiftRage 📢 @lesnumeriques il est 13:00 🕐
+SwiftRage 📢 @lesnumeriques il est 13:30 🕜
 
 Message à caractère informatif - Excellent produit -- https://www.youtube.com/watch?v=-NzxJGvZzeQ
 
