@@ -9073,7 +9073,7 @@ raids : Gautoz => Modiiie => AliceRage_
 
 Porter un toast : boire à la santé de quelqu'un. En ancien français, le "toste" désignait une tranche de pain grillé que l'on trempait dans du vin. Vers 1700, on disait que l'on "toastait une dame" lorsque l'on buvait à sa santé, en son honneur. Par extension, l'expression "porter un toste" s'est appliquée aussi bien aux hommes qu'aux femmes. → https://www.linternaute.fr/expression/langue-francaise/903/porter-un-toast/
 
-La puce à l'oreille, par Claude Duneton, 8 € chez votre libraire → https://placedeslibraires.fr/livre/9782253027041-/
+La puce à l'oreille, par Claude Duneton, 8 € chez votre libraire → https://www.placedeslibraires.fr/livre/9782253027041-/
 
 - 🇫🇷 [Gamekult] Ubisoft annonce un remake du premier Splinter Cell, et ce ne sera pas un monde ouvert → https://gamekult.com/actualite/-3050845539.html
 - 🇺🇸 [VGC] A Splinter Cell remake has officially been announced. The game is in development at Ubisoft Toronto → http://cpc.cx/wA9
@@ -9189,6 +9189,35 @@ Tails of Iron, sorti le 17 septembre 2021 sur Switch, PlayStation, Xbox et PC
 God of War, sorti le 20 avril 2018 sur PlayStation 4, aujourd'hui sur PC
 🎮 20 € sur PSN (http://cpc.cx/wIF)
 ⌨️ 🖱️ 50 € sur Steam (http://cpc.cx/wID) et EGS (http://cpc.cx/wIE)
+
+
+--------------------------------------
+2022-01-17
+
+La portion congrue est la partie du revenu des dîmes reversée aux curés et vicaires des paroisses d'Ancien Régime par les bénéficiaires de ces revenus : évêques, abbés, chapitres, seigneurs, etc. Elle n’était pas perçue directement par le curé desservant, mais par des « curés primitifs » plus haut placés dans la hiérarchie catholique. -- https://fr.wikipedia.org/wiki/Portion_congrue
+
+
+- 🇺🇸 [VGC] PS3 games have started appearing on the PS5 store. Several last-gen games have been spotted, amid backwards compatibility reports → https://tinyurl.com/2en8kxnc
+- 🇺🇸 [Bloomberg] PlayStation plans new service to take on Xbox Game Pass → https://tinyurl.com/3kb28ync
+- 🐦 [Twitter - Ryan Biniecki] Before this spreads like wild fire, a few things to point out → https://twitter.com/MysticRyan/status/1482635289386524673
+
+- 🇫🇷 [Gamekult] God of War signe le meilleur lancement de PlayStation sur PC. Un accueil plus que chaleureux pour Kratos → https://gamekult.com/actualite/-3050846137.html
+- 🇺🇸 [VGC] God of War PC attracted over 60,000 concurrent Steam players on its release day. Sony Santa Monica’s PC port boasts higher stats than Horizon → https://tinyurl.com/ats2mwez
+- 🇺🇸 [SteamDB] top 10 des ventes sur Steam de la semaine dernière → https://steamdb.info/topsellers/
+
+- 🇫🇷 [Gamekult] PUBG : Krafton traîne Google et Apple en justice pour avoir fermé les yeux sur les clones mobiles de son jeu, et pour avoir croqué une part du gâteau au passage → https://gamekult.com/actualite/-3050846121.html
+- 🇺🇸 [TechCrunch] PUBG Mobile maker Krafton sues Apple, Google and rival game developer Garena over ‘clones’ → https://tinyurl.com/2p88xsaw
+- 🇬🇧 [Eurogamer] PUBG: Battlegrounds developer Krafton is suing Apple and Google over app store clones. Lawsuit also targeting YouTube for hosting videos → https://tinyurl.com/yc27c6ad
+
+- 🇫🇷 [Gamekult] Le PDG de Sega Sammy prend note des réactions hostiles aux NFT. Haruki Satomi ne veut pas en faire "un simple moyen de gagner de l'argent" → https://gamekult.com/actualite/-3050845967.html
+- 🇺🇸 [VGC] Sega has registered a trademark in Japan for ‘Sega NFT’. Its CEO recently said it would abandon its plans if NFTs were seen as “simple money-making” → https://tinyurl.com/y3hhvpsj
+- 🇺🇸 [VGC] Konami’s debut NFT auction earned over $162,000. 14 NFT Castlevania artworks sold for an average price of around $12,000 on Friday → https://tinyurl.com/yfct4en7
+
+- 🇫🇷 [Gamekult] Label de Tencent, Level Infinite annonce Avatar Reckoning, un MMO pour mobile → https://gamekult.com/actualite/-3050846131.html
+
+- 🇺🇸 [Riot blog] Calling the Shot: the Next Five Years at Riot Games, by CEO Nicolas Laurent → https://tinyurl.com/2p8fxapb
+
+raids : Gautoz => BanjoGuyOllie => Anfalmyr => Raik0v_
 
 
 
