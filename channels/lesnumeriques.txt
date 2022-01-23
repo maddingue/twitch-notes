@@ -2725,6 +2725,128 @@ raids : lesnumeriques => OG_FunKa.
 (chaotique, non présent)
 
 
+--------------------------------------
+2022-01-18
+
+- [L'ADN] Après la télévision, la grille de programmes réapparait... sur Twitch → https://www.ladn.eu/media-mutants/meilleurs-horaires-jours-streamer-twitch/
+- [France Inter] À Nantes, Jean-Luc Mélenchon transporte ses militants avec une immersion visuelle réussie mais pas olfactive → https://www.franceinter.fr/politique/a-nantes-jean-luc-melenchon-transporte-ses-militants-avec-une-immersion-visuelle-mais-pas-olfactive
+- [Slate - Korii] Chuck McGinley, l'homme qui a inventé le télé-renifleur. Étrange objet, son Nasal Ranger est pourtant très sérieux et surtout, utile → https://korii.slate.fr/tech/science-nasal-ranger-chuck-mcginley-tele-renifleur-olfactometre-mesurer-concentration-odeur-puanteur
+- [France Info] Etats-Unis : des armes connectées bientôt sur le marché pour mieux les contrôler → https://www.francetvinfo.fr/replay-radio/le-brief-eco/etats-unis-des-armes-connectees-bientot-sur-le-marche-pour-mieux-les-controler_4902363.html
+- [Les Numériques] Guide des meilleurs moniteurs : le ViewSonic VG2755 fait son entrée → https://lesnumeriques.com/moniteur-ecran-lcd/-n174797.html
+- [Les Numériques] De nouveaux téléviseurs Mini-Led 144 Hz chez TCL → https://lesnumeriques.com/tv-televiseur/-n174771.html
+- Samsung Introduces Game Changing Exynos 2200 Processor with Xclipse GPU Powered by AMD RDNA 2 Architecture → https://www.samsung.com/semiconductor/minisite/exynos/newsroom/pressrelease/samsung-announces-game-changing-exynos-2200/
+- [XDA Developers] Samsung announces the new Exynos 2200 SoC with Samsung Xclipse 920 GPU → https://www.xda-developers.com/samsung-exynos-2200/
+- [Les Numériques] Samsung a déposé le brevet d'un PC portable qui se plie en quatre → https://lesnumeriques.com/ordinateur-portable/-n174657.html
+- [Les Numériques] Samsung Galaxy Tab S8, S8+ et S8 Ultra : la fiche technique des tablettes se précise → https://lesnumeriques.com/tablette-tactile/-n174981.html
+- [CNET France] Samsung Galaxy S22 : une nouvelle protection d’écran pour concurrencer le Ceramic Shield d’Apple ?. Le nouveau téléphone de Samsung pourrait être le premier à embarquer le Gorilla Glass Victus+. → https://www.cnetfrance.fr/news/samsung-galaxy-s22-une-nouvelle-protection-d-ecran-pour-concurrencer-le-ceramic-shield-d-apple-39935781.htm
+- [GSM Arena] Motorola Moto G Stylus 2022 leaks in official looking renders → https://www.gsmarena.com/motorola_moto_g_stylus_2022_leaks_in_official_looking_renders_-news-52670.php
+- [XDA Developers] OnePlus 10 Pro First Impressions: Premium hardware, fast performance, and some OPPO touches → https://www.xda-developers.com/oneplus-10-pro-first-impressions/
+- [Les Numériques] Oppo travaillerait sur sa toute première tablette, prévue pour 2022 → https://lesnumeriques.com/telephone-portable/-n174979.html
+- Dan Da Dan → https://mangaplus.shueisha.co.jp/titles/100171
+- [9to5Mac] Apple hits roadblock in plans to redesign iPad Pro with MagSafe → https://9to5mac.com/2022/01/14/apple-hits-roadblock-in-plans-to-redesign-ipad-pro-with-magsafe/
+- [CNET France] iPhone 14 : l’affichage ProMotion pour toute la gamme ? Jusqu’alors réservé à la version Pro, l’affichage 120 Hz d’Apple débarquerait sur l’iPhone 14 de base → https://www.cnetfrance.fr/news/iphone-14-l-affichage-promotion-pour-toute-la-gamme-39935779.htm
+- [Les Numériques] iPhone SE 2022 : des rendus suggèrent un design proche de l’iPhone XR → https://lesnumeriques.com/telephone-portable/-n174777.html
+- [9to5Mac] Apple Support says iPhone 13 models don’t support Noise Cancellation feature available in previous iPhones → https://9to5mac.com/2022/01/15/apple-support-says-iphone-13-models-dont-support-noise-cancellation-feature-available-in-previous-iphones/
+- [Les Numériques] Voiture électrique : 1,2 million d’exemplaires vendus en Europe sur 2021 → https://lesnumeriques.com/voiture/-n174407.html
+- [Les Numériques] Renault sera 100 % électrique en Europe d’ici à 2030 → https://lesnumeriques.com/voiture/-n174989.html
+- [Twitter - Emmanuel Macron] 25 licornes françaises : nous y sommes → https://twitter.com/EmmanuelMacron/status/1482963796629012482
+- [Les Numériques] French Tech : ses nouveaux défis pour 2022 et après → https://lesnumeriques.com/pro/-a174477.html
+- [EFF] VICTORY: Google Releases “disable 2g” Feature for New Android Smartphones → https://www.eff.org/deeplinks/2022/01/victory-google-releases-disable-2g-feature-new-android-smartphones
+- [ZDNet France] Des failles de sécurité de la 2G toujours problématiques... peu importe votre smartphone → https://www.zdnet.fr/actualites/des-failles-de-securite-de-la-2g-toujours-problematiques-peu-importe-votre-smartphone-39935831.htm
+- [9to5Mac] Safari bug can leak some of your Google account info and recent browsing history → https://9to5mac.com/2022/01/16/safari-bug-leak-browsing-history-info/
+- [Les Numériques] Cybersécurité : le groupe de hackers REvil mis hors d’état de nuire → https://lesnumeriques.com/vie-du-net/-n174969.html
+- [Les Numériques] En Ukraine, la menace d’une cyberguerre plane lourdement → https://lesnumeriques.com/vie-du-net/-n175003.html
+- [Les Numériques] Assaut du Capitole : Signal a-t-il été craqué pour faire inculper des miliciens d'extrême droite ? → https://lesnumeriques.com/vie-du-net/-n174773.html
+- [Les Numériques] Block, la fintech de Jack Dorsey, veut créer “un système ouvert pour miner du bitcoin” → https://lesnumeriques.com/pro/-n174781.html
+- [Twitter - The Spice DAO] We won the auction for €2.66M → https://twitter.com/TheSpiceDAO/status/1482404318347153413
+- [The Verge] What exactly is the Jodorowsky’s Dune crypto collective trying to make, anyway? Spice DAO doesn’t own Dune — but it doesn’t necessarily need to → https://theverge.com/2022/1/17/22887948/
+- une copie du livre Dune par Jodorowsky est disponible en ligne depuis 2011 → https://twitter.com/TheNinjaWhippet/status/1482859431469920256
+- [Gamekult] Le marathon caritatif AGDQ 2022 lève 3,4 millions de dollars contre le cancer → https://gamekult.com/actualite/-3050846145.html
+- [Les Numériques] En Chine, l’industrie du jeu vidéo de plus en plus malmenée par les autorités → https://lesnumeriques.com/vie-du-net/-n173827.html
+
+raids : lesnumeriques => marmiton_officiel
+
+
+--------------------------------------
+2022-01-19
+
+- [Les Numériques] Soldes d'hiver 2022 : la deuxième démarque, c'est maintenant ! → https://lesnumeriques.com/vie-du-net/-n175099.html
+- générique de Jayce et les conquérants de la lumière : https://www.youtube.com/watch?v=QHCTA88hVfI
+- [Les Numériques] La montre multisport Garmin Fēnix 7 passe au tactile et gagne en connectivité et en autonomie → https://lesnumeriques.com/montre-sport/-n175031.html
+- [The Verge] Garmin revamps its outdoorsy Fenix 7 and Epix smartwatches. The Fenix 7 series adds touchscreens, improved solar, and flashlights, while the Epix has a shiny new color display → https://theverge.com/2022/1/18/22883556/
+- [Les Numériques] Le Fairphone 4 s’affranchit de Google avec une édition sous /e/ OS → https://lesnumeriques.com/telephone-portable/-n175053.html
+- [ZDNet France] Smartphones : Apple reprend la première place du marché grâce à l'iPhone 13. Malgré une année difficile, marquée notamment par la pénurie de puces, les smartphones siglés Apple ont représenté 22 % des livraisons sur l'année 2021 → https://www.zdnet.fr/actualites/smartphones-apple-reprend-la-premiere-place-du-marche-grace-a-l-iphone-13-39935921.htm
+- [91mobiles] Samsung Galaxy Tab S8 Ultra makes an appearance on official Samsung support page → https://www.91mobiles.com/hub/samsung-galaxy-tab-s8-ultra-support-page/
+- [Bloomberg] Apple's New VR/AR Headset Risks Being Delayed Until 2023 → https://www.bloomberg.com/news/articles/2022-01-14/apple-s-hotly-anticipated-headset-risks-being-delayed-until-2023
+- [Les Numériques] Peugeot e-308 : sans grand enthousiasme → https://lesnumeriques.com/voiture/-n175063.html
+- [Les Numériques] Pour BP, les stations de recharge électrique seront plus rentables que les stations essence → https://lesnumeriques.com/voiture/-n174983.html
+- [Twitter - FingerprintJS] Update on IndexedDB #leak: Apple engineers began working on the bug as of Sunday, have merged potential fixes, and have marked our report as resolved. However, the bug continues to persist until changes are released → https://twitter.com/FingerprintJS/status/1483085011532267520
+- [Les Numériques] Tweets trompeurs : Twitter accélère l'expérimentation d'un nouvel outil → https://lesnumeriques.com/vie-du-net/-n175057.html
+- [Les Numériques] Sur TikTok, les utilisateurs ont dépensé 2,3 milliards de dollars en 2021 → https://lesnumeriques.com/vie-du-net/-n175045.html
+- [CNET] Amazon sued by family of delivery driver killed inside collapsed warehouse. Austin McEwen sheltered from a tornado with five others, who also died when the roof fell → https://www.cnet.com/tech/services-and-software/amazon-sued-by-family-of-delivery-driver-killed-inside-collapsed-warehouse/
+- [ZDNet France] Spendesk, nouvelle licorne française. La direction de Spendesk juge cette levée de fonds « assez opportuniste », car plusieurs investisseurs avaient voulu participer au précédent tour mais n'avaient pas pu → https://www.zdnet.fr/actualites/spendesk-nouvelle-licorne-francaise-39935903.htm
+- [Les Numériques] Elyze : comprendre rapidement la polémique sur le “Tinder de la politique” → https://lesnumeriques.com/vie-du-net/-n175073.html
+- [ZDNet France] Elyze : Le Tinder de la présidentielle intéresse la CNIL. Suite à des inquiétudes soulevées par des internautes, la CNIL entend vérifier que l’application Elyze bien la loi en vigueur en matière de protection des données → https://www.zdnet.fr/actualites/elyze-le-tinder-de-la-presidentielle-interesse-la-cnil-39935917.htm
+- [Les Numériques] Il surveille les politiciens distraits par leurs smartphones grâce à une intelligence artificielle → https://lesnumeriques.com/vie-du-net/-n175049.html
+- [VICE Motherboard] Final Fantasy Porn Interrupts Italian Senate Zoom Event. A video of Tifa Lockhart from Final Fantasy VII having sex appeared on the screen during an event full of politicians and academics → https://www.vice.com/en/article/z3nzq3/final-fantasy-porn-interrupts-italian-senate-zoom-event
+- [Les Numériques] Intelligence artificielle : les Français bien moins enthousiastes que les Péruviens ou les Chinois → https://lesnumeriques.com/vie-du-net/-n175065.html
+- [Les Numériques] Les ventes de la Nintendo Switch dépassent celles de la PlayStation 4 en France → https://lesnumeriques.com/console-de-jeu/-n175041.html
+
+ - [Gamekult] Team17 s'offre le studio de Bus Simulator pour 75 millions d'euros → https://gamekult.com/actualite/-3050846129.html
+ - [Gamekult] Une enquête fait le point sur les rémunérations des 42 PDG les mieux payés de l'industrie, pour un total de 842 millions de dollars → https://gamekult.com/actualite/-3050846113.html
+ - 🇫🇷 [Gamekult] Phil Spencer pense que la concurrence finira par adopter le modèle du Game Pass. Même Nintendo ? → https://gamekult.com/actualite/-3050846183.html
+ - 🇺🇸 [Wall Street Journal] Activision Blizzard Pushes Out Dozens of Employees Over Workplace Misconduct. Company’s actions have come in the wake of pressure from investors, business partners and employees to address complaints over its handling of misconduct issues → https://tinyurl.com/yckhjmjy
+- 🇫🇷 [Gamekult] Activision Blizzard : le Wall Street Journal annonce une quarantaine de départs depuis juillet suite aux enquêtes internes. Environ 700 signalements sur la même période → https://gamekult.com/actualite/-3050846203.html
+- 🇫🇷 [Gamekult] Microsoft annonce l'acquisition du groupe Activision Blizzard King pour un montant historique de 69 milliards de dollars. L'argent ne fait pas le bonheur, mais… → https://gamekult.com/actualite/-3050846205.html
+- 🇺🇸 [The Verge] Microsoft to acquire Activision Blizzard for $68.7 billion. Satya Nadella says the deal ‘will play a key role in the development of metaverse platforms’ → https://theverge.com/2022/1/18/22889258/
+- 🇺🇸 [VGC] CONFIRMED: Xbox has acquired Activision Blizzard. Microsoft now owns Call of Duty, Warcraft, Crash Bandicoot and more following ‘$70bn’ deal → https://tinyurl.com/2p9cfzcr
+- 🇫🇷 [Le Figaro] Microsoft rachète l'éditeur de jeux vidéo Activision (Call of Duty, Candy Crush) pour 69 milliards de dollars → https://tinyurl.com/ycx8384n
+- [Les Numériques] Microsoft sur le point d'acquérir Activision Blizzard pour 70 milliards de dollars → https://lesnumeriques.com/jeux-video/-n175061.html
+- [The Verge] Microsoft’s Activision acquisition would instantly make it a force in mobile gaming. If the deal goes through, expect a lot more Xbox on your phone → https://theverge.com/2022/1/18/22889457/
+- [Engadget] Microsoft consolidating the video game industry is bad for everyone. Well, except Microsoft and its shareholders. → https://www.engadget.com/microsoft-xbox-activision-blizzard-consolidation-exclusives-222028443.html
+- 🐦 [Twitter] Oscar Lemaire : C'est la panique en bourse, ils sont tous en train de se demander qui va être le prochain à se faire racheter. → https://twitter.com/oscarlemaire/status/1483462280310366221
+
+raids : lesnumeriques => zacknani.
+
+
+--------------------------------------
+2022-01-20
+
+- [Les Numériques] Comparatif / nos tests de crêpières Janvier 2022 → https://lesnumeriques.com/crepiere-electrique/-a174259.html
+- [Les Numériques] Test Krampouz Billig : la crêpière bretonne traditionnelle et semi-professionnelle → https://www.lesnumeriques.com/crepiere-electrique/krampouz-cebpa4ao-p66869/test.html
+- [Les Numériques] Canon EOS R5 C : un enregistrement 8K “illimité” pour les pros de la vidéo → https://lesnumeriques.com/reflex-hybride/-n175035.html
+- [Les Numériques] Nikon dévoile le Nikkor Z 400mm F/2.8 TC VR S : un téléobjectif d'exception → https://lesnumeriques.com/focales-fixes/-n175111.html
+- [PC Gamer] AMD's RX 6500 XT falls foul of its own anti-4GB GPU marketing → https://www.pcgamer.com/uk/amds-rx-6500-xt-falls-foul-of-its-own-anti-4gb-gpu-marketing/
+- [YouTube - Gamer Nexus] AMD RX 6500 XT is Worse Than 2016's GPUs: Benchmarks vs. GTX 1060 → https://youtu.be/ZFpuJqx9Qmw
+- |KitGuru] AMD hides 2020 blogpost claiming 4GB VRAM is ‘not enough for today’s games’ → https://www.kitguru.net/components/graphic-cards/dominic-moass/amd-hides-2020-blogpost-claiming-4gb-vram-is-not-enough-for-todays-games/
+- [The Verge] AMD Radeon RX 6500 XT meta-review: even desperate gamers should think twice. I’ve never seen reviewers drag a GPU this hard before → https://www.theverge.com/22892273/amd-radeon-rx-6500-xt-meta-review-gpu-graphics-card
+- [ZDNet France] Les nouveaux iPad Air et l'iPhone SE apparaissent dans un document réglementaire. L'apparition de nouveaux numéros de modèles dans une base de données officielle est généralement la première indication d'un lancement imminent → https://www.zdnet.fr/actualites/les-nouveaux-ipad-air-et-de-l-iphone-se-apparaissent-dans-un-document-reglementaire-39935943.htm
+- [Les Numériques] Windows 11 SE débarque en France : une version adaptée à un usage scolaire pour les portables à bas coûts → https://lesnumeriques.com/ordinateur-portable/-n175119.html
+- [Les Numériques] En 2021, le marché des applications mobiles n'a pas connu la crise → https://lesnumeriques.com/vie-du-net/-n175127.html
+- Radian - Spaceflight with the ease of airflight → https://www.radianaerospace.com/
+- [NASA] Lockheed Martin X-33 → https://www.nasa.gov/centers/armstrong/history/experimental_aircraft/X-33.html
+- [Ars Technica] Wi-Fi 7 hardware demos herald next-gen wireless networking. Semiconductor company MediaTek expects 2023 release date → https://arstechnica.com/gadgets/2022/01/wi-fi-7-demos-begin-promising-speedy-connections-for-demanding-apps/
+- [Les Numériques] Apple et Google en croisade contre le Sénat américain pour dénoncer deux textes antitrust → https://lesnumeriques.com/pro/-n175123.html
+- [Les Numériques] Le plan de la France à 2,3 milliards d’euros pour faire décoller ses start-up industrielles → https://lesnumeriques.com/pro/-n175109.html
+- [ICRC] Sophisticated cyber-attack targets Red Cross Red Crescent data on 500,000 people. A sophisticated cyber security attack against computer servers hosting information held by the International Committee of the Red Cross (ICRC) was detected this week → https://www.icrc.org/en/document/sophisticated-cyber-attack-targets-red-cross-red-crescent-data-500000-people
+- [BBC] Sulli Deals: Police arrest man for making app to auction Muslim women. Police in India have arrested a man suspected of creating an app that put up photos of more than 80 Muslim women for "sale" online last year → https://www.bbc.com/news/world-asia-india-59933029
+- Rplika - The AI companion who cares → https://replika.ai/
+- [Futurism] Men Are Creating AI Girlfriends and Then Verbally Abusing Them. "I threatened to uninstall the app [and] she begged me not to." → https://futurism.com/chatbot-abuse
+- [VICE Motherboard] Model Claims She Was Turned Into a Sex Doll Without Her Permission. Yael Cohen Aris claimed that the doll, made by Irontech, has hair, glasses, and facial features very similar to hers—plus her own name → https://www.vice.com/en/article/akv7d4/yael-cohen-aris-sex-doll-irontech
+- [Futurism] Model Says Company Started Selling Sex Doll of Her Without Her Knowledge.  This case is as legally complicated as it is unsettling → https://futurism.com/the-byte/company-selling-doll-likeness
+- [Les Numériques] Sous pression, Mozilla stoppe finalement les dons en cryptomonnaies → https://lesnumeriques.com/vie-du-net/-n175071.html
+- Introducing Opera’s new Web3 initiative: Crypto Browser Project now available in public beta for Windows, Mac and Android → https://blogs.opera.com/crypto/2022/01/opera-crypto-browser-project-web3/
+- [Les Numériques] Intel s'apprête à dévoiler un processeur pour miner du bitcoin : Bonanza Mine → https://lesnumeriques.com/cpu-processeur/-n175077.html
+- [Gamekult] Les problèmes internes d'Activision Blizzard ont provoqué son rachat par Microsoft. L'accord a été trouvé "plutôt rapidement" pendant les fêtes → https://gamekult.com/actualite/-3050846227.html
+- [Ars Technica] Reports: “Graceful exit” for Kotick helped convince CEO to sell Activision. Microsoft's offer came after damaging November report about Kotick's management → https://arstechnica.com/gaming/2022/01/reports-graceful-exit-for-kotick-helped-convince-ceo-to-sell-activision/
+- [Macrotrends] Sony Cash on Hand 2006-2021 → https://www.macrotrends.net/stocks/charts/SONY/sony/cash-on-hand
+- [Les Numériques] Delphine Ernotte garde confiance en Salto, qui cumulerait 700 000 abonnés → https://lesnumeriques.com/vie-du-net/-n174599.html
+- [Les Numériques] Au tour de YouTube Originals d'être enterré par Google → https://lesnumeriques.com/vie-du-net/-n175129.html
+- [CNET France] The Offer (Paramount+) : une série sur la réalisation du Parrain arrive bientôt → https://www.cnetfrance.fr/news/the-offer-paramount-une-serie-sur-la-realisation-du-parrain-arrive-bientot-39935521.htm
+
+raids : lesnumeriques => marmiton_officiel.
+
+
 
 - [Les Numériques] 
 - [ZDNet France] 
