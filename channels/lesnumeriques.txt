@@ -2847,6 +2847,44 @@ raids : lesnumeriques => zacknani.
 raids : lesnumeriques => marmiton_officiel.
 
 
+--------------------------------------
+2022-01-24
+
+- [Les Numériques] Les Numériques recrute un(e) community manager en alternance → https://lesnumeriques.com/vie-du-net/-n173743.html
+- [Les Numériques] DHT-S517 : Denon lance une nouvelle barre de son Dolby Atmos pour moins de 400 € → https://lesnumeriques.com/barre-de-son/-n175203.html
+- [Les Numériques] Bissell lance trois purificateurs d'air avec un niveau de filtration complet → https://lesnumeriques.com/purificateur-air/-n175141.html
+- [Les Numériques] Thermomix vs Monsieur Cuisine Connect : Lidl gagne son procès en appel → https://lesnumeriques.com/robot-cuiseur-multifonction/-n175269.html
+- [Les Numériques] Ricoh (Pentax) redéfinit la production et la distribution de ses appareils sur le marché japonais → https://lesnumeriques.com/reflex-hybride/-n175259.html
+- [Les Numériques] Labo – Que valent les modules selfie sous l'écran des smartphones ? → https://lesnumeriques.com/telephone-portable/-n175185.html
+- Astell & Kern - Acro CA1000 → https://www.astellnkern.com/product/product_detail.jsp?productNo=130
+- [CNET France] iSIM : Qualcomm dévoile un nouveau format SIM pour succéder à la eSIM. Alors que la plupart des smartphones utilisent toujours des cartes SIM classiques et que la eSIM virtuelle rencontrent des difficultés à se faire une place, plusieurs sociétés ont fait la démonstration d'un nouveau format baptisé iSIM → https://www.cnetfrance.fr/news/isim-qualcomm-devoile-un-nouveau-format-sim-pour-succeder-a-la-esim-39936071.htm
+- Razer - Collaboration Hello Kitty et ses amis → https://www.razer.com/fr-fr/collabs/hello-kitty-and-friends
+- [Les Numériques] Samsung annonce le lancement des Galaxy S22 pour février et promet une version Ultra “notable” → https://lesnumeriques.com/telephone-portable/-n175271.html
+- [CNET France] Samsung Galaxy S22 : le prix fuite avant la présentation, il serait un peu plus abordable. Le prix des Galaxy S22 ne devrait pas exploser cette année → https://www.cnetfrance.fr/news/samsung-galaxy-s22-le-prix-fuite-avant-la-presentation-il-serait-un-peu-plus-abordable-39936145.htm
+- [Les Numériques] Quels ont été les meilleurs SoC mobiles en 2021 ? → https://lesnumeriques.com/telephone-portable/-a174181.html
+- [Les Numériques] Project Iris : Google se prépare pour la guerre des casques de réalité augmentée → https://lesnumeriques.com/vie-du-net/-n175255.html
+- [The Verge] Google is building an AR headset. Project Iris could see Google go up against Meta and Apple in the coming headset wars → https://theverge.com/2022/1/20/22892152/
+- [Les Numériques] Une japonaise en tête des voitures les plus produites en France → https://lesnumeriques.com/voiture/-n175225.html
+- [Les Numériques] Volvo : record de vente en France et cap sur l'électrique → https://lesnumeriques.com/voiture/-n175249.html
+- [Ars Technica] Meet 2022’s World Rally cars: Much more power, much more sustainable. 500 hp hybrids and synthetic fuel are new for this year → https://arstechnica.com/cars/2022/01/meet-2022s-world-rally-cars-much-more-power-much-more-sustainable/
+- [CNET France] Yamaha EMF, un scooter électrique équipé d'une batterie amovible. Il s'appuie sur les infrastructures de la marque Gogoro et sa plateforme d'échange de batteries → https://www.cnetfrance.fr/news/yamaha-emf-un-scooter-electrique-equipe-d-une-batterie-amovible-39935999.htm
+- [Les Numériques] Labo – XGIMI Horizon Pro : un système bluffant de correction automatique du trapèze et de détection d'obstacle → https://lesnumeriques.com/videoprojecteur/-n175273.html
+- Application ELYZE sur Git Hub → https://github.com/francoismari/elyze
+- [Les Numériques] Instagram lance des abonnements payants pour retenir ses influenceurs → https://lesnumeriques.com/pro/-n175171.html
+- [Les Numériques] Google Analytics viole le RGPD, selon le régulateur autrichien des données → https://lesnumeriques.com/vie-du-net/-n175211.html
+- [Les Numériques] Dans les magasins de vêtements d'Amazon, c'est un algorithme qui vous suggérera quoi essayer → https://lesnumeriques.com/vie-du-net/-n175221.html
+- [Les Numériques] Le Conseil constitutionnel réautorise la surveillance de masse par drones policiers → https://lesnumeriques.com/vie-du-net/-n175313.html
+- [Les Numériques] Metaverse : l'énorme potentiel de la publicité ciblée bien anticipé par Facebook (Meta) → https://lesnumeriques.com/vie-du-net/-n175117.html
+- Twitter - You asked (a lot), so we made it. Now rolling out in Labs: NFT Profile Pictures on iOS → https://twitter.com/TwitterBlue/status/1484226494708662273
+- [Twitter] Adam Hollander - There's actually a MAJOR PROBLEM with the new Twitter PFP feature → https://twitter.com/HollanderAdam/status/1484246971208642577
+- [France Info]  "Un acte scandaleux" : un chirurgien de l’AP-HP tente de vendre le "NFT" d’une radio d’une survivante du Bataclan → https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/un-acte-scandaleux-un-chirurgien-de-l-ap-hp-tente-de-vendre-le-nft-d-une-radio-d-une-survivante-du-bataclan-2430985.html
+- [Les Numériques] NFT : un Indonésien devient millionnaire avec des selfies → https://lesnumeriques.com/vie-du-net/-n175179.html
+- [ZDNet France] Metaverse : ils veulent donner une seconde vie à Second Life. La société High Fidelity investit dans l'antique solution de monde virtuel. L'objectif est de donner un nouveau souffle à cette plateforme vieille de 19 ans → https://www.zdnet.fr/actualites/metaverse-ils-veulent-donner-une-seconde-vie-a-second-life-39935697.htm
+- [VICE Motherboard] The only way to see this art exhibit is on a Game Boy ROM. The virtual gallery space showcases artists who use the decades-old Game Boy Camera—and yes, it runs on the original Game Boy → https://www.vice.com/en/article/88g5v4/the-only-way-to-see-this-art-exhibit-is-on-a-game-boy-rom
+
+rads : lesnumeriques => adyboo -> Lutti.
+
+
 
 - [Les Numériques] 
 - [ZDNet France] 
