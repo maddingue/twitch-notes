@@ -9217,7 +9217,7 @@ La portion congrue est la partie du revenu des dîmes reversée aux curés et vi
 
 - 🇺🇸 [Riot blog] Calling the Shot: the Next Five Years at Riot Games, by CEO Nicolas Laurent → https://tinyurl.com/2p8fxapb
 
-raids : Gautoz => BanjoGuyOllie => Anfalmyr => Raik0v_ => MielisTepes => AifeTV => skerax => iti63 (24 h) => Hiuuugs => Copainduweb => Nalla_mp3 => ArielPetrie => AshleyPer4mer => meganlenius => SPLovesDrums => drezzdie => BlinkinFirefly -> lemonagogo -> lilyz (48 h) => mustbearockstar => vvlettish => amadeus_music => andy_boing => wampe => Phil_Luna => BekahStanush => sashiBOOM => ariathome => omgloudmouth => Jessu => thesushidragon (3 j) => security_live => Fred_Mackay (4 j) => Insayno (5 j)
+raids : Gautoz => BanjoGuyOllie => Anfalmyr => Raik0v_ => MielisTepes => AifeTV => skerax => iti63 (24 h) => Hiuuugs => Copainduweb => Nalla_mp3 => ArielPetrie => AshleyPer4mer => meganlenius => SPLovesDrums => drezzdie => BlinkinFirefly -> lemonagogo -> lilyz (48 h) => mustbearockstar => vvlettish => amadeus_music => andy_boing => wampe => Phil_Luna => BekahStanush => sashiBOOM => ariathome => omgloudmouth => Jessu => thesushidragon (3 j) => security_live => Fred_Mackay (4 j) => Insayno (5 j) => CapsLockKeyon => JessLefft => Roscosity (6 j) => CourtInjustice => JJ_Sadge => Minty_Hasel => 59thCaboose => JamieLee2k => ArtTheBeard => Starfireten => actuallybeez => Inqling => HamletEJ (7 j).
 
 
 --------------------------------------
@@ -9323,7 +9323,37 @@ Il est bien connu que nombres d'hommes, mariés ou pas, peu importe, lorsqu'ils 
 - 🇺🇸 [Polygon] Lego Star Wars: The Skywalker Saga has led to extensive crunch at TT Games. The longtime Lego game studio has spent almost five years on its latest project → https://polygon.com/features/22891555/
 - 🇫🇷 [Gamekult] Au prix d'un crunch intensif, LEGO Star Wars : La Saga Skywalker sortira finalement le 5 avril 2022. Récit d'un développement long, frustrant et épuisant → https://gamekult.com/actualite/-3050846271.html
 
-raids : Gautoz => CanardPC (->) Aubin_Live => Momoxx77 => LaPetiteEquipe => LeGrosShow => simondiamondg => MissDuro95 => caribou_88 => JMAXIMUSS => Skullkid_64 => lesjoueursdivers => theredcorazon => MAFA002 => lNsBl
+raids : Gautoz => CanardPC (->) Aubin_Live => Momoxx77 => LaPetiteEquipe => LeGrosShow => simondiamondg => MissDuro95 => caribou_88 => JMAXIMUSS => Skullkid_64 => lesjoueursdivers => theredcorazon => MAFA002 => lNsBl => Altus4r (48 h).
+
+
+--------------------------------------
+2022-01-24
+
+Tirer son épingle du jeu : Récupérer ce que l'on a mis en jeu. Tirer son épingle du jeu proviendrait du XVe siècle. On dit que les fillettes jouaient à un jeu qui consistait à placer des épingles dans un cercle dessiné près d'un mur. Elles devaient ensuite les faire sortir avec une balle en réussissant à ce que celle-ci frappe le mur et vienne ensuite ricocher dans le cercle. Au minimum, il fallait récupérer ce que l'on avait mis en jeu. Ainsi, "tirer son épingle du jeu" signifie que l'on réussit à sauver sa cause, ses intérêts propres. -- https://www.linternaute.fr/expression/langue-francaise/255/tirer-son-epingle-du-jeu/
+
+
+- 🇺🇸 [Gematsu] NetEase Games establishes Nagoshi Studio, led by Yakuza series creator Toshihiro Nagoshi. Daisuke Sato and other former Ryu Ga Gotoku Studio staff make up the studio's founding members → https://cutt.ly/UIMnR4M
+- 🇺🇸 [IGN] Yakuza series creator Toshihiro Nagoshi establishes Nagoshi Studio at NetEase Games. Nagoshi had been with SEGA and RGG Studio since 1989 → https://cutt.ly/pIMnZ8O
+
+- Game Workers Alliance → https://GameWorkersAlliance.com/ | https://twitter.com/WeAreGWA/
+- 🇫🇷 [Gamekult] Les employés de Raven Software demandent à Activision Blizzard de reconnaître leur union syndicale. Les testeurs QA de Call of Duty Warzone se syndicalisent → https://gamekult.com/actualite/-3050846313.html
+- 🇺🇸 [VGC] Call of Duty developers at Raven Software have voted to unionise. Over 30 staff ask management to recognise their union → https://cutt.ly/vIMQyr6
+- 🇺🇸 [Kotaku] Call Of Duty QA testers form Activision Blizzard’s first union. QA at Raven Software are asking for voluntary recognition by the embattled publisher → https://kotaku.com/union-1848399505
+
+- 🇫🇷 [Gamekult] Haven Studios : Jade Raymond a rassemblé plus de 65 personnes pour son jeu PlayStation, mais l'un des cofondateurs s'en va déjà → https://gamekult.com/actualite/-3050846291.html
+
+- 🇺🇸 [Kotaku] Dark Souls servers down due to exploit that could give someone control of your PC. Bandai Namco has turned off all the PC servers for Dark Souls 1, 2, and 3 following reports of a nasty RCE exploit → https://kotaku.com/dark-souls-1848407285
+
+- 🇫🇷 [Gamekult] Focus Entertainment annonce des résultats en forte baisse. Deux jeux n'ont pas répondu aux attentes → https://gamekult.com/actualite/-3050846283.html
+
+- 🇺🇸 [PCGamesN] Expeditions: Rome devs clarify their plans after founders form an NFT studio → https://www.pcgamesn.com/expeditions-rome/dlc
+- [YouTube] Folding Ideas - the problem with NFT → https://www.youtube.com/watch?v=YQ_xWvX1n9g
+
+- 🇺🇸 [GameRant] Hitman Subreddit was closed temporarily over ‘targeted harassment'. While it's back up now, the Hitman Subreddit temporarily went down after mods decided to render it private due to harassment and security breaches → https://gamerant.com/hitman-subreddit-closed-temporarily-targeted-harassment/
+
+- 🇺🇸 [SteamDB] top 10 des ventes sur Steam de la semaine dernière → https://steamdb.info/topsellers/
+
+raids : Gautoz => BanjoGuyOllie => WoodyLutherie => Telliam => Linkorep => Hellebore_Noire => Forsa.
 
 
 
