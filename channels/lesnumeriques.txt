@@ -2882,7 +2882,46 @@ raids : lesnumeriques => marmiton_officiel.
 - [ZDNet France] Metaverse : ils veulent donner une seconde vie à Second Life. La société High Fidelity investit dans l'antique solution de monde virtuel. L'objectif est de donner un nouveau souffle à cette plateforme vieille de 19 ans → https://www.zdnet.fr/actualites/metaverse-ils-veulent-donner-une-seconde-vie-a-second-life-39935697.htm
 - [VICE Motherboard] The only way to see this art exhibit is on a Game Boy ROM. The virtual gallery space showcases artists who use the decades-old Game Boy Camera—and yes, it runs on the original Game Boy → https://www.vice.com/en/article/88g5v4/the-only-way-to-see-this-art-exhibit-is-on-a-game-boy-rom
 
-rads : lesnumeriques => adyboo -> Lutti.
+raids : lesnumeriques => adyboo -> Lutti.
+
+
+--------------------------------------
+2022-01-25
+
+- Atlethics 3D → https://www.athletics3d.com/
+- [Slate 2013.05.13] Vous pouvez désormais imprimer votre propre pistolet en 3D, mais vous devriez éviter → http://www.slate.fr/life/72097/imprimante-pistolet-3d
+- [New York Times] ‘Ghost Guns’: Firearm Kits Bought Online Fuel Epidemic of Violence → https://www.nytimes.com/2021/11/14/us/ghost-guns-homemade-firearms.html
+- [Forbes] Open Source Terror: How The World’s Most Dangerous Crypto Anarchist Intends To Neutralize Biden’s Proposed Gun Control Regulations → https://www.forbes.com/sites/michaeldelcastillo/2022/01/12/open-source-terror-how-the-worlds-most-dangerous-crypto-anarchist-intends-to-neutralize-bidens-proposed-gun-control-regulations/
+- [IGN] Game Developer Accuses Real-Life Weapons Manufacturer of Stealing Its Gun Design... Twice. Developer Ward B thinks Kalashnikov used its gun design to make a real shotgun – before handing it to another video game. → https://www.ign.com/articles/stolen-gun-kalashnikov-oceanic-mp-155-ultima-ward-b
+- [theDrive] Assassin Dolphin Hamas Says It Caught Continues Tradition Of Wild Claims About Israel’s Animal Spies. While it's possible Israel uses dolphins to counter enemy swimmers, its enemies frequently make outlandish claims of animals being used for espionage → https://www.thedrive.com/the-war-zone/43827/
+- Casiotone CT-S1000V - A Vocalist You Can Play, an Instrument That Changes the Concept of Playing → https://music.casio.com/en/products/casiotone/cts1000v/
+- [VICE Motherboard] Peloton Is Imploding, and Leadership Wants Workers To Take the Fall for Them. After cashing out hundreds of millions of dollars in stock, Peloton executives plan to cut staff and close stores to make up for their past mistakes → https://www.vice.com/en/article/n7n3gm/peloton
+- [CNBC] Peloton hires McKinsey to review cost structure; cycle maker may cut jobs, close stores → https://www.cnbc.com/2022/01/18/peloton-hires-mckinsey-to-review-cost-structure-as-equipment-sales-slow-.html
+- [Les Numériques] Intel veut construire la plus grosse usine de processeurs au monde dans l'Ohio → https://lesnumeriques.com/vie-du-net/-n175403.html
+- [Les Numériques] 
+- [Ars Technica] Latest Intel Arc GPU leaks: 3070 Ti-ish speeds, 5 different options for laptops. Intel's stab at the dedicated GPU market still looks promising. → https://arstechnica.com/gadgets/2022/01/leaked-specs-for-intels-still-elusive-arc-laptop-gpus-include-up-to-16-gb-of-ram/
+- [Les Numériques] Nvidia augmente le prix des GeForce RTX 30 Founders Edition → https://lesnumeriques.com/carte-graphique/-n175399.html
+- [ZDNet France] Meta va doper son metaverse à l'aide du supercalculateur d'IA le plus puissant au monde. Le groupe Meta (ex-Facebook) mise sur son supercalculateur AI Research SuperCluster pour développer l'IA qui alimentera son metaverse → https://www.zdnet.fr/actualites/ia-meta-va-doper-son-metaverse-a-l-aide-du-supercalculateur-d-ia-le-plus-puissant-au-monde-39936233.htm
+- [Les Numériques] Vous devriez passer vos appels avec un kit mains-libres → https://lesnumeriques.com/vie-du-net/-n175445.html
+- [XDA Developers] Lenovo ‘Halo’ gaming phone leaks with unannounced Snapdragon chipset → https://www.xda-developers.com/lenovo-halo-leak/
+- [CNET France] iPhone 13 : un bug logiciel lui fait voir la vie en rose. Un bug laissant un écran rose est apparu sur les iPhone 13 → https://www.cnetfrance.fr/news/iphone-13-un-bug-logiciel-lui-fait-voir-la-vie-en-rose-39936197.htm
+- [Les Numériques] L’Apple Car encore freinée après le départ de l’un de ses piliers → https://lesnumeriques.com/pro/-n175427.html
+- [Les Numériques] Renault et Geely vont conjointement produire des véhicules en Corée du Sud → https://lesnumeriques.com/voiture/-n175395.html
+- [Nikkei Asia] Panasonic to start producing new Tesla batteries in 2023. The next-generation version offers one of the world's longest ranges → https://asia.nikkei.com/Business/Automobiles/Panasonic-to-start-producing-new-Tesla-batteries-in-2023
+- [Ars Technica] Autonomous battery-powered rail cars could steal shipments from truckers. Advances in batteries, autonomy could extend the reach of freight railroads → https://arstechnica.com/cars/2022/01/moving-more-with-less-freight-startup-bets-on-autonomous-electric-rail-cars/
+- Thor Industries - Estream → https://www.thorindustries.com/innovation-estream
+- [VICE Motherboard] John Deere Hit With Class Action Lawsuit for Alleged Tractor Repair Monopoly. The lawsuit is the latest salvo in the ongoing right-to-repair movement that seeks to free devices from manufacturers' arbitrary repair DRM → https://www.vice.com/en/article/xgdazj/john-deere
+- [VICE Motherboard] Joe Biden Formally Backs Consumers' Right to Repair Their Electronics. "Too many areas, if you own a product, from a smartphone to a tractor, you don’t have the freedom to choose how or where to repair that item you purchased." → https://www.vice.com/en/article/qjbzpw/joe-biden-formally-backs-right-to-repair
+- [Wired] John Deere's Self-Driving Tractor Stirs Debate on AI in Farming. The automation, and control of the resulting data, raises questions about the role of human farmers → https://www.wired.com/story/john-deere-self-driving-tractor-stirs-debate-ai-farming/
+- [Gamekult] Une faille de sécurité a été cernée dans le netcode des Dark Souls sur PC. Bandai Namco a choisi de mettre les serveurs PvP hors-ligne → https://gamekult.com/actualite/-3050846331.html
+- [Ars Technica] Dark Souls servers taken down following discovery of critical vulnerability. No interaction required. "I didn't even know that shit was possible," pwned player says → https://arstechnica.com/information-technology/2022/01/dark-souls-servers-taken-down-following-discovery-of-critical-vulnerability/
+- [Les Numériques] Netflix, Canal+, Disney+... Qui sont les gagnants et les perdants de la nouvelle chronologie des médias ? → https://lesnumeriques.com/vie-du-net/-n175409.html
+- [Les Numériques] La croissance de Netflix ralentit, ce qui ne plaît pas aux actionnaires → https://lesnumeriques.com/vie-du-net/-n175263.html
+- [CNBC] Tom Cruise space movie producers sign deal with Axiom to build studio in orbit → https://www.cnbc.com/2022/01/20/tom-cruise-movie-producers-sign-axiom-deal-for-space-production-studio.html
+- [WePC] Nvidia giving up plans to acquire ARM, costing $1.25 billion USD. It's looking like silicon slumber for this acquisition → https://www.wepc.com/news/nvidia-arm-acquisition-cancelled/
+
+raids : lesnumeriques => marmiton_officiel.
+
 
 
 
