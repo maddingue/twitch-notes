@@ -2923,6 +2923,66 @@ raids : lesnumeriques => adyboo -> Lutti.
 raids : lesnumeriques => marmiton_officiel.
 
 
+--------------------------------------
+2022-01-26
+
+- [Les Numériques] Millesime160 : la nouvelle cave à vin de vieillissement de La Sommelière → https://lesnumeriques.com/divers-electromenager/-n175265.html
+- [Les Numériques] Un presse-agrume pour les Thermomix TM6 et Monsieur Cuisine Smart signé Mixcover → https://lesnumeriques.com/divers-electromenager/-n175497.html
+- [CNET France] Google : un Chromecast HD moins cher en préparation, selon un rapport. Un appareil qui permettrait à Google de concurrencer Roku et Amazon → https://www.cnetfrance.fr/news/google-39936285.htm
+- [ET online] Samsung Super Bowl TV Deals 2022: Save Up to $3,500 on 8K TVs Before the Big Game → https://www.etonline.com/samsung-super-bowl-tv-deals-2022-save-up-to-3500-on-8k-tvs-before-the-big-game-178073
+- [The Verge] Super Bowl 2022 won’t stream in 4K on NBC. Super Bowl LVI won’t stream in 4K → https://www.theverge.com/2022/1/19/22878110/
+- [Les Numériques] Ricoh Theta X : la caméra 360° passe à 60 mégapixels et gagne un écran tactile → https://lesnumeriques.com/camera-360-degres/-n175535.html
+- [Ars Technica] Fabs stretched thin as chip shortage shrinks inventories to just 5 days. Relief appears to be months, if not years, away → https://arstechnica.com/tech-policy/2022/01/fabs-stretched-thin-as-chip-shortage-shrinks-inventories-to-just-5-days/
+- [Les Numériques] Une fuite dévoile des Intel Core i5-12500H et i7-12700H très performants → https://lesnumeriques.com/cpu-processeur/-n175495.html
+- [Les Numériques] Le rachat d'ARM par Nvidia a du plomb dans l'aile et serait sur le point d'être abandonné → https://lesnumeriques.com/informatique/-n175527.html
+- Elgato - Steam Deck Pedal → https://www.elgato.com/fr/stream-deck-pedal
+- [Les Numériques] Sondage : où avez-vous acheté votre smartphone reconditionné ? → https://lesnumeriques.com/mobilite/-n175449.html
+- [XDA Developers] Here’s the Galaxy S22, S22 Plus, and S22 Ultra in every color → https://www.xda-developers.com/galaxy-s22-series-colors-leak/
+- [CNET France] Samsung Galaxy Tab S8 : une nouvelle fuite la montre sous toutes ses coutures → https://cnetfrance.fr/news/samsung-39936277.htm
+- [CNET France] Pixel Notepad : de nouvelles précisions sur le smartphone pliant de Google. Un format plus compact que celui du Galaxy Z Fold de Samsung ? → https://cnetfrance.fr/news/pixel-notepad-39936243.htm
+- [ZDNet France] Google révèle le successeur de FloC : "Topics". La deuxième tentative de Google pour remplacer les cookies tiers s'appuie sur l'historique de navigation des trois semaines précédentes de l'utilisateur pour fournir ce qu'elle prétend être un moyen plus anonyme et transparent de diffuser des publicités basées sur les centres d'intérêt → https://www.zdnet.fr/actualites/topics-39936289.htm
+- [Uncrate]  Mitsubishi Delica D:5 Tough x Tough Concept Van → https://uncrate.com/fr/article/mitsubishi-delica-d5-tough-x-tough-concept-van/
+- [ZDNet France] Intolérable cruauté : Ce malware Android efface votre smartphone après avoir volé votre argent. Le cheval de Troie bancaire BRATA efface les appareils Android juste après avoir réussi à réaliser une fraude électronique → https://www.zdnet.fr/actualites/malware-39936293.htm
+- [Les Numériques] Microsoft, Google et Amazon ont réalisé un nombre record d'acquisitions en 2021 → https://lesnumeriques.com/pro/-n175483.html
+- 🇫🇷 [Gamekult] Microsoft : un nouveau chiffre d'affaires record pour le jeu vidéo en 2021, avant même d'accueillir Activision Blizzard King → https://gamekult.com/actualite/-3050846405.html
+- [Les Numériques] Porté par le prix délirant des cartes graphiques, Asus distribue de grosses primes à ses employés → https://lesnumeriques.com/carte-graphique/-n175511.html
+- [Les Numériques] Le maire de New York est payé en cryptomonnaies → https://lesnumeriques.com/vie-du-net/-n175413.html
+- 🇫🇷 [Gamekult] Steam Deck : Valve annonce une synchronisation dynamique avec le cloud, pour passer plus simplement du PC au Steam Deck → https://gamekult.com/actualite/-3050846371.html
+- 🇺🇸 [VGC] Steam’s new cloud save feature promises seamless switching between Deck and PC. Valve announces Dynamic Cloud Sync → https://cutt.ly/lI5oFOt
+- Electronic Arts & Lucasfilm Games announce new Star Wars titles from Respawn Entertainment → https://www.ea.com/news/electronic-arts-and-lucasfilm-games-announce-new-star-wars-titles-from-respawn-entertainment
+- 🇫🇷 [Gamekult] EA et Respawn travaillent sur 3 jeux Star Wars, dont la suite de Jedi Fallen Order, mais aussi un FPS et un jeu de stratégie → https://gamekult.com/actualite/-3050846383.html
+- 🇺🇸 [VGC] DICE won’t get the chance to make Star Wars Battlefront 3, it’s claimed. Report suggests “EA is done with Star Wars” after newly-announced Respawn games → https://cutt.ly/xI5ijKe
+- [Blizzard] Create a new universe with us → https://news.blizzard.com/en-us/blizzard/23768911/create-a-new-universe-with-us
+- 🇫🇷 [Gamekult] Dans la foulée du rachat, Blizzard dévoile une nouvelle licence, un "jeu de survie" → https://gamekult.com/actualite/-3050846403.html
+- 🇺🇸 [VGC] Blizzard reveals it’s making ‘a brand-new survival game’ for PC and console. The studio is staffing up for a title set in “a whole new universe” → https://cutt.ly/TI5ysuv
+- [Twitter Silvae] Aujourd'hui je vais vous expliquer comment avoir accès parfaitement légalement à un kiosque de plusieurs centaines de journaux et de magazines → https://twitter.com/Silvae/status/1482037482858463236
+
+raids : lesnumeriques => nynyhon => Ultia
+
+
+--------------------------------------
+2022-01-27
+
+- [Les Numériques] Samyang AF 135mm F1.8 FE : un renouvellement moderne pour le portrait, et plus encore → https://lesnumeriques.com/focales-fixes/-n175591.html
+- [Les Numériques] Xiaomi Redmi Note 11 : quatre smartphones à prix serrés arrivent en France → https://lesnumeriques.com/telephone-portable/-n175507.html
+- [Les Numériques] P50 Pro et P50 Pocket : sans les services Google et en 4G, Huawei tente son retour sur le segment premium → https://lesnumeriques.com/telephone-portable/-n175585.html
+- Apple to Rival Square by Turning iPhones Into Payment Terminals *¬ https://finance.yahoo.com/news/apple-let-iphones-accept-credit-012514852.html
+- Lüks Kebab → https://luks-kebab.com/
+- [Uncrate]  Classic Mini Recharged Electric Conversions → https://uncrate.com/classic-mini-recharged-electric-conversions/
+- Honda Acura Type-S → https://www.acura.com/type-s
+- [Car Magazine] Lamborghini electric plans: PHEV Aventador confirmed by boss, new e-GT in the pipeline → https://www.carmagazine.co.uk/electric/lamborghini/
+- Maserati MC20 → https://www.maserati.com/fr/fr/modeles/mc20
+- [CNET France] BMW CE-04 : et si on allait faire un tour avec ce scooter électrique ? Coupleux, requérant peu d'entretien et silencieux... ce scooter électrique BMW semble l'outil parfait pour les trajets du quotidien → https://cnetfrance.fr/news/bmw-ce-04-39936291.htm
+- [The Verge] Tesla hails its second profitable year as a ‘breakthrough’. Supply chain issues remain → https://www.theverge.com/2022/1/26/22903136/
+- [The Verge] E-bike maker Cowboy joins the exclusive $100 million club. After $80 million funding round → https://www.theverge.com/2022/1/26/22900462/
+- [The Verge] Samsung sets revenue records with stronger product sales. Next Galaxy S intended to increase flagship growth → https://www.theverge.com/2022/1/26/22902283/
+- [ZDNet France] Intel : Une amende de 1,06 milliard annulée 10 ans après. Le Tribunal de l'Union européenne a annulé une amende de 1,06 milliard d'euros qui avait été infligée à Intel pour comportement anticoncurrentiel il y a plus de 10 ans → https://www.zdnet.fr/actualites/intel-39936365.htm
+- [Les Numériques] 7 % des Français n'ont ni smartphone ni connexion Internet → https://lesnumeriques.com/mobilite/-n175587.html
+- [Tech Power Up] Intel Arc Alchemist Xe-HPG Graphics Card with 512 EUs Outperforms NVIDIA GeForce RTX 3070 Ti → https://www.techpowerup.com/291176/
+- [Les Numériques] Nvidia augmente le prix des GeForce RTX 30 Founders Edition → https://lesnumeriques.com/carte-graphique/-n175399.html
+- YouTube - Secom Cocobo / セキュリティロボット「cocobo」を開発｜報道発表｜セコム株式会社 → https://www.youtube.com/watch?v=z9jqg1wuXNg
+
+raids : lesnumeriques => marmiton_officiel
 
 
 - [Les Numériques] 
