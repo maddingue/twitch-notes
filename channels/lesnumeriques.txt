@@ -2985,12 +2985,47 @@ raids : lesnumeriques => nynyhon => Ultia
 raids : lesnumeriques => marmiton_officiel
 
 
+--------------------------------------
+2022-01-28
+
+- [Gamekult] Le fringant Pipomantis rejoint la rédaction → https://gamekult.com/actualite/-3050803503.html
+- [Twitter - Pipomantis] Je ne crois pas qu'il y ait de bonne manière de dire ou de faire donc allons-y gaiement : aujourd'hui est mon dernier jour chez Gamekult → https://twitter.com/Pipomantis/status/1486977474248548352
+- [Medium - Pipomantis] Il quitte la presse, la cinquième raison va vous surprendre !!! → https://medium.com/@Pipomantis/-390229aa45c8
+- [Les Numériques] Philips dévoile son nouveau téléviseur OLED807 équipé de la nouvelle dalle Oled EX → https://lesnumeriques.com/tv-televiseur/-n175655.html
+- [Les Numériques] AnkerWork B600 : une webcam haut de gamme 2K avec micros intégrés et éclairage led → https://lesnumeriques.com/webcam/-n175643.html
+- [Medium] ThE SpONgEMock MeME → https://medium.com/@lmrramos/-2fc432395226
+- CharaChorder - type at the speed of thought → https://www.charachorder.com/
+- [VICE Motherboard] This keyboard lets people type so fast it’s banned from typing competitions. A new peripheral lets you keep typing without ever lifting a finger. When it comes to gaming and typing competitions, is it cheating? → https://www.vice.com/en/article/3abavv/keyboard
+- [The Verge] Google leaks Pixel 6A name in, of all things, a coloring book. A Google-produced piece of swag mentioned the unannounced phone → https://www.theverge.com/2022/1/28/22906019/
+- [9to5Mac] iOS 15.4 enables Face ID support while wearing a mask, no Apple Watch required → https://9to5mac.com/2022/01/27/ios-15-4-enables-face-id-support-while-wearing-a-mask-no-apple-watch-required/
+- Renault, Nissan & Mitsubishi Motors announce common roadmap Alliance 2030: Best of 3 worlds for a new future → https://en.media.renaultgroup.com/news/renault-nissan-mitsubishi-motors-announce-common-roadmap-alliance-2030-best-of-3-worlds-for-a-new-future-fd6e-989c5.html
+- [Les Numériques] Test Tefal Crep’Party Colormania : la simplicité avant l’efficacité → https://www.lesnumeriques.com/crepiere-electrique/tefal-crep-party-colormania-p67157/test.html
+- [Les Numériques] Labo – Que vaut la Radeon RX 6600M du Lenovo Legion 5 ? → https://lesnumeriques.com/ordinateur-portable/-n175209.html
+- [Les Numériques] Test Huawei P50 Pro : entre expérience premium et regrettables compromis → https://www.lesnumeriques.com/telephone-portable/huawei-p50-pro-p62485/test.html
+- [Les Numériques] 4G/5G : l'UFC-Que Choisir dénonce un Internet mobile à deux vitesses en zones rurales → https://lesnumeriques.com/mobilite/-n175635.html
+- TikTok Creator Fund: Your questions answered → https://newsroom.tiktok.com/en-gb/tiktok-creator-fund-your-questions-answered
+- [Ars Technica] Amazon ends widely mocked scheme that turned workers into Twitter “ambassadors”. Amazon's paid tweeters praised company, denied that workers urinate in bottles → https://arstechnica.com/tech-policy/2022/01/amazon-ends-widely-mocked-scheme-that-turned-workers-into-twitter-ambassadors/
+- [ZDNet France] Apple a vendu 9 % d'iPhone de plus que l'an passé. Le chiffre d'affaires et le bénéfice du premier trimestre fiscal dépassent les attentes des analystes. Apple a vendu 71,6 milliards de dollars d'iPhone au cours du trimestre → https://www.zdnet.fr/actualites/apple-39936437.htm
+- [The Verge] Apple made more money than ever, even with the supply chain crunch. The iPhone had a monster quarter, and Apple’s services business kept growing → https://theverge.com/2022/1/27/22904413/
+- [ZDNet France] Le FMI exige du Salvador qu'il cesse d'utiliser le bitcoin comme monnaie légale. Le président du Salvador a répondu à la mise en garde du FMI par un mème des Simpson sur Twitter → https://zdnet.fr/actualites/salvador-39936327.htm
+- [Engadget] YouTube considers jumping on the NFT bandwagon. Susan Wojicki said Web3 has been a ‘source of inspiration.’ → https://www.engadget.com/youtube-ceo-creators-monetize-nfts-140013516.html
+- [VICE Motherboard] Simps are organizing to worship women with their crypto. Fans of influencers—including Belle Delphine, Dua Lipa, Pokimane, Amouranth, and Irene Zhao—are organizing "simp DAOs," with or without permission → https://www.vice.com/en/article/m7v34p/simp
+- [Coin Telegraph] IreneDAO NFTs causing a stir on crypto Twitter.  The crypto influencer and model’s fan club DAO is guided by its core values “Simplicity, Integrity, Meaning, and Purpose,” or SIMP → https://cointelegraph.com/news/irenedao-nfts-causing-a-stir-on-crypto-twitter
+- [VICE Motherboard] NSFW: Paris Hilton and Jimmy Fallon discuss NFTs in twisted clip. The pair pushed the mass delusion that Bored Apes are legitimately cool and not at all just adult Beanie Babies → https://www.vice.com/en/article/bvndna/paris-hilton
+- [Rolling Stones] The NFT art world wouldn’t be The same without this woman’s ‘wide-awake hallucinations’. The Bored Ape Yacht Club lit up the internet — but its lead designer, Seneca, has been watching from the shadows → https://www.rollingstone.com/culture/culture-features/seneca-bored-ape-yacht-club-digital-art-nfts-1280341/
+- [Les Numériques] Le Steam Deck arrive le 25 février → https://lesnumeriques.com/console-de-jeu/-n175623.html
+- [Gamekult] Crysis 4 est officiellement annoncé → https://gamekult.com/actualite/-3050846429.html
+
+
+
+
 - [Les Numériques] 
 - [ZDNet France] 
 - [CNET France] 
 - [Ars Technica] 
 - [The Verge] 
 - [XDA Developers] 
+- [VICE Motherboard] 
 - [Engadget] 
 - [AnandTech] 
 
