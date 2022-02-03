@@ -3053,7 +3053,93 @@ raids : lesnumeriques => marmiton_officiel
 - Bacti Count → https://bacticount.com/
 - [Gizmodo] Researchers Develop COVID Test That Uses a Smartphone to Gets Results on the Cheap. It's a tenth of the price of your average PCR test—and possibly just as accurate. → https://gizmodo.com/covid-1848443324
 
-raids : lesnumeriques => alletattoo => ohmannaggia_laeli => VeaLaErre => TeknoPandaITA => GoodWind83 => dr_thanatos78 => MissSoleOscuro
+raids : lesnumeriques => alletattoo => ohmannaggia_laeli => VeaLaErre => TeknoPandaITA => GoodWind83 => dr_thanatos78 => MissSoleOscuro.
+
+
+--------------------------------------
+2022-02-01
+
+- Beauty and the Mask → https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7489620/
+- [WCCFTech] BOE reveals 27-inch FHD 500 Hz+ gaming display, the world’s highest refresh rate ever in a display → https://wccftech.com/boe-reveals-27-inch-fhd-500-hz-gaming-display-the-worlds-highest-refresh-rate-ever-in-a-display/
+- Chord Mojo 2 ¬ https://chordelectronics.co.uk/mojo-2
+- [The Verge] Peloton’s latest gadget is a $90 heart rate monitor for your arm. The wearable accessory is the company’s first optical heart rate monitor → https://theverge.com/2022/1/31/22906352/
+- Monte Carlo analysis of optical heart rate sensors in commercial wearables: the effect of skin tone and obesity on the photoplethysmography (PPG) signal → https://pubmed.ncbi.nlm.nih.gov/35003845/
+- [Les Numériques] Brandt connecte son four encastrable BOP7542X à un smartphone → https://lesnumeriques.com/four-encastrable/-n175855.html
+- [Les Numériques] Arc Alchemist : Intel promet des cartes graphiques disponibles en masse → https://lesnumeriques.com/carte-graphique/-n175807.html
+- [Les Numériques] App Store : fin du référencement automatique pour les applications → https://lesnumeriques.com/mobilite/-n175841.html
+- [Counterpoint] Global Annual Smartphone Market Grew for the First Time Since 2017; Record Annual Shipments for Apple → https://www.counterpointresearch.com/global-annual-smartphone-market-grew-first-time-since-2017-record-annual-shipments-apple/
+- [CNET France] Apple : une belle croissance en Europe qui lui permet d’avoir la plus grosse part de marché de son histoire. Une année 2021 qui aura été pleine de surprises dans l’univers des smartphones → https://www.cnetfrance.fr/news/smartphones-39936599.htm
+- [WCCFTech] Craob X: An Intel Alder Lake CPU-based laptop that is completely wireless & void of any connectors → https://wccftech.com/craob-x-an-intel-alder-lake-cpu-based-laptop-that-is-completely-wireless-void-of-any-connectors/
+- [Les Numériques] Craob X, le premier ordinateur portable sans ports et sans-fil dévoilé → https://lesnumeriques.com/ordinateur-portable/-n175831.html
+- [Les Numériques] Test Casque gaming Trust Ziva : faut-il vraiment dépenser 20 € ? → https://www.lesnumeriques.com/casque-gaming-micro/trust-gaming-ziva-p67175/test.html
+- [CNET France] Lidl lance un vélo électrique à moins de 1000€, un futur best-seller ? Un vélo électrique plutôt bien équipé à moins de 1 000€. → https://cnetfrance.fr/news/lidl-39936559.htm
+- BlackBerry Agrees to Sell Legacy Patents for $600M → https://www.blackberry.com/us/en/company/newsroom/press-releases/2022/blackberry-agrees-to-sell-legacy-patents-for-600m
+- [Ars Technica] BlackBerry sells mobile and messaging patents for $600 million. The buyer, "Catapult IP Innovations," will have to monetize these patents somehow → https://arstechnica.com/gadgets/2022/01/blackberry-sells-mobile-and-messaging-patents-for-600-million/
+- [The Verge] Grindr reportedly disappears from app stores in China. The LGBTQ dating app has been removed from Apple and popular Android app stores → https://theverge.com/2022/1/31/22910129/
+- [9to5Mac] Grindr is gone from the Chinese App Store, and Apple didn’t remove the dating app → https://9to5mac.com/2022/01/31/grindr-removed-from-app-store-china/
+- [ZDNet France] Cybersécurité : Les JO de Pékin font craindre le pire aux gouvernements occidentaux. C'est au tour du FBI d'exhorter les athlètes occidentaux à laisser leurs appareils personnels chez eux lorsqu'ils iront aux Jeux olympiques d'hiver 2022, qui se tiendront à Pékin à compter du 4 février → https://www.zdnet.fr/actualites/cybersecurite-39936607.htm
+- [Facebook] More Options, More Platforms and Super Bowl LVI Shirts for Avatars → https://about.fb.com/news/2022/01/updates-to-avatars/
+- [Twitter - Elodie Perthuisot] On vient de récupérer les clés, c’est officiel : Carrefour est l’heureux propriétaire d’un beau terrain dans le #metaverse → https://twitter.com/elodieperthuiso/status/1488044270380625924
+- [CNET France] Codes Netflix : comment trouver rapidement vos films et séries préférés. Sur Netflix, des codes "secrets" permettent d'accéder plus rapidement aux catégories de séries et films qui vous intéressent. Romance, science-fiction, comédie, thriller, film d'animation ou cinéma français... Voici la liste complète des catégories connues à ce jour sur la plateforme de streaming SVoD → https://cnetfrance.fr/produits/netflix-39880405.htm
+- XKCD - What If? → https://what-if.xkcd.com/
+- What If? 2 → https://xkcd.com/what-if-2/
+- Tu mourras moins bête → http://tumourrasmoinsbete.blogspot.com/
+- 🇺🇸 [Kotaku] Xbox Game Pass will soon stop taking money from inactive accounts. Microsoft's service should be more upfront about auto-renewal and refunds, too → https://kotaku.com/xbox-1848444299
+- [Gamekult] Preview : Vampire Survivors, dans mes veines, par Pipomantis → https://www.gamekult.com/jeux/vampire-survivors-3050885009/preview-3050846465.html
+- [VICE Motherboard] How ‘Vampire Survivors’ went from obscurity to 27,000 people playing at once. Designer Luca Galante just wanted a little community to manage. Instead, they ended up with 2022's first surprise hit → https://www.vice.com/en/article/z3nyze/vampire-survivors
+- 🇫🇷 [Gamekult] La marque SEGA va finalement disparaître du paysage de l'arcade. Sega a cédé la totalité de sa filiale arcade à GENDA → https://gamekult.com/actualite/-3050846499.html
+- 🇺🇸 [Games Industry] Sega exits the arcade business after 56 years. Publisher sells remaining 14.9% of shares to Genda, all arcades will be rebranded as GiGO → https://cutt.ly/QOohYG8
+- The New York Times Buys Wordle. The word game, released in October, has millions of daily users. → https://www.nytimes.com/2022/01/31/business/media/new-york-times-wordle.html
+
+- [Gamekult] Sony Interactive Entertainment annonce l'acquisition de Bungie pour 3,6 milliards de dollars. Les jeux Bungie resteront multiplateforme → https://gamekult.com/actualite/-3050846573.html
+- [PlayStation blog] Bungie is Joining PlayStation → https://blog.playstation.com/2022/01/31/bungie-is-joining-playstation/
+- [VGC] Sony is buying Destiny creator Bungie for $3.6bn. The Halo developer will become “an independent subsidiary” and release multiplatform games → https://www.videogameschronicle.com/news/sony-is-buying-destiny-creator-bungie-for-3-6bn/
+- [The Verge] Sony is buying Bungie, the developer of Destiny and original creator of Halo. The deal is worth $3.6 billion → https://www.theverge.com/22910846/sony-bungie-acquisition-playstation-destiny-halo
+- [Kotaku] Sony Buys Bungie, Makers of Destiny 2 For $3.6B. The PS5 manufacturer says games will remain multiplatform → https://kotaku.com/sony-ps5-destiny-2-bungie-playstation-microsoft-xbox-ex-1848453326
+
+- [Engadget] The FTC is set to review Microsoft's $68.7 billion Activision takeover. According to 'Bloomberg,' the investigation will focus on how the purchase could harm rivals → https://www.engadget.com/ftc-microsoft-687-billion-activision-takeover-080920546.html
+
+raids : lesnumeriques => marmiton_officiel.
+
+
+--------------------------------------
+2022-02-02
+
+- [Les Numériques] Chandeleur : notre sélection de crêpières pour réussir les recettes Marmiton → https://lesnumeriques.com/crepiere-electrique/-n175935.html
+- [Les Numériques] Tuto – Comment entretenir sa machine à café ? → https://www.lesnumeriques.com/electromenager/-a175721.html
+- 🇫🇷 [Gamekult] Electronic Arts : Apex Legends, FIFA et Madden font oublier l'échec de Battlefield 2042. Un chiffre d'affaires record malgré tout → https://gamekult.com/actualite/-3050846617.html
+- 🇫🇷 [Gamekult] Résultats Sony : la pénurie freine les ambitions de la PS5, pas les bénéfices. Sony a écoulé 17,3 millions de PlayStation 5 → https://gamekult.com/actualite/-3050846619.html
+- [AnandTech] AMD Reports Q4 2021 and FY 2021 Earnings: Turning Silicon Into Gold → https://www.anandtech.com/show/17237/
+- [GizmoChina] Chromebook shipments down by 63.6% in Q4 2021: Report → https://www.gizmochina.com/2022/01/31/chromebook-shipments-down-63-6-q4-2021/
+- [The Verge] Gaming-focused Chromebooks are in the works. Steam on Chrome OS could soon become a reality → https://www.theverge.com/2022/1/27/22904183/
+- [The Verge] YouTube’s video player is getting a new look on Android and iOS → https://www.theverge.com/2022/2/1/22913199/
+- [Out of Office Hours] The overhead of Edge on Windows 11 (and 10) → https://oofhours.com/2022/01/31/the-overhead-of-edge-on-windows-11-and-10/
+- 🇺🇸 [Games Industry] Team17 drops Worms NFT project. Publisher backtracks after backlash from players, development partners → https://cutt.ly/aOmIAAK
+- 🇺🇸 [VGC] Team17 has swiftly cancelled its Worms NFT plans following a backlash. “We have listened to our teamsters, development partners, and our games’ communities” → https://cutt.ly/AOmIWO6
+
+
+--------------------------------------
+2022-02-03
+
+- [Les Numériques] Étoile des lecteurs 2022 – Votez pour votre produit préféré en audio → https://lesnumeriques.com/tv-video/-n175945.html
+- [Engadget] Microsoft has reportedly killed its plans for the HoloLens 3. And its mixed reality team is divided on what its strategy should be. → https://www.engadget.com/microsoft-reportedly-killed-plans-for-hololens-3-080308825.html
+- [Les Numériques] Les Samsung Galaxy S22 pourraient sortir plus tard que prévu → https://lesnumeriques.com/telephone-portable/-n175921.html
+- [NewAtlas] Koenigsegg aims to reinvent electric drive with new Raxial Flux motors → https://newatlas.com/automotive/koenigsegg-quark-electric-motor/
+- [Gamekult] Nintendo a distribué 103,5 millions de Switch, dont plus de 10 millions au dernier trimestre → https://gamekult.com/actualite/-3050846653.html
+- [Twitter - Oscar Lemaire] Il est l’heure du bilan financier de Nintendo, c’est parti pour le thread. → https://twitter.com/oscarlemaire/status/1489134909721661443
+- Meta to Announce Fourth Quarter and Full Year 2021 Results → https://s21.q4cdn.com/399680738/files/doc_news/Meta-to-Announce-Fourth-Quarter-and-Full-Year-2021-Results-2022.pdf
+- [Les Numériques] Pegasus : NSO Group bientôt sous pavillon américain ? → https://lesnumeriques.com/pro/-n175797.html
+- [Ars Technica] NSO tried to buy access to cell networks for “bags of cash,“ whistleblower says. "We drop bags of cash at your office": NSO allegedly sought access to SS7 network. → https://arstechnica.com/tech-policy/2022/02/report-nso-offered-us-firm-bags-of-cash-for-help-spying-on-cellphone-users/
+- [Washington Post] FBI acknowledges it tested NSO Group’s spyware. The agency says it never used the spyware in an investigation  → https://www.washingtonpost.com/technology/2022/02/02/pegasus-fbi-nso-test/
+-  Reverse Engineering Wordle → https://reichel.dev/blog/reverse-engineering-wordle.html
+
+- [Les Numériques] Test Huawei P50 Pocket : un smartphone pliant désirable, qui fait encore trop de concessions → https://www.lesnumeriques.com/telephone-portable/huawei-p50-pocket-p66661/test.html
+- [Les Numériques] Test Huawei P50 Pro : entre expérience premium et regrettables compromis → https://www.lesnumeriques.com/telephone-portable/huawei-p50-pro-p62485/test.html
+
+- [Les Numériques] Test Framework : un PC portable qui mise beaucoup sur la modularité et l'évolutivité → https://www.lesnumeriques.com/ordinateur-portable/framework-professional-p67245/test.html
+- Framework - marketplace → https://frame.work/marketplace
+
+raids : lesnumeriques => marmiton_officiel.
 
 
 
