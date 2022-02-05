@@ -3142,6 +3142,48 @@ raids : lesnumeriques => marmiton_officiel.
 raids : lesnumeriques => marmiton_officiel.
 
 
+--------------------------------------
+2022-02-04
+
+- CPS Test → https://cpstest.org/
+- [Les Numériques] UX3000/ZE3000 : Final Audio se lance dans l’audio sans-fil avec un casque et une paire d’écouteurs true wireless → https://lesnumeriques.com/intra-ecouteur-true-wireless/-n176013.html
+- [Les Numériques] Alpha 80 Evo et Twin Evo : la famille d’enceintes de monitoring s’agrandit chez Focal → https://lesnumeriques.com/enceinte-de-monitoring/-n175979.html
+- [Protocol] Sonos buys Bluetooth audio startup to build better headphones. T2 Software was working on the new Bluetooth LE Audio standard; Sonos appears to be looking for an ad agency for its headphones launch.  → https://www.protocol.com/entertainment/sonos-bluetooth-audio-t2-software
+- Garmin - inReach Mini 2, 400 € → https://www.garmin.com/fr-FR/p/765374
+- [The Verge] Joby’s Spin and Swing gadgets let you add a little motion to smartphone videos. Tiny sliders and motion control heads → https://www.theverge.com/2022/2/1/22912852/
+  - 90 $ le Spin, 130 $ le Swing
+- [Les Numériques] AMD compte bien sécuriser son approvisionnement en CPU Ryzen 7000 et GPU Radeon RX 7000 → https://lesnumeriques.com/cpu-processeur/-n176069.html
+- [Les Numériques] HP Pavilion Aero 13 : un PC portable de moins de 1 kg à prix attractif → https://lesnumeriques.com/ordinateur-portable/-n175903.html
+- [Les Numériques] Corsair MP600 Pro LPX : des SSD taillés pour la PS5 de Sony → https://lesnumeriques.com/ssd/-n175931.html
+- [Les Numériques] Les smartphones durcis Crosscall visent durabilité et fabrication française → https://lesnumeriques.com/telephone-portable/-n175927.html
+- [Les Numériques] Realme 9 Pro et 9 Pro+ : de la 5G et des couleurs changeantes attendues le 16 février → https://lesnumeriques.com/telephone-portable/-n176053.html
+- [CNET France] Samsung Galaxy Tab S8, S8+ et S8 Ultra : la fuite ultime avant la présentation. Les caractéristiques techniques des nouvelles tablettes de Samsung ont été dévoilées et elles envoient du lourd → https://www.cnetfrance.fr/news/samsung-39936733.htm
+- [WinFuture] Galaxy A53: Samsung legt Erfolgs-Smartphone neu auf - Bilder & Infos → https://winfuture.de/news,127870.html
+- [Les Numériques] Elops 920 E Connect, le premier vélo électrique connecté de Decathlon pour lutter contre le vol → https://lesnumeriques.com/velo-electrique/-n175885.html
+- [Gran Fondo] ROSE BACKROAD 2020 first ride review – a direct-to-consumer gravel disco → https://granfondo-cycling.com/rose-backroad-2020-review/
+- [Les Numériques] Test Scooter électrique BMW CE 04 : vous avez dit disruptif ? → https://www.lesnumeriques.com/scooter/bmw-ce-04-p64175/test.html
+- [Les Numériques] Range Rover : une batterie d'une capacité record pour les versions hybrides rechargeables → https://lesnumeriques.com/voiture/-n175907.html
+- Scuderia Cameron Glickenhaus → https://glickenhausracing.com/
+- [Uncrate] SCG Hydrogen Fuel Cell Boot One Truck → https://uncrate.com/scg-hydrogen-fuel-cell-boot-one-truck/
+- [Ars Technica] This is Airstream’s idea of a battery-powered EV travel trailer. This concept won't go into production, but many of the ideas might → https://arstechnica.com/cars/2022/02/airstream-imagines-its-first-electric-trailer-the-estream-concept/
+- [The Verge] Congress is still spinning its wheels on autonomous vehicle regulation. The first hearing on AVs in two years didn’t yield much progress → https://www.theverge.com/2022/2/3/22916045/
+- [Ars Technica] Next-gen USPS mail trucks are only capable of 8.6 mpg, EPA says. It's claimed the USPS did not consider environmental impacts as required by law → https://arstechnica.com/cars/2022/02/the-epa
+- [Ars Technica] USPS picks a new mail truck—and no, they won’t all be electric. Oshkosh Defense will design and build 50,000-165,000 NGDV trucks over 10 years → https://arstechnica.com/cars/2021/02/usps
+- [BBC] Jeff Bezos' superyacht will see historic bridge dismantled → https://www.bbc.com/news/world-europe-60241145
+- [Engadget] Jeff Bezos will have Rotterdam dismantle a bridge so his superyacht can pass through. Tell me you have too much money without telling me you have too much money → https://www.engadget.com/jeff-bezos-superyacht-rotterdam-bridge-171035670.html
+- [Les Numériques] Starlink Premium : l'accès à Internet par satellite de SpaceX plus rapide, disponible… et beaucoup plus cher → https://lesnumeriques.com/vie-du-net/-n176073.html
+- [Next Impact] Pour Patrick Drahi, la neutralité du Net « est une énorme bêtise » → https://www.nextinpact.com/article/49704/neutralite-net
+- [Les Numériques] Spotify franchit la barre des 400 millions d’utilisateurs, mais le ralentissement de sa croissance inquiète → https://lesnumeriques.com/pro/-n176065.html
+- [Wired 2021.01.26] North Korea Targets—and Dupes—a Slew of Cybersecurity Pros. The sweeping campaign took advantage of the collaborative spirit among researchers, with an unknown number of victims → https://www.wired.com/story/north-korea-hackers-target-cybersecurity-researchers/
+- [Wired 2022.02.02] North Korea Hacked Him. So He Took Down Its Internet. Disappointed with the lack of US response to the Hermit Kingdom's attacks against US security researchers, one hacker took matters into his own hands → https://www.wired.com/story/north-korea-hacker-internet-outage/
+- [Gamekult] Les Pégases dévoilent les nommés pour son édition 2022. Deux nouvelles catégories entrent en jeu → https://gamekult.com/actualite/-3050846687.html
+- [The Verge] A tiny DJI drone smuggled its own weight in drugs over the US border wall. The DEA wants to search it → https://www.theverge.com/2022/2/3/22916246/
+- [CNBC] Anduril Industries acquires Dive Technologies. Anduril Industries founder Palmer Luckey discusses the growth of unmanned weapons and his company’s acquisition of Dive Technologies → https://www.cnbc.com/video/2022/02/02/anduril-industries-acquires-dive-technologies.html
+- [VICE Motherboard] This Company Wants to Sell High-Tech Lasso Weapons to Schools and Hospitals. Wrap Technologies is trying to make its BolaWrap lasso device available to teachers and private security → https://www.vice.com/en/article/m7vpjb/lasso
+
+raids : lesnumeriques => Ultia => NoemieStinguette (24 h)
+
+
 
 
 - [Les Numériques] 
