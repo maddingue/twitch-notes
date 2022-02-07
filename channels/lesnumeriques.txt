@@ -3184,6 +3184,38 @@ raids : lesnumeriques => marmiton_officiel.
 raids : lesnumeriques => Ultia => NoemieStinguette (24 h)
 
 
+--------------------------------------
+2022-02-07
+
+- [Les Numériques] Philips Hue : de nouveaux éclairages pour l'extérieur et des effets supplémentaires dans l'application → https://lesnumeriques.com/ampoules-luminaires-connectes/-n176155.html
+- Comcast NBCUniversal to Provide Live 8K Virtual Reality Coverage of the 2022 Winter Olympics → https://corporate.comcast.com/press/releases/comcast-nbcuniversal-8k-virtual-reality-2022-winter-olympics
+- [Oculus] Introducing a Personal Boundary for Horizon Worlds and Venues → https://www.oculus.com/blog/introducing-a-personal-boundary-for-horizon-worlds-and-venues/
+- [Les Numériques] Un nouveau prototype de GPU Intel Arc fait surface → https://lesnumeriques.com/carte-graphique/-n176163.html
+- [Les Numériques] AMD prévoit un rafraîchissement de ses Radeon RX 6000 XT pour avril → https://lesnumeriques.com/carte-graphique/-n176147.html
+- [Engadget] Apple’s new entry-level MacBook Pro may not include a ProMotion display. The company will reportedly release four M2-powered Macs in 2022 → https://www.engadget.com/macbook-pro-m2-chip-no-promotion-display-report-173914857.html
+- [ABC News] Tesla recall: 'Full Self-Driving' software runs stop signs. Tesla is recalling nearly 54,000 vehicles because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt → https://abcnews.go.com/Technology/wireStory/tesla-82596066
+- [Les Numériques] Bornes de recharge : Tesla autorise l'accès à certains Superchargeurs français → https://lesnumeriques.com/voiture/-n175875.html
+- [Les Numériques] Marché automobile français 2022 : un mois de janvier en berne sauf pour l’électrique → https://lesnumeriques.com/voiture/-n176039.html
+- [Les Numériques] Skoda Enyaq Coupé iV : le SUV électrique tchèque se muscle → https://lesnumeriques.com/voiture/-n175847.html
+- [Les Numériques] Lotus Type 135 : la cousine de la future Alpine électrique s’annonce → https://lesnumeriques.com/voiture/-n175997.html
+- [Les Numériques] Jaguar va développer sa propre plateforme électrique → https://lesnumeriques.com/voiture/-n176081.html
+- [Les Numériques] Le spécialiste de l’hypercar Koenigsegg développe le Quark, un moteur électrique de poche de 335 ch → https://lesnumeriques.com/voiture/-n176099.html
+- [Les Numériques] Les GAFA arrosent les think tanks américains pour contrer les législations antitrust de Washington → https://lesnumeriques.com/pro/-n175995.html
+- [Les Numériques] Un projet de loi américain pourrait changer le fonctionnement de l’App Store d'Apple → https://lesnumeriques.com/telephone-portable/-n176171.html
+- [Ars Technica] Apple shocks iOS developers with 27% commission on third-party payments. Netherlands policy may show how Apple will comply with new laws in rest of world. → https://arstechnica.com/tech-policy/2022/02/apple-shocks-ios-developers-with-27-commission-on-third-party-payments/
+- [...]
+- [Les Numériques] Arrêter Facebook et Instagram en Europe, le coup de bluff de Mark Zuckerberg → https://lesnumeriques.com/vie-du-net/-n176247.html
+- [Ars Technica] A fight over the right to repair cars turns ugly. Massachusetts Subaru and Kia dealers disabled remote start and maintenance alerts → https://arstechnica.com/cars/2022/02/a-fight-over-the-right-to-repair-cars-turns-ugly/
+- [BuzzFeed] We found the real names of Bored Ape Yacht Club’s pseudonymous founders. The buzzy NFT collection has raked in millions and the eager support of dozens of celebrities. But its founders’ anonymity raises questions about accountability in the age of crypto → https://www.buzzfeednews.com/article/katienotopoulos/bored-ape-nft-founder-identity
+- [Les Numériques] Chronologie des médias : c'est quoi ce système qui fait trembler Netflix et Canal+ ? → https://lesnumeriques.com/vie-du-net/-a175843.html
+- [The Direct] Disney+ exec accidentally reveals Obi-Wan Kenobi release date month → https://thedirect.com/article/disney-obi-wan-kenobi-release-date-month
+- [Les Numériques] Netflix, Disney+, Prime Video… Que verra-t-on sur les plateformes de streaming en 2022 ? → https://lesnumeriques.com/vie-du-net/-a174215.html
+- [The Streamable] Amazon Prime raising annual price 16% to $139, standalone Prime video price not changing → https://thestreamable.com/news/amazon-prime-raising-annual-price-16-percent
+
+raids : lesnumeriques => Clara_Doxal => azox360
+
+
+
 
 
 - [Les Numériques] 
