@@ -3215,6 +3215,45 @@ raids : lesnumeriques => Ultia => NoemieStinguette (24 h)
 raids : lesnumeriques => Clara_Doxal => azox360
 
 
+--------------------------------------
+2022-02-08
+
+- [ZDNet France] Nvidia/Arm : le rêve touche à sa fin. En 2020, Nvidia annonçait son intention d'acquérir Arm pour 40 milliards de dollars. Les régulateurs et les acteurs du secteur s'inquiétaient alors pour la concurrence. Mais moins de deux ans plus tard, Nvidia semble prête à jeter l'éponge → https://www.zdnet.fr/actualites/nvidia-arm-39936993.htm
+- [AnandTech] The Noctua NH-P1 Passive CPU Cooler Review: Silent Giant → https://www.anandtech.com/show/17240/
+- [XDA Developers] These are the best mini-ITX PC cases you can buy in 2022 → https://www.xda-developers.com/best-mini-itx-cases/
+- [The Verge] Designers spend months making custom keycaps, then the counterfeits arrive. Keycap clones are readily available, affordable, and shameless → https://www.theverge.com/22905351/mechanical-keyboard-keycap
+- [Les Numériques] Apple iPhone SE 2022 et iPad Air 5G : vers une présentation en mars → https://lesnumeriques.com/telephone-portable/-n176261.html
+- [Les Numériques] Dalle Amoled QHD+, Snapdragon 8 Gen 1… L'Oppo Find X5 Pro se dévoile → https://lesnumeriques.com/telephone-portable/-n176253.html
+- [ZDNet France] Les futurs smartphones de Samsung fabriqués à partir de... filets de pêche recyclés. Samsung va présenter de nouveaux smartphones intégrant des plastiques recyclés provenant de l'océan. Le géant coréen souhaite généraliser le recours à des matériaux recyclés dans sa fabrication d'ici à 2025 → https://www.zdnet.fr/actualites/samsung-39936959.htm
+- [Les Numériques] L’Europe souhaiterait revoir l’homologation très optimiste des voitures hybrides rechargeables → https://lesnumeriques.com/voiture/-n176241.html
+- [Nikkei Asia] Nissan to end most development of new gasoline engines. Exclusive: Automaker to continue limited work on pickups for the U.S. in shift to EVs → https://asia.nikkei.com/Business/Automobiles/Nissan-to-end-most-development-of-new-gasoline-engines
+- [CNBC] Tesla cut a steering component from some cars to deal with chip shortage, sources say → https://www.cnbc.com/2022/02/07/tesla-cut-a-steering-component-to-deal-with-chip-shortage.html
+- [Business Insider] More than 1,000 Dutch residents plan to throw rotten eggs at Jeff Bezos' superyacht if it ends up forcing a historic bridge be dismantled for it to pass through → https://www.businessinsider.in/tech/news/more-than-1000-dutch-residents-plan-to-throw-rotten-eggs-at-jeff-bezos-superyacht-if-it-ends-up-forcing-a-historic-bridge-be-dismantled-for-it-to-pass-through/articleshow/89356031.cms
+- [Les Numériques] L'État passe le montant de l'aide à l'équipement très haut débit non filaire à 300 € → https://lesnumeriques.com/mobilite/-n176263.html
+- [CNET France] Orange prépare l'après ADSL et annonce la fermeture de son réseau cuivre. L'opérateur historique se donne huit années pour fermer son réseau cuivre et basculer les abonnés sur la fibre → https://cnetfrance.fr/news/orange-39936955.htm
+- [BFM TV] Fin d'Instagram et Facebook en Europe: Meta tempère sa mise en garde → https://www.bfmtv.com/tech/facebook-garde_AN-202202070361.html
+- [Les Numériques] Arrêter Facebook et Instagram en Europe, le coup de bluff de Mark Zuckerberg → https://lesnumeriques.com/vie-du-net/-n176247.html
+- [New York Times] Peter Thiel to Exit Meta’s Board to Support Trump-Aligned Candidates. The tech billionaire, who has been on the board of the company formerly known as Facebook since 2005, is backing numerous politicians in the midterm elections → https://www.nytimes.com/2022/02/07/technology/peter-thiel-facebook.html
+- [Wired 2021.09.24] The Art of the Thiel. Inside an early Facebook funding meeting, how units of measurement got so messed up, and a mission for mankind → https://www.wired.com/story/plaintext-art-of-the-thiel/
+- [Les Numériques] Peter Thiel finance une start-up de cyberguerre qui a piraté WhatsApp → https://lesnumeriques.com/vie-du-net/-n175999.html
+- [New York Mag] Peter Thiel’s Origin Story His ideology dominates Silicon Valley. It began to form when he was an angry young man → https://nymag.com/intelligencer/article/peter-thiel-silicon-valley-contrarian-max-chafkin.html
+- [Wall Street Journal]  ‘Matrix’ Co-Producer Sues Warner Bros. Over HBO Max Streaming Release. Lawsuit alleges decision to release ‘The Matrix Resurrections’ movie simultaneously on HBO Max and in theaters hurt its box-office performance → https://www.wsj.com/articles/matrix-co-producer-sues-warner-bros-over-hbo-max-streaming-release-11644254583
+- [Spotify 2020.05.19] ‘The Joe Rogan Experience’ Launches Exclusive Partnership with Spotify → https://newsroom.spotify.com/2020-05-19/the-joe-rogan-experience-launches-exclusive-partnership-with-spotify/
+- [The Verge] Spotify CEO Daniel Ek confirms removal of Joe Rogan episodes after n-word video resurfaces. Rogan chose to pull the episodes; Spotify will also spend $100m on content from marginalized groups → https://www.theverge.com/2022/2/6/22921203/
+- [The Verge] Spotify is more confused about Joe Rogan than ever. Mixed messaging everywhere → https://theverge.com/2022/2/7/22921608/
+- [Variety] Neil Young Urges Spotify Employees to Quit: ‘Get Out Before It Eats Up Your Soul’ → https://variety.com/2022/digital/news/neil-young-spotify-employees-quit-1235174122/
+- 🇫🇷 [Gamekult] Rockstar Games confirme que le développement de GTA 6 est "en bonne voie", et rendez-vous le 15 mars pour GTA 5 et GTA Online sur PS5 et Xbox Series → https://gamekult.com/actualite/-3050846717.html
+- 🇺🇸 [Business Inside] EXCLUSIVE: Google is trying to salvage its failing Stadia game service with a new focus on striking deals with Peloton, Bungie, and others under the brand 'Google Stream' → https://cutt.ly/yOJ1Z3B
+- [The Verge] Google Stadia has reportedly been demoted, but it might show up in your Peloton, or let you try free game demos in your web browser → https://theverge.com/2022/2/4/22917999/
+- [Twitter] WORDLE is now running on the Game Boy → https://twitter.com/ghidraninja/status/1490323167985995777
+
+- [YouTube - Gamers Nexus] Valve Steam Deck Hardware Review & Analysis: Thermals, Noise, Power, & Gaming Benchmarks → https://youtu.be/NeQH__XVa64
+- [YouTube - Gamers Nexus] Steam Deck Tear-Down: Build Quality, Disassembly, & VRM Analysis → https://youtu.be/dlsJB3narnk
+- [YouTube - Linus Tech Tips] Valve Left Me Unsupervised: Steam Deck Hardware Review → https://youtu.be/HjZ4POvk14c
+- [YouTube - The Phawx] Steam Deck Preview - I Benchmark The BEAST! Game Demos and Comparisons → https://youtu.be/gxKd0nr6uYw
+
+raids : lesnumeriques => marmiton_officiel => enaolf => inforea => gyrootv
+
 
 
 
