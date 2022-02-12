@@ -3255,6 +3255,81 @@ raids : lesnumeriques => Clara_Doxal => azox360
 raids : lesnumeriques => marmiton_officiel => enaolf => inforea => gyrootv
 
 
+--------------------------------------
+2022-02-09
+
+- 1010 Music - Blackbox, 650 $ → https://1010music.com/product/blackbox
+- [Engadget] Lemondrop and Fireball review: Impossibly small, surprisingly powerful synths. The tiny granular and wavetable synths face stiff competition at $399 → https://www.engadget.com/1010-music-lemondrop-and-fireball-nanobox-synthesizer-review-130035502.html
+- Polyend Tracker → https://polyend.com/
+- [Les Numériques] Des nouvelles ampoules connectées Lexman à utiliser avec les box Enki de Leroy Merlin → https://lesnumeriques.com/ampoules-luminaires-connectes/-n176339.html
+- [Les Numériques] Labo – Des télémètres laser aussi précis de l’entrée au haut de gamme ? → https://lesnumeriques.com/telemetre-laser/-n176125.html
+- [Les Numériques] Semi-conducteurs : le rachat d’ARM par Nvidia officiellement abandonné → https://lesnumeriques.com/pro/-n176321.html
+- [Les Numériques] La GeForce MX550 de Nvidia à peine plus performante qu'un GPU intégré AMD Ryzen 5000 → https://lesnumeriques.com/carte-graphique/-n176357.html
+- ROG Strix TouchStone 显卡外观键帽 → https://www.zfrontier.com/app/mch/B5GWG6RgENal
+- [Les Numériques] Android : jusqu’à quatre ans de mises à jour chez Samsung ? → https://lesnumeriques.com/telephone-portable/-n176361.html
+- [Android Central] Pixel 6 Wi-Fi connectivity issues seem to be plaguing the February update → https://www.androidcentral.com/google-pixel-6-february-update-wi-fi-bluetooth-bugs
+- Apple empowers businesses to accept contactless payments through Tap to Pay on iPhone. Later this year, US merchants will be able to accept Apple Pay and other contactless payments simply by using iPhone and a partner-enabled iOS app → https://www.apple.com/newsroom/2022/02/apple-unveils-contactless-payments-via-tap-to-pay-on-iphone/
+- [Les Numériques] Tuto – Comment transférer vos données d'un iPhone à un smartphone Android ? → https://lesnumeriques.com/telephone-portable/-a176177.html
+- [Les Numériques] Tuto – Comment transférer vos données d'un smartphone Android vers un iPhone ? → https://lesnumeriques.com/telephone-portable/-a175937.html
+- [ZDNet France] SNCF Connect : pourquoi ça râle. Voici pourquoi la nouvelle version de l'application de réservation, de paiement et de suivi de voyage de la SNCF fait face à une avalanche de commentaires forts critiques depuis sa mise en ligne → https://www.zdnet.fr/actualites/sncf-connect-39937013.htm
+- [ZDNet France] La plus ancienne distribution Linux s'offre une mise à jour majeure. La plus ancienne distribution Linux, Slackware, vient de s'offrir une nouvelle expérience de bureau KDE Plasma 5 → https://www.zdnet.fr/actualites/slackware-39937037.htm
+- [Les Numériques] On a testé l'ouverture des Superchargeurs Tesla avec une Cupra Born, et ça fonctionne → https://lesnumeriques.com/voiture/-n176317.html
+- [Les Numériques] Alfa Romeo Tonale : deux niveaux d’hybridation pour le nouveau SUV compact → https://lesnumeriques.com/voiture/-n176365.html
+- [Ars Technica] Alfa Romeo’s first plug-in hybrid crossover comes with an NFT. Can the compact Tonale help reverse the brand's sales decline? → https://arstechnica.com/cars/2022/02/alfa-romeos-first-plug-in-hybrid-crossover-comes-with-an-nft/
+- [Les Numériques] DS E-Tense Performance : un concept électrique de plus de 800 ch → https://lesnumeriques.com/voiture/-n176315.html
+- [CNET France] Avec son Fazzio hybride, Yamaha prend (doucement) le virage de l'électrique. Avant de se lancer sur le marché du 100% électrique avec ses très attendus modèles E01 et EMF, la marque japonaise présente son modèle hybride (et connecté), le Fazzio 125 cm3. Vendu autour de 1300€, ce scooter est pour l'instant réservé au public asiatique → https://www.cnetfrance.fr/news/fazzio-39936995.htm
+- Jeep RX200 Razor Scooter, 400 $ → https://www.gear.jeep.com/jeep-rx200-razor-scooter.html
+- [PR Newswire] Coco, The Leading Robotic Delivery Service, Takes First Step to Nationwide Expansion → https://www.prnewswire.com/news-releases/coco-the-leading-robotic-delivery-service-takes-first-step-to-nationwide-expansion-301477731.html
+- SpaceX updates - geomagnetic storm and recently deployed starlink satellites → https://www.spacex.com/updates/
+- [Les Numériques] Amazon prévoit de recruter 3000 personnes en France en 2022 → https://lesnumeriques.com/pro/-n176355.html
+- [Les Numériques] Google Shopping de nouveau la cible d'une plainte en Europe pour abus de position dominante → https://lesnumeriques.com/vie-du-net/-n176371.html
+- [Wall Street Journal] Peloton CEO John Foley to Step Down, Firm to Cut 2,800 Jobs. Exercise-equipment maker names former Spotify CFO Barry McCarthy as successor, changes board → https://www.wsj.com/articles/peloton-ceo-john-foley-to-step-down-become-executive-chair-11644314403
+- [The Verge] What on Earth is going on with Peloton? All fingers point to outgoing CEO John Foley → https://theverge.com/2022/2/8/22923434/
+- [European Commission] Digital sovereignty: Commission proposes Chips Act to confront semiconductor shortages and strengthen Europe's technological leadership → https://ec.europa.eu/commission/presscorner/detail/en/IP_22_729
+- [USA Today] House passes COMPETES Act bill aimed at boosting US competitiveness with China → https://eu.usatoday.com/story/news/politics/2022/02/04/house-passes-america-competes-act-aimed-competing-china/6641085001/
+- [Engadget] UK revives plans to force age verification for adult content. It's been described as unworkable ever since it was first proposed → https://www.engadget.com/uk-revives-age-verification-online-safety-bill-113839546.html
+- [Engadget] Twitter parts ways with two-factor provider following claims of secret surveillance. A Mitto AG founder allegedly operated a secret surveillance operation → https://www.engadget.com/twitter-parts-ways-two-factor-provider-claims-of-secret-surveillance-080536054.html
+- [US Department of Justice] Two Arrested for Alleged Conspiracy to Launder $4.5 Billion in Stolen Cryptocurrency → https://www.justice.gov/opa/pr/two-arrested-alleged-conspiracy-launder-45-billion-stolen-cryptocurrency
+- [Elliptic] Elliptic follows the $7 billion in Bitcoin stolen from Bitfinex in 2016 → https://www.elliptic.co/blog/elliptic-analysis-bitcoin-bitfinex-theft
+- Razzlekhan → https://razzlekhan.com/ | https://www.youtube.com/channel/UCU6zQo1qSp2EeJ0uiaSPHYA
+- Shenmue sur Crunchyroll → https://www.crunchyroll.com/fr/shenmue-the-animation
+- [Les Numériques] Pour son patron Thomas Follin, “Salto est un succès” → https://lesnumeriques.com/vie-du-net/-a176375.html
+- [Ars Technica] New spinal implant gets paralyzed people up and walking. Software modeling and feedback key to a computer-controlled stride → https://arstechnica.com/science/2022/02/new-spinal-implant-gets-paralyzed-people-up-and-walking/
+- [Nature.com] Activity-dependent spinal cord neuromodulation rapidly restores trunk and leg motor functions after complete paralysis → https://www.nature.com/articles/s41591-021-01663-5
+- [Engadget] Wandercraft's latest exoskeleton lets paraplegics walk with a more natural gait. Its 'Atalante' device just received medical certification in Europe → https://www.engadget.com/wandercrafts-latest-exoskeleton-has-a-more-natural-gait-060009831.html
+
+raids : lesnumeriques => tpk_live => LightningEnki => FatalityFalcon
+
+
+--------------------------------------
+2022-02-10
+
+- [Les Numériques] Test Dégivreur de pare-brise Kärcher Edi4 : la saison de la raclette n'est pas terminée → https://www.lesnumeriques.com/divers-electromenager/kaercher-kaercher-edi4-degivreur-de-pare-brises-sur-batterie-p67383/test.html
+- [Tom's Hardware] Worldwide graphics card supply improves, but high prices linger. Supplies have been improving, but prices are taking the long road down → https://www.tomshardware.com/news/gpu-supply-improves-pricing-still-high
+- [ZDNet France] Tinder : Plus on est vieux, plus ça coûte cher. L'éditeur de Tinder promet toutefois de cesser cette pratique d'ici la fin du deuxième trimestre de cette année → https://zdnet.fr/actualites/tinder-39937107.htm
+- [CNBC] TikTok shares your data more than any other social media app — and it’s unclear where it goes, study says → https://www.cnbc.com/2022/02/08/tiktok-shares-your-data-more-than-any-other-social-media-app-study.html
+- New research across 200 iOS apps hints that surveillance marketing is still going strong → https://app.urlgeni.us/blog/new-research-across-200-ios-apps-hints-surveillance-marketing-may-still-be-going-strong
+- [NewAtlas] Surprising study finds screen use before bed can actually help you sleep → https://newatlas.com/health-wellbeing/screen-time-media-use-sleep-quality/
+- [France Info] Apnée du sommeil : l'Agence du médicament presse Philips de remplacer ses respirateurs défectueux. L'industriel néerlandais a lancé un rappel mondial de ces appareils, dont 370 000 en France, en juin dernier. Mais très peu ont été remplacés jusqu'à présent → https://www.francetvinfo.fr/sante/cancer/apnee-_4949322.html
+- [Ars Technica] Vodafone Portugal struggles to restore service following cyberattack. Ambulance and emergency services are among those suffering from “deliberate” hack → https://arstechnica.com/information-technology/2022/02/vodafone-portugal-struggles-to-restore-service-following-cyberattack/
+- [Les Numériques] QD-Oled : nos premières impressions sur le téléviseur Sony Bravia A95K → https://lesnumeriques.com/tv-televiseur/-n176319.html
+- [Les Numériques] Les Étoiles des Numériques 2021-2022 : c'est à vous de voter ! → https://lesnumeriques.com/vie-du-net/-n176457.html
+- [BFM TV] NFT: 3,5% des Français en ont déjà acheté → https://www.bfmtv.com/tech/AN-202202090091.html
+- [Les Numériques] On a assisté à la première vente aux enchères de NFT dans le métavers. Les Numériques part en méta-reportages → https://www.lesnumeriques.com/vie-du-net/-a176443.html
+- [Gamekult] Xenoblade Chronicles 3, des DLC pour Mario Kart 8… le récap des annonces Switch du Nintendo Direct → https://gamekult.com/actualite/-3050846821.html
+- [Les Numériques] Sony présente Gran Turismo Sophy, une IA capable de rivaliser avec les meilleurs joueurs de GT7 → https://lesnumeriques.com/jeux-video/-n176459.html
+- [VICE Motherboard] Amazon has received $4.7 billion in subsidies globally, Watchdog says. The report highlights how little is known about the cost of Amazon’s expansion to taxpayers around the planet → https://www.vice.com/en/article/jgmvk8/amazon
+- [BFM TV] Spotify supprime les podcasts du militant d'extrême droite Alain Soral → https://www.bfmtv.com/tech/_AN-202202090361.html
+- [Le Monde] Fusion nucléaire : des scientifiques britanniques annoncent un record de production. A quantité égale, la fusion nucléaire permet de produire quatre millions de fois plus d’énergie que le charbon, le pétrole ou le gaz → https://www.lemonde.fr/planete/article/2022/02/09/fusion-nucleaire-_6113000_3244.html
+- [Les Numériques] Les voitures au gaz naturel moins polluantes que les électriques, vraiment ? → https://lesnumeriques.com/voiture/-n176413.html
+- [Deutsche Welle] Chinese 'space cleaner' spotted grabbing and throwing away old satellite. Last month, a private satellite tracking company spotted a Chinese spacecraft apparently grabbing and throwing a dead satellite away into a "graveyard" orbit → https://www.dw.com/en/chinese-space-cleaner/a-60658574
+- [Les Echos] Le grand retour de Disney après la pandémie → https://www.lesechos.fr/tech-medias/medias/-1385861
+- [Univers Freebox] Orange pourrait revendre OCS, Canal+ et Mediawan parmi les candidats → https://www.universfreebox.com/article/517825/
+- [Advanced Television] Whip Media France Survey: 76% say Netflix is the one service to keep → https://advanced-television.com/2022/02/09/whip-media-france-survey-76-say-netflix-is-the-one-service-to-keep/
+
+raids : lesnumeriques => marmiton_officiel.
+
+
 
 
 - [Les Numériques] 
