@@ -3330,6 +3330,51 @@ raids : lesnumeriques => tpk_live => LightningEnki => FatalityFalcon
 raids : lesnumeriques => marmiton_officiel.
 
 
+--------------------------------------
+2022-02-14
+
+- [Les Numériques] QD-Oled : nos premières impressions sur le téléviseur Sony Bravia A95K → https://lesnumeriques.com/tv-televiseur/-n176319.html
+- [Ars Technica] Alienware QD-OLED monitor reveals high price of Samsung’s new tech. Alienware AW3423DW brings rare form factor to OLED monitor options → https://arstechnica.com/gadgets/2022/02/alienware-qd-oled-monitor-reveals-high-price-of-samsungs-new-tech/
+- [Les Numériques] NW-WM1ZM2 et NW-WM1AM2 : Sony renouvelle ses luxueux Walkman → https://lesnumeriques.com/baladeur-audio/-n176519.html
+- [Les Numériques] Sendy Audio présente l’Apollo, son nouveau casque hi-fi magnétique planaire à 500 € → https://lesnumeriques.com/casque-hifi/-n176561.html
+- [Les Numériques] Garmin promet une autonomie illimitée pour sa montre GPS connectée Instinct 2 Solar → https://lesnumeriques.com/montre-connectee/-n176483.html
+- [Les Numériques] Xiaomi coupe les cheveux en quatre avec sa tondeuse Boost → https://lesnumeriques.com/rasoir-electrique/-n176523.html
+- [Les Numériques] Sigma 20mm F2 DG DN Contemporary : un grand-angle lumineux pour hybrides → https://lesnumeriques.com/focales-fixes/-n176335.html
+- [Les Numériques] Intel mise sur l’architecture libre RISC-V → https://lesnumeriques.com/informatique/-n176495.html
+- [AMD] Acquisition de Xilinx par AMD → https://www.amd.com/fr/corporate/xilinx-acquisition
+- [Les Numériques] Ventes de smartphones : Xiaomi encore en forte croissance en France sur l’année 2021 → https://lesnumeriques.com/telephone-portable/-n176511.html
+- [Les Numériques] Xiaomi 12 Ultra : des fuites laissent entrevoir une meilleure autonomie → https://lesnumeriques.com/telephone-portable/-n176385.html
+- [CNET France] OnePlus et Oppo : l'interface unifiée arriverait finalement au second semestre. Le OnePlus 10 Pro devrait toujours s'appuyer sur Oxygen OS → https://www.cnetfrance.fr/news/oneplus-et-oppo-39937053.htm
+- [Les Numériques] Android 13 : Google dévoile un premier aperçu de ses nouveautés → https://lesnumeriques.com/telephone-portable/-n176557.html
+- [MacRumors] Apple's 'realityOS' for rumored AR/VR headset referenced in source code → https://www.macrumors.com/2022/02/09/apple-realityos-ar-vr-headset-reference/
+- [Engadget] Toyota invests another $90 million in EV production in the US. The automaker is also building a $1.29 billion battery plant in North Carolina → https://www.engadget.com/toyota-ev-production-investment-west-virginia-tennessee-172647716.html
+- [Reuters] EXCLUSIVE Ford’s Lincoln brand to launch full slate of electric SUVs by 2026 -sources → https://www.reuters.com/technology/exclusive-fords-lincoln-brand-launch-full-slate-electric-suvs-by-2026-sources-2022-02-10/
+- [Engadget] Biden administration unveils $5 billion plan for EV charging infrastructure. States can apply for the funds to create an 'Alternative Fuel Corridor' on US highways → https://www.engadget.com/biden-administration-unveils-5-billion-plan-or-ev-charging-infrastructure-133022348.html
+- [Les Numériques] Casino s’allie à Tesla pour ouvrir des Superchargeurs sur les parkings de ses supermarchés → https://lesnumeriques.com/voiture/-n176545.html
+- [Les Numériques] MG Motor : un roadster électrique en 2024 pour fêter le centenaire du constructeur → https://lesnumeriques.com/voiture/-n176493.html
+- [Les Numériques] Quand la Scuderia se numérise : Ferrari et Qualcomm s'associent → https://lesnumeriques.com/voiture/-n176399.html
+- [Reuters] Lamborghini hopes for combustion engine future beyond 2030 - CEO → https://www.reuters.com/business/autos-transportation/lamborghini-hopes-combustion-engine-future-beyond-2030-ceo-2022-02-11/
+- [Les Numériques] Cybex Anoris T i-Size : le premier siège auto doté d’un bouclier Airbag → https://lesnumeriques.com/accessoire-voiture/-a175939.html
+- [Les Numériques] Triumph TE-1 : la Speed Triple électrique va entrer en piste → https://lesnumeriques.com/moto/-n176501.html
+- NTIA, NASA, NSF Letter To FCC Regarding Starlink Gen 2 → https://scribd.com/document/557924666/
+- [Les Numériques] Apple va mettre à jour ses AirTag pour prévenir leur usage frauduleux → https://lesnumeriques.com/accessoire-pour-smartphone/-n176541.html
+- Tinder Brings Back The Blind Date With New In-App Experience → https://www.tinderpressroom.com/2022-02-10-Tinder-Brings-Back-The-Blind-Date-With-New-In-App-Experience
+- [Bloomberg] Gay hookup app Grindr tightens privacy for Beijing Olympians → https://www.bloomberg.com/news/articles/2022-02-08/gay-hookup-app-grindr-tightens-privacy-for-beijing-olympians
+- [The Verge] Russian fans of The Sims can’t play My Wedding Stories expansion pack because of anti-gay law. EA won’t sell the game there → https://theverge.com/2022/2/10/22927278/
+- [Gamekult] Test : Horizon Forbidden West, heureux qui comme Aloy → https://www.gamekult.com/jeux/horizon-forbidden-west-3050882351/test.html
+- [Les Numériques] Horizon Forbidden West : Aloy s'aventure en douceur sur PS5 → https://lesnumeriques.com/jeux-video/-a176609.html
+- [Steam] Fichiers de CAO de Steam Deck maintenant disponibles → https://steamcommunity.com/games/1675180/announcements/detail/3106923225208810471
+
+raids : lesnumeriques => KAOsvmd => jules_thieb
+
+
+
+
+- [France Culture] Une histoire de… l'Internet. Un podcast en 8 épisodes de 14 minutes sur l'histoire des internets américain, français, soviétique, chinois → https://www.franceculture.fr/emissions/serie/une-histoire-de-l-internet
+- [France Inter] Le code a changé. Un podcast produit par Xavier de La Porte, sur comment nos vis sont changées par le numérique → https://www.franceinter.fr/emissions/le-code-a-change
+
+
+
 
 
 - [Les Numériques] 
