@@ -3365,14 +3365,24 @@ raids : lesnumeriques => marmiton_officiel.
 - [Les Numériques] Horizon Forbidden West : Aloy s'aventure en douceur sur PS5 → https://lesnumeriques.com/jeux-video/-a176609.html
 - [Steam] Fichiers de CAO de Steam Deck maintenant disponibles → https://steamcommunity.com/games/1675180/announcements/detail/3106923225208810471
 
-raids : lesnumeriques => KAOsvmd => jules_thieb
-
-
-
+raids : lesnumeriques => KAOsvmd => jules_thieb.
 
 - [France Culture] Une histoire de… l'Internet. Un podcast en 8 épisodes de 14 minutes sur l'histoire des internets américain, français, soviétique, chinois → https://www.franceculture.fr/emissions/serie/une-histoire-de-l-internet
 - [France Inter] Le code a changé. Un podcast produit par Xavier de La Porte, sur comment nos vis sont changées par le numérique → https://www.franceinter.fr/emissions/le-code-a-change
 
+
+--------------------------------------
+2022-02-14
+
+- [Les Numériques] Le chiffre du jour : l'actualité tech sur Les Numériques → https://lesnumeriques.com/vie-du-net/-e176725.html
+- [Les Numériques] SpaceX : le premier vol orbital de la mégafusée Starship devrait bien avoir lieu cette année → https://lesnumeriques.com/voitures-co/-n176577.html
+- [Wall Street Journal] Tesla Sued by California Agency for Alleged Racial Discrimination, Harassment. California Department of Fair Employment and Housing says it acted after receiving hundreds of complaints from workers → https://www.wsj.com/articles/tesla-sued-by-california-civil-rights-agency-for-alleged-racial-discrimination-harassment-11644468985
+- [Business Insider] Animal-rights group says monkeys used in experiments for Elon Musk's Neuralink were subjected to 'extreme suffering' → https://www.businessinsider.com/elon-musk-neuralink-experiments-monkeys-extreme-suffering-animal-rights-group-2022-2
+- [TweakTown] GeForce RTX 3090 Ti production halted, trouble in silicon paradise? NVIDIA has reportedly halted production of its new flagship GeForce RTX 3090 Ti graphics card, with AIB partners told to stop → https://www.tweaktown.com/news/83990/
+- [Le Parisien] Présidentielle : pour la Saint-Valentin, les Jeunes avec Macron investissent les applis de rencontre → https://www.leparisien.fr/elections/presidentielle/presidentielle-pour-la-saint-valentin-les-jeunes-avec-macron-investissent-les-appli-de-rencontre-13-02-2022-GUROM67GNREGDHWPRUQUFF4TJ4.php
+- [Les Numériques] La cérémonie des Étoiles des Numériques 2022 en direct sur Twitch → https://lesnumeriques.com/vie-du-net/-n176755.html
+
+raids : lesnumeriques => marmiton_officiel
 
 
 
