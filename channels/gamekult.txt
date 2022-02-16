@@ -14942,10 +14942,19 @@ excuses de sac :
 - si ça se trouve, elle n'a pas été générée cette clé, c'est un bug (Hubert)
 
 
+--------------------------------------
+2022-02-16 - Model Builder
+
+Model Builder, sorti le 8 février 2022
+développé par Moonlit, studio basé à Cracovie 🇵🇱 et Kuba Wójcik, développeur basé à Varsovie 🇵🇱 → https://ModelBuilder.game/
+⌨️ 🖱️ 16,80 € sur Steam (https://cutt.ly/oPfeSVJ)
+Titan Forge - Dwarf Male Cleric, 7,90 € → https://titan-forge.com/titan-forge/343-test-3d-titan-forge.html
+
+
 
 📅 le programme de la semaine → https://cutt.ly/TPiMdil
 📅 mardi 17:30, 
-📅 mercredi 17:30, ModelBuilder (Noddus)
+📅 mercredi 17:30, 
 📅 jeudi 17:30, Horizon Forbidden West (Amaebi)
 📅 vendredi 17:30, KOF XV (Puyo)
 📺 samedi matin, Gamekult l'émission en distanciel
