@@ -3367,9 +3367,6 @@ raids : lesnumeriques => marmiton_officiel.
 
 raids : lesnumeriques => KAOsvmd => jules_thieb.
 
-- [France Culture] Une histoire de… l'Internet. Un podcast en 8 épisodes de 14 minutes sur l'histoire des internets américain, français, soviétique, chinois → https://www.franceculture.fr/emissions/serie/une-histoire-de-l-internet
-- [France Inter] Le code a changé. Un podcast produit par Xavier de La Porte, sur comment nos vis sont changées par le numérique → https://www.franceinter.fr/emissions/le-code-a-change
-
 
 --------------------------------------
 2022-02-14
@@ -3383,6 +3380,50 @@ raids : lesnumeriques => KAOsvmd => jules_thieb.
 - [Les Numériques] La cérémonie des Étoiles des Numériques 2022 en direct sur Twitch → https://lesnumeriques.com/vie-du-net/-n176755.html
 
 raids : lesnumeriques => marmiton_officiel
+
+
+--------------------------------------
+2022-02-16
+
+- [France Inter] Le code a changé. Un podcast produit par Xavier de La Porte, sur comment nos vis sont changées par le numérique → https://www.franceinter.fr/emissions/le-code-a-change
+- [France Culture] Une histoire de… l'Internet. Un podcast en 8 épisodes de 14 minutes sur l'histoire des internets américain, français, soviétique, chinois → https://www.franceculture.fr/emissions/serie/une-histoire-de-l-internet
+- [Les Numériques] Test Écouteurs true wireless Sony LinkBuds : un nouveau concept peu convaincant → https://www.lesnumeriques.com/intra-ecouteur-true-wireless/sony-linkbuds-wf-l900-p67443/test.html
+- Universal Audio → https://www.uaudio.fr/microphones.html
+- Roli reforms as Luminary: what you need to know. Luminary confirms its mission for music learners and creators with new funding → https://roli.com/stories/roli-reforms-as-luminary-what-you-need-to-know
+- [Les Numériques] Le GIFAM souligne une année 2021 exceptionnelle pour l'électroménager → https://lesnumeriques.com/divers-electromenager/-n176681.html
+- [Les Numériques] Le Thermomix TM6 de Vorwerk broie du noir pour ce nouveau coloris en édition limitée → https://lesnumeriques.com/robot-cuiseur-multifonction/-n176715.html
+- [Les Numériques] OM-1 : OM System dégaine un premier boîtier alléchant → https://lesnumeriques.com/reflex-hybride/-n176645.html
+- [ZDNet France] Les ventes de semi-conducteurs ont battu tous les records en 2021. Les ventes de semi-conducteurs ont explosé en 2021, alors même que les fabricants peinent à répondre à une demande qui n'en finit plus de s'envoler → https://www.zdnet.fr/actualites/ventes--39937445.htm
+- [ZDNet France] La FTC se réjouit de l'abandon de la fusion entre Nvidia et Arm. L'agence antitrust américaine a applaudi l'annulation de l'acquisition, elle qui avait déposé une plainte en décembre dernier pour tenter d'empêcher l'opération → https://www.zdnet.fr/actualites/nvidia-arm-39937407.htm
+- [Les Numériques] Intel prêt à débourser 6 milliards de dollars pour s'offrir Tower Semiconductor → https://lesnumeriques.com/pro/-n176753.html
+- [MacRumors] Apple to unveil 13-inch M2 MacBook Pro with unchanged design next month, claims original MacBook Pro 'notch' leaker → https://www.macrumors.com/2022/02/15/apple-13-inch-macbook-pro-m2-march/
+- [CNET France] Apple Keynote : des indices semblent confirmer l'arrivée de nouveaux MacBook. Apple pourrait profiter de sa conférence de printemps pour dévoiler de nouveaux Mac → https://www.cnetfrance.fr/news/apple-keynote-39937387.htm
+- [YouTube - Gamer Nexus] Newegg's Shocking Incompetence → https://www.youtube.com/watch?v=CL-eB_Bv5Ik
+- [Les Numériques] MWC 2022 – Oppo : Find X5 Pro et un partenariat avec Hasselblad pour la partie photo → https://lesnumeriques.com/telephone-portable/-n176771.html
+- [TheElec] 삼성 갤럭시Z폴드4에도 S펜 탑재된다...화면은 7.56인치 → http://www.thelec.kr/news/articleView.html?idxno=16055
+- [XDA Developers] Realme 9 Pro series launched with a 120Hz display and up to 60W fast charging support → https://www.xda-developers.com/realme-9-pro-india-launch/
+- [XDA Developers] Android apps are coming to Windows 11 today, with over a thousand apps → https://www.xda-developers.com/android-apps-are-coming-to-windows-11-today-with-over-a-thousand-apps/
+- [ZDNet France] Raspberry Pi : Cette nouvelle fonctionnalité va vous aider à démarrer plus facilement. Le chargeur de démarrage du Raspberry Pi vous permet désormais d'installer un système d'exploitation à partir du réseau... de quoi vous aider à vous familiariser plus rapidement avec cette machine → https://www.zdnet.fr/actualites/raspberry-pi-39937099.htm
+- [ZDNet France] Raspberry Pi lance un programme pour initier la nouvelle génération au langage Python. Le fabricant d'ordinateurs Raspberry Pi lance un nouveau programme d'initiation pour aider les développeurs en herbe à se familiariser avec le langage de programmation Python → https://www.zdnet.fr/actualites/raspberry-pi-39937357.htm
+- [Cooler Master] Mini-X → https://summit.coolermaster.com/chronos/streaming/mini-x/
+- [XDA Developers] Android 13 DP1 allows Google Pixel 6 to run full-fledged Windows 11 as a VM → https://www.xda-developers.com/android-13-dp1-google-pixel-6-kvm-virtual-machine/
+- [CNET France] Vous ne rêvez pas, ce Google Pixel 6 fonctionne bien sous Windows 11. Un développeur est parvenu à lancer Windows 11 depuis un Google Pixel 6 sous Android 13 bêta → https://www.cnetfrance.fr/news/windows-11-39937379.htm
+- [CNET France] DeLorean, bientôt un retour vers l'électrique ? La mythique DeLorean DMC-12, chère à Michael J. Fox et Giorgetto Giugaro, pourrait réapparaitre prochainement en version électrique → https://www.cnetfrance.fr/news/delorean-39937383.htm
+- [Netflix] Hyperdrive → https://www.netflix.com/fr/title/80189648
+- [Wired] Twitter has started blocking porn in Germany. A number of accounts have been vanished as Twitter bows to pressure to make it harder for children to find adult content online → https://www.wired.com/story/twitter-porn-block-germany-age-verification/
+- Allison Liemhetcharat - Using Biofeedback in my Video Game → https://allison-liem.medium.com/using-biofeedback-in-my-video-game-10919875976a
+
+- 🇫🇷 [Gamekult] Cyberpunk 2077 est désormais disponible sur PlayStation 5 et Xbox Series, avec un essai gratuit de 5 heures → https://gamekult.com/actualite/-3050847015.html
+- 🇺🇸 [VGC] Cyberpunk 2077’s new-gen versions and 1.5 patch are officially out, alongside a free trial. PS5 and Xbox Series X versions include ray-tracing, reworked perk trees, improved NPC AI and more → https://cutt.ly/jPguBsr
+- 🇺🇸 [Kotaku] Cyberpunk 2077's return to consoles is practically a checklist of what everyone mocked. The saving grace for CDPR’s troubled RPG comes at just about the busiest time of the year → https://kotaku.com/cyberpunk-2077-1848537538
+- 🇫🇷 [Gamekult] Test : Sifu, une main de fer dans un gant de plomb, 6/10 par PlugInBaby → https://www.gamekult.com/jeux/sifu-3050883373/test.html
+- 🇫🇷 [Gamekult] Elden Ring dévoile ses configurations PC → https://gamekult.com/actualite/-3050847005.html
+- 🇺🇸 [Kotaku] Dark Souls servers down due to exploit that could give someone control of yourPC. Bandai Namco has turned off all the PC servers for Dark Souls 1, 2, and 3 following reports of a nasty RCE exploit → https://kotaku.com/dark-souls-1848407285
+- [I FIx It]Steam Deck teardown: everything Valve said not to do. Revealed: Valve actually cares about joystick drift → https://fr.ifixit.com/News/57101/steam-deck-teardown
+- [Steam] Fichiers de CAO de Steam Deck maintenant disponibles → https://steamcommunity.com/games/1675180/announcements/detail/3106923225208810471
+- spécifications techniques du Steam Deck → https://www.steamdeck.com/en/tech
+
+raids : lesnumeriques => CanardPC => Modiiie => LibreEtSauvage => Pawm__ => GuildEsports.
 
 
 
@@ -3431,4 +3472,5 @@ clips :
 🎥 la vérité sur les odeurs d'huile dans le studio Gamekult → https://clips.twitch.tv/CredulousManlyPeanutDerp-WBgjjZgX0AWcclAR
 🎥 des bisous à Gamekult et à Hubert → https://clips.twitch.tv/TriumphantPluckySwallowImGlitch-n5-nnJy54t0rd8Hj
 🎥 Le drame de la savonnette Pixel 6 → https://clips.twitch.tv/PowerfulTrustworthyLapwingFailFish-ErPQN9oh5MvH3TOW
+🎥 et c'est le drame ! Lâm renverse son café → https://clips.twitch.tv/GiftedSpoopyHumanTakeNRG-FgDkxOLWxpDOlVGz
 
