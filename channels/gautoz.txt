@@ -9832,6 +9832,63 @@ ne pas être piqué des vers : Cette expression vient du fait que les vers, en t
 raids : Gautoz => At0mium => DocGeraud.
 
 
+--------------------------------------
+2022-02-17
+
+Payer en monnaie de singe : payer en fausse monnaie au lieu de payer réellement ; escroquer ; ne pas payer réellement. Au XIIIe siècle, Saint-Louis décida qu'il faudrait payer une taxe pour emprunter le pont qui, à Paris, reliait l'île de la Cité à la rue Saint-Jacques. Il y avait toutefois une exception à cette règle : les forains, bateleurs ou jongleurs qui possédaient un singe pouvaient, en guise de paiement, faire faire son numéro à leur animal.
+C'est cette forme de paiement particulier qui a donné naissance à notre monnaie de singe. -- https://www.expressio.fr/expressions/payer-en-monnaie-de-singe
+
+Payer en monnaie de singe est une expression française qui évoquait à l'origine une sorte de paiement en nature. Aujourd'hui, elle signifie d'utiliser une monnaie d'échange non convertible en argent voire « ne pas payer », escroquer un créancier. Selon le Livre des métiers du XIIIe siècle, Saint Louis aurait accordé aux montreurs de singes le droit de payer en grimaces ou en tours de passe-passe le péage du Petit-Pont qui relie l’île Notre-Dame au quartier Saint-Jacques.
+-- https://fr.wikipedia.org/wiki/Payer_en_monnaie_de_singe
+
+
+Silt, annoncé pour début 2022, par le studio britannique Spiral Circus → https://SpiralCircusGames.com/
+⌨️ 🖱️ démo gratuite sur Steam : https://store.steampowered.com/app/1325890/
+
+Dome Romantik, annoncé pour 2022, par le studio allemand Bippinbits → https://bippinbits.com/
+⌨️ 🖱️ démo gratuite sur Steam : https://store.steampowered.com/app/1637320/
+
+raids : Gautoz => JVleMag => Flavien_M => CorentinWalou.
+
+
+--------------------------------------
+2022-02-18
+
+
+- 🇫🇷 [Gamekult] Nacon s'offre Daedalic Entertainment pour plus de 50 millions d'euros → https://gamekult.com/actualite/-3050847055.html
+- 🇫🇷 Nacon acquiert Daedalic Entertainment → https://corporate.nacongaming.com/press/daedalic-acquisition/
+
+- 🇺🇸 [Games Industry] Ubisoft holiday quarter drops on tough comparison. Sales down 31% as Far Cry 6 and Riders Republic launches can't match Assassin's Creed Valhalla, Watch Dogs: Legion, and Immortals Fenyx Rising → https://cutt.ly/WPvZba0
+- 🇺🇸 [Kotaku] As billions fly, Ubisoft analyst just wondering why nobody wants to buy it. Stakeholders in Assassin's Creed publisher seem more open to being acquired than in the past → https://kotaku.com/ubisoft-1848557811
+
+- 🇺🇸 [Embracer Group] Interim Report 3 - Operational EBIT increased 86% to SEK 1,119 million → https://embracer.com/wp-content/uploads/2022/02/1536504.pdf
+- 🇫🇷 [Gamekult] Embracer dépasse le milliard en chiffre d'affaires mais encaisse de lourdes pertes. 6 millions de ventes pour Metro Exodus → https://gamekult.com/actualite/-3050847057.html
+- 🇺🇸 [Games Industry] Embracer Group net sales reached $544m during Q3. Gaming firm sees an increase of 135% year-over-year as mobile game developer Easybrain led in revenue → https://cutt.ly/gPvV0BM
+
+- 🇸🇪 [Svenska Dagbladet (paywall)] ”Skyddade honom i stället för mig”. Med flera succéspel har Paradox dragit in miljarder och expanderat snabbt. Men bakom kulisserna är missnöjet utbrett. Paradox är så mycket tystnadskultur det kan bli, säger en person som arbetade på bolaget i tio år. → https://www.svd.se/tystnadskulturen-var-nastan-det-varsta
+- 🇺🇸 [Eurogamer] Paradox publishes external report on studio culture after harassment issues raised last year.  Seeks "transparency" and admits "clear problems" → https://cutt.ly/lPvNNlh
+- 🇬🇧 [PC Gamer] Paradox accepts finding of independent audit, vows to 'leave no stone unturned'. The report was sparked by claims of gender discrimination, and will lead to internal changes → https://cutt.ly/1PvN6UJ
+- 🇸🇪 [Dans industri] Paradox om arbetsmiljöproblemen: ”Vi går nu till botten med det här”. Efter att en extern undersökning visat på flera former av arbetsmiljöproblem på Paradox har gamingbolaget nu tagit fram en åtgärdsplan som stegvis ska genomföras under 2022 → https://cutt.ly/lPvM6FZ
+- 🇺🇸 Gender Balance’s review of Paradox Interactive AB → https://cutt.ly/4Pv1tI0
+
+- 🇺🇸 [Washington Post] Activision Blizzard employees and management clash over union process in Zoom hearing → https://cutt.ly/3Pv1Byo
+
+- 🇬🇧 [PC Gamer] Activision Blizzard lawsuit inches closer to trial with judge's decision to include temp workers → https://cutt.ly/1Pv3NVs
+
+- 🇺🇸 [Kotaku] Bobby Kotick's Police records subpoenaed as harassment investigations ramp up. Los Angeles Police have been asked to hand over any records of 19 current and former Activision employees → https://kotaku.com/bobby-kotick-1848558756
+- 🇺🇸 [Wall Street Journal] Regulators Widen Activision Blizzard Probes Over Workplace Issues. SEC subpoenas more current and former executives; California agency seeks additional information on CEO Bobby Kotick and board’s handling of workplace misconduct allegations → https://cutt.ly/UPv9EEr
+
+- 🇺🇸 [Kotaku] Report: Bobby Kotick has two secret companies making big Republican donations. Activision Blizzard's CEO used secret LLCs to support politicians like Mitch McConnell, a CNBC report claims → https://kotaku.com/bobby-kotick-1848558100
+- 🇺🇸 [CNBC] Activision CEO Bobby Kotick quietly donated to super PAC backing ex-hedge fund chief’s Senate bid → https://cutt.ly/5Pv9D8S
+- 🇺🇸 [CNBC] Activision CEO Bobby Kotick has a second secret company that spent big money to back GOP campaigns → https://cutt.ly/sPv9JBw
+
+
+Mina the Hollower, par Yacht Club Games (Shovel Knight) → https://YachtClubGames.com/games/mina-the-hollower
+💵 Kickstarter en cours → https://cutt.ly/JPbe327
+⌨️ 🖱️ page Steam : https://store.steampowered.com/app/1875580/
+
+raids : Gautoz => Bestmarmotte
+
 
 
 - 🇺🇸 
