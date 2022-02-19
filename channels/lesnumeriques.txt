@@ -3426,6 +3426,67 @@ raids : lesnumeriques => marmiton_officiel
 raids : lesnumeriques => CanardPC => Modiiie => LibreEtSauvage => Pawm__ => GuildEsports.
 
 
+--------------------------------------
+2022-02-17
+
+- [Les Numériques] Et vous, quelle relation entretenez-vous avec votre batterie de smartphone ? → https://lesnumeriques.com/mobilite/-n176751.html
+- [Les Numériques] Les Numériques renouvelle son comparatif de webcams → https://lesnumeriques.com/webcam/-n176769.html
+- [Les Numériques] Harcèlement dans le métavers : Meta instaure un bouclier virtuel → https://lesnumeriques.com/vie-du-net/-n176323.html
+- [AltVR] Making AltspaceVR a Safer Space → https://altvr.com/making-altspacevr-a-safer-space/
+- [Google] Introducing the Privacy Sandbox on Android → https://www.blog.google/products/android/introducing-privacy-sandbox-android/
+- [Science] Chinese scientist who produced genetically altered babies sentenced to 3 years in jail. He Jiankui and two collaborators were found guilty of “illegal medical practices” → https://www.science.org/content/article/chinese-scientist-who-produced-genetically-altered-babies-sentenced-3-years-jail
+
+- [Wired 2013.05.17] Welcome to Google Island → https://www.wired.com/2013/05/on-google-island/
+- [Les Échos 2019.08.30] Peter Thiel et le rêve de l'homme immortel. Le cofondateur de Paypal, qui a investi dans une multitude de pépites devenues des géants de la Silicon Valley, est convaincu que les premiers hommes capables de vivre mille ans sont déjà nés. Et il compte bien figurer parmi les élus… → https://lesechos.fr/idees-debats/sciences-prospective/-1127632
+- [BBC 2013.11.06] Google solves mystery of barges off US coast → https://www.bbc.com/news/technology-24842749
+- [Les Numériques] Implants cérébraux : plainte contre les expériences parfois mortelles de Neuralink sur des primates → https://lesnumeriques.com/vie-du-net/-n176757.html
+
+- [Les Numériques] Horizon Forbidden West : Aloy s'aventure en douceur sur PS5 → https://lesnumeriques.com/jeux-video/-a176609.html
+- [Gamekult] 🔬 Comparatif technique de Horizon Forbidden West, par Furolith → https://cutt.ly/cPiMzNK
+- [Gamekult] test : Horizon Forbidden West, heureux qui comme Aloy, 8/10 par Amaebi → https://cutt.ly/APothtD
+
+excuses de sac :
+- on joue sur l'écran de retour de la régie (Furolith)
+- je suis habitué à jouer avec mon stuff end game (Furolith)
+- on est à 15 années lumières de la console (Furolith)
+
+raids : lesnumeriques => Koka
+
+
+--------------------------------------
+2022-02-18
+
+- [Les Numériques] MWC 2022 – Oppo : Find X5 Pro et un partenariat avec Hasselblad pour la partie photo → https://lesnumeriques.com/telephone-portable/-n176771.html
+- [Les Numériques] 5G, double SIM, microSD : OnePlus revient avec un Nord CE 2 à prix attractif → https://lesnumeriques.com/telephone-portable/-n176845.html
+- [Les Numériques] Realme dévoile ses 9 Pro, 9 Pro+ et 9i → https://lesnumeriques.com/telephone-portable/-n176777.html
+
+- [Les Numériques] Voitures électriques : 2/3 des Français mettent en doute le réseau de charge → https://lesnumeriques.com/voiture/-n176677.html
+- [Les Numériques] Hyundai Ioniq 5 : une nouvelle batterie et de nouveaux rétros → https://lesnumeriques.com/voiture/-n176785.html
+- Continental is Jointly Developing Fully Automatic Charging Robots for Electric Vehicles with Volterio → https://www.continental.com/en/press/press-releases/20220126-charging-robot/
+- [EPA] Application for certification 2022 model year → https://dis.epa.gov/otaqpub/display_file.jsp?docid=54610&flag=1
+- [The Verge] Jaguar Land Rover says all of its cars will come with Nvidia’s Drive computers by 2025 → https://www.theverge.com/2022/2/16/22934920/
+- [Les Numériques] Renault et Valeo nouent un partenariat pour développer un moteur électrique sans terres rares → https://lesnumeriques.com/voiture/-n176889.html
+- [Les Numériques] Voiture électrique : ne dites plus Smart mais Smart # ! → https://lesnumeriques.com/voiture/-n176871.html
+- [Consumer Reports] Best Cars of the Year: 10 Top Picks of 2022.  These exceptional models meet our very highest standards for performance, safety, reliability, and more → https://www.consumerreports.org/cars-best-cars-top-picks-2022/
+- Xpedition Pro → https://xpedition.pro/
+
+- [Ericsson] Update: Iraq media inquiries → https://www.ericsson.com/en/press-releases/2022/2/update-iraq-media-inquiries
+- [ZDNet France] L'état-major d'Ericsson reconnaît avoir versé des "pots-de-vin" à l'Etat islamique. Le PDG d'Ericsson a confirmé ce jeudi que des membres du géant scandinave auraient versé des "pots-de-vin" reçus par des membres de l'Etat islamique en Irak, entre 2011 et 2019 → https://www.zdnet.fr/actualites/ericsson-39937515.htm
+- [Wall Street Journal] Who Is Peloton’s New CEO Barry McCarthy? Silicon Valley veteran took Spotify public and was CFO at Netflix when it shifted from DVDs to streaming → https://www.wsj.com/articles/who-is-pelotons-new-ceo-barry-mccarthy-11644332088
+- [Engadget] Peloton owners can now play a video game while they work out. Lanebreak is the company's new, gamified exercise routine → https://www.engadget.com/peloton-lanebreak-videogame-215537833.html
+- [NextImpact] Les sénateurs ajustent l'obligation de préinstaller un contrôle parental → https://www.nextinpact.com/article/49590/les-senateurs
+- [NextImpact] Contrôle parental installé par défaut : les PC sans système d'exploitation épargnés → https://www.nextinpact.com/article/49872/controle
+- [Les Numériques] Nike porte plainte contre les baskets virtuelles Vault NFT de StockX → https://lesnumeriques.com/vie-du-net/-n176565.html
+
+- [Deadline] ‘Blade Runner 2099’ Live-Action Sequel Series From Ridley Scott, Silka Luisa & Alcon In Works At Amazon Studios → https://deadline.com/2022/02/blade-runner-2099-sequel-series-ridley-scott-amazon-1234931521/
+- [Les Numériques] Le cultissime Bioshock bientôt porté à l'écran par Netflix → https://lesnumeriques.com/vie-du-net/-n176877.html
+- Shin Japan Heroes Universe → https://sjhu.jp/
+
+- [Les Numériques] Meta va créer un centre opérationnel virtuel pour la présidentielle française → https://lesnumeriques.com/vie-du-net/-n176905.html
+
+raids : lesnumeriques => marmiton_officiel
+
+
 
 
 - [Les Numériques] 
