@@ -3487,6 +3487,38 @@ raids : lesnumeriques => Koka
 raids : lesnumeriques => marmiton_officiel
 
 
+--------------------------------------
+2022-02-21
+
+- [Les Numériques] Aspirateurs-balais Dreame : une gamme complète et abordable → https://lesnumeriques.com/aspirateur-balai/-n177009.html
+- [Les Numériques] Une fuite dévoile plus en détail le Motorola Frontier et son capteur de 194 Mpx → https://lesnumeriques.com/telephone-portable/-n177027.html
+- [9to5Google] First details of Pixel 7 and Pixel 7 Pro come roaring out: 2nd-gen Tensor, new Samsung modem → https://9to5google.com/2022/02/18/pixel-7-pro-details-2nd-gen-tensor-samsung-modem/
+- [Bloomberg] Apple Readies New MacBooks and iMacs for Part Three of Overhaul → https://www.bloomberg.com/news/newsletters/2022-02-20/when-will-apple-aapl-launch-a-new-macbook-air-macbook-pro-imac-pro-in-2022-kzvdtgri
+- [Les Numériques] Batterie de smartphone : les bonnes habitudes à prendre pour plus de durabilité → https://lesnumeriques.com/mobilite/-n176963.html
+- [ZDNet France] Quel est le fabricant de smartphones le plus écologique ? Apple ou Samsung ? L'industrie redouble d'efforts pour réduire l'impact environnemental de la production et de l'utilisation des smartphones dans le monde. Voici comment deux des plus grands fabricants de smartphones au monde, Apple et Samsung, font leur part pour préserver notre planète → https://www.zdnet.fr/actualites/ecologie-39937643.htm
+- [VICE Motherboard] The largest lithium-ion battery in the world keeps melting. Ten battery packs melted in an energy storage facility in California, the second meltdown in five months. → https://www.vice.com/en/article/dypw5x/meltdown
+- [Fleetmon] MOL car carrier on fire, abandoned, Atlantic UPDATE Feb 19 → https://www.fleetmon.com/maritime-news/2022/37269/mol-car-carrier-fire-abandoned-atlantic/
+- [FireRescue 2016-12-13] Tesla on fire: How to extinguish an electric car fire → https://www.firerescue1.com/firefighter-training/articles/tesla-n8dDvmqLHqggmoXr/
+- [Les Numériques] 
+- Paris crée une zone apaisée dans le centre de la capitale → https://www.paris.fr/pages/paris-cree-une-zone-apaisee-dans-le-centre-de-la-capitale-20426
+- [ZDNet France] Navigo : le pass virtuel disponible sur iPhone en 2023 (si tout va bien). Les détendeurs d'iPhone et d'Apple Watch pourront bientôt se servir de leurs appareils pour valider leur titre de transport en Île-de-France → https://www.cnetfrance.fr/news/navigo-39937621.htm
+- [Les Numériques] Test Dtape DT50 : un télémètre basique, mais efficace → https://www.lesnumeriques.com/telemetre-laser/dtape-dt50-p67425/test.html
+- [ZDNet France] Un père de famille coupe l'internet de sa ville en voulant priver ses enfants d'accès à la toile. Un père de famille qui voulait couper l'accès de ses enfants à internet a privé par inadvertance sa ville de connectivité. Un accident qui pourrait lui coûter cher → https://www.zdnet.fr/actualites/internet-39937657.htm
+- [Les Numériques] Métavers : 1 personne sur 4 devrait y passer 1 h par jour en 2026 ! → https://lesnumeriques.com/pro/-n176685.html
+- [Les Numériques] Horizon, la plateforme de réalité virtuelle de Meta (Facebook), dénombre 300 000 utilisateurs → https://lesnumeriques.com/vie-du-net/-n177007.html
+- [Reuters] Exclusive: Trump's Truth Social app set for release Monday in Apple App Store, per executive → https://www.reuters.com/world/us/exclusive-trumps-truth-social-app-set-release-monday-apple-app-store-per-2022-02-20/
+- [New York Times] Who Is Behind QAnon? Linguistic detectives find fingerprints. Using machine learning, separate teams of computer scientists identified the same two men as likely authors of messages that fueled the viral movement → https://www.nytimes.com/2022/02/19/technology/qanon-messages-authors.html
+- [Engadget] QAnon founder may have been identified thanks to machine learning. Researchers believe two men were the primary authors of posts attributed to Q → https://www.engadget.com/qanon-machine-learning-205618665.html
+- [Les Numériques] Près d’un Français sur dix a déjà investi dans les cryptomonnaies → https://lesnumeriques.com/pro/-n176775.html
+- [Cryptoast] L'Ukraine offre un statut légal au Bitcoin (BTC) et aux cryptomonnaies → https://cryptoast.fr/ukraine-statut-legal-bitcoin-btc-cryptomonnaies/
+- [Les Numériques] Le FBI crée une unité pour lutter contre la criminalité dans les cryptomonnaies → https://lesnumeriques.com/pro/-n177021.html
+- [Les Numériques] SVoD : en France, on aime les programmes locaux (un peu) plus qu’ailleurs → https://lesnumeriques.com/vie-du-net/-n176505.html
+- [CNBC] Microsoft’s talks with Activision started days after report on sexual misconduct sent stock tumbling → https://www.cnbc.com/2022/02/18/microsofts-activision-talks-started-after-reporting-on-sex-misconduct.html
+- 🇺🇸 [The Verge] Read exactly how Microsoft’s $68.7 billion deal for Activision Blizzard came together. A new SEC filing has a detailed timeline → https://theverge.com/22941636/microsoft
+- [Gamekult] L'esport sur Microsoft Excel existe, et on est partis à la rencontre des champions du monde → https://gamekult.com/actualite/-3050846993.html
+
+raids : lesnumeriques => mariecpalot => KRL_STREAM.
+
 
 
 - [Les Numériques] 
@@ -3506,8 +3538,8 @@ raids : lesnumeriques => marmiton_officiel
 
 ⭐⭐⭐⭐⭐
 SwiftRage 📢 Lâm ! on enchaîne !
-SwiftRage 📢 @lesnumeriques il est 13:00 🕐
-SwiftRage 📢 @lesnumeriques il est 13:30 🕜
+SwiftRage 📢 Lâm il est 13:00 🕐
+SwiftRage 📢 Lâm il est 13:30 🕜
 
 Message à caractère informatif - Excellent produit -- https://www.youtube.com/watch?v=-NzxJGvZzeQ
 
