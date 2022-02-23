@@ -3520,6 +3520,36 @@ raids : lesnumeriques => marmiton_officiel
 raids : lesnumeriques => mariecpalot => KRL_STREAM.
 
 
+--------------------------------------
+2022-02-22
+
+- [Les Numériques] Le numérique, grand oublié de l’oral des candidats à la présidentielle à Station F → https://lesnumeriques.com/pro/-f-n177135.html
+- [Les Numériques] Vidéo – Nos impressions sur le premier téléviseur QD-Oled au monde de Sony → https://lesnumeriques.com/tv-televiseur/-n177063.html
+- [Les Numériques] Bang & Olufsen lance la version PlayStation/PC de son casque gaming Portal → https://lesnumeriques.com/casque-gaming-micro/-n177137.html
+- [Les Numériques] Lumix GH6 : “l’hybride le plus puissant” jamais construit par Panasonic → https://lesnumeriques.com/reflex-hybride/-n177113.html
+- [Les Numériques] Chrome OS Flex : un système d’exploitation pour raviver les anciens PC et Mac → https://lesnumeriques.com/appli-logiciel/-n176943.html
+- [XDA Developers] Twitter is working on a “Leave this conversation” button → https://www.xda-developers.com/twitter-leave-this-conversation-testing/
+- [Google] The future of Currents and the next generation of collaboration in Spaces → https://workspaceupdates.googleblog.com/2022/02/currents-spaces-migration.html
+- [Les Numériques] BlaBlaCar : des arnaqueurs sévissent actuellement, la sécurité renforcée → https://lesnumeriques.com/vie-du-net/-n177141.html
+- [Les Numériques] Cryptomonnaies : quel cadre fiscal pour la France ? → https://lesnumeriques.com/pro/-a176801.html
+- {EA] Notre engagement envers vous. Une lettre de l’équipe Les Sims à nos joueurs. De nouvelles informations concernant "Mariage" → https://www.ea.com/fr-fr/games/the-sims/the-sims-4/news/our-commitment-to-you
+- [9to5Google] Amazon adds ‘Play on Luna’ button to Twitch, something Google wanted to do with Stadia → https://9to5google.com/2022/02/21/amazon-luna-twitch-button-click-to-play/
+- [SteamDB] Lost Ark → https://steamdb.info/app/1599340/graphs/
+- [Play Lost Ark] February 20 - Update on Current Top Issues → https://forums.playlostark.com/t/february-20-update-on-current-top-issues/186470
+- [Les Numériques] MG5 : le premier break 100 % électrique avec 400 km d'autonomie débarque en Europe → https://lesnumeriques.com/voiture/-n176843.html
+- [Les Numériques] Voyah, un nouveau constructeur automobile chinois à la conquête de l’Europe → https://lesnumeriques.com/voiture/-n177093.html
+- [Les Numériques] Jeep offre la motorisation 4xe hybride rechargeable à son Grand Cherokee → https://lesnumeriques.com/voiture/-n176987.html
+- [Les Numériques] La Mercedes EQE enfile son survêtement avec AMG → https://lesnumeriques.com/voiture/-n176961.html
+- [Les Numériques] "Freinage fantôme" chez Tesla : le gouvernement américain lance une enquête → https://lesnumeriques.com/voitures-co/-n177049.html
+- [The Verge] The US Copyright Office says an AI can’t copyright its art → https://theverge.com/2022/2/21/22944335/
+- [Les Numériques] Insolite : des utérus artificiels gérés par une IA → https://lesnumeriques.com/vie-du-net/-n177015.html
+- [Today] White Castle to hire 100 robots to flip burgers. The robotics program will take place in nearly one-third of the company’s locations → https://today.com/food/restaurants/-rcna16770
+- [NewAtlas] Sound waves convert stem cells into bone in regenerative breakthrough → https://newatlas.com/medical/sound-waves-stem-cells-bone/
+
+raids : lesnumeriques => takumi_julie.
+
+
+
 
 - [Les Numériques] 
 - [ZDNet France] 
