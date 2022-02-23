@@ -3549,6 +3549,50 @@ raids : lesnumeriques => mariecpalot => KRL_STREAM.
 raids : lesnumeriques => takumi_julie.
 
 
+--------------------------------------
+2022-02-23
+
+- [Twitter - Lam Hua] Image assez folle de robots inspectant un preneur d'otage → https://twitter.com/LamHua/status/1496415138013921283
+- [Twitter - Daft Punk] annonce du steam → https://twitter.com/daftpunk/status/1496245181724639243
+- [Pitchfork] Daft Punk reissuing homework on vinyl, livestreamed rare 1997 concert. You’ve already missed the limited-time-only window: Daft Punk broadcast a one-off stream of a concert recorded before they began wearing helmets → https://pitchfork.com/news/daft-punk-reissuing-homework-on-vinyl-streaming-rare-concert-right-now-one-time-only/
+- [Spotify] Say hi to Car Thing. The smart player from Spotify → https://carthing.spotify.com/
+- [Om Malik] Why Spotify bought Chartable & Podsights → https://om.co/2022/02/17/why-spotify-bought-chartable-podsights/
+- [Les Numériques] La gamme LG Signature accueille un lave-linge séchant → https://lesnumeriques.com/lave-linge-sechant/-n177123.html
+- [Les Numériques] My Little Robot Laser, le nouvel aspirateur-robot avec rayon UV-C de Senya → https://lesnumeriques.com/aspirateur-robot/-n177169.html
+- [Engadget] DJI Ronin 4D review: The most advanced cinema camera ever created. LiDAR autofocus, Z-arm stabilizer, incredible video quality and more → https://www.engadget.com/dji-ronin-4d-review-140019243.html
+
+- [Les Numériques] Le PlayStation VR2 montre son design définitif → https://lesnumeriques.com/casque-realite-virtuelle/-n177193.html
+- 🇫🇷 [PlayStation Blog] Révélation du design du casque pour PlayStation VR2 → https://cutt.ly/JPFj2Pw
+- 🇫🇷 [Gamekult] Le casque PlayStation VR2 se dévoile avec ses manettes. Un matériel assorti à la PS5 → https://gamekult.com/actualite/-3050847167.html
+- 🇺🇸 [UploadVR] PSVR 2: Everything we know about PS5 VR (updated Spring 2022) → https://uploadvr.com/psvr-2-everything-we-know/
+
+- [DigiTimes Asia] Apple reportedly conducts 2nd-phase EVT for upcoming AR headset → https://www.digitimes.com/news/a20220222PD207/
+- [XDA Developers] Qualcomm reportedly testing Snapdragon Wear 5100 and 5100+ chips for wearables → https://www.xda-developers.com/snapdragon-wear-5100-rumor/
+
+- [Les Numériques] Google Pixel 7 et 7 Pro : des informations émergent de la préversion d’Android 13 → https://lesnumeriques.com/telephone-portable/-13-n177119.html
+- [Engadget] Google says a fix is on the way for a Pixel 6 WiFi issue. The problem could be resolved when the March update arrives → https://www.engadget.com/google-pixel-6-wifi-issues-fix-march-update-211053655.html
+- [Les Numériques] MWC 2022 – Un smartphone Realme GT s'offrira une charge rapide à 125 W → https://lesnumeriques.com/telephone-portable/-n177187.html
+- [XDA Developers] iQOO’s new flagship lineup packs Snapdragon 8 Gen 1, gimbal cameras, and 120W fast charging → https://www.xda-developers.com/iqoo-9-series-india-launch/
+- [Les Numériques] Labo – Série Samsung Galaxy S22 : les performances de l'Exynos 2200 à la loupe → https://lesnumeriques.com/telephone-portable/-n177171.html
+- [Les Numériques] Test Samsung Galaxy S22 Ultra : quand le sud-coréen joue une nouvelle partition → https://www.lesnumeriques.com/telephone-portable/samsung-galaxy-s22-ultra-p66013/test.html
+- [Les Numériques] Onemile B12 : une trottinette électrique au look raffiné avec freins à disques hydrauliques → https://lesnumeriques.com/trottinette-electrique/-n177179.html
+- [Les Numériques] Voiture autonome : la possibilité de conduire sans les mains dès cet été → https://lesnumeriques.com/voitures-co/-n177185.html
+- [Engadget 2022.01.28] Waymo sues to keep autonomous vehicle emergency protocols secret. The company claims the information could grant a competitor an edge → https://www.engadget.com/waymo-sues-california-dmv-autonomous-vehicle-safety-195617112.html
+- [Les Numériques] Virgin Hyperloop licencie la moitié de son personnel et se réoriente vers le fret → https://lesnumeriques.com/vie-du-net/-n177201.html
+- [APUR] Drive piétons, dark kitchens, dark stores.  Les nouvelles formes de la distribution alimentaire à Paris → https://www.apur.org/fr/nos-travaux/drive-pietons-dark-kitchens-dark-stores-nouvelles-formes-distribution-alimentaire-paris
+- [France Culture] Entendez-vous l'éco ? - Restaurants et magasins fantômes : la livraison rend-elle la consommation aveugle ? → https://www.franceculture.fr/emissions/le-temps-du-debat/restaurants-et-magasins-fantomes-la-livraison-rend-t-elle-la-consommation-aveugle
+- [New York Post] NYC bill would ban grocery apps from advertising 15-minute delivery times → https://nypost.com/2022/02/21/nyc-bill-would-ban-grocery-apps-from-advertising-15-minute-delivery-times/
+- [Les Numériques] Les Tonga se reconnectent enfin au monde → https://lesnumeriques.com/vie-du-net/-n177177.html
+- [Les Numériques] Risques de la 5G sur la santé : l’Anses précise ses conclusions → https://lesnumeriques.com/vie-du-net/-n176993.html
+- [Les Numériques] Les SMS/MMS ont toujours la cote : en France, ils surpassent même l’e-mail → https://lesnumeriques.com/vie-du-net/-n177129.html
+- [Mashable] Truth Social already censoring content, bans user who made fun of Trump Media CEO → https://mashable.com/article/trump-truth-social-free-speech-bans
+- 🇫🇷 [Gamekult] Bethesda annonce la fermeture de son lanceur en faveur de Steam. Le lanceur fermera au mois de mai, mais tout sera transféré → https://gamekult.com/actualite/-3050847177.html
+- 🇫🇷 [Gamekult] Le Call of Duty programmé pour 2023 sortirait avec un an de retard. Une remise en question inédite → https://gamekult.com/actualite/-3050847183.html
+
+raids : lesnumeriques => marmiton_officiel
+
+les sujets traités dans la quotidienne des Numériques : prise d'otages aux Pays Bas ; Daft Punk ; une caméra cinéma ultra moderne ; le PS VR 2 ; les nouveaux smartphones ; possibilité de laisser sa voiture autonome conduire en France ; le rapport de l'APUR sur les dark stores ; les îles Tonga qui se reconnectent à l'internet ; Truth, le réseau de Donald Trump, qui montre déjà ses limites ; Bethesda qui arrête son lanceur ; Call of Duty en pause en 2023
+
 
 
 - [Les Numériques] 
