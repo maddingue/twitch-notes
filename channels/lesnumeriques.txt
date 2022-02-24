@@ -3594,6 +3594,30 @@ raids : lesnumeriques => marmiton_officiel
 les sujets traités dans la quotidienne des Numériques : prise d'otages aux Pays Bas ; Daft Punk ; une caméra cinéma ultra moderne ; le PS VR 2 ; les nouveaux smartphones ; possibilité de laisser sa voiture autonome conduire en France ; le rapport de l'APUR sur les dark stores ; les îles Tonga qui se reconnectent à l'internet ; Truth, le réseau de Donald Trump, qui montre déjà ses limites ; Bethesda qui arrête son lanceur ; Call of Duty en pause en 2023
 
 
+--------------------------------------
+2022-02-24
+
+- [Lense] Sigma annonce 4 objectifs en monture Fujifilm X → https://www.lense.fr/news/sigma-annonce-4-objectifs-en-monture-fujifilm-x/
+- [Les Numériques] Canon voit toujours plus loin en dévoilant un 800 mm et un 1200 mm pour ses hybrides 24x36 → https://lesnumeriques.com/focales-fixes/-n177149.html
+- [Les Numériques] Les processeurs Raptor Lake d’Intel (13e génération) arriveraient vite et frapperaient fort → https://lesnumeriques.com/cpu-processeur/-n177275.html
+- [AnandTech] Intel Launches Alder Lake U and P Series Processors: Ultraportable Laptops Coming In March → https://www.anandtech.com/show/17278/
+- [Les Numériques] Google Pixel 7 et 7 Pro : des informations émergent de la préversion d’Android 13 → https://lesnumeriques.com/telephone-portable/-n177119.html
+- [Les Numériques] Oppo Pad : des visuels révèlent la future tablette → https://lesnumeriques.com/telephone-portable/-n177225.html
+- [Les Numériques] Test Samsung Galaxy S22+ : un bon smartphone haut de gamme, non sans défauts → https://www.lesnumeriques.com/telephone-portable/samsung-galaxy-s22-p66011/test.html
+- [XDA Developers] The retail Galaxy S22 Ultra with Exynos has performance and display issues → https://www.xda-developers.com/samsung-galaxy-s22-exynos-performance-display-issues/
+- [Les Numériques] Stellantis boucle sa première année d’existence avec 13,4 milliards d’euros de bénéfices → https://lesnumeriques.com/pro/-n177257.html
+- [Les Numériques] Lexus dévoile de nouvelles images de sa prochaine sportive électrique → https://lesnumeriques.com/voiture/-n177269.html
+- [Les Numériques] Volkswagen repense l’ID Life, sa future citadine électrique → https://lesnumeriques.com/voiture/-n177303.html
+- [Les Numériques] La plateforme OnlyFans visée par la plainte d'un concurrent → https://lesnumeriques.com/vie-du-net/-n177221.html
+- [Les Numériques] Tensions avec la Russie : le ministère ukrainien de la Défense victime d'une cyberattaque → https://lesnumeriques.com/vie-du-net/-n176847.html
+- [Ars Technica] US says Russian state hackers lurked in defense contractor networks for months. Multiple hacks over 2 years revealed sensitive info about weapons and comms platforms → https://arstechnica.com/information-technology/2022/02/us-says-russian-state-hackers-lurked-in-defense-contractor-networks-for-months/
+- [Les Numériques] Conflit Ukraine-Russie : l'UE déploie une task force spécialisée en cybersécurité → https://lesnumeriques.com/vie-du-net/-n177265.html
+- [Gamekult] test : Elden Ring, un coup de maître au-delà de toutes nos espérances, 9/10 par Virgile → https://cutt.ly/fPHwVa9
+- [JVC] Test Elden Ring : Un Dark Souls plus ambitieux que jamais ? → https://www.jeuxvideo.com/test/1534784/elden-ring-un-dark-souls-plus-ambitieux-que-jamais.htm
+- [Polygon] Elden Ring is FromSoftware’s best, most approachable, and difficult game yet. The open-world Dark Souls successor is staggering in breadth and challenge → https://www.polygon.com/reviews/22947204/elden-ring-review-from-software
+
+
+
 
 - [Les Numériques] 
 - [ZDNet France] 
