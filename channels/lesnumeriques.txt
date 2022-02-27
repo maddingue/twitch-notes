@@ -3617,6 +3617,54 @@ les sujets traités dans la quotidienne des Numériques : prise d'otages aux Pay
 - [Polygon] Elden Ring is FromSoftware’s best, most approachable, and difficult game yet. The open-world Dark Souls successor is staggering in breadth and challenge → https://www.polygon.com/reviews/22947204/elden-ring-review-from-software
 
 
+--------------------------------------
+2022-02-25
+
+- [91mobiles] OnePlus Nord TWS 5K renders reveal complete design of upcoming earbuds → https://www.91mobiles.com/hub/oneplus-nord-tws-earbuds-5k-renders-design-exclusive/
+- Aiaiai Wireless+ → https://aiaiai.audio/wireless-plus
+- [Les Numériques] Enco Free X2 : Oppo muscle son jeu avec de nouveaux écouteurs true wireless à réduction de bruit active → https://lesnumeriques.com/intra-ecouteur-true-wireless/-n177395.html
+- Sonus Faber → https://www.sonusfaber.com/en/
+- [Les Numériques] Test Dell UltraSharp WB7022 : une webcam premium pour des visioconférences en 4K → https://www.lesnumeriques.com/webcam/dell-ultrasharp-p64155/test.html
+- [Les Numériques] Comparatif / nos tests d' hub usb-c Février 2022 → https://lesnumeriques.com/hub-usb-c/-a176891.html
+- [Apple Insider] Leaked plan shows Intel will try to be more efficient than M1 Max by late 2023 → https://appleinsider.com/articles/22/02/24/leaked-plan-shows-intel-will-try-to-be-more-efficient-than-m1-max-by-late-2023
+- [MacRumors] Apple Will Soon Offer Face ID Repairs Without Replacing the Entire iPhone → https://www.macrumors.com/2022/02/24/iphone-same-unit-face-id-repairs/
+- [Les Numériques] Test Samsung Galaxy S22 : l'option compacte et design → https://www.lesnumeriques.com/telephone-portable/samsung-galaxy-s22-p66009/test.html
+- [Samsung] After Record-Breaking Preorders, Samsung Announces Global Availability of New Galaxy S22 Series and Galaxy Tab S8 Series → https://news.samsung.com/global/after-record-breaking-preorders-samsung-announces-global-availability-of-new-galaxy-s22-series-and-galaxy-tab-s8-series
+- [Les Numériques] Prise en main du Oppo Find X5 Pro : la promesse d'une expérience premium → https://lesnumeriques.com/telephone-portable/-n177309.html
+- [Les Numériques] Find X5 et Find X5 Lite : deux déclinaisons pour l’Oppo Find X5 Pro → https://lesnumeriques.com/telephone-portable/-n177301.html
+- [Les Numériques] Motorola Edge 30 Pro : un nouveau fleuron prometteur → https://lesnumeriques.com/telephone-portable/-n177173.html
+- [Les Numériques] Cupra poursuit son électrification et s'aventure dans le métavers → https://lesnumeriques.com/voiture/-n177379.html
+- [Les Numériques] Harley-Davidson prévoit une seconde moto électrique, la LiveWire S2 Del Mar → https://lesnumeriques.com/moto/-n177313.html
+- [Ars Technica] USPS sticks with decision to buy inefficient 8.6 mpg trucks. The USPS rejected all criticism from the EPA and White House → https://arstechnica.com/cars/2022/02/usps-says-too-bad-its-still-not-buying-more-electric-mail-trucks/
+- [Les Numériques] Métavers, lunettes augmentées, traducteur universel… Que retenir des annonces de Meta ? → https://lesnumeriques.com/vie-du-net/-n177337.html
+- MacRumors] Here’s how iOS 15.4’s new LGBTQ+ Siri voice will sound on your iPhone.  Apple adds a fifth American Siri voice option that isn't explicitly male or female → https://macworld.com/article/616643
+- [Les Numériques] Amazon, marque la plus usurpée dans les campagnes d'hameçonnage → https://lesnumeriques.com/vie-du-net/-n177371.html
+- [Les Numériques] La réforme du crédit d’impôt jeux vidéo enfin validée par le gouvernement → https://lesnumeriques.com/pro/-n177391.html
+- [Les Numériques] Pour le Syndicat national du jeu vidéo, la France doit "accélérer" pour "ne pas se retrouver déclassée" → https://lesnumeriques.com/pro/-n177365.html
+- [Les Numériques] Tesla travaille sur l’intégration de la bibliothèque de jeux Steam à ses voitures → https://lesnumeriques.com/voiture/-n177325.html
+- [Gamekult] Elden Ring réalise un démarrage colossal sur Steam → https://gamekult.com/actualite/-3050847251.html
+- [Gamekult] Spartacus : l'évolution du PlayStation Plus se rapproche, selon Jeff Grubb → https://gamekult.com/actualite/-3050847255.html
+- [Gamekult] Nintendo annonce l'acquisition de SRD, son partenaire de développement depuis 40 ans → https://gamekult.com/actualite/-3050847231.html
+- [New York Times] EA Sports Is Planning for a FIFA Without FIFA. The end of a long and profitable relationship with soccer’s governing body would mean renaming one of the most popular video games of all time → https://www.nytimes.com/2021/10/13/sports/soccer/ea-sports-fifa.html
+- [Gamekult] FIFA : selon Andrew Wilson, la marque serait devenue un "obstacle" au développement de la simulation d'EA → https://gamekult.com/actualite/-3050847245.html
+
+- [ZDNet France] Invasion de l'Ukraine : comment une guerre froide numérique avec la Russie menace l'industrie informatique. Que signifie le conflit en Europe de l'Est pour l'avenir des relations avec les sociétés de logiciels et les développeurs russes ? Le point sur la question → https://www.zdnet.fr/actualites/ukraine-39937975.htm
+- [Wired] Russia’s Cyber Threat to Ukraine Is Vast—and Underestimated → https://www.wired.com/story/russias-cyber-threat-to-ukraine-is-vast-and-underestimated/
+- [The Verge] Ukraine internet outages spark concerns of broader blackout. Outage reports have centered around Kharkiv, the second-largest city → https://www.theverge.com/2022/2/24/22949115/
+- [Politico] Ukraine prepares to remove data from Russia’s reach. Multiple backups and centralized databases are key to Ukrainian cyber contingency plans → https://www.politico.com/news/2022/02/22/ukraine-centralized-its-data-after-the-last-russian-invasion-now-it-may-need-to-evacuate-it-00010777
+- [Reuters] Ukraine lobbies U.S. officials for bans on Russia software, aviation -diplomat → https://www.reuters.com/technology/ukraine-lobbies-us-officials-bans-russia-software-aviation-diplomat-2022-02-24/
+- [VICE Motherboard] A War in Europe Is Being Documented One Social Media Post at a Time. The rest of the world watches Russia's invasion into Ukraine through the lens of Twitter and Tiktok → https://www.vice.com/en/article/n7n9n8/ukraine-russia-documented-on-social-media
+- [Les Numériques] Guerre en Ukraine : des comptes Twitter de chercheurs partageant des vidéos du conflit suspendus → https://lesnumeriques.com/vie-du-net/-n177375.html
+- 🇫🇷 [Gamekult] Guerre en Ukraine : les studios de jeux vidéo sur place réagissent sur Twitter. GSC Game World, Frogwares, Vostok Games mais aussi Ubisoft → https://gamekult.com/actualite/-3050847243.html
+- [The Verge] US and Russia still tethered by International Space Station during Ukraine conflict. But NASA has more independence these days → https://www.theverge.com/2022/2/24/22947884/
+
+raids : lesnumeriques => marmiton_officiel
+
+les sujets traités par les NUmériques : les nouveaux smartphones Oppo, Samsun, Motorola ; la moto électrique Harley Davidson ; les tests de docks USB-C ; le résumé de la conférence bizarre du Metavers ; jeux vidéo et crédits d'impots, ça avance ; les jeux Steam dans les Tesla ; surprise, Elden Ring est un carton ; surprise la Russie a envahi l'Ukraine et mene en parallèle une attaque cyber massive préparée de longue date ; les studios de JV ukrainiens réagissent ; les USA restent liés à la Russie via l'ISS
+
+
+- [France Culture] Entendez-vous l'éco ? Elizabeth Holmes : le commerce des illusions → https://www.franceculture.fr/emissions/entendez-vous-l-eco/elizabeth-holmes-le-commerce-des-illusions
+
 
 
 - [Les Numériques] 
