@@ -3663,7 +3663,53 @@ raids : lesnumeriques => marmiton_officiel
 les sujets traités par les NUmériques : les nouveaux smartphones Oppo, Samsun, Motorola ; la moto électrique Harley Davidson ; les tests de docks USB-C ; le résumé de la conférence bizarre du Metavers ; jeux vidéo et crédits d'impots, ça avance ; les jeux Steam dans les Tesla ; surprise, Elden Ring est un carton ; surprise la Russie a envahi l'Ukraine et mene en parallèle une attaque cyber massive préparée de longue date ; les studios de JV ukrainiens réagissent ; les USA restent liés à la Russie via l'ISS
 
 
+--------------------------------------
+2022-02-28
+
+- [Les Numériques] Votez : vous et Les Numériques, quelles sont vos impressions ? → https://lesnumeriques.com/vie-du-net/-n177435.html
+(trop de tests…)
+- [Les Numériques] Tuto : comment remédier au joy-con drift de la Nintendo Switch ? → https://lesnumeriques.com/gaming/-a176575.html
+
+- [Les Numériques] Cyberattaques : la France se prépare dans un contexte explosif → https://lesnumeriques.com/vie-du-net/-n177411.html
+- [Les Numériques] TousAntiCovid : l’apparition du drapeau ukrainien n’est pas une cyberattaque → https://lesnumeriques.com/vie-du-net/-n177457.html
+- [Les Numériques] Anonymous déclare la "cyberguerre" à la Russie → https://lesnumeriques.com/vie-du-net/-n177423.html
+- [ZDNet France] L'Ukraine fait appel à des hackers volontaires pour protéger ses infrastructures critiques. Attaquée par son voisin russe, l'Ukraine demanderait actuellement à des hackers volontaires de participer à des missions de défense et de surveillance de ses infrastructures numériques critiques → https://www.zdnet.fr/actualites/ukraine--39937993.htm
+- [ZDNet France] Invasion russe de l’Ukraine: la couverture très multilingue de Wikipédia. L'invasion de l'Ukraine par la Russie est traitée en 89 langues dans Wikipédia, où l'article a eu le plus d'audience en anglais et en russe → https://www.zdnet.fr/blogs/l-esprit-libre/wikipedia-39938045.htm
+- [Netblocks] Twitter and Facebook restricted in Russia amid conflict with Ukraine → https://netblocks.org/reports/twitter-JBZrogB6
+- [Reuters] Google blocks RT, other Russian channels from earning ad dollars → https://www.reuters.com/technology/youtube-blocks-rt-other-russian-channels-generating-revenue-2022-02-26/
+- [Twitter - Ukraine] Stand with the people of Ukraine. Now accepting cryptocurrency donations. Bitcoin, Ethereum and USDT → https://twitter.com/ukraine/status/1497594592438497282
+- [Elliptic] Live Updates: Ukraine Government Turns to Crypto to Crowdfund Millions of Dollars → https://www.elliptic.co/blog/live-updates-millions-in-crypto-crowdfunded-for-the-ukrainian-military
+- [Patreon] On the removal of Come Back Alive → https://blog.patreon.com/en-GB/on-the-removal-of-come-back-alive
+- [White House] Joint Statement on Further Restrictive Economic Measures → https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/26/joint-statement-on-further-restrictive-economic-measures/
+- [Carnegie Moscow Center 2021.05.28] How Disastrous Would Disconnection From SWIFT Be for Russia? → https://carnegiemoscow.org/commentary/84634
+- [Business Insider] Customers of banks targeted by Russia sanctions are unable to use Apple Pay or Google Pay → https://www.businessinsider.com/russian-banks-sanctions-apple-google-pay-ukraine-invasion-money-cards-2022-2
+- [Ars Technica] Russia pulls out of European spaceport, abandoning a planned launch. "We will take all relevant decisions in response to this decision." → https://arstechnica.com/science/2022/02/russia-pulls-out-of-european-spaceport-abandoning-a-planned-launch/
+
+- [Bloomberg] Apple has a chance to launch an iPhone costing Just $199 → https://www.bloomberg.com/news/newsletters/2022-02-27/when-is-apple-aapl-launching-5g-iphone-se-will-apple-drop-iphone-se-price-l05dwajk
+- [Twitter - Ross Young] We expect foldable panel shipments, phone production and phone shipments to all rise by more than 100% in 2022 with Samsung targeting over 14M phones and Samsung Display expected to ship around 19M panels → https://twitter.com/DSCCRoss/status/1495786275193905166
+- [Twitter - Ross Young] The dual hole punch design on the iPhone Pro models will be seen on all 4 models in 2023. Hopefully the holes will get smaller → https://twitter.com/DSCCRoss/status/1497724570794557446
+- [The Information] Meta Platforms Halts VR and AR Operating System Project → https://www.theinformation.com/articles/meta-platforms-halts-vr-and-ar-operating-system-project
+- Faraday Future FF-91 → https://www.ff.com/us/ff-91/
+
+- [Les Numériques] Produits d'occasion : ces nouvelles conditions pour utiliser le terme "reconditionné" → https://lesnumeriques.com/vie-du-net/-n177167.html
+- [Les Numériques] Étude Recommerce/Kantar : pour 1/3 des Français, l'achat de smartphones neufs n'est plus systématique → https://lesnumeriques.com/telephone-portable/-n177383.html
+
+- 🇫🇷 [JVC] Test du Steam Deck : mieux que la Nintendo Switch ? Voici la console portable la plus puissante du monde → https://cutt.ly/wP6838q
+- 🇺🇸 [PC Gamer] Steam Deck review The Steam Deck can't yet play every game on Steam, but it's a great handheld gaming system nonetheless → https://cutt.ly/oP686O4
+- 🇺🇸 [Polygon] The Steam Deck is my new favorite console. The Steam Deck has plenty of room to grow, but already makes an astounding first impression → https://cutt.ly/SP64e0N
+- 🇺🇸 [The Verge] Steam Deck review: it’s not ready → https://cutt.ly/TP64ilT
+- 🇺🇸 [Ars Technica] Steam Deck: The comprehensive Ars Technica review. Power, battery, software compatibility, and too many random crashes: Let's dig in → https://cutt.ly/uP64sre
+
+- 🇬🇧 [PC Gamer] Valve has no plans for a 'Steam Pass,' but would help Microsoft put Game Pass on Steam. Valve has "nothing philosophical" against making it happen → https://cutt.ly/7P68aFn
+- [Les Numériques] Elden Ring : les créateurs de Dark Souls livrent leur œuvre somme → https://lesnumeriques.com/jeux-video/-n177393.html
+- 🇫🇷 [Gamekult] Pokémon Ecarlate / Violet, le nouveau duo en monde ouvert pour 2022 → https://gamekult.com/actualite/-3050847285.html
+- 🇫🇷 [Ludostrie] L’affaire Game Freak → https://ludostrie.com/laffaire-game-freak-pokemon/
+
 - [France Culture] Entendez-vous l'éco ? Elizabeth Holmes : le commerce des illusions → https://www.franceculture.fr/emissions/entendez-vous-l-eco/elizabeth-holmes-le-commerce-des-illusions
+
+raids : lesnumeriques => GamesDreamy => DraydenTV
+
+
 
 
 
@@ -3712,4 +3758,6 @@ clips :
 🎥 des bisous à Gamekult et à Hubert → https://clips.twitch.tv/TriumphantPluckySwallowImGlitch-n5-nnJy54t0rd8Hj
 🎥 Le drame de la savonnette Pixel 6 → https://clips.twitch.tv/PowerfulTrustworthyLapwingFailFish-ErPQN9oh5MvH3TOW
 🎥 et c'est le drame ! Lâm renverse son café → https://clips.twitch.tv/GiftedSpoopyHumanTakeNRG-FgDkxOLWxpDOlVGz
+🎥 même averti et avec une sécurité, Lâm renverse quand même son café… → https://clips.twitch.tv/ColdbloodedEnthusiasticPorpoiseEagleEye-BbSq8g8HFQrsLYcw
+🎥 le café est vide… presque ! → https://clips.twitch.tv/JollySquareCaribouDoggo-Dmhep3euJdEQ7vj3
 
