@@ -10029,6 +10029,59 @@ surprise-partie
 - 🇫🇷 [Gamekult] Plug In Digital s'associe avec le Winky Partners Program, un métavers de jeux éducatifs. L'idée est de "faire la transition vers le web3" → https://gamekult.com/actualite/-3050847235.html
 
 
+--------------------------------------
+2022-02-28
+
+passer à tabac : frapper, rouer de coups. Dans le langage maritime, un "coup de tabac" était un violent coup de vent qui risquait d'abîmer le bateau. Ensuite, au XIXe siècle, le nom "tabac" a pris le sens de "volée, coup". Sa racine "tabb" signifie "battre, frapper". "Passer à tabac", veut donc dire frapper violemment une personne. -- https://www.linternaute.fr/expression/langue-francaise/234/passer-a-tabac/
+
+passer à tabac : frapper, rouer de coups. Molière, dans son Don Juan, a écrit : « Il n'est rien d'égal au tabac ; c'est la passion des honnêtes gens ; et qui vit sans tabac n'est pas digne de vivre. » Autant dire que l'avis sur "l'herbe à Nicot" (car introduite en France en 1560 auprès de Catherine de Médicis par Jean Nicot, ambassadeur de France à Lisbonne, grâce auquel les fumeurs peuvent s'imbiber de nicotine) a quelque peu changé depuis.
+Mais si on compare la forme passer à tabac avec "passer à la moulinette" ou bien "passer au fil de l'épée" où "passer à" prend bien le même sens, on se demande si le 'tabac' de notre expression a bien un lien avec ce qui a d'abord été considéré comme une herbe médicinale. Et il se trouve que ce n'est pas vraiment le cas.
+ Si cette expression ne date que du dernier quart du XIXe siècle, son origine remonte au radical 'tabb-' qui exprime l'idée de frapper et qu'on trouve dès le XIIIe siècle dans des dialectes du sud de la France (en Provence et en Occitanie, entre autres) ou dès le XVe dans plusieurs verbes dont 'tabuster' qui voulait dire 'battre' ou 'frapper'.
+ -- https://www.expressio.fr/expressions/passer-a-tabac
+
+
+- 🇺🇸 [Kotaku] Pokémon Scarlet And Violet Announced, Here Are The New Starters. Game Freak is making the Nintendo Switch games in late 2022, and generation 9 sports new graphics → https://kotaku.com/pokemon-1848599518
+- 🇫🇷 [Gamekult] Pokémon Ecarlate / Violet, le nouveau duo en monde ouvert pour 2022 → https://gamekult.com/actualite/-3050847285.html
+
+- 🇫🇷 [Gamekult] Sur décision de Nintendo, Super Smash Bros. ne reviendra pas à l'Evo. La série de Nintendo était de la partie depuis 2007 → https://gamekult.com/actualite/-3050847287.html
+- 🇺🇸 [VGC] EVO 2022 confirms ‘Nintendo has chosen’ Smash Bros. will not return. This will mark the first EVO event without the series since 2013 → https://cutt.ly/pP63IIN
+- 🇺🇸 [Kotaku] Nintendo won't allow Super Smash Bros. at Evo 2022. The Sony-owned fighting game event said it's 'saddened' to lose Smash Bros. from the lineup → https://cutt.ly/HP63FvK
+
+- 🐦 [Twitter - CD Projekt Red] The recent invasion on Ukraine, our friends and neighbours, left us shocked and outraged. In solidarity with all victims of this act of aggression, the CD PROJEKT Group has decided to support humanitarian aid efforts by donating 1 million PLN to the Polska Akcja Humanitarna → https://twitter.com/CDPROJEKTRED/status/1497207867773964290
+- 🇺🇸 [Games Industry] Studios call for support in face of Russian invasion of Ukraine. Ubisoft details employee support and Digital Extremes donates $100,000 as EGDF calls for countries to fast-track residency and work permits for refugees → https://cutt.ly/CP673db
+- 🐦 [Twitter - Amanita Design] Ukraine needs help, right now. Our next week’s earnings from Machinarium, CHUCHEL, and Creaks will be donated to @CLOVEKVTISNI , a nonprofit organization that will use the money to aid the most vulnerable people in Ukraine affected by the ongoing Russian invasion → https://twitter.com/Amanita_Design/status/1497225550150123546
+
+- 🇫🇷 [JVC] Test du Steam Deck : mieux que la Nintendo Switch ? Voici la console portable la plus puissante du monde → https://cutt.ly/wP6838q
+- 🇺🇸 [PC Gamer] Steam Deck review The Steam Deck can't yet play every game on Steam, but it's a great handheld gaming system nonetheless → https://cutt.ly/oP686O4
+- 🇺🇸 [Polygon] The Steam Deck is my new favorite console. The Steam Deck has plenty of room to grow, but already makes an astounding first impression → https://cutt.ly/SP64e0N
+- 🇺🇸 [The Verge] Steam Deck review: it’s not ready → https://cutt.ly/TP64ilT
+- 🇺🇸 [Ars Technica] Steam Deck: The comprehensive Ars Technica review. Power, battery, software compatibility, and too many random crashes: Let's dig in → https://cutt.ly/uP64sre
+
+- 🇬🇧 [PC Gamer] Valve has no plans for a 'Steam Pass,' but would help Microsoft put Game Pass on Steam. Valve has "nothing philosophical" against making it happen → https://cutt.ly/7P68aFn
+
+- 🇺🇸 [Rock Paper Shotgun] Gabe Newell talks Steam Deck, crypto risks and why the PC industry “won’t tolerate” closed platforms. We interview Valve’s co-founder on hardware plans and consolidation in gaming → https://cutt.ly/2P63niC
+- 🇺🇸 [Games Industry] Gabe Newell unconcerned about consolidation. As Steam Deck debuts, Valve head says customer preferences can keep PC an open platform, NFT crowd are "just not people you really are wanting to be doing business with" → https://cutt.ly/gP69z6h
+
+- 🇺🇸 [Games Industry Africa] Pan African Gaming Group launches at AGW → https://cutt.ly/QAqwzA4
+
+- 🇫🇷 [Gamekult] Tencent annonce l'acquisition de 1C Entertainment et de son studio QLOC, et il va falloir changer de nom → https://gamekult.com/actualite/-3050847281.html
+
+- 🇺🇸 [SteamDB] top 10 des ventes sur Steam de la semaine dernière → https://steamdb.info/topsellers/
+
+- Aperture Desk Job → https://store.steampowered.com/app/1902490/
+
+:::::
+- 🇫🇷 [Gamekult] Avec Naraka Bladepoint et Harry Potter, NetEase compte ses milliards, de quoi bien financer Nagoshi et Suda → https://gamekult.com/actualite/-3050847277.html
+
+- 🇺🇸 [Games Industry] Elden Ring is the fastest selling 'Souls' game so far | UK Boxed Charts. Physical sales alone sees it eclipse Dark Souls 3 by 26% → https://cutt.ly/SP69fDk
+
+raids : Gautoz => Mynthos
+
+
+
+
+
+
 - 🇺🇸 
 - 🇫🇷 
 - 🇯🇵 
