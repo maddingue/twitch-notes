@@ -3747,6 +3747,95 @@ raids : lesnumeriques => GamesDreamy => DraydenTV
 raids : lesnumeriques => Oniriie => weetalala
 
 
+--------------------------------------
+2022-03-02
+
+- [CNET France] Comment la Russie pirate l’Ukraine depuis 2014 pour préparer la guerre. L’invasion russe en l’Ukraine qui a lieu depuis le 24 février s’accompagne depuis le début d’une cyber offensive. Objectif : déstabiliser l’adversaire, perturber ses communications et semer la panique. On fait le point sur les différentes techniques utilisées par les hackers russes. Des techniques déjà expérimentées largement contre l’Ukraine, depuis au moins 8 ans → https://cnetfrance.fr/news/ukraine-39938051.htm
+- [Ars Technica] After Ukraine recruits an “IT Army,” dozens of Russian sites go dark. “Cyber specialists” supporting Ukraine coordinate attacks on Telegram → https://arstechnica.com/information-technology/2022/02/after-ukraine-recruits-an-it-army-dozens-of-russian-sites-go-dark/
+- [The Verge] Ukraine engineer talks testing SpaceX’s new Starlink service. Oleg Kutkov says he snagged a signal in 10 seconds → https://www.theverge.com/2022/3/1/22956481/
+- [Les Numériques] Apple Pay et Google Pay bloqués en Russie suite aux sanctions bancaires → https://lesnumeriques.com/vie-du-net/-n177611.html
+- [The Verge] Apple halts product sales in Russia. It cites a deep concern about the Russian invasion of Ukraine → https://www.theverge.com/2022/3/1/22957000/
+- [The Verge] Read Tim Cook’s email to employees on Ukraine. Apple will be matching employees’ donations to relief organizations two to one → https://www.theverge.com/2022/3/1/22957538/
+- [Microsoft blog] Digital technology and the war in Ukraine → https://blogs.microsoft.com/on-the-issues/2022/02/28/ukraine-russia-digital-war-cyberattacks/
+- [Twitter - Google] Due to the ongoing war in Ukraine, we’re blocking YouTube channels connected to RT and Sputnik across Europe, effective immediately → https://twitter.com/googleeurope/status/1498572529409179648
+- [The Verge] Facebook has stopped recommending Russian state media globally. Links to Russian state media are being demoted in Facebook and Instagram → https://www.theverge.com/2022/3/1/22956532/
+- [Les Numériques] Netflix refuse finalement de distribuer les chaînes d’État russes → https://lesnumeriques.com/vie-du-net/-n177675.html
+- [Ars Technica] Ukraine official confirms urgent request for Western satellite data. "Within one hour, there will be an attack on Kyiv again" → https://arstechnica.com/science/2022/03/a-wartime-plea-to-western-satellite-companies-we-need-this-data-please/
+- [Twitter] ShadowBreak - Intelligence acquired since the beginning of the Russian military operation over Ukraine has shown an immense lack of logistic support, making this war one of the most unique in 2022 when it comes to surveillance → https://twitter.com/sbreakintl/status/1498619303717142529
+- [Kori] Les soldats russes pleurent et se mutinent à la radio, et le monde entier peut écouter. Un degré d'impréparation technique et tactique ahurissant → https://korii.slate.fr/tech/guerre-ukraine-soldats-russes-pleurent-mutinent-radio-talkie-walkie-clair-hf-tout-monde-peut-ecouter
+
+- [The Verge] Amazon’s Astro robot has been spotted in the wild... bringing people beer. Users are showing off what the $1,450 Amazon smart home robot can really do → https://www.theverge.com/2022/2/22/22945814/
+- [Les Numériques] Eufy promet un nettoyage discret avec le RoboVac G20 Hybrid → https://lesnumeriques.com/aspirateur-robot/-n177581.html
+- [Les Numériques] Avec son PowerChef, Schneider vient à son tour concurrencer Vorwerk et son Thermomix → https://lesnumeriques.com/robot-cuiseur-multifonction/-n177385.html
+- [Termacell] LIV Smart Mosquito Repellent System → https://www.thermacell.com/pages/liv-system
+- [Mirrorless Rumors] First leaked picture of the new Hasselblad X2D camera → https://photorumors.com/2022/03/01/first-leaked-picture-of-the-new-hasselblad-x2d-camera/
+- [Les Numériques] MWC 2022 – Activelook, la technologie d’affichage tête haute pour lunettes compatible avec Suunto, OpenRunner et iKinesis → https://lesnumeriques.com/sante-sport/-n177351.html
+- [Les Numériques] MWC 2022 – “Prise en tête” des Oppo Air Glass, les lunettes de réalité augmentée → https://lesnumeriques.com/accessoire-pour-smartphone/-n177641.html
+- [Les Numériques] MWC 2022 – Oppo Watch Free, une montre connectée spécialisée dans le suivi du sommeil → https://lesnumeriques.com/montre-connectee/-n177635.html
+- [Les Numériques] MWC 2022 – Honor Watch GS 3, une montre connectée en acier qui mise sur la finesse et l'élégance → https://lesnumeriques.com/montre-connectee/-n177511.html
+- [Android Police] Google Pixel Watch pops up alongside Pixel 6a in carrier inventory system → https://www.androidpolice.com/pixel-watch-pixel-6a-carrier-leak/
+- https://atap.google.com/
+- [Les Numériques] MWC 2022 – Nokia C21 Plus, C21, C2 2nd Edition  : le plein de smartphones à très petits prix → https://lesnumeriques.com/telephone-portable/-n177615.html
+- [CNET France] MWC 2022 : des écrans de téléphones pliants et enroulables chez TCL. On a testé pour vous les deux nouveaux concepts proposés par TCL → https://www.cnetfrance.fr/news/tcl-39938113.htm
+- [CNET France] MWC 2022 : Oppo Supervooc 240W, la recharge complète en moins de 10 minutes. Une belle performance, mais le système est encore au stade du développement → https://www.cnetfrance.fr/news/supervooc-39938155.htm
+- [Ars Technica] DisplayPort 2.0 labels specify bandwidth to avoid HDMI 2.1-like confusion. UHBR80- and UHBR40-certified cables are already available → https://arstechnica.com/gadgets/2022/02/displayport-2-0-labels-specify-bandwidth-to-avoid-hdmi-2-1-like-confusion/
+- [New York Times] David Boggs, Co-Inventor of Ethernet, Dies at 71. Thanks to the invention he helped create in the 1970s, people can send email over an office network or visit a website through a coffee shop hot spot → https://www.nytimes.com/2022/02/28/technology/david-boggs-dead.html
+- [Business Insider] A cargo ship carrying thousands of cars, including Porsches, Audis, and Bentleys, has sunk in the Atlantic → https://www.businessinsider.in/thelife/news/a-cargo-ship-carrying-thousands-of-cars-including-porsches-audis-and-bentleys-has-sunk-in-the-atlantic/articleshow/89930843.cms
+- [Twitter] SHL0MS - 𝚒𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚒𝚗𝚐 $CAR: 𝟿𝟿𝟿 𝚎𝚡𝚚𝚞𝚒𝚜𝚒𝚝𝚎𝚕𝚢 𝚏𝚒𝚕𝚖𝚎𝚍 𝚏𝚛𝚊𝚐𝚖𝚎𝚗𝚝𝚜 𝚘𝚏 𝚊 𝚍𝚎𝚝𝚘𝚗𝚊𝚝𝚎𝚍 𝙻𝚊𝚖𝚋𝚘𝚛𝚐𝚑𝚒𝚗𝚒 𝙷𝚞𝚛𝚊𝚌𝚊𝚗 → https://twitter.com/SHL0MS/status/1494446592463720448
+- [PC Gamer] Nvidia's DLSS source code leaked by hackers. The fallout from the weekend's cyberattack continues → https://www.pcgamer.com/uk/nvidias-dlss-source-code-leaked-by-hackers/
+- [The Verge] Nvidia says its ‘proprietary information’ is being leaked by hackers. Last week, it confirmed it was investigating an “incident” → https://www.theverge.com/2022/3/1/22957212/
+- [Les Numériques] Netflix : les programmes à ne pas manquer en mars 2022 → https://lesnumeriques.com/vie-du-net/-n177347.html
+- [Les Numériques] Disney+ : les programmes à ne pas manquer en mars 2022 → https://lesnumeriques.com/vie-du-net/-n177459.html
+- [Les Numériques] Amazon Prime Video : les programmes à ne pas manquer en mars 2022 → https://lesnumeriques.com/vie-du-net/-n177467.html
+- [Les Numériques] MyCanal : les programmes à ne pas manquer en mars 2022 → https://lesnumeriques.com/vie-du-net/-n177535.html
+
+raids : lesnumeriques => marmiton_officiel
+
+résumé de la quotidienne des Nums : le point sur l'Ukraine, la cyberguerre, l'armée IT, Starlink en cours de déploiement, la Russie est de plus en plus isolée au niveau paiment, tech, réseau sociaux, mais leurs militaires communiquent en clair et tout le monde peut les écouter
+pendant ce temps, l'actu tech classique : les infos Mobile Word Congress 2022 à Barcelone, avec les nouveau smartphones et lunettes augmentées ; le cargo en feu qui transportaient des milliers de voitures a coulé ; et les nouveautés dans les bouquets de SVOD pour mars 
+
+
+--------------------------------------
+2022-03-03
+
+- [WRadio] “Las unidades nacionalistas de Ucrania destruyeron a la población de Donetsk y Lugansk”: portavoz del Ministerio de Exteriores de Rusia → https://www.wradio.com.co/2022/03/02/las-unidades-nacionalistas-de-ucrania-destruyeron-donetsk-y-lugansk-portavoz-del-ministerio-de-exteriores-de-rusia/
+- [ZDNet France] Cyberattaques : Un nouveau wiper utilisé contre les réseaux ukrainiens. Un nouveau malware de type wiper a été découvert dans des attaques ayant ciblé l'Ukraine juste avant son invasion par la Russie → https://zdnet.fr/actualites/cyberattaques-39938189.htm
+- [Veriety]  Netflix Pauses All Projects, Acquisitions From Russia (EXCLUSIVE)  → https://variety.com/2022/tv/global/netflix-pauses-russia-projects-acquisitions-1235194200/
+- [Politico] Roku boots RT from its global platform. The internet TV and streaming service becomes the latest to disassociate itself from the Russia state-controlled network → https://www.politico.com/news/2022/03/01/roku-boots-rt-from-its-global-platform-00013014
+- [The Verge] Russia holds OneWeb rocket launch hostage, issues conditional demands. Doesn’t look like this flight is going to happen now → https://www.theverge.com/2022/3/2/22958082/
+- [Ars Technica] Ukraine asks ICANN to revoke Russian domains and shut down DNS root servers. Expert: Cutting DNS links would harm Russian people but have little impact on gov't → https://arstechnica.com/tech-policy/2022/03/ukraine-wants-russia-cut-off-from-core-internet-systems-experts-say-its-a-bad-idea/
+- [News.com.au] Russian soldiers are chasing Ukrainian girls on Tinder. As Russian invades Ukraine, Russian soldiers are looking for love – turning to Tinder and sending flirty requests to Ukrainian women → https://www.news.com.au/lifestyle/relationships/dating/russian-soldiers-are-chasing-ukrainian-girls-on-tinder/news-story/d730ab5a9cb90702365c06973b577ad7
+
+- [Les Numériques] Test Dreame Vacuum D9 : un aspirateur-robot qui envoie du rêve → https://www.lesnumeriques.com/aspirateur-robot/dreame-vacuum-d9-p67517/test.html
+- Yema LED Kavinsky → https://kavinsky.yema.com/
+- [Les Numériques] 1,7 million de montres connectées Fitbit Ionic rappelées pour risque de brulure → https://lesnumeriques.com/montre-connectee/-n177751.html
+- [Les Numériques] Test AMD Radeon RX 6500 XT : de l'entrée de gamme qui affiche vite ses limites → https://www.lesnumeriques.com/carte-graphique/amd-radeon-rx-6500-xt-p66759/test.html
+- [BusinessWire] Leaders in Semiconductors, Packaging, IP Suppliers, Foundries, and Cloud Service Providers Join Forces to Standardize Chiplet Ecosystem → https://www.businesswire.com/news/home/20220302005254/en/
+- [Les Numériques] MWC 2022 – Prise en main du Honor Magic V, un smartphone pliant abouti → https://lesnumeriques.com/telephone-portable/-n177661.html
+- [Les Numériques] Dalle Amoled à 120 Hz, recharge à 150 W… Le OnePlus Nord 3 se précise → https://lesnumeriques.com/telephone-portable/-n177721.html
+- [Digitimes Asia] HTC announces Viverse metaverse vision, to launch metaverse phone in April → https://www.digitimes.com/news/a20220302PD215/htc-metaverse-viverse.html
+- [Les Numériques] iPhone SE 2022 et performance : rendez-vous pour une keynote Apple le 8 mars → https://lesnumeriques.com/telephone-portable/-n177749.html
+- [Android Authority] Samsung might be throttling the performance of 10,000 apps → https://www.androidauthority.com/samsung-gos-throttling-apps-3125885/
+- [ZDNet France] Linus Torvalds va faire passer le noyau de Linux à une version plus moderne du langage C → https://www.zdnet.fr/actualites/linux-39938057.htm
+
+- [Les Numériques] Voitures électriques : les plateformes au cœur de la transition → https://lesnumeriques.com/voiture/-a176079.html
+- [CNBC] GM, Ford are all-in on EVs. Here’s how their dealers feel about it → https://www.cnbc.com/2021/06/13/gm-ford-are-all-in-on-evs-heres-how-dealers-feel-about-it-.html
+- [twitter] Elon Musk - Tesla has created over 50,000 US jobs building electric vehicles & is investing more than double GM + Ford combined → https://twitter.com/elonmusk/status/1498858611241635843
+- [Electrek] Rivian announces 2 motor and smaller battery options, config updates, and steep $12,000+ price increase → https://electrek.co/2022/03/01/rivian-prices-increases-many-electric-pickup/
+
+- [Les Numériques] Orange va débrancher la 2G et la 3G en France d’ici à 2028 → https://lesnumeriques.com/pro/-n177697.html
+- [The Verge] Facebook shuts down its attempt to remake original Facebook inside Facebook. The blue app is killing off Campus, its section for college students → https://www.theverge.com/2022/3/2/22958596/
+- [Crunchyroll] Les catalogues de Wakanim et Funimation rejoignent celui de Crunchyroll pour offrir la plus grande collection d’anime au monde → https://www.crunchyroll.com/fr/anime-news/2022/03/01/les-catalogues-de-wakanim-et-funimation-rejoignent-celui-de-crunchyroll-pour-offrir-la-plus-grande-collection-danime-au-monde
+- [Gamekult] Test : Gran Turismo 7, la passion du cric. L'asphalte et l'oméga, 8/10 par Amaebi → https://www.gamekult.com/jeux/gran-turismo-7-3050292271/test.html
+- [Gamekult] Gran Turismo 7 : le comparatif technique PS4 / PS5, par Furolith → https://www.gamekult.com/actualite/gran-turismo-7-le-comparatif-technique-ps4-ps5-3050847363.html
+- [Les Numériques] Gran Turismo 7 : c'est dans les vieux pots d'échappement… → https://lesnumeriques.com/jeux-video/-a177563.html
+
+- Steam Deck, modèle 64 Go eMMC à 419 €, modèle 256 Go SSD à 549 €, modèle 512 Go SSD à 679 € → https://www.steamdeck.com/fr/ | https://store.steampowered.com/steamdeck
+
+raids : lesnumeriques => GuimauseTerrier
+
+
+
 
 
 - [Les Numériques] 
@@ -3766,6 +3855,7 @@ raids : lesnumeriques => Oniriie => weetalala
 
 📯 📯 📯
 ⭐⭐⭐⭐⭐
+@lesnumeriques RECORD ⏺️
 SwiftRage 📢 Lâm ! on enchaîne !
 SwiftRage 📢 Lâm il est 13:00 🕐
 SwiftRage 📢 Lâm il est 13:30 🕜
