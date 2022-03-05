@@ -10140,8 +10140,6 @@ Une autre explication vient de Claude Duneton. Elle remonterait d'abord à une e
 - 🇺🇸 Ambermoon - Open source remake of a fantastic CRPG gets the best version so far! (Amiga/Linux/Mac/Pi4/Windows) , version 1.5 is out → https://github.com/Pyrdacor/Ambermoon.net
 
 :::::
-- 🇺🇸 [VGC] Elden Ring looks likely to have smashed Souls sales records in the UK. From Software’s latest comfortably outsold its predecessors in terms of boxed sales → https://cutt.ly/OAi5b8n
-- 🇫🇷 [Gamekult] Elden Ring réalise un démarrage colossal sur Steam, mais l'optimisation n'est pas au rendez-vous → https://gamekult.com/actualite/-3050847251.html
 - 🇫🇷 [Gamekult] Digimon Survive, Digimon Story : Bandai Namco fait le point sur les projets en cours. Il y a eu un changement de développeur → https://gamekult.com/actualite/-3050847303.html
 
 - 🇫🇷 [Gamekult] Nexon rend hommage à Kim Jung-ju, son fondateur décédé. Le milliardaire philanthrope était dépressif → https://gamekult.com/actualite/-3050847359.html
@@ -10176,8 +10174,61 @@ Vampire Survivors, en accès anticipé depuis le 17 décembre 2021 sur Windows
 ⌨️ 🖱️ 2,40 € sur Steam (https://tinyurl.com/32p523ky)
 ⌨️ 🖱️ démo gratuite : https://poncle.itch.io/vampire-survivors
 
-raids : Gautoz => WoodyLutherie
+raids : Gautoz => WoodyLutherie => Lilynia => mojii_rawr
 
+
+
+--------------------------------------
+2022-03-04
+
+Coup de pompe : coup de pied ou coup de fatigue. Quand elle signifie coup de pied, elle tire son sens du fait qu'en argot, les pompes désignent les chaussures. Quand elle désigne un coup de fatigue, elle tire son origine de son utilisation au début du XIXe siècle pour désigner les chutes brutales subies par un avion lors de trous d'air, qui ont été comparées ensuite aux chutes de tonus ressenties par le corps humain.
+-- https://www.linternaute.fr/expression/langue-francaise/15911/coup-de-pompe/
+
+avoir un coup de pompe : avoir un brusque accès de fatigue ; avoir un coup de fatigue. […] cette expression apparaît aux alentours de 1920, puisque Gaston Esnault l'a relevée en 1922 dans le milieu cycliste (comme par hasard !), mais sans en expliquer l'origine exacte. Parmi les pompes qui pourraient nous intéresser, en dehors de celle à vélo, il y a la chaussure, en argot, dont un coup bien placé peut éventuellement provoquer une grosse fatigue, et les pompes, celles du sportif aux abdos et bras en béton, qui peuvent laisser épuisé si on en abuse (moi, elles me laissent sur le carreau, même pratiquées avec beaucoup de modération).
+Par contre, Duneton évoque un article paru également en 1922 et dont le sujet est une toute autre pompe. Ce texte parle des passagers d'un avion qui ont rendu tripes et boyaux[1] suite à un vol très chahuté et qui, à l'atterrissage, sortent de l'avion livides et en se traînant lamentablement, tellement on leur a secoué la pulpe du fond. Par contre, le pilote resté fringant, dit en descendant et en voyant les débris de ses passagers : "tu parles qu'on a pris un de ces coups de pompe !"
+-- https://www.expressio.fr/expressions/avoir-un-coup-de-pompe
+
+orchidoclaste : terme pseudo-scientifique créé par dérision, formé à partir du grec ancien ὄρχις, orkhis (« testicule ») et κλαστός, klastós (« brisé »)
+
+
+- 🇫🇷 [Gamekult] PlatinumGames : le public boude Sol Cresta et Babylon's Fall. Statut : c'est compliqué → https://gamekult.com/actualite/-3050847443.html
+- 🇺🇸 [VGC] On its release day, Babylon’s Fall has peaked at fewer than 650 concurrent players on Steam. The Square Enix title is currently outside of Steam’s top 50 best selling games → https://cutt.ly/7AjzUOM
+
+- 🇺🇸 [Epic] Bandcamp joining Epic Games to support fair, open platforms for artists and fans → https://cutt.ly/gAjcyoo
+- 🇺🇸 [Bandcamp] Bandcamp is joining Epic Games → https://cutt.ly/hAjcaWv
+
+- 🇺🇸 [Xfire] Quantic Dream struggles to hire for Star Wars Eclipse, release aimed for 2027. Despite an astounding trailer for Star Wars Eclipse being released at the end of last year, it appears that staffing issues are pushing the release of the game far, far away → https://cutt.ly/wAjcmPc
+
+- 🇫🇷 [Gamekult] Ubisoft repousse le retour de The Settlers pour améliorer la qualité du jeu. Pas encore de nouvelle date → https://gamekult.com/actualite/-3050847441.html
+- 🇺🇸 [VGC] Ubisoft has delayed The Settlers reboot again after beta feedback. “It became clear to our team that the quality wasn’t yet in line with the team’s vision” → https://cutt.ly/IAjEKVK
+
+- 🇫🇷 [Gamekult] CD Projekt et Bloober Team suspendent les ventes de leurs jeux en Russie et en Biélorussie. Une nouvelle marque de soutien au peuple ukrainien → https://gamekult.com/actualite/-3050847425.html
+- 🇺🇸 [VGC] Sony has quietly pulled Gran Turismo 7’s Russian release. On release day the racer is unavailable to buy via the Russian PlayStation Store → https://cutt.ly/eAjYzP2
+
+- 🇫🇷 [Gamekult] Après Returnal, Housemarque s'attaque à une nouvelle licence sur PS5, tout en restant dans la gamme AAA → https://gamekult.com/actualite/-3050847395.html
+- 🇺🇸 [VGC] Returnal studio Housemarque’s next game will be a new IP. The PlayStation-owned studio says it’s still “concepting it out” → https://cutt.ly/3AjUYEj
+
+- 🇫🇷 [Gamekult] Warren Spector ne lâche rien et annonce un nouveau jeu → https://gamekult.com/actualite/-3050847399.html
+
+- 🇫🇷 [Gamekult] Sifu dépasse le million de ventes en moins d'un mois. 150 000 joueurs ont terminé le jeu → https://gamekult.com/actualite/-3050847393.html
+
+- 🇺🇸 [VGC] Elden Ring looks likely to have smashed Souls sales records in the UK. From Software’s latest comfortably outsold its predecessors in terms of boxed sales → https://cutt.ly/OAi5b8n
+- 🇫🇷 [Gamekult] Elden Ring réalise un démarrage colossal sur Steam, mais l'optimisation n'est pas au rendez-vous → https://gamekult.com/actualite/-3050847251.html
+
+- 🇺🇸 [Games Industry] Elden Ring is the biggest non-FIFA or Call of Duty launch since Red Dead Redemption 2 | UK Digital Charts. Bigger than Assassin's Creed Valhalla, bigger than Cyberpunk 2077 → https://cutt.ly/RAjzjK9
+- 🇫🇷 [Gamekult] Elden Ring : son énorme lancement décortiqué au Royaume-Uni. Seuls FIFA et Call of Duty ont fait mieux récemment → https://gamekult.com/actualite/-3050847431.html
+- 🇺🇸 [VGC] Elden Ring had the biggest non-FIFA or Call of Duty UK launch since Red Dead 2. From Software’s latest beat games like Cyberpunk 2077 and Assassin’s Creed Valhalla → https://cutt.ly/vAjzKhg
+
+- 🇬🇧 [Eurogamer] DICE reveals massive changes to Battlefield 2042's map design, and is reaching out for feedback on proposals → https://cutt.ly/jAjAPYT
+- 🇺🇸 [EA DICE] Battlefield core feedback - maps → https://cutt.ly/iAjALnJ
+
+- 🇫🇷 [Gamekult] Haven se met à jour avec désormais des couples de même genre. Les designs changent, l'amour reste → https://gamekult.com/actualite/-3050847427.html
+
+
+Kirby et le monde oublié ✨ sortie le 25 mars 2022 sur Switch
+🎮 démo gratuite sur eShop (https://cutt.ly/rAjXT8E)
+
+raids : Gautoz => KeydeeGamerBoy => northernrufio
 
 
 
