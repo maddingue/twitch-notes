@@ -3832,9 +3832,71 @@ pendant ce temps, l'actu tech classique : les infos Mobile Word Congress 2022 à
 
 - Steam Deck, modèle 64 Go eMMC à 419 €, modèle 256 Go SSD à 549 €, modèle 512 Go SSD à 679 € → https://www.steamdeck.com/fr/ | https://store.steampowered.com/steamdeck
 
-raids : lesnumeriques => GuimauseTerrier
+raids : lesnumeriques => GuimauseTerrier => vincentvinel => MartinMartin_M2X => Krysthal => SarysFR => MisterMV (24 h)
 
 
+--------------------------------------
+2022-03-04
+
+- [The Verge] Telecoms blackout hits northeast Ukraine; large power outages also reported. A major connectivity loss followed blasts at an electricity substation in the Sumy Oblast region → https://www.theverge.com/2022/3/3/22960374/
+- [Le Figaro] Le «Google russe» Yandex prévient qu'il risque de faire défaut sur sa dette → https://www.lefigaro.fr/societes/le-google-russe-yandex-previent-qu-il-risque-de-faire-defaut-sur-sa-dette-20220304
+- [Le Figaro] La Russie userait des bitcoins pour contourner les sanctions → https://www.lefigaro.fr/secteur/high-tech/la-russie-userait-des-bitcoins-pour-contourner-les-sanctions-20220302
+- [Reuters] U.S. lawmakers push Treasury to ensure Russia cannot use cryptocurrency to avoid sanctions → https://www.reuters.com/world/us/us-lawmakers-push-treasury-ensure-russia-cannot-use-cryptocurrency-avoid-2022-03-02/
+- [Reuters] Coinbase, Binance will not ban Russians from using crypto platforms → https://www.reuters.com/technology/coinbase-not-banning-russians-using-platform-ceo-says-2022-03-04/
+- [Les Numériques] En Russie, la demande pour les VPN explose → https://lesnumeriques.com/vie-du-net/-n177781.html
+- [Wired] Hacktivists Stoke Pandemonium Amid Russia’s War in Ukraine. A wave of cyberattacks meant to make a statement and particularly buoy Ukraine could have unintended consequences → https://www.wired.com/story/hacktivists-pandemonium-russia-war-ukraine/
+- [Reflets.info] Reflets s'invite par hasard dans les voitures de police ukrainiennes. Les caméras de vidéosurveillance n'étaient pas protégées → https://reflets.info/articles/reflets-s-invite-par-hasard-dans-les-voitures-de-police-ukrainiennes
+- [The Verge] Cyberpunk 2077 developer CD Projekt Red cuts off sales in Russia and Belarus. Ukraine’s Mykhailo Fedorov has called on big gaming companies to take action against Russia → https://www.theverge.com/2022/3/3/22959975/
+- [Les Numériques] Conflit Russie/Ukraine : l'angle tech → https://www.lesnumeriques.com/vie-du-net/conflit-russie-ukraine-l-angle-tech-e177815.html
+
+- [Ars Technica] Cybercriminals who breached Nvidia issue one of the most unusual demands ever. Chipmaker has until Friday to comply or see its crown-jewel source code released → https://arstechnica.com/?p=1838180
+- [ZDNet France] ZD Tech : Hack back, la meilleure défense est-elle l’attaque ? Alors que les cyberattaques n'ont jamais été aussi nombreuses, certaines organisations pourraient être tentées de répliquer. Une idée qui n'a pas les faveurs des autorités, mais qui ressurgit fréquemment dans les débats → https://www.zdnet.fr/actualites/hack-back-39938241.htm
+
+- [Technology Review] The secret police: Cops built a shadowy surveillance machine in Minnesota after George Floyd’s murder. An investigation by MIT Technology Review reveals a sprawling, technologically sophisticated system in Minnesota designed for closely monitoring protesters → https://www.technologyreview.com/2022/03/03/1046676/
+- [ICIJ] After ICIJ exposes possible ISIS deals, US accuses Ericsson of breaching corruption agreement → https://www.icij.org/investigations/ericsson-list/after-icij-exposes-possible-isis-deals-us-accuses-ericsson-of-breaching-corruption-agreement/
+
+- [The Verge] Bungie rejects Steam Deck’s Linux, threatens to ban Destiny 2 players there. ‘Players who attempt to bypass Destiny 2 incompatibility will be met with a game ban’ → https://www.theverge.com/22957294/bungie
+- [exputer] Nintendo Is Removing Switch Emulation Videos On Steam Deck. Nintendo is back with its infamous takedowns of fan content → https://exputer.com/news/nintendo/switch-emulation-steam-deck/
+
+- [Les Numériques] Labo - AMD Ryzen 9 6900HS : nos premiers essais des processeurs mobiles Zen+ sont concluants → https://lesnumeriques.com/cpu-processeur/-n177767.html
+- [Snazzy Labs] We made the Mac mini ACTUALLY mini! → https://www.youtube.com/watch?v=pQWGFKhBQwU
+- [The Verge] Sony and Honda plan to make electric vehicles together. The first model is expected in 2025 → https://www.theverge.com/2022/3/4/22961207/
+
+- [New Atlas] "Drug factory" beads implanted in mice take out tumors within a week → https://newatlas.com/medical/drug-factory-beads-tumors-cancer-week/
+- [Les Numériques] Clap de fin pour les librairies physiques d’Amazon → https://lesnumeriques.com/pro/-n177791.html
+- [Ars Technica] Musk “invites” union vote at Tesla plant despite long history of hostility. Musk’s offer may be attempt to please Biden, who wants union-made EVs → https://arstechnica.com/tech-policy/2022/03/musk-invites-union-vote-at-tesla-plant-despite-long-history-of-hostility/
+- [Les Numériques] La parité, le combat de Women in Games dans l’industrie du jeu vidéo → https://lesnumeriques.com/emission/-em177779.html
+- [CNET] Your iPhone Experience Could Be Better. Just Change These Settings → https://www.cnet.com/tech/mobile/your-iphone-experience-could-be-better-just-change-these-settings/
+
+- [Les Numériques] Tuto : comment bien entretenir son aspirateur-robot → https://lesnumeriques.com/aspirateur-robot/-a177289.html
+- [Les Numériques] Test Samsung Galaxy Tab S8+ : dans la continuité de la Galaxy Tab S7+ → https://www.lesnumeriques.com/tablette-tactile/samsung-galaxy-tab-s8-p63695/test.html
+- [Les Numériques] Test Peak Design Everyday Sling V2 10L : un sac en bandoulière pratique et efficace, sans s'encombrer → https://www.lesnumeriques.com/sac-photo/peak-design-everyday-sling-p62321/test.html
+
+- [CNN] Tiny 'flower' formation spotted on Mars by Curiosity rover → https://edition.cnn.com/2022/03/03/world/mars-flower-curiosity-rover-scn/index.html
+- [The Guardian] Space junk set to crash into far side of moon and cause huge crater. Spent rocket body believed to be part of Chinese Chang’e 5-T1 mission expected to hit lunar surface at 5,500mph → https://www.theguardian.com/science/2022/mar/03/space-junk-about-to-crash-into-far-side-of-moon
+- [NextImpact] La folie NFT. Ça fout les jetons → https://www.nextinpact.com/article/49791/la-folie-nft
+- [Business Insider] Wingstop has filed a trademark to sell chicken wings in the metaverse → https://africa.businessinsider.com/retail/wingstop-has-filed-a-trademark-to-sell-chicken-wings-in-the-metaverse/smmzk96
+
+- [TechExplore] Facebook researchers find its apps can make us lonelier → https://techxplore.com/news/2022-03-facebook-apps-lonelier.html
+- [The Verge] Twitch has a new policy that will ban ‘harmful misinformation superspreaders’. The company says such users are not prevalent on its platform → https://www.theverge.com/2022/3/3/22960269/
+- [The Verge] Netflix is launching a daily trivia series called Trivia Quest. The latest in Netflix’s interactive series → https://www.theverge.com/2022/3/3/22960212/
+- [Allociné] Netflix : Pamela Anderson annonce un documentaire pour raconter sa vérité → https://www.allocine.fr/article/fichearticle_gen_carticle=18707504.html
+- [Netflix] top 10 des films non anglais → https://top10.netflix.com/films-non-english
+
+- [Les Numériques] Fuite de données Nvidia : la Nintendo Switch Pro ou “4K” était bien prévue → https://lesnumeriques.com/console-de-jeu/-n177709.html
+
+- [Le Monde] Santé mentale des enfants : aux Etats-Unis, enquête ouverte contre TikTok. Les procureurs de huit Etats américains s’intéressent aux stratégies mises en place par le réseau social pour augmenter le temps qu’y passent ses plus jeunes utilisateurs → https://www.lemonde.fr/pixels/article/2022/03/03/tiktok_6115984_4408996.html
+- [Les Numériques] TikTok fait l’objet d’une enquête concernant son impact sur la santé mentale des jeunes → https://lesnumeriques.com/vie-du-net/-n177789.html
+
+- [Les Numériques] Pas que Netflix dans la vie : les services de streaming moins connus disponibles en France → https://lesnumeriques.com/vie-du-net/-a160301.html
+
+raids : lesnumeriques => marmiton_officiel
+
+résumé de la quotidienne : le point Ukraine, avec la panne de courant dans la région de Sumy ; Yandex qui va faire faillite ; la Russie qui utilise des cryptomonnaies pour contourner les sanctions ; la demande pour les VPN explose ; Reflets s'invite dans les caméras de la police ukrainienne
+sur le reste : le système de surveillance secret de la police du Minnesota ; Ericsson qui travaillait avec Daech ; Sony & Honda vont faire des voitures électriques ; Amazon ferment ses rares boutiques physiques ; Elon Musk est finalement ok pour des syndicats
+les infos de l'espace : une fleur de pierre découverte ; le rover Curiosity qui a des petits soucis de roues ; un débris qui vient de s'écraser sur la Lune
+la folie NFT, un enquête de NextImpact, et une chaîne de magasin qui veut faire des chicken wings NFT
+aux USA, enquête contre TikTok et son impact sur la santé mentale des enfants
 
 
 
