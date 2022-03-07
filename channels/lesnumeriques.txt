@@ -3899,6 +3899,62 @@ la folie NFT, un enquête de NextImpact, et une chaîne de magasin qui veut fair
 aux USA, enquête contre TikTok et son impact sur la santé mentale des enfants
 
 
+--------------------------------------
+2022-03-07
+
+- Microsoft suspends new sales in Russia → https://blogs.microsoft.com/on-the-issues/2022/03/04/microsoft-suspends-russia-sales-ukraine-conflict/
+- [Reuters] Airbnb, Booking join Western corporate shutdowns in Russia → https://www.reuters.com/technology/airbnb-is-suspending-all-operations-russia-belarus-ceo-says-2022-03-04/
+- [Reuters] Google suspends all ad sales in Russia as censorship demands grow → https://www.reuters.com/technology/google-pauses-all-ad-sales-russia-2022-03-04/
+- Samsung stops selling phones, chips and other products to Russia → https://www.sammobile.com/news/samsung-stops-selling-phones-chips-other-products-to-russia/
+- [Les Numériques] Guerre en Ukraine : Wikipédia soutient ses contributeurs après une menace de blocage par la Russie → https://lesnumeriques.com/vie-du-net/-n177895.html
+- [Washington Post] PayPal SuspeNds operations in Russia → https://www.wsj.com/livecoverage/russia-ukraine-latest-news-2022-03-04/card/paypal-suspends-operations-in-russia-6KSnhALVjRYwU0aTApFY
+- 🇫🇷 [Gamekult] Guerre en Ukraine : Activision Blizzard dit stop à son tour et se coupe du marché russe, tandis que le Nintendo eShop est en "maintenance" → https://gamekult.com/actualite/-3050847475.html
+- 🇺🇸 [Games Industry] Russian Nintendo eshop put in maintenance mode amid wave of firms cutting all sales. Nintendo attributes halting of digital game sales to issue with payment processing → https://cutt.ly/VAmTBTA
+- 🇫🇷 [Gamekult] Electronic Arts stoppe à son tour les ventes de ses jeux en Russie et en Biélorussie → https://gamekult.com/actualite/-3050847471.html
+- [Romero Shop] Doom 2 level One Humanity → https://romero.com/shop/p/onehumanity
+- [Automotive News] Russian autonomous-driving company Yandex SDG idles U.S. operations amid Ukraine invasion. Yandex said it paused operation of its robotaxis in Ann Arbor, Mich., and ended a delivery partnership with Grubhub as Russia's invasion of Ukraine continues → https://www.autonews.com/mobility-report/russian-autonomous-driving-company-yandex-sdg-idles-us-operations-amid-ukraine
+- [Twitter - Elon Musk] Starlink has been told by some governments (not Ukraine) to block Russian news sources. We will not do so unless at gunpoint → https://twitter.com/elonmusk/status/1499976967105433600
+- [ZDNet France] Des villes ukrainiennes sans électricité après des attaques contre des infrastructures énergétiques. Mariupol et Sumy connaissent des coupures de courant suite aux attaques des forces russes. Entre autres conséquences, Internet n'y est plus disponible → https://www.zdnet.fr/actualites/electricite-39938329.htm
+- [ZDNet France] L'ICANN ne bloquera pas l'accès de la Russie à internet. Les organisations qui régissent l'internet mondial ne se sont pas pliées aux demandes de l'Ukraine, qui souhaite bloquer l'accès de la Russie à la toile pour entraver la propagande du Kremlin en ligne → https://www.zdnet.fr/actualites/icann--39938335.htm
+- [The Verge] Internet backbone provider shuts off service in Russia. Likely resulting in slower connectivity in Russia → https://www.theverge.com/2022/3/5/22962822/
+- [Les Numériques] En Russie, la demande pour les VPN explose → https://lesnumeriques.com/vie-du-net/-n177781.html
+- [Ars Technica] Low on gas: Ukraine invasion chokes supply of neon needed for chipmaking. Production of gases used to make semiconductors at risk → https://arstechnica.com/gadgets/2022/03/low-on-gas-ukraine-invasion-chokes-supply-of-neon-needed-for-chipmaking/
+- [VICE Motherboard] Ukrainian and Russian Pornhub Performers Protest the War → https://www.vice.com/en/article/n7nkzb/ukrainian-and-russian-pornhub-performers-protest-the-war
+- [Wired] The war in Ukraine is keeping Chinese social media censors busy. Posts that glorify war and those that criticize Russia are getting quietly deleted, as platforms are pressured to walk a thin line → https://www.wired.com/story/war-ukraine-chinese-social-media-censors-busy/
+
+
+- [The Elec] Samsung Display begins two-stack tandem OLED development to win iPad order → http://www.thelec.net/news/articleView.html?idxno=3874
+- [Les Numériques] Samsung Galaxy M23 : de la 5G à l’approche sur la gamme M → https://lesnumeriques.com/telephone-portable/-n177887.html
+- [Les Numériques] Motorola Moto G22 : un smartphone à petit prix et sous Android 12 → https://lesnumeriques.com/telephone-portable/-n177879.html
+- [Les Numériques] Test Oppo Find X5 Pro : un smartphone premium qui tient ses promesses → https://www.lesnumeriques.com/telephone-portable/oppo-find-x5-pro-p67171/test.html
+- [Andoid Police] The OSOM OV1, an Essential Phone 'sequel', will be made of stainless steel, titanium, and ceramic → https://www.androidpolice.com/osom-ov1-specs-stainless-steel-titainium-ceramic/
+- [ZDNet France] Samsung s'attaque au problème de "l'étranglement des applications" sur ses Galaxy S22. De nombreuses plaintes ont été déposées concernant les performances des appareils Samsung Galaxy S22 limitées par une application préinstallée. Le constructeur sud-coréen indique avoir pris note de ces plaintes → https://www.zdnet.fr/actualites/galaxy-s22-39938339.htm
+
+- [Les Numériques] Test Asus ROG Strix Scar 17 : le PC portable gaming de tous les superlatifs → https://www.lesnumeriques.com/ordinateur-portable/asus-rog-strix-scar-17-rtx-3070-ti-120-hz-p67307/test.html
+- [9to5Mac] Exclusive: ‘Mac Studio’ is coming – is it the pro Mac mini or mini Mac Pro? → https://9to5mac.com/2022/03/04/exclusive-mac-studio-is-coming-is-it-the-pro-mac-mini-or-mini-mac-pro/
+- [9to5Google] Google app tweaks its dark theme on Android to be darker → https://9to5google.com/2022/03/01/google-app-dark-theme/
+- [XDA Developers] GrapheneOS brings its privacy-conscious camera and PDF viewer apps to the Play Store → https://www.xda-developers.com/grapheneos-camera-pdf-viewer-google-play-store/
+
+…
+
+- [Twitch] Un revenu de publicités stable en un seul clic ? C'est possible → https://blog.twitch.tv/fr-fr/2022/02/22/reliable-ad-revenue-with-one-click-its-really-happening/
+
+- [Les Numériques] TikTok fait l’objet d’une enquête concernant son impact sur la santé mentale des jeunes → https://lesnumeriques.com/vie-du-net/-n177789.html
+
+- [CNET France] Comment savoir si un AirTag vous espionne. L'application Tracker Detect d'Apple permet de savoir si vous êtes suivi par un AirTag malveillant → https://www.cnetfrance.fr/produits/airtag-39937805.htm
+- [The Verge] AirTags are dangerous — here’s how Apple could fix them. Accuracy doesn’t have to trump safety → https://www.theverge.com/2022/3/1/22947917/
+
+- [Les Numériques] Le Texas poursuit Facebook pour des pratiques illégales de reconnaissance faciale → https://lesnumeriques.com/vie-du-net/-n176747.html
+- [Ars Technica] Google Meet now shares detailed bandwidth information with your employer. Administrators can see the precise second your call quality dropped → https://arstechnica.com/gadgets/2022/03/google-meet-now-shares-detailed-bandwidth-information-with-your-employer/
+- [Engadget] Apple may soon drop mask requirements for retail and corporate employees. Where legal, masks could become optional for Apple Store staff starting today → https://www.engadget.com/apple-may-soon-drop-mask-requirements-for-both-retail-and-corporate-employees-081503288.html
+- [ZDNet France] ZD Tech : Pourquoi nous utilisons toujours les mêmes mots de passe, même quand ils ont été volés. Ces mots de passe réutilisés sont un énorme problème de sécurité. Car si un mot de passe a été compromis une fois, les pirates peuvent l'utiliser pour accéder à d'autres comptes s'il a été utilisé comme identifiant pour un autre site → https://www.zdnet.fr/actualites/mots-de-passe-39938319.htm
+
+raids : lesnumeriques => SosCine
+
+
+
+
+
 
 - [Les Numériques] 
 - [ZDNet France] 
