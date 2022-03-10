@@ -3980,8 +3980,63 @@ raids : lesnumeriques => SosCine
 - Ghibli Fest → https://www.ghiblifest.com/
 - [Deadline] ‘God of War’ TV Series Adaptation Eyed By Prime Video → https://deadline.com/2022/03/god-of-war-1234959867/
 
-raids : lesnumeriques => Trinity => Reine_LoutreCreative => lucy_mazel => Pomelyne => aldwilayn => BeckyAndCloud => MeganAndCooperTV
+raids : lesnumeriques => Trinity => Reine_LoutreCreative => lucy_mazel => Pomelyne => aldwilayn => BeckyAndCloud => MeganAndCooperTV => AshleyPer4mer => kiiger => sydneywr1ght => pinkhairproducer => itsmelenkale.
 
+
+--------------------------------------
+2022-03-09
+
+- [Facebook] Meta’s Ongoing Efforts Regarding Russia’s Invasion of Ukraine → https://about.fb.com/news/2022/02/metas-ongoing-efforts-regarding-russias-invasion-of-ukraine/
+- 🇺🇸 [itch.io] Bundle for Ukraine. A bundle hosted by Necrosoft Games with content from 733 creators → https://cutt.ly/KAUm9IK
+- 🇫🇷 [Gamekult] Le généreux Bundle for Ukraine a récolté plus d'un million de dollars sur Itch. Des centaines de jeux pour un minimum de 10 dollars → https://gamekult.com/actualite/-3050847551.html
+- [Twitter - Alec Muffett] This is possibly the most important and long-awaited tweet that I've ever composed. On behalf of @Twitter, I am delighted to announce their new @TorProject onion service → https://twitter.com/AlecMuffett/status/1501282223009542151
+- Lumen’s Readiness to Meet Global Events → https://news.lumen.com/RussiaUkraine
+- [Cloudflare] Steps we've taken around Cloudflare's services in Ukraine, Belarus, and Russia → https://blog.cloudflare.com/steps-taken-around-cloudflares-services-in-ukraine-belarus-and-russia/
+- [The Times] ‘Game-changing’ drones helping Ukraine in battle for the skies → https://www.thetimes.co.uk/article/drones-lg68l8xjw
+- [Korii] Le «Punisher» ukrainien: mini drone mais maxi dégâts. Conçu en Ukraine, le discret petit appareil fait très mal aux Russes → https://korii.slate.fr/tech/guerre-ukraine-punisher-petit-drone-low-cost-maxi-degats-ravitaillement-logistique-russe
+
+- [Les Numériques] LG UltraGear 48GQ900 OLED → https://www.lesnumeriques.com/moniteur-ecran-lcd/lg-ultragear-48gq900-oled-p67865.html
+- [Les Numériques] Canon devrait lancer jusqu'à 32 nouveaux objectifs RF à l'horizon 2025 → https://lesnumeriques.com/zooms/-n178057.html
+- [Les Numériques] Test Nikon Z9 : puissant, polyvalent... un hybride presque parfait → https://www.lesnumeriques.com/reflex-hybride/nikon-z9-p60365/test.html
+- [Les Numériques] Test Aspirateur-balai Dreame P10 : pas assez endurant → https://www.lesnumeriques.com/aspirateur-balai/dreame-p10-p67531/test.html
+- [Les Numériques] Le robot-cuiseur Silvercrest Monsieur Cuisine Plus reviendra en boutique le 10 mars à 199 € → https://lesnumeriques.com/robot-cuiseur-multifonction/-n178023.html
+- [Les Numériques] Test KitchenAid Artisan 5KSM185 : la crème des robots-pâtissiers en version premium → https://www.lesnumeriques.com/robot-patissier/kitchenaid-artisan-5ksm185ps-p67847/test.html
+
+- [Les Numériques] AMD a enfin trouvé la cause des ralentissements de ses processeurs Ryzen sous Windows 10 → https://lesnumeriques.com/carte-mere/-n178093.html
+- [YONHAP News] Owners gearing up to sue Samsung for alleged performance limits in Galaxy S22 series → https://en.yna.co.kr/view/AEN20220308007300315
+- [Les Numériques] Xiaomi 12 : la date de lancement des smartphones révélée → https://lesnumeriques.com/telephone-portable/-n178111.html
+
+- [Les Numériques] Keynote Apple 2022 – L’iPhone SE 2022 se dévoile → https://lesnumeriques.com/telephone-portable/-n178123.html
+- [Les Numériques] Keynote Apple 2022 – L'iPad Air 5 boosté à la puce M1 → https://lesnumeriques.com/telephone-portable/-n178125.html
+- [Les Numériques] Keynote Apple 2022 – Le nouveau moniteur Apple Studio Display 27 pouces Retina 5K équipé d'un processeur Apple A13 → https://lesnumeriques.com/moniteur-ecran-lcd/-n178131.html
+- [Les Numériques] Keynote Apple 2022 – Encore plus puissant que le Max, Apple présente le M1 Ultra → https://lesnumeriques.com/cpu-processeur/-n178133.html
+- [AnandTech] Apple Announces M1 Ultra: Combining Two M1 Maxes For Workstation Performance → https://www.anandtech.com/show/17306/
+
+- [Road.cc] Ducati’s first pedal-assisted road bike doesn’t look much like an e-bike → https://road.cc/content/tech-news/ducatis-futa-road-bike-e-bike-disguise-290873
+- [The Verge] Tern announces a more affordable version of its popular electric cargo bike. The Quick Haul is shorter and cheaper than Tern’s other models → https://www.theverge.com/2022/3/9/22967229/
+- Gogoro unveils world’s first swappable solid state battery prototype for electric vehicles → https://www.gogoro.com/news/solid-state-battery/
+
+- Incident affecting Google Cloud Networking → https://status.cloud.google.com/incidents/LuGcJVjNTeC5Sb9pSJ9o
+- [Les Numériques] Cédric O, le secrétaire d’État au Numérique, quittera la vie politique après la présidentielle → https://lesnumeriques.com/pro/-n178087.html
+- [Les Numériques] Pornhub, Xhamster, Tukif : l'Arcom demande le blocage de cinq sites pornographiques → https://lesnumeriques.com/vie-du-net/-n178091.html
+
+- [Le Monde] Google veut acheter Mandiant, société spécialisée dans la cybersécurité, pour 5,4 milliards de dollars → https://www.lemonde.fr/pixels/article/2022/03/08/google-annonce-son-intention-d-acheter-mandiant-pour-5-4-milliards-de-dollars_6116650_4408996.html
+- [CNET France] Google muscle son jeu dans la cybersécurité avec l’acquisition de Mandiant pour 5,4 milliards de dollars. Une fois la transaction finalisée, Mandiant sera intégré à la branche Google Cloud pour étoffer l’offre de cybersécurité pour les entreprises → https://www.cnetfrance.fr/news/google-39938545.htm
+- Harassment Manager → https://github.com/conversationai/harassment-manager
+- [Business Wire] Google’s Jigsaw Unit Open Sources Code for Harassment Manager Tool in Partnership with Twitter, Thomson Reuters Foundation → https://www.businesswire.com/news/home/20220308005425/en/Google%E2%80%99s-Jigsaw-Unit-Open-Sources-Code-for-Harassment-Manager-Tool-in-Partnership-with-Twitter-Thomson-Reuters-Foundation
+- Introducing the Designed for Xbox. 8BitDo Ultimate Wired Controller for Xbox → https://www.8bitdo.com/ultimate-wired-controller-for-xbox/
+- [Gamekult] 🔬 Tech On Me : Elden Ring, le comparatif technique, sur ancienne et nouvelle génération, par Furolith → https://cutt.ly/VATp6VD
+- [Twitter - Pierre-Loup Griffais] The graphics team has been hard at work on optimizing ELDEN RING for Steam Deck. Fixes for heavy stutter during background streaming of assets will be available in a Proton release next week, but are available to test now on the bleeding-edge branch of Experimental → https://twitter.com/Plagman2/status/1497721812699860994
+- [Ars Technica] Valve does what FromSoftware don’t, thanks to Steam Deck’s precaching update. Cool feature on Steam's desktop client gets new life on static Deck hardware → https://arstechnica.com/gaming/2022/03/how-valve-made-steam-deck-the-first-pc-to-smoothly-run-elden-ring/
+- [Gamekult] Avec 132 millions de joueurs actifs, Steam s'est encore surpassé en 2021. Valve publie sa rétrospective annuelle → https://gamekult.com/actualite/-3050847557.html
+
+raids : lesnumeriques => marmiton_officiel => Ponce => JeanBaptisteShow => WaterPatate => terada
+
+résumé de la quotidienne des Numériques : le point Ukraine, avec le bundle itch-io de plus de 500 jeux qui a déjà rapporté plus de 2 M$ ; Twitter accessible via Tor ; des drônes à pas cher
+et aussi : AMD a trouvé la cause des ralentissements des Ryzen sur Windows 10 ; toutes les nouveautés de la Keynote Apple 2022 avec l'iPhone SE 2022, l'iPad Air 5, le Studio Display 27", le M1 Ultra
+des vélos électriques avec ceux de Futa/Ducati et Tern ; les batteries solies de Gogoro ; la petite panne de Google Cloud qui a impacté SPotify, Discord et autre sservices ; l'Arcom qui demande le blocage des sites pornos en France
+Google achète Mandiant, une entreprise de cybersécurité, et libère Harassment Manager, un outil pour gérer les trolls en ligne
+le comparatif technique de Furolith sur Elden Ring ; l'analyse de Ars Technica sur pourquoi ce jeu rame sur PC, et le fait que la meilleure plate-forme pour y jouer, c'est le KomodoHype STEAM DECK
 
 
 
@@ -4003,6 +4058,7 @@ raids : lesnumeriques => Trinity => Reine_LoutreCreative => lucy_mazel => Pomely
 
 📯 📯 📯
 ⭐⭐⭐⭐⭐
+KomodoHype STEAM DECK
 @lesnumeriques RECORD ⏺️
 SwiftRage 📢 Lâm ! on enchaîne !
 SwiftRage 📢 Lâm il est 13:00 🕐
