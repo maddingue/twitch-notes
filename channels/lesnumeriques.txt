@@ -4030,13 +4030,47 @@ raids : lesnumeriques => Trinity => Reine_LoutreCreative => lucy_mazel => Pomely
 - [Ars Technica] Valve does what FromSoftware don’t, thanks to Steam Deck’s precaching update. Cool feature on Steam's desktop client gets new life on static Deck hardware → https://arstechnica.com/gaming/2022/03/how-valve-made-steam-deck-the-first-pc-to-smoothly-run-elden-ring/
 - [Gamekult] Avec 132 millions de joueurs actifs, Steam s'est encore surpassé en 2021. Valve publie sa rétrospective annuelle → https://gamekult.com/actualite/-3050847557.html
 
-raids : lesnumeriques => marmiton_officiel => Ponce => JeanBaptisteShow => WaterPatate => terada
+raids : lesnumeriques => marmiton_officiel => Ponce => JeanBaptisteShow => WaterPatate => Terada (terminé après environ 12 h)
 
 résumé de la quotidienne des Numériques : le point Ukraine, avec le bundle itch-io de plus de 500 jeux qui a déjà rapporté plus de 2 M$ ; Twitter accessible via Tor ; des drônes à pas cher
 et aussi : AMD a trouvé la cause des ralentissements des Ryzen sur Windows 10 ; toutes les nouveautés de la Keynote Apple 2022 avec l'iPhone SE 2022, l'iPad Air 5, le Studio Display 27", le M1 Ultra
-des vélos électriques avec ceux de Futa/Ducati et Tern ; les batteries solies de Gogoro ; la petite panne de Google Cloud qui a impacté SPotify, Discord et autre sservices ; l'Arcom qui demande le blocage des sites pornos en France
+des vélos électriques avec ceux de Futa/Ducati et Tern ; les batteries solies de Gogoro ; la petite panne de Google Cloud qui a impacté Spotify, Discord et autre sservices ; l'Arcom qui demande le blocage des sites pornos en France
 Google achète Mandiant, une entreprise de cybersécurité, et libère Harassment Manager, un outil pour gérer les trolls en ligne
 le comparatif technique de Furolith sur Elden Ring ; l'analyse de Ars Technica sur pourquoi ce jeu rame sur PC, et le fait que la meilleure plate-forme pour y jouer, c'est le KomodoHype STEAM DECK
+
+
+--------------------------------------
+2022-03-10
+
+- [Les Numériques] Guerre en Ukraine : l’Anssi appelle à se méfier de l’éditeur russe Kaspersky → https://lesnumeriques.com/pro/-n178153.html
+- [Gamekult] Sony Interactive Entertainment confirme avoir suspendu ses ventes en Russie, et fermé le PlayStation Store → https://gamekult.com/actualite/-3050847607.html
+- [Gamekult] Nintendo repousse Advance Wars 1+2 : Re-boot Camp à la suite des événements en Ukraine → https://gamekult.com/actualite/-3050847573.html
+- [Akamai] Actions Akamai is taking on Russia and Ukraine → https://www.akamai.com/blog/news/ukraine-statement
+- [Twitter - ProtonMail] Many companies have announced they will no longer serve Russian customers. Proton's mission, however, is to defend online freedom anywhere in the world, so we remain committed to ensuring the free flow of information in Russia for as long as possible → https://twitter.com/ProtonMail/status/1501233807483195404
+- [Bloomberg] Owners fear planes ‘are gone forever’ after Russia shields them from seizure → https://www.bloomberg.com/news/articles/2022-03-08/owners-outfoxed-as-russia-absconds-with-10-billion-of-jets
+- [Ars Technica] The secret US mission to bolster Ukraine’s cyber defenses ahead of Russia’s invasion. Throughout 2021, US soldiers, experts worked to thwart an expected Russian cyber attack → https://arstechnica.com/information-technology/2022/03/the-secret-us-mission-to-bolster-ukraines-cyber-defences-ahead-of-russias-invasion/
+- [The Verge] A tech executive is privately funding hundreds of soldiers to fight for Ukraine. ‘At this point, I’ve probably spent a couple hundred thousand’ → https://theverge.com/2022/3/9/22969195/
+
+- [Les Numériques] Strong sort la Leap-S1, une nouvelle box de streaming sous Android TV à 70 € → https://lesnumeriques.com/disque-dur-multimedia/-n161889.html
+- [Les Numériques] Labo – L'écran du Steam Deck aurait bien besoin de prendre des couleurs → https://lesnumeriques.com/console-de-jeu/-n178085.html
+- [The Verge] Hands-on with Alienware’s new, curved QD-OLED gaming monitor. Samsung’s new display tech debuts in a gaming monitor → https://www.theverge.com/2022/3/9/22966303/
+- [The Verge] Apple’s Studio Display should work with Windows — including the webcam. macOS features will obviously be missing → https://www.theverge.com/2022/3/9/22969789/
+- [Les Numériques] AMD coupe l'herbe sous le pied du Mac Studio d'Apple avec ses Ryzen Threadripper Pro 5000 → https://lesnumeriques.com/cpu-processeur/-n178147.html
+- [VideoCardz] Confirmed: GeForce RTX 3090 Ti launches on March 29th, reviews coming on the same day → https://videocardz.com/newz/confirmed-geforce-rtx-3090-ti-launches-on-march-29th-reviews-coming-on-the-same-day
+- [Les Numériques] Apple M1 Ultra : explications autour d'une fusion de puces novatrice → https://lesnumeriques.com/cpu-processeur/-n178141.html
+
+- [Les Numériques] Test OnePlus Nord CE 2 : un solide représentant du milieu de gamme → https://www.lesnumeriques.com/telephone-portable/oneplus-nord-ce-2-p67571/test.html
+- [Les Numériques] Nothing lève 70 millions de dollars pour développer un nouvel écosystème de produits → https://lesnumeriques.com/telephone-portable/-n178073.html
+
+- [Les Numériques] InfraNum formule 30 propositions "pour une France connectée et durable" → https://lesnumeriques.com/vie-du-net/-n178149.html
+- [White House] FACT SHEET: President Biden to Sign Executive Order on Ensuring Responsible Development of Digital Assets → https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/09/fact-sheet-president-biden-to-sign-executive-order-on-ensuring-responsible-innovation-in-digital-assets/
+- [Windows Central] Google Stadia may soon be able to play unmodified Windows PC games. Google may have paved the way for more Windows games arriving on Stadia → https://www.windowscentral.com/google-stadia-may-soon-be-able-play-unmodified-windows-pc-games
+- [Gamekult] Sexisme chez PlayStation : huit femmes ajoutent leurs témoignages. Sony Interactive Entertainment pourrait faire face à un recours collectif → https://gamekult.com/actualite/-3050847609.html
+- [Les Numériques] Netflix n'écarte pas une offre moins chère avec des pubs à l'avenir → https://lesnumeriques.com/vie-du-net/-n178163.html
+- [Clubic] Apple TV+ passe à la vitesse supérieure pour étoffer son catalogue avec de nombreuses productions prévues pour 2022 → https://www.clubic.com/pro/entreprises/apple/actualite-412674-.html
+
+raids : lesnumeriques => enaolf => MinomOff.
+
 
 
 
