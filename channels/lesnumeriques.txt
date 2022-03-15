@@ -4077,20 +4077,88 @@ raids : lesnumeriques => enaolf => MinomOff.
 
 (redifusion du stream sur les robots cuiseurs multifonctions)
 
-raids : lesnumeriques => marmiton_officiel => Trinity
+raids : lesnumeriques => marmiton_officiel => Trinity => spacekaeru => hiuuugs => toonz_boonorter
+
+
+--------------------------------------
+2022-03-14
+
+» [Reuters] Facebook allows war posts urging violence against Russian invaders → https://www.reuters.com/world/europe/exclusive-facebook-instagram-temporarily-allow-calls-violence-against-russians-2022-03-10/
+» [Reuters] Russian prosecutors ask court to name Meta as "extremist organisation" - Interfax → https://www.reuters.com/technology/russian-prosecutors-ask-court-name-meta-extremist-organisation-interfax-2022-03-11/
+» [VICE Motherboard] Russian TikTok influencers are being paid to spread Kremlin propaganda. An investigation by VICE News uncovered a coordinated campaign to pay Russian TikTok influencers to post videos pushing pro-Kremlin narratives → https://www.vice.com/en/article/epxken/russian-tiktok-influencers-paid-propaganda
+» [CBS News] White House briefs social media influencers on Ukraine crisis → https://www.cbsnews.com/news/ukraine-russia-tiktok-white-house/
+» [VICE Motherboard] Neighborhood crime app Citizen is trying to expand to Ukraine. "Our mission is to protect the world, and at moments like these we must think creatively to determine how our technology can do just that." → https://www.vice.com/en/article/qjbnyx/citizen-app-expand-to-ukraine-cbs
+» 🇺🇸 [VGC] Russia has reportedly legalised some piracy in response to sanctions and boycotts. Russians will be allowed to use IP from ‘unfriendly’ countries without paying for it → https://cutt.ly/mA9vaIc
+» [Metro] Russia will allow businesses to steal patents from ‘unfriendly countries’ → https://metro.co.uk/2022/03/11/russia-16257835/
+» [Twitter] Corentin Sellin → https://twitter.com/CorentinSellin
+» [Twitter] Corentin Sellin - En septembre 2021, des agents du FSB sont venus trouver la patronne de #Google en #Russie pour lui signifier de retirer 1 application déplaisant à #Poutine ou elle irait en prison. Même à l'abri, ils l'ont retrouvée. Google a fini par céder → https://twitter.com/CorentinSellin/status/1502931701743431684
+» [Les Numériques] Renault et le casse-tête des poupées russes → https://lesnumeriques.com/voiture/-n178301.html
+» [Financial Times] Commodity prices soar to highest level since 2008 over Russia supply fears → https://www.ft.com/content/5753f4dd-1e8e-4159-a4e4-d232e4ad50ed
+
+» [Les Numériques] Le prix de la Tesla Model 3 augmente encore et signe la fin du bonus maximal → https://lesnumeriques.com/voiture/-n178265.html
+» [The Verge] Rivian says it delivered nearly 1,000 electric trucks in 2021. The company lost $4.7 billion last year → https://www.theverge.com/2022/3/10/22971092/
+» Sunrun Partners with Ford to Provide Seamless Installation of 80-amp Ford Charge Station Pro and Home Integration System for the All-Electric Ford F-150 Lightning → https://investors.sunrun.com/news-events/press-releases/detail/236/
+» [Les Numériques] BMW s'associe à Qualcomm pour la conduite autonome de niveau 3 → https://lesnumeriques.com/voiture/-n178291.html
+» [Razer] Seiren BT → https://www.razer.com/streaming-microphones/razer-seiren-bt
+
+» [Les Numériques] Test Vanguard VEO 3GO 235AB : un trépied très polyvalent, mais un peu court → https://www.lesnumeriques.com/trepied/veo-3-go-235-ab-p63887/test.html
+» [Les Numériques] Test Caméra intérieure Ezviz C6 2K+ : une détection de mouvement redoutable → https://www.lesnumeriques.com/camera-surveillance/ezviz-c6-2k-p67721/test.html
+» [Les Numériques] Test Prise connectée Eve Energy : le courant passe avec Apple Homekit → https://www.lesnumeriques.com/prise-connectee/eve-energy-p67773/test.html
+» [Les Numériques] Deux molettes et 72 hauteurs de coupe pour la tondeuse Remington X6 Power-X Series HC6000 → https://lesnumeriques.com/rasoir-electrique/-n178233.html
+» [Les Numériques] Test Moulinex Wizzo QA310110 : un robot-pâtissier vite essoufflé → https://www.lesnumeriques.com/robot-patissier/moulinex-wizzo-qa310110-p67857/test.html
+» [Les Numériques] Un blender à prix plancher chez Philips, le Serie 3000 HR2041 → https://lesnumeriques.com/blender/-n178289.html
+» [Les Numériques] News labo – La brosse motorisée lavante du LG CordZero A9 Kompressor → https://lesnumeriques.com/aspirateur-balai/-n178229.html
+» [CNET France] Pokémon Smile : si votre enfant rechigne à se brosser les dents, testez cette application. Vos gamins sont fan de Pikachu ? Voici une application Pokémon qui devrait leur parler pour en finir avec la corvée du brossage des dents → https://www.cnetfrance.fr/news/pokemon-smile-39938791.htm
+» [CNET France] Test de la Garmin Epix (Gen 2) : enfin une montre de sport dotée d'un superbe écran → https://www.cnetfrance.fr/produits/test-garmin-epix-2-39938533.htm
+» [Yves Saint Laurent] Rouge sur mesure → https://www.yslbeauty.fr/maquillage/maquillage-levres/rouge-sur-mesure
+» [Le code a changé] La parfumeuse, ses écrans et les robots → https://www.franceinter.fr/emissions/le-code-a-change/la-parfumeuse-ses-ecrans-et-les-robots
+
+» [CNET France] Bouygues Telecom cherche à adoucir son image avec un forfait « responsable et solidaire ». Un forfait de 10 Go à 10€/mois, sans engagement, où les gigas non consommés sont convertis en dons pour des associations de votre choix → https://www.cnetfrance.fr/news/bouygues-39938701.htm
+» [Next Impact] Emmanuel Macron contraint de retirer sa Lettre aux Français de ses comptes Twitter et Facebook → https://www.nextinpact.com/article/68596/emmanuel-macron
+
+» [Les Numériques] Tinder : les utilisatrices pourront vérifier le casier judiciaire de leurs matchs → https://lesnumeriques.com/vie-du-net/-n178201.html
+» 🇺🇸 [The Verge] Ubisoft says it experienced a ‘cyber security incident’, and the purported Nvidia hackers are taking credit. Ubisoft believes no personal player information was exposed → https://cutt.ly/tA9nElQ
+» [Gamekult] Ubisoft : un incident de cybersécurité pousse l'éditeur à changer ses mots de passe → https://gamekult.com/actualite/ubisoft-3050847657.html
+» [Nvidia] GeForce NOW RTX 3080 One-Month Memberships Now Available → https://blogs.nvidia.com/blog/2022/03/10/geforce-now-thursday-march-10/
+
+» [Les Numériques] Test Steam Deck : le PC/console portable de Valve aussi impressionnant qu'inégal → https://www.lesnumeriques.com/console-de-jeu/valve-steam-deck-p64267/test.html lesnumsEtoile lesnumsEtoile lesnumsEtoile lesnumsEtoile lesnumsEtoileVide
+» [Xbox Game Studios] XGS Game on the Steam Deck → https://store.steampowered.com/news/group/3090835/view/3112553992726030833
+» [The Verge] The Steam Deck now runs Windows. Valve offers no Windows support beyond these drivers, and the speakers won’t work yet → https://www.theverge.com/2022/3/10/22971108/
+
+» [NeoWin] You can now dual-boot Windows 11 and Android on the original Surface Duo → https://www.neowin.net/news/you-can-now-dual-boot-windows-11-and-android-on-the-original-surface-duo/
+
+raids : lesnumeriques => HugoDelire => sir_thomas_ (terminé à 21:50)
+
+
+--------------------------------------
+2022-03-15
+
+» [Twitter - Adam Mosseri] On Monday, Instagram will be blocked in Russia.  This decision will cut 80 million in Russia off from one another, and from the rest of the world as ~80% of people in Russia follow an Instagram account outside their country. This is wrong → https://twitter.com/mosseri/status/1502431327093604352
+» Le dessous des cartes → https://www.youtube.com/c/LeDessousdesCartesARTE
+
+» [Les Numériques] Covid-19 : Foxconn, principal fournisseur d’Apple, à l’arrêt à Shenzhen → https://lesnumeriques.com/pro/-n178357.html
+» [Automotive News] Ford will ship and sell vehicles without chips controlling non-safety critical features. Ford executives told dealers the company would provide the missing parts for dealers to install within one year → https://www.autonews.com/nada/ford-will-ship-and-sell-vehicles-without-chips-controlling-non-safety-critical-features
+» [XDA Developers] Apple has released iOS 15.4 to the public, here’s everything new → https://www.xda-developers.com/ios-15-4/
+- [Twitter] We heard you –– some of you always want to see latest Tweets first. We've switched the timeline back and removed the tabbed experience for now while we explore other options → https://twitter.com/TwitterSupport/status/1503443926258180106
+» [Les Numériques] Au Royaume-Uni, l'envoi de dickpic non sollicité sera passible de prison → https://lesnumeriques.com/vie-du-net/-n178385.html
+» [Gamekult] Une année 2021 record pour le marché français du jeu vidéo, FIFA loin devant Call of Duty → https://gamekult.com/actualite/-3050847689.html
+
+» [Les Numériques] Test Steam Deck : le PC/console portable de Valve aussi impressionnant qu'inégal → https://www.lesnumeriques.com/console-de-jeu/valve-steam-deck-p64267/test.html lesnumsEtoile lesnumsEtoile lesnumsEtoile lesnumsEtoile lesnumsEtoileVide
+résultat du sondage : 41 % team bidouillage / 34 % team Flo / 25 % team plug'n play
+
+raids => lesnumeriques => docnozman (terminé à 18:26)
 
 
 
-
-- [Les Numériques] 
-- [ZDNet France] 
-- [CNET France] 
-- [Ars Technica] 
-- [The Verge] 
-- [XDA Developers] 
-- [VICE Motherboard] 
-- [Engadget] 
-- [AnandTech] 
+» [Les Numériques] 
+» [ZDNet France] 
+» [CNET France] 
+» [Ars Technica] 
+» [The Verge] 
+» [XDA Developers] 
+» [VICE Motherboard] 
+» [Engadget] 
+» [AnandTech] 
 
 📺 Les Numériques sur YouTube → https://youtube.com/user/LesNumeriques
 📷 Les Numériques sur Instagram → https://instagram.com/lesnumeriques/
