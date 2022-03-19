@@ -4149,6 +4149,143 @@ résultat du sondage : 41 % team bidouillage / 34 % team Flo / 25 % team plug'n 
 raids => lesnumeriques => docnozman (terminé à 18:26)
 
 
+--------------------------------------
+2022-03-16
+
+» [Les Numériques] Guerre en Ukraine : Avast et Eset quittent la Russie, Cloudflare reste → https://lesnumeriques.com/vie-du-net/-n178475.html
+» https://coalitionforukraine.com/
+» [Bleeping Computer] Russia faces IT crisis with just two months of data storage left → https://www.bleepingcomputer.com/news/technology/russia-faces-it-crisis-with-just-two-months-of-data-storage-left/
+» [ZDNet France] Invasion russe de l’Ukraine: un wikipédien arrêté en Biélorussie. Mark Bernstein, un des 50 plus importants contributeurs de Wikipédia en russe, a été arrêté le 11 mars pour «diffusion de fausses informations» via l’encyclopédie libre → https://www.zdnet.fr/blogs/l-esprit-libre/wikipedien-39938975.htm
+
+» [ZDNet France] Foxconn redémarre partiellement ses activités à Shenzhen. Foxconn réouvre partiellement ses usines dans le pôle tech de Shenzhen, en Chine. Le géant de l'électronique, qui assure notamment la production des iPhone, décide de continuer tant bien que mal son activité malgré le confinement → https://www.zdnet.fr/actualites/foxconn-39938989.htm
+» Intel Announces Initial Investment of Over €33 Billion for R&D and Manufacturing in EU → https://www.intel.com/content/www/us/en/newsroom/news/eu-news-2022-release.html
+» [Les Numériques] Semi-conducteurs : Intel investira 17 milliards d’euros dans sa méga-usine en Allemagne → https://lesnumeriques.com/pro/-n178465.html
+» [The Guardian] UK chipmaker Arm to cut up to 1,000 jobs after $40bn sale collapses. Company says most of redundancies will be in UK and US after Nvidia takeover falls through → https://www.theguardian.com/business/2022/mar/15/uk-chipmaker-arm-cut-jobs-sale-uk-us-nvidia
+» [Les Numériques] AMD officialise sept nouveaux processeurs et donne une date de sortie au Ryzen 7 5800X3D → https://lesnumeriques.com/cpu-processeur/-n178445.html
+
+» [Les Numériques] Bosch enrichit sa gamme 18V avec quatre nouvelles perceuses visseuses → https://lesnumeriques.com/perceuse-visseuse/-n178437.html
+» [Les Numériques] Test Polk Audio Signa S4 : une virtualisation surround efficace dans une barre de son épurée → https://www.lesnumeriques.com/barre-de-son/polk-audio-signa-s4-p66543/test.html
+» [Les Numériques] Les ventes de CD progressent aux États-Unis pour la première fois depuis 20 ans → https://lesnumeriques.com/vie-du-net/-n178433.html
+» [Teenage Engineering] OB–4 Off-White, 2250 € → https://teenage.engineering/products/ob-4/off-white
+» [Les Numériques] Test Fujifilm instax mini Evo : il shoote et il imprime, what else ? → https://www.lesnumeriques.com/appareil-photo-instantane/instax-mini-evo-p66147/test.html
+» [Kickstarter] Keychron K8 Pro - QMK/VIA Wireless Mechanical Keyboard → https://www.kickstarter.com/projects/keytron/keychron-k8-pro-qmk-via-wireless-mechanical-keyboard
+» [Les Numériques] Xiaomi monte en gamme avec ses montres connectées Watch S1 et Watch S1 Active → https://lesnumeriques.com/montre-connectee/-n178459.html
+» [Les Numériques] Circular, la bague connectée française qui veut remplacer les capteurs d'activité → https://lesnumeriques.com/divers-sante/-n178069.html
+» [CNET France] Apple : une future "bague" connectée pour contrôler vos appareils ? Mais il n’est pas question d’espionner son conjoint → https://www.cnetfrance.fr/news/apple-39938959.htm
+» [Les Numériques] En supprimant les chargeurs et écouteurs des iPhone, Apple a économisé des milliards de dollars → https://lesnumeriques.com/telephone-portable/-n178447.html
+
+» [The Verge] Tesla raises prices across entire range, with its cheapest car now starting at $46,990. Tesla’s prices have increased as much 10 percent → https://www.theverge.com/2022/3/15/22978817/
+» [ZDNet France] L'Etat va verser 15 millions d'euros aux reconditionneurs de smartphones et tablettes. Ce dispositif de soutien vise à mieux structurer la filière française du reconditionné, composée largement de PME et de TPE, dans un contexte de forte concurrence étrangère → https://www.zdnet.fr/actualites/reconditionneurs-39938931.htm
+
+» [Daily Beast] Meta Boss Mark Zuckerberg Says NFTs Are Coming to Instagram in a Big Way at SXSW → https://www.thedailybeast.com/meta-boss-mark-zuckerberg-says-nfts-are-coming-to-instagram-in-a-big-way-at-sxsw
+» [GamesBeat] Reggie Fils-Aime doesn’t believe in Meta’s Metaverse → https://venturebeat.com/2022/03/15/reggie-fils-aime-doesnt-believe-in-metas-metaverse/
+» [Gamekult] 12 millions d'exemplaires vendus pour Elden Ring → https://gamekult.com/actualite/-3050847727.html
+» [Gamekult] Mike Wilson, co-fondateur de Devolver, crée DeepWell, éditeur de jeux consacré à la santé mentale → https://gamekult.com/actualite/-3050847739.html
+
+raids : lesnumeriques => marmiton_officiel => Chocolatier_PaulGarderes => Nyantastictv => chez_gibus => DocChaFatLife => clothho => tipstevens (terminé à 00:46)
+
+résumé de la quotidienne des Numériques : les infos de la guerre en Ukraine, aujourd'hui, sur le fait que la Russie va manquer de centres de serveurs
+Foxconn recommence un peu son activité à Shenzhen ; Intel va investir 33 milliards de dollars pour ouvrir des usines en Europe ; ARM va licencier 1000 personnes
+Lâm qui a laissé parlé son kink clavier sur le Keychron K8 Pro ; les bagues connectées de Circular et Apple
+Tesla augmente les prix de ses voitures ; l'Etat va verser 15 millions d'euros aux reconditionneurs de smartphones et tablettes
+Mark Zuckerberg annonce des NFT dans Instagram, le kamoulox est complet ; Reggie Fils-Aime (ancien PDF de Nintendo America) dit que c'est une escroquerie
+Elden Ring est un carton à 12 millions d'exemplaites
+segment nouveautés films et séries avec Bastien
+
+
+--------------------------------------
+2022-03-17
+
+» [Les Numériques] La Russie va lancer sa propre version d'Instagram → https://lesnumeriques.com/vie-du-net/-n178549.html
+» [Twitter - Міністерство цифрової трансформації України] Ukraine has legalized the crypto sector — ZelenskyyUa signed a law. From now on foreign and Ukrainian cryptocurrencies exchanges will operate legally and banks will open accounts for crypto companies. It is an important step towards the development of the VA market in Ukraine → https://twitter.com/mintsyfra/status/1504111930251882500
+» [Twitter - Netflix] Servant of the People is once again available on Netflix in The US. The 2015 satirical comedy series stars Volodymyr Zelenskyy playing a teacher who unexpectedly becomes President after a video of him complaining about corruption suddenly goes viral → https://twitter.com/netflix/status/1504064948305080327
+» [Arte] Serviteur du peuple → https://www.arte.tv/fr/videos/RC-021804/serviteur-du-peuple/
+
+» Google IO 2022 → https://io.google/2022/svd/
+» [The Information] Google Buys Hardware Startup Raxium to Fuel AR Ambitions → https://www.theinformation.com/articles/google-buys-hardware-startup-raxium-to-fuel-ar-ambitions
+» [Epson] Home Cinema LS11000 4K PRO-UHD Laser Projector → https://epson.com/For-Home/Projectors/Home-Cinema/Home-Cinema-LS11000-4K-PRO-UHD-Laser-Projector/p/V11HA48020
+» [Les Numériques] Test Écouteurs true wireless Realme Buds Air 2 Neo : une expérience correcte, surtout avec les smartphones Android → https://www.lesnumeriques.com/intra-ecouteur-true-wireless/realme-buds-air-2-neo-p67007/test.html
+
+» [ZDNet France] Montres connectées : le marché mondial bondit grâce à l'Inde, Samsung prend la 2e place. Les derniers chiffres de Counterpoint Research montrent que le marché indien des montres connectées est en pleine effervescence et qu'il est alimenté par un fabricant local en pleine ascension. Samsung, Amazfit et Garmin font tous des progrès impressionnants en 2021 → https://www.zdnet.fr/actualites/montres-39939035.htm
+» [Les Numériques] Realme profite de la plus forte croissance sur le marché des smartphones 5G → https://lesnumeriques.com/telephone-portable/-5g-n178543.html
+» [CNET France] Realme dévoile son GT NEO 3 : Dimensity 8100 et charge 150W. Un nouveau milieu de gamme doté d'une recharge rapide 150W et d'un processeur gravé en 5 nm → https://www.cnetfrance.fr/news/gt-neo-3-39938991.htm
+» [Les Numériques] La gamme Galaxy A a représenté 58 % des ventes de Samsung en 2021 → https://lesnumeriques.com/telephone-portable/-n178525.html
+» [CNET France] iPhone 14 : un premier rendu 3D montre de légers changements. La sortie du prochain téléphone d’Apple n’est pas pour tout de suite, mais les fuites commencent → https://www.cnetfrance.fr/news/iphone-14-39939039.htm
+» [Les Numériques] Test Apple iPad Air 5 : la puissance du M1 dans un modèle de choix → https://www.lesnumeriques.com/tablette-tactile/apple-ipad-air-5-p67881/test.html
+» [Les Numériques] Microsoft intègre DirectStorage dans Windows : peu de changements avec les jeux pour le moment → https://lesnumeriques.com/appli-logiciel/-n178513.html
+» [The Verge] Microsoft says Windows 11 File Explorer ads were ‘not intended to be published externally’. We may still see File Explorer ads in the future → https://www.theverge.com/2022/3/15/22979251/
+
+» [Les Numériques] Plume Allure, une trottinette électrique stylée et certifiée “origine France” → https://www.lesnumeriques.com/trottinette-electrique/-n178511.html
+» [Les Numériques] Mazda CX-60 PHEV : le premier hybride rechargeable du constructeur → https://lesnumeriques.com/voiture/-n178127.html
+» [Les Numériques] Test Essai DS 9 E-Tense 360 4x4 Rivoli+ : quand l'hybridation signe le retour du premium à la française → https://www.lesnumeriques.com/voiture/ds-automobiles-ds-9-e-tense-4x4-360-rivoli-p67849/test.html
+
+[segment voiture]
+
+» [Les Numériques] TikTok devient l'un des partenaires officiels du Festival de Cannes → https://lesnumeriques.com/vie-du-net/-n178473.html
+» [Les Numériques] TikTok menace Instagram de devenir le réseau social préféré des marques → https://lesnumeriques.com/pro/-a178119.html
+» [Les Numériques] Quand soudain, Vimeo exige des milliers de dollars à ses vidéastes → https://lesnumeriques.com/vie-du-net/-n178551.html
+» [ZDNet France] Doctolib devient toujours plus gros, et doit mettre l'accent sur la cybersécurité. La plateforme de rendez-vous médicaux annonce une nouvelle levée de fonds de 500 millions. De quoi valoriser l'entreprise française à hauteur de 5,8 milliards d'euros. Doctolib souhaite recruter 3 500 personnes dans les cinq prochaines années, et renforcer sa sécurité → https://zdnet.fr/actualites/doctolib-39938993.htm
+» [Les Numériques] RGPD : Meta écope d'une amende de 17 millions d'euros → https://lesnumeriques.com/vie-du-net/-n178519.html
+» [BBC] Companies fined for marketing calls targeting elderly → https://www.bbc.com/news/technology-60759049
+» [Les Numériques] NFT : ce rachat qui change la donne → https://lesnumeriques.com/pro/-n178505.html
+
+» [TrendFool] The first NBA broadcast rendered with volumetric video puts basketball in the uncanny valley → https://trendfool.com/tech/the-first-nba-broadcast-rendered-with-volumetric-video-puts-basketball-in-the-uncanny-valley/
+» [CNET France] Dune 2 : Denis Villeneuve donne des nouvelles de la suite du blockbuster. Le scénario est presque terminé, et le tournage devrait débuter dans quelques mois → https://cnetfrance.fr/news/dune-2-39939003.htm
+» [CNET France] Lindelof, créateur de Watchmen, sur un nouveau Star Wars ? Damon Lindelof, à qui l’on doit Lost et la série Watchmen, travaillerait sur un nouveau projet Star Wars → https://cnetfrance.fr/news/starwars-39939037.htm
+» [Netflix] Paying to share Netflix outside your household → https://about.netflix.com/en/news/paying-to-share-netflix-outside-your-household
+» [Gamekult] Test : Tunic, un jeu d'une intelligence redoutable derrière l'hommage → https://www.gamekult.com/jeux/secret-legend-3050830899/test.html
+» [Ars Technica] Putting Elden Ring’s 12 million sales in context. FromSoftware's latest is matching the sales pace of GTA V and Cyberpunk 2077 → https://arstechnica.com/gaming/2022/03/putting-elden-rings-12-million-sales-in-context/
+» [Electrek] Ahead of an electric motorcycle, Kawasaki shows off an electric goat robot with a human rider → https://electrek.co/2022/03/15/ahead-of-an-electric-motorcycle-kawasaki-shows-off-an-electric-goat-robot-with-a-human-rider/
+
+raids : lesnumeriques => PoppieLaLa => Patschou => melofairy => AlexEaston_ => AlexSan1 (termine à 23:33)
+
+
+--------------------------------------
+2022-03-18
+
+quel est le chiffre préféré des vampires ? le 109
+que dit un extra terrestre quand il est dans le frigo ? « ils sont extra, tes restes »
+un aveugle rentre dans un bar, puis dans une table, puis dans une chaise
+
+
+» [Les Numériques] Le gouvernement russe croule sous les cyberattaques → https://lesnumeriques.com/vie-du-net/-n178615.html
+» [VICE Motherboard] Hackers Provide Livestream of Dozens of Cameras Inside Russia. The hackers plastered "Putin is killing children" and other messages across the feeds → https://www.vice.com/amp/en/article/jgmnbb/hackers-cctv-anonymous-russia-cameras
+» [Wired] Russia's killer drone in Ukraine raises fears about AI in warfare. The maker of the lethal drone claims that it can identify targets using artificial intelligence → https://www.wired.com/story/ai-drones-russia-ukraine/
+
+» [Nature] Dual use of artificial-intelligence-powered drug discovery → https://www.nature.com/articles/s42256-022-00465-9
+» Love Hultén → https://www.lovehulten.com/
+» [Les Numériques] Meta et Ray-Ban lancent les lunettes connectées Stories sur le marché français → https://lesnumeriques.com/accessoire-pour-smartphone/-n178547.html
+» [Les Numériques] Test Xiaomi Watch S1 : une montée en gamme convaincante mais perfectible → https://www.lesnumeriques.com/montre-connectee/xiaomi-watch-s1-p67935/test.html
+
+» [PC World] Confirmed: The revolutionary Ryzen 7 5800X3D can’t be overclocked  ...but that's less of a problem than you might think → https://www.pcworld.com/article/624225
+» [Les Numériques] Le traitement AMD FidelityFX Super Resolution arrive en version 2.0 pour (mieux) concurrencer le DLSS de Nvidia → https://lesnumeriques.com/carte-graphique/-n178599.html
+» [The Register] If you want to connect GPUs direct to SSDs for a speed boost, this could be it. Go away, CPU, you're not needed here ... mostly → https://www.theregister.com/2022/03/14/nvidia_gpu_data/
+» [Les Numériques] Samsung arme son milieu de gamme avec ses nouveaux Galaxy A33 et A53 → https://lesnumeriques.com/telephone-portable/-n178485.html
+» [Les Numériques] Test Xiaomi 12 Pro : un fleuron ambitieux → https://www.lesnumeriques.com/telephone-portable/xiaomi-12-pro-p66729/test.html
+
+» [The Verge] The Arc One is an electric boat with a battery pack three times the size of Tesla’s. Electric boat startup Arc is ready for customer deliveries later this year → https://www.theverge.com/2022/3/3/22958830/
+
+» [BFM TV] Présidentielle: Twitter autorisera les publications remettant en cause le résultat de l'élection → https://www.bfmtv.com/tech/twitter_AD-202203170171.html
+» [BFM TV] Présidentielle: Emmanuel Macron veut "un métavers européen" → https://www.bfmtv.com/tech/presidentielle_AV-202203170450.html
+» [CyberSecurity Insides] Two ransomware groups fight inside victims’ computer network → https://www.cybersecurity-insiders.com/two-ransomware-groups-fight-inside-victims-computer-network/
+
+» [Les Numériques] Test Apple Mac Studio M1 Ultra : les belles prouesses d'Apple → https://www.lesnumeriques.com/ordinateur/apple-mac-studio-2022-m1-ultra-20-48-p67885/test.html lesnumsEtoile lesnumsEtoile lesnumsEtoile lesnumsEtoile lesnumsEtoile
+» [Ars Technica] Review: The Mac Studio shows us exactly why Apple left Intel behind. Part Mac mini, part trashcan Mac Pro, the Studio is one impressive mini desktop → https://arstechnica.com/gadgets/2022/03/mac-studio-review-a-nearly-perfect-workhorse-mac/
+» [Engadget] Apple Mac Studio review: Big Mac mini. Apple gets the desktop right again → https://www.engadget.com/apple-mac-studio-review-m1-ultra-desktop-130044054.html
+» [Numerama] Test du Mac Studio (M1 Ultra) : l’ordinateur Apple qui écrase tout sur son passage → https://www.numerama.com/tech/885673-mac-studio.html
+» [The Verge] Apple Mac Studio review: finally. This computer is a historic achievement → https://www.theverge.com/22981815/apple-mac-studio-m1-ultra-max-review
+ 
+raids : lesnumeriques => marmiton_officiel => enaolf => ShoKowTV => Elyziaaa (terminé à 19:55)
+
+résumé de la quotidienne des Numériques : le point sur la guerre - le gouvernement russe croule sous les cyberattaques ; des hackers fournissent des streams de centaines de caméras ; les batailles de drones
+et puis : utilisation d'intelligence artificielle pour concevoir des médicaments ou des poisons
+les nouveautés AMD : le Ryzen 7 5800X3D, FidelityFX Super Resolution 2.0
+Microsoft DirectStorage arrive aussi dans les serveurs
+présidentielles 2022 : Twitter autorisera les publications remettant en cause le résultat de l'élection ; Emmanuel Macron veut un métavers européen
+cybersécurité : deux groupes de ransomware se bataillent dans les serveurs d'un hôpital canadien
+en plateau, le Apple Mac Studio M1 Ultra et le nouveau écran Apple
+
+
 
 » [Les Numériques] 
 » [ZDNet France] 
@@ -4200,4 +4337,5 @@ clips :
 🎥 et c'est le drame ! Lâm renverse son café → https://clips.twitch.tv/GiftedSpoopyHumanTakeNRG-FgDkxOLWxpDOlVGz
 🎥 même averti et avec une sécurité, Lâm renverse quand même son café… → https://clips.twitch.tv/ColdbloodedEnthusiasticPorpoiseEagleEye-BbSq8g8HFQrsLYcw
 🎥 le café est vide… presque ! → https://clips.twitch.tv/JollySquareCaribouDoggo-Dmhep3euJdEQ7vj3
+🎥 Lâm clashe Gautoz sur Tunic 🦊 → https://clips.twitch.tv/PiercingYummyHorseradishResidentSleeper-bbSk6XsMt3UdYee-
 
