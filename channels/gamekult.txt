@@ -4027,7 +4027,7 @@ wassingue -- Emprunt au picard wassingue, lui-même du flamand, issu de wassen (
 🡆 𝗥𝗮𝘁𝗰𝗵𝗲𝘁 & 𝗖𝗹𝗮𝗻𝗸, originellement sorti en novembre 2002 sur PlayStation 2, depuis ressorti en HD sur PlayStation 3 et Vita
 🡆 développé par Insomniac Games, publié par Sony Computer Entertainment
 
-🡆 𝗠𝗮𝗿𝗶𝗼 𝗞𝗮𝗿𝘁 𝟴 𝗗𝗲𝗹𝘂𝘅𝗲, disponible depuis avri l2017 sur Nintendo Switch
+🡆 𝗠𝗮𝗿𝗶𝗼 𝗞𝗮𝗿𝘁 𝟴 𝗗𝗲𝗹𝘂𝘅𝗲, disponible depuis avril 2017 sur Nintendo Switch
 
 
 --------------------------------------
@@ -15287,18 +15287,68 @@ excuses de sac :
 - je suis désolé, c'est le tchat qui a demandé (Florian)
 
 
+--------------------------------------
+2022-03-16 - Shredders ⛷️ (annulé)
+
+
+--------------------------------------
+2022-03-17 - Shredders ⛷️, Tunic 🦊
+
+Shredders ⛷️ sortie ce jour sur Xbox et PC
+développé par I-Illusions (Element4l, Space Pirate Trainer), studio basé à Geraardsbergen, Belgique 🇧🇪 → https://i-illusions.com/
+🎮 30 € ou inclus dans le Game Pass (https://cutt.ly/ASiHIQZ)
+⌨️ 🖱️ 30 € sur Steam (https://s.team/a/1874170)
+📜 test : Shredders, la montagne qui accouche d'un sourire, 6/10 par Amaebi → https://cutt.ly/RSpDWLS
+
+excuses de sac :
+- il n'y a pas de mal à abuser du rewind, tellement les timings sont serrés (Amaebi)
+
+Tunic 🦊 sorti hier sur Xbox et PC
+développé par Andrew Shouldice, basé à Halifax 🇨🇦 → https://TunicGame.com/
+🎶 musique par Lifeformed 🇹🇼 et Janice Kwan 🇹🇼, 13 $ sur Bandcamp → https://cutt.ly/sSiKuuY
+🎮 30 € ou inclus dans le Game Pass (https://cutt.ly/lSiF00V)
+⌨️ 🖱️ 28 € sur Steam (http://s.team/a/553420) ou GOG (https://cutt.ly/3SiGaxy)
+📜 test : Tunic, un jeu d'une intelligence redoutable derrière l'hommage, 8/10 par Virgile → https://cutt.ly/KSpDMl5
+⏱️ durée de vie : environ 25 h pour la partie principale, 35~40 h pour tout voir
+
+excuses de sac :
+- je me suis trompé de bouton (Virgile)
+- c'était quoi cette attaque sournoise ! (Virgile)
+
+
+--------------------------------------
+2022-03-18 - Mario Kart 8 Deluxe
+
+🏁 🏎️ 🏎️ 🏎️ Mario Kart 8 Deluxe + circuits additionnels
+🎮 à partir de 45 € en grande distribution
+🎮 60 € le jeu de base, 25 € les circuits additionnels sur eShop (https://cutt.ly/oSheSjl)
+cet événement est sponsorisé par les salières La baleine 🐳
+
+🏆 Tournois Mario Kart 8 Deluxe → https://www.gamekult.com/forum/t/switch-tournois-mario-kart-8-deluxe/437560
+
+excuses de sac :
+- vu qu'on est 11, je ne finirai pas 12e (Antoine)
+- j'étais 4e et, la loi des séries… (Antoine)
+- je n'ai jamais dit que j'étais l'école du skill (Antoine)
+- il s'est bloqué contre un mur parce qu'il ne savait pas quel chemin prendre (Luma)
+- mais non mais ça me pousse là ! (Luma)
+
+📜 test : Chocobo GP fait fausse route. Choco et déçu, 4/10 par Luma → https://cutt.ly/yShzY3Q
+📜 test : Stranger of Paradise Final Fantasy Origin, un CHAOS technique, 7/10 par Kamui → https://cutt.ly/3ShWcS6
+📺 GK Live : La rédac' servie sur un plateau avec Mario Party Superstars. Mini-jeux et trahisons au programme → https://cutt.ly/2ShYUmi
+
 
 📅 le programme de la semaine → https://cutt.ly/yA30SqT
 📅 mardi 17:30, 
-📅 mercredi 17:30, Shredders ⛷️ (Amaebi)
-📅 jeudi 17:30, Tunic 🦊 (Virgile)
+📅 mercredi 17:30, 
+📅 jeudi 17:30, 
 📅 vendredi 17:30, jeu mystère
 📺 samedi matin, Gamekult l'émission en distanciel
-KomodoHype Le Steam Deck en test par Furolith et Noddus
+KomodoHype Le Steam Deck en test par Furolith et Noddus → https://cutt.ly/XSaR2HF
 🕹️ L'Egret II Mini
-⛩️ Gaijin Dash
-🏴‍☠️ Butin de Nerd version Sbeb avec du Atelier Ryza
-🔬 article sur l'Analogue Pocket par Guillaume Verdin de MO5
+⛩️ Gaijin Dash → https://cutt.ly/6SaRLO7
+🏴‍☠️ Butin de Nerd version Sbeb avec des statuettes Atelier Ryza → https://cutt.ly/tSrtKcC
+🔬 Analogue Pocket, la Rolls-Royce des portables rétro, par Guillaume Verdin de MO5 → https://cutt.ly/YShkPPv
 🏆 Les Pégases 2022
  
 
@@ -15387,6 +15437,7 @@ adresse Gamekult @ Neweb :
   48 rue du Faubourg du Temple 75011 PARIS
 
 bday:
+- Greg : 4 mars
 - Luma : 16 mars
 - Julien Strong : 20 mars
 - Faskill : 25 mars
