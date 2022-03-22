@@ -4286,6 +4286,92 @@ cybersécurité : deux groupes de ransomware se bataillent dans les serveurs d'u
 en plateau, le Apple Mac Studio M1 Ultra et le nouveau écran Apple
 
 
+--------------------------------------
+2022-03-21
+
+comment on appelle un baguette qui a perdu son petit ? du pain perdu
+pourquoi les pêcheurs ne prennent pas de poids ? parce qu'ils surveillent leur ligne
+quel instrument on obtient quand on étire un grand-père ? un violon
+que fait un poussin de 200 kg ? PIOU PIOU
+
+» LG Suspends Shipments to Russia → https://www.lgnewsroom.com/2022/03/lg-suspends-shipments-to-russia/
+» [Epic] Support Humanitarian Relief for Ukraine → https://www.epicgames.com/fortnite/en-US/news/support-humanitarian-relief-for-ukraine
+» [Humble Bundle] Stand with Ukraine → https://www.humblebundle.com/stand-with-ukraine-bundle
+» [Wired] Leaked ransomware docs show Conti helping Putin from the shadows. Members of the hacker gang may act in Russia’s interest, but their links to the FSB and Cozy Bear hackers appear ad hoc → https://www.wired.com/story/conti-ransomware-russia/
+» [Ars Technica] Sabotage: Code added to popular NPM package wiped files in Russia and Belarus. When code with millions of downloads nukes user files, bad things can happen → https://arstechnica.com/information-technology/2022/03/sabotage-code-added-to-popular-npm-package-wiped-files-in-russia-and-belarus/
+» [Korii] Le drone Bayraktar TB2, héros turc de la guerre en Ukraine. À un million de dollars pièce, il bouleverse la guerre moderne → https://korii.slate.fr/tech/bayraktar-tb2-heros-turc-guerre-ukraine-prix-baykar-autonomie-bombes-laser-pertes-blindes-russes
+» [Twitter - Mykhailo Fedorov] In 21 days of the war, russian troops has already killed 100 Ukrainian children. they are using DJI products in order to navigate their missile. DJIGlobal are you sure you want to be a partner in these murders? Block your products that are helping russia to kill the Ukrainians! → https://twitter.com/fedorovmykhailo/status/1504068644195733504
+
+» [Les Numériques] Samsung commercialise son premier téléviseur QD-Oled → https://lesnumeriques.com/tv-televiseur/-n178663.html
+» [Les Numériques] Test Iiyama G-Master GB3467WQSU : le 1er moniteur 34 pouces 165 Hz à 0,4 ms → https://lesnumeriques.com/moniteur-ecran-lcd/-p67895/test.html
+
+» [Les Numériques] Apple conserve sa place de leader incontesté du marché des écouteurs true wireless → https://lesnumeriques.com/intra-ecouteur-true-wireless/-n178681.html
+» [Les Numériques] Une nouvelle machine à café semi-automatique chez Delonghi : la Specialista Arte → https://lesnumeriques.com/cafetiere-automatique/-n178673.html
+
+» [Les Numériques] Quelques gestes pour un numérique plus responsable → https://lesnumeriques.com/vie-du-net/-n178493.html
+» [Les Numériques] Smartphones reconditionnés : mieux pour la planète, mieux pour le porte-monnaie → https://lesnumeriques.com/vie-du-net/-n178561.html
+» [Les Numériques] Smartphones reconditionnés : six iPhone sur le gril → https://lesnumeriques.com/telephone-portable/-a178453.html
+
+» [Les Numériques] P50E : Huawei décline son onéreux smartphone P50 Pro en une version plus abordable → https://lesnumeriques.com/telephone-portable/-n178689.html
+» [Les Numériques] Samsung dévoile son Galaxy A73 pour accompagner les Galaxy A33 et A53 → https://lesnumeriques.com/telephone-portable/-n178703.html
+» [France TV] Qui a peur de Huawei ? → https://www.france.tv/documentaires/politique/1142701-qui-a-peur-de-huawei.html
+
+» [Reuters] Brazil's Supreme Court suspends Telegram, a key Bolsonaro platform → https://www.reuters.com/world/americas/brazil-supreme-court-orders-suspension-telegram-app-country-reports-2022-03-18/
+» [Les Numériques] Une app de “conversion gay” du gouvernement malaisien retirée du Google Play Store → https://lesnumeriques.com/vie-du-net/-n178719.html
+» [Les Numériques] Ameli : les données de plus de 500 000 assurés compromises après une attaque → https://lesnumeriques.com/pro/-n178665.html
+
+» [Gamekult] Tekken : Bloodline, une série d'animation sur Netflix pour 2022 → https://gamekult.com/actualite/-3050847857.html
+» [Twitter] We worked closely with our friends at Valve to support #Xcloud #XboxGamePass through Microsoft Edge for the Steam Deck → https://twitter.com/cjgluckstein/status/1504874456300154884
+» [Reddit] Microsoft Edge Beta - The browser for Xbox Cloud Gaming on Steam Deck → https://www.reddit.com/r/MicrosoftEdge/comments/th77w9/
+» [Gamekult] Gran Turismo 7 fait son retour à temps pour le weekend avec la mise à jour 1.08. Mais pas de rétropédalage en vue pour la gestion des crédits → https://gamekult.com/actualite/-3050847845.html
+» [Reddit] infinite falling / death loop - Hacked → https://www.reddit.com/r/Eldenring/comments/tf5rmp/
+
+» [Les Numériques] Lueur d'espoir : le prix des cartes graphiques continue de chuter → https://lesnumeriques.com/carte-graphique/-n178677.html
+» [Les Numériques] User finds Windows 1.0 Easter egg featuring Valve’s Gabe Newell → https://www.xda-developers.com/windows-1-0-easter-egg-gabe-newell/
+» [ZDNet France] Oui, vous pouvez jouer à Doom sur un Raspberry Pi Pico. Un ingénieur a porté une version Windows de Doom pour qu'elle puisse être jouée sur le Raspberry Pi Pico, qui coûte 4 dollars → https://www.zdnet.fr/actualites/doom-39939177.htm
+» [Les Numériques] Licences Windows et Office à moindre coût : enquête dans la jungle des clés d'activation Microsoft → https://lesnumeriques.com/appli-logiciel/-a178559.html
+
+raids : lesnumeriques => JeelTV.
+
+
+--------------------------------------
+2022-03-22
+
+» [C-SPAN] White House Daily Briefing 2022-03-21 → https://www.c-span.org/video/?518855-1/
+» [White House] Statement by President Biden on our Nation’s Cybersecurity → https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/21/statement-by-president-biden-on-our-nations-cybersecurity/
+» [Reuters] Russia finds Meta guilty of 'extremist activity' but WhatsApp can stay → https://www.reuters.com/technology/meta-asks-russian-court-dismiss-proceedings-extremism-case-reports-2022-03-21/
+» [Statista] Average monthly number of users of Meta in Russia in January 2022, by platform → https://www.statista.com/statistics/1294187/
+» [Ведомости] VK Group реанимирует мессенджер ICQ и перезапустит MyTeams → https://www.vedomosti.ru/technology/articles/2022/03/15/913650-vk-group-reanimiruet
+ » [Technology Review] Activists are targeting Russians with open-source “protestware”. At least one open-source software project has had malicious code added which aimed to wipe computers located in Russia and Belarus → https://www.technologyreview.com/2022/03/21/1047489/
+» [Les Numériques] Guerre en Ukraine : la Russie face à l’exode de ses talents technologiques → https://lesnumeriques.com/pro/-n178807.html
+
+» [Nature.com] Ukrainian researchers pressure journals to boycott Russian authors. Most publications are still considering manuscripts irrespective of nationality — but Russia plans to remove a requirement for scientists to publish in foreign titles → https://www.nature.com/articles/d41586-022-00718-y
+» [The Times] Specialist Ukrainian drone unit picks off invading Russian forces as they sleep → https://www.thetimes.co.uk/article/specialist-zlx3dj7bb
+
+» [Les Numériques] La reconnaissance faciale écartée du dispositif de sécurité des JO de Paris 2024 → https://lesnumeriques.com/vie-du-net/-n178817.html
+» [Les Numériques] Avec O Bones, Orange Amps se lance dans les casques à conduction osseuse → https://lesnumeriques.com/casque-nomade/-n178837.html
+» [Les Numériques] Jays étoffe sa ligne d’écouteurs true wireless avec les t-Six, un modèle minimaliste à 100 € → https://lesnumeriques.com/intra-ecouteur-true-wireless/-n178859.html
+» [DJI Enterprise] These 6 Hardcore Weather Tests Put DJI’s M300 RTK Drone in a Class of its Own. Take a behind the scenes look at how DJI engineers put their products to the test → https://enterprise-insights.dji.com/blog/m300-rtk-hardcore-weather-resistance
+» [MacRumors] Apple Studio Display contains 64GB of storage, but only 2GB used → https://www.macrumors.com/2022/03/21/studio-display-contains-64gb-storage/
+
+» [The Verge] LG announces 2022 OLED TV pricing: new 42-inch size costs $1,399. There’s still no price for the enormous 97-inch 4K OLED → https://www.theverge.com/2022/3/21/22989183/
+
+» [Engadget] Porsche says 80 percent of its cars will be electric by 2030 → https://www.engadget.com/porsche-plans-80-percent-ev-by-2030-113557450.html
+» [Les Numériques] Mercedes lève le voile sur l’EQS, son SUV électrique grand luxe 7 places → https://lesnumeriques.com/voiture/-n176911.html
+» [Les Numériques] 1200 ch pour la future Maserati Gran Turismo électrique → https://lesnumeriques.com/voiture/-n178671.html
+» [Ford] Ford Confirms F-150 Lightning Final EPA-Estimated Range for All Models Ahead of Customer Deliveries in the Spring → https://media.ford.com/content/fordmedia/fna/us/en/news/2022/03/21/ford-f-150-lightning-epa-estimated-range.html
+
+» [Gamekult] Sony Interactive Entertainment fait l'acquisition de Haven, le studio de Jade Raymond → https://gamekult.com/actualite/-3050847881.html
+» [Gamekult] Ubisoft rejoint à son tour le pouvoir du cloud avec sa technologie Ubisoft Scalar. Une nouvelle licence est même en préparation → https://gamekult.com/actualite/-3050847865.html
+» [Gamekult] CD Projekt annonce le développement du prochain The Witcher sur le moteur Unreal Engine 5 → https://gamekult.com/actualite/-3050847883.html
+» 🇫🇷 [Gamekult] Moon Studios : un article expose la culture oppressante et toxique du studio de Ori → https://cutt.ly/wSWHuDC
+» 🇺🇸 [GamesBeat] Despite its beautiful Ori games, Moon Studios is called an ‘oppressive’ place to work → https://cutt.ly/0SWHkTE
+» 📺 [YouTube] People Make Games - Investigating three indie superstars accused of emotional abuse → https://youtu.be/xDPzZkx0cPs
+» [Washington Post] Video games keep getting longer. It’s all about time and money. The hardest challenge in modern games may be finding time to finish them → https://www.washingtonpost.com/video-games/2022/03/18/game-length-open-world/
+
+raids : lesnumeriques => HelloMaureen
+
+
 
 » [Les Numériques] 
 » [ZDNet France] 
