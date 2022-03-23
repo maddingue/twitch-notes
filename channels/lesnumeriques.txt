@@ -4372,6 +4372,51 @@ raids : lesnumeriques => JeelTV.
 raids : lesnumeriques => HelloMaureen
 
 
+--------------------------------------
+2022-03-23
+
+- un astronaute commet un crime dans l'espace. comment est-il jugé ? par personne, c'est un crime sans gravité
+- il y a 10 carottes dans un potager, un lapin en prend 2. que se passe-t-il ? les carottes sont qu'huit
+- que font les dinosaures quand ils n'arrivent pas à se mettre d'accord ? ils font un tirage au sort
+
+
+» [Les Numériques] Squid Game, True Detective, Daredevil, U2… Le récap des news SVoD du week-end → https://lesnumeriques.com/vie-du-net/-n178831.html
+
+» [ESA] N° 9–2022: ExoMars suspended → https://www.esa.int/Newsroom/Press_Releases/ExoMars_suspended
+» [Les Numériques] La collecte de fonds pour l'Ukraine cartonne sur Fortnite → https://lesnumeriques.com/vie-du-net/-n178929.html
+» [Next Impact] Devant la justice européenne, RT France dénonce une atteinte à la liberté d’expression → https://www.nextinpact.com/article/68703/rt
+» [Les Numériques] Les Russes se ruent sur la version hors-ligne de Wikipédia → https://lesnumeriques.com/vie-du-net/-n178905.html
+
+» [Les Numériques] Microsoft victime d’une cyberattaque par le groupe de pirates informatiques Lapsus$ → https://lesnumeriques.com/appli-logiciel/-n178897.html
+» [Okta] Updated Okta Statement on LAPSUS$ → https://www.okta.com/blog/2022/03/updated-okta-statement-on-lapsus/
+» [ZDNet France] Charlie Hebdo : le gang Everest affirme avoir vendu le dossier judiciaire. Des avocats doutent de l’intérêt d’un tel achat après un procès public qui avait déjà dévoilé la très grande partie de l’enquête sur cet attentat → https://www.zdnet.fr/actualites/charlie-hebdo-39939313.htm
+
+» [Les Numériques] Un ordinateur portable dans des lunettes ? Plongée dans le monde de Nimo → https://lesnumeriques.com/ordinateur-portable/-n178889.html
+» [YouTube] GTC 2022 Keynote with NVIDIA CEO Jensen Huang → https://youtu.be/39ubNuxnrK8
+» [Ars Technica] Explaining the Mac Studio’s removable SSDs, and why you can’t simply swap them out. To upgrade the Mac's SSDs, it helps to understand how they work → https://arstechnica.com/gadgets/2022/03/explaining-the-mac-studios-removable-ssds-and-why-you-cant-just-swap-them-out/
+» [Les Numériques] Test Apple iPhone SE 2022 : la force tranquille, mais très puissante → https://www.lesnumeriques.com/telephone-portable/apple-iphone-se-2022-p67051/test.html
+» [Les Numériques] Le Vivo V23 arrive en France et compte bien devenir le roi des selfies → https://lesnumeriques.com/telephone-portable/-n178887.html
+» [Les Numériques] Le wifi 6E peine à décoller, la faute à la pénurie de semi-conducteurs et à l'annonce du wifi 7 → https://lesnumeriques.com/repeteurs-wi-fi/-n178715.html
+
+» [YouTube] Unity - Enemies – real-time cinematic teaser → https://www.youtube.com/watch?v=eXYUNrgqWUU
+» 🇫🇷 [Gamekult] The Witcher 4 : Jason Slama, qui dirigeait le développement du Gwent, sera le réalisateur du jeu, et il promet d'ores et déjà qu'il n'y aura pas de crunch → https://cutt.ly/DSAuL70
+» 🇫🇷 [Gamekult] Une Xbox Series S et des manettes au poil pour la sortie du film Sonic The Hedgehog 2. Top moumoute → https://cutt.ly/uSAKHxd
+» 🇫🇷 [Gamekult] Gran Turismo 7 entre maintenance prolongée et économie défavorable. La communauté perd patience → https://cutt.ly/KSW2pVp
+» 🇫🇷 [Gamekult] Gran Turismo 7 fait son retour à temps pour le weekend avec la mise à jour 1.08. Mais pas de rétropédalage en vue pour la gestion des crédits → https://cutt.ly/5SWH8K4
+» 🇬🇧 [VGC] Gran Turismo 7 now has Sony’s lowest user score ever on Metacritic. PlayStation’s latest game has faced heavy criticism for downtime and microtransactions → https://cutt.ly/HSW2kCM
+» [Ars Technica] Gran Turismo 7 players use PC Remote Play to automate the in-game grind. PC script avoids microtransactions by earning millions of credits per day → https://arstechnica.com/gaming/2022/03/gran-turismo-7-players-earn-free-in-game-money-using-pc-scripting-tools/
+
+raids : lesnumeriques => marmiton_officiel => mariecpalot => Vitality => JulietteArz
+
+le résumé de la quotidienne des Numériques : gros points nouveautés films et séries avec Bastien ; des blagues nulles de la régie
+petit point Ukraine : Fortnite a collecté plus de 36 M$ pour l'Ukraine ; RT France chouine sur son interdiction ; les russes se ruent sur la version hors-ligne de Wikipédia
+point hacking : Lapsus$ qui a attaqué Okta, et par rebond Microsoft, Cloudflare et d'autres
+résumé de la conférence GTC de Nvidia, avec le futur du futur de la technologie
+The Witcher 4 est annoncé, sur moteur Unreal Engine 5, et promis sans crunch
+Lâm a passé beaucoup trop de temps à montrer son nouvel achat : un sac pour mettre tout son bazar
+
+
+
 
 » [Les Numériques] 
 » [ZDNet France] 
