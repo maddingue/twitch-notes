@@ -10599,8 +10599,8 @@ raids : Gautoz => Modiiie => popeetv => Gydias (terminé à 01:51)
 » 📺 [YouTube] People Make Games - Investigating three indie superstars accused of emotional abuse → https://youtu.be/xDPzZkx0cPs
 
 » 🇬🇧 [VGC] PlayStation is acquiring Jade Raymond’s Haven Studios. The studio is making a ‘persistent, scalable online game’ for PS5 and PC → https://cutt.ly/jSEfidA
-» 🇺🇸 [Game Developer] PlayStation to buy Jade Raymond's Haven Studios: Sony's first developer in Canada. The studio is working on an exclusive live service game for PS5 → https://cutt.ly/mSEfmj8
-» 🇺🇸 [Game Developer] Jade Raymond and Hermen Hulst on why Sony is buying Haven Studios. “We've been very impressed with the progress that Haven has made” → https://cutt.ly/3SEfZsT
+» 🇺🇸 [Games Industry] PlayStation to buy Jade Raymond's Haven Studios: Sony's first developer in Canada. The studio is working on an exclusive live service game for PS5 → https://cutt.ly/mSEfmj8
+» 🇺🇸 [Games Industry] Jade Raymond and Hermen Hulst on why Sony is buying Haven Studios. “We've been very impressed with the progress that Haven has made” → https://cutt.ly/3SEfZsT
 
 » 🇫🇷 [Gamekult] Triangle Strategy valide son succès avec pas loin de 800 000 copies distribuées, dont plus de 200 000 en Asie → https://cutt.ly/ISEgL0m
 
@@ -10628,6 +10628,69 @@ dévelopé par Grimbart Tales, studio allemand 🇩🇪 d'une dizaine de personn
 raids : Gautoz => BanjoGuyOllie => MielisTepes => Coffee => Artesio (terminé à 20:00)
 
 
+
+--------------------------------------
+2022-03-23
+
+être au bout du rouleau : être épuisé
+Jusqu'au Moyen Age, le "role" était une sorte de bâton d'ivoire ou de buis sur lequel les anciens collaient des parchemins, et qui faisait office de livre. Plus tard, ce mot s'est transformé et a servi à désigner d'autres types d'objets. Quand le parchemin était de petite taille, on l'appelait un "rollet". Ce nom s'est appliqué au domaine du théâtre où l'on disait d'un comédien qui avait obtenu un petit rôle qu'il avait un "rollet", soit : peu de répliques, et par extension, peu d'arguments.
+À partir du mot "role" est également apparu le "rouleau", diminutif de "role de papier", et qui désignait les rouleaux de papier que l'on connaît encore aujourd'hui et qui servaient déjà à l'époque à ranger les pièces de monnaie. "Etre au bout du rouleau" signifiait donc ne plus avoir de ressources, avoir utilisé toutes ses pièces. Aujourd'hui le sens est le même mais s'est étendu à tout type de ressources physiques ou morales.
+-- https://www.linternaute.fr/expression/langue-francaise/179/etre-au-bout-du-rouleau/
+
+être au bout du rouleau : épuisé ; manquant de ressources physiques ou financières
+En moyen français (XIVe et XVe siècles), on disait être au bout de son rollet. L'origine de l'expression remonte donc à loin. A très loin, même si l'on en croit l'explication de Claude Duneton.
+Autrefois, les 'livres' étaient constitués de feuilles collées bout à bout, écrites sur une seule face, puis enroulées et entourées avec un parchemin autour du rouleau ainsi obtenu pour le conserver. Les rôles ont ainsi été utilisés et conservés jusqu'à la fin du XVIIe siècle. C'est d'ailleurs sous ce nom qu'on appelait les registres administratifs et de ce nom également que vient l'expression "à tour de rôle".
+-- suite à lire : https://www.expressio.fr/expressions/au-bout-du-rouleau
+
+
+» 🇫🇷 [Gamekult] Red Candle Games change de genre avec Nine Sols, un jeu d'action-plateforme. Le jeu sortira sur PC mais aussi PlayStation et Switch → https://cutt.ly/XSAjhWp
+
+» 🇫🇷 [Gamekult] IllFonic annonce Ghostbusters : Spirits Unleashed. Un jeu multijoueur asymétrique, bien sûr → https://cutt.ly/uSAubDM
+» 🇬🇧 [VGC] Ghostbusters: Spirits Unleashed is a new 4v1 multiplayer game by Illfonic. The studio previously developed Friday the 13th and Predator: Hunting Grounds → https://cutt.ly/iSAdVXM
+
+» 🇫🇷 [Gamekult] CD Projekt annonce le développement du prochain The Witcher sur le moteur Unreal Engine 5 → https://cutt.ly/iSAivJM
+» 🇬🇧 [VGC] CD Project’s next Witcher game ‘kicks off a new saga’ and is being made with Epic’s Unreal Engine. A release timeframe has yet to be confirmed → https://cutt.ly/kSAcdY2
+» 🇫🇷 [Gamekult] The Witcher 4 : Jason Slama, qui dirigeait le développement du Gwent, sera le réalisateur du jeu, et il promet d'ores et déjà qu'il n'y aura pas de crunch → https://cutt.ly/DSAuL70
+» 🇬🇧 [VGC] CD Projekt ‘isn’t planning on making new Witcher game exclusive to one storefront’ following Epic deal. Fans raise concerns over possible Epic Games Store exclusivity → https://cutt.ly/ESAx5Gj
+
+» 🇺🇸 [Games Industry] Jade Raymond and Hermen Hulst on why Sony is buying Haven Studios. “We've been very impressed with the progress that Haven has made” → https://cutt.ly/3SEfZsT
+» 🇬🇧 [VGC] Analysis: Who’s working at PlayStation’s new studio Haven? 33% of its employees previously worked at Stadia and 70% worked at Ubisoft Montreal → https://cutt.ly/ESAl10t
+
+» 🇫🇷 [Gamekult] Votre Switch est désormais capable de regrouper des jeux dans des dossiers. La mise à jour 14.0.0 qui va tout changer → https://cutt.ly/dSAhAtB
+» 🇬🇧 [VGC] Nintendo Switch has finally added folders. The long-requested feature is added in a new firmware update → https://cutt.ly/gSAh20T
+
+» 🇫🇷 [Gamekult] Un nouveau Prince of Persia et plusieurs suites seraient au programme d'un prochain événement Ubisoft → https://cutt.ly/ISAgaRS
+» 🇬🇧 [VGC] Ubisoft is reportedly making a new Prince of Persia game ‘inspired by Ori’. It’s said to be one of 20 Ubisoft games that could be included in a big digital showcase → https://cutt.ly/GSAgQgz
+
+» 🇺🇸 [Xfire] EXCLUSIVE: Ubisoft planning massive games showcase - details & release dates. The latest information on nearly 20 upcoming games from Ubisoft → https://cutt.ly/YSAULNe
+
+» 🇬🇧 [VGC] Mass Effect trilogy director confirms he’s working on ‘a new sci-fi universe’. Casey Hudson also directed KOTOR prior to establishing Humanoid Studios → https://cutt.ly/zSAc1Au
+
+» 🇺🇸 [Washington Post] Judge likely to approve $18 million Activision Blizzard sexual harassment suit settlement → https://cutt.ly/DSAS9KK
+
+» 🇬🇧 [VGC] The FTC has asked Microsoft for more info on its Activision Blizzard deal. Plus Activision Blizzard calls on shareholders to approve Microsoft’s proposed buyout → https://cutt.ly/HSAfHV6
+» 🇺🇸 [Games Industry] Activision Blizzard calls on shareholders to vote in favour of Microsoft deal. Company will hold vote on April 28, details potential effect is acquisition falls through → https://cutt.ly/ZSAAGxE
+
+» 🇫🇷 [Gamekult] Une Xbox Series S et des manettes au poil pour la sortie du film Sonic The Hedgehog 2. Top moumoute → https://cutt.ly/uSAKHxd
+» 🇬🇧 [VGC] Xbox’s new Sonic the Hedgehog 2 console and furry controller isn’t for sale. Fans can enter a sweepstake to win the console → https://cutt.ly/BSAK0DM
+
+
+:::::
+» 🇫🇷 [Gamekult] Les fondateurs de Sierra sortent de leur retraite et annoncent Colossal Cave 3D Adventure, sur PC et Quest 2 → https://cutt.ly/MSAyN1J
+
+» 🇫🇷 [Gamekult] Cyberpunk 2077 s'offre encore une dose de correctifs dans le patch 1.52 → https://cutt.ly/mSAdchc
+
+» 🇺🇸 [Games Industry] Nintendo to shut down Dragalia Lost. The mobile title will come to a close later this year, with a last update scheduled for March 31 → https://cutt.ly/4SAogVO
+
+» 🇫🇷 [Gamekult] Le jeu d'aventure-narrative A Space For The Unbound s'annonce sur PS5 et Xbox Series → https://cutt.ly/hSAhpau
+
+
+Weird West, prévu le 31 mars 2022 sur PlayStation, Xbox et PC
+→ https://www.weirdwest.com/
+🎮 40 € sur PSN (https://cutt.ly/8SSaoZW) et Xbox (https://cutt.ly/2SSate3)
+⌨️ 🖱️ 40 € sur Steam (https://s.team/a/1097350) et GOG (https://cutt.ly/fSSpSpg)
+
+raids : Gautoz => DamDamLive => Tmocs
 
 
 
