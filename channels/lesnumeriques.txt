@@ -4406,7 +4406,7 @@ raids : lesnumeriques => HelloMaureen
 » 🇬🇧 [VGC] Gran Turismo 7 now has Sony’s lowest user score ever on Metacritic. PlayStation’s latest game has faced heavy criticism for downtime and microtransactions → https://cutt.ly/HSW2kCM
 » [Ars Technica] Gran Turismo 7 players use PC Remote Play to automate the in-game grind. PC script avoids microtransactions by earning millions of credits per day → https://arstechnica.com/gaming/2022/03/gran-turismo-7-players-earn-free-in-game-money-using-pc-scripting-tools/
 
-raids : lesnumeriques => marmiton_officiel => mariecpalot => Vitality => JulietteArz
+raids : lesnumeriques => marmiton_officiel => mariecpalot => Vitality => JulietteArz -> lilith
 
 le résumé de la quotidienne des Numériques : gros points nouveautés films et séries avec Bastien ; des blagues nulles de la régie
 petit point Ukraine : Fortnite a collecté plus de 36 M$ pour l'Ukraine ; RT France chouine sur son interdiction ; les russes se ruent sur la version hors-ligne de Wikipédia
