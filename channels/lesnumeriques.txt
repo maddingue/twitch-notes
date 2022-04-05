@@ -4506,6 +4506,51 @@ des tas d'infos sur des voitures et des motos (déso, j'ai décroché)
 pas d'E3 cette année ; un survivaliste prépare un internet post-apo ; l'ISS n'est en fait pas menacée malgré ce qu'en dit la Russie
 
 
+--------------------------------------
+2022-04-04
+
+» [Les Numériques] Des hackers russes analysent les systèmes énergétiques des États-Unis, selon le FBI → https://lesnumeriques.com/pro/-n179555.html
+» [Gamekult] GSC Game World chercherait à s'installer à Prague pour terminer le développement de S.T.A.L.K.E.R. 2 : Heart of Chornobyl → https://www.gamekult.com/actualite/-3050847951.html
+» [Wired] Russia inches toward its splinternet dream. For years, the country has been trying to create its own sovereign internet—a goal given new impetus by the backlash to its invasion of Ukraine → https://www.wired.com/story/russia-splinternet-censorship/
+» [Les Numériques] Comment empêcher l’usage de puces occidentales dans les armes russes  ? → https://lesnumeriques.com/cpu-processeur/-n179667.html
+» [US Department of Treasury] Treasury Targets Sanctions Evasion Networks and Russian Technology Companies Enabling Putin’s War → https://home.treasury.gov/news/press-releases/jy0692
+» [Korii] Les militaires russes brouillent les systèmes de navigation d'avions commerciaux. Le danger peut être réel, prévient la DGAC. → https://korii.slate.fr/tech/aviation-guerre-ukraine-militaires-russes-brouillent-systemes-navigation-gps-avions-commerciaux-civils
+» [Security Service of Ukraine] SSU exposes another bot farm in Kharkiv → https://ssu.gov.ua/en/novyny/sbu-vykryla-novu-vorozhu-botofermu-u-kharkovi-video
+» [Ars Technica] Russia asked NASA to end sanctions to save the ISS, but the West didn’t blink. "Sustaining safe and successful ISS operations remains a priority for the United States." → https://arstechnica.com/science/2022/04/no-no-no-russia-is-not-halting-cooperation-on-the-space-station/
+» [Radio Free Europe] Russian tech giant Yandex says it was targeted in biggest attack ever → https://www.rferl.org/a/russia-yandex-cyber-attack-/31453244.html
+
+» [Les Numériques] Test LG 65C2 : le téléviseur Oled polyvalent qui nous en met plein la vue → https://www.lesnumeriques.com/tv-televiseur/lg-65c2-p68075/test.html
+» [Les Numériques] ⚖️ Duel : Dreame F9 vs Realme TechLife → https://www.lesnumeriques.com/aspirateur-robot/face-a-face/59139-63935.html
+» [Les Numériques] Test Caméra extérieure Reolink Argus 3 Pro : rien ne lui échappe → https://www.lesnumeriques.com/camera-surveillance/reolink-argus-3-pro-p68129/test.html
+» [PR Newswire] Tile teams up with Dell Technologies, Lenovo, MSI and Fujitsu to enable finding technology in new products → https://www.prnewswire.com/news-releases/tile-teams-up-with-dell-technologies-lenovo-msi-and-fujitsu-to-enable-finding-technology-in-new-products-301514305.html
+» [Les Numériques] Test Roccat Vulcan TKL Pro : un clavier opto-mécanique atypique et réussi → https://www.lesnumeriques.com/clavier/roccat-roccat-clavier-de-jeu-optique-compact-rvb-vulcan-tkl-pr-p68041/test.html
+» [Les Numériques] Roccat dévoile la Burst Pro Air, souris gaming sans-fil RGB avec interrupteurs optiques → https://lesnumeriques.com/souris/-n179609.html
+» [CNET France] Apple : pas de produits pliables avant 2025 selon les analystes. Initialement attendue pour 2024, Apple ne semble pas mettre la priorité sur cette gamme de produits https://www.cnetfrance.fr/news/apple-39939943.htm
+» [ZDNet France] Vous avez le vertige ? La dernière ascension d'Alex Honnold en réalité virtuelle est une pure torture L'avenir du cinéma est à la 3D, et ce nouveau projet en est une bonne illustration → https://www.zdnet.fr/actualites/vertige-39938399.htm
+» [The Verge] The Magic Leap 2 isn’t a revolution, but it’s a visible improvement. A step toward fixing AR’s most annoying limits → https://www.theverge.com/2022/3/10/22969007/
+» [The Verge] This 5G neckband from Motorola could make XR glasses less bulky. Aimed at use cases like ‘sports training and fan experiences’ → https://www.theverge.com/2022/2/15/22934526/
+» [The Verge] Snap buys brain-computer interface startup for future AR glasses. NextMind made a headband for controlling virtual objects with your thoughts → https://www.theverge.com/2022/3/23/22991667/
+» [Les Numériques] Les ventes de casques de réalité virtuelle ont doublé en 2021 → https://lesnumeriques.com/casque-realite-virtuelle/-n179013.html
+» [Gamekult] Le prochain Meta Quest Gaming Showcase aura lieu le 20 avril → https://www.gamekult.com/actualite/-3050848131.html
+
+» [Les Numériques] Windows 11 peine à s'imposer face à Windows 10 → https://lesnumeriques.com/appli-logiciel/-n179777.html
+» [Les Numériques] Marché automobile : un premier trimestre 2022 en berne, mais tout n'est pas noir → https://lesnumeriques.com/voiture/-n179605.html
+» [CNET France] Hausse prix du carburant : trouvez les stations essence les moins chères grâce à ces applis → https://www.cnetfrance.fr/produits/essence-39934275.htm
+» [Ars Technica] Three cylinders, all-wheel drive, and 300 hp: The Toyota GR Corolla. The US missed out on the hot Yaris, but we're getting Gazoo Racing's follow-up. → https://arstechnica.com/cars/2022/04/toyota-preps-a-wild-all-wheel-drive-gr-corolla-for-sale-this-year/
+» [CNBC] Tesla is unable to restart Shanghai production on Monday → https://www.cnbc.com/2022/04/03/tesla-is-unable-to-restart-shanghai-production-on-monday.html
+» [Les Numériques] Google s'attaque aux rendez-vous médicaux → https://lesnumeriques.com/vie-du-net/-n179137.html
+» [CNET France] Apple s'offre une fintech pour préparer le lancement d'Apple Card en Europe ? Un nouvel investissement qui fait écho à des déclarations faites par Tim Cook en 2019 lors du lancement d'Apple Card → https://www.cnetfrance.fr/news/apple-39939439.htm
+» [Les Numériques] Vote historique : à New York, les salariés d'Amazon pour la création d'un syndicat → https://lesnumeriques.com/vie-du-net/-n179773.html
+» [The Verge] Amazon workers vote to unionize Staten Island warehouse. It will be the first union ever formed at an Amazon warehouse → https://www.theverge.com/2022/4/1/23004524/
+
+» [Les Numériques] Le fonds américain Bain Capital convoiterait Toshiba → https://lesnumeriques.com/pro/-n179615.html
+» [Les Numériques] Kärcher jaillit dans le capital de Mysoda → https://lesnumeriques.com/divers-electromenager/-n179607.html
+» [Les Numériques] Robotique molle : des chercheurs développent un "slime " magnétique → https://lesnumeriques.com/robot/-n179673.html
+
+raids : lesnumeriques => mistermv.
+
+
+
 
 
 » [Les Numériques] 
