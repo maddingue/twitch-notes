@@ -4584,6 +4584,48 @@ raids : lesnumeriques => mistermv.
 raids : lesnumeriques => WoodyLutherie => DocNozman (terminé à 16:44)
 
 
+--------------------------------------
+2022-04-06
+
+» [Les Numériques] Les téléviseurs LG Oled 42 pouces (42C2) embarqueront bien une dalle Oled Evo… plus tard → https://lesnumeriques.com/tv-televiseur/-n179903.html
+» [Les Numériques] Samsung repousse la sortie de ses "petits" téléviseurs Micro-Led → https://lesnumeriques.com/tv-televiseur/-n179783.html
+» [Les Numériques] L'Evidence Eco Design, une cafetière automatique avec broyeur eco-friendly de Krups → https://lesnumeriques.com/cafetiere-automatique/-n179981.html
+» AnkerMake M5 3D printer, 5X faster, extra intelligent → https://www.ankermake.com/3dprinter-v8111
+» [The Verge] Anker’s first 3D printer might be the one you’ve been waiting for. Fixing big pain points with 3D printing — if it succeeds  → https://www.theverge.com/23012424/anker
+» Lynx Workshop → https://www.lynx-workshop.com/
+» Apple’s Worldwide Developers Conference returns in its all-online format → https://www.apple.com/newsroom/2022/04/apples-worldwide-developers-conference-returns-in-its-all-online-format/
+
+» [Les Numériques] Windows 11 fait le plein de fonctionnalités : le point sur toutes les nouveautés → https://lesnumeriques.com/appli-logiciel/-n180003.html
+
+» [Les Numériques] C31 : Realme dévoile (encore) un smartphone d'entrée de gamme qui mise sur l'autonomie → https://lesnumeriques.com/telephone-portable/-n179915.html
+» [Les Numériques] Samsung Galaxy S20 FE 2022 : le best-seller signe son retour en Corée du Sud → https://lesnumeriques.com/telephone-portable/-n179927.html
+
+» [Les Numériques] Test Samyang AF 24-70mm F2.8 FE : un premier zoom honorable → https://www.lesnumeriques.com/zooms/samyang-af-24-70mm-f2-8-fe-p65719/test.html
+» [Les Numériques] Nikkor Z 800mm f/6.3 VR S : un téléobjectif au poids et prix fondants par rapport à la version reflex → https://www.lesnumeriques.com/focales-fixes/-n179979.html
+» [Les Numériques] Nouveau record de ventes pour les vélos à assistance électrique en France → https://lesnumeriques.com/velo-electrique/-n179987.html
+» [Numerama] VanMoof annonce ses vélos Electrified S5 et A5 (et on les a vus en avant-première) → https://www.numerama.com/vroom/908767-vanmoof.html
+» [Les Numériques] VanMoof présente ses A5 et S5 et améliore la recette de son vélo électrique design → https://lesnumeriques.com/velo-electrique/-n179897.html
+» [The Verge] Test-riding VanMoof’s new S5 and A5 e-bikes. First look at the next, next generation → https://www.theverge.com/23009595/vanmoof
+
+» [Les Numériques] Quand les meules de parmesan sont traquées numériquement pour éviter la falsification → https://lesnumeriques.com/vie-du-net/-n179975.html
+» [ZDNet France] Traque à la piscine non déclarée : quand l'IA prend l'eau. Les faux positifs, c'est-à-dire les détections de piscines alors qu'elles n'existent pas, seraient de 30 %. Conséquence directe de ces erreurs, plusieurs contribuables ont ainsi reçu par erreur un courrier des impôts leur demandant plus d'informations sur une piscine, avec à la clé un redressement fiscal potentiel → https://www.zdnet.fr/actualites/piscine-39940101.htm
+
+» [Les Numériques] Obi-Wan, cigarettes et tyrannosaure : les dernières annonces de la SvOD → https://lesnumeriques.com/vie-du-net/-n179851.html
+» [Hollywood Reporter] ‘Sherlock Holmes’ TV Universe in the Works at HBO Max. Robert Downey Jr. and Lionel Wigram will reteam to exec produce the franchise, which currently has two shows in early development → https://www.hollywoodreporter.com/tv/tv-news/sherlock-holmes-1235125518/
+» [Variety] HBO Max Chief Andy Forssell exits WarnerMedia ahead of Discovery merger close → https://variety.com/2022/tv/news/hbo-max-1235225798/
+» [MovieWeb] Luke Cage Showrunner Shares Disappointment at Disney Removing Actor Dedication → https://movieweb.com/luke-cage-showrunner-disney-removing-actor-dedication/
+» [TechRadar] Harrison Ford to join Apple TV Plus in new comedy Shrinking → https://www.techradar.com/news/ted-lasso-team-to-bring-harrison-ford-to-apple-tv-plus-in-new-comedy-shrinking
+» [Les Numériques] C'est officiel, France Télévisions va bien quitter le navire Salto → https://lesnumeriques.com/vie-du-net/-n179121.html
+
+raids : lesnumeriques => marmiton_officiel => mariecpalot => Julien_f1 (terminé à 18:54)
+
+résumé de la quotidienne des Numériques : les prochains écrans OLED et Micro LED
+grosse attente sur la future imprimante 3D très rapide d'AnkerMake
+le point sur les nouveautés de Windows 11 ; nouveaux smartphones : Realme C31, Samsung Galaxy S20 FE 2022
+record de ventes pour les VAE en France ; nouveaux vélos VanMoof A5 et S5 en avant-première
+les meules de parmesan traquées numériquement pour éviter la falsification
+le point séries et films avec Bastien : Obi-Wan, Feud, Prehistoric Planet, Sherlock Holmes, Shrinking, HBO Max et Salto
+
 
 
 » [Les Numériques] 
@@ -4637,4 +4679,5 @@ clips :
 🎥 même averti et avec une sécurité, Lâm renverse quand même son café… → https://clips.twitch.tv/ColdbloodedEnthusiasticPorpoiseEagleEye-BbSq8g8HFQrsLYcw
 🎥 le café est vide… presque ! → https://clips.twitch.tv/JollySquareCaribouDoggo-Dmhep3euJdEQ7vj3
 🎥 Lâm clashe Gautoz sur Tunic 🦊 → https://clips.twitch.tv/PiercingYummyHorseradishResidentSleeper-bbSk6XsMt3UdYee-
+🎥 Lâm renverse, encore une fois, sa tasse à café → https://clips.twitch.tv/ArbitraryTrappedPastaDxCat-yZHTMgvSFk-rCg78
 
