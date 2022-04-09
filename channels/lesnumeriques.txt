@@ -4506,6 +4506,218 @@ des tas d'infos sur des voitures et des motos (déso, j'ai décroché)
 pas d'E3 cette année ; un survivaliste prépare un internet post-apo ; l'ISS n'est en fait pas menacée malgré ce qu'en dit la Russie
 
 
+--------------------------------------
+2022-04-04
+
+» [Les Numériques] Des hackers russes analysent les systèmes énergétiques des États-Unis, selon le FBI → https://lesnumeriques.com/pro/-n179555.html
+» [Gamekult] GSC Game World chercherait à s'installer à Prague pour terminer le développement de S.T.A.L.K.E.R. 2 : Heart of Chornobyl → https://www.gamekult.com/actualite/-3050847951.html
+» [Wired] Russia inches toward its splinternet dream. For years, the country has been trying to create its own sovereign internet—a goal given new impetus by the backlash to its invasion of Ukraine → https://www.wired.com/story/russia-splinternet-censorship/
+» [Les Numériques] Comment empêcher l’usage de puces occidentales dans les armes russes  ? → https://lesnumeriques.com/cpu-processeur/-n179667.html
+» [US Department of Treasury] Treasury Targets Sanctions Evasion Networks and Russian Technology Companies Enabling Putin’s War → https://home.treasury.gov/news/press-releases/jy0692
+» [Korii] Les militaires russes brouillent les systèmes de navigation d'avions commerciaux. Le danger peut être réel, prévient la DGAC. → https://korii.slate.fr/tech/aviation-guerre-ukraine-militaires-russes-brouillent-systemes-navigation-gps-avions-commerciaux-civils
+» [Security Service of Ukraine] SSU exposes another bot farm in Kharkiv → https://ssu.gov.ua/en/novyny/sbu-vykryla-novu-vorozhu-botofermu-u-kharkovi-video
+» [Ars Technica] Russia asked NASA to end sanctions to save the ISS, but the West didn’t blink. "Sustaining safe and successful ISS operations remains a priority for the United States." → https://arstechnica.com/science/2022/04/no-no-no-russia-is-not-halting-cooperation-on-the-space-station/
+» [Radio Free Europe] Russian tech giant Yandex says it was targeted in biggest attack ever → https://www.rferl.org/a/russia-yandex-cyber-attack-/31453244.html
+
+» [Les Numériques] Test LG 65C2 : le téléviseur Oled polyvalent qui nous en met plein la vue → https://www.lesnumeriques.com/tv-televiseur/lg-65c2-p68075/test.html
+» [Les Numériques] ⚖️ Duel : Dreame F9 vs Realme TechLife → https://www.lesnumeriques.com/aspirateur-robot/face-a-face/59139-63935.html
+» [Les Numériques] Test Caméra extérieure Reolink Argus 3 Pro : rien ne lui échappe → https://www.lesnumeriques.com/camera-surveillance/reolink-argus-3-pro-p68129/test.html
+» [PR Newswire] Tile teams up with Dell Technologies, Lenovo, MSI and Fujitsu to enable finding technology in new products → https://www.prnewswire.com/news-releases/tile-teams-up-with-dell-technologies-lenovo-msi-and-fujitsu-to-enable-finding-technology-in-new-products-301514305.html
+» [Les Numériques] Test Roccat Vulcan TKL Pro : un clavier opto-mécanique atypique et réussi → https://www.lesnumeriques.com/clavier/roccat-roccat-clavier-de-jeu-optique-compact-rvb-vulcan-tkl-pr-p68041/test.html
+» [Les Numériques] Roccat dévoile la Burst Pro Air, souris gaming sans-fil RGB avec interrupteurs optiques → https://lesnumeriques.com/souris/-n179609.html
+» [CNET France] Apple : pas de produits pliables avant 2025 selon les analystes. Initialement attendue pour 2024, Apple ne semble pas mettre la priorité sur cette gamme de produits https://www.cnetfrance.fr/news/apple-39939943.htm
+» [ZDNet France] Vous avez le vertige ? La dernière ascension d'Alex Honnold en réalité virtuelle est une pure torture L'avenir du cinéma est à la 3D, et ce nouveau projet en est une bonne illustration → https://www.zdnet.fr/actualites/vertige-39938399.htm
+» [The Verge] The Magic Leap 2 isn’t a revolution, but it’s a visible improvement. A step toward fixing AR’s most annoying limits → https://www.theverge.com/2022/3/10/22969007/
+» [The Verge] This 5G neckband from Motorola could make XR glasses less bulky. Aimed at use cases like ‘sports training and fan experiences’ → https://www.theverge.com/2022/2/15/22934526/
+» [The Verge] Snap buys brain-computer interface startup for future AR glasses. NextMind made a headband for controlling virtual objects with your thoughts → https://www.theverge.com/2022/3/23/22991667/
+» [Les Numériques] Les ventes de casques de réalité virtuelle ont doublé en 2021 → https://lesnumeriques.com/casque-realite-virtuelle/-n179013.html
+» [Gamekult] Le prochain Meta Quest Gaming Showcase aura lieu le 20 avril → https://www.gamekult.com/actualite/-3050848131.html
+
+» [Les Numériques] Windows 11 peine à s'imposer face à Windows 10 → https://lesnumeriques.com/appli-logiciel/-n179777.html
+» [Les Numériques] Marché automobile : un premier trimestre 2022 en berne, mais tout n'est pas noir → https://lesnumeriques.com/voiture/-n179605.html
+» [CNET France] Hausse prix du carburant : trouvez les stations essence les moins chères grâce à ces applis → https://www.cnetfrance.fr/produits/essence-39934275.htm
+» [Ars Technica] Three cylinders, all-wheel drive, and 300 hp: The Toyota GR Corolla. The US missed out on the hot Yaris, but we're getting Gazoo Racing's follow-up. → https://arstechnica.com/cars/2022/04/toyota-preps-a-wild-all-wheel-drive-gr-corolla-for-sale-this-year/
+» [CNBC] Tesla is unable to restart Shanghai production on Monday → https://www.cnbc.com/2022/04/03/tesla-is-unable-to-restart-shanghai-production-on-monday.html
+» [Les Numériques] Google s'attaque aux rendez-vous médicaux → https://lesnumeriques.com/vie-du-net/-n179137.html
+» [CNET France] Apple s'offre une fintech pour préparer le lancement d'Apple Card en Europe ? Un nouvel investissement qui fait écho à des déclarations faites par Tim Cook en 2019 lors du lancement d'Apple Card → https://www.cnetfrance.fr/news/apple-39939439.htm
+» [Les Numériques] Vote historique : à New York, les salariés d'Amazon pour la création d'un syndicat → https://lesnumeriques.com/vie-du-net/-n179773.html
+» [The Verge] Amazon workers vote to unionize Staten Island warehouse. It will be the first union ever formed at an Amazon warehouse → https://www.theverge.com/2022/4/1/23004524/
+
+» [Les Numériques] Le fonds américain Bain Capital convoiterait Toshiba → https://lesnumeriques.com/pro/-n179615.html
+» [Les Numériques] Kärcher jaillit dans le capital de Mysoda → https://lesnumeriques.com/divers-electromenager/-n179607.html
+» [Les Numériques] Robotique molle : des chercheurs développent un "slime " magnétique → https://lesnumeriques.com/robot/-n179673.html
+
+raids : lesnumeriques => mistermv.
+
+
+--------------------------------------
+2022-04-05
+
+» [Les Numériques] Fortnite réunit une somme impressionnante pour aider l’Ukraine → https://lesnumeriques.com/jeux-video/-n179883.html
+» [Gamekult] Wargaming annonce quitter la Russie et la Biélorussie. Une décision qui entraînera des pertes conséquentes → https://gamekult.com/actualite/-3050848219.html
+» [Wired] As Russia plots its next move, an AI listens to the chatter. With vast amounts of data becoming available to intelligence analysts, new tools will help them sift and interpret it all—but they will introduce new risks, too → https://www.wired.com/story/russia-ukraine-war-ai-surveillance/
+
+» [The Verge] It’s hard to believe Samsung’s new, matte The Frame is actually a TV. A matte finish makes The Frame’s signature trick even more convincing → https://www.theverge.com/2022/4/4/23009799/
+» [Les Numériques] Série Motorola Edge 30 : du Frontier au Miami, une feuille de route pour les prochains mois → https://lesnumeriques.com/telephone-portable/-n179801.html
+» [Les Numériques] Realme lance le C35, un smartphone d'entrée de gamme qui ne néglige pas la photo → https://lesnumeriques.com/telephone-portable/-n179819.html
+» [XDA Developers] Realme Pad Mini packs an 8.7-inch display and a 6,400mAh battery in a slim body → https://www.xda-developers.com/realme-pad-mini-launch-specifications-features/
+» [Les Numériques] Test OnePlus 10 Pro : un bon haut de gamme qui n'en fait pas assez → https://www.lesnumeriques.com/telephone-portable/oneplus-10-pro-p66235/test.html
+» [Les Numériques] iOS 15.4 : Apple corrige des problèmes d'autonomie et une faille avec une mise à jour → https://lesnumeriques.com/telephone-portable/-n179791.html
+» [Les Numériques] Kia dévoile sa nouvelle Niro 2022 avec une gamme entièrement électrifiée → https://lesnumeriques.com/voiture/-n179841.html
+» [Les Numériques] En plus des Tesla, Hertz achète 65 000 véhicules électriques à Polestar → https://lesnumeriques.com/voiture/-n179885.html
+» [Les Numériques] 100 €/mois pour rouler en voiture électrique : une promesse de campagne présidentielle viable ? → https://lesnumeriques.com/voiture/-n179765.html
+
+» Boston Dynamics’ Stretch Robot Now Available for Commercial Purchase → https://www.bostondynamics.com/stretch-robot-now-available-commercial-purchase
+» [Pompeii] The project Smart@POMPEI comes alive and turns into SMART@LAND → http://pompeiisites.org/en/projects/smart-pompei/
+» [Les Numériques] 
+» [Les Numériques] Ce drone autonome va livrer jusqu'à plus de 200 kg de marchandises dès 2023 → https://lesnumeriques.com/concept/-n179873.html
+» [Les Numériques] Livraisons par drones : les Wing d’Alphabet arrivent à Dallas cette semaine → https://lesnumeriques.com/concept/-n179887.html
+» [The Times] Robot dogs bark out lockdown orders in Shanghai → https://www.thetimes.co.uk/article/robot-dogs-bark-out-lockdown-orders-in-shanghai-lgm9mq0qv
+
+» [Les Numériques] Elon Musk verse près de 3 milliards de dollars pour devenir le premier actionnaire de Twitter → https://lesnumeriques.com/pro/-n179839.html
+» [Les Numériques] Truth Social, le Twitter de Donald Trump, n'intéresse finalement pas grand monde → https://lesnumeriques.com/vie-du-net/-n179809.html
+» [Reuters] Exclusive: Two key tech execs quit Truth Social after troubled app launch → https://www.reuters.com/technology/exclusive-two-key-tech-execs-quit-truth-social-after-troubled-app-launch-2022-04-04/
+» [Reddit] April Fools’ on Reddit is No Joke: Bringing Back r/place → https://www.redditinc.com/blog/april-fools-on-reddit-is-no-joke-bringing-back-r-place
+» [Les Numériques] Le drapeau français au cœur d'un affrontement virtuel sur la fresque de Reddit → https://lesnumeriques.com/vie-du-net/-n179871.html
+» [Twitter - Lucie Ronfaut] J'aime bien l'analyse de @TaylorLorenz sur r/Place et ce que cette expérience dit de l'importance des groupes d'influence en ligne et de la modération communautaire → https://twitter.com/LucieRonfaut/status/1511233555850055683
+
+raids : lesnumeriques => WoodyLutherie => DocNozman (terminé à 16:44)
+
+
+--------------------------------------
+2022-04-06
+
+» [Les Numériques] Les téléviseurs LG Oled 42 pouces (42C2) embarqueront bien une dalle Oled Evo… plus tard → https://lesnumeriques.com/tv-televiseur/-n179903.html
+» [Les Numériques] Samsung repousse la sortie de ses "petits" téléviseurs Micro-Led → https://lesnumeriques.com/tv-televiseur/-n179783.html
+» [Les Numériques] L'Evidence Eco Design, une cafetière automatique avec broyeur eco-friendly de Krups → https://lesnumeriques.com/cafetiere-automatique/-n179981.html
+» AnkerMake M5 3D printer, 5X faster, extra intelligent → https://www.ankermake.com/3dprinter-v8111
+» [The Verge] Anker’s first 3D printer might be the one you’ve been waiting for. Fixing big pain points with 3D printing — if it succeeds  → https://www.theverge.com/23012424/anker
+» Lynx Workshop → https://www.lynx-workshop.com/
+» Apple’s Worldwide Developers Conference returns in its all-online format → https://www.apple.com/newsroom/2022/04/apples-worldwide-developers-conference-returns-in-its-all-online-format/
+
+» [Les Numériques] Windows 11 fait le plein de fonctionnalités : le point sur toutes les nouveautés → https://lesnumeriques.com/appli-logiciel/-n180003.html
+
+» [Les Numériques] C31 : Realme dévoile (encore) un smartphone d'entrée de gamme qui mise sur l'autonomie → https://lesnumeriques.com/telephone-portable/-n179915.html
+» [Les Numériques] Samsung Galaxy S20 FE 2022 : le best-seller signe son retour en Corée du Sud → https://lesnumeriques.com/telephone-portable/-n179927.html
+
+» [Les Numériques] Test Samyang AF 24-70mm F2.8 FE : un premier zoom honorable → https://www.lesnumeriques.com/zooms/samyang-af-24-70mm-f2-8-fe-p65719/test.html
+» [Les Numériques] Nikkor Z 800mm f/6.3 VR S : un téléobjectif au poids et prix fondants par rapport à la version reflex → https://www.lesnumeriques.com/focales-fixes/-n179979.html
+» [Les Numériques] Nouveau record de ventes pour les vélos à assistance électrique en France → https://lesnumeriques.com/velo-electrique/-n179987.html
+» [Numerama] VanMoof annonce ses vélos Electrified S5 et A5 (et on les a vus en avant-première) → https://www.numerama.com/vroom/908767-vanmoof.html
+» [Les Numériques] VanMoof présente ses A5 et S5 et améliore la recette de son vélo électrique design → https://lesnumeriques.com/velo-electrique/-n179897.html
+» [The Verge] Test-riding VanMoof’s new S5 and A5 e-bikes. First look at the next, next generation → https://www.theverge.com/23009595/vanmoof
+
+» [Les Numériques] Quand les meules de parmesan sont traquées numériquement pour éviter la falsification → https://lesnumeriques.com/vie-du-net/-n179975.html
+» [ZDNet France] Traque à la piscine non déclarée : quand l'IA prend l'eau. Les faux positifs, c'est-à-dire les détections de piscines alors qu'elles n'existent pas, seraient de 30 %. Conséquence directe de ces erreurs, plusieurs contribuables ont ainsi reçu par erreur un courrier des impôts leur demandant plus d'informations sur une piscine, avec à la clé un redressement fiscal potentiel → https://www.zdnet.fr/actualites/piscine-39940101.htm
+
+» [Les Numériques] Obi-Wan, cigarettes et tyrannosaure : les dernières annonces de la SvOD → https://lesnumeriques.com/vie-du-net/-n179851.html
+» [Hollywood Reporter] ‘Sherlock Holmes’ TV Universe in the Works at HBO Max. Robert Downey Jr. and Lionel Wigram will reteam to exec produce the franchise, which currently has two shows in early development → https://www.hollywoodreporter.com/tv/tv-news/sherlock-holmes-1235125518/
+» [Variety] HBO Max Chief Andy Forssell exits WarnerMedia ahead of Discovery merger close → https://variety.com/2022/tv/news/hbo-max-1235225798/
+» [MovieWeb] Luke Cage Showrunner Shares Disappointment at Disney Removing Actor Dedication → https://movieweb.com/luke-cage-showrunner-disney-removing-actor-dedication/
+» [TechRadar] Harrison Ford to join Apple TV Plus in new comedy Shrinking → https://www.techradar.com/news/ted-lasso-team-to-bring-harrison-ford-to-apple-tv-plus-in-new-comedy-shrinking
+» [Les Numériques] C'est officiel, France Télévisions va bien quitter le navire Salto → https://lesnumeriques.com/vie-du-net/-n179121.html
+
+raids : lesnumeriques => marmiton_officiel => mariecpalot => Julien_f1 (terminé à 18:54)
+
+résumé de la quotidienne des Numériques : les prochains écrans OLED et Micro LED
+grosse attente sur la future imprimante 3D très rapide d'AnkerMake
+le point sur les nouveautés de Windows 11 ; nouveaux smartphones : Realme C31, Samsung Galaxy S20 FE 2022
+record de ventes pour les VAE en France ; nouveaux vélos VanMoof A5 et S5 en avant-première
+les meules de parmesan traquées numériquement pour éviter la falsification
+le point séries et films avec Bastien : Obi-Wan, Feud, Prehistoric Planet, Sherlock Holmes, Shrinking, HBO Max et Salto
+
+
+--------------------------------------
+2022-04-07
+
+» [ZDNet France] Intel stoppe son activité en Russie. La société américaine de production de semi-conducteurs a annoncé l’arrêt complet de ses activités en Russie. Cette décision intervient alors que de nouvelles sanctions américaines ont été annoncées contre la Russie → https://www.zdnet.fr/actualites/intel-39940169.htm
+» [Numérama] Des hackers russes piègent des liens Telegram pour prendre le contrôle de comptes → https://www.numerama.com/cyberguerre/913509-telegram.html
+» [VICE Motherboard] US Government disrupts botnet controlled by Russian government hackers. The Department of Justice neutralized a botnet controlled by Sandworm, a notorious hacking group linked to GRU, Russia’s military spy agency → https://www.vice.com/en/article/88g3vx/botnet
+
+» [ESPN] MLB to allow pitchers, catchers to use anti-sign-stealing technology during regular season → https://www.espn.com/mlb/story/_/id/33674768/mlb-allow-pitchers-catchers-use-anti-sign-stealing-technology-regular-season-sources-say
+» [DJMag] Technics announces 50th anniversary edition of the SL-1200 → https://djmag.com/tech/technics-announces-50th-anniversary-edition-sl-1200
+» [The Verge] Alienware’s QD-OLED monitor sets a new standard for gaming displays → https://www.theverge.com/23011794/alienware-aw3423dw
+» [Les Numériques] Test Samsung Galaxy A53 5G : un milieu de gamme convaincant → https://www.lesnumeriques.com/telephone-portable/samsung-galaxy-a53-p67405/test.html
+» [XDA Developers] OPPO’s first in-house AP chip could launch as soon as next year → https://www.xda-developers.com/oppos-first-in-house-ap-chip-could-launch-as-soon-as-next-year/
+» [Business Korea] Samsung Electronics Expected to Load Galaxy S22 FE with MediaTek's AP → http://www.businesskorea.co.kr/news/articleView.html?idxno=90334
+» [Les Numériques] Qualcomm : les caractéristiques du Snapdragon 7 Gen 1 se dévoilent → https://lesnumeriques.com/telephone-portable/-n180065.html
+
+» [Wired] It’s a Perfect Time for EVs. It’s a Terrible Time for EVs. Gas prices are up, commutes are back, and Russian oil is under sanction. Too bad the electric vehicle industry isn’t ready to seize the moment → https://www.wired.com/story/its-a-perfect-time-for-evs-its-a-terrible-time-for-evs/
+» [Ars Technica] Affordable electric cars coming in 2027 from new GM/Honda project. The EVs will use Ultium batteries and include a sub-$30,000 EV for North America → https://arstechnica.com/cars/2022/04/honda-and-general-motors-will-collaborate-on-affordable-evs-from-2027/
+» [Les Numériques] Dacia : hausse des prix pour l’ensemble de la gamme → https://lesnumeriques.com/voiture/-n179907.html
+» [Les Numériques] La Sanef annonce l'installation de bornes de recharge ultra-rapides sur toutes les aires de son réseau autoroutier → https://lesnumeriques.com/voitures-co/-n180087.html
+» [Les Numériques] Un an de recharge illimitée aux bornes Ionity offert pour l’achat d’une BMW électrique → https://lesnumeriques.com/voiture/-n179949.html
+
+» [Les Numériques] Tout savoir sur la Livebox 6, nouvelle box d'Orange compatible wifi 6E → https://lesnumeriques.com/mobilite/-n179847.html
+» [Les Numériques] Starlink privé de fréquences en France après une décision du Conseil d’État → https://lesnumeriques.com/pro/-n180023.html
+» [The Verge] Elon Musk tweeted his way onto Twitter’s board — now what? What happens when a true poster joins your board of directors? → https://www.theverge.com/2022/4/5/23011810/
+
+» [Les Numériques] Unreal Engine 5 : fini l’accès anticipé, le lancement est officiel → https://lesnumeriques.com/jeux-video/-n179899.html
+
+» [Les Numériques] Le numérique, grand oublié de l’oral des candidats à la présidentielle à Station F → https://lesnumeriques.com/pro/-n177135.html
+» [Les Numériques] Présidentielle : les candidats en opération séduction devant les entrepreneurs du numérique au Cirque d’hiver → https://lesnumeriques.com/pro/-n178207.html
+» [Les Numériques] Transfert de données : l’Europe et les États-Unis trouvent un accord après l’invalidation du Privacy Shield → https://lesnumeriques.com/pro/-n179169.html
+» [Les Numériques] French Tech, souveraineté numérique, Macron... L'heure du bilan pour Cédric O → https://lesnumeriques.com/pro/-a178563.html
+» [Les Numériques] Présidentielle : le programme numérique de Valérie Pécresse (Les Républicains) → https://lesnumeriques.com/vie-du-net/-a178841.html
+» [Les Numériques] Présidentielle : le programme numérique de Fabien Roussel (Parti communiste français) → https://lesnumeriques.com/vie-du-net/-a178971.html
+» [Les Numériques] Présidentielle : le programme numérique de Yannick Jadot (EELV) → https://lesnumeriques.com/forfait-mobile/-a178911.html
+» [Les Numériques] Présidentielle : le programme numérique de Marine Le Pen (Rassemblement national) → https://lesnumeriques.com/vie-du-net/-a179507.html
+» [Les Numériques] Présidentielle : le programme numérique de Jean-Luc Mélenchon (La France insoumise) → https://lesnumeriques.com/vie-du-net/-a179107.html
+» [Les Numériques] Présidentielle : le programme numérique d'Emmanuel Macron (La République en marche) → https://lesnumeriques.com/vie-du-net/-a179985.html
+» [Les Numériques] Présidentielle : le programme numérique d'Anne Hidalgo (Parti socialiste) → https://lesnumeriques.com/vie-du-net/-a180127.html
+
+
+--------------------------------------
+2022-04-08
+
+» [The Verge] Hacking group posted fake Ukrainian surrender messages, says Meta in new report. The Adversarial Threat Report also notes an uptick in domestic influence campaigns mounted by repressive regimes → https://www.theverge.com/2022/4/7/23013983/
+» [Les Numériques] Twitter veut faire taire les comptes gouvernementaux russes → https://lesnumeriques.com/vie-du-net/-n180115.html
+» [Washington Post] Apple restores opposition app to its App Store in Russia. The company had made it inaccessible in Russia last year after threats from the Russian government → https://www.washingtonpost.com/technology/2022/04/06/navalny-apple-app-russia/
+
+» [Les Numériques] LCD, Oled, QD-Oled... toujours plus de luminosité sur les TV → https://lesnumeriques.com/tv-televiseur/-a178697.html
+» [The Verge] Alienware’s QD-OLED monitor sets a new standard for gaming displays → https://www.theverge.com/23011794/alienware-aw3423dw
+» [Wall Street Journal] Are AirPods out? Why cool kids are wearing wired headphones. Humble ‘retro’ corded headphones are making an unexpected return, for both aesthetic and practical reasons → https://www.wsj.com/articles/are-airpods-out-why-cool-kids-are-wearing-wired-headphones-11636753407
+
+» [Mara Paris] Le pod cuff → https://mara.paris/fr/product/pod-cuff-earcuff-silver
+» [Focal] Focal NAIM 10th anniversary edition → https://www.focal.com/france/partenaires/10-ans-focal-naim-edition-speciale-anniversaire
+
+» [Les Numériques] La production d'ordinateurs portables affectée par le confinement à Shanghai → https://lesnumeriques.com/ordinateur-portable/-n180147.html
+» [Les Numériques] Samsung entend développer des processeurs entièrement dédiés à ses Galaxy → https://lesnumeriques.com/telephone-portable/-n180113.html
+
+» [CNET France] Elon Musk inaugure une Gigafactory au Texas et annonce plusieurs nouveautés. D’une surface de 930 000 m², la nouvelle usine Tesla située dans la ville d’Austin au Texas regroupe la production des batteries et l’assemblage des voitures électriques du constructeur → https://www.cnetfrance.fr/news/gigafactory-39940265.htm
+» [Les Numériques] Mercedes AMG SL 43 : moins puissant, mais plus fun ? → https://lesnumeriques.com/voiture/-n180153.html
+» [CNET France] Force-X : Yamaha dévoile un scooter hybride. Un lancement pour l’Asie, mais qui pourrait trouver, un jour, son chemin jusqu’en Europe → https://www.cnetfrance.fr/news/force-x-39940253.htm
+
+» [Les Numériques] Samsung optimiste pour ses résultats du premier trimestre → https://lesnumeriques.com/pro/-n180181.html
+» [Les Numériques] Warren Buffett devient le premier actionnaire d’HP → https://lesnumeriques.com/pro/-n180179.html
+» [Twitter] How do you say “Don’t @ me,” without saying “Don’t @ me”? → https://twitter.com/TwitterSafety/status/1512137703067996166
+» [Numérama] « On est nos propres bourreaux » : les streameurs en burn-out prennent la parole. « C’est quand même l’utopie capitaliste parfaite » → https://www.numerama.com/politique/894333-on-est-nos-propres-bourreaux-les-streameurs-en-burn-out-prennent-la-parole.html
+» [Les Numériques] Prouesse : une IA française bat des champions du monde de bridge → https://lesnumeriques.com/vie-du-net/-n179651.html
+
+» Sky Mavis Raises $150M Led By Binance, Funds to be Restored on the Ronin Bridge → https://axie.substack.com/p/funding?s=r
+» [Les Numériques] Meta planche à nouveau sur les monnaies virtuelles → https://lesnumeriques.com/pro/-n180169.html
+» 🇫🇷 [Gamekult] Ron Gilbert et Devolver Digital annoncent Return to Monkey Island, qui sortira en 2022 → https://cutt.ly/uD61AWL
+» Welcome to Q2! We've just sent out the first set of order emails to Q2 reservers (in order of reservation time). Starting today we're ramping up Steam Deck shipments, and will be sending more order availability emails every week → https://twitter.com/OnDeck/status/1511019543803543556
+» [Les Numériques] Epic Games et Lego : construire un métavers pour les enfants et la famille → https://lesnumeriques.com/jeux-video/-n180195.html
+
+» [CNET France] SpaceX : les astronautes de la mission Axiom-1 seront munis de casques pour étudier le cerveau. A l’occasion de la mission touristique Axiom-1 à bord de la Station Spatiale Internationale, une start-up spécialisée dans les neurosciences a développé un casque qui va permettre d’étudier les effets de la microgravité sur le cerveau des astronautes et de retranscrire ces données sous forme open source facilement exploitable par la communauté scientifique → https://www.cnetfrance.fr/news/spacex-39939649.htm
+» Amazon makes historic launch investment to advance Project Kuiper → https://www.aboutamazon.com/news/innovation-at-amazon/amazon-makes-historic-launch-investment-to-advance-project-kuiper
+
+raids : lesnumeriques => marmiton_officiel => LeTroubadourDesInternets => DirtyBarbouZ => MissDadou => LemedTV (terminé à 02:02)
+
+résumé de la quotidienne des Numériques : le point guerre en Ukraine avec la bataille de la désinformation
+dossier sur les écrans LCD, OLED, QD-OLED
+le retour des écouteurs filaires chez les djeunz cools 😎
+la production d'ordinateurs portables affectée par le confinement à Shanghai
+inauguration de la Gigafactory Tesla au Texas
+la Mercedes AMG SL 43, le scooter hybride Yamaha Force-X
+Samsung, la moula est là, et ils comptent développer leur propres processeurs
+le dossier de Numérama sur le burn-out des streamers
+un IA française bat des champions du monde de bridge
+Ron Gilbert annonce Monkey Island 3, et ce n'est pas une blague !
+Epic Games et Lego veulent faire un multivers pour les enfants (quel enfer !)
+les infos spatiales : les prochains astronautes de SpaceX seront équipés pour les effets de la microgravité sur le cerveau ; Amazon investit sur le projet Kuiper
+
 
 
 » [Les Numériques] 
@@ -4559,4 +4771,7 @@ clips :
 🎥 même averti et avec une sécurité, Lâm renverse quand même son café… → https://clips.twitch.tv/ColdbloodedEnthusiasticPorpoiseEagleEye-BbSq8g8HFQrsLYcw
 🎥 le café est vide… presque ! → https://clips.twitch.tv/JollySquareCaribouDoggo-Dmhep3euJdEQ7vj3
 🎥 Lâm clashe Gautoz sur Tunic 🦊 → https://clips.twitch.tv/PiercingYummyHorseradishResidentSleeper-bbSk6XsMt3UdYee-
+🎥 Lâm renverse, encore une fois, sa tasse à café → https://clips.twitch.tv/ArbitraryTrappedPastaDxCat-yZHTMgvSFk-rCg78
+🎥 Lâm sur un vélo, sans les petites roulettes → https://clips.twitch.tv/SpicyGlamorousShallotTinyFace-kVIPcgpdY1kewYAf
+🎥 Après le Vé'lib, voici le Vé'Lâm → https://clips.twitch.tv/SucculentInspiringMushroomCorgiDerp-RFW9F6ENO5cMd7H3
 
