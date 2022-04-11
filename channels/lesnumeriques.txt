@@ -4719,6 +4719,51 @@ Epic Games et Lego veulent faire un multivers pour les enfants (quel enfer !)
 les infos spatiales : les prochains astronautes de SpaceX seront équipés pour les effets de la microgravité sur le cerveau ; Amazon investit sur le projet Kuiper
 
 
+--------------------------------------
+2022-04-11
+
+» [Les Numériques] La Cnil enquête sur un ciblage SMS de la campagne Zemmour visant la communauté juive → https://lesnumeriques.com/vie-du-net/-n180397.html
+« [BFM TV] La Cnil ouvre une instruction après des SMS de la campagne Zemmour aux Français de confession juive → https://www.bfmtv.com/tech/presidentielle_AN-202204100235.html
+» [Le Monde] L’antenne de France Inter temporairement piratée à Paris pendant la soirée électorale → https://www.lemonde.fr/election-presidentielle-2022/article/2022/04/10/france-inter_6121552_6059010.html
+
+» [Les Numériques] Test Xiaomi TV P1E 55 : que vaut le téléviseur Ultra HD le plus abordable de Xiaomi ? → https://www.lesnumeriques.com/tv-televiseur/xiaomi-tv-p1e-55-p67929/test.html
+» [Les Numériques] Test Realme Buds Air 2 : une paire d'écouteurs true wireless honnête pour les smartphones Android → https://www.lesnumeriques.com/intra-ecouteur-true-wireless/realme-buds-air-2-p67005/test.html
+» [Les Numériques] Test Cafetière avec broyeur Delonghi Dinamica Plus : l'excellent milieu de gamme avec un truc en plus → https://www.lesnumeriques.com/cafetiere-automatique/delonghi-dinamica-plus-feb3795-s-p49311/test.html
+» [Les Numériques] Les Numériques se presse le citron pour lancer son comparatif d'extracteurs de jus → https://lesnumeriques.com/extracteur-de-jus/-n180123.html
+» [Les Numériques] Test Tesla Model 3 Performance : une appellation bien méritée → https://www.lesnumeriques.com/voiture/tesla-model-3-performance-p51691/test.html
+» [Les Numériques] Tout savoir sur le Superéthanol-E85 : avantages, inconvénients, prix, danger, pollution... → https://lesnumeriques.com/voiture/-a179991.html
+» [Les Numériques] Comment bien choisir son van aménagé ? → https://lesnumeriques.com/voiture/-a178223.html
+
+» [Les Numériques] Optimus, le robot humanoïde de Tesla, pourrait être produit dès l'année prochaine → https://lesnumeriques.com/vie-du-net/-n180279.html
+» [Les Numériques] Apple dévoile son premier chargeur 35W double USB-C → https://lesnumeriques.com/accessoire-pour-smartphone/-n180307.html
+» [Les Numériques] TCL en passe de devenir le deuxième fabricant de téléviseurs au monde → https://lesnumeriques.com/tv-televiseur/-n180285.html
+» [Les Numériques] Le processeur de demain pourrait être fait à partir de... miel → https://lesnumeriques.com/pro/-n180303.html
+» [Les Numériques] Elon Musk ne rejoindra pas le conseil d’administration de Twitter → https://lesnumeriques.com/pro/-n180379.html
+» [Reuters] Musk proposes Twitter Blue subscription shake-up days after disclosing 9.2% Twitter stake → https://www.reuters.com/technology/musk-proposes-twitter-blue-subscription-shake-up-days-after-disclosing-92-2022-04-10/
+» [Reuters] Amazon calls for election re-run after workers voted for first U.S. union → https://www.reuters.com/legal/government/amazon-calls-election-re-run-after-workers-voted-first-us-union-2022-04-08/
+» [Bloomberg] Amazon’s Drone Delivery Program Is Hit by Crashes and Safety Concerns. Billions of dollars and a decade later, and Amazon’s delivery by drone program still isn’t off the ground → https://www.bloomberg.com/news/features/2022-04-10/amazon-drone-crashes-delays-put-bezos-s-delivery-dream-at-risk
+» [Business Insider] Meta will stop users from sharing private residential information on its platform → https://www.businessinsider.in/tech/enterprise/news/meta/articleshow/90773143.cms
+» [CNET] Meta reportedly working on virtual currency 'Zuck Bucks'. The currency is likely not crypto → https://www.cnet.com/news/social-media/meta-reportedly-working-on-virtual-currency-zuck-bucks/
+» [Les Numériques] Après Samsung, Google rejoint iFixit pour vous aider à réparer vous-même votre Pixel → https://lesnumeriques.com/telephone-portable/-n180301.html
+» [Les Numériques] Volkswagen France lance Shargy, le Airbnb de la recharge communautaire → https://lesnumeriques.com/voiture/-n180237.html
+» [Les Numériques] Wattpark : un réseau de bornes de recharge collaboratif qui rapporte → https://lesnumeriques.com/voiture/-a178461.html
+
+» [Les Echos] Marseille, Lille, Strasbourg… Ces villes qui sont moins bien couvertes en fibre que les campagnes → https://www.lesechos.fr/tech-medias/hightech/fibre-1399595
+» [Les Echos] Les abonnements à la fibre dépassent ceux de l'ADSL pour la première fois en France. Avec 14,5 millions d'accès au dernier trimestre 2021, le nombre d'abonnements à la fibre dépasse pour la première fois ceux de l'ADSL (14,4 millions). Une bonne nouvelle pour les opérateurs télécoms qui ont investi des milliards dans ces nouveaux réseaux. → https://www.lesechos.fr/tech-medias/hightech/fibre-1399554
+» [Les Echos] 5G : 3 millions d'utilisateurs en France, un an après le lancement. En un trimestre, le nombre d'utilisateurs de la 5G dans l'Hexagone a « pratiquement doublé », selon un rapport du régulateur des télécoms. Une progression soutenue, qui est encore loin de détrôner la 4G, qui compte près de 66 millions d'usagers → https://www.lesechos.fr/tech-medias/hightech/5g-1399465
+
+» [Mashable] NASA spots dry ice and gullies in a Martian crater → https://mashable.com/article/mars-nasa-crater-dry-ice-gullies
+» [The Verge] WarnerMedia and Discovery have completed their mega-streaming merger → https://www.theverge.com/2022/4/8/22972247/
+» [BFM TV] RMC Sport débarque sur Twitch avec une quotidienne et des matchs en direct → https://rmcsport.bfmtv.com/football/rmc-sport-debarque-sur-twitch-avec-une-quotidienne-et-des-matchs-en-direct_AV-202204070305.html
+» [The Verge] Digital PS3 and PS Vita games rendered unplayable after ‘expiring’. Players are unable to play Chrono Cross, Chrono Trigger, Final Fantasy VI, and more → https://www.theverge.com/2022/4/10/23019235/
+» 🇺🇸 [Kotaku] Chrono Cross and other classics suddenly ‘expiring’ on PS3, Vita. As if it wasn’t already hard enough to play old PlayStation games like Final Fantasy VI → https://cutt.ly/QFveRjP
+» [Les Numériques] Dogami, un chiot virtuel à adopter dans le "petavers" façon tamagotchi → https://lesnumeriques.com/jeux-video/-n180265.html
+» [The Verge] Here’s what happens when cops pull over a driverless Cruise vehicle → https://www.theverge.com/2022/4/10/23019303/
+
+raids : lesnumeriques => Buchx
+
+
+
 
 » [Les Numériques] 
 » [ZDNet France] 
