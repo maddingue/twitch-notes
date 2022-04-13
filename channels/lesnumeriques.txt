@@ -4763,6 +4763,54 @@ les infos spatiales : les prochains astronautes de SpaceX seront équipés pour 
 raids : lesnumeriques => Buchx
 
 
+--------------------------------------
+2022-04-13
+
+» [Wired] The race to archive social posts that may prove Russian war crimes. Painstaking new techniques for archiving social media posts could provide crucial evidence in future prosecutions → https://www.wired.com/story/open-source-russia-war-crimes-ukraine/
+
+» [Reuters] Elon Musk is sued by shareholders over delay in disclosing Twitter stake → https://www.reuters.com/technology/elon-musk-is-sued-by-shareholders-over-delay-disclosing-twitter-stake-2022-04-12/
+» [The Verge] How Elon Musk got everything he wanted out of Twitter → https://www.theverge.com/2022/4/12/23021248/
+» [Les Numériques] TikTok nouveau roi de la monétisation → https://lesnumeriques.com/vie-du-net/-n180383.html
+» [Les Numériques] TikTok ouvre son service Effect House à tous les créateurs de contenu → https://lesnumeriques.com/vie-du-net/-n180565.html
+» [MacRumors] DuckDuckGo browser for Mac launches in beta with emphasis on privacy and speed → https://www.macrumors.com/2022/04/12/duckduckgo-browser-for-macos-in-beta/
+
+» [Les Numériques] Au Texas, une ferme de bitcoins qui tourne à l'énergie solaire → https://lesnumeriques.com/vie-du-net/-n180445.html
+» [Les Numériques] Fortnite lève encore 2 milliards pour bâtir son métavers → https://lesnumeriques.com/vie-du-net/-n180495.html
+» 🇫🇷 [Gamekult] Sony investit un milliard de dollars de plus dans Epic Games, et la famille LEGO fait de même → https://cutt.ly/LFRFEsV
+» [Les Numériques] Meta teste la vente d'objets virtuels dans le métavers → https://lesnumeriques.com/vie-du-net/-n180483.html
+» [Wired] The Metaverse could radically reshape fashion. Garments that dissolve in water, change color, or sprout wings could thrive in Web3—and inspire a new era of design IRL → https://www.wired.com/story/extreme-fashion-metaverse/
+» [The Verge] Explaining crypto’s billion-dollar bridge problem. What are blockchain bridges, why do they keep getting hacked, and can we ever stop it from happening? → https://www.theverge.com/23017107/crypto
+
+» [Les Numériques] Deezer se met à la traduction des paroles → https://lesnumeriques.com/tv-video/-n180435.html
+» [Les Numériques] Sonos rachète une technologie pour miniaturiser ses enceintes Bluetooth → https://lesnumeriques.com/enceintes-portables/-n180467.html
+» [Les Numériques] James Webb a Jupiter dans le collimateur, pourquoi ? → https://lesnumeriques.com/spatial/-n180463.html
+» [SciTechDaily] 3D bioprinting artificial bone for emergency medicine in space → https://scitechdaily.com/3d-bioprinting-artificial-bone-for-emergency-medicine-in-space/
+» [Business Insider] Meta spent a record $27 million on Mark Zuckerberg's security and private jet travel in 2021 → https://www.businessinsider.com/mark-zuckerberg-meta-security-record-27-million-2021-2022-4
+» [Wired] Tech bans hurt Russian dissidents more than they help Ukraine. To win PR points, Western tech companies are indiscriminately endangering people's health and livelihoods → https://www.wired.com/story/tech-bans-hurt-russian-dissidents-more-than-they-help-ukraine/
+» [VICE Motherboard] Police records show women are being stalked with Apple AirTags across the country. Motherboard obtained reports of stalking, harassment, and abuse using AirTags, targeting victims of intimate partner violence → https://www.vice.com/en/article/y3vj3y/airtags
+» [The Verge] Google sues scammer for ‘puppy fraud’. The scam targeted lonely elderly people → https://www.theverge.com/2022/4/11/23019726/
+» [The Verge] Stripe, Alphabet, Meta, Shopify, and McKinsey launch new carbon removal initiative. They want to get more companies on board → https://www.theverge.com/2022/4/12/23022343/
+» [Chicago SunTimes] Teenage gorilla is getting too much screen time, Lincoln Park Zoo officials say. Zoo officials hope a buffer zone will cut down on Amare watching videos and looking at photos on visitors’ cellphones → https://chicago.suntimes.com/2022/4/5/23012010/lincoln-park-zoo-teenage-gorilla-screen-time-smartphones-videos-photos-visitors
+» [The Verge] The $750 self-transforming Optimus Prime just got a $750 transforming trailer too → https://www.theverge.com/23022777/optimus-prime
+
+» [Les Numériques] Qu'on se le dise, Prime Video va mettre le paquet sur les productions françaises → https://lesnumeriques.com/vie-du-net/-n180541.html
+» [Les Numériques] Salto bientôt distribué parmi les chaînes Prime Video → https://lesnumeriques.com/vie-du-net/-n180543.html
+
+raids : lesnumeriques => marmiton_officiel => Chocolatier_PaulGarderes => RedAliceCreations => DirtyBarbouZ => WaterPatate => Terada
+
+résumé de la quotidienne des Numériques, présentée par Diana
+point Ukraine : la course pour archiver les réseaux sociaux afin de prouver les crimes de guerre russes ; les blocages tech de la Russie sont plus un problème pour les dissidents russes que pour le gouvernement
+les relations compliquées entre Elon Musk et Twitter : il obtient ce qu'il veut, mais se fait poursuivre par les autre actionnaires
+TikTok roi de la monétisation ; DuckDuckGo prépare son navigateur sur Mac avec emphase sur la vie privée
+Sony et Lego investissent 1 milliards de dollars chacun dans Epic Games
+article de The Verge sur les ponts de chaînes de blocs (blockchain bridges), maillons faibles du système
+les infos sur le téléscope James Webb ; l'impression bio 3D d'os artificiels pour les urgences dans l'espace
+l'espionnage des femmes par les AirTags (et équivalents) ; Google poursuit un escroc à la vente de chiots
+plusieurs companies créent une initiative pour réduire leur empreinte carbone
+le point films, séries et SVOD du mercredi avec Bastien
+
+
+
 
 
 » [Les Numériques] 
