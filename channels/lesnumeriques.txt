@@ -4796,7 +4796,7 @@ raids : lesnumeriques => Buchx
 » [Les Numériques] Qu'on se le dise, Prime Video va mettre le paquet sur les productions françaises → https://lesnumeriques.com/vie-du-net/-n180541.html
 » [Les Numériques] Salto bientôt distribué parmi les chaînes Prime Video → https://lesnumeriques.com/vie-du-net/-n180543.html
 
-raids : lesnumeriques => marmiton_officiel => Chocolatier_PaulGarderes => RedAliceCreations => DirtyBarbouZ => WaterPatate => Terada
+raids : lesnumeriques => marmiton_officiel => Chocolatier_PaulGarderes => RedAliceCreations => DirtyBarbouZ => WaterPatate => Terada => Lyr_Cor (terminé à 03:25)
 
 résumé de la quotidienne des Numériques, présentée par Diana
 point Ukraine : la course pour archiver les réseaux sociaux afin de prouver les crimes de guerre russes ; les blocages tech de la Russie sont plus un problème pour les dissidents russes que pour le gouvernement
