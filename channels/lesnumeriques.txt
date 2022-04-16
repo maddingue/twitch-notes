@@ -4719,6 +4719,99 @@ Epic Games et Lego veulent faire un multivers pour les enfants (quel enfer !)
 les infos spatiales : les prochains astronautes de SpaceX seront équipés pour les effets de la microgravité sur le cerveau ; Amazon investit sur le projet Kuiper
 
 
+--------------------------------------
+2022-04-11
+
+» [Les Numériques] La Cnil enquête sur un ciblage SMS de la campagne Zemmour visant la communauté juive → https://lesnumeriques.com/vie-du-net/-n180397.html
+« [BFM TV] La Cnil ouvre une instruction après des SMS de la campagne Zemmour aux Français de confession juive → https://www.bfmtv.com/tech/presidentielle_AN-202204100235.html
+» [Le Monde] L’antenne de France Inter temporairement piratée à Paris pendant la soirée électorale → https://www.lemonde.fr/election-presidentielle-2022/article/2022/04/10/france-inter_6121552_6059010.html
+
+» [Les Numériques] Test Xiaomi TV P1E 55 : que vaut le téléviseur Ultra HD le plus abordable de Xiaomi ? → https://www.lesnumeriques.com/tv-televiseur/xiaomi-tv-p1e-55-p67929/test.html
+» [Les Numériques] Test Realme Buds Air 2 : une paire d'écouteurs true wireless honnête pour les smartphones Android → https://www.lesnumeriques.com/intra-ecouteur-true-wireless/realme-buds-air-2-p67005/test.html
+» [Les Numériques] Test Cafetière avec broyeur Delonghi Dinamica Plus : l'excellent milieu de gamme avec un truc en plus → https://www.lesnumeriques.com/cafetiere-automatique/delonghi-dinamica-plus-feb3795-s-p49311/test.html
+» [Les Numériques] Les Numériques se presse le citron pour lancer son comparatif d'extracteurs de jus → https://lesnumeriques.com/extracteur-de-jus/-n180123.html
+» [Les Numériques] Test Tesla Model 3 Performance : une appellation bien méritée → https://www.lesnumeriques.com/voiture/tesla-model-3-performance-p51691/test.html
+» [Les Numériques] Tout savoir sur le Superéthanol-E85 : avantages, inconvénients, prix, danger, pollution... → https://lesnumeriques.com/voiture/-a179991.html
+» [Les Numériques] Comment bien choisir son van aménagé ? → https://lesnumeriques.com/voiture/-a178223.html
+
+» [Les Numériques] Optimus, le robot humanoïde de Tesla, pourrait être produit dès l'année prochaine → https://lesnumeriques.com/vie-du-net/-n180279.html
+» [Les Numériques] Apple dévoile son premier chargeur 35W double USB-C → https://lesnumeriques.com/accessoire-pour-smartphone/-n180307.html
+» [Les Numériques] TCL en passe de devenir le deuxième fabricant de téléviseurs au monde → https://lesnumeriques.com/tv-televiseur/-n180285.html
+» [Les Numériques] Le processeur de demain pourrait être fait à partir de... miel → https://lesnumeriques.com/pro/-n180303.html
+» [Les Numériques] Elon Musk ne rejoindra pas le conseil d’administration de Twitter → https://lesnumeriques.com/pro/-n180379.html
+» [Reuters] Musk proposes Twitter Blue subscription shake-up days after disclosing 9.2% Twitter stake → https://www.reuters.com/technology/musk-proposes-twitter-blue-subscription-shake-up-days-after-disclosing-92-2022-04-10/
+» [Reuters] Amazon calls for election re-run after workers voted for first U.S. union → https://www.reuters.com/legal/government/amazon-calls-election-re-run-after-workers-voted-first-us-union-2022-04-08/
+» [Bloomberg] Amazon’s Drone Delivery Program Is Hit by Crashes and Safety Concerns. Billions of dollars and a decade later, and Amazon’s delivery by drone program still isn’t off the ground → https://www.bloomberg.com/news/features/2022-04-10/amazon-drone-crashes-delays-put-bezos-s-delivery-dream-at-risk
+» [Business Insider] Meta will stop users from sharing private residential information on its platform → https://www.businessinsider.in/tech/enterprise/news/meta/articleshow/90773143.cms
+» [CNET] Meta reportedly working on virtual currency 'Zuck Bucks'. The currency is likely not crypto → https://www.cnet.com/news/social-media/meta-reportedly-working-on-virtual-currency-zuck-bucks/
+» [Les Numériques] Après Samsung, Google rejoint iFixit pour vous aider à réparer vous-même votre Pixel → https://lesnumeriques.com/telephone-portable/-n180301.html
+» [Les Numériques] Volkswagen France lance Shargy, le Airbnb de la recharge communautaire → https://lesnumeriques.com/voiture/-n180237.html
+» [Les Numériques] Wattpark : un réseau de bornes de recharge collaboratif qui rapporte → https://lesnumeriques.com/voiture/-a178461.html
+
+» [Les Echos] Marseille, Lille, Strasbourg… Ces villes qui sont moins bien couvertes en fibre que les campagnes → https://www.lesechos.fr/tech-medias/hightech/fibre-1399595
+» [Les Echos] Les abonnements à la fibre dépassent ceux de l'ADSL pour la première fois en France. Avec 14,5 millions d'accès au dernier trimestre 2021, le nombre d'abonnements à la fibre dépasse pour la première fois ceux de l'ADSL (14,4 millions). Une bonne nouvelle pour les opérateurs télécoms qui ont investi des milliards dans ces nouveaux réseaux. → https://www.lesechos.fr/tech-medias/hightech/fibre-1399554
+» [Les Echos] 5G : 3 millions d'utilisateurs en France, un an après le lancement. En un trimestre, le nombre d'utilisateurs de la 5G dans l'Hexagone a « pratiquement doublé », selon un rapport du régulateur des télécoms. Une progression soutenue, qui est encore loin de détrôner la 4G, qui compte près de 66 millions d'usagers → https://www.lesechos.fr/tech-medias/hightech/5g-1399465
+
+» [Mashable] NASA spots dry ice and gullies in a Martian crater → https://mashable.com/article/mars-nasa-crater-dry-ice-gullies
+» [The Verge] WarnerMedia and Discovery have completed their mega-streaming merger → https://www.theverge.com/2022/4/8/22972247/
+» [BFM TV] RMC Sport débarque sur Twitch avec une quotidienne et des matchs en direct → https://rmcsport.bfmtv.com/football/rmc-sport-debarque-sur-twitch-avec-une-quotidienne-et-des-matchs-en-direct_AV-202204070305.html
+» [The Verge] Digital PS3 and PS Vita games rendered unplayable after ‘expiring’. Players are unable to play Chrono Cross, Chrono Trigger, Final Fantasy VI, and more → https://www.theverge.com/2022/4/10/23019235/
+» 🇺🇸 [Kotaku] Chrono Cross and other classics suddenly ‘expiring’ on PS3, Vita. As if it wasn’t already hard enough to play old PlayStation games like Final Fantasy VI → https://cutt.ly/QFveRjP
+» [Les Numériques] Dogami, un chiot virtuel à adopter dans le "petavers" façon tamagotchi → https://lesnumeriques.com/jeux-video/-n180265.html
+» [The Verge] Here’s what happens when cops pull over a driverless Cruise vehicle → https://www.theverge.com/2022/4/10/23019303/
+
+raids : lesnumeriques => Buchx
+
+
+--------------------------------------
+2022-04-13
+
+» [Wired] The race to archive social posts that may prove Russian war crimes. Painstaking new techniques for archiving social media posts could provide crucial evidence in future prosecutions → https://www.wired.com/story/open-source-russia-war-crimes-ukraine/
+
+» [Reuters] Elon Musk is sued by shareholders over delay in disclosing Twitter stake → https://www.reuters.com/technology/elon-musk-is-sued-by-shareholders-over-delay-disclosing-twitter-stake-2022-04-12/
+» [The Verge] How Elon Musk got everything he wanted out of Twitter → https://www.theverge.com/2022/4/12/23021248/
+» [Les Numériques] TikTok nouveau roi de la monétisation → https://lesnumeriques.com/vie-du-net/-n180383.html
+» [Les Numériques] TikTok ouvre son service Effect House à tous les créateurs de contenu → https://lesnumeriques.com/vie-du-net/-n180565.html
+» [MacRumors] DuckDuckGo browser for Mac launches in beta with emphasis on privacy and speed → https://www.macrumors.com/2022/04/12/duckduckgo-browser-for-macos-in-beta/
+
+» [Les Numériques] Au Texas, une ferme de bitcoins qui tourne à l'énergie solaire → https://lesnumeriques.com/vie-du-net/-n180445.html
+» [Les Numériques] Fortnite lève encore 2 milliards pour bâtir son métavers → https://lesnumeriques.com/vie-du-net/-n180495.html
+» 🇫🇷 [Gamekult] Sony investit un milliard de dollars de plus dans Epic Games, et la famille LEGO fait de même → https://cutt.ly/LFRFEsV
+» [Les Numériques] Meta teste la vente d'objets virtuels dans le métavers → https://lesnumeriques.com/vie-du-net/-n180483.html
+» [Wired] The Metaverse could radically reshape fashion. Garments that dissolve in water, change color, or sprout wings could thrive in Web3—and inspire a new era of design IRL → https://www.wired.com/story/extreme-fashion-metaverse/
+» [The Verge] Explaining crypto’s billion-dollar bridge problem. What are blockchain bridges, why do they keep getting hacked, and can we ever stop it from happening? → https://www.theverge.com/23017107/crypto
+
+» [Les Numériques] Deezer se met à la traduction des paroles → https://lesnumeriques.com/tv-video/-n180435.html
+» [Les Numériques] Sonos rachète une technologie pour miniaturiser ses enceintes Bluetooth → https://lesnumeriques.com/enceintes-portables/-n180467.html
+» [Les Numériques] James Webb a Jupiter dans le collimateur, pourquoi ? → https://lesnumeriques.com/spatial/-n180463.html
+» [SciTechDaily] 3D bioprinting artificial bone for emergency medicine in space → https://scitechdaily.com/3d-bioprinting-artificial-bone-for-emergency-medicine-in-space/
+» [Business Insider] Meta spent a record $27 million on Mark Zuckerberg's security and private jet travel in 2021 → https://www.businessinsider.com/mark-zuckerberg-meta-security-record-27-million-2021-2022-4
+» [Wired] Tech bans hurt Russian dissidents more than they help Ukraine. To win PR points, Western tech companies are indiscriminately endangering people's health and livelihoods → https://www.wired.com/story/tech-bans-hurt-russian-dissidents-more-than-they-help-ukraine/
+» [VICE Motherboard] Police records show women are being stalked with Apple AirTags across the country. Motherboard obtained reports of stalking, harassment, and abuse using AirTags, targeting victims of intimate partner violence → https://www.vice.com/en/article/y3vj3y/airtags
+» [The Verge] Google sues scammer for ‘puppy fraud’. The scam targeted lonely elderly people → https://www.theverge.com/2022/4/11/23019726/
+» [The Verge] Stripe, Alphabet, Meta, Shopify, and McKinsey launch new carbon removal initiative. They want to get more companies on board → https://www.theverge.com/2022/4/12/23022343/
+» [Chicago SunTimes] Teenage gorilla is getting too much screen time, Lincoln Park Zoo officials say. Zoo officials hope a buffer zone will cut down on Amare watching videos and looking at photos on visitors’ cellphones → https://chicago.suntimes.com/2022/4/5/23012010/lincoln-park-zoo-teenage-gorilla-screen-time-smartphones-videos-photos-visitors
+» [The Verge] The $750 self-transforming Optimus Prime just got a $750 transforming trailer too → https://www.theverge.com/23022777/optimus-prime
+
+» [Les Numériques] Qu'on se le dise, Prime Video va mettre le paquet sur les productions françaises → https://lesnumeriques.com/vie-du-net/-n180541.html
+» [Les Numériques] Salto bientôt distribué parmi les chaînes Prime Video → https://lesnumeriques.com/vie-du-net/-n180543.html
+
+raids : lesnumeriques => marmiton_officiel => Chocolatier_PaulGarderes => RedAliceCreations => DirtyBarbouZ => WaterPatate => Terada => Lyr_Cor (terminé à 03:25)
+
+résumé de la quotidienne des Numériques, présentée par Diana
+point Ukraine : la course pour archiver les réseaux sociaux afin de prouver les crimes de guerre russes ; les blocages tech de la Russie sont plus un problème pour les dissidents russes que pour le gouvernement
+les relations compliquées entre Elon Musk et Twitter : il obtient ce qu'il veut, mais se fait poursuivre par les autre actionnaires
+TikTok roi de la monétisation ; DuckDuckGo prépare son navigateur sur Mac avec emphase sur la vie privée
+Sony et Lego investissent 1 milliards de dollars chacun dans Epic Games
+article de The Verge sur les ponts de chaînes de blocs (blockchain bridges), maillons faibles du système
+les infos sur le téléscope James Webb ; l'impression bio 3D d'os artificiels pour les urgences dans l'espace
+l'espionnage des femmes par les AirTags (et équivalents) ; Google poursuit un escroc à la vente de chiots
+plusieurs companies créent une initiative pour réduire leur empreinte carbone
+le point films, séries et SVOD du mercredi avec Bastien
+
+
+
+
 
 » [Les Numériques] 
 » [ZDNet France] 
