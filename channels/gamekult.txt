@@ -14731,12 +14731,9 @@ développé par SadSquare Studio, studio québecois 🇨🇦 de deux développeu
 📜 7/10 par Far Away → http://cpc.cx/tet
 
 rires nerveux : 3
-frayeurs diverses : 9
-cris d'épouvante : 9
+frayeurs diverses : 11
+cris d'épouvante : 10
 morts : 4
-
-nombre de cris : 10
-nombre de frayeurs diverses : 11
 
 excuses de sac :
 - on est assez peu aidé dans ce jeu (Virgile)
@@ -14874,9 +14871,10 @@ développé par SadSquare Studio, studio québecois 🇨🇦 de deux développeu
 ⌨️ 🖱️ 30 € sur Steam (https://cutt.ly/nOZogjG) et GOG (https://gog.com/game/visage)
 📜 test : Visage, le délicieux cauchemar dans une maison hantée, 7/10 par Far Away → https://cutt.ly/MOZo0gE
 
-frayeurs diverses : 12
-cris d'épouvante : 3
-morts : 2
+rires nerveux : 1
+frayeurs diverses : 13
+cris d'épouvante : 4
+morts : 0
 
 
 Sifu, le 8 février 2022 sur PlayStation et PC
@@ -15190,9 +15188,10 @@ vous êtes à combien sur l'échelle de Virgile ? https://twitter.com/Gamekult/s
 résumé de l'épisode précédent : 4 morts, 32 cris, 15 frayeurs diverses, 2 excuses de sac
 résumé de cet épisode : 2 morts, 20 cris, 11 frayeurs diverses et une excuse de sac
 
-nombre de morts : 2
-nombre de cris : 20
-nombre de frayeurs diverses : 11
+rires nerveux : 7
+frayeurs diverses : 20
+cris d'épouvante : 17
+morts : 2
 
 excuses de sac :
 - tu vois pas les interrupteurs ! (Virgile)
@@ -15469,15 +15468,17 @@ La scopophobie, ou scoptophobie (du grec σκοπέω - skopeō, « regarder que
 
 🔢 vous êtes à combien sur l'échelle de Virgile ? https://twitter.com/Gamekult/status/1501120569475059715
 résumé de l'épisode précédent : 2 morts, 20 cris, 11 frayeurs diverses et une excuse de sac
-résumé de cet épisode : 
 
-nombre de morts : 9
-nombre de cris : 0
-nombre de frayeurs diverses : 0
+rires nerveux : 11
+frayeurs diverses : 22
+cris d'épouvante : 20
+morts : 9
 
 excuses de sac :
 - j'ai tout bien chez moi, mais là je ne suis pas chez moi (Hubert)
 - je joue avec une manette 360 (Virgile)
+- le mec s'est matérialisé devant nos yeux (Hubert)
+- on a le droit d'arrêter un petit peu avant l'heure prévue (Hubert)
 
 
 --------------------------------------
@@ -15545,11 +15546,11 @@ développé par SadSquare Studio, studio québecois 🇨🇦 de deux développeu
 📜 test : Visage, le délicieux cauchemar dans une maison hantée, 7/10 par Far Away → https://cutt.ly/MOZo0gE
 
 🔢 vous êtes à combien sur l'échelle de Virgile ? https://twitter.com/Gamekult/status/1501120569475059715
-résumé de cet épisode : 
 
-nombre de morts : 6
-nombre de cris : 14
-nombre de frayeurs diverses : 11
+rires nerveux : 4
+frayeurs diverses : 11
+cris d'épouvante : 14
+morts : 6
 
 
 LEGO Star Wars : La Saga Skywalker, sorti aujourd'hui sur Switch, PlayStation, Xbox et PC
@@ -15639,11 +15640,15 @@ développé par SadSquare Studio, studio québecois 🇨🇦 de deux développeu
 📜 test : Visage, le délicieux cauchemar dans une maison hantée, 7/10 par Far Away → https://cutt.ly/MOZo0gE
 
 🔢 vous êtes à combien sur l'échelle de Virgile ? https://twitter.com/Gamekult/status/1501120569475059715
-résumé de cet épisode : 
 
-nombre de morts : 
-nombre de cris : 
-nombre de frayeurs diverses : 
+rires nerveux : 4
+frayeurs diverses : 14
+cris d'épouvante : 3
+morts : 1
+
+excuses de sac :
+- on n'a plus toutes nos facultés (Hubert)
+- quand j'ai peur, je ne réfléchis plus moi 😱 (Virgile)
 
 
 --------------------------------------
@@ -15688,20 +15693,38 @@ Metal Gear Solid 2: Substance, sorti sur PlayStation 2, Xbox et Windows en mars 
 📰 Metal Gear Solid 2 et 3 disparaissent temporairement des boutiques numériques → http://cpc.cx/wvz
 
 
-
-📅 le programme de la semaine → https://cutt.ly/DFbTdOV
-📅 mardi 12:00, 
-📅 mercredi 13:00, 
-📅 jeudi 17:30, 
-📅 vendredi 17:30, Metal Gear Solid 2 (Hubert & Florian)
-📺 samedi matin, Gamekult l'émission
-⛩️ Gaijin Dash à Polymanga → https://cutt.ly/dFTwm3v
+⛩️ Gaijin Dash → https://cutt.ly/dFTwm3v
 🎙️ Entretien avec Koichirô Sakamoto, producteur de Chrono Cross → https://cutt.ly/FFTOGxO
 ⌨️ Test de L'Amiga 500 Mini par Patrick Hellio → https://cutt.ly/aFADlUh
 🎶 Gammes Kultes, entretien avec Laurianne Espinadel (Sifu)
 🎥 Game & Watch sur Sonic 2
 🚗 La place de la voiture dans Grand Theft Auto
 
+
+--------------------------------------
+2022-04-19 - eFootball 2022 ⚽
+
+eFootball 2022 ⚽ sorti le 30 septembre 2021 sur PlayStation, Xbox, mobiles PC
+nouvelle sortie le 14 avril 2022 en version « finalisée »
+🎮 gratuit sur PSN (https://cutt.ly/HF9ZltV) et Xbox (https://cutt.ly/jF9Zcp6)
+⌨️ 🖱️ gratuit sur Steam (https://cutt.ly/8F9Zygr)
+
+excuses de sac :
+- on n'est pas en retard, on a juste une certaine forme d'inertie (Florian)
+- je ne peux pas quitter le match (Florian)
+- j'ai pas mon plan de jeu (Puyo)
+
+
+
+📅 le programme de la semaine → https://cutt.ly/lF9JGtC
+📅 mardi 17:30, 
+📅 mercredi 17:30, Ganryu 2 (Virgile)
+📅 jeudi 17:30, Pocky & Rocky Reshrined (Puyo)
+📅 vendredi 17:30, selon arrivages
+📺 samedi matin, Gamekult l'émission
+🔬 Test de la Playdate : aussi brillante que frustrante, et pourtant elle tourne. Un superbe gadget qui a du potentiel, par Luma → https://cutt.ly/GF9KFya
+🏴‍☠️ Butin de Nerd sur le jeu de plateau Stardew Valley
+📱 Juste un doigt
 
 
 ⚠️ Attention ⚠️ baissez le son de Twitch car Puyo va PARLER 🔊
