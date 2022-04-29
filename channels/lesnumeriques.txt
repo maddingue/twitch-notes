@@ -4933,6 +4933,38 @@ des infos sur les cartes Intel Arc, qui n'arriveront pas avant fin mai en Europe
 kink clavier de Lâm activé sur des marques qui valent trop cher
 
 
+--------------------------------------
+2022-04-28
+
+» [Microsoft] Special Report: Ukraine. An overview of Russia’s cyberattack activity in Ukraine → https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Vwwd
+» [Ars Technica] Russia wages “relentless and destructive” cyberattacks to bolster Ukraine invasion. Cyberattacks complement and are sometimes timed to military actions → https://arstechnica.com/information-technology/2022/04/russias-hybrid-war-on-ukraine-mixes-cyberattack-with-kinetic-ones/
+» [NBC News] U.S. intel helped Ukraine protect air defenses, shoot down Russian plane carrying hundreds of troops. Ukrainian forces have used specific coordinates shared by the U.S. to direct fire on Russian positions and aircraft, current and former officials tell NBC News → https://www.nbcnews.com/politics/national-security/us-intel-helped-ukraine-protect-air-defenses-shoot-russian-plane-carry-rcna26015
+» [Wired] Russia is being hacked at an unprecedented scale. From “IT Army” DDoS attacks to custom malware, the country has become a target like never before → https://www.wired.com/story/russia-hacked-attacks/
+
+» [Les Numériques] Pour ses PC portables pros, Dell adopte la CAMM, un nouveau type de RAM plus fine → https://lesnumeriques.com/ordinateur-portable/-n181515.html
+» [XDA Developers] Qualcomm’s custom Arm processors for Windows PCs are coming late next year → https://www.xda-developers.com/qualcomms-custom-arm-processors-for-windows-pcs-are-coming-late-next-year/
+» [The Verge] Here’s what the updated Apple Studio Display webcam looks like. It’s better but still not going to blow you away → https://www.theverge.com/23044788/apple-studio-display
+
+» [Les Numériques] À l'aube de la conférence I/O, Google assure que le Pixel 6 bat "des records de vente" → https://lesnumeriques.com/telephone-portable/-n181509.html
+» [Les Numériques] Motorola Edge 30 : un tarif agressif pour un smartphone de milieu de gamme soigné → https://lesnumeriques.com/telephone-portable/-n181423.html
+» [Les Numériques] ⚖️ Duel : Samsung Galaxy S22 Ultra vs Oppo Find X5 Pro → https://www.lesnumeriques.com/telephone-portable/face-a-face/66013-67171.html
+» [Les Numériques] Apple : le programme de réparation est lancé avec un gros point noir selon iFixit → https://lesnumeriques.com/telephone-portable/-n181553.html
+
+» [ZDNet France] Ecoflow Delta Max : le générateur à batterie ultime en cas d'imprévu. Avec son générateur alimenté par batterie Delta Max, la marque Ecoflow déploie une technologie alternative étonnamment fiable et pratique, pour pallier au bon vieux générateur à essence → https://www.zdnet.fr/guide-achat/ecoflow-39941093.htm
+» [TechCrunch] Wireless charging: Coming soon to a Belkin device near you → https://techcrunch.com/2022/04/27/wireless-charging-at-long-last-yay/
+
+» 📷 Instagram de Zulie Garnier → https://instagram.com/garnierzulie/
+» Thingiverse → https://www.thingiverse.com/
+» Tinkercad → https://www.tinkercad.com/
+» AnkerMake M5 3D printer, 5X faster, extra intelligent → https://www.ankermake.com/3dprinter-v8111
+» We Can Doo - ateliers d'artisanat à portée de main → https://wecandoo.fr/
+» Makery - carte des FabLab → https://www.makery.info/labs-map/
+» Repair Café → https://www.repaircafe.org/fr/
+» Toy Rescue → https://toy-rescue.fr/
+
+raids : lesnumeriques => 요룰레히 (yodel_ay) (terminé à 14:10)
+
+
 
 » [Les Numériques] 
 » [ZDNet France] 
