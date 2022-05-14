@@ -5345,7 +5345,7 @@ raids : lesnumeriques => Lynkus_ (terminé à 15:10)
 » [Les Numériques] Globe : la nouvelle marque de vélos électriques utilitaires par Specialized ¬ https://lesnumeriques.com/velo-electrique/-n182663.html
 » [Electrek] Harley-Davidson’s LiveWire unveils more affordable Del Mar electric motorcycle, teases 3rd model → https://electrek.co/2022/05/10/harley-davidsons-livewire-unveils-more-affordable-del-mar-electric-motorcycle-teases-3rd-model/
 
-raids : lesnumeriques => marmiton_officiel => Chocolatier_PaulGarderes => Emulemoi => nikoballz => Keeps_live => Yoshirukai => r_lux
+raids : lesnumeriques => marmiton_officiel => Chocolatier_PaulGarderes => Emulemoi => nikoballz => Keeps_live => Yoshirukai => r_lux => TacxTV => Yoshirukai => Shoochan => horeoreo => ninatoruz (terminé vendredi 03:20)
 
 résumé de la quotidienne des Numériques : une vidéo d'un saisissante réalisme d'une station de train japonaise, faite avec Unreal Engine 5
 Microsoft s'apprête à lancer une clé HDMI pour jouer à la Xbox dans le cloud depuis sa télé
