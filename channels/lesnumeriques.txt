@@ -5534,6 +5534,65 @@ raids : lesnumériques => marmiton_officiel => Toxidius78 => Guldruk (terminé �
 » explication par ZDNet de ce qu'est le RCS, le système de messagerie prôné par Google
 
 
+--------------------------------------
+2022-05-23
+
+» [Les Numériques] Hyundai et Kia poursuivent leurs investissements dans l'électrique → https://lesnumeriques.com/voiture/-n183475.html
+» [Ars Technica] Hyundai and Kia recall nearly 20,000 Ioniq 5s, EV6s. A voltage fluctuation could cause the cars to roll away when parked → https://arstechnica.com/cars/2022/05/hyundai-and-kia-recall-nearly-20000-ioniq-5s-ev6s/
+» [Les Numériques] Le concept Porsche Mission R essaime ses technologies sur circuit → https://lesnumeriques.com/voiture/-n183485.html
+» [Les Numériques] Cruiser : Angell revisite son vélo électrique dans une version plus détendue → https://lesnumeriques.com/velo-electrique/-n183229.html
+...
+» [Les Numériques] Avec son radar Varia RCT715, Garmin se met aux "dash cam" pour cyclistes → https://lesnumeriques.com/accessoire-velo/-n183367.html
+
+» [Les Numériques] Pourquoi 1,6 million d'Américains vont recevoir 400 dollars de la part de Facebook → https://lesnumeriques.com/vie-du-net/-n183407.html
+» [Les Numériques] Cloud : Amazon, Microsoft et Google ont capté 80 % de la croissance du marché en France en 2021 → https://lesnumeriques.com/pro/-n183463.html
+» [Les Numériques] Match.com attaque Google : un procès à la Fortnite/Apple → https://lesnumeriques.com/vie-du-net/-n182561.html
+» [Les Numériques] 10 ans après la métropole, Free débarque aux Antilles et en Guyane → https://lesnumeriques.com/pro/-n183403.html
+
+» [Les Numériques] Neutralité du Net : Bruxelles souhaite que les Gafam mettent la main au portefeuille → https://lesnumeriques.com/vie-du-net/-n182053.html
+» [Les Numériques] Avec Macron, cinq ans de plus pour la “Start-up Nation” → https://lesnumeriques.com/pro/-a181617.html
+» [ZDNet France] Bruno Lemaire oublie déjà qu'il est le nouveau ministre du Numérique. L'absence d'un secrétariat d'Etat dédié au Numérique dans le gouvernement Borne clôt une parenthèse de 16 années où le sujet aura été porté de manière spécifique. C'est désormais Bruno Lemaire qui est en charge de la question, entre autres choses → https://zdnet.fr/actualites/bruno-lemaire-39942411.htm
+» [Les Numériques] Pornhub, YouPorn… La cour d'appel confirme le rejet de la demande de blocage des sites pornographiques → https://lesnumeriques.com/vie-du-net/-n183529.html
+
+» [Les Numériques] Conflit en Ukraine : Vladimir Poutine promet de renforcer la sécurité informatique → https://lesnumeriques.com/vie-du-net/-n183565.html
+» [Les Numériques] Ses comptes en banque saisis, Google Russie est au bord du dépôt de bilan → https://lesnumeriques.com/vie-du-net/-n183397.html
+» [Korii] L'énorme gaffe d'un journaliste russe coûte un rare mortier géant 2S4 Tioulpan au Kremlin → https://korii.slate.fr/tech/ukraine-enorme-gaffe-journaliste-russe-coute-mortier-geant-2s4-tyulpan-kremlin-localisation-reportage
+
+» [Korii] Supercalculateurs: les États-Unis courent derrière une Chine triomphante. Géopolitique et concours de bits → https://korii.slate.fr/tech/science-informatique-supercalculateurs-exaflop-etats-unis-courent-derriere-chine-triomphante
+» [Les Numériques] Nvidia, AMD, Intel… Ce qu’il faut attendre du salon Computex 2022 → https://lesnumeriques.com/informatique/-n183567.html
+» [Les Numériques] Computex 2022 – Les processeurs AMD Ryzen 7000 se précisent, jusqu'à 33% plus rapides que les Intel Core 12e gen → https://lesnumeriques.com/cpu-processeur/-n183631.html
+» [Les Numériques] Triton 300 SE : on a pu voir le PC gaming sobre et léger d'Acer et son écran Oled → https://lesnumeriques.com/ordinateur-portable/-n183483.html
+» [Les Numériques] Computex 2022 – Corsair sort le Voyager a1600, son premier PC portable gaming dédié au streaming → https://lesnumeriques.com/ordinateur-portable/-n183639.html
+
+» [Les Numériques] Qualcomm annonce le Snapdragon 8+ Gen 1 pour des smartphones plus endurants → https://lesnumeriques.com/telephone-portable/-n183517.html
+» [Les Numériques] Qualcomm dévoile le Snapdragon 7 Gen 1, sa nouvelle puce mobile pour le milieu-haut de gamme → https://lesnumeriques.com/telephone-portable/-n183511.html
+» [Les Numériques] Test Poco F4 GT : un design pensé pour le gaming → https://www.lesnumeriques.com/telephone-portable/poco-f4-gt-p68643/test.html
+» [Les Numériques] La tablette Realme Pad X sera présentée le 26 mai → https://lesnumeriques.com/tablette-tactile/-n183487.html
+» I want an iPhone Mini-sized Android phone! → https://SmallAndroidPhone.com/
+
+» [Les Numériques] Panasonic : tous les nouveaux téléviseurs Oled équipés d'une dalle Oled EX → https://lesnumeriques.com/tv-televiseur/-n182979.html
+
+» [Les Numériques] ATH-M20xBT : le casque de monitoring à prix doux d’Audio Technica passe au sans-fil, avec 60h d’autonomie → https://lesnumeriques.com/casque-nomade/-n183459.html
+» [Les Numériques] Test Casque Bluetooth Sony WH-1000XM5 : toujours champion, mais il perd de sa superbe → https://www.lesnumeriques.com/casque-nomade/sony-wh-1000xm5-p68753/test.html
+
+raids : lesnumeriques => (13:36) Bestmarmotte (terminé à 17:00)
+
+» le résumé de la quotidienne des Numériques, retour en studio avec une vraie régie
+» voitures : Hyundai et Kia rappellent 20 000 Ioniq 5s et EV6s à cause d'un problème sur le frein à main ; concept Porsche Mission R en essai sur circuit
+» vélos  : nouvelle version sur Angell Cruiser ; Garmin propose une "dash cam" pour cyclistes
+» politique : avec Macron, cinq ans de plus pour la “Start-up Nation” ; Bruno Lemaire oublie déjà qu'il est le nouveau ministre du Numérique
+» Amazon, Microsoft et Google ont capté 80 % de la croissance du marché cloud en France en 2021
+» 10 ans après la métropole, Free débarque aux Antilles et en Guyane
+» Pornhub, YouPorn… La cour d'appel confirme le rejet de la demande de blocage des sites pornographiques
+» guerre en Ukraine : Google Russia au bord du dépôt de bilan ; l'énorme gaffe d'un journaliste russe coûte un rare mortier géant 2S4 Tioulpan au Kremlin
+» supercalculateurs, les États-Unis courent derrière une Chine triomphante
+» première annonces du salon Computex 2022, avec les processeurs AMD Ryzen 7000 et le Corsair Voyager a1600, portable gaming dédié au streaming
+» Qualcomm annonce de nouveaux SoC, le Snapdragon 8+ Gen 1 et le Snapdragon 7 Gen 1
+» le cri du cœur du créateur de Beeper qui veut un téléĥone Android de la taille d'un iPhone Mini
+» point casques audio avec Benoît Campion, du service son, abvec en particulier le test du Sony WH-1000XM5
+
+
+
 
 » [Les Numériques] 
 » [ZDNet France] 
