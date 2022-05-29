@@ -5592,6 +5592,140 @@ raids : lesnumeriques => (13:36) Bestmarmotte (terminé à 17:00)
 » point casques audio avec Benoît Campion, du service son, abvec en particulier le test du Sony WH-1000XM5
 
 
+--------------------------------------
+2022-05-25
+
+» [Les Numériques] Andreessen Horowitz lance un fonds de 600 millions de dollars pour faire émerger les futures pépites du jeu vidéo → https://lesnumeriques.com/pro/-n183541.html
+» [Les Numériques] TikTok sur le point de se mettre au jeu vidéo → https://lesnumeriques.com/vie-du-net/-n183519.html
+» [Gamekult] Le fonds souverain saoudien devient actionnaire de Nintendo à 5%, après avoir pris le contrôle de SNK → https://gamekult.com/actualite/-3050849293.html
+» [Gamekult] Electronic Arts aurait discuté d'une fusion avec NBCUniversal, mais fusionner n'est pas toujours gagner → https://gamekult.com/actualite/-3050849419.html
+» [Les Numériques] Electronic Arts cherche un repreneur : Apple, Disney et Amazon sur le coup ? → https://lesnumeriques.com/gaming/-n183753.html
+» [Les Numériques] Take-Two investit dans le jeu mobile avec le rachat de Zynga → https://lesnumeriques.com/jeux-video/-n183727.html
+» 🇺🇸 [Games Industry] Take-Two completes Zynga acquisition. Deal closed May 23, mobile firm officially a subsidiary of publishing giant → https://cutt.ly/HH0jTyC
+
+» [Les Numériques] Computex 2022 – AMD et Micron partenaires de Phison pour les SSD PCIe 5.0 → https://lesnumeriques.com/ssd/-n183665.html
+» [Les Numériques] Computex 2022 – AMD veut révolutionner les PC portables à bas prix avec sa nouvelle puce Mendocino → https://lesnumeriques.com/cpu-processeur/-n183667.html
+» [Les Numériques] Samsung investira massivement dans les semi-conducteurs et les produits biopharmaceutiques → https://lesnumeriques.com/pro/-n183767.html
+» [Nvidia] CPU NVIDIA Grace → https://www.nvidia.com/fr-fr/data-center/grace-cpu/
+» [AnandTech] NVIDIA To Release Liquid Cooled A100 and H100 PCIe Accelerators → https://www.anandtech.com/show/17405/
+» [Science Daily] New thermal management technology for electronic devices reduces bulk while improving cooling → https://www.sciencedaily.com/releases/2022/05/220519115320.htm
+
+» [Les Numériques] Avec le Dimensity 1050, MediaTek s'offre le support des ondes 5G millimétriques → https://lesnumeriques.com/telephone-portable/-n183669.html
+» [Les Numériques] Freiné par la stratégie “zéro Covid” de Pékin, Apple veut augmenter sa production en dehors de Chine → https://lesnumeriques.com/pro/-n183653.html
+» [Les Numériques] Comment bien choisir son ordinateur portable ? → https://lesnumeriques.com/ordinateur-portable/-a183275.html
+» [XDA Developers] Microsoft is finally taking Windows on Arm development seriously → https://www.xda-developers.com/microsoft-is-finally-taking-windows-on-arm-development-seriously/
+
+» [Les Numériques] Test Cherry MX 10.0N RGB : un clavier low profile mécanique pour la bureautique et le gaming → https://www.lesnumeriques.com/clavier/cherry-mx-10-0n-rgb-p65691/test.html
+» [Les Numériques] Logitech lance le clavier bureautique MX Mechanical et la souris MX Master 3S → https://lesnumeriques.com/clavier/-n183777.html
+» [Les Numériques] Test Logitech MX Master 3S : la reine des souris bureautiques revient en silence → https://www.lesnumeriques.com/souris/logitech-mx-master-3s-p69331/test.html
+
+» [Les Numériques] Xiaomi 11T Pro et 11T Pro+ : deux nouveaux smartphones vitaminés rejoignent la gamme → https://lesnumeriques.com/telephone-portable/-n183793.html
+» [Les Numériques] Xiaomi et Leica annoncent un partenariat, un premier smartphone attendu en juillet → https://lesnumeriques.com/telephone-portable/-n183641.html
+» [Les Numériques] Oppo officialise ses Reno 8, 8 Pro et 8 Pro+ → https://lesnumeriques.com/telephone-portable/-n183711.html
+» [Les Numériques] Le Motorola Razr 2022 presque entièrement dévoilé dans une courte vidéo → https://lesnumeriques.com/telephone-portable/-n183853.html
+» [Les Numériques] Oppo dévoile sa Pad Air, une seconde tablette encore plus entrée de gamme → https://lesnumeriques.com/tablette-tactile/-n183791.html
+» [Les Numériques] Test Realme Pad Mini : moins de 200 € pour une mini-tablette à écran un peu chiche → https://www.lesnumeriques.com/tablette-tactile/realme-pad-mini-p68281/test.html
+» [Les Numériques] Oppo ne traîne pas : les Find X5 Pro et Find N ont droit à Android 13 → https://lesnumeriques.com/telephone-portable/-n183681.html
+» [Les Numériques] WhatsApp ne fonctionnera plus sur certains iPhone dès octobre → https://lesnumeriques.com/vie-du-net/-n183693.html
+» [Les Numériques] Bien choisir son application pour la course à pied → https://lesnumeriques.com/sante-sport/-a183027.html
+» [Les Numériques] Samsung Galaxy Watch 4 : une mise à jour apporte le support Google Assistant → https://lesnumeriques.com/accessoire-pour-smartphone/-n183733.html
+» [The Verge] Google Assistant on the Galaxy Watch 4 is great except for one thing → https://www.theverge.com/23139420/galaxy-watch-4
+» [Les Numériques] Huawei Watch Fit 2 : bracelet cuir ou métal, appels Bluetooth, la montre connectée à écran Amoled monte en gamme → https://lesnumeriques.com/montre-sport/-n183423.html
+» [Les Numériques] Le Xiaomi Mi Band 7 a été officiellement présenté en Chine → https://lesnumeriques.com/sante-sport/-n183805.html
+
+» [Les Numériques] Qualcomm présente un nouveau concept de lunette à réalité augmentée → https://lesnumeriques.com/casque-realite-virtuelle/-n183569.html
+» [Niantic] Aujourd’hui au Lightship Summit : Présentation du système de positionnement visuel Lightship et de la carte en réalité augmentée de Niantic  → https://nianticlabs.com/blog/lightshipsummit/
+
+» [Twitter - Adian Zenz] BREAKING: huge trove of files obtained by hacking into Xinjiang police / re-education camp computers contain first-ever image material from inside camps, reveal Chen Quanguo issuing shoot-to-kill orders, Xi Jinping demanding new camps because existing ones are overcrowded → https://twitter.com/adrianzenz/status/1528989272031772672
+» Xinjiang Police Files → https://www.xinjiangpolicefiles.org/
+
+» [Bloomberg] Apple Executive Who Left Over Return-to-Office Policy Joins Google AI Unit. Ian Goodfellow, a former director of machine learning at Apple, is joining DeepMind → https://www.bloomberg.com/news/articles/2022-05-17/ian-goodfellow-former-apple-director-of-machine-learning-to-join-deepmind
+» [YouTube - Marques Brownlee] https://www.youtube.com/c/mkbhd
+» Imagen → https://imagen.research.google/
+» [The Verge] All these images were generated by Google’s latest text-to-image AI. Imagen what else this thing can do → https://www.theverge.com/2022/5/24/23139297/
+» [Wired] A Novelist and an AI Cowrote Your Next Cringe-Read. The new novel Amor Cringe bills itself as “deepfake autofiction.” WIRED talked to its coauthors, writer K. Allado-McDowell and the artificial intelligence known as GPT-3 → https://www.wired.com/story/k-allado-mcdowell-gpt-3-amor-cringe/
+» Flowcarbon - Carbon x Crypto - Flowcarbon operates at the intersection of the voluntary carbon market and Web3, bringing carbon offset credits on chain → https://www.flowcarbon.com/tokens
+
+» [Deadline] ‘Squid Game’ creator Hwang Dong-hyuk developing satire based on success of ‘Squid Game’ titled ‘The best show on the planet’ → https://deadline.com/2022/05/squid-game-1235027013/
+» [Les Numériques] Une série sur Jack Ma (Alibaba) en développement chez un producteur français → https://lesnumeriques.com/vie-du-net/-n183395.html
+» [Les Numériques] Après Netflix, Disney+ va relancer une série Daredevil → https://lesnumeriques.com/vie-du-net/-n183685.html
+» [NBCNews] Mindy Kaling reveals brown, adults-only Velma: ‘If people freak out ... I don’t care’. “Nobody ever complained about a talking dog solving mysteries,” Kaling said of her “Scooby-Doo” spinoff. “So I don’t think they’ll be upset over a brown Velma.” → https://www.nbcnews.com/news/asian-america/mindy-kaling-reveals-brown-adults-only-velma-people-freak-dont-care-rcna29824
+» [Protocol] Netflix surveys subscribers about console gaming, game streaming. The company is looking for input on bringing games to additional screens and devices → https://www.protocol.com/bulletins/netflix-console-gaming-cloud-streaming
+
+raids : lesnumeriques => marmiton_officiel => Domingo
+
+» le résumé de la quotidienne des Numériques trop longue
+» jeux vidéo : Andreessen Horowitz lance un fonds de 600 millions de dollars pour faire émerger les futures pépites du jeu vidéo ; TikTok sur le point de se mettre au jeu vidéo
+» jeux vidéo : Electronic Arts cherche un repreneur ; Take-Two termine son acquisition de Zynga
+» AMD veut révolutionner les PC portables à bas prix avec sa nouvelle puce Mendocino
+» Samsung investira massivement dans les semi-conducteurs et les produits biopharmaceutiques
+» le CPU Grace de Nvidia, sur base ARM, mais pour les serveurs
+» nouvelle technologie pour le refoidissement des équipements électroniques, qui devrait permettre de se passer des gros radiateurs
+» Apple va augmenter sa production en dehors de Chine, en particulier en Inde et au Viet-Nam
+» guide des Nums sur comment bien choisir son ordinateur portable
+» Microsoft reprend enfin sérieusement le développement sur processeurs ARM
+» Lâm a laissé parler son kink clavier souris
+» les téléphones Xiaomi et Oppo de la semaine ; le Motorola Razr 2022 dévoilé ; les tablettes Oppo Pad Air et Realme Pad Mini
+» montres connectées : mise à jour de la Samsung Galaxy Watch 4 ; Huawei Watch Fit 2 ; Xiaomi Mi Band 7
+» casque/lunette à réalité augmentée : Qualcomm présente son concept ; celui d'Apple se précise ; présentation du système de positionnement visuel Lightshipa de Niantic
+» les Xinjiang Police Files, les fichiers montrant comment la police chinoise maltraite les Ouighours
+» des images générées par IA impressionantes ; un roman cringe co-écrit par un humain et une IA
+» point séries et SVOD avec Bastien : nouvelle série par la créateur de Squid Game ; une série basé sur Jack Ma (Alibaba) ; Disney+ va relancer une série Daredevil ; nouvelle série Scooby-Doo plus adulte, avec une Velma de couleur ; la bande annonce du prochain Thor, Diana qui voulait voir le monsieur tout nu
+
+
+--------------------------------------
+2022-05-27
+
+» [Les Numériques] La robotique, nouveau violon d'Ingres de Dyson → https://lesnumeriques.com/divers-electromenager/-n183907.html
+» [TechRadar] Google Pixel Fold might not trouble the Samsung Galaxy Z Fold 4 after all. Google's first foldable might be delayed → https://www.techradar.com/news/google-pixel-fold-might-not-trouble-the-samsung-galaxy-z-fold-4-after-all
+» [Les Numériques] Avant son officialisation européenne, une édition Naruto du Realme GT Neo 3 → https://lesnumeriques.com/telephone-portable/-n183897.html
+» [Les Numériques] Nothing présente (presque) son premier smartphone, le Phone (1) → https://lesnumeriques.com/telephone-portable/-n179011.html
+» [WCCF Tech] Samsung reportedly setting up a ‘joint task force’ to develop an unnamed chipset that surpasses Apple’s A-series by 2025 → https://wccftech.com/samsung-making-team-to-develop-chipset-to-surpass-apple-by-2025/
+» [Android Authority] Samsung Galaxy S23, S24 to ditch Exynos chips, claims wild report. Samsung's semiconductor division says 'no specific decision' has been made → https://www.androidauthority.com/samsung-galaxy-s23-s24-exynos-2025-3168339/
+
+» [CNBC] Volkswagen chief says German car giant will overtake Tesla on electric vehicle sales by 2025 → https://www.cnbc.com/2022/05/24/volkswagen-ceo-says-carmaker-will-overtake-tesla-on-ev-sales-by-2025.html
+» [Les Numériques] RNC, SeatCentric, 3DX : de nouvelles technologies signées Bose pour enrichir l’expérience sonore en voiture → https://lesnumeriques.com/voiture/-n183523.html
+» [Engadget] Harley-Davidson made an electric mountain bike without front or rear suspension. It's basically a '90s mountain bike → https://www.engadget.com/harley-davidson-serial-1-mash-mtn-announced-222116816.html
+
+» [The Record] Pakistan shuts down internet ahead of protests over ousting of prime minister → https://therecord.media/pakistan-internet-shutdown-protests-imran-khan/
+» [The Next Web] DuckDuckGo faces widespread backlash over tracking deal with Microsoft → https://thenextweb.com/news/duckduckgo-microsoft-tracking-sparks-backlash
+» [FTC] Twitter to pay $150 million penalty for allegedly breaking its privacy promises – again → https://www.ftc.gov/business-guidance/blog/2022/05/twitter-pay-150-million-penalty-allegedly-breaking-its-privacy-promises-again
+» [TechCrunch] Jack Dorsey steps down from Twitter’s board → https://techcrunch.com/2022/05/25/jack-dorsey-leaves-twitter-board/
+» [Business Insider] A Microsoft exec allegedly watched 'VR porn' in the office and behaved inappropriately toward women employees, sources say → https://www.businessinsider.com/microsoft-executive-misconduct-allegations-nadella-culture-2022-5
+» [Bloomberg] Zuckerberg’s Metaverse to Lose ‘Significant’ Money in Near Term → https://www.bloomberg.com/news/articles/2022-05-25/zuckerberg-s-metaverse-to-lose-significant-money-in-near-term
+» [The Guardian] Amazon shareholders reject 15 motions on worker rights and environment. Meta shareholders also reject proposals seeking more oversight and less power for Zuckerberg → https://www.theguardian.com/technology/2022/may/25/amazon-shareholder-proposal-worker-health-safety
+» [The Verge] Apple VP discourages retail workers from joining a union in leaked video. ‘I worry about what it would mean to put another organization in the middle of our relationship’ → https://www.theverge.com/2022/5/25/23141427/
+» [Marijuana Moment] New York Marijuana Regulators Ask TikTok To Stop Banning Cannabis Education Advertising → https://www.marijuanamoment.net/new-york-marijuana-regulators-ask-tiktok-to-stop-banning-cannabis-education-advertising/
+
+» [Les Numériques] Test Tefal Plancha Booster : une option abordable pour les amateurs de viande grillée → https://www.lesnumeriques.com/barbecue-plancha/tefal-plancha-booster-p69263/test.html
+» [Les Numériques] Test Extracteur de jus KitchenAid 5KSM1JA : un accessoire dans la cour des grands → https://www.lesnumeriques.com/extracteur-de-jus/kitchenaid-5ksm1ja-p68595/test.html
+» [Les Numériques] Test Sac photo Wandrd All-New Prvke 21L V3 : le roi du roll-top → https://www.lesnumeriques.com/sac-photo/wandrd-all-new-prvke-21l-v3-p68773/test.html
+» [Les Numériques] Test Livre photo WhiteWall Beau-Livre : la qualité avant tout → https://www.lesnumeriques.com/livre-photo/whitewall-beau-livre-2022-p69061/test.html
+
+» [New York Times] A face search engine anyone can use is alarmingly accurate. PimEyes is a paid service that finds photos of a person from across the internet, including some the person may not want exposed. “We’re just a tool provider,” its owner said → https://www.nytimes.com/2022/05/26/technology/pimeyes-facial-recognition-search.html
+» [Phonandroid] Samsung imprime une photo géante de chat pour faire la pub de son capteur photo 200 MP → https://www.phonandroid.com/samsung-imprime-une-photo-geante-de-chat-pour-faire-la-pub-de-son-capteur-photo-200-mp.html
+» [The Verge] NY State is giving out hundreds of robots as companions for the elderly. A new way to address the West’s ‘loneliness epidemic’ → https://www.theverge.com/2022/5/25/23140936/
+» [NewAtlas] Smallest-ever remote-control walking robot uses shape-memory alloy → https://newatlas.com/robotics/tiny-crab-robot/
+» [Curbed] Solar panels are coming to Ikea → https://www.curbed.com/2022/05/ikea-solar-panels-for-sale-california.html
+» Low-cost gel film can pluck drinking water from desert air → https://www.me.utexas.edu/news/1611-low-cost-gel-film-can-pluck-drinking-water-from-desert-air
+» [The Guardian] World’s largest vats for growing ‘no-kill’ meat to be built in US. Commitment to building four-storey bioreactors is gamechanger for cultivated meat industry, says expert → https://www.theguardian.com/environment/2022/may/25/worlds-largest-vats-for-growing-no-kill-meat-to-be-built-in-us
+» [LiveScience] Physicists just rewrote a foundational rule for nuclear fusion reactors that could unleash twice the power. Fusion reactors could generate more power thanks to a reworking of Greenwald's Law → https://www.livescience.com/fusion-reactors-could-produce-more-power
+» [TechCrunch] Starliner returns to Earth after a successful first trip to ISS → https://techcrunch.com/2022/05/25/starliner-returns-to-earth-after-a-successful-first-trip-to-iss/
+» [Space.com] Asteroid-mining startup AstroForge raises $13 million, books launch for test mission → https://www.space.com/asteroid-mining-startup-astroforge-2023-launch
+» [AP News] An ocean first: Underwater drone tracks CO2 in Alaska gulf → https://apnews.com/article/climate-science-alaska-gulf-of-and-environment-a7870c0b8009db7be45185e825752736
+» [WCCF Tech] The Lord of the Rings: Heroes of Middle-earth Goes Official → https://wccftech.com/the-lord-of-the-rings-heroes-of-middle-earth-goes-official/
+» 🇫🇷 [Gamekult] V Rising dépasse déjà le million de ventes sur Steam → https://cutt.ly/OH6slno
+» [Les Numériques] Arctis Nova Pro Wireless et Arctis Nova Pro : les nouveaux casques de Steelseries montrent les muscles → https://lesnumeriques.com/casque-gaming-micro/-n183871.html
+
+» [The Verge] The Mandalorian season 3 debuts February 2023. Disney has revealed new information about the upcoming season → https://www.theverge.com/2022/5/26/23073135/
+» [TechSpot] Sony earnings presentation confirms God Of War, Horizon, and Gran Turismo TV shows. Hopefully they'll be better than Uncharted → https://www.techspot.com/news/94738-sony-earnings-presentation-confirms-god-war-horizon-gran.html
+
+» [Les Numériques] Prise en main – Drone Pixy de Snapchat : une perche à selfie volante fun mais presque inutilisable → https://lesnumeriques.com/drone/-n183539.html
+» [Les Numériques] Test Drone DJI FPV : vol en immersion et prises de vue 4K en un tournemain → https://www.lesnumeriques.com/drone/dji-fpv-p62211/test.html
+
+raids : lesnumeriques => (13:43) Gautoz => (18:51) KarimDebbache => gilles_stella => MisterJDay (samedi) => (01:59) cokoooooo => EncreMecanique => Infernokluth => Aishuu => Pokytom => LeKolizoo => Nejda => RomainJacques_ => KaidenHD => PirAStack (dimanche)
+
+
 
 
 » [Les Numériques] 
