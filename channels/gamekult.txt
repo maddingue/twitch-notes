@@ -16198,27 +16198,26 @@ excuses de sac :
 
 
 --------------------------------------
-2022-06-01 - ???
+2022-05-31 - Dinosaur Fossil Hunter
 
-???
+Dinosaur Fossil Hunter, sorti le 4 mai 2022 sur PC
+développé par ▲Pyramid Games, studio basé à Lublin, Pologne 🇵🇱, faiseur de jeux de simulation : Farming Life, Castle Flipper, Rover Mechanic Simulator, Occupy Mars,  → https://pyramid.games/en/portfolio-item/dinosaur-fossil-hunter-en/
+⌨️ 🖱️ 16,80 € sur Steam (https://cutt.ly/1Jd4nz2)
+⌨️ 🖱️ prologue gratuit sur Steam (https://cutt.ly/ZJd7Juj)
 
+Un radar à pénétration de sol (RPS) appelé plus communément radar géologique ou géoradar, est un appareil géophysique utilisant le principe d'un radar que l'on pointe vers le sol pour en étudier la composition et la structure
+-- https://fr.wikipedia.org/wiki/Radar_%C3%A0_p%C3%A9n%C3%A9tration_de_sol
 
-📅 le programme de la semaine → https://cutt.ly/YHXGv36
-📅 mardi 17:30, jeu surprise (Florian)
-📅 mercredi 12:30, Resident Evil 2 Remake (Hubert & Virgile)
-📅 jeudi 17:30, Silt (Virgile)
-📅 vendredi 17:30, Souldiers (Puyo)
-📺 samedi matin, Gamekult l'émission
-💹 Le Père et Lemaire sur les bilans des éditeurs de jeux vidéo en 2022
-🎧 iro-iro sur le feu d'artifice 🎆
-📰 Les infos du State of Play
-📽️ Game and Watch sur la série Halo
+excuses de sac :
+- je sais pas où je vais (Florian)
+- quand je ne klaxonne pas, je suis moins précis (Florian)
+- il y a une géométrie un peu curieuse, t'arrives pas trop à voir la perspective (Florian)
 
 
 --------------------------------------
-2022-06-02 - Resident Evil 2 Remake (épisode 2)
+2022-06-01 - Resident Evil 2 Remake (épisode 3)
 
-la terreur a un nouveau nom : Hubert dans Resident Evil 2 Remake 😱
+la terreur a un nouveau nom : Hubert dans Resident Evil 2 Remake 😱 épisode 3
 Resident Evil 2 Remake, sorti le 25 janvier 2019 sur PlayStation 4, Xbox One et PC
 🎮 40 € sur PSN (https://cutt.ly/cGcFEEH) et Xbox (https://cutt.ly/hGcFIcY)
 ⌨️ 🖱️ 40 € sur Steam (https://cutt.ly/kGcFglD)
@@ -16228,24 +16227,42 @@ Resident Evil 2 Remake, sorti le 25 janvier 2019 sur PlayStation 4, Xbox One et 
 résumé de l'épisode 1 : 3 petits cris, 4 EUH!!!
 résumé de l'épisode 2 : 3 frayeurs, 4 petits cris, 5 EUH!!!, 2 excuses de sac
 
+excuses de sac :
+- elle fonctionnait il y a 5 minutes (Hubert)
+- elle s'est coincée toute seul (Hubert)
+
 retours à la salle de sauvegarde : 0
-frayeurs : 0
-petits cris : 0
-EUH!!! : 0
+frayeurs : 2
+petits cris : 4
+EUH!!! : 6
 morts : 0
 
 
 --------------------------------------
-2022-06-03 - Silt
+2022-06-02 - Silt
 
 Silt, sorti le 1er juin 2022 sur Switch, PlayStation, Xbox et PC
 développé par le studio de quatre personnes Spiral Circus Games, basé à Bristol, UK 🇬🇧 → https://SpiralCircusGames.com/
-🎮 xx € sur eShop (https://cutt.ly/YJau37u), PSN (https://cutt.ly/YJaiqnB) et Xbox (https://cutt.ly/ZJaiy8f)
-⌨️ 🖱️ xx € sur Steam (https://cutt.ly/0JauFq4) et GOG (https://cutt.ly/SJauJuV)
+🎮 xx € sur eShop (https://cutt.ly/YJau37u)
+🎮 en promo à 13,50 € sur PSN (https://cutt.ly/YJaiqnB) et Xbox (https://cutt.ly/ZJaiy8f)
+⌨️ 🖱️ en promo à 13,50 € sur Steam (https://cutt.ly/0JauFq4) et GOG (https://cutt.ly/SJauJuV)
+📰 test : SILT, la lumière s'éteint, un plongeur s'éveille, 6/10 par Virgile → https://cutt.ly/uJlq64X
+
+
+📅 le programme de la semaine → https://cutt.ly/YHXGv36
+📅 mardi 17:30, 
+📅 mercredi 12:30, 
+📅 jeudi 17:30, Silt (Virgile)
+📅 vendredi 17:30, Souldiers (Puyo)
+📺 samedi matin, Gamekult l'émission
+💹 Le Père et Lemaire sur les bilans des éditeurs de jeux vidéo en 2022 → https://cutt.ly/2Jd8Pez
+🎧 iro-iro sur le feu d'artifice 🎆
+📰 Les infos du State of Play
+📽️ Game and Watch sur la série Halo
 
 
 --------------------------------------
-2022-06-04 - Souldiers
+2022-06-03 - Souldiers
 
 Souldiers, sorti le 2 juin sur Switch, PlayStation, Xbox et PC
 développé par Retro Forge, studio espagnol 🇪🇸 → https://RetroForgeGames.com/
