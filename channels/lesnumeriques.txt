@@ -5762,7 +5762,7 @@ raids : lesnumeriques => (13:43) Gautoz => (18:51) KarimDebbache => gilles_stell
 » [Gamekult] Sony préparerait trois nouvelles adaptations en séries TV : Horizon, God of War et Gran Turismo. Ou deux séries et un film → https://gamekult.com/actualite/-3050849553.html
 » [Engadget] Sony is bringing ‘Horizon’ and ‘God of War’ TV shows to Netflix and Prime Video. A 'Gran Turismo' series is in the works too → https://www.engadget.com/sony-horizon-god-of-war-gran-turismo-tv-shows-netflix-amazon-playstation-144132163.html
 
-raids : lesnumeriques => (13:39) albalala => (13:45) DazJDM => lydia__am => Kenb0gard => Ultia => NoemieStinguette => MysterC => Phebusa => WaterPatate => GhislainLive (jeudi)
+raids : lesnumeriques => (13:39) albalala => (13:45) DazJDM => lydia__am => Kenb0gard => Ultia => NoemieStinguette => MysterC => Phebusa => WaterPatate => GhislainLive (terminé jeudi à 01:55)
 
 » le résumé de la quotidienne des Numériques dont il me manque une partie parce que j'ai dû m'occuper d'un truc dans l'immeuble
 » on s'est moqué ensemble de la traduction officielle des termes du jeux vidéo
@@ -5777,6 +5777,77 @@ raids : lesnumeriques => (13:39) albalala => (13:45) DazJDM => lydia__am => Kenb
 » les opcoms Star Wars claquées au sol : télé LG, voitures Volkwagen
 » au Pérou, Netflix teste la lutte contre le partage de comptes (et galère)
 » les adaptations Sony prévues de Horizon Zero Dawn, God of War, Gran Turismo, Twisted Metal
+
+
+--------------------------------------
+2022-06-03
+
+» [Les Numériques] Test Krups Dolce Gusto Infinissima Touch : une cafetière abordable, simple et rapide → https://www.lesnumeriques.com/cafetiere-capsule/krups-dolce-gusto-infinissima-touch-p68675/test.html
+» [Les Numériques] Le Roborock S7+ l'emporte sur le Roomba s9+ d'iRobot lors d'un duel d'aspirateurs-robots haut de gamme → https://lesnumeriques.com/aspirateur-robot/-n184369.html
+» [Les Numériques] Prise de Nice : et votre domicile devient plus futé avec la Plug-Control → https://lesnumeriques.com/prise-connectee/-n184441.html
+
+» [CNET France] Samsung cesserait définitivement sa production d'écrans LCD en juin. La fermeture du département LCD serait une décision prise depuis plusieurs années et pourrait devenir effective dès le mois de juin → https://cnetfrance.fr/news/-39942790.htm
+» [Les Numériques] L'écran 32" de Dell avec caméra 4K intégrée bientôt commercialisé à un prix très salé PJSalt → https://lesnumeriques.com/moniteur-ecran-lcd/-n184405.html
+» [Les Numériques] SRS-XG300, SRS-XE300 et SRS-XE200 : le nouveau trio d'enceintes portables estivales de Sony → https://lesnumeriques.com/enceintes-transportable/-n184449.html
+» [Les Numériques] Test Sonos Ray : une barre de son compacte et accessible qui tient la route → https://www.lesnumeriques.com/barre-de-son/sonos-s36-p68729/test.html
+
+» [Les Numériques] Semi-conducteurs : Qualcomm tend la main à ses concurrents pour maintenir la neutralité d’ARM → https://lesnumeriques.com/pro/-n184307.html
+» [Les Numériques] Taïwan suspend ses exportations de processeurs de plus de 25 MHz vers la Russie et la Biélorussie → https://lesnumeriques.com/cpu-processeur/-n184413.html
+» [Les Numériques] Le Surface Laptop Go 2 de Microsoft vient d’être officialisé → https://lesnumeriques.com/ordinateur-portable/-n184331.html
+
+» [Les Numériques] Vivo tease l'intégration de son super lecteur d'empreintes à un smartphone à venir en France → https://lesnumeriques.com/mobilite/-n183869.html
+» [Les Numériques] Oppo lance son A77 5G en Thaïlande : milieu de gamme et Dimensity 810 au programme → https://lesnumeriques.com/telephone-portable/-n184389.html
+» [Les Numériques] Pixel 7 et 7 Pro : la nouvelle puce Google Tensor devrait encore être fabriquée par Samsung → https://lesnumeriques.com/telephone-portable/-n184325.html
+» [The Verge] The Murena One shows exactly how hard it is to de-Google your smartphone. /e/OS does a lot, but it can’t fix the ecosystem → https://theverge.com/2022/5/31/23144917/
+» [Nikkeii Asia] Apple to shift iPad capacity to Vietnam amid China supply chain woes. U.S. tech giant asks suppliers to build up extra inventory as contingency plan → https://asia.nikkei.com/Spotlight/Supply-Chain/Apple-to-shift-iPad-capacity-to-Vietnam-amid-China-supply-chain-woes
+» [AudioFanzine] Dave Smith (1950-2022) est décédé → https://fr.audiofanzine.com/sequential/news/a.play,n.63858.html
+
+» [Les Numériques] Montres connectées : Apple confirme sa domination au premier trimestre 2022 → https://lesnumeriques.com/pro/-n184251.html
+» [Les Numériques] Test Garmin Venu 2 Plus : la plus lifestyle des montres de sport, les appels et l'assistant vocal en plus → https://www.lesnumeriques.com/montre-connectee/garmin-venu-2-plus-p66787/test.html
+» [Les Numériques] Forerunner 255 & 955 : Garmin lance ses nouvelles montres de running en France → https://lesnumeriques.com/montre-sport/-n184311.html
+» [Les Numériques] Une journée d'autonomie pour la Google Pixel Watch ? → https://lesnumeriques.com/montre-connectee/-n184341.html
+
+» [The Verge] Gucci built a persistent town inside of Roblox → https://theverge.com/2022/5/27/23143404/
+» Litter Robot → https://www.litter-robot.com/
+» [01Net] Apple : la marque RealityOS vient d’être déposée par… une société inconnue → https://www.01net.com/actualites/apple-la-marque-realityos-vient-d-etre-deposee-par-une-societe-inconnue-2056398.html
+
+» [Reuters] EXCLUSIVE Stellantis unit FCA reaches plea deal in U.S. emissions probe -sources → https://www.reuters.com/legal/government/exclusive-stellantis-unit-fca-reaches-plea-deal-us-emissions-probe-sources-2022-05-25/
+» Delorean Alpha 5 → https://delorean.com/
+» [Les Numériques] La DeLorean Alpha5 électrique est enfin prête ! → https://lesnumeriques.com/voiture/-n184163.html
+» [Les Numériques] Roadster électrique Alfa Romeo Duetto Spider : c'est confirmé ! → https://lesnumeriques.com/voiture/-n183709.html
+» Rolls-Royce Boat Tail → https://www.rolls-roycemotorcars.com/en_GB/inspiring-greatness/objects/coachbuild-boat-tail.html
+» [Les Numériques] SUV coupé 408 : Peugeot tease sur Twitter → https://lesnumeriques.com/voiture/-n184233.html
+» [Les Numériques] Nissan Sakura et Mitsubishi eK X EV, des kei-cars électriques qu’on aimerait voir en France → https://lesnumeriques.com/voiture/-n183687.html
+» [Les Numériques] Volvo Cars s'associe à Epic Games pour intégrer Unreal Engine à ses futurs véhicules → https://lesnumeriques.com/voiture/-n184359.html
+
+» [Gamekult] Summer Game Fest 2022 (E3) : Planning et horaires des conférences. Le document de référence pour suivre les festivités sur Gamekult → https://gamekult.com/actualite/-3050849299.html
+» [Les Numériques] Quest Gaming Showcase : Meta précise son planning de jeux en réalité virtuelle pour 2022 → https://lesnumeriques.com/casque-realite-virtuelle/-n181103.html
+» [Les Numériques] Sony State of Play : des infos sur le PlayStation VR2 → https://lesnumeriques.com/jeux-video/-n184037.html
+» [Les Numériques] Horizon Call of the Mountain dévoile son gameplay sur PlayStation VR2, et une mise à jour pour Horizon Forbidden West → https://gamekult.com/actualite/-3050849771.html
+» [Gamekult] FF 16, RE4 Remake, Street Fighter 6 : le gros récap des annonces du State of Play de juin → https://gamekult.com/actualite/-3050849747.html
+» [Gamekult] Pour Street Fighter 6, il faudra attendre 2023 → https://gamekult.com/actualite/-3050849765.html
+» [Gamekult] Stray nous miaule sa date de sortie → https://gamekult.com/actualite/-3050849755.html
+» [Gamekult] Season dévoile du gameplay et une date de sortie → https://gamekult.com/actualite/-3050849769.html
+» 🇫🇷 [Gamekult] Final Fantasy 16 sortira en été 2023 sur PlayStation 5 → https://cutt.ly/pJbpFWx
+
+
+raids : lesnumeriques => marmiton_officiel => (14:18) SixenTv -> (15:12) goltica -> (20:45) angelzor
+
+» le résumé de la quotidienne des Numériques dont j'espère qu'il ne sera pas inutile comme celui de mercredi
+» écrans : Samsung cesserait définitivement sa production d'écrans LCD en juin ; Dell va vendre très cher un écran 32" avec caméra 4K intégrée
+» semi-conducteurs : Qualcomm tend la main à ses concurrents pour maintenir la neutralité d’ARM ; Taïwan suspend ses exportations de processeurs de plus de 25 MHz vers la Russie et la Biélorussie
+» smartphones : Oppo A77 5G, Google Pixel 7 et 7 Pro, Murena One
+» hommage à Dave Smith, géant de la musique électronique
+» montres connectées : Apple confirme sa domination au premier trimestre 2022 ; test de la Garmin Venu 2 Plus ; annonce des Garmin Forerunner 255 & 955 ; la Google Pixel Watch n'aurait qu'une seul journée d'autonomie
+» dépôt de la marque RealityOS, peut-être en prévision de la conférence Apple ?
+» Crono a montré son pull moche Nvidia GeForce RTX
+» voitures électriques : la DeLorean Alpha5 enfin montrée ; Alfa Romeo Duetto Spider ; Nissan Sakura, Mitsubishi eK X EV
+» voitures pour ultra riches : Land Rover, Rolls-Royce Boat Tail
+» Volvo Cars s'associe à Epic Games pour intégrer Unreal Engine à ses futurs véhicules
+» Summer Game Fest 2022 (l'E3 pas E3) : Les Numériques vont collaborer avec Gamekut pour couvrir les annonces
+» le résumé des annonces du Sony State of Play d'hier soir : des infos sur le PlayStation VR2, Street Fighter 6, Final Fantasy 16, Resident Evil 4 Remake ; Horizon Call of the Mountain, Resident Evil Village et No Man's Sky sur PS VR 2
+» Stray (le jeu cyberpunk avec le chat) a une date de sortie, le 19 juillet GlitchCat
+
 
 
 
