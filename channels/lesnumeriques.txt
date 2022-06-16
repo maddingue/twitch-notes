@@ -6014,6 +6014,87 @@ raids : lesnumeriques => (13:31) marmiton_officiel => (14:05) AlphaCast (termin�
 raids : lesnumeriques => (13:33) CanardPC => (13:45) 1TLAU > (15:08) Camelyss (terminé à 18:54)
 
 
+--------------------------------------
+2022-06-15
+
+» [Les Numériques] Cuisine du futur : nous avons vu le concept GRO d'Electrolux à Eurocuccina → https://lesnumeriques.com/divers-electromenager/-n185007.html
+» [Les Numériques] Avec LHOV, Elica veut nous faire aimer les trios → https://lesnumeriques.com/divers-electromenager/-n185175.html
+
+» [Les Numériques] Test Dell P3223PE : un grand moniteur de bureautique bien calibré et avec USB-C → https://www.lesnumeriques.com/moniteur-ecran-lcd/dell-p3223pe-p69641/test.html
+» [Les Numériques] Philips Screeneo U4, un petit projecteur Led ultra-courte focale avec jusqu'à 80" de diagonale → https://lesnumeriques.com/videoprojecteur/-n185307.html
+» [Flat Panel] Samsung caught cheating in TV benchmarks, promises software update → https://www.flatpanelshd.com/news.php?subaction=showfull&id=1654235588
+
+» [Les Numériques] Acton III, Stanmore III, Woburn III : Marshall renouvelle sa gamme d’enceintes sans-fil sédentaires → https://lesnumeriques.com/platine-musicale-serveur-audio/-n185167.html
+» [Les Numériques] Ikea lancera sa première platine vinyle Obegränsad cet automne → https://lesnumeriques.com/platine-vinyle-dj/-n185269.html
+» [HypeBeast] Yamaha and ÉCAL design students collaborate on experimental "sound machines". Including ASMR instruments and a miniature live music setup → https://hypebeast.com/2022/6/ecal-students-yamaha-sound-machines-milan
+» [Teenage Engineering] pocket operator for Pixel → https://teenage.engineering/designs/popixel
+
+» [Les Numériques] Avec Intel 4, le nombre de transistors sera doublé et les performances améliorées. Intel apporte un peu plus de détails concernant Intel 4, son futur processus de gravure qui promet un doublement des transistors pour des performances améliorées → https://lesnumeriques.com/cpu-processeur/-n185251.html
+» [Les Numériques] Test Alienware X14 : un PC portable pour joueurs nomades → https://www.lesnumeriques.com/ordinateur-portable/alienware-x14-p66939/test.html
+» [Les Numériques] Une faille de sécurité révélée dans les puces Apple M1 ? → https://lesnumeriques.com/cpu-processeur/-n185185.html
+» PACMAN - Attacking ARM Pointer Authentication with Speculative Execution → https://pacmanattack.com/
+» [Les Numériques] Les MacBook en Apple Silicon M2 débarquent chez les revendeurs, quid de la disponibilité réelle ? → https://lesnumeriques.com/ordinateur-portable/-n185193.html
+» [Les Numériques] Un iPad Pro M2 pour accompagner la sortie des iPhone 14 en septembre ? → https://lesnumeriques.com/tablette-tactile/-n185169.html
+» [Les Numériques] Apple iPad 10 : enfin un port USB-C sur la tablette d'entrée de gamme ? → https://lesnumeriques.com/tablette-tactile/-n185347.html
+» [Les Numériques] iPhone 14 Pro / Pro Max : un modèle factice laisse apercevoir un écran avec poinçon → https://lesnumeriques.com/telephone-portable/-n185143.html
+» [Les Numériques] Galaxy Z Flip 4 : des photos volées laissent apercevoir le futur smartphone pliant de Samsung → https://lesnumeriques.com/telephone-portable/-n185147.html
+» [Twitter - Nothing] This is phone (1) → https://twitter.com/nothing/status/1536936722575118337
+» [Les Numériques] Vivo lance son X80 Pro en France à un tarif audacieux → https://lesnumeriques.com/telephone-portable/-n185171.html
+
+» [Les Numériques] Test Garmin Epix Gen 2 : l'écran Amoled au service d'une montre de sport ultra complète → https://www.lesnumeriques.com/montre-sport/garmin-epix-gen-2-p67099/test.html
+» [The Information] Meta Scales Back AR Glasses Plan Amid Reality Labs Shakeup → https://www.theinformation.com/articles/meta-scales-back-ar-glasses-plan-amid-reality-labs-shakeup
+» [Les Numériques] C’est officiel : Microsoft débranchera Internet Explorer le 15 juin 2022 → https://lesnumeriques.com/appli-logiciel/-n185287.html
+» [Les Numériques] Photoshop sur le web va devenir gratuit pour tout le monde → https://lesnumeriques.com/appli-logiciel/-n185345.html
+» [9to5Mac] You can finally lock your hidden photos album with Touch ID or Face ID in iOS 16 → https://9to5mac.com/2022/06/06/lock-hidden-photos-ios-16/
+
+» [Les Numériques] En attendant la voiture autonome, voici la voiture télécommandée à distance par Elmo → https://lesnumeriques.com/voitures-co/-n184453.html
+» [Les Numériques] Stellantis teste la recharge électrique par induction sur une Fiat 500e. Stellantis, par l'entremise de sa filiale italienne Fiat, a testé la recharge électrique par induction sur le circuit italien Arena del Futuro. Une façon d'essayer de rouler en électrique sans avoir besoin de recharger → https://lesnumeriques.com/voiture/-n185197.html
+» [Les Numériques] La voiture solaire Lightyear One devient Lightyear 0 et coûtera 255 000 €. La voiture solaire hollandaise Lightyear One entrera en production dès l'automne 2022 pour des livraisons en novembre. Entretemps, la voiture change de nom pour Lightyear O et subit de nombreuses modifications techniques → https://lesnumeriques.com/voiture/-n185243.html
+» [Les Numériques] Porsche intègre CarPlay sans-fil, Apple Music, Apple Podcasts et Android Auto dans la nouvelle mise à jour de son PCM 6.0 → https://lesnumeriques.com/voiture/-n184981.html
+» [Les Numériques] Porsche rachète Fazua, spécialiste des moteurs de vélo électrique → https://lesnumeriques.com/velo-electrique/-n184997.html
+» [Les Numériques] Test Winora Sinus 9 : un vélo électrique urbain confortable et bien équipé → https://www.lesnumeriques.com/velo-electrique/winora-sinus-9-p69637/test.html
+» [Les Numériques] Decathlon présente un concept de vélo électrique futuriste avec le Magic Bike → https://lesnumeriques.com/velo-electrique/-n184899.html
+» [Les Numériques] Test Scooter trois roues Kymco CV3 : l'arme anti-embouteillage, et plus encore → https://www.lesnumeriques.com/scooter/kymco-cv3-p69649/test.html
+
+» [Les Numériques] Un ingénieur de Google mis en retrait après avoir affirmé qu'une IA était devenue "sensible". Un ingénieur de Google, Blake Lemoine, a été mis en congés payés forcés par l'entreprise. Il lui est reproché d'avoir publié des extraits de conversation avec une IA, censés prouver que celle-ci a une conscience → https://lesnumeriques.com/vie-du-net/-n185173.html
+» [Medium - Blake Lemoine] Is LaMDA Sentient? — an Interview → https://cajundiscordian.medium.com/lamda-ea64d916d917
+» [Washington Post] The Google engineer who thinks the company’s AI has come to life. AI ethicists warned Google not to impersonate humans. Now one of Google’s own thinks there’s a ghost in the machine → https://www.washingtonpost.com/technology/2022/06/11/google-ai-lamda-blake-lemoine/
+» [VICE Motherboard] Technologists are using AI to ‘expand’ famous works of art. With the right inputs, DALL-E can make bigger versions of classic paintings like the Mona Lisa → https://www.vice.com/en/article/m7gqxq/technologists-are-using-ai-to-expand-famous-works-of-art
+
+» [Les Numériques] Verra-t-on bientôt un boîtier Netflix similaire à l'Apple TV ou au Fire Stick d'Amazon ? → https://lesnumeriques.com/vie-du-net/-n184923.html
+» [Les Numériques] Canal+ va augmenter les tarifs pour certains de ses abonnés → https://lesnumeriques.com/vie-du-net/-n185267.html
+» [L'Équipe] Apple s'offre la MLS pour près de 2,5 milliards de dollars → https://www.lequipe.fr/Medias/Actualites/Apple-s-offre-la-mls-pour-pres-de-2-5-milliards-de-dollars/1338659
+» [Les Numériques] C'est officiel, Squid Game et The Boys auront chacun une saison supplémentaire → https://lesnumeriques.com/vie-du-net/-n185177.html
+» [Les Numériques] The Last of Us : un nouvel aperçu du look de Joel et Ellie dans l'adaptation HBO → https://lesnumeriques.com/vie-du-net/-n185051.html
+» [Les Numériques] Les films Spider-Man arrivent enfin sur Disney+ ! → https://lesnumeriques.com/vie-du-net/-n185291.html
+» [Les Numériques] Netflix : la suite de Knives Out (À couteaux tirés) débarquera à la fin de l'année → https://lesnumeriques.com/vie-du-net/-n185301.html
+» [CNET France] The Handmaid's Tale (OCS) : on connait la date de sortie de la saison 5. Plus que quelques mois à patienter avant l'arrivée de la nouvelle saison sur OCS → https://cnetfrance.fr/news/the-handmaid-s-tale-39943302.htm
+» [Les Numériques] 
+
+
+
+» le résumé de la quotidienne des Numériques
+» cuisine, salon Eurocuccina : le frigo concept éclaté GRO d'Electrolux ; le four LHOV
+» télé : Samsung pris la main dans le sac à tricher sur des tests de performances TV
+» son : nouvelles enceintes Marshall Acton III, Stanmore III, Woburn III ; Ikea lancera sa première platine vinyle Obegränsad cet automne ; partenariat Yamaha et ECAL sur des machines sonores expérimentales ; pocket operator de Teenage Engineering pour Pixel 5
+» processeurs : Intel apporte des détails sur Intel 4, sa future gravure de CPU (mais au nom trompeur) ; une faille de sécurité dans les processeurs M1 d'Apple, surnommée PACMAN
+» bientôt des MacBook et des iPad Pro sur base de processeurs M2
+» téléphones : spéculation sur l'iPhone 14 Pro ; photos volées du Galaxy Z Flip 4 ; premières images du phone (1) de Nothing ; le Vivo X80 Pro trop cher
+» test de la montre de sport Garmin Epix Gen 2 qui reçoit ⭐⭐⭐⭐⭐
+» Meta (Facebook) revient en arrière sur ses lunettes de réalité augmentée ; Microsoft débranche le vieux Internet Explorer aujourd'hui ; Photoshop sur le web va devenir gratuit pour tout le monde ; on va enfin pouvoir vérrouiller l'accès à ses photos masqués dans iOS 16
+» voiture : la voiture télécommandée à distance par Elmo ; Stellantis teste la recharge électrique par induction, presque comme dans F-Zero ; la voiture solaire Lightyear entrera en production dès l'automne 2022
+» vélos : Porsche rachète Fazua, spécialiste des moteurs de vélo électrique ; Decathlon présente un concept de vélo électrique futuriste avec le Magic Bike
+» IA : le futur ex-ingénieur de Google qui croit que l'IA LaMDA a une conscience ; avec l'IA DALL-E, on peut « étendre » des tableaux connus comme la Joconde ou la jeune fille à la perle
+
+» point séries et SVOD avec Bastien
+» bientôt un boîtier Netflix similaire à l'Apple TV ou au Fire Stick d'Amazon ? ; Canal+ va augmenter les tarifs pour certains de ses abonnés
+» nouvelles saisons pour Squid Game et The Boys ; on peut participer à un vrai Squid Game, avec un prix de 4,56 millions de dollars à la clé
+» nouvel aperçu du look de Joel et Ellie dans l'adaptation HBO de The Last of Us ; Les films Spider-Man arrivent enfin sur Disney+
+» Netflix : la suite de Knives Out (À couteaux tirés) débarquera à la fin de l'année ; The Handmaid's Tale saison 5 le 14 septembre 2022 sur OCS
+
+raids : lesnumeriques => (13:44) DamDamLive (termine à 18:05)
+
+
 
 » [Les Numériques] 
 » [Gamekult] 
