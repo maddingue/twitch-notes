@@ -6379,7 +6379,147 @@ raids : lesnumeriques => (13:48) marmiton_officiel => (14:14) enaolf => Leliange
 raids : lesnumeriques => (13:16) CabriDIY => (<14:25) Guile => (<19:26) ZulZorander (19:35)
 
 
+--------------------------------------
+2022-06-29
 
+» [Les Numériques] Affaire Samsung TV : les vérifications sont en cours. Vendredi dernier, nous évoquions un problème concernant les téléviseurs Samsung. Ces derniers détectent les mires de test affichées par le logiciel Calman afin de modifier le rendu de l'image. Nous avons commis une erreur lors des tests, et nous allons donc relancer les mesures → https://cutt.ly/7KKtGVe
+
+» [Les Numériques] NuraTrue Pro : Nura fait passer ses écouteurs true wireless au stade supérieur. Les écouteurs true wireless phares de Nura reviennent dans une seconde version pleine de nouveautés : Bluetooth 5.3, aptX Lossless, réduction de bruit active adaptative, “spatialisation 3D” ou encore égalisation personnalisable sont au programme → https://cutt.ly/MKKymgU
+» [Les Numériques] Apple AirPods Pro 2 : le plein de nouvelles rumeurs. Alors que les AirPods Pro 2 devraient être annoncés en septembre prochain lors de la célèbre keynote automnale d'Apple, les rumeurs vont bon train concernant ce futur modèle → https://cutt.ly/zKKyXRA
+» [HypeBeast] Samsung Joins Starbucks Korea for Playful Galaxy SS22 Capsule.  Including a hot latte case for the Galaxy Buds 2 → https://cutt.ly/8KKiyNq
+» [MNTRE] Introducing MNT Pocket Reform → https://cutt.ly/RKKiFZZ
+» [Les Numériques] Razer dévoile son nouveau clavier gaming low-profile Ornata V3. Razer annonce les Ornata V3 et V3 X, claviers gaming low-profile parés d’interrupteurs méca-membranes et commercialisés sous la barre des 100 €. → https://cutt.ly/pKKsneZ
+» [Les Numériques] Rufus permet d'installer Windows 11 sur tous les PC et sans compte Microsoft. La dernière version du logiciel Rufus permet d'outrepasser l'obligation d'un compte Microsoft pour installer Windows 11. Elle propose en sus d'installer ce dernier dans une configuration qui ne se plierait pas aux prérequis comme le Secure Boot et le TPM → https://cutt.ly/QKKsJXL
+
+» [Les Numériques] Chips Act américain : Intel repousse la cérémonie de mise en chantier d'une usine pour faire pression sur le Congrès. Le Chips Act, une loi qui doit favoriser la construction d'usines de semiconducteurs aux États-Unis, tarde à être validé par le Congrès. Intel a trouvé un moyen de faire pression sur le Congrès → https://cutt.ly/hKKderm
+» [Les Numériques] Qualcomm devrait présenter le Snapdragon 8 Gen 2 en novembre lors de son Tech Summit. Qualcomm a pris l’habitude de dévoiler ses puces haut de gamme (Snapdragon 8 Gen x) au début du mois de décembre. Mais la firme américaine pourrait s’y prendre un peu plus tôt cette année, son Tech Summit étant annoncé pour mi-novembre → https://cutt.ly/vKKdVpt
+» [ARM] New generation of Armv9 CPUs unleash unprecedented compute power → https://cutt.ly/8KKfRf7
+» [ARM] Gaming performance unleashed with Arm's new GPUs → https://cutt.ly/MKKfXat
+» [Les Numériques] Semi-conducteurs : le Nasdaq en pole position pour l’entrée en Bourse d’Arm. Selon Masayoshi Son, le patron de SoftBank, c’est Wall Street qui tiendrait la corde pour accueillir Arm sur le marché boursier, au détriment de la place de Londres. Une position qui ne plaît pas au gouvernement britannique → https://cutt.ly/MKKga1X
+
+» [Les Numériques] Test Samsung Galaxy A03 : un smartphone endurant → https://cutt.ly/XKKgGPW
+» [Les Numériques] HTC dévoile le Desire 22 Pro, un smartphone milieu de gamme pensé pour le métavers. HTC a finalement présenté son nouveau smartphone, le Desire 22 Pro, un mobile de milieu de gamme compatible avec le métavers de la marque → https://cutt.ly/VKKgNaX
+» [Les Numériques] Xiaomi 12S : la présentation des smartphones estampillés Leica prévue le 4 juillet. Dans un peu moins d'une semaine, Xiaomi mettra fin au secret qui entoure ses prochains fleurons. La gamme 12S sera présentée le 4 juillet en Chine et constituera la première (d'une longue série ?) à bénéficier du savoir-faire de Leica en matière de photo → https://cutt.ly/AKKhde0
+» [Les Numériques] Pixel 6a : les premiers tests montrent un capteur d’empreintes plus efficace que celui du Pixel 6. Alors que le mobile n’est même pas officiellement disponible dans le commerce, un test complet du Pixel 6a est déjà sorti sur YouTube. On peut y voir un capteur d’empreintes revu et amélioré par rapport à celui du Pixel 6 → https://cutt.ly/1KKhECg
+» [Les Numériques] Après 10 mois dans l'eau, un iPhone rendu fonctionnel à son propriétaire. En Angleterre, un amateur de canoé-kayak a trouvé un iPhone lors d'une sortie en rivière. Resté 10 mois en immersion, le mobile, une fois séché, a pourtant pu être rendu en parfait état de marche à son propriétaire → https://cutt.ly/UKKhLre
+
+» [Les Numériques] KEEN Ranger PT : Reolink se lance dans les caméras de chasse avec une nouvelle marque. Reolink annonce le lancement d’une nouvelle marque spécialisée dans les caméras de chasse et KEEN, son nom, ne perd pas de temps. Un premier modèle est déjà dévoilé : la Ranger PT → https://cutt.ly/FKKja30
+» [Les Numériques] Nikon Z30 : le plus petit hybride APS-C de Nikon pour le vlog. Le Nikon Z30 est un boitier hybride à monture Z dont l'utilisation a été simplifiée et orientée vers les adeptes du vlog ; un marché devenu très concurrentiel → https://cutt.ly/wKKjIYl
+» [Les Numériques] Nikkor Z 400m f/4.5 VR S : une très longue focale fixe dans un format raisonnable. Nikon élargit son parc optique en monture Z avec le Nikkor Z 400m f/4.5 VR S, une longue focale fixe lumineuse de taille raisonnable → https://cutt.ly/iKKktqM
+
+» [Les Numériques] Volkswagen ID. Aero : la Passat s'électrise. En dévoilant l'ID. Aero, Volkswagen donne un aperçu de la première berline tout électrique du constructeur. Une façon pour lui de venir enfin concurrencer Tesla et sa Model 3 → https://cutt.ly/8KKknbi
+» [Hyundai] Ioniq 6 → https://cutt.ly/gKKkFLQ
+» [Les Numériques] Test Audi Q4 e-tron Sportback 40 : entre passion et raison → https://cutt.ly/2KKkBTV
+» [Les Numériques] Restylage DS 7 E-Tense : ne l’appelez plus Crossback. Premier restylage pour l’ancien DS 7 Crossback qui devient DS 7. Côté restylage, la calandre passe au XXL et la signature lumineuse se veut plus « expressive ». On dénombre désormais 3 motorisations PHEV et un diesel → https://cutt.ly/4KKlpvw
+» [Les Numériques] Peugeot lance une gamme d’accessoires imprimés en 3D pour sa 308. En partenariat avec HP, Peugeot fait appel à l’impression 3D pour lancer une nouvelle gamme d’accessoires pour sa 308. Les possibilités offertes par cette technologie sont encore bien plus vastes → https://cutt.ly/iKKlVBE
+» [HypeBeast] Germany refuses to follow European ban on new combustion engine vehicles from 2035, claiming there will still be niches for ICE models in the future → https://cutt.ly/dKKzdu8
+» [Autocar] BMW M to keep manual gearbox option for keen drivers. German car maker looking to buck manual-ditching trend, after stick-shift accounted for 50% of all M2 orders → https://cutt.ly/zKKzmXn
+
+» [Les Numériques] Formule E Gen3 : Nissan devient le motoriste électrique de l’écurie McLaren Racing. Fort de quatre saisons en Formule E ABB FIA, Nissan, propriétaire de l’écurie e.dams, devient le motoriste de la jeune écurie McLaren Racing, qui s’apprête à concourir en Formule E Gen3. Une nouvelle saison qui verra l’apparition de la 3e génération de la monoplace électrique → https://cutt.ly/9KKxZFz
+
+» [Les Numériques] Comment Shimano s'est adapté à la forte demande pour les composants de vélos. Après deux ans de bouleversements dans le monde du vélo, nous avons fait le point avec l'un des poids lourds du secteur, Shimano. Nous avons pu nous entretenir avec Philippe Guillaume, responsable marketing chez Shimano France → https://cutt.ly/iKKcXot
+» [Les Numériques] Test Garmin Varia RTL515 : le radar qui surveille vos arrières à vélo → https://cutt.ly/4KKbrep
+» [Les Numériques] Skarper propose un kit pour électrifier son vélo en tout simplicité. Les kits destinés à électrifier des vélos musculaires connaissent un développement vigoureux. Dernier en date, le DiskDrive de Skarper s'appuie sur un système très simple qui nécessite uniquement de changer son disque de frein arrière → https://cutt.ly/kKKbAzG
+» [Les Numériques] Road-Light Clic-Light V2 : l’ange gardien connecté qui veille sur les deux-roues. Road-Light s’est donné pour mission de protéger les utilisateurs de deux-roues, qu’ils soient cyclistes, à trottinette, sur un scooter ou une moto. Ce boîtier à signaux lumineux connecté, installé sur un harnais, permet d'être visible par tout temps → https://cutt.ly/aKKb3Ed
+» [Les Numériques] Test Trek Verve+ 3 Lowstep : un équipement parfait pour la ville → https://cutt.ly/zKKnaaE
+» [Les Numériques] Trottinette Xiaomi Electric Scooter 4 Pro : une évolution timide, sauf côté prix. Xiaomi lève le voile sur sa nouvelle trottinette électrique, baptisée Electric Scooter 4 Pro. Profitant çà et là d'améliorations sur le confort ou les performances, elle connaît surtout une hausse spectaculaire de son prix → https://cutt.ly/4KKnDUu
+» [Les Numériques] Norton Motorcycles se lance dans l'électrification. Une marque de moto mythique s'engage officiellement dans un vaste programme d'électrification, tout en promettant de concilier performance et autonomie → https://cutt.ly/mKKmqRF
+
+» [The Verge] Google Hangouts is shutting down in November. It’ll start moving mobile Hangouts users to Chat today → https://cutt.ly/fKKm9fB
+» [Curbed] New York now has more Airbnb listings than apartments for rent → https://cutt.ly/tKKQeDV
+» [Bloomberg] Airbnb said to be planning new tier for luxury vacation rentals → https://cutt.ly/UKKQjp1
+» [San Francisco Chronicles] Fifth victim dies after Halloween party shooting at Airbnb in Orinda → https://cutt.ly/PKKQXI5
+» Airbnb officially codifies party ban → https://cutt.ly/oKKQ2ra
+
+» [Les Numériques] Test Roccat Syn Pro Air : un casque gaming sans fil correct → https://cutt.ly/DKKWkVy
+» [Les Numériques] Test Casque-micro Sony Inzone H9 : l'ambitieuse entrée de Sony dans l'audio gaming haut de gamme → https://cutt.ly/3KKWvpv
+» [The Verge] Sony’s InZone gaming monitors and headsets are for more than just PS5 gamers. It’s the company’s biggest show of faith in the PC platform → https://cutt.ly/xKKW3b9
+» [Twitter] Steam Deck - We just sent the last batch of Q2 emails, and we’ll start sending Q3 reservation emails on the 30th.  Production has picked up → https://cutt.ly/FKKEcgj
+» [Les Numériques] Valve déconseille de changer le SSD du Steam Deck. Malgré ses nombreuses qualités, le Steam Deck peut être frustrant pour ceux qui souhaitent stocker des téraoctets de jeux sur leur console portable. Pourtant, en changer le SSD est fortement déconseillé → https://cutt.ly/gKKEAeb
+
+» [Les Numériques] Netflix : les programmes à ne pas manquer en juillet 2022. Deux salles, deux ambiances pour notre duo de curiosités du mois sur Netflix. D'un côté, une série adaptée de Resident Evil que l'on espère enfin réussie. De l'autre, Le Monstre des mers, un film d'animation pensé par un transfuge de Disney → https://cutt.ly/cKKRdIk
+
+raids : lesnumeriques -> (13:49) marmiton_officiel => (<14:32) Madmoizelle (terminé à 19:47)
+
+» le résumé de la quotidienne des Numériques, où tout le monde vous souhaite bon courage pour le rachat de Unify par ReWorld 🤞
+» Affaire Samsung TV : un test des Numériques montrait des problèmes sur une TV Samsung, mais cela vient peut-être d'un problème de protocole, mais le déménagement complique la vérification
+» collaboration Samsung et Starbucks, Lâm a flashé sur la recharge d'écouteurs en forme de tasse à café
+» Lâm s'est perdu sur des terminaux d'apparence futuristes, puis pour changer (non) sur des claviers
+» Rufus permet d'installer Windows 11 sur tous les PC et sans compte Microsoft
+» semi-conducteurs : Intel repousse la cérémonie de mise en chantier d'une usine pour faire pression sur le Congrès étatsunien ; Qualcomm devrait présenter le Snapdragon 8 Gen 2 en novembre lors de son Tech Summit ; présentation des nouveaux concepts de CPU et GPU Arm
+» téléphones : présentation ou test des (prends ta respiration) Samsung Galaxy A03, HTC Desire 22 Pro, Xiaomi 12S, Google Pixel 6a
+» Après 10 mois dans une rivière, un iPhone rendu fonctionnel à son propriétaire
+» voitures : Volkswagen ID. Aero, Hyundai Ioniq 6, Audi Q4 e-tron Sportback 40 (respire !) Citroën DS 7 E-Tense
+» Peugeot lance une gamme d’accessoires imprimés en 3D pour sa 308 ; l'Allemagne refuse l'interdition des voitures à moteur thermique après 2035 ; BMW veut continuer à proposer des boîtes manuelles
+» vélos : comment Shimano s'est adapté à la forte demande pour les composants de vélos ; Skarper propose un kit pour électrifier son vélo en tout simplicité
+» vélos : test de (n'essaye même pas de prononcer) Garmin Varia RTL515, Road-Light Clic-Light V2, Trek Verve+ 3 Lowstep, Xiaomi Electric Scooter 4 Pro
+» la marque de motos Norton Motorcycles se lance dans l'électrification
+» sujet Airbnb : New York a plus de Airbnb que d'appartements à louer ; Airbnb prévoit une nouvelle classe de locations de luxe ; Airbnb formalise l'interdiction des fêtes clandestines après une cinquième victime à San Francisco
+» la nouvelle gamme Inzone de Sony PlayStation, avec casque audio et moniteur PC
+» KomodoHype STEAM DECK : la production s'accélère
+
+
+--------------------------------------
+2022-07-01
+
+» [Les Numériques] Réfrigérateur, TV, console, box internet… Faut-il les débrancher pendant vos vacances ? Y a-t-il un véritable intérêt financier et écologique à débrancher systématiquement ses appareils électroniques quand on s'absente du domicile durant quelques jours ? Éléments de réponses → https://cutt.ly/vKMw7em
+» [Les Numériques] Affaire Samsung TV : le nouveau firmware corrige les problèmes. Dernier acte de l'affaire TV Mini-Led QN95B, avec un nouveau firmware qui résout les problèmes de pics lumineux rencontrés notamment par nos confrères de FlatpanelsHD. Le rideau tombe et les tests commencent → https://cutt.ly/3KMeNlI
+» [Les Numériques] Comment Huawei veut revenir sur le devant de la scène en Europe. Lourdement plombé par les sanctions américaines ces dernières années, Huawei n'entend pas abdiquer sur les marchés occidentaux. En Europe, le géant chinois lance de nouveaux smartphones, mais pas seulement... → https://cutt.ly/nKMrCuO
+
+» [Les Numériques] La Poste prévoit de lancer un timbre numérique en 2023. Dans un communiqué daté du 28 juin, La Poste annonce le lancement en 2023 d'un timbre numérique. Cette innovation s'inscrit dans un large plan d'investissement qui vise à moderniser les services numériques de l'opérateur de services postaux → https://cutt.ly/FKMtcr6
+» [Les Numériques] Test Bosch Tassimo My Way 2 : la simplicité, comme d'habitude → https://cutt.ly/8KMt4CW
+» [Les Numériques] Smart Air Purifier 4 : Xiaomi renouvelle timidement sa gamme de purificateurs d'air → https://cutt.ly/WKMyhTC
+» [Les Numériques] FreeBuds Pro 2 : Huawei s’acoquine avec Devialet pour ses nouveaux écouteurs à réduction de bruit active. Huawei et Devialet accouchent d’une nouvelle paire d’écouteurs true wireless à réduction de bruit active : les FreeBuds Pro 2. Si le design reste similaire aux premiers du nom, ils apportent leur lot de nouveautés, dont une architecture à double haut-parleur → https://cutt.ly/1KMybMb
+» [Les Numériques] Live Pro 2, Reflect Aero, Quantum TWS et Tune Flex : JBL annonce une tripotée de nouveaux écouteurs. JBL fait le plein de nouveaux écouteurs true wireless avec pas moins de quatre nouvelles références : Live Pro 2, Reflect Aero, Quantum TWS et Tune Flex. Ces derniers ont la particularité d’être utilisables aussi bien avec que sans embouts en silicone. → https://cutt.ly/JKMuoPo
+» [Les Numériques] PX7 S2 : le casque Bluetooth phare de Bowers & Wilkins évolue, mais timidement. C'est l’heure du renouvellement pour Bowers & Wilkins qui a présenté la toute nouvelle version de son casque de référence, le PX7 S2. Comme son nom le laissait suggérer, son rôle ne sera pas de bousculer la recette de son prédécesseur → https://cutt.ly/cKMukFv
+
+» [Bloomberg] Samsung is first to start mass production of 3-nanometer chips. Beats close competitor TSMC to next stage of chip fabrication. South Korean tech giant had promised 3nm in first half of 2022 → https://cutt.ly/CKMu76y
+» [AnandTech] TSMC to customers: it's time to stop using older nodes and move to 28nm → https://cutt.ly/bKMiPNc
+
+» [Les Numériques] Xiaomi 12S : un capteur photo d'un pouce pour la version Ultra. Après avoir révélé la date d'annonce, Xiaomi continue de teaser sa prochaine gamme de smartphones haut de gamme, les 12S. On apprend aujourd'hui que la version Ultra de la gamme sera équipée d'un capteur d'un pouce, le Sony IMX989 → https://cutt.ly/dKMop39
+» [Les Numériques] Test Poco F4 : un smartphone sans grand éclat malgré son bel écran → https://cutt.ly/lKMo4uz
+» [Les Numériques] Samsung modernise sa gamme de smartphones durcis avec le XCover 6 Pro. Samsung annonce le lancement en France de son XCover 6 Pro, un smartphone durci conçu avant tout pour les professionnels et dont la fiche technique s'avère soignée → https://cutt.ly/1KMpiBo
+» [Les Numériques] Pour Apple, Samsung a copié l'iPhone en mettant juste “un plus gros écran autour”. Certains cadres de chez Apple ont encore des comptes à demander à Samsung. Un récent reportage publié dans le Wall Street Journal montre un des cocréateurs de l'iPhone très remonté contre le constructeur sud-coréen → https://cutt.ly/uKMpJvj
+» [Les Numériques] Malgré la Covid, Foxconn veut faire tourner ses usines à plein régime pour l'iPhone 14. Foxconn espère rattraper son retard logistique dans la production d'iPhone en embauchant en masse de nouvelles forces vives dans ses usines de Shenzhen. L'entreprise, toujours gênée par le Covid, a connu des mois difficiles → https://cutt.ly/7KMaVVv
+
+» [Les Numériques] Le nouveau MacBook Pro M2 d'Apple rate le coche de la réparabilité. Le MacBook Pro M2 est plus similaire à son prédécesseur qu’on pourrait le croire. Le nouveau PC portable d’Apple emploie la même architecture que le modèle de 2020, et ce n’est pas une bonne nouvelle pour sa réparabilité → https://cutt.ly/1KMsxAw
+» [I Fix It] Réparez votre Google Pixel → https://cutt.ly/5KMd5eP
+
+» [Les Numériques] ONE RS 1-Inch 360 Edition : Insta360 propulse sa caméra 360° au niveau supérieur. Insta360 monte clairement en gamme en dotant de capteurs 1 pouce sa petite dernière, la caméra à 360° ONE RS 1-Inch 360 Edition. Polyvalente et modulable, cette nouveauté ne veut pas faire dans le compromis → https://cutt.ly/nKMfZvy
+
+» [Les Numériques] Nouvelles Citroën C4 X et ë-C4 X : celles que l’on n’attendait pas. La Citroën C4 se décline en une nouvelle version tricorps C4 X. Cette berline surélevée est disponible en moteur essence et diesel ou en version 100 % électrique ë-C4 X, comme la C4 classique → https://cutt.ly/QKMgk2K
+» [Les Numériques] MG dévoile la MG4, une nouvelle compacte 100 % électrique. MG dévoile une nouvelle compacte 100 % électrique, la MG4. Inaugurant la nouvelle plateforme MSP, elle sera dotée d'un moteur développant jusqu'à 204 ch alimenté par une batterie de 51 kWh ou de 64 kWh, et offrira entre 350 et 450 kilomètres d'autonomie WLTP → https://cutt.ly/kKMgIvs
+» [Korii] Chaise Longue, la start-up qui veut empiler les passagers d'avion sur deux couches. Bienvenue dans les «avions à impériale» (et bon courage aux claustrophobes) → https://cutt.ly/KKMg03n
+» [Fast Company] More leg room, less space to breathe: Meet the double-decker plane seat. Let’s not pretend that building a comfortable chair is all that challenging. The problem is the airline business model → https://cutt.ly/1KMhjZ9
+
+» [The Verge] Pokémon Go developer Niantic is rolling out its Campfire social network. It’ll support Pokémon Go to start → https://cutt.ly/4KMh6XG
+» [Les Numériques] ByteDance, la maison mère de TikTok, accélère dans le métavers avec une nouvelle acquisition. ByteDance met la main sur la start-up chinoise PoliQ, spécialisée dans la réalité virtuelle. Il s'agit d'une étape supplémentaire dans la construction de son métavers → https://cutt.ly/BKMjt7q
+» [Les Numériques] TikTok, Instagram… : 3 jeunes sur 4 ne font pas confiance aux influenceurs sur les réseaux sociaux. Avec TikTok, les codes de la consommation des plus jeunes ont totalement changé. Entre les influenceurs, les pubs sur les plateformes et le boom des vidéos pour présenter les produits, la génération Z est sans cesse confrontée au commerce en ligne → https://cutt.ly/hKMjgNW
+» [JAMA Network] Assessment of US hospital compliance with regulations for patients’ requests for medical records → https://cutt.ly/YKMj1tx
+» [Axios] Biden to warn FTC about abortion related data sharing → https://cutt.ly/PKMkwia
+» [The Verge] How to delete your period tracking app data. Deleting period apps might not protect you, but here’s everything you need to know → https://cutt.ly/EKMkWqR
+
+» [IGN] Sega is looking to adapt Atlus Games for live-action TV and movies - including Persona → https://cutt.ly/HKMk7nF
+» [Gamekult] Niantic annule 4 projets et se sépare de 90 employés → https://cutt.ly/bKMlIRH
+» [Gamekult] Toujours abonné aux pertes, Unity licencie 4% de ses effectifs, ce qui ferait plus de 200 personnes → https://cutt.ly/nKMlKxc
+» [Video Games Chronicles] Ron Gilbert will no longer post about Monkey Island due to ‘personal attacks’. “The joy of sharing has been driven from me” → https://cutt.ly/oKMl5qh
+
+raids : lesnumeriques => (13:39) marmiton_officiel => (14:58) IlaGameuse (20:28)
+
+» le résumé de la quotidienne des Numériques, dans les nouveaux studios des locaux TF1 auxquels il ne faut pas trop s'habituer
+» dossier : faut-il débrancher les équipements (frigo, TV, consoles, etc) pendant vos vacances ?
+» dossier : suite et fin de « l'affaire Samsung », le nouveau firmware corrige les problèmes de test
+» dossier : comment Huawei veut revenir sur le devant de la scène en Europe
+» La Poste prévoit de lancer un timbre numérique en 2023
+» casques et écouteurs : Huawei s’acoquine avec Devialet pour ses nouveaux écouteurs à réduction de bruit active FreeBuds Pro 2 ; JBL annonce une tripotée de nouveaux écouteurs ; Bowers & Wilkins a présenté la toute nouvelle version de son casque de référence, le PX7 S2
+» processeurs : Samsung pourrait être le premier fondeur à graver des puces en 3 nanomètres ; TSMC incite ses clients à migrer leurs vieux systèmes de 40nm vers 28nm
+» smartphones : Xiaomi annonce un capteur photo d'un pouce pour la version 12S Ultra ; Samsung annonce le XCover 6 Pro, un smartphone durci conçu pour les professionnels ; pour Apple, Samsung a copié l'iPhone en mettant juste "un plus gros écran autour" ; malgré la Covid, Foxconn veut faire tourner ses usines à plein régime pour l'iPhone 14 ; collaboration I Fix It pour pouvoir réparer tous les Google Pixel
+» ordinateurs : le nouveau MacBook Pro M2 d'Apple rate le coche de la réparabilité
+» voitures : Citroën C4 X et ë-C4 X ; MG4 (électrique)
+» avions : Chaise Longue, la start-up qui veut empiler les passagers d'avion sur deux couches (attention aux blagues de pets)
+» réseaux sociaux : Niantic, développeur de Pokémon Go, lance son réseau social Campfire ; ByteDance acquiert PoliQ pour développer son métavers ; 3 jeunes sur 4 ne font pas confiance aux influenceurs sur les réseaux sociaux
+» droit et vie privée : suite aux décisions de la Cours suprème américaine et à la régression des droits des femmes (avant de s'attaquer au reste), Biden demande à la FTC de surveiller les partages abusifs de données
+» jeux vidéo : Sega voudrait adapter les licences Atlus, dont Persona, en séries et films lives ; les 50 ans d'Atari ; Niantic annule 4 projets et se sépare de 90 employés ; Unity (pas Unify…) licencie 4% de ses effectifs, soit plus de 200 personnes ; Ron Gilbert ne va plus communiquer sur Monkey Island 3 suite aux insultes par des joueurs débiles
 
 
 
@@ -6406,10 +6546,6 @@ KomodoHype STEAM DECK
 SwiftRage 📢 Lâm ! on enchaîne !
 SwiftRage 📢 Lâm il est 13:00 🕐
 SwiftRage 📢 Lâm il est 13:30 🕜
-
-SwiftRage 📢 Crono ! on enchaîne !
-SwiftRage 📢 Crono il est 13:00 🕐
-SwiftRage 📢 Crono il est 13:30 🕜
 
 Message à caractère informatif - Excellent produit -- https://www.youtube.com/watch?v=-NzxJGvZzeQ
 
