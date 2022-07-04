@@ -6522,6 +6522,56 @@ raids : lesnumeriques => (13:39) marmiton_officiel => (14:58) IlaGameuse (20:28)
 » jeux vidéo : Sega voudrait adapter les licences Atlus, dont Persona, en séries et films lives ; les 50 ans d'Atari ; Niantic annule 4 projets et se sépare de 90 employés ; Unity (pas Unify…) licencie 4% de ses effectifs, soit plus de 200 personnes ; Ron Gilbert ne va plus communiquer sur Monkey Island 3 suite aux insultes par des joueurs débiles
 
 
+--------------------------------------
+2022-07-04
+
+» [Les Numériques] Les écouteurs true wireless Sony WF-1000XM4 sortent vainqueurs de leur duel avec les AirPods Pro. C'est un duel de titans qui a opposé les AirPods Pro d'Apple aux WF-1000XM4 de Sony dans le domaine des écouteurs sans-fil. Et contre tous les a priori, Sony a même remporté son combat. → https://cutt.ly/7K7gH3m
+» [Les Numériques] TV Sony : une mise à jour pour améliorer la prise en charge du VRR sur les téléviseurs Full Led. Sony vient de publier une mise à jour importante pour ses téléviseurs LCD LED "Perfect for PlayStation 5" de 2021 et 2022 améliorant la prise en charge du Variable Refresh Rate (VRR) en autorisant le fonctionnement du système de local dimming (rétroéclairage par zones). → https://cutt.ly/hK7g88g
+» [Bloomberg] The iPhone is taking a back seat to the Mac in chip upgrades → https://cutt.ly/kK7hh5A
+
+» [White House] President Biden announces recipients of the Presidential Medal of Freedom → https://cutt.ly/OK7jECq
+
+» [Les Numériques] MateBook 16s & MateBook D16 : Huawei fait le plein de performances sur ses PC portables. Après un MateBook 16 déjà très performant, Huawei renouvelle l'expérience avec le 16s et un processeur Intel Core i7 encore plus rapide. Il sera accompagné du D16, modèle bien plus abordable. → https://cutt.ly/nK7jKr0
+» [Les Numériques] Test Huawei MateBook 16s : un PC portable 16 pouces qui frôle l'excellence → https://cutt.ly/2K7koJa
+» [Les Numériques] La fondation Raspberry présente son Pico W, un microcontrôleur parfait pour l'IoT. Et si vous construisiez vous-même votre installation domotique ? C'est désormais possible grâce au Raspberry Pico W, un microcontrôleur doté de connectivité wifi produit par la célèbre fondation Raspberry. → https://cutt.ly/HK7kl45
+» [gov.br - Agência Nacional de Telecomunicações] Aberta consulta pública para padronização de carregadores de celular → https://cutt.ly/CK7lrnN
+» [Les Numériques] Test Amazon Eero Pro 6E, une mise à jour pour la forme avec wifi 6E et port 2,5G → https://cutt.ly/uK7l9RZ
+» [Les Numériques] Transcend annonce l'ESD380C, un SSD portable super rapide et résistant. Le nouveau SSD portable de Transcend, répondant au doux nom d'ESD380C, promet des débits ultra rapides de 2000 Mo/s et un boîtier en aluminium résistant aux chocs. → https://cutt.ly/ZK7zrP8
+
+» [Les Numériques] Test Realme GT Neo 3T : un marathonien du milieu de gamme → https://cutt.ly/mK7zjc5
+» [Les Numériques] Test Poco X4 GT : un smartphone tout en puissance → https://cutt.ly/BK7zYnw
+» [Wired] The best phones with an actual headphone jack. Audio jacks are endangered, but they’re not gone. Here are some of our favorite smartphones that still let you plug in. → https://cutt.ly/pK7xswN
+résultats du sondage la prise jack est-elle importante pour vous : oui 66% / non 31 %
+
+» [CNET France] Cinq solutions pour protéger son smartphone sur la plage. Tout le monde n’a pas la chance d’avoir un smartphone certifié IP67 ou IP68 et même dans ce cas là, la plage n’est pas l’ami de votre mobile. Voici 5 solutions pour protéger votre bien numérique le plus précieux des agressions du sable et de l’eau salée → https://cutt.ly/OK7xLbl
+» [WinFuture] Nothing Phone (1): Preis des neuen Smartphones des OnePlus-Gründers → https://cutt.ly/LK7cIty
+» [Reddit] Gboard split keyboard! (beta) → https://cutt.ly/PK7vfYr
+
+» [Les Numériques] Test Mobvoi TicWatch Pro 3 Ultra GPS : un bel écrin entaché de soucis logiciels → https://cutt.ly/aK7vbwm
+» [The Verge] Razer’s Kishi V2 is an improved yet even more imperfect controller. It’s a Backbone clone with little soul of its own → https://cutt.ly/eK7bvq2
+» [The Verge] The Backbone One is a stunning controller that turns your iPhone into a more capable gaming device. Complete with software features that make it easy to join parties, record, and share video clips → https://cutt.ly/UK7bWMA
+» [YouTube] so long nerds → https://www.youtube.com/watch?v=DPMluEVUqS0
+
+» [Les Numériques] Test Eovolt Afternoon : un vélo électrique pliant qui vise le confort → https://cutt.ly/aK7mltT
+» [Les Numériques] Test Overade Plixi Fit : un casque pliable pratique, mais peu sécurisant → https://cutt.ly/OK7mN0X
+» [Wired] The best electric cargo bikes for families. We’ve spent years riding and testing extra-large ebikes for hauling little ones and groceries around town. → https://cutt.ly/UK7QzJ3
+
+» [Les Numériques] Test Nissan Juke Tekna Hybrid : un SUV citadin qui fait attention à sa consommation → https://cutt.ly/EK7W5Y6
+» [Les Numériques] Test Dacia Duster Confort TCe 130 : une solution contre la flambée des prix des carburants ? → https://cutt.ly/XK7Ea3L
+» [Reddit] Bunch of Cruise cars stuck on Gough by Robin → https://cutt.ly/9K7EDbH
+» [The Verge] Driverless Cruise robotaxis stop working simultaneously, blocking San Francisco street. The driverless roadblock reportedly lasted for several hours → https://cutt.ly/MK7EBrb
+» [SF IST] Flock of GM Cruise self-driving cars just plain stop working, block Gough street ‘for a couple of hours’. The latest self-driving car mishap comes courtesy of a cluster of GM Cruise driverless taxis that simply stopped in their tracks “for a couple of hours” Wednesday night and had to be manually pushed off the street by GM employees → https://cutt.ly/uK7Re3A
+» [YouTube] Meet Proteus, Amazon’s New Autonomous Robot | Mashable → https://cutt.ly/zK7RLzf
+
+» [VICE Motherboard] TikTok users are doxing the Supreme Court. Since the overturn of Roe v. Wade, users have posted videos with the addresses and alleged credit card information of Conservative justices → https://cutt.ly/zK7TIYQ
+» [VICE Motherboard] Facebook is banning people who say they will mail abortion pills. A Facebook user and Motherboard both faced consequences for posting about mailing abortion pills on Facebook on the same day the Supreme Court overturned protections offered by Roe v. Wade. → https://cutt.ly/LK7T2uA
+» [Ars Technica] Until demand drops, Amazon limiting Plan B purchases to 3 per week. Some “morning-after pill” brands are available in larger quantities than others → https://cutt.ly/mK7Yszp
+» [Engadget] Amazon blocks listings for LGBTQ+ products in the United Arab Emirates. The Emirati government reportedly demanded their removal under threat of penalties. → https://cutt.ly/xK7UtcE
+
+raids : lesnumeriques => (13:37) zacknani
+
+
+
 
 » [Les Numériques] 
 » [Gamekult] 
