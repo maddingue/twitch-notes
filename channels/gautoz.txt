@@ -12439,6 +12439,12 @@ raids : Gautoz => (16:0x) SimonHuttT => ugo_petulla => Acrassan => (20:03) Kinme
 raids : At0mium => CanardPC => (14:26) Gautoz => (16:40) Nico_Oni => (<18:14) MrDeriv (terminé à 00:11)
 
 
+--------------------------------------
+2022-07-10
+
+raids : Gautoz => (23:33) Shisheyu_Mayamoto
+
+
 
 
 
