@@ -12442,7 +12442,34 @@ raids : At0mium => CanardPC => (14:26) Gautoz => (16:40) Nico_Oni => (<18:14) Mr
 --------------------------------------
 2022-07-10
 
-raids : Gautoz => (23:33) Shisheyu_Mayamoto
+raids : Gautoz => (23:33) Shisheyu_Mayamoto (terminé à 02:24)
+
+
+--------------------------------------
+2022-07-11
+
+» 🇬🇧 [VGC] Major Heroes of the Storm development is officially ending. Blizzard says it will focus on rotations and bug fixes in future, as the game approaches its 7th anniversary → https://cutt.ly/ULzNZrZ
+
+» 🇺🇸 [Los Angeles Times] Blizzard’s new boss wants to have fun with games. But first, his company is in a crisis → https://cutt.ly/kLz3aNG
+
+» [HRC] Discrimination is bad for business → https://cutt.ly/gLz8Ea0
+
+» 🇫🇷 [Gamekult] Respawn recrute pour un FPS solo dans l'univers d'Apex Legends → https://cutt.ly/OLzNji5
+» 🇬🇧 [VGC] Respawn is recruiting for a single-player FPS set in the Apex Legends universe. Job ads describe the title as “a brand new Respawn single-player adventure” → https://cutt.ly/6LzNIPj
+
+» 🇬🇧 [BBC] Shinzo Abe: Japan ex-leader assassinated while giving speech → https://cutt.ly/MLz4pOb
+» 🇬🇧 [VGC] Legal action threatened as Hideo Kojima falsely linked to Shinzo Abe assassination. A French politician and at least two news outlets spread the false connection this week → https://cutt.ly/MLzNFqa
+» 🇺🇸 [Games Industry] Kojima Productions warns of legal action as Hideo Kojima misidentified as former Japanese prime minister's assassin. Death Stranding studio “strongly condemns the spread of fake news” and “does not tolerate such libel” → https://cutt.ly/BLz1qVz
+
+» 🇺🇸 [SteamDB] top 10 des ventes sur Steam de la semaine dernière → https://steamdb.info/topsellers/
+
+» 🇫🇷 [Gamekult] It Takes Two a passé le cap des 7 millions de ventes → https://cutt.ly/bLzNzfk
+
+» 🇬🇧 [VGC] Assassin’s Creed Liberation’s Steam page suggests it will soon be unplayable – even for owners. Update: Ubisoft tells VGC “we don’t take the decision to retire services for older games lightly” → https://cutt.ly/xLz5WXn
+
+» 🇺🇸 [Games Industry] Jade Raymond's Haven Studio is already inspiring other PlayStation studios - and not just with its game. The games veteran discusses building a studio in the cloud, and working with PlayStation architect Mark Cerny → https://cutt.ly/XLz633T
+
+raids : Gautoz => (15:55) Nico_Oni => JulesRenie => (20:18) Flonflon_musique => (<21:32) HortyUnderscore => (00:13) DrFeelgood (terminé à 01:28)
 
 
 
