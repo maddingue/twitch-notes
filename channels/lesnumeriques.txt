@@ -6810,10 +6810,9 @@ raids : lesnumeriques => (13:44) BoulangerieRestecp => pepipin => Maghla (termin
 » [Les Numériques] Nintendo rachète un studio d'animation et pourrait multiplier les futures adaptations de ses licences. Nintendo va racheter le studio d'animation Dynamo Pictures. L'objectif est clair : multiplier les adaptations de ses nombreuses franchises vidéoludiques sur petit et grand écran, dans le sillage de Detective Pikachu et du prochain film Mario → https://cutt.ly/kLNqPgo
 » [Les Numériques] Canal+ annule la série OVNI(s) → https://cutt.ly/vLNq24r
 » [Les Numériques] Netflix : la série Snowpiercer est annulée → https://cutt.ly/ILNwyww
-» [Les Numériques] 
 
 
-raids : lesnumeriques => (13:45) marmiton_officiel => (14:52) BoulangerieRestecp => (<17:20) Chocolatier_PaulGarderes => chef_jm => (19:13) DocChaFatLife => (<21:44) Clothho (→01:25) => (<02:00) WyvernBand (…02:40)
+raids : lesnumeriques => (13:45) marmiton_officiel => (14:52) BoulangerieRestecp => (<17:20) Chocolatier_PaulGarderes => chef_jm => (19:13) DocChaFatLife => (<21:44) Clothho (→01:25) => (<02:00) WyvernBand (…02:40) => Echo_Locations => datsunnmusic => (06:44) yorubasoultv (terminé à 08:10)
 
 » le résumé de la quotidienne des Numériques
 » pour nos amis les ultra-riches : un téléviseur avec dalle pliante Micro LED à 180 000 €
@@ -6833,6 +6832,49 @@ raids : lesnumeriques => (13:45) marmiton_officiel => (14:52) BoulangerieRestecp
 » Canal+ et OCS vont augmenter, en raison d'une augmentation de TVA ; Médiamétrie veut mesurer les audiences de Netflix, Disney+ et compagnie
 » Gen V, le prochain spin-off de The Boys, se dévoile ; les séries OVNI(s) (Canal+) et Snowpiercer (Netflix) sont annulées
 » Nintendo rachète un studio d'animation et pourrait multiplier les futures adaptations de ses licences
+
+
+--------------------------------------
+2022-07-21
+
+» [NBC News] A top European carmaker suggests the global chip shortage is easing → https://cutt.ly/ZL0A9sf
+» [Les Numériques] Essai Kia EV6 : le Tesla Model Y en ligne de mire. Kia lance son premier modèle électrique sur plateforme dédiée. Le crossover EV6 est mieux équipé que jamais pour affronter Tesla et son Model Y, notamment grâce à son autonomie maximale de 528 km → https://cutt.ly/jL0SgbS
+» [electrek] Hyundai plans a new small electric car for less than $20,000 → https://cutt.ly/5L0SDzY
+» [TechCrunch] Security flaws in a popular GPS tracker are exposing a million vehicle locations → https://cutt.ly/lL0S98y
+
+» [Les Numériques] Twitch lance la bêta de "Charity", une fonctionnalité pour réaliser des streams caritatifs. Régulièrement lancées par des streamers, les collectes de dons pour les associations sont souvent laborieuses et manquent parfois de clarté. Avec "Charity", la tâche sera simplifiée pour les créateurs de contenus et les spectateurs → https://cutt.ly/yL0D0NQ
+» [Les Numériques] Microsoft lance un cloud "souverain" pour séduire les gouvernements. Microsoft a annoncé le lancement d’un cloud public pour les gouvernements et ses clients du secteur public. La firme se positionne sur un marché mondial du cloud gouvernemental estimé à 71,2 milliards de dollars d’ici à 2027 → https://cutt.ly/tL0Ff1i
+» [Les Numériques] Une entreprise nommée Meta poursuit l'ex-Facebook en justice pour s'être rebaptisé Meta. Une entreprise américaine baptisée Meta a déposé une plainte contre le géant Meta (ex-Facebook). Elle reproche à la société de Mark Zuckerberg d'avoir nuit à ses activités → https://cutt.ly/eL0F8eq
+» [Gizmodo] Zuckerberg and Sandberg ordered to testify over alleged involvement in Cambridge Analytica scandal. The two will provide six and five hours of testimony respectively, more than half a decade after the scandal first became public → https://cutt.ly/WL0GVEx
+» [Les Numériques] Didi, le géant chinois du VTC, sous la menace d'une amende de 1 milliard de dollars. Didi, le géant chinois du VTC, va être condamné à verser plus de 1 milliard de dollars à Pékin suite à une enquête sur la gestion des données personnelles. En s'acquittant de cette amende, il verrait ses restrictions levées → https://cutt.ly/rL0HkCg
+» [Les Numériques] La Commission européenne attaquée devant la justice de l’UE pour ne pas avoir respecté ses propres règles de protection des données. La Commission européenne est au cœur d’une action en justice en raison de transferts illégaux de données entre l'Europe et les États-Unis. Le tribunal de l’Union européenne devra traiter ce dossier, avec un verdict attendu d’ici 12 à 18 mois → https://cutt.ly/vL0H5Zc
+» [Tech in Asia] This dick pic-powered app from Singapore can scan users for potential STDs. AI-powered platform HeHealth has launched an app that can detect whether users have sexually transmitted diseases (STD) with just a dick pic → https://cutt.ly/PL0J4RE
+
+» [Forbes] Buzz Aldrin’s Apollo 11 ‘Moon Jacket’ With An NFT Could Fetch $2 Million, Says Sotheby’s → https://cutt.ly/jL0Ka7P
+» [Washington Post] NASA sets launch dates for its return to the moon. The first flight of its Orion capsule, without crew onboard, is set for late August or early September → https://www.washingtonpost.com/technology/2022/07/20/nasa-artenis-sls-orion-launch-dates/
+» [business Insider] NASA awards SpaceX a $255 million contract to launch the next space telescope, which will study dark energy and exoplanets → https://cutt.ly/DL0LaTJ
+» [MixMag] The Chainsmokers are to be the first musicians to perform on the edge of space → https://cutt.ly/eL0LXC2
+
+» [Drone DJ] UK government approves 165-mile drone superhighway project → https://cutt.ly/YL0ZmX2
+» [Business Insider] Boom Supersonic has unveiled the latest design for its ultra-fast airliner that will be able to fly from New York to London in 3.5 hours — see the new Overture → https://cutt.ly/bL0XnvL
+
+» [interesting Engineering] Scientists can now grow wood in a lab without cutting a single tree → https://cutt.ly/jL0CgUK
+» [Nanowerk] Toward manufacturing semitransparent solar cells the size of windows → https://cutt.ly/mL0C8wI
+» [Nanowerk] iTEARS could help diagnose diseases by isolating biomarkers in tears → https://cutt.ly/BL0VhoY
+» [Nanowerk] Bacteria-based biohybrid microrobots on a mission to one day battle cancer → https://cutt.ly/rL0VK55
+
+» [Les Numériques] Nearphones : JVC lance de nouveaux écouteurs pour rester conscient de son environnement. S’inspirant du concept des LinkBuds de Sony, JVC lance les Nearphones, des écouteurs true wireless au format ouvert qui permettent d’écouter de la musique tout en restant conscient de son environnement → https://cutt.ly/RL0BgDC
+» [NotebookCheck] Paris Rhône 4K laser ultra-short throw projector with up to 150-in image launches on Indiegogo → https://cutt.ly/jL0BVYK
+
+» [Les Numériques] Pour éviter toute rupture de composants pour son S22 Ultra, Samsung ferait l’impasse sur le Galaxy S22 FE. Samsung nous a habitués à sortir une version "Fan Edition" de ses smartphones haut de gamme depuis plusieurs années, mais le géant sud-coréen pourrait faire l’impasse sur ce modèle en 2022 → https://cutt.ly/qL0NvRK
+» [electrek] Paris traffic is so bad, Vässla is switching to e-cargo bikes to deliver its electric mopeds → https://cutt.ly/FL0N8JN
+» [Les Numériques] Test Sac photo Manfrotto Advanced Fast III : le sac multi-utilisation → https://cutt.ly/vL0MEnS
+
+» [NotebookCheck] Intel accused of failing to "compete with the 3070 Ti or 3070" as it denies Arc Alchemist A780 ever existed → https://cutt.ly/dL01yLY
+» [NotebookCheck] Some MacBook Air M2 reviewers warn about easily scratchable Midnight color variant → https://cutt.ly/xL012bD
+» [Les Numériques] Test Apple MacBook Air M2 : plus beau, plus rapide et toujours aussi silencieux → https://cutt.ly/UL00WtK
+
+- [Les Numériques] Test Framework : un PC portable qui mise beaucoup sur la modularité et l'évolutivité → https://cutt.ly/GL04jB7
 
 
 
