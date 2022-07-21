@@ -6755,6 +6755,86 @@ raids : lesnumeriques => (13:35) marmiton_officiel => enaolf => (15:57) MisterDw
 raids : lesnumeriques => (13:44) BoulangerieRestecp => pepipin => Maghla (terminé à 21:05)
 
 
+--------------------------------------
+2022-07-20
+
+» [Les Numériques] Labo – Corsair Xeneon 32UHD144 : un mode HDR assez bien calibré. Le nouvel écran Corsair Xeneon 32UHD144 — le premier modèle Ultra HD du fabricant californien — est déjà passé dans notre laboratoire. L'occasion de voir quelles sont les capacités de ce moniteur en HDR → https://cutt.ly/sLBPq2d
+» [CNET France] C SEED N1 : un téléviseur digne d'une oeuvre d'art à 180 000€. Une dalle pliante Micro LED pour ce téléviseur à six chiffres… → https://cutt.ly/ULBPKYB
+» [Les Numériques] Test SteelSeries Arctis Nova Pro Wireless : un casque gaming sans-fil qui sait tout faire → https://cutt.ly/cLBAMpx
+
+» [Les Numériques] Apple Music propose maintenant des sessions live en audio spatial. Apple s'inspire de Spotify en lançant des Live Sessions sur Apple Music. Elle permettront d'écouter des enregistrements exclusifs à la plateforme, mais aussi de profiter des vidéos et de l'audio spatial → https://cutt.ly/ELBSZnR
+
+» [Les Numériques] Bosch va investir 3 milliards d'euros dans le développement de puces électroniques en Europe. L'équipementier automobile allemand Bosch va effectuer le plus gros investissement de son histoire pour rendre l'Europe compétitive sur le marché des semi-conducteurs. → https://cutt.ly/BLBDPFv
+» [Qualcomm] Qualcomm launches Snapdragon W5+ and W5 platforms for next generation wearables: our most advanced leap yet → https://cutt.ly/KLBFYj8
+» [Qualcomm] Snapdragon W5+ Gen 1 wearable platform. Purpose-built for next generation wearables to deliver dramatic improvements in power, performance, and size → https://cutt.ly/RLBGwKm
+
+» [Asahi Linux] M2 is here! July 2022 release & progress report → https://cutt.ly/OLBGLHS
+» [Les Numériques] Les premiers PC portables équipés de GPU Intel Arc débarquent en France à plus de 2 000 €. Intel avait annoncé l’arrivée des PC portables équipés de ses GPU Arc au deuxième trimestre, à partir de 800 €. Ils viennent de débarquer sur les étals sur des modèles à plus de 2 000 €. → https://cutt.ly/3LBHRAw
+» [LaptopMag] Alienware introduces industry-first 480Hz displays — coming to new m17 R5 and x17 R2 gaming laptops → https://cutt.ly/NLBJgnm
+
+» [Reuters] Apple reaches $50 mln settlement over defective MacBook keyboards → https://cutt.ly/TLBKeqp
+
+» [Les Numériques] Oppo officialise ses Reno 8 et Reno 8 Pro, deux smartphones boostés au Dimensity. Six mois après l'annonce des Find X, Oppo officialise la 8e génération de ses smartphones Reno sur le marché chinois. Une série qui fait la part belle à MediaTek et ses puces Dimensity. → https://cutt.ly/eLBZnZu
+» [Les Numériques] Un étrange prototype de Microsoft Surface Duo 2 "Lite" apparaît sur eBay. Microsoft aurait envisagé un bref instant de commercialiser une version milieu de gamme de son Surface Duo 2, le téléphone à double écran sorti l'année dernière. Mais si le projet a été abandonné, un prototype s'est retrouvé sur eBay → https://cutt.ly/QLBXxHl
+» [The Verge] Microsoft’s weird Surface Duo 2 has surprisingly become my favorite device of the year. At least nine software updates and a sizable price cut have transformed Microsoft’s dual-screen phone → https://cutt.ly/iLBXD8p
+» [Les Numériques] Test Nothing Phone (1) : un outsider qui frappe fort → https://cutt.ly/qLBXZoX
+» [Les Numériques] Unpacked 2022 : rendez-vous le 10 août pour la présentation des nouveautés Samsung. Samsung a dévoilé la date de son prochain événement Unpacked, logiquement dédié à ses smartphones pliants – les Galaxy Z Flip 4 et Z Fold 4. Ce sera donc, comme à son habitude, pour la mi-août → https://cutt.ly/CLBCahS
+» [91mobiles] First official Galaxy Z Fold4, Z Flip4 press shots → https://cutt.ly/SLBCKly
+» [Samsung] Our biggest reserve offer ever. Get up to $200 Samsung Credit to use during pre-order → https://cutt.ly/vLBC7b2
+» [Les Numériques] Le Nothing Phone (1) publie une partie de son code source pour encourager les bidouilles. Nothing se positionne comme une marque plutôt bienveillante avec la communauté. En publiant une partie du code source de son smartphone avant sa sortie, le fabricant offre à quiconque la possibilité de bidouiller l'appareil → https://cutt.ly/MLBVpSO
+
+» [Google] Building and testing helpful AR experiences → https://cutt.ly/YLBBa0G
+» [Business Wire] Synchron Announces First Human U.S. Brain-Computer Interface Implant → https://cutt.ly/ILBNboi
+
+» [Les Numériques] Brompton présente un nouveau vélo électrique pliant encore plus léger. Brompton, célèbre pour ses vélos pliants, a dévoilé une nouvelle version de son modèle électrique. L'Electric P Line bénéficie d'un cadre arrière en titane et de composants qui lui permettent de gagner en légèreté → https://cutt.ly/1LBNYU1
+
+» [Les Numériques] Bientôt la fin du parcours du combattant pour résilier son contrat téléphonique ? Pour lutter contre des formalités de résiliation de contrat souvent trop compliquées, le gouvernement souhaite faciliter le désabonnement avec un bouton "accessible en trois clics" → https://cutt.ly/9LBMaRa
+» [Les Numériques] Elon Musk perd une première bataille face à Twitter : le procès aura lieu en octobre. Le camp d'Elon Musk a réagi à la plainte déposée par Twitter, estimant que le réseau social exigeait un "procès déraisonnablement rapide". Les avocats du milliardaire souhaitent repousser la procédure au 13 février 2023 → https://cutt.ly/bLBMLqk
+» Meta → https://meta.is/
+» [Wired] Instagram slow to tackle bots targeting Iranian women’s groups. Despite alerting Meta months ago, Iranian women’s rights groups say tens of thousands of fake accounts continue to bombard them on Instagram → https://cutt.ly/oLB1Amm
+» [Les Numériques] Quand la voix s'invite sur les apps de rencontre. Marre de ces applications de rencontre qui mettent en avant le physique et le superficiel ? Fini de swiper à gauche ou à droite des photos de profil par centaines, les applications se réinventent grâce à la voix → https://cutt.ly/JLB1H20
+» [Les Numériques] Vos données supprimées ne le seraient pas vraiment : un ancien employé porte plainte contre Facebook. Un ancien employé de Facebook a porté plainte contre la firme. Selon lui, les données supprimées de la plateforme ne le seraient pas vraiment : les employés pourraient utiliser un protocole spécial afin de les "ressusciter" → https://cutt.ly/PLB0yFE
+» [Les Numériques] Amazon admet avoir fourni les données de ses sonnettes Ring à la police, sans le consentement des utilisateurs. Les données de sonnettes connectées Ring ont été collectées et utilisées par les forces de l'ordre, aux États-Unis, à onze reprises depuis le début de l'année 2022. Et certains législateurs s'en inquiètent → https://cutt.ly/pLB0htg
+» [Les Numériques] France Identité : l'application d'identité numérique du gouvernement entame sa phase de test. L'application France Identité est de sortie. À terme, en lien avec la carte nationale d'identité biométrique, celle-ci permettra de s'identifier en ligne et de prouver son identité pour diverses démarches → https://cutt.ly/3LB0Hr6
+
+» [Gamekult] Loin de ronronner, Stray éclipse déjà tous les autres jeux Annapurna → https://cutt.ly/rLB2vzA
+
+» [Les Numériques] Netflix continue de perdre des abonnés (mais moins que prévu). Ces trois derniers mois, Netflix a perdu 970 000 abonnés. Une chute historique mais moins importante que prévu. Pour se relever, la plateforme rachète le studio d'animation derrière La Grande Aventure Lego et prépare son offre avec pubs pour début 2023. → https://cutt.ly/qLB9L6p
+» [Les Numériques] Pourquoi Netflix a choisi Microsoft comme partenaire publicitaire. Après plusieurs semaines de négociations, c'est finalement Microsoft que Netflix a choisi pour son lancement dans la publicité, prévu en fin d'année. Un choix qui peut surprendre de prime abord, mais qui s'explique par plusieurs paramètres → https://cutt.ly/ELB8xJZ
+» [Les Numériques] Comment Netflix veut vous empêcher de partager gratuitement votre compte. Netflix étend son expérimentation de lutte contre le partage de comptes dans cinq pays d'Amérique latine. L'occasion d'en apprendre un peu plus sur les armes que compte employer la plateforme pour endiguer le phénomène → https://cutt.ly/cLB4IbQ
+» [Les Numériques] Warner stoppe le déploiement d'HBO Max, y compris en France. Coupé dans son élan, HBO Max ne posera finalement pas ses valises en France. À la place, nous devrions avoir droit à une autre plateforme, issue de la fusion entre le service d'HBO et celui de Discovery, nouveau propriétaire de sa maison mère, Warner → https://cutt.ly/xLB5VfC
+» [Les Numériques] Canal+ va augmenter les tarifs pour certains de ses abonnés. En raison d'une augmentation de la TVA, Canal+ va accroître le prix de l'abonnement de certains de ses clients. Les abonnés engagés pour un ou deux ans ne devraient pas être concernés, contrairement aux nouveaux venus → https://cutt.ly/XLB6GHo
+» [Les Numériques] Les tarifs d'OCS vont eux aussi augmenter. En raison d'une augmentation de TVA qui a également touché Canal+ récemment, les deux formules d'abonnement à OCS vont augmenter de 1 €, passant à 10,99 et 12,99 € mensuels → https://cutt.ly/qLB6Elu
+» [Les Numériques] Médiamétrie veut mesurer les audiences de Netflix, Disney+ et compagnie. Le patron de Médiamétrie proteste contre les audiences automesurées des plateformes de SVoD — quand elles sont comptabilisées. L'institut compte estimer lui-même les visionnages des contenus d'ici à deux ans, avec ou sans l'aval des plateformes → https://cutt.ly/ELB62cs
+» [Les Numériques] Amazon Prime Video : Gen V, le prochain spin-off de The Boys, se dévoile. On en sait un peu plus sur Gen V, la série dérivée de The Boys sur Prime Video. Au programme : du sang, du sexe et des super-héros en herbe rassemblés dans une académie où seuls les meilleurs peuvent espérer décrocher une carrière → https://cutt.ly/oLNqpUa
+» [Les Numériques] Nintendo rachète un studio d'animation et pourrait multiplier les futures adaptations de ses licences. Nintendo va racheter le studio d'animation Dynamo Pictures. L'objectif est clair : multiplier les adaptations de ses nombreuses franchises vidéoludiques sur petit et grand écran, dans le sillage de Detective Pikachu et du prochain film Mario → https://cutt.ly/kLNqPgo
+» [Les Numériques] Canal+ annule la série OVNI(s) → https://cutt.ly/vLNq24r
+» [Les Numériques] Netflix : la série Snowpiercer est annulée → https://cutt.ly/ILNwyww
+» [Les Numériques] 
+
+
+raids : lesnumeriques => (13:45) marmiton_officiel => (14:52) BoulangerieRestecp => (<17:20) Chocolatier_PaulGarderes => chef_jm => (19:13) DocChaFatLife => (<21:44) Clothho (→01:25) => (<02:00) WyvernBand (…02:40)
+
+» le résumé de la quotidienne des Numériques
+» pour nos amis les ultra-riches : un téléviseur avec dalle pliante Micro LED à 180 000 €
+» musique : Apple Music propose maintenant des sessions live en audio spatial
+» industrie électronique : Bosch va investir 3 milliards d'euros dans le développement de puces électroniques en Europe ; Qualcomm lance les Snapdragon W5+ et W5 pour de futures appareils à porter
+» ordinateurs portables : Linux disponible sur Mac M2 avec Asahi Linux ; les premiers PC portables équipés de GPU Intel Arc débarquent en France plus chers que prévu, à plus de 2 000 € ; Alienware propose un écran pour ordinateur portable à 480 Hz
+» smartphones : Oppo annonce les Reno 8 et 8 Pro ; Samsung a dévoilé la date de son prochain événement Unpacked, logiquement dédié à ses smartphones pliants ; Nothing Phone (1) publie une partie de son code source pour encourager les bidouilles
+» le futur : Synchron annonce le premier implant d'interface entre cerveau et ordinateur
+» vélos : Brompton présente un nouveau vélo électrique pliant encore plus léger
+» société : bientôt la fin du parcours du combattant pour résilier son contrat téléphonique ? France Identité, l'application d'identité numérique du gouvernement entame sa phase de test
+» réseaux sociaux : Elon Musk perd une première bataille face à Twitter, le procès aura lieu en octobre ; Instagram est lent à régir face aux attaques de bots ciblant les groupes de femmes iraniennes ; Amazon admet avoir fourni les données de ses sonnettes Ring à la police, sans le consentement des utilisateurs 
+» jeux vidéo : le jeu montpelliérain de chat Stray rencontre un joli succès CoolCat
+
+» point séries et SVOD avec Bastien
+» Netflix continue de perdre des abonnés, mais moins que prévu ; Netflix franchit le cap des 10 millions d’abonnés en France ; comment Netflix veut vous empêcher de partager gratuitement votre compte
+» Amazon Prime change d'apparence, devient plus clair ; Warner stoppe le déploiement d'HBO Max, en attendant la fusion avec Discovery
+» Canal+ et OCS vont augmenter, en raison d'une augmentation de TVA ; Médiamétrie veut mesurer les audiences de Netflix, Disney+ et compagnie
+» Gen V, le prochain spin-off de The Boys, se dévoile ; les séries OVNI(s) (Canal+) et Snowpiercer (Netflix) sont annulées
+» Nintendo rachète un studio d'animation et pourrait multiplier les futures adaptations de ses licences
+
+
 
 
 » [Les Numériques] 
