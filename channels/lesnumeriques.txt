@@ -6877,6 +6877,73 @@ raids : lesnumeriques => (13:45) marmiton_officiel => (14:52) BoulangerieRestecp
 - [Les Numériques] Test Framework : un PC portable qui mise beaucoup sur la modularité et l'évolutivité → https://cutt.ly/GL04jB7
 
 
+--------------------------------------
+2022-07-22
+
+» [Engadget] What we bought: Engadget’s favorite backpacks. For school, work and everything in between, these bags are the ones we trust to hold our stuff → https://cutt.ly/5L8fQZH
+
+» [AnandTech] TSMC and ASML: demand for chips remains strong, but getting fab tools is hard → https://cutt.ly/UL8fCKw
+» [Canonical] Dell XPS 13 Plus developer edition now certified with Ubuntu 22.04 LTS → https://cutt.ly/dL8grgK
+» [Les Numériques] Dell complète sa série G avec le G16, un PC portable 16 pouces pour joueurs. Dell étoffe sa gamme de PC portables gaming – la série G – avec un châssis de 16 pouces doté d’une dalle QHD pouvant atteindre 165 Hz. Sous le capot, les derniers processeurs Intel et une GeForce RTX 3070 Ti dans le meilleur des cas → https://cutt.ly/VL8gl51
+» [iFixIt] M2 MacBook Air Teardown: Apple Forgot the Heatsink? → https://cutt.ly/eL8g03G
+» [Les Numériques] Labo - On a mis à jour le PC portable Framework Laptop avec un Core i7 de 12e génération. Le PC portable personnalisable et évolutif de Framework subit sa première mise à jour avec l'arrivée d’un processeur Intel de 12e génération. Pour l’occasion, nous avons installé la carte mère et refait nos tests → https://cutt.ly/ZL8hwAP
+» [Tom's Hardware] AMD Noise Suppression Tech Breaks Cover in Video → https://cutt.ly/WL8hC4q
+» [Windows blogs] Announcing Windows 11 Insider Preview Build 25163 → https://cutt.ly/4L8juHm
+
+» [Les Numériques] Test Canon EOS R7 : entre l'efficacité et la polyvalence, le bon équilibre → https://cutt.ly/NL8jXhV
+» [Les Numériques] Canon propulse son EOS R3 avec des rafales à 195 i/s. Les mises à jour ne s'arrêtent pas en été et Canon en profite pour modifier le logiciel de certains boîtiers. Le monobloc sportif EOS R3 se voit même doté d'un mode de rafale à 195 i/s et d'un mode ralenti vidéo 240p en Full HD → https://cutt.ly/mL8j46v
+
+» [The Verge] BMW starts selling heated seat subscriptions for $18 a month. The auto industry is racing towards a future full of microtransactions → https://cutt.ly/FL8kXHl
+» [Ars Technica] No, BMW is not making heated seats a subscription for US cars. In Korea, BMW will let owners subscribe to options instead of buying them outright → https://cutt.ly/rL8llkJ
+» [Les Numériques] La dernière idée d'Elon Musk : se faire une toile pendant que votre Tesla se recharge. Tesla a déposé des plans pour la construction d'un site qui rassemblerait en un même lieu Superchargeurs, restaurant et drive-in → https://cutt.ly/WL8zZlB
+
+» [Dirtywave] M8: Synthesizer + Sampler + Sequencer, 550 US$ → https://dirtywave.com/
+
+» [Reuters] U.S. auto agency will not allow EV owners to pick alert sounds → https://cutt.ly/JL8vS7k
+» [The Verge] Ventje VW campervan review: ‘work from home’ from anywhere. A home office in disguise → https://cutt.ly/jL8bYr5
+» [CNET France] Porsche met aux enchères une 911 unique inspirée du film Cars. Cette Porsche 911 sera vendue aux enchères le 20 août à l’occasion de la Monterey Car Week aux Etats-Unis au profit d’œuvres de charité → https://cutt.ly/6L8nAIz
+» [CNET France] LIDL propose une voiture électrique en location à 269€ par mois. Une mini-citadine avec 200 km d'autonomie et une vitesse max de 115 km/h → https://cutt.ly/3L8mdds
+
+» [Les Numériques] Test Momabikes Ebike 28 Pro : un VAE abordable au moteur performant → https://cutt.ly/xL8mUU0
+» [Les Numériques] Test Piaggio MP3 530 HPE : le scooter 3-roues qui ne voulait pas céder sa couronne → https://cutt.ly/tL8QajN
+
+» [VICE Motherboard] RE-AOL Is a Faithful Recreation of AOL 3.0. Born of nostalgia and the pandemic, the project seeks to recreate an ersatz past → https://cutt.ly/AL8Wy0y
+» [Les Numériques] Les Gafam dépensent toujours plus pour contrer les législations antitrust. Les géants technologiques américains ont dépensé 35,3 millions de dollars en lobbying sur les six premiers mois de l’année, soit une hausse de 15 % par rapport au premier semestre 2021. Amazon est le plus dépensier → https://cutt.ly/uL8Wlrg
+» [Les Numériques] Contraint par l'UE, Google accepte désormais les systèmes de paiement alternatifs sur son Play Store européen. Google devance le DMA. La nouvelle législation européenne n'est pas encore complètement entrée en vigueur, mais Google va d’ores et déjà accepter les systèmes de paiement alternatifs sur son Play Store → https://cutt.ly/aL8WQUI
+» [Twitch] Safer Together: Making Twitch safer with shared ban info → https://cutt.ly/rL8W6RV
+
+» [PromoBricks] LEGO Atari 2600 (10306): Neue Infos zu den Features und Funktionen → https://www.promobricks.de/lego-atari-2600-10306-neue-infos/144021/
+» [Les Numériques] Steam bientôt disponible dans les voitures Tesla d'Elon Musk ? → https://cutt.ly/ZL8RlOL
+» [Les Numériques] Minecraft ne compte pas céder à la folie NFT. Le suédois Mojang Studios s'est exprimé très clairement concernant l'avenir des NFT et de la blockchain dans son jeu Minecraft. C'est simple : il n'y en a pas → https://cutt.ly/RL8RRUB
+» [Gamekult] Avec Stray, l’errance a un jolis minois, mais de trop petites jambes 🐾 6/10 par ianoo → https://cutt.ly/MLXpYbQ
+» [The Verge] I replaced my Steam Deck’s noisy fan and am so happy I did. The iFixit-sourced Huaying replacement fixed the whine immediately → https://cutt.ly/aL8TUk7
+
+» [Les Numériques] Samsung cherche à se convaincre du succès des smartphones pliants. Pour le président de la division mobile de Samsung, les smartphones pliants sont un véritable succès, comme en témoigne la progression de leurs chiffres de vente. Pour autant, son entreprise a écoulé 30 fois plus de téléphones classiques l'an dernier → https://cutt.ly/lL8YizE
+» [Les Numériques] On connaît la date de présentation du OnePlus 10T et d’OxygenOS 13. OnePlus vient d’annoncer la date de la présentation du OnePlus 10T, son prochain smartphone haut de gamme, mais également de la dernière version d’OxygenOS → https://cutt.ly/nL8Y9qW
+» [Les Numériques] Test Google Pixel 6a : le milieu de gamme tout en équilibre → https://cutt.ly/oL8UqOd
+» [Les Numériques] Test Nothing Phone (1) : un outsider qui frappe fort → https://cutt.ly/dL8P8Fh
+
+raids : lesnumeriques => (13:36) marmiton_officiel (…14:10) => (<15:35) Lutaa_ (samedi) (terminé samedi à 12:50)
+
+
+» le résumé de la quotidienne des Numériques
+» sélection de sacs à dos par Engadget 🎒
+» semi-conducteurs : TSMC et ASML, la demande de puces est toujours forte, mais avoir les outils pour les faire est difficile
+» ordinateurs : le Dell XPS 13 Plus est certifié Ubuntu ; Dell étoffe sa gamme de PC portables de jeux avec le G16 ; iFixIt a démonté le MacBook Air M2 ; les Nums ont mis à jour la carte mère d'un Framework
+» voitures : BMW va commencer à proposer les sièges chauffants en option payante à l'année ou au mois, pour le moment en Corée ; Tesla propose de faire des stations de recharge de vrais mini centres commerciaux
+» voitures : le régulateur américain va interdire aux possesseurs de voitures électriques de choisir le son de klaxon ; Porsche met aux enchères une 911 unique inspirée du film Cars
+» voitures : LIDL propose une voiture électrique en location à 269 € par mois
+» Lâm a perdu UNE HEURE de stream pour parler de son dernier achat gadget, le Dirtywave M8, un tracker musical (comme à l'époque Amiga / Atari) portable
+» robots : un russe trop riche a fait monter une arme automatique sur un robot chien
+» nostalgie : des gens avec trop de temps ont recréé AOL 3.0
+» réseaux sociaux : les Gafam dépensent toujours plus pour contrer les législations antitrust ; Twitch propose maintenant le partage de listes de bannissement entre chaînes
+» jeux vidéo : une Atari 2600 en Lego ; Steam bientôt dans les voitures Tesla ; Minecraft est contre les NFT ; un journaliste de The Verge a pu remplacer le ventilateur de son Steam Deck, maintenant qu'ils sont disponibles chez iFixIt
+
+» point smartphones avec Laure
+» Samsung cherche à se convaincre du succès des smartphones pliants
+» test du Google Pixel 6a, du Nothing Phone (1), du Xiaomi 12S Ultra
+
+
 
 
 » [Les Numériques] 
@@ -6934,4 +7001,5 @@ clips :
 🎥 Lâm renverse, encore une fois, sa tasse à café → https://clips.twitch.tv/ArbitraryTrappedPastaDxCat-yZHTMgvSFk-rCg78
 🎥 Lâm sur un vélo, sans les petites roulettes → https://clips.twitch.tv/SpicyGlamorousShallotTinyFace-kVIPcgpdY1kewYAf
 🎥 Après le Vé'lib, voici le Vé'Lâm → https://clips.twitch.tv/SucculentInspiringMushroomCorgiDerp-RFW9F6ENO5cMd7H3
+🎥 Lâm ne sait pas utiliser la machine à café → https://clips.twitch.tv/RefinedFurtiveEagleDogFace-OZeH6r0-2MQLUPH1
 
