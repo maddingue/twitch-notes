@@ -12753,6 +12753,14 @@ raids : Gautoz => (16:16) At0mium (>17:15) => (<18:30) Merry => (21:48) Ceizyl =
 raids : Gautoz => (22:18) GamekultLive
 
 
+--------------------------------------
+2022-08-24
+
+(jeux cf. gamekult.txt)
+
+raids : Gautoz => GamekultLive
+
+
 
 
 » 🇺🇸 
