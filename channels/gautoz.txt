@@ -12864,6 +12864,50 @@ raid : Gautoz => (16:07) DamDamLive (>16:55) => (<17:34) pepipin => (<20:11) Jea
 raids : Gautoz => (16:06) EllenReplay (>17:50) => Ostpolitik => (18:20) BarbaraLaGauchisse => (<19:20) Modiiie => (<22:15) OPcrotte
 
 
+--------------------------------------
+2022-09-05
+
+» 🇫🇷 [Gamekult] Assassin's Creed Mirage officiellement annoncé par Ubisoft → https://cutt.ly/ZClqoDb
+» 🇬🇧 [VGC] More Assassin’s Creed Mirage details seemingly leak ahead of full reveal. The game will reportedly attempt to recreate Assassin’s Creed Unity’s huge crowds → https://cutt.ly/xClqmdo
+
+» 🇫🇷 [Gamekult] Halo Infinite : la saison 3 retardée, la coopération locale supprimée ? La nouvelle feuille de route est disponible → https://cutt.ly/3Ck56GC
+» 🇬🇧 [VGC] Halo Infinite suffers fresh content delays as local co-op is cancelled. Campaign co-op, the Forge beta and Season 3 have all been pushed back → https://cutt.ly/ZClqNGL
+
+» 🇫🇷 [Gamekult] "Il est temps de dire la vérité" : l'éditeur PQube fait l'objet d'une nouvelle accusation. Corecell accuse PQube de ne pas avoir respecté ses obligations financières → https://cutt.ly/gClesXA
+
+» 🇬🇧 [VGC] Callisto Protocol director walks back on comments appearing to promote crunch. Glen Schofield says he was “wrong” to post about his team’s long working hours → https://cutt.ly/lCk615E
+» 🐦 [Twitter] Andrew Harrington - My total compensation for crunching hundreds of hours across 8 studios and 16 years in this industry include… → https://cutt.ly/sClorSl
+» 🐦 [Twitter] John Epler - One of the hardest lessons to learn is that when I crunch, other people crunch → https://cutt.ly/4CloOyq
+
+» 🐦 [Twitter] Important announcement from 1047 Games about the future of Splitgate → https://cutt.ly/XClawBm
+
+» 🇫🇷 [Gamekult] Créateur de River City Ransom, Mitsuhiro Yoshida est décédé le 30 août. Une étoile de Technos Japan s'est éteinte → https://cutt.ly/rCk6uq3
+
+» 🇺🇸 [SteamDB] top 10 des ventes sur Steam de la semaine dernière → https://steamdb.info/topsellers/
+» 🇫🇷 [Gamekult] Live A Live atteint le demi-million de copies distribuées → https://cutt.ly/yClfFQk
+
+» 🇺🇸 [The Verge] Microsoft will keep Call of Duty on PlayStation for ‘several more years’ beyond existing deal, Microsoft’s Xbox chief wrote to Sony’s PlayStation boss → https://cutt.ly/DClgH29
+» 🇫🇷 [Gamekult] Call of Duty restera sur PlayStation, mais pour combien de temps ? → https://cutt.ly/qClgQmt
+
+» preview de Steelrising par Gautoz → https://cutt.ly/WClzoWh
+
+
+:::::
+» 🇫🇷 [Gamekult] L'EGRET II Mini aura droit à 10 nouveaux jeux en cartouche → https://cutt.ly/7Ck6dyJ
+
+» 🇫🇷 [Gamekult] Blaze Entertainment dévoile sa console rétro Evercade EXP, intégrant 18 jeux Capcom. Vous les avez déjà ailleurs, mais pas sur cette console → https://cutt.ly/ICk6cZB
+
+» 🇫🇷 [Gamekult] Elden Ring adapté en manga humoristique → https://cutt.ly/VCk6Cf3
+
+» 🇬🇧 [VGC] Xbox Studios boss says the days of single-studio AAA games are ‘long gone’. Matt Booty says Crystal Dynamics’ work on Perfect Dark is normal, not proof of “a problem” → https://cutt.ly/lCk6Ixm
+
+» 🇬🇧 [VGC] Retro specialist Nightdive explains the difference between a ‘remake’ and ‘remaster’. The System Shock dev says it ‘makes the game you remember, not the games you played’ → https://cutt.ly/vCk6FcC
+
+» 🇬🇧 [VGC] A Radiant Silvergun game appears to have leaked. An image for the game has been found on publisher Happinet’s official Tokyo Game Show site → https://cutt.ly/hClwppQ
+
+» 🇬🇧 [VGC] Ahead of TGS, Konami renewed its Suikoden trademark. The series’ last main entry was released in 2006 → https://cutt.ly/1ClwbVc
+
+raids : [AVAMind=>(16:05) Gautoz => (16:31) GamekultLive
 
 
 
@@ -12934,8 +12978,8 @@ Doudoune défonce le stream (2021-02-23) :
 
 les bons liens de Gautoz
 ------------------------
-- 🐦 le Twitter de Gautoz → https://twitter.com/Gautoz
-- 🐦 le Twitter de Marie → https://twitter.com/MarieGDH
+» 🐦 le Twitter de Gautoz → https://twitter.com/Gautoz
+» 🐦 le Twitter de Marie → https://twitter.com/MarieGDH
 GK La Mixtape https://spoti.fi/3oA7mK2 La Matinale Playlist https://spoti.fi/36oRxzx
 🎶 Snip, le logiciel pour indiquer la musique en cours → https://github.com/dlrudie/Snip
 🎧 playlist la matinale → https://open.spotify.com/playlist/3vLlX911Gy6jGHGdOa5q5B
