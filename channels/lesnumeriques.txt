@@ -7168,8 +7168,65 @@ raids : lesnumeriques => (14:46) marmiton_officiel => melieetsamo => (16:55) fin
 
 (voitures…)
 
-raids : lesnumeriques => (13:40) [Jermyland=>(13:54)] LaCantine_ => (16:53) Erin_Firezia (>22:00) => Thardoth => Fallanem => (00:54) M_Saster (>01:15)
+raids : lesnumeriques => (13:40) [Jermyland=>(13:54)] LaCantine_ => (16:53) Erin_Firezia (>22:00) => Thardoth => Fallanem => (00:54) M_Saster (>01:15) => (<01:39) SebinhoFR (terminé à 02:35)
 
+
+--------------------------------------
+2022-09-16
+
+» [Les Numériques] Les iPhone 14 et 14 Plus d'Apple ne passionnent pas les foules, les modèles Pro et Pro Max oui → https://cutt.ly/GVwWD3R
+» [Les Numériques] Apple prévoit d’utiliser la technologie 3 nm de TSMC pour ses futurs iPhone → https://cutt.ly/TVwWLjR
+» [Les Numériques] Réparabilité : il est possible de changer facilement la vitre arrière des iPhone 14 et 14 Plus → https://cutt.ly/nVwnEJx
+
+» [Les Numériques] Les Samsung Galaxy S23 semblent sur les rails pour un lancement début 2023 → https://cutt.ly/iVwEKqN
+» [Les Numériques] Test Sony Xperia 5 IV : un petit format qui n'a rien à envier au Xperia 1 → https://cutt.ly/9VwQE4X
+
+» [Les Numériques] Amazon renouvelle son Kindle entrée de gamme avec plus de stockage et l'USB-C → https://cutt.ly/9VwTG20
+
+» [AnandTech] Arm announces Neoverse V2 and E2: the next generation Of Arm server CPU Core → https://cutt.ly/6VwYxap
+» [Reuters] Upset by high prices, GM's Cruise develops its own chips for self-driving cars → https://cutt.ly/mVwYN6x
+» [Les Numériques] Microsoft déploie un patch de sécurité urgent, même sur Windows 7 → https://cutt.ly/FVwUox7
+» [Les Numériques] Une étude prouve que les SSD sont plus fiables que les disques durs sur le long terme → https://cutt.ly/1VwUjVY
+» [Les Numériques] Test G502 X Plus : la souris gaming ultra polyvalente de Logitech → https://cutt.ly/nVwUUmn
+
+» [Les Numériques] Décalage TV et latence, comment ne plus voir les buts en retard lors des matchs de foot → https://cutt.ly/3VwIl68
+résultats du sondage : 48% jamais de foute, 23% si la France est en finale, 18% toujours, 11% peut-être un peu
+» [Les Numériques] MicroLED : Samsung confronté à des problèmes de production → https://cutt.ly/oVwOk3B
+
+» [Les Numériques] DJI Osmo Action 3 : la vraie concurrente de la GoPro Hero11 ? → https://cutt.ly/zVwOLBS
+» [Les Numériques] Test GoPro Hero11 Black Mini (Hero 11 Black mini) : une action-cam compacte presque sans compromis → https://cutt.ly/cVwO1Qk
+» [Les Numériques] Test Caméra 360° Insta360 ONE X2 : une action-cam 360° ludique et tout terrain → https://cutt.ly/wVwPWIM
+
+» [Les Numériques] BMW iX5 Hydrogen : un SUV de série doté de piles à combustible → https://cutt.ly/BVwADLi
+» [CNET France] BMW iX1 : un concurrent de taille pour la Tesla Model Y ? → https://cutt.ly/hVwAC69
+» [Les Numériques] Automobile : Polestar va enfin pouvoir vendre ses véhicules en France → https://cutt.ly/ZVwSchl
+» [Les Numériques] Des précommandes record en Corée du Sud pour la Huyndai Ioniq 6 → https://cutt.ly/gVwSR9a
+» [Les Numériques] Citroën Ami Tonic et My Ami Play : toujours plus attirants → https://cutt.ly/7VwSKSv
+» [Les Numériques] Audi améliore son buggy hybride RS Q e-tron E2 pour le prochain Dakar saoudien → https://cutt.ly/BVwDqCK
+» [Les Numériques] Dacia Manifesto : un labo d'idées pour les futures Dacia → https://cutt.ly/dVwDo5R
+» [Les Numériques] Volkswagen ID. Xtrem Concept : l’ID.4 GTX devenu tout-terrain électrique → https://cutt.ly/3VwDUhB
+» [Les Numériques] Ferrari Purosangue : ne dites pas à Enzo que c'est un SUV → https://cutt.ly/VVwnJBO
+» [HypeBeast] The Porsche tequipment roof tent means you never have To leave your 911's side → https://cutt.ly/TVwF0kr
+» The Whale Tail Project → https://theWhaleTailProject.com/ | https://instagram.com/thewhaletailproject
+
+» [Les Numériques] The Merge : Ethereum est officiellement entré dans une nouvelle ère → https://cutt.ly/ZVwQIQD
+
+» [The Verge] Anyone can use this AI art generator — that’s the risk. Stable Diffusion is a text-to-image AI that’s much more accessible than its predecessors → https://cutt.ly/uVwKZBk
+» [youTube] RunwayML → https://www.youtube.com/runwayml
+» DALL·E: Introducing Outpainting → https://cutt.ly/3VwXUN2
+» [Graphisme & interactivité] #IAFP, ou comment j’ai illustré la presse avec une IA → https://cutt.ly/pVwVP8V
+
+raids : lesnumeriques => (13:46) marmiton_officiel => (15:58) SimonPuech -> MathieuBablet => (17:32) Sulhya => Kiwie_not_kiwi => (20:19) Fafoux_ => (20:43) Filandre_art (terminé à 00:07)
+
+» le résumé de la quotidienne des Numériques
+» smartphones, Apple : les iPhones Pro et Pro Max on t plus de succès que les modèles normaux et Plus ; Apple prévoit d’utiliser la technologie 3 nm de TSMC pour ses futurs iPhone ; la vitre arrière des iPhone 14 et 14 Plus peut se changer facilement
+» smartphones, Android : bientôt les Samsung Galaxy S23 ; test du Sony Xperia 5 IV, un petit format
+» liseuse : Amazon renouvelle son Kindle entrée de gamme avec plus de stockage et l'USB-C
+» ordinateurs : ARM annonce une prochaine génération de processeurs pour serveurs ; patch de sécurité urgent pour Windows ; test de la souris Logitech G502 X Plus
+» télévisions : Décalage TV et latence, comment ne plus voir les buts en retard lors des matchs de foot ; MicroLED, Samsung confronté à des problèmes de production
+» voitures : beaucoup d'infos passées trop vite ; Lâm a bavé devant le SUV Ferrari Purosangue et la… tente de toit pour Porsche 911
+» cryptomonnaies : avec The Merge, Ethereum est officiellement entré dans une nouvelle ère
+» point IA sur la génération d'images et de textes avec Romain Challand ; Lâm a demandé à une IA de faire un pème érotique sur Star Wars, c'était meugnon
 
 
 
