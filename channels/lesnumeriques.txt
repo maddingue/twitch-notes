@@ -7271,7 +7271,61 @@ raids : lesnumeriques => (13:46) marmiton_officiel => (15:58) SimonPuech -> Math
 » [Gamekult] Un hacker diffuse 90 clips vidéo et des captures de Grand Theft Auto 6 puis tente de rançonner Rockstar → https://cutt.ly/8VsgP3k
 » [PC Gamer] Huge GTA 6 leak includes gameplay footage of robbery, Vice City locations, and two playable characters → https://cutt.ly/rVslXwK
 
-raids : lesnumeriques => (13:35) FibreTigre (terminé à 14:19) (reprise à 18:33) => EnjoyPhoenix => (<22:13) LuuxiA (>22:32) => (<00:36) Locklear (>00:45)
+raids : lesnumeriques => (13:35) FibreTigre (terminé à 14:19) (reprise à 18:33) => EnjoyPhoenix => (<22:13) LuuxiA (>22:32) => (<00:36) Locklear (terminé à 09:48)
+
+
+--------------------------------------
+2022-09-21
+
+» [Les Numériques] Braun se lance sur le marché des blenders à friction avec le JB9040 → https://cutt.ly/vVldrTL
+» [Les Numériques] Labo – Les performances de lavage du Dreame L10s Ultra → https://cutt.ly/7VldNku
+» [Les Numériques] "L'esthétique est un aspect souvent oublié de la durabilité des produits" : comment Bang & Olufsen aborde réparabilité et circularité → https://cutt.ly/fVlfj6t
+
+» [Les Numériques] iPhone 14 : iFixit salue les efforts d’Apple pour produire "l’iPhone le plus réparable depuis des années" → https://cutt.ly/yVlf00Z
+» [iFixIt] Apple’s 14 Pro Max is worse than the vanilla 14 → https://cutt.ly/sVlgtYg
+» [Les Numériques] Labo – L’autonomie de l'iPhone 14 Pro Max au banc d'essai → https://cutt.ly/VVlgYSQ
+» [Les Numériques] Labo : le mode ProRAW 48 Mpx de l'iPhone 14 Pro Max a-t-il un vrai intérêt ? → https://cutt.ly/BVlj6bB
+
+» [Les Numériques] Pixel Watch : Google positionnerait son modèle “le moins cher” juste en dessous de la Series 8 d’Apple → https://cutt.ly/6VllryC
+» [CNET France] Google : la Pixel Watch apparaît au poignet de Sundar Pichai. La montre connectée de Google devrait être dévoilée dans quelques jours → https://cutt.ly/gVllnAy
+» [ZDNet France] Les wearables font les frais du resserrement du budget des ménages. Selon les données d'IDC, les expéditions mondiales de wearables ont diminué de 6,9 % par rapport à l'année dernière → https://cutt.ly/xVll7es
+» [Les Numériques] Champion du monde battu, soupçons de triche, et sextoy connecté : drames en série au royaume des échecs → https://cutt.ly/NVlxzx1
+
+» [Les Numériques] Lumix GH6 : Panasonic apporte l'enregistrement direct sur SSD → https://cutt.ly/kVlvrXf
+
+» [VICE Motherboard] The guy who memorized Google Maps says you can too. Trevor Rainbolt, the “GeoGuessr guy,” explains how he learned to locate any Google Maps image with astonishing speed and accuracy → https://cutt.ly/5VlbuTH
+
+» [Les Numériques] Netflix espère attirer 40 millions d’utilisateurs fin 2023 avec son offre financée par la publicité → https://cutt.ly/HVlbGTN
+» [Les Numériques] Netflix : 5 millions de foyers français utilisent la plateforme sans payer → https://cutt.ly/ZVlntIs
+» [YouTube - Cycu1] Cyberpunk Edgerunners vs Cyberpunk 2077 - Episode 1 Locations Comparison → https://cutt.ly/0VlmLDA
+
+» [CNET France] Shadow Power : les précommandes bientôt ouvertes, mais pas pour tout le monde. La nouvelle offre du service de cloud computing français sera lancée le 26 octobre et disponible en précommande dès le 20 septembre → https://cutt.ly/UVlQjPR
+» [Gamekult] EA confirme le développement d'un jeu Iron Man chez Motive, et reste un interlocuteur de choix pour Disney, donc → https://cutt.ly/rVlWweN
+» [Gamekult] L'incertitude autour de l'avenir de Call of Duty pourrait profiter à Battlefield selon le PDG d'Electronic Arts → https://cutt.ly/CVlWOms
+
+» [Les Numériques] AMD officialise ses processeurs Ryzen Mendocino pour PC portables → https://cutt.ly/eVlEy0G
+» [Les Numériques] AMD : l'annonce des Radeon RX 7000 et RDNA 3 se fera le 3 novembre → https://cutt.ly/HVlEsL6
+» [Les Numériques] Nvidia : les GeForce RTX 4090 et RTX 4080 officialisées, le DLSS 3 au service des jeux "full RT" → https://cutt.ly/8VlEZda
+
+» [Gamekult] Nvidia annonce Portal With RTX, version embellie du titre de Valve grâce à son nouvel outil RTX Remix. Une mise à jour gratuite pour les possesseurs du jeu → https://cutt.ly/EVlYFJz
+» [Nvidia] Portal avec RTX, revisité avec le ray tracing et le DLSS → https://cutt.ly/yVlYXH3
+» [Nvidia] NVIDIA RTX Remix: Create & Share #RTXON Mods For Classic Games → https://cutt.ly/oVlUd0g
+
+raids : lesnumeriques => (13:45) [tatiana_cookietruck=>(18:17)] [Chocolatier_PaulGarderes=>(19:02)] marmiton_officiel (20:05) => PapeSan (terminé à 21:48)
+
+» le résumé de la quotidienne des Numériques
+» cuisine : Braun se lance sur le marché des blenders à friction
+» entretien avec marque danoise Bang & Olufsen sur la conception de leurs produits
+» iPhone 14 Pro Max : iFixIt indique que la réparabilité n'est pas au niveau du modèle de base // test de l'autonomie // test du mode photo raw à 48 Mpx
+» Pixel Watch : Google positionnerait son modèle “le moins cher” juste en dessous de la Series 8 d’Apple
+» jeu d'échecs et sextoy connecté : article complet de Romain Challand sur le soupçon de triche du jeune champion du monde
+» jeux vidéo : entretien par VICE de Trevor Rainbolt, champion sur Geoguessr qui a mémorisé Google Maps // nouvelle offre de Shadow le 26 octobre // nouveau jeu Iron Man annoncé chez EA Motive // Portal en version RTX
+» Netflix espère attirer 40 millions d’utilisateurs fin 2023 avec son offre financée par la publicité // 5 millions de foyers français utilisent la plateforme sans payer
+» processeurs : AMD officialise ses processeurs Ryzen Mendocino pour PC portables et annonce les Radeon RX 7000 et RDNA 3 // Nvidia a officialisé les GeForce RTX 4090 et RTX 4080, ainsi que le DLSS 3
+» un Crono enflammé 🔥🔥🔥 sur la technologie Omniverse de Nvidia pour reconstruire les graphismes des vieux jeux
+
+
+13:33 zoubizaretta : pipobimbocrono(Supprimé par maddingue)
 
 
 
@@ -7286,19 +7340,20 @@ raids : lesnumeriques => (13:35) FibreTigre (terminé à 14:19) (reprise à 18:3
 » [Engadget] 
 » [AnandTech] 
 
-📺 Les Numériques sur YouTube → https://youtube.com/user/LesNumeriques
-📷 Les Numériques sur Instagram → https://instagram.com/lesnumeriques/
-🐦 Les Numériques sur Twitter → https://twitter.com/LesNums
-🐦 le Twitter de Lâm Hua → https://twitter.com/LamHua
-
 📯 📯 📯
 ⭐⭐⭐⭐⭐
 KomodoHype STEAM DECK
 @lesnumeriques RECORD ⏺️
 SwiftRage 📢 Lâm ! on enchaîne !
 SwiftRage 📢 Lâm il est midi 🕛
+SwiftRage 📢 Lâm il est 12:30 🕧
 SwiftRage 📢 Lâm il est 13:00 🕐
 SwiftRage 📢 Lâm il est 13:30 🕜
+
+📺 Les Numériques sur YouTube → https://youtube.com/user/LesNumeriques
+📷 Les Numériques sur Instagram → https://instagram.com/lesnumeriques/
+🐦 Les Numériques sur Twitter → https://twitter.com/LesNums
+🐦 le Twitter de Lâm Hua → https://twitter.com/LamHua
 
 Message à caractère informatif - Excellent produit -- https://www.youtube.com/watch?v=-NzxJGvZzeQ
 
