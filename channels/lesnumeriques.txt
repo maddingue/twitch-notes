@@ -7325,7 +7325,51 @@ raids : lesnumeriques => (13:45) [tatiana_cookietruck=>(18:17)] [Chocolatier_Pau
 » un Crono enflammé 🔥🔥🔥 sur la technologie Omniverse de Nvidia pour reconstruire les graphismes des vieux jeux
 
 
-13:33 zoubizaretta : pipobimbocrono(Supprimé par maddingue)
+--------------------------------------
+2022-09-21
+
+» [The Register] Afghanistan’s Taliban government bans TikTok. First-person shooter PUBG also barred for corrupting the young → https://cutt.ly/SVcLLLu
+» [Business Insider] Meta is reportedly putting some workers onto a '30-day list' that gives them a month to find a new role at the company — or leave → https://cutt.ly/6VcZO8N
+» [EcoWatch] ‘Polluters Must Pay’: UN Chief Calls for Windfall Tax on Fossil Fuel Profits to Address Climate and Cost-of-Living Crises → https://cutt.ly/yVcXex0
+» [TubeFilter] Does disliking a video keep it out of your YouTube recommendations? A new study says no → https://cutt.ly/TVcXMhJ
+» [Mozilla] Does this button work?  Investigating YouTube’s ineffective user controls → https://cutt.ly/hVcX58E
+
+» [YouTube - TechRax] Does the iPhone 14 Pro Crash Detection Actually Work? - Car Accident Experiment → https://cutt.ly/OVcVlPy
+» [The Verge] Automatic emergency braking is not great at preventing crashes at normal speeds. AAA tested four vehicles equipped with AEB and found that the system failed to prevent the most common crashes at average speeds → https://cutt.ly/ZVcBQRm
+
+» [le Monde] Twitch bannit plusieurs sites de jeux d’argent. Le service de streaming interdira, à partir d’octobre, la diffusion de contenus issus de sites de cryptocasinos, dont Stake, déjà illégal en France → https://cutt.ly/fVcMoap
+» [Twitch] Une lettre du président de Twitch, Dan Clancy, sur le partage des revenus d'abonnements → https://cutt.ly/ZVcME5z
+» [Gamekult] Fin de l'abondance : Twitch revient sur le partage des revenus à 70/30. Mais en compensation, les spectateurs auront le droit à plus de publicité → https://cutt.ly/wVcMZ9A
+
+» [Les Numériques] Logitech G officialise sa console de jeu portable dédiée au cloud gaming conçue avec Tencent → https://cutt.ly/YVc0wtT
+» [Les Numériques] Logitech G Pro Racing : Direct Drive et pédalier à capteur de force pour un nouveau volant très haut de gamme → https://cutt.ly/eVc2npP
+
+» [CNET France] Black Panther 2 : le prochain Marvel privé de sortie au cinéma en France ?. Un nouveau moyen pour Disney de faire pression sur le CNC et dénoncer la chronologie des médias → https://cutt.ly/aVc9Ype
+
+» [Les Numériques] Créer des images à l'aide d'une IA devient encore plus simple avec cette application pour Mac → https://cutt.ly/cVc3N6g
+» [Ars Technica] Artists begin selling AI-generated artwork on stock photography websites. Using software that creates art on demand, some artists attempt to cash in on AI-generated content → https://cutt.ly/VVc8yfK
+» [The Verge] Getty Images bans AI-generated content over fears of legal challenges. Getty Images is worried about future copyright claims → https://cutt.ly/GVc8k3M
+» [Ars Technica] Have AI image generators assimilated your art? New tool lets you check. New search engine combs through harvested images used to train Stable Diffusion, others → https://cutt.ly/xVc4OjJ
+» [Ars Technica] Deepfake audio has a tell and researchers can spot it. With deepfake audio, that familiar voice on the other end of the line might not even be human → https://cutt.ly/eVc7uDN
+
+» [Tech Times] Liquid robot can split and re-assemble itself, a potential solution in biomedicine → https://cutt.ly/fVc7VmH
+» [Tech Times] Innovative robotics firm KEYi technology introduces Loona to its family of consumer robots → https://cutt.ly/hVc5FSU
+» [Kickstarter] Meet Loona - The most Intelligent Petbot → https://cutt.ly/1Vc5Brr
+» [Wards Auto] Order a pizza, wait for the robot → https://cutt.ly/4Vc6NOK
+» [Les Numériques] Navette autonome : la RATP s'attaque au défi du dernier kilomètre → https://cutt.ly/tVvqF6a
+
+» [WCCFTech] The Galaxy S24 could become the first phone To feature Wi-Fi 7 → https://cutt.ly/TVvwPlJ
+» [The Verge] Microsoft Surface rumors heat up ahead of rumored October event → https://cutt.ly/FVvwLt0
+» [Les Numériques] Thermomix : Vorwerk lance un découpe-légumes, une petite révolution → https://cutt.ly/5VvwBER
+» [Les Numériques] Test Apple iPhone 14 Pro Max : la gamme Pro sur une toute nouvelle dynamique → https://cutt.ly/SVvw8ie
+
+» [Les Numériques] Test G502 X Plus : la souris gaming ultra polyvalente de Logitech → https://cutt.ly/pVveNIW
+» [Les Numériques] Test Logitech G502 X : la version filaire de la souris star de Logitech → https://cutt.ly/QVve02x
+» [Les Numériques] Test G502 X Lightspeed : la souris gaming ultra polyvalente de Logitech, mais sans RGB → https://cutt.ly/hVve7kU
+» [Les Numériques] Test Souris Razer Basilisk V3 : encore plus polyvalente → https://cutt.ly/bVvtemz
+» [Les Numériques] Test Souris gaming Razer Viper V2 Pro : la légèreté à son paroxysme → https://cutt.ly/cVvulpD
+
+raids : lesnumeriques => (13:40) Gastronogeek (terminé à 13:49)
 
 
 
