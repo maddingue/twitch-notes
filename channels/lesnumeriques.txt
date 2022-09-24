@@ -7326,7 +7326,7 @@ raids : lesnumeriques => (13:45) [tatiana_cookietruck=>(18:17)] [Chocolatier_Pau
 
 
 --------------------------------------
-2022-09-21
+2022-09-22
 
 » [The Register] Afghanistan’s Taliban government bans TikTok. First-person shooter PUBG also barred for corrupting the young → https://cutt.ly/SVcLLLu
 » [Business Insider] Meta is reportedly putting some workers onto a '30-day list' that gives them a month to find a new role at the company — or leave → https://cutt.ly/6VcZO8N
@@ -7370,6 +7370,27 @@ raids : lesnumeriques => (13:45) [tatiana_cookietruck=>(18:17)] [Chocolatier_Pau
 » [Les Numériques] Test Souris gaming Razer Viper V2 Pro : la légèreté à son paroxysme → https://cutt.ly/cVvulpD
 
 raids : lesnumeriques => (13:40) Gastronogeek (terminé à 13:49)
+
+
+--------------------------------------
+2022-09-23
+
+» [Le Parisien] 19 000 vélos par jour boulevard de Sébastopol à Paris : un record... et «un enfer» pour les cyclistes → https://cutt.ly/qVmYy9a
+» [20 minutes] Paris : La piste Sébastopol, « l’axe cyclable le plus emprunté au monde », avec plus de 17.200 passages → https://cutt.ly/tVmYkWP
+
+» [Les Numériques] Trek FX+ 2 Stagger → https://cutt.ly/hVmUiaW
+» [Les Numériques] La pratique du vélo en hausse, mais des disparités persistent → https://cutt.ly/ZVmLDjW
+» [Les Numériques] Haibike Lyke, un nouveau VTTAE en carbone avec une motorisation Fazua → https://cutt.ly/3VmZWR4
+» [Les Numériques] Ultima Multipath, un vélo électrique français très prometteur → https://cutt.ly/AVmZ3dr
+
+raids : lesnumeriques => (13:45) marmiton_officiel (terminé à 14:11)
+
+» le résumé de la quotidienne des Numériques
+» on a suivi Lâm en vélo 🚴‍♂️ de la tour TF1 🏢 à la tour Eiffel 🗼, puis jusqu'au bois de Boulogne 🌳🌳🌳
+» article sur la pratique du vélo pour les huit premiers mois de 2022 : l'utilisation est en hausse par rapport à l'année dernière, tirée par l'usage en milieu urbain
+» présentation du Haibike Lyke, un nouveau VTTAE en carbone avec une motorisation Fazua, et du Ultima Multipath, un vélo électrique français 🇫🇷
+
+Oxprius = compte de Karl
 
 
 
@@ -7431,4 +7452,6 @@ clips :
 🎥 Lâm sur un vélo, sans les petites roulettes → https://clips.twitch.tv/SpicyGlamorousShallotTinyFace-kVIPcgpdY1kewYAf
 🎥 Après le Vé'lib, voici le Vé'Lâm → https://clips.twitch.tv/SucculentInspiringMushroomCorgiDerp-RFW9F6ENO5cMd7H3
 🎥 Lâm ne sait pas utiliser la machine à café → https://clips.twitch.tv/RefinedFurtiveEagleDogFace-OZeH6r0-2MQLUPH1
+🎥 Diana, reine de l'infini (1) → https://clips.twitch.tv/MildMistyClipsmomCoolStoryBob-yWDaz3GV6JhLPb1h
+🎥 Diana, reine de l'infini (2) → https://clips.twitch.tv/SneakyDepressedHedgehogCharlieBitMe-uAvWje0-nTiKfFzO
 
