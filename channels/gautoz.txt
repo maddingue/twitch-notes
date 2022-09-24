@@ -13353,7 +13353,7 @@ Trombone Champ, sorti le 16 septembre 2022 sur PC
 développé par Holy Wow, studio basé à Brooklyn 🇺🇸 → https://TromboneChamp.com/
 ⌨️ 🖱️ 12,50 € sur Steam (https://cutt.ly/9VlTzIf)
 
-raids : Gautoz => (14:41) SherikaSherard => jenny_colquitt => (<17:09) CourtneyVisser (>17:30) => (<18:44) HibanaSound => (20:05) DreamCadaver (>21:35) => AvianTrine => (<00:35) matthallplays (>01:20) => Hollyesterday => targussongs => AntlerJones => 5QRLmusic => (<09:13) n_eonvoid (>11:05) => (<13:16) VINZVANGO => (14:07) darksun_music => DanTremblayMusic => DoYouKen => (19:59) weirdisdead => TheKillerBeeRelayTeam (vendredi) => (<00:26) [fungilicious_aka_phuong=>(00:27)] foreverhumanman (>01:30)
+raids : Gautoz => (14:41) SherikaSherard => jenny_colquitt => (<17:09) CourtneyVisser (>17:30) => (<18:44) HibanaSound => (20:05) DreamCadaver (>21:35) => AvianTrine => (<00:35) matthallplays (>01:20) => Hollyesterday => targussongs => AntlerJones => 5QRLmusic => (<09:13) n_eonvoid (>11:05) => (<13:16) VINZVANGO => (14:07) darksun_music => DanTremblayMusic => DoYouKen => (19:59) weirdisdead => TheKillerBeeRelayTeam (vendredi) => (<00:26) [fungilicious_aka_phuong=>(00:27)] foreverhumanman => (02:02) dj_doughy => mirabellejien => GraceHarpsIt => legend_of_dia => dmasc => (11:02) TheKonexos => (13:03) 302_Dave (>14:00) => (<15:03) SarahSounzCave => (<16:20) MorganGraceTV => (18:01) pinkyandclementine (>19:50) => (<20:04) FaustianOrgan (>20:40) => fungilicious_aka_phuong => somna_m_bulist (samedi) (>01:00) => (<01:30) skullzy_p (>02:00)
 
 
 --------------------------------------
@@ -13361,12 +13361,77 @@ raids : Gautoz => (14:41) SherikaSherard => jenny_colquitt => (<17:09) CourtneyV
 
 Shovel Knight Dig, sortie demain sur Switch, PlayStation, iOS et PC
 développé par Nitrome, studio britannique 🇬🇧 connu pour ses jeux Flash puis mobiles, et Yacht Club Games (Shovel Knight), studio de 19 personnes basé à Los Angeles 🇺🇸 → https://YachtClubGames.com/games/shovel-knight-dig
-🎮 25 € sur eShop (https://cutt.ly/DVxbWK3) 
+🎮 25 € sur eShop (https://cutt.ly/DVxbWK3)
 📱 inclus dans Apple Arcade (https://cutt.ly/KVbnqVG)
-⌨️ 🖱️ 25 € sur Steam (https://cutt.ly/sVxbTip) 
+⌨️ 🖱️ 25 € sur Steam (https://cutt.ly/sVxbTip)
 
 raids : Gautoz => (00:00) ALaiseBlaze (terminé à 01:00)
 
+
+--------------------------------------
+2022-09-23
+
+» 🇫🇷 [Gamekult] EA confirme le développement d'un jeu Iron Man chez Motive, et reste un interlocuteur de choix pour Disney, donc → https://cutt.ly/uVmNk5R
+» 🇬🇧 [VGC] EA’s Motive Studio confirms new single-player Iron Man game. Newly announced collaboration between EA and Marvel will include “several” games → https://cutt.ly/pVmNRTU
+
+» 🇺🇸 [Xbox] Coming to Xbox Game Pass: Deathloop, Slime Rancher 2, Valheim, Grounded’s Full Release, and more → https://cutt.ly/SVQqd8h
+
+» 🇬🇧 [VGC] PS Plus’s first classic PS1 game has finally added 50hz/60hz region switching. The majority of PS1 games were based on the slower PAL format at launch → https://cutt.ly/WVQeR9m
+» 🇬🇧 [VGC] September’s PlayStation Plus Game Catalog titles are now available to claim, including Deathloop, The Sly Collection and Syphon Filter 2 → https://cutt.ly/1VQwkd3
+
+» 🇫🇷 [Gamekult] Selon les sources du journaliste Tom Henderson, Sony travaillerait sur un nouveau modèle de PS5, avec un lecteur de disque optique détachable → https://cutt.ly/6Vm1Y6n
+» 🇺🇸 [Insider Gaming] Sony to Launch New PlayStation 5 With a Detachable Disc Drive, Sources Suggest → https://cutt.ly/vVm1Ete
+
+» 🇫🇷 [Gamekult] Logitech et Tencent officialisent leur partenariat autour de la console portable Logitech G Cloud. Disponible en octobre aux Etats-Unis et au Canada pour 300 $ en précommande et 350 $ par la suite → https://cutt.ly/FVmN2Gs
+» 🇬🇧 [VGC] Logitech announces G Cloud handheld, with Xbox and GeForce Now support. The cloud device will launch on October 17 for $350 → https://cutt.ly/HVmMjWq
+» 🇺🇸 [Games Industry] Logitech takes on Switch and Steam Deck with cloud-only handheld this October. G Cloud will launch with access to Xbox, Nvidia GeForce Now and Steam Link, priced at $350 → https://cutt.ly/PVQwYww
+» 🇫🇷 [Les Numériques] Logitech G officialise sa console de jeu portable dédiée au cloud gaming conçue avec Tencent → https://cutt.ly/YVc0wtT
+
+» 🇫🇷 [Gamekult] Nvidia annonce Portal With RTX, version embellie du titre de Valve grâce à son nouvel outil RTX Remix. Une mise à jour gratuite pour les possesseurs du jeu → https://cutt.ly/aVmNDgP
+» 🇬🇧 [VGC] Nvidia is bringing ray-tracing to Portal with an RTX version. The upgrade will be free to all owners of Portal on PC → https://cutt.ly/vVmNOIT
+
+» 🇫🇷 [Les Numériques] Nvidia : les GeForce RTX 4090 et RTX 4080 officialisées, le DLSS 3 au service des jeux "full RT" → https://cutt.ly/8VlEZda
+» 🇬🇧 [VGC] GeForce RTX 40 series GPUs have been revealed, ‘2 to 4x faster than the 3090TI’. The 40 series cards will be released in three SKUs from $899 to $1599 → https://cutt.ly/jVQwwOg
+
+» 🇺🇸 [Games Industry] Valve launches new Steam Charts section. New listings will be ranked by total revenue, including DLC and in-game transactions → https://cutt.ly/lVm0LGR
+
+» 🇫🇷 [Gamekult] Cyberpunk 2077 a rassemblé un million de joueurs quotidiens tout au long de la semaine → https://cutt.ly/OVQoWG5
+» 🇺🇸 [Games Industry] Cyberpunk 2077 ramps up to 1m active players following Netflix anime, Edgerunners update. CD Projekt recently told investors it will continue building franchise beyond video games → https://cutt.ly/DVQoFyp
+
+» 🇺🇸 [Game Developer] Leaks and hacks are not the same as investigative reporting. Leaks of GTA 6 footage and the uncovering of NDA breaches stand to make life harder for developers and media alike – but beware false equivalences with investigative reporting → https://cutt.ly/FVm69Pi
+» 🇫🇷 [Gamekult] De GTA 6 à Assassin's Creed : les leaks dans le jeu vidéo, de la gêne mineure au cataclysme industriel. Comment les créateurs réagissent-ils au leak de leur jeu ? par von_yaourt → https://cutt.ly/EVjutpj
+
+» 🇬🇧 [VGC] Over 40 minutes of Diablo 4 gameplay has seemingly been leaked. It’s not yet clear why the footage was shared online → https://cutt.ly/kVQdxzd
+
+» 🇬🇧 [The Guardian] Games firm Rocksteady accused of inaction over staff harassment. Signatory of letter to bosses two years ago makes it public, alleging sexism continues → https://cutt.ly/FVQfeka
+» 🇬🇧 [Eurogamer] Former Rocksteady employee turns down sponsored award following sexual harassment allegations. Warner Bros. responds on sexual harassment investigations → https://cutt.ly/xVQdSoD
+» 🇺🇸 [Games Industry] Women at Rocksteady complained of harassment. 10 of 16 women on staff two years ago signed letter complaining about derogatory treatment that has reportedly continued → https://cutt.ly/JVQd02M
+
+» 🇦🇺 [News.com.au] Video game actors are worried about AI tech taking over their jobs. No one is safe from the death march of technological advancement. Not even actors → https://cutt.ly/oVQglmD
+» 🇺🇸 [Game Developer] Ninja Theory, other triple-A devs reportedly using AI voice acting tech over people. Instead of professional voice actors, Ninja Theory and Neon Giant have allegedly opted to use AI voice acting in their games → https://cutt.ly/GVQgrYF
+
+» 🐦 [Twitter - Taleboules] Dis Jamy, ça ressemble à quoi un jeu au début de son développement ? Un 🧵 → https://cutt.ly/rVQjdOp
+
+
+» 🇫🇷 [Gamekult] Picross S8 sortira sur Switch le 29 septembre. Un puzzle, quatre joueurs  → https://cutt.ly/LVQl6V0
+
+» 🇬🇧 [VGC] Here’s 8 minutes of new Scorn gameplay. The Giger-inspired horror game releases for PC and Xbox (including Game Pass) next month → https://cutt.ly/5VQqv1T
+
+
+» 🇫🇷 [Gamekult] Fin de l'abondance : Twitch revient sur le partage des revenus à 70/30. Mais en compensation, les spectateurs auront le droit à plus de publicité → https://cutt.ly/rVm0pQ3
+
+
+:::::
+» 🇬🇧 [VGC] A cheat seller sued by Bungie is now countersuing it for hacking and DMCA violations. AimJunkies also claims that Bungie illegally reverse engineered its own cheat software → https://cutt.ly/PVmMyvP
+
+» 🇬🇧 [VGC] New Bungie patents fuel Destiny mobile speculation. Patents for touch-based devices published following claims that Destiny is coming to mobile → https://cutt.ly/IVmMAfX
+
+» 🇬🇧 [VGC] Embracer’s CEO says he’s disappointed by Saints Row’s ‘polarising’ reception. Lars Wingefors suggests it’s too early to make any calls on the future of the franchise → https://cutt.ly/nVmMzVG
+
+» 🇬🇧 [VGC] Microsoft’s CEO says he’s ‘very confident’ Activision deal will gain approval. “If this is about competition, let us have competition”, says Satya Nadella → https://cutt.ly/NVmMENB
+
+
+raids : [Mynthos=>(14:04)] [BanjoGuyOllie=>] Gautoz => (18:20) mistermv (terminé à 00:51)
 
 
 
