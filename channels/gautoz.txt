@@ -13365,7 +13365,9 @@ raids : Gautoz => (14:41) SherikaSherard => jenny_colquitt => (<17:09) CourtneyV
 (lundi)
 => (00:04) galaxylectric => (01:03) [8BitBaka=>(01:08)] kineticturtle => (03:01) [MorganGraceTV=>(03:12)] ZackPaulHarris => ArchaicElectro => OpenSet => LowkeyDoom666 => (08:59) mrmcgoo111 => (11:04) champidipamps => (13:09) MyLostEra => (14:03) lisacuthbertlive => (16:00) plus6production (>17:25) => (<18:25) SurfingTCAS (>20:50) => (<21:22) NewFutureFantasy (>22:12) => (<23:28) sprk_noise (>23:55)
 (mardi)
-=> (<00:23) sealpupB3B0 => (01:14) Morgana_Dreamfire => (02:04) Chiscake => LJPMusic => (<09:14) JonLiMusic => (11:52) daisy_music (>15:40) => (<17:09) CERIANmusic => (20:04) Cerynne (mercredi) (>01:30)
+=> (<00:23) sealpupB3B0 => (01:14) Morgana_Dreamfire => (02:04) Chiscake => LJPMusic => (<09:14) JonLiMusic => (11:52) daisy_music (>15:40) => (<17:09) CERIANmusic => (20:04) Cerynne (>02:00)
+(mercredi)
+=> MialyMusic => (<08:40) Jocelyn_cow (>12:40) => (<13:36) [BandalfLeGland=>(14:04)] LeTroubadourDesInternets => (17:33) Dicomaniaque (terminé à 17:50)
 
 
 --------------------------------------
@@ -13497,7 +13499,32 @@ développé par Bippinbits, studio de deux personnes basé à Dresde, Allemagne 
 ⌨️ 🖱️ en promo à 16,20 € sur Steam (https://cutt.ly/WVUoNrK) et GOG (https://cutt.ly/lVUo1w8)
 
 
-raids : Gautoz => (17:04) lydia__am (>18:45) => (<19:04) FibreTigre => (19:44) Sardoche (mercredi) (>01:30)
+raids : Gautoz => (17:04) lydia__am (>18:45) => (<19:04) FibreTigre => (19:44) Sardoche (mercredi) (terminé à 08:40)
+
+
+--------------------------------------
+2022-09-28
+
+le raid d'hier : Gautoz => lydia__am => FibreTigre => Sardoche (terminé à 08:40)
+le raid de mercredi dernier est toujours en cours ; dernières chaînes depuis hier : ... => JonLiMusic => daisy_music => CERIANmusic => Cerynne => MialyMusic => Jocelyn_cow => LeTroubadourDesInternets
+
+» 🇫🇷 [Gamekult] Une première bande-annonce de gameplay tonitruante pour le FPS compétitif The Finals, et un alpha test qui débute demain → https://cutt.ly/zVHkTzF
+
+» 🇺🇸 [Games Industry] E3 2023… What’s the latest? A few more details on next year's return → https://cutt.ly/EVHd56T
+» 🇫🇷 [Gamekult] Le programme de l'E3 2023 se précise, avec un hall réservé au public → https://cutt.ly/jVHfof2
+
+
+:::::
+» 🇺🇸 [Games Industry] People Can Fly ends publishing agreement with Take-Two. Studio's upcoming Project Dagger may be self-published, working with another publisher not ruled out → https://cutt.ly/FVHsxuL
+» 🇫🇷 [Gamekult] Take-Two rompt avec People Can Fly (Outriders) qui poursuivra le développement de Project Dagger en indépendant. Une rupture dont on ignore tout du motif → https://cutt.ly/fVHsUt2
+
+» 🇫🇷 [Gamekult] La bande-son de Kena : Bridge of Spirits est enfin disponible à l'achat → https://cutt.ly/UVHdnT6
+
+» 🇬🇧 [VGC] GTA 6 hacker suspect pleads not guilty to computer misuse charges. The teenager has also been linked to Uber, Microsoft and Nvidia security breaches → https://cutt.ly/rVHdOmm
+
+» 🇺🇸 [Games Industry] Shuhei Yoshida on PlayStation's ongoing mission to transform how it works with indies. The platform holder's leading indie champion discusses experimenting with indies on PS Plus and why these studios are leading the way in VR → https://cutt.ly/vVHdNbj
+
+raids : Gautoz => (18:24) GamekultLive (terminé à 18:36)
 
 
 
