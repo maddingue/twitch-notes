@@ -7449,7 +7449,7 @@ raids : lesnumeriques => (13:40) Bytell2 (terminé à 15:50)
 
 
 --------------------------------------
-2022-09-26
+2022-09-28
 
 » [Les Numériques] Xiaomi pourrait produire des voitures électriques en collaboration avec BAIC → https://cutt.ly/AVGBdDX
 » [Atlantic Council] Alternative battery chemistries and diversifying clean energy supply chains → https://cutt.ly/kVGB72R
@@ -7508,6 +7508,56 @@ raids : lesnumeriques => (13:39) marmiton_officiel (terminé à 14:43)
 » montres intelligentes : comparatif entre Apple Watch Series 8 et Samsung Galaxy Watch 5
 » porno : un bot de discussion sur Pornhub pour éloigner le gens de contenu trop sensible // articles du Monde sur le rapport sénatorial concernant l'industrie rançaise du porno
 
+
+--------------------------------------
+2022-09-29
+
+» [Les Numériques] Skoda Vision GT : voiture de course électrique, mais virtuelle → https://cutt.ly/JVLoijv
+» [Turbo] BMW XM (2023) : un V8 hybride de 748 chevaux sous le capot → https://cutt.ly/zVLo2Gu
+» [CNBC] All 50 states get green light to build EV charging stations covering 75,000 miles of highways → https://cutt.ly/wVLp5w1
+
+» [Les Numériques] Test Zero Motorcycles FXE : pas pratique, mais tellement fun → https://cutt.ly/VVLaVGS
+» [Les Numériques] Test InMotion Air Pro : une trottinette électrique endurante et bonne rouleuse → https://cutt.ly/5VLdvoQ
+» [AP] Prototype electric airplane takes first flight → https://cutt.ly/iVLdXDe
+» [Seattle Times] First all-new, electric commuter airplane takes flight at Moses Lake → https://cutt.ly/gVLfxbw
+
+» [CNBC] TikTok could face a $29 million fine in the UK for failing to protect kids’ privacy → https://cutt.ly/GVLfHuo
+» [VICE Motherboard] Signal is asking people around the world to help Iranians access the encrypted app. The encrypted chat app published “easy” detailed instructions to help anyone set up a proxy server to help Iranians → https://cutt.ly/YVLgiWE
+» [Ars Technica] Elon Musk offers Iranians uncensored Internet access. Starllink terminals need to actually make it into Iran for users to benefit → https://cutt.ly/wVLgEOn
+
+» [Les Numériques] Cyberattaque contre le Centre hospitalier de Corbeil-Essonnes : les piratent publient des données → https://cutt.ly/KVLhpS3
+» [Les Numériques] Entretien – Pourquoi les hôpitaux sont-ils ciblés par les cybercriminels ? → https://cutt.ly/mVLhzuC
+» [Les Numériques] Surveillance de masse : trois plaintes contre le ministère de l'Intérieur déposées auprès de la Cnil → https://cutt.ly/oVLjqAA
+
+» [Le Monde] Le gouvernement favorable à un prix de 3 euros pour la livraison des livres → https://cutt.ly/qVLjE1R
+
+» [The Verge] What to expect from Tesla’s AI Day event → https://cutt.ly/bVLkm6n
+
+» [Les Numériques] Decathlon, à fond sur la réparation, le reconditionné et la location → https://cutt.ly/QVLlznv
+
+» [Google] Search On 22 → https://cutt.ly/TVLl5zm
+» [The Verge] Leaked Galaxy S23 renders suggest Samsung could ditch the camera bump → https://cutt.ly/7VLxkGN
+» [Les Numériques] iOS 16 semble provoquer des soucis de batterie avec certains iPhone → https://cutt.ly/eVLxbAB
+» [MacRumors] Apple nixes plan to boost iPhone 14 series production due to lower demand → https://cutt.ly/mVLcoSa
+» [Les Numériques] L'Apple Watch Ultra “presque réparable”, dit iFixit → https://cutt.ly/HVLcHoh
+» [Ars Technica] Apple no longer replacing entire iPad mini 6 just to swap the battery → https://cutt.ly/nVLvorJ
+
+» [Les Numériques] Prise en main – On a essayé les Mevo Start de Logitech, un set de caméras sans-fil faciles à piloter pour les créateurs → https://cutt.ly/2VHtJ7t
+» [Ars Technica] Google Fiber touts 20Gbps download speed in test, promises eventual 100Gbps → https://cutt.ly/9VLbTZK
+» [Les Numériques] Nespresso veut séduire les petits espaces avec sa cafetière à dosettes Vertuo Pop → https://cutt.ly/yVLndN2
+» [Les Numériques] Les prix des téléviseurs Oled ne devraient pas baisser avant 2024 → https://cutt.ly/sVLnmn1
+» [Les Numériques] Test LG 65G2 : tout simplement le meilleur téléviseur Oled du constructeur → https://cutt.ly/fVLmzKg
+
+» [CNBC] Artemis moon mission likely delayed until November as NASA moves rocket out of hurricane’s path → https://cutt.ly/pVLmHa7
+» [Sapce War] Outpost completes successful flight tests of their autonomous paraglider → https://cutt.ly/hVLQiut
+» [AGDaily] First autonomous herbicide sprayer available from John Deere → https://cutt.ly/OVLQGyP
+» [NPR] A box of 200 mosquitoes did the vaccinating in this malaria trial. That's not a joke! → https://cutt.ly/KVLQ7QC
+» [NewAtlas] Bipedal Cassie sets Guinness World Record for robotic 100-meter sprint → https://cutt.ly/TVLWCla
+» [SciTechDaily] MIT engineers build wireless underwater camera that doesn’t need batteries → https://cutt.ly/DVLEg2o
+» [Nature] Battery-free wireless imaging of underwater environments → https://cutt.ly/NVLELgE
+» [Nanowerk] Cell Rover: Exploring and augmenting the inner world of the cell → https://cutt.ly/VVLRtYa
+
+raids : lesnumeriques => (13:36) Aubin_Live
 
 
 
