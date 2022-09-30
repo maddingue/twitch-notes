@@ -7557,7 +7557,57 @@ raids : lesnumeriques => (13:39) marmiton_officiel (terminé à 14:43)
 » [Nature] Battery-free wireless imaging of underwater environments → https://cutt.ly/NVLELgE
 » [Nanowerk] Cell Rover: Exploring and augmenting the inner world of the cell → https://cutt.ly/VVLRtYa
 
-raids : lesnumeriques => (13:36) Aubin_Live
+raids : lesnumeriques => (13:36) Aubin_Live => BeaufDelphine => Bytell2
+
+
+--------------------------------------
+2022-09-30
+
+» [CNN] Hurricane hunter: Flight to Hurricane Ian 'worst I've ever been on' → https://cutt.ly/jVCAqjo
+
+» [Les Numériques] Avec des dosettes à café CoffeeB sans emballage, Café royal fait sa révolution écologique → https://cutt.ly/sVCSnZn
+
+» [Les Numériques] Test Enceinte transportable JBL Pulse 5 : plus esthétique qu'acoustique → https://cutt.ly/kVCGWpV
+» [Les Numériques] Skullcandy signe son retour dans le gaming avec un trio de casques hauts en couleur → https://cutt.ly/EVCG4tE
+» [Les Numériques] Syn Max Air : le casque gaming sans-fil de Roccat passe au niveau supérieur, tout comme son prix → https://cutt.ly/6VCHx02
+» [Les Numériques] 109 Pro : le nouveau casque hi-fi ouvert de Meze débarque sur le marché → https://cutt.ly/HVCHBVo
+» [Les Numériques] Bowers & Wilkins présente le PX8, une alternative luxueuse à son déjà dispendieux casque PX7 S2 → https://cutt.ly/cVCJYm3
+» [Les Numériques] Zéro pointé pour les AirPods Pro 2 d'Apple côté réparabilité et environnement → https://cutt.ly/6VCJ2nK
+» [Teenage Engineering] PO-80 record factory, 150 € → https://cutt.ly/gVCKKsa
+
+» [The Verge] Wait, are you guys bringing your phones into the shower? It’s the last safe space I have from my phone, so no, I will not bring my phone into the shower → https://cutt.ly/tVCZSWD
+» [Les Numériques] Test Apple iPhone 14 Pro : moins Max, mais tout aussi Pro → https://cutt.ly/DVCZVak
+» [XDA Developers] Google tweaks last week’s Pixel Watch teaser to make its bezel look slimmer → https://cutt.ly/5VCX9CB
+» [Oura] Oura Ring Gen3, 367 € → https://cutt.ly/9VCCYjw
+» [Les Numériques] Amazon présente sa Kindle Scribe, une liseuse sur laquelle on peut gribouiller → https://cutt.ly/OVCCV5q
+
+» [OpenAI] DALL·E now available without waitlist → https://cutt.ly/VVCBpAD
+» [Meta AI] Introducing Make-A-Video: An AI system that generates videos from text → https://cutt.ly/mVCBjzi
+» [Les Numériques] En Chine, l'intelligence artificielle Tang Yu est devenue PDG → https://cutt.ly/OVCB8gN
+» [VICE Motherboard] Israel deploys AI-powered turret in the West Bank. The Israeli military said the turret won’t fire live rounds → https://cutt.ly/XVCNxpJ
+
+» [Gamekut] Google arrête les frais : Stadia s'arrête le 18 janvier 2023. Press G to pay respects → https://cutt.ly/7VCN4Hg
+» [Gamekut] Les développeurs réagissent à l'arrêt soudain de Google Stadia. Même eux ont été pris de cours → https://cutt.ly/LVCMrLW
+» [Les Numériques] Google Stadia, c'est terminé : le service de cloud gaming ferme ses portes → https://cutt.ly/rVCN15x
+» [Les Numériques] Razer, Qualcomm et Verizon présenteront bientôt une console de jeu portable 5G → https://cutt.ly/sVC1PNX
+» [The Verge] Dbrand’s Steam Deck case is so good it almost makes you forget its big flaw → https://cutt.ly/xVC0AwO
+
+» [Les Numériques] Test AMD Ryzen 9 7950X : un CPU ultra rapide dans toutes les situations → https://cutt.ly/bVC2flG
+» [Les Numériques] Les processeurs Raptor Lake d’Intel (13e génération) arriveraient vite et frapperaient fort → https://cutt.ly/1VC95pd
+» [Les Numériques] 
+» [Les Numériques] 
+
+raids : [DazJDM=>(12:07)] lesnumeriques => (13:39) marmiton_officiel => (15:21) zacknani (terminé à 18:58)
+
+» le résumé de la quotidienne des Numériques
+» un chasseur d'ouragans dit que le cyclone Ian est l'un des pires qu'il a connu
+» café : test en direct des dosettes à café CoffeeB sans emballage
+» audio : une enceinte JBL avec plus de couleurs que d'acoustique // des casques « gaming » trop chers // d'autres casques chers mais de qualité chez Meze et Bowers & Wilkins // zéro pointé pour les AirPods Pro 2 d'Apple côté réparabilité
+» le graveur de disques vinyles Record Factory signé Teenage Engineering
+» smartphones : moment très long et gênant où Lâm explique comment il prend son téléphone avec lui sous la douche pour le nettoyer
+» IA : DALL⋅E 2 maintenant disponible pour tout le monde (50 essais) // Meta AI (Facebook) rend disponible leur outil pour générer des vidéos // en Chine, l'intelligence artificielle Tang Yu est devenue PDG // Israël déploie une tourelle pilotée par IA, mais promis elle ne tire pas (encore) à balles réelles
+» jeux vidéo : Google Stadia ferme le 18 janvier 2023 (dommage de ne pas avoir averti les développeurs plus tôt) // Razer, Qualcomm et Verizon présenteront bientôt une console de jeu portable 5G
+» CPU : tests des nouveaux processeurs AMD Ryzen Series 7000 et Intel Raptor Lake
 
 
 
