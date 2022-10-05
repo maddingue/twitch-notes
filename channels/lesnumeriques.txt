@@ -7610,6 +7610,61 @@ raids : [DazJDM=>(12:07)] lesnumeriques => (13:39) marmiton_officiel => (15:21) 
 » CPU : tests des nouveaux processeurs AMD Ryzen Series 7000 et Intel Raptor Lake
 
 
+--------------------------------------
+2022-10-05
+
+» [Les Numériques] Xiaomi Make Moments Mega : toutes les annonces → https://cutt.ly/BBwPgoO
+» [Les Numériques] Le Xiaomi Smart Band 7 Pro arrive enfin en France ! → https://cutt.ly/TBwAx0y
+» [Les Numériques] Xiaomi Redmi Buds 4 Pro : des écouteurs avec spatialisation 3D à moins de 100 € → https://cutt.ly/NBwAQjq
+» [Les Numériques] Xiaomi TV Q2 : un nouveau téléviseur Qled compatible Dolby Vision IQ, mais toujours limité à 60 Hz → https://cutt.ly/vBwAZcO
+» [Les Numériques] Xiaomi lance son Robot Vacuum X10+ : un aspirateur-robot très bien équipé à prix “attractif” → https://cutt.ly/EBwSyP1
+» [Les Numériques] Xiaomi Truclean W10 Ultra Wet Dry Vacuum, pour laver les sols à haute température → https://cutt.ly/4BwSJee
+» [Les Numériques] Pour les animaux, Xiaomi lance un distributeur de croquettes et une fontaine connectés → https://cutt.ly/hBwDyCQ
+» [Les Numériques] Smart Cooking Robot : le premier robot-cuiseur de Xiaomi se dévoile encore un peu plus → https://cutt.ly/UBwFD7F
+» [Les Numériques] Xiaomi dévoile le Xiaomi 12T, un smartphone abordable qui vise des performances haut de gamme → https://cutt.ly/OBwGvgN
+» [Les Numériques] Redmi Pad : Xiaomi s'invite sur le marché des tablettes abordables avec une offre alléchante → https://cutt.ly/fBwG6ta
+» [Les Numériques] Bon plan – Une tablette Redmi Pad (299 €) offerte avec les précommandes des Xiaomi 12T et 12T Pro → https://cutt.ly/wBwHiWw
+
+» [Les Numériques] Test Motorola Edge 30 Ultra : un bon smartphone haut de gamme qui se cherche encore en photo → https://cutt.ly/bBwH5pM
+» [Les Numériques] Fairphone va commercialiser des smartphones reconditionnés, à commencer par le Fairphone 3 (New Life Edition) → https://cutt.ly/VBwKEF4
+» [Les Numériques] Touch ID ne risque pas de revenir de sitôt sur les iPhone → https://cutt.ly/5BwLsBg
+
+» [Les Numériques] La Pixel Watch se montre en vrai dans un unboxing précoce → https://cutt.ly/9BwZn9n
+» [Les Numériques] La OnePlus Nord Watch est officielle : look d'Apple Watch, écran Amoled et 10 jours d'autonomie → https://cutt.ly/mBwXRjZ
+» Gatorade - Smart Gx Bottle Kit, 70 $ → https://cutt.ly/yBwCfQb
+
+» [Les Numériques] Bathys, le casque nomade Bluetooth de référence selon Focal → https://cutt.ly/kBwVH5L
+» [Les Numériques] Sleep A10 : Soundcore lance des bouchons d’oreilles connectés → https://cutt.ly/eBwBysu
+» [Les Numériques] Liberty 4 : Soundcore lance de nouveaux écouteurs “true wireless” dotés d’un capteur de fréquence cardiaque → https://cutt.ly/4BwB8YD
+
+» [Les Numériques] Acer se lance pour de bon dans les composants avec une carte graphique Intel Arc A770 → https://cutt.ly/OBwNmpi
+» [Les Numériques] Se procurer un Raspberry Pi risque de rester très compliqué → https://cutt.ly/ZBwMuwU
+» [Les Numériques] Le noyau Linux 6.0 est arrivé, quelles sont les nouveautés ? → https://cutt.ly/yBwMvEs
+» [Les Numériques] Roccat s’attaque aux mini-claviers avec le Vulcan II Mini au format 65 % → https://cutt.ly/SBwMHZH
+» [Gizmodo] Google Japan puts entire keyboard on one long stick. An April Fools' Day prank from a few years ago continues to spiral out of control → https://cutt.ly/kBw1xGy
+» [Les Numériques] Le Parlement européen impose un chargeur universel pour tous les smartphones d’ici l’automne 2024 → https://cutt.ly/pBw0juT
+» [Bloomberg] Musk revives $44 billion Twitter bid, aiming to avoid trial → https://cutt.ly/ZBw2kM2
+» [Les Numériques] Elon Musk accepte finalement d’acheter Twitter pour mettre fin aux poursuites judiciaires → https://cutt.ly/0Bw2Acs
+» [New Atlas] World's whitest paint is now thin enough to coat cars and planes → https://cutt.ly/PBw9dQ4
+
+» [Les Numériques] Samsung Galaxy S23 et S23+ : des batteries plus imposantes en prévision ? → https://cutt.ly/vBwJ1me
+
+raid : lesnumeriques => (13:42) marmiton_officiel => (14:54) chocolatier_paulgarderes => CakenTaste => (21:10) DocChaFatLife => mademoiselle_f => (22:29) BigsebekTV (terminé à 23:23)
+
+
+» le résumé de la quotidienne des Numériques
+» récapitulatif des annonces de la conférence Xiaomi avec de nouveaux téléphones (comme toutes les semaines), des écouteurs, une tablette, deux télés, deux aspirateurs-nettoyeurs, un distributeur de croquettes, un robot-cuiseur
+» Lâm a passé 45 min pour retrouvrer la photo de deux moutons… compliqué car il ne sait pas distingurer un mouton d'une chèvre LUL
+» smartphones : Fairphone va commercialiser des smartphones reconditionnés en France // Touch ID ne risque pas de revenir de sitôt sur les iPhone
+» montres connectées : toujours de nouvelles images de la Pixel Watch // confirmation de la OnePlus Nord Watch
+» le monde avait-il besoin d'une gourde connectée ? Gatorade pense que oui
+» santé : Soundcore lance des bouchons d’oreilles connectés, ainsi que des écouteurs dotés d’un capteur de fréquence cardiaque
+» ordinateurs : Acer se lance dans les composants avec une carte graphique Intel Arc // Se procurer un Raspberry Pi risque de rester très compliqué
+» réglementation : Le Parlement européen impose un chargeur universel pour tous les smartphones d’ici l’automne 2024
+» Elon Musk change à nouveau d'avis, et propose à nouveau d'acheter Twitter pour la valeur initiale
+» la peinture la plus blanche du monde est maintenant bien plus fine, et pourra donc être utilisée pour les voitures et les avions
+
+
 
 » [Les Numériques] 
 » [Gamekult] 
