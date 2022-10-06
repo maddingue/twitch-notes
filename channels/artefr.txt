@@ -161,5 +161,5 @@ raids : [Gilles_Stella=>(20:25)] [mDeetz=>(20:49)] [TiTavion=>(22:18)] artefr =>
 --------------------------------------
 2022-09-07
 
-[mDeetz=>(21:28)] artefr => (22:35) Merry (jeudi) [Pixx3ll=>(01:02)] (>01:40)
+[mDeetz=>(21:28)] artefr => (22:35) Merry (jeudi) [Pixx3ll=>(01:02)] => (01:40) TiTavion (terminé à 01:56)
 
