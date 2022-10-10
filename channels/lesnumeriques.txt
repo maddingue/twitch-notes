@@ -7665,6 +7665,53 @@ raid : lesnumeriques => (13:42) marmiton_officiel => (14:54) chocolatier_paulgar
 » la peinture la plus blanche du monde est maintenant bien plus fine, et pourra donc être utilisée pour les voitures et les avions
 
 
+--------------------------------------
+2022-10-10
+
+» [Blizzard] Overwatch 2 Launch Status Update → https://cutt.ly/RBklVnu
+» [Gamekult] Street Fighter 6 : une bêta qui vaut cher → https://cutt.ly/OBklAYq
+» [The Verge] There’s a new Twitch viewer record, and it happened during a boxing stream. Ibai’s boxing event hit a peak of more than 3.3 million concurrent viewers → https://cutt.ly/NBkcj1Q
+
+» [Les Numériques] Test Eufy Video Doorbell Dual : une sonnette qui a les yeux partout → https://cutt.ly/5BkbMWd
+» [Les Numériques] Dyson Gen5Detect, le nouvel aspirateur-balai qui mise sur un moteur et un laser plus puissants → https://cutt.ly/ZBknpaI
+» [Les Numériques] LG dévoile son téléviseur Magnit Micro-Led de 136 pouces à 300 000 $ → https://cutt.ly/PBknIIK
+» [Les Numériques] Test BenQ Mobiuz EX3410R : un très bon moniteur 34 pouces panoramique 144 Hz et réactif → https://cutt.ly/VBkmRCX
+» résultat du sondage utilisez-vous les ports USB de votre moniteur gamer ? non à 69%, oui à 31%
+» [Les Numériques] Acer dégaine le Swift Edge, un PC portable ultrafin avec écran Oled de 16 pouces → https://cutt.ly/4Bkm6WP
+» [Les Numériques] Test Huawei MateBook X Pro 2022 : l'ultraportable le plus élégant de Huawei → https://cutt.ly/1BkWfcW
+
+» [Ars Technica] Intel A770, A750 review: We are this close to recommending these GPUs. New GPU series, ranging from $289 to $349, is less "amazing" and more "interesting" → https://cutt.ly/EBkEfZc
+» [Les Numériques] Le code source des processeurs Intel Alder Lake a été publié sur 4chan → https://cutt.ly/5BkEGxI
+» [Les Numériques] Des détails apparaissent sur la future puce Snapdragon 7 Gen de Qualcomm → https://cutt.ly/FBkRfgn
+
+» [Les Numériques] Test Samsung Galaxy A23 : un coureur de fond compatible avec la 5G → https://cutt.ly/cBkThMW
+» [Les Numériques] Xiaomi Mix Fold 2 : prise en main du smartphone pliant le plus séduisant du marché → https://cutt.ly/HBkYiWH
+» [Les Numériques] Apple : les coûts de production des iPhone 14 ont augmenté de 20 % → https://cutt.ly/LBkY9XE
+» [CNET France] Les montagnes russes déclencheraient la détection de collision de l'iPhone 14 et de l'Apple Watch. La fonction de détection d’accident du dernier smartphone Apple semble interpréter les mouvements brusques comme des accidents de voiture → https://cutt.ly/1BkUGmF
+» [Caviar] custom iPhone 14 → https://cutt.ly/3BkIx6G
+
+» [Les Numériques] Malgré l’inflation et la pénurie, Sony a de grands espoirs concernant son prochain casque PlayStation VR2 → https://cutt.ly/lBkINq2
+» [Les Numériques] On a essayé le PlayStation VR2, le casque de réalité virtuelle de la PS5 → https://cutt.ly/9BkOq1I
+
+» [Les Numériques] Prise en main – Orbea Rise M-LTD : un VTT électrique tout-suspendu de seulement 17 kg → https://cutt.ly/cBkPrJN
+» [Les Numériques] Prise en main – BH iLynx Trail : le VTT électrique à assistance légère pour plus de fun → https://cutt.ly/5BkPG70
+» [Les Numériques] Decathlon dévoile enfin une gamme de VTTAE Rockrider avec 5 nouveaux modèles E-EXPL → https://cutt.ly/fBkSojY
+» [CyclingTips] That new Pinarello Bolide Hour Record bike is 3D-printed. Dan Bigham told us we hadn't spotted everything. Now we know the new Bolide F HR frame is 3D-printed → https://cutt.ly/ZBkDloT
+
+» [Les Numériques] Test JBL Live Pro 2 : des écouteurs confortables, mais bien trop démonstratifs → https://cutt.ly/zBkDLtO
+» [Les Numériques] KEF Mu7 → https://cutt.ly/FBkFyr0
+» [Les Numériques] Rialto : Cabasse lance ses premières enceintes hi-fi et connectées au format bibliothèque → https://cutt.ly/YBkFSHX
+» [Les Numériques] Jamo revient sur le devant de la scène avec Studio7, sa nouvelle gamme d’enceintes passives → https://cutt.ly/bBkGbYR
+» [Les Numériques] Test Enceinte transportable Sony SRS-XE300 : bien plus capable que sa petite sœur → https://cutt.ly/DBkG7IB
+» [Les Numériques] Test Sony SRS-XG300 : une enceinte transportable élégante, baroudeuse et complète → https://cutt.ly/6BkH33y
+» [Les Numériques] Test Enceinte transportable JBL Pulse 5 : plus esthétique qu'acoustique → https://cutt.ly/8BkJLzz
+» [Les Numériques] Test Ultimate Ears Wonderboom 3 : une enceinte portable qui fait le buzz → https://cutt.ly/PBkKhKh
+» [Les Numériques] Test Marshall Willen : une enceinte ultra-portable qui en a sous le capot → https://cutt.ly/nBkL8I2
+» [Les Numériques] Test Enceinte portable Marshall Emberton II : une seconde version sans prise de risque → https://cutt.ly/cBkZQbH
+
+raids : lesnumeriques => (13:41) tpk_live => (14:47) KAOsvmd => Ultia => (20:15) Histoire_Appliquee (>22:40)
+
+
 
 » [Les Numériques] 
 » [Gamekult] 
@@ -7726,4 +7773,5 @@ clips :
 🎥 Lâm ne sait pas utiliser la machine à café → https://clips.twitch.tv/RefinedFurtiveEagleDogFace-OZeH6r0-2MQLUPH1
 🎥 Diana, reine de l'infini (1) → https://clips.twitch.tv/MildMistyClipsmomCoolStoryBob-yWDaz3GV6JhLPb1h
 🎥 Diana, reine de l'infini (2) → https://clips.twitch.tv/SneakyDepressedHedgehogCharlieBitMe-uAvWje0-nTiKfFzO
+🎥 Lâm teste comment renverser sa gourde → https://clips.twitch.tv/ObesePrettiestCockroachTheTarFu-UJonxYkRudCPYfVo
 
