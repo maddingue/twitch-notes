@@ -7709,7 +7709,29 @@ raid : lesnumeriques => (13:42) marmiton_officiel => (14:54) chocolatier_paulgar
 » [Les Numériques] Test Marshall Willen : une enceinte ultra-portable qui en a sous le capot → https://cutt.ly/nBkL8I2
 » [Les Numériques] Test Enceinte portable Marshall Emberton II : une seconde version sans prise de risque → https://cutt.ly/cBkZQbH
 
-raids : lesnumeriques => (13:41) tpk_live => (14:47) KAOsvmd => Ultia => (20:15) Histoire_Appliquee (>22:40)
+raids : lesnumeriques => (13:41) tpk_live => (14:47) KAOsvmd => Ultia => (20:15) Histoire_Appliquee (>22:40) => (<00:10) MetalleuxCurieux (terminé à 00:28)
+
+
+--------------------------------------
+2022-10-11
+
+» [Twitter] Warren Craddock - I've worked on a number of high-profile failures: → https://cutt.ly/yBcuHir
+
+» [Les Numériques] Avec la Smart Soundbar 600, Bose a maintenant sa barre de son compacte Dolby Atmos → https://cutt.ly/DBcpe6T
+
+» [Les Numériques] iPhone 15 : Apple va devancer les obligations de l’UE en intégrant l’USB-C dès 2023 → https://cutt.ly/XBcaHDK
+» [Les Numériques] Apple : le futur iPhone SE pourrait enfin adopter le design de l’iPhone 11 → https://cutt.ly/KBcs2z8
+» [Les Numériques] Google Pixel Watch : les mises à jour ne sont garanties que pour les trois prochaines années → https://cutt.ly/MBcdGn9
+
+» [Daring Fireball] AirTags in checked baggage → https://cutt.ly/SBcgIUh
+» [One mile at a time] Lufthansa bans AirTags: will other airlines follow? → https://cutt.ly/7BcgLmS
+
+» [Les Numériques] Test Fujifilm X-H2 : haute définition, vidéo, vitesse... il a presque tout → https://cutt.ly/aBckwwO
+» [Les Numériques] Test Sac Manfrotto Tote Bag Convertible Street : la vie quotidienne avant la photo → https://cutt.ly/hBcleTI
+
+» [Gamekult] Keystone : Phil Spencer laisse entrevoir sa Xbox dédiée au streaming → https://cutt.ly/ABcxdHz
+» [Gamekult] L'abonnement Game Pass a généré 2,9 milliards de dollars sur consoles en 2021, ce qui représente 18% du revenu total de Xbox → https://cutt.ly/5BcxBtD
+» [Gamekult] Star Citizen a été acheté par 1,7 million de joueurs. Le jeu de Chris Roberts fait le plein de statistiques → https://cutt.ly/0Bccdl8
 
 
 
