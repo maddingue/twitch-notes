@@ -7742,7 +7742,46 @@ raids : lesnumeriques => (13:41) tpk_live => (14:47) KAOsvmd => Ultia => (20:15)
 » Lâm, Erick, Karl et Crono au volant d'une Mercedes EQS, en vadrouille entre Boulogne et Levallois-Perret, mais avec beaucoup de problèmes de connexion 4G donc Diana a fait du meublage IKEA la moitié du temps
 » information du jour : Lâm avait des chaussettes roses, Diana des chaussettes avec des petits champignons
 
-raids : lesnumeriques => (13:50) marmiton_officiel => (14:14) Solary (jeudi) (>00:30)
+raids : lesnumeriques => (13:50) marmiton_officiel => (14:14) Solary (jeudi) (vendredi ) (>02:05)
+
+
+--------------------------------------
+2022-10-13
+
+» [Gizmodo] Animated googly eyes could make autonomous cars safer for pedestrians. A hilarious upgrade makes it obvious what a self-driving car has detected. → https://cutt.ly/4BEgtDz
+» [ABC 7 NY] Chinese firm tests electric flying cars in Dubai, offering glimpse into future of travel. The pilot-less taxis could one day ferry passengers across town high above congested roadways → https://cutt.ly/bBEhMWj
+» [TechXplore] Battery tech breakthrough paves way for mass adoption of affordable electric car → https://cutt.ly/lBEkfJH
+» [Business AM] Charger la batterie de votre véhicule électrique en 5 minutes ? Selon la NASA, ça sera bientôt possible → https://cutt.ly/nBElgIo
+
+» [Les Numériques] Test Xiaomi 12T Pro : une expérience haut de gamme, au-delà de la photo → https://cutt.ly/EBElARP
+» [Les Numériques] Test Google Pixel 7 : On ne change pas (vraiment) une équipe qui gagne → https://cutt.ly/vBEswy8
+» [Les Numériques] Labo – Google Pixel 7 Pro : face à l'iPhone 14 Pro Max, un zoom qui impressionne → https://cutt.ly/ABEcBT9
+» [Les Numériques] Labo — La montre Pixel Watch de Google assure-t-elle vraiment 24h d'autonomie ? → https://cutt.ly/sBEbaBn
+
+» [Les Numériques] Test Nvidia GeForce RTX 4090 : un monolithe de luxe qui mise tout sur le raytracing et la 4K → https://cutt.ly/SBEsnPE
+» [YouTube - Digital Foundry] Nvidia GeForce RTX 4090 review: the next level in graphics performance → https://cutt.ly/1BEWQFK
+» [YouTube - Digital Foundry] Nvidia DLSS 3 analysis: image quality, latency, V-Sync + testing methodology → https://cutt.ly/FBEW0CQ
+» [VideoCardz] GeForce RTX 4090 has been tested at 8K, up to 520 FPS in Overwatch 2 → https://cutt.ly/GBEEd24
+» [WCCF Tech] NVIDIA DLSS 3 “frame generation” lock reportedly bypassed, RTX 2070 gets double the frames in Cyberpunk 2077 → https://cutt.ly/dBEEZ1s
+» [Notebook Check] Underwhelming AMD Radeon RX 7000 performance estimate renders it incapable of competing with Ada Lovelace in rasterization and raytracing → https://cutt.ly/1BERrwo
+
+» [Les Numériques] Surface Pro 9, Surface Laptop 5, Surface Studio 2+ : les nouveaux PC de Microsoft arrivent → https://cutt.ly/IBEROex
+» [Les Numériques] LG Display envisage la production de dalles Oled de 27 et 32 pouces → https://cutt.ly/qBEY83g
+
+» [Les Numériques] Test Casque Bluetooth Focal Bathys : la performance sonore avant tout → https://cutt.ly/OBEdi4p
+
+» [Les Numériques] Test Xiaomi Smart Pet Feeder : un distributeur de croquettes au poil pour chien et chat → https://cutt.ly/mBEOsMB
+» [PV Tech] Greece runs entirely on renewables for the first time in its history → https://cutt.ly/SBEPuW5
+
+» [Scientific American] A supersmeller can detect the scent of Parkinson’s, leading to an experimental test for the illness. This Scottish woman’s hypersensitive nose picked up a chemical signature of Parkinson’s disease that has been used to develop a skin-swab diagnostic → https://cutt.ly/aBEPYjU
+» [ABC.net.au] Brain cells in dish taught to play Pong in experiment that could simplify research into epilepsy, dementia → https://cutt.ly/IBEA3NX
+» [AP News] Scientists grow human brain cells in rats to study diseases → https://cutt.ly/6BESh5r
+» [VICE Motherboard] Police are using DNA to generate 3D images of suspects they've never seen. “Releasing one of these Parabon images to the public like the Edmonton Police did recently, is dangerous and irresponsible, especially when that image implicates a Black person and an immigrant.” → https://cutt.ly/PBES8kW
+
+» [Natural History Museam] Wildlife photographer of the year → https://cutt.ly/nBEDHlZ
+» [Nikon Small World] Photomicrography Competition → https://cutt.ly/sBEFRug
+
+raids : lesnumeriques => (13:40) SieurPC (>18:30) => (<19:13) WaterPatate (>19:35) => SkitsTV (vendredi) => (00:48) Neitag => (02:03) minitoma04 (>02:05)
 
 
 
