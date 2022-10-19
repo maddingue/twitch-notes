@@ -7826,6 +7826,61 @@ raids : lesnumeriques => (13:40) SieurPC (>18:30) => (<19:13) WaterPatate (>19:3
 » [Les Numériques] Test Sony ZV-1F : le vlog dans son plus simple appareil → https://cutt.ly/xBZuHRO
 
 
+--------------------------------------
+2022-10-19
+
+» [Les Numériques] Test Xiaomi 12T Pro : une expérience haut de gamme, au-delà de la photo → https://cutt.ly/5BVFFjt
+» [Les Numériques] Poco F5 : des fuites laissent entrevoir une fiche technique ambitieuse → https://cutt.ly/mBVGoRF
+» [Les Numériques] OnePlus pourrait abandonner l'appellation "Pro" pour le OnePlus 11 → https://cutt.ly/oBVGJAj
+» [Les Numériques] Test Google Pixel 7 Pro : une réussite sur tous les plans → https://cutt.ly/xBVG79l
+» [Les Numériques] Test Google Pixel 7 : On ne change pas (vraiment) une équipequi gagne → https://cutt.ly/vBEswy8
+
+» [Les Numériques] La puce M2 d'Apple apporte sa puissance aux iPad Pro → https://cutt.ly/fBVV3f6
+» [Les Numériques] Apple souffle un peu d'Air nouveau sur son iPad d'entrée de gamme → https://cutt.ly/CBVMEFS
+» [Les Numériques] Test Apple iPad Air 5 : la puissance du M1 dans un modèle de choix → https://cutt.ly/dBV0msY
+» [Ars Technica] iPhone now supports 86-year-old Dvorak keyboard layout natively, delighting Woz. Trendy 1930s QWERTY-alternative plays catch-up on iPhone → https://cutt.ly/RBV2Yfn
+
+» [Les Numériques] Tickets de métro et Pass Navigo arrivent sur tous les smartphones Android à Paris → https://cutt.ly/NBV3rUN
+
+» [Les Numériques] Nokia Streaming Stick 800 : une clé Full HD de plus pour connecter vos vieux TV → https://cutt.ly/OBV3XkR
+» [Les Numériques] Apple sort deux nouvelles Apple TV 4K, dopées à l’A15 → https://cutt.ly/rBV35MW
+
+» [Les Numériques] Test Garmin Venu SQ 2 : une Venu 2 carrée et allégée → https://cutt.ly/UBV8ZsE
+» [Les Numériques] Suunto lance la 9 Peak Pro, sa montre multisport GPS “la plus puissante” → https://cutt.ly/8BV88H1
+» [Fossil] Gen 6 Wellness → https://cutt.ly/8BV4v5P
+
+» [Les Numériques] Meta contraint de vendre Giphy après avoir perdu son bras de fer contre le régulateur britannique → https://cutt.ly/gBV7NQA
+» [Les Numériques] Même les employés de Facebook n’utilisent pas vraiment le métavers de Facebook → https://cutt.ly/QBV5wMl
+» [Wall Street Journal] Company documents show Meta’s flagship metaverse falling short.  Most visitors to Horizon Worlds generally don’t return after first month; ‘an empty world is a sad world’ → https://cutt.ly/xBV5bHU
+
+» [Les Numériques] Quelle surprise, une étude explique que TikTok vous piste partout sur le web → https://cutt.ly/SBV5XER
+» [TikTok] Enhancing the LIVE community experience with new features, updates, and policies → https://cutt.ly/OBV55Bw
+
+» [Les Numériques] Truth Social est finalement arrivé sur le Google Play Store → https://cutt.ly/ZBV6SZe
+» [Les Numériques] Projet Starline : la vidéoconférence du futur par Google → https://cutt.ly/bBBqpJP
+
+» [Les Numériques] Razer Edge, la Nintendo Switch du cloud gaming → https://cutt.ly/yBBwxug
+» [The Verge] Logitech’s G Cloud Gaming Handheld is terminally online → https://cutt.ly/MBBevBs
+» [Gamekult] Pour la manette sans-fil DualSense Edge, ce sera 239,99 €, le 26 janvier → https://cutt.ly/TBBe2l6
+» [PDP] PS5, PS4 & PC Victrix Pro BFG Wireless Controller → https://cutt.ly/bBBr7Yf
+» Panerai and Razer Play to Win → https://cutt.ly/LBBtO1I
+» [Kickstarter] The Pointer Instrument. Leather Mouse, Designed To Last → https://cutt.ly/WBBt64L
+» [Lunar Artefacts] les souris Pointer Instrument, à partir de 200 € → https://cutt.ly/EBBueR7
+
+raids : lesnumeriques => (13:39) marmiton_officiel => (14:16) Madmoizelle (terminé à 14:50)
+
+
+» le résumé de la quotidienne des Numériques
+» point smartphones avec Laure : test du Google Pixel 7 et 7 Pro, et du Xiaomi 12T Pro
+» Apple : les nouveaux iPad d'entrée de gamme (puce A14) et pro (puce M2) // iOS 16 supporte maintenant le clavier Dvorak // nouvelles Apple TV 4K (puce A15)
+» début du support des tickets de métro et Pass Navigo sur Android
+» montres connectées : test de la Garmin Venu SQ 2, annonce de la Suunto 9 Peak Pro et des Fossil 6 Wellness
+» Facebook : Meta est contraint de revendre Giphy // personne, pas même les employés de Facebook, n'utilise le métavers de Facebook
+» TikTok : sans surprise, TikTok vous piste partout sur le web // TikTok va proposer de nouvelle fonctionnalités pour concurrencer Instagram, voire OnlyFans
+» jeux vidéo : les terminaux de jeux portables Razer Edge et Logitech G Cloud Gaming (personne n'y croit) // la manette DualSense Edge sera disponible à 240 € le 26 janvier
+» Lâm a terminé en montrant longtemps des souris en cuir et bronze à 200 € 🖱️
+
+
 
 » [Les Numériques] 
 » [Gamekult] 
@@ -7837,6 +7892,7 @@ raids : lesnumeriques => (13:40) SieurPC (>18:30) => (<19:13) WaterPatate (>19:3
 » [VICE Motherboard] 
 » [Engadget] 
 » [AnandTech] 
+
 
 📯 📯 📯
 ⭐⭐⭐⭐⭐
