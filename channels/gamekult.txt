@@ -18845,7 +18845,7 @@ Point news JV 🗞️
 » 📰 [Gamekult 18 janvier 2019] Figure majeure de l'histoire de Sega, Rieko Kodama va être honorée à la GDC → https://cutt.ly/wNl8eKP
 » [GDC 2019-01-17] Trailblazing Sega dev Rieko Kodama to be honored with Pioneer Award at GDC 2019! → https://cutt.ly/QNl8ofS
 
-
+raids : GamekultLive => (14:06) JVleMag
 
 
 Bayonetta 3, sorti aujourd'hui sur Switch
@@ -18859,20 +18859,11 @@ excuses de sac :
 - il aurait suffit que je lise, genre (Antoine)
 
 
-
-📅 le programme de la semaine → https://cutt.ly/rNt7oTh
-📅 mardi 17:30, 
-📅 mercredi 17:30, 
-📅 jeudi 17:30, 
-📅 vendredi 13:00, Point news JV 🗞️
-📅 vendredi 17:30, jeu mystère (Luma)
-
-📺 samedi matin, Gamekult l'émission
 👾 Rétro Dash sur les jeux d'horreur en 2D 👻 → https://cutt.ly/VNszNaK
 ⚖️ Revendre ses jeux dématérialisés ? toujours pas possible. C'est le point juridique de von yaourt → https://cutt.ly/dNsz5pc
 🎭 iro-iro la symbolique du masque → https://cutt.ly/QNl9htK
-🎶 Gammes Kultes sur A Musical Story
-📱️ Juste un Doigt
+🎶 Gammes Kultes sur A Musical Story → https://cutt.ly/bNI4eLx
+📱️ Juste un Doigt sur Poinpy → https://cutt.ly/tNI4oNp
 
 📰 preview : Resident Evil 8 Village, faut-il s'aventurer dans "Les Ombres de Rose" ? par Virgile → https://cutt.ly/fNudIi1
 📰 test : Bayonetta 3 casse ses vieux démons. Avec sa sorcière, Platinum joue au nécromancien → https://cutt.ly/UNsxhy3
@@ -18881,7 +18872,67 @@ excuses de sac :
 📰 preview : The Callisto Protocol a peut-être eu la main un peu lourde sur l'héritage. Le jeu de Striking Distance peine toujours autant à s'affirmer. par Le Père Fidalbion → https://cutt.ly/BNkvdh0
 📰 test : Dragon Quest X Offline, une génération perdue → https://cutt.ly/UNl4Es0
 
-raids : GamekultLive => (14:06) JVleMag
+
+--------------------------------------
+2022-11-02 - Mega Drive Mini 2
+
+Mega Drive Mini 2, disponible en précommande uniquement sur Amazon
+🛍️ 110 € sur Amazon → https://cutt.ly/KNI6qWu
+📄 liste des jeux → https://cutt.ly/pNOqMhg
+🇯🇵 version japonaise → https://sega.jp/mdmini2/
+https://games.sega.com/mini2/
+
+excuses de sac :
+- ah ben non, tu vas m'humulier (Puyo)
+- c'est un peudo, malheureusement, qui montre que je suis un sale escroc (Puyo)
+- comme je n'ai pas joué à Sonic CD depuis… ouf… ouf… presque une dizaine d'années (von_yaourt)
+
+raids : [Netageo=>(17:59)] GamekultLive
+
+
+--------------------------------------
+2022-11-03 - The Chant
+
+The Chant, sorti aujourd'hui sur PlayStation 5, Xbox Series X|S et PC
+développé par Brass Token, studio d'une vingtaine de personnes basé à Vancouver, Canada 🇨🇦 dont c'est le premier jeu → https://theChant.com | https://BrassToken.com
+🎶 musiques par Paul Ruskay (Homeworld 1 & 2, Deserts of Kharak)
+🎮 40 € en grande distribution
+🎮 40 € sur PlayStation (https://cutt.ly/JNOrK01) et Xbox (https://cutt.ly/5NOrC5C)
+⌨️ 🖱️ 40 € sur Steam (https://cutt.ly/YNOrhfC)
+⏱️ durée de vie : environ 8 h
+
+excuses de sac :
+- j'ai pas réagi assez vite j'étais en train de lire le tchat 💬👀 (Virgile)
+- j'avais pas fabriqu" mon truc ! (Virgile)
+
+
+
+📅 le programme de la semaine → https://cutt.ly/MNUMySe
+📅 mardi 17:30, 
+📅 mercredi 17:30, Mega Drive Mini 2
+📅 jeudi 17:30, The Chant
+📅 vendredi 13:00, Point news JV 🗞️
+📅 vendredi 17:30, Ghost Song
+
+📺 samedi matin, Gamekult l'émission
+🎤 Le tour du retour de la Paris Games Week 2022 par la rédaction → https://cutt.ly/lNJngmK
+
+📰 test : God of War Ragnarok, c'est toujours hachement bien. 8/10 par Puyo → https://cutt.ly/nNJnyQp
+
+
+--------------------------------------
+2022-11-04 - Point news JV 🗞️, Ghost Song
+
+Point news JV 🗞️
+
+
+Ghost Song, sorti hier 3 novembre 2022 sur Switch, PlayStation, Xbox et PC
+développé par Old Moon / Matt White 🇺🇸 → https://GhostSongGame.com
+💵 Kickstarter réussi en août 2013, passé sur Steam Greenlight en mai 2014 ; développement refait de zéro début 2018 → https://cutt.ly/jNOoTuG
+🎮 20 € sur Switch (https://cutt.ly/VNOpuNS) et PlayStation (https://cutt.ly/ONOpTfZ)
+🎮 20 € ou inclus dans le Game Pass Xbox et PC (https://cutt.ly/6NOpO4Y)
+⌨️ 🖱️ 20 € sur Steam (https://cutt.ly/hNOpeT2) et GOG (https://cutt.ly/fNOpypw) 
+📰 preview du 14 novembre 2014 par Thomasorus → https://cutt.ly/UNOyQfO
 
 
 
@@ -19031,6 +19082,7 @@ https://www.nintendo.fr/Rechercher/Rechercher-299117.html?f=147394-86
 📺 la chaîne YouTube de Kamui → http://cpc.cx/q3B
 📺 la chaîne YouTube de Masahiro Sakurai on Creating Games → https://youtube.com/c/sora_sakurai_en
 📺 la chaîne YouTube de Merry → https://www.youtube.com/MerrysurYT
+📺 la chaîne YouTube de Netageo → https://youtube.com/c/NetageoFr
 📺 la chaîne YouTube de NoClip → http://cpc.cx/kBN
 📺 la chaîne YouTube de Pipomantis (à vos risques et périls 😱) → http://cpc.cx/m4y
 📺 la chaîne YouTube d'UbiLoud, avec les musiques des jeux Ubisoft → https://www.youtube.com/user/UbiLoud
