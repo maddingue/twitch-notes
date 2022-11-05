@@ -8280,7 +8280,44 @@ raids : lesnumeriques => (13:35) inforea => (14:03) Meskawaii (terminé à 16:11
 
 (ballade dans la PGW)
 
-raids : lesnumeriques => (13:38) AVAMind
+raids : lesnumeriques => (13:38) AVAMind => DamDamLive => KenB0gard => maghla
+
+
+--------------------------------------
+2022-11-04
+
+» vMix - Live Production & Streaming Software → https://vmix.com
+» OBS Studio → https://OBSProject.com
+» RØDECaster Pro → https://cutt.ly/aNL7TeQ
+
+» [Newsweek] Baby alpaca learns to walk again thanks to prosthetic leg in adorable clip → https://cutt.ly/yNL630j
+» [Digital Trends] This gaming PC inside a vintage radio is truly amazing → https://cutt.ly/KNZqIBt
+» [NL Times] Dutch employee fired by U.S. firm for shutting off webcam awarded €75,000 in court → https://cutt.ly/BNZwph1
+» [The Verge] 500 drones will form a giant Candy Crush ad above NYC tonight → https://cutt.ly/QNZwKGf
+» [Les Numériques] Nintendo ne veut plus que les joueurs se blessent en jouant à Mario Party → https://cutt.ly/JNZeEiI
+» [Les Numériques] Hummer lance un vélo électrique aussi massif que ses voitures → https://cutt.ly/ONZra0E
+» [Les Numériques] Test iWeech (17 octobre 2021) : un vélo électrique urbain, intelligent et pratique → https://cutt.ly/hNZtdtN
+» iWeech 24" S+, 4190 € → https://iweech.com/iweech-s-plus/
+» [Les Numériques] Comparatif / 59 vélos électriques testés Novembre 2022 → https://cutt.ly/kNZuQYD
+» [Les Numériques] Quels sont les meilleurs vélos à assistance électrique ? Novembre 2022 → https://cutt.ly/SNZuYoc
+» regardez la chaîne de LockPickingLawyer qui teste les antivols et autres cadenas, en les forçant en 20 sec → https://www.youtube.com/c/lockpickinglawyer
+» [Les Numériques] Café en grain ou à capsules : quelle est la rentabilité des cafetières ? → https://cutt.ly/rNZiJoR
+» [Les Numériques] 
+» [Les Numériques] 
+
+» le résumé de la quotidienne des Numériques présentée exceptionnellement par Diana et Karl
+» visite et présentation de la régie
+» un bébé alpaga apprend à marcher avec une prothèse (c'est adorable)
+» un PC de jeu dans un boîtier radio de 1940
+» un employé d'une entreprise américaine, licencié parce qu'il avait éteint la caméra qui le filmait toute la journée, a gagné son procès contre cette entreprise
+» 500 drônes forment une gigantesque pub pour Candy Crush dans le ciel de New York (c'est déprimant)
+» Nintendo ne veut plus que les joueurs se blessent en jouant à Mario Party
+» Hummer lance un vélo électrique aussi massif que ses voitures
+» point vélo à assistance électrique avec Tanguy
+» point maison avec Marie : dossier sur la rentabilité des cafetières automatique, test d'un aspirateur automatique
+» et un quizz
+
+raids : lesnumeriques => (13:37) marmiton_officiel => (15:33) Billiechou (terminé à 18:34)
 
 
 
