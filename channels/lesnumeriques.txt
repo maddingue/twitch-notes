@@ -8319,7 +8319,7 @@ raids : lesnumeriques => (13:37) marmiton_officiel => (15:33) Billiechou (termin
 
 
 --------------------------------------
-2022-11-04
+2022-11-09
 
 » ASRock → 13.3” side panel kit → https://cutt.ly/VN68Aq1
 » [Mini Machines] ASRock Side Panel : un écran intégré à votre boitier de PC ? → https://cutt.ly/UN68X5H
@@ -8358,6 +8358,57 @@ raids : lesnumeriques => (13:13) marmiton_officiel => Chocolatier_PaulGarderes =
 » crypto-monnaie : effondrement des crypto-monnaies, panique chez les pigeons (désolé)
 » séries et films : La série Westworld abandonnée par HBO et privée de saison 5 // Critique de Black Panther 2 par Les Nums : un blockbuster touchant, coincé entre ambitions et obligations // Shawn Levy devrait diriger un nouveau film Star Wars après Deadpool 3 et les épisodes finaux de Stranger Things
 
+
+--------------------------------------
+2022-11-10
+
+» [Les Numériques] Whirlpool s'engage dans le développement de Matter pour connecter l'électroménager → https://cutt.ly/hMr1DZu
+» [Les Numériques] Test Apple TV 4K : une version 2022 tout simplement excellente → https://cutt.ly/DMr1VRm
+» [Les Numériques] LG Display propose un écran qui s’étire et se déforme sans dommage → https://cutt.ly/2Mr2LuD
+
+» [Les Numériques] ATH-TWX9 : Audio Technica lance des écouteurs autonettoyants → https://cutt.ly/YMr9u1W
+» [Les Numériques] On a vu le nouveau NUC Raptor Canyon d'Intel, un mini PC musclé dédié aux joueurs et aux créateurs → https://cutt.ly/cMr9QaS
+» [Les Numériques] On en sait plus sur Hamoa, le futur processeur ARM pour PC portable de Qualcomm → https://cutt.ly/QMr38H6
+» [Les Numériques] Une station d'accueil USB-C 13-en-1 compatible 8K chez Ugreen → https://cutt.ly/CMr85hL
+» [Pluggable] Add four big screens with one little device → https://cutt.ly/ZMr4IcR
+
+» [Les Numériques] MediaTek dévoile le Dimensity 9200, un SoC très haut de gamme compatible wifi 7 → https://cutt.ly/cMr5RDN
+» [Les Numériques] Oppo Find N2 : le smartphone pliant se dévoile et pourrait être présenté dès décembre → https://cutt.ly/2Mr5SrA
+» [Les Numériques] Prise en main du Vivo X Fold+ : un smartphone pliant des plus intéressants → https://cutt.ly/tMr5xC7
+» [Les Numériques] Sony présente LYTIA, le nouveau nom de ses capteurs photo dédiés aux smartphones → https://cutt.ly/kMr54c4
+» [The Verge] iPhone 14 Pro vs. S22 Ultra vs. Pixel 7 Pro: what 1,000 photos tell us (That there is a clear winner) → https://cutt.ly/WMr6h6v
+» [Les Numériques] Un ingénieur a mis au point le premier prototype d'iPhone pliant fonctionnel → https://cutt.ly/hMtwjTm
+» [Les Numériques] Test Huawei Mate 50 Pro : une réussite au goût amer → https://cutt.ly/6MtwBLg
+» [Les Numériques] Le Realme 10 est officialisé et propose un excellent rapport qualité-prix → https://cutt.ly/2MteqJH
+
+[…]
+
+» [Les Numériques] Publicité neutre en carbone et vertueuse pour l'environnement : les engagements de Dailymotion nous laissent perplexes → https://cutt.ly/7Mttc9m
+» [Les Numériques] Razer se met à la traçabilité carbone avec Restorify → https://cutt.ly/9Mtt8Io
+» [Public Sénat] L’obligation de pose de panneaux photovoltaïques sur les grands parkings extérieurs adoptée au Sénat → https://cutt.ly/OMtyTYw
+» [Strong Towns] Parking dominates our cities. But do we really *See* it? → https://cutt.ly/FMtuhdN
+
+» [Les Numériques] Rupture de stock jusqu'en 2024 pour le GMC Hummer électrique → https://cutt.ly/SMtu1qC
+» [BBC] Tesla recalls 40,000 cars over power-steering fault → https://cutt.ly/7MtiexR
+» [Les Numériques] Lotus Eletre : ses prix et ses performances dévoilés → https://cutt.ly/nMtihaQ
+
+» [Les Numériques] Vello présente son vélo longtail électrique en titane de seulement 24 kg → https://cutt.ly/iMtiOsr
+» [Les Numériques] Cannondale Compact Neo : un vélo électrique prêt à se faufiler partout → https://cutt.ly/pMtoVmy
+
+» [Road.cc] Do we need indicators on bike helmets? Giro launches Ethos Mips helmets with integrated LED lights → https://cutt.ly/aMtaxgX
+» Virginia Tech Helmet Ratings → https://cutt.ly/vMtdo6R
+» [Les Numériques] Airoh : un casque de moto avec airbag intégré → https://cutt.ly/1Mtslcc
+
+» [Bloomberg] Amazon becomes world’s first public company to lose $1 trillion in market value → https://cutt.ly/eMtfEWI
+» [Bloomberg] Musk’s first email to Twitter staff ends remote work → https://cutt.ly/rMtgZE9
+
+» [Les Numériques] God of War Ragnarök : le jeu vidéo de la démesure totale → https://cutt.ly/TMrNjLL
+» [Gamekult] test : God of War Ragnarok, c'est toujours hachement bien. 8/10 par Puyo → https://cutt.ly/nNJnyQp
+» résultat du sondage : qui a joué à God of War Ragnarök ? 76% (29) pas moi / 16% (6) pas encore / 8% (3) moi
+» [Les Numériques] Activision Blizzard/Microsoft : l'UE s'inquiète des potentielles conséquences du rachat → https://cutt.ly/wMtjngq
+» [Razer] Wolverine V2 Pro → https://cutt.ly/WMtjBzp
+
+raids : lesnumeriques => (13:43) Bestmarmotte => TiTavion => Pressea => chocolatine__ => nostal
 
 
 
