@@ -8411,6 +8411,100 @@ raids : lesnumeriques => (13:13) marmiton_officiel => Chocolatier_PaulGarderes =
 raids : lesnumeriques => (13:43) Bestmarmotte => TiTavion => Pressea => chocolatine__ => nostal
 
 
+--------------------------------------
+2022-11-17
+
+» [Les Numériques] Bioshock (Netflix) : le réalisateur donne des nouvelles rassurantes de l'adaptation → https://cutt.ly/OMU0Sjr
+» [YouTube] Cyberpunk 2077: Phantom Liberty → https://cutt.ly/XMU2eLS
+» [Gamekult] L'extension de Cyberpunk 2077 se nomme Phantom Liberty et sortira en 2023, mais pas sur les consoles d'ancienne génération → https://cutt.ly/7CWGo9U
+» [Gamekult] The Witcher 3 enfin daté sur PlayStation 5 et Xbox Series. Les joueurs PC sont aussi concernés → https://cutt.ly/7MU9zUu
+» [Steam] The Witcher 3 : Wild Hunt vous dévoile sa mise à jour next-gen GRATUITE le 14/12 → https://cutt.ly/CMU9DIH
+
+» [Gamekult] Keystone : la Xbox dédiée au Cloud a été mise de côté car trop chère. Phil Spencer voudrait descendre sous les 130 dollars → https://cutt.ly/DMU3sPi
+» [Xbox News] Le Xbox Cloud Gaming arrive sur plus de Smart TVs Samsung, avec la fonctionnalité de vibrations des manettes → https://cutt.ly/DMU3OnR
+» [Gamekult] La sortie de Dead Island 2 est reportée au 28 avril 2023. Mais le jeu se remontrera le 6 décembre → https://cutt.ly/eMU37t4
+» [Xbox News] Xbox partage son approche de la sécurité de la communauté dans son premier rapport sur la transparence → https://cutt.ly/4MU8pFb
+» [Riot Games] « Zero Harm in Comms » : Riot et Ubisoft s'associent à un projet de recherche pour créer des communautés de gaming plus positives → https://cutt.ly/AMU8XZt
+» [Palmer Lukey blog] If you die in the game, you die in real life. → https://cutt.ly/MMU4kR7
+
+» [Gamekult] Remedy confirme un accord avec 505 Games pour Control 2 → https://cutt.ly/TMU58rZ
+
+» [The Game Awards 2022] Nominees → https://theGameAwards.com/nominees
+
+invité : Thomas Gerbaud, world director chez Techland
+
+raids : lesnumeriques => (13:38) inforea => (13:58) LaCantine_ => (<17:43) vialcaffprod (terminé à 18:45)
+
+
+--------------------------------------
+2022-11-18
+
+» 📰 [Gamekult] La rédaction quittera Gamekult le 7 décembre, et elle vous remercie pour votre soutien → https://cutt.ly/MMONx1E
+» 📰 [Libération] La rédaction de «Gamekult» se saborde après le rachat de Reworld → https://cutt.ly/zMONKrM
+» 📰 [Libération] Silence on Joue ! La fin de Gamekult, «Flat Eye», «Pentiment», «Sonic Frontiers» → https://cutt.ly/FMSyK0i
+» 📰 [Le Monde] La rédaction de « Gamekult » démissionne après le rachat du site par Reworld Media → https://cutt.ly/ZMONPVI
+» 📰 [Les Echos] Jeux vidéo : la rédaction de Gamekult annonce son départ après le rachat par Reworld → https://cutt.ly/pMSywio
+» 🐦 [Twitter - Furolith] À titre personnel, je voudrais clarifier que, bien qu'étant un peu plus étiqueté Les Numériques que Gamekult, je me joins me joins également à ce départ collectif → https://cutt.ly/2MSuZ2I
+» 🐦 [Twitter - Nanark] Comme vous le savez, Gamekult a été racheté par Reworld (via le rachat de Neweb) et l'opération a été bouclée il y a quelques semaines. GK aura traversé de grandes épreuves, mais cette fois-ci, il s’agit bien de la dernière étape. Thread 🧵 → https://cutt.ly/UMONNeI
+
+» [Les Numériques] Cloud Gaming Xbox : pas de boîtier dédié finalement, mais toujours plus de présence sur les TV Samsung → https://cutt.ly/AMSoKil
+» (les claviers et souris les plus utilisés par les joueurs pro, d'après le site prosettings.net)
+
+» [Les Numériques] DirectStorage 1.1 va diviser par trois les temps de chargement des jeux → https://cutt.ly/WMSsBAF
+» [Les Numériques] Attention, la dernière mise à jour de Windows 11 peut réduire les performances en jeu, prévient Microsoft → https://cutt.ly/OMSdrj2
+
+» [Les Numériques] Divine : une cave à vin entièrement dédiée au champagne chez Eurocave → https://cutt.ly/rMSdPPW
+
+» [Les Numériques] TV LG Oled CS : le design du LG C1 avec les composants du LG C2, mais sans dalle Oled Evo → https://cutt.ly/DMSfyIi
+» [Les Numériques] Test Téléviseur Ultra HD TCL 98C731 : très grand, abordable et compatible HDMI 2.1, 4K à 120 Hz et VRR → https://cutt.ly/rMSf704
+
+» [Les Numériques] Semi-conducteurs : pourquoi l’Allemagne vient-elle de bloquer la vente d’une usine à la Chine ? → https://cutt.ly/0MSgbT4
+» [Les Numériques] Semi-conducteurs : le Royaume-Uni contraint une société chinoise à vendre la plus grande usine du pays → https://cutt.ly/CMSgYJk
+» [Les Numériques] Apple se prépare à s’approvisionner en puces électroniques aux États-Unis et en Europe → https://cutt.ly/rMSjzGH
+
+» [Les Numériques] Test Nvidia GeForce RTX 4080 : le raytracing et la 4K en ligne de mire → https://cutt.ly/ZMSkFxk
+» [Les Numériques] Test Dell Inspiron 16 Plus : d'excellentes performances, sans casser la tirelire → https://cutt.ly/TMSlQA9
+
+» [IndieGogo] Nomad Desk: The Portable Standing Desk → https://cutt.ly/eMSzlRp
+
+» [Les Numériques] Samsung Galaxy A54 : le prochain milieu de gamme se livre déjà → https://cutt.ly/LMSzEod
+» [Les Numériques] Les Galaxy S23 européens seront bien équipés de puces Snapdragon → https://cutt.ly/FMSxyo6
+» [Les Numériques] Simon, le premier smartphone de l'histoire, fête ses 30 ans → https://cutt.ly/zMSxgCV
+» [Les Numériques] Test Lenovo Tab P11 Pro (Gen 2) : une tablette alléchante → https://cutt.ly/zMSxF23
+
+» [Les Numériques] Elon Musk assure qu'il ne veut plus être CEO de Twitter et cherche un nouveau patron → https://cutt.ly/BMScpev
+» [Bloomberg] Musk’s ‘hardcore’ ultimatum sparks exodus, leaving Twitter at risk → https://cutt.ly/ZMScbQr
+» [CBC] Twitter closes offices until Monday as employees quit in droves → https://cutt.ly/4MSvR78
+
+» [Les Numériques] Rachat d'OCS : Canal+ appuie sur l'accélérateur → https://cutt.ly/aMSmQqF
+» [Les Échos] Vente d'OCS : les négociations s'accélèrent entre Orange et Canal+ → https://cutt.ly/AMSmO2p
+» [Variety] Amazon orders multiple Marvel-Sony Shows, beginning with ‘Silk: Spider Society’ from ‘Walking Dead’ Alum Angela Kang → https://cutt.ly/ZMSQHig
+» [Les Numériques] Disney+ : une collaboration entre Star Wars et Ghibli pour l'anniversaire de la plateforme → https://cutt.ly/3MSWTzt
+» [Variety] Quentin Tarantino reveals plans to shoot an eight-episode TV series next year → https://cutt.ly/KMSEo0H
+» [Les Numériques] Bioshock (Netflix) : le réalisateur donne des nouvelles rassurantes de l'adaptation → https://cutt.ly/OMU0Sjr
+» [Les Numériques] Netflix : le film français Balle perdue 2 au sommet du top 10 mondial → https://cutt.ly/mMSRncp
+» [Les Numériques] Netflix permet désormais de déconnecter les appareils “pirates” qui squattent votre compte → https://cutt.ly/AMSTxSn
+
+
+raids : lesnumeriques => (13:34) marmiton_officiel => (15:48) Madmoizelle (terminé à 19:28)
+
+» le résumé de la quotidienne des Numériques
+» la rédaction de Gamekult quitte Gamekult ; ce sera la fin du site tel qu'on l'a connu le 7 décembre 😭
+» Divine, une cave à vin entièrement dédiée au champagne chez Eurocave
+» semi-conducteurs : l’Allemagne vient-elle de bloquer la vente d’une usine à la Chine // le Royaume-Uni contraint une société chinoise à vendre la plus grande usine du pays // Apple se prépare à s’approvisionner en puces électroniques aux États-Unis et en Europe
+» Samsung : on parle déjà du Galaxy A54 // les Galaxy S23 européens seront bien équipés de puces Snapdragon
+» Simon, le premier smartphone de l'histoire, fête ses 30 ans
+» Twitter : Elon Musk assure qu'il ne veut plus être CEO de Twitter et cherche un nouveau patron, mais il a viré tellment de monde, et menace d'en virer tellement encore, qu'il n'est pas garantie que la plate-forme survive longtemps
+
+» point SVOD, séries, cinéma avec Thibaud
+» rachat d'OCS, les négociations s'accélèrent entre Orange et Canal+
+» Amazon commande plusieurs shows Marvel à Sony, dans l'univers de Spider-Man
+» collaboration entre Star Wars et Ghibli pour l'anniversaire de Disney+
+» Quentin Tarantino prévoit une série de 88 épisodes l'an prochain
+» le film français Balle perdue 2 au sommet du top 10 mondial sur Netflix
+» Netflix permet désormais de déconnecter les appareils “pirates” qui squattent son compte
+
+
 
 » [Les Numériques] 
 » [Gamekult] 
