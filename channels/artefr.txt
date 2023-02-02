@@ -178,3 +178,9 @@ raids : [Gilles_Stella=>(20:25)] [mDeetz=>(20:49)] [TiTavion=>(22:18)] artefr =>
 raids : artefr => (16:47) JeanMassiet (terminé à 19:20)
 
 
+--------------------------------------
+2023-01-06
+
+raids : [Ultia=>(18:55)+2005] artefr => (23:35) AngleDroit
+
+
