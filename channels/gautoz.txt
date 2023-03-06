@@ -14034,8 +14034,6 @@ raids : lydia__am => (16:32)[+252] Gautoz => (17:57) OsmosisCoop (>19:20) => Sel
 
 
 :::::
-» 🇬🇧 [VGC] Warner ‘very pleased’ with Hogwarts Legacy launch and ‘spectacular’ player engagement. The publisher says over 267 million hours have been played → https://cutt.ly/O8w3Zht
-
 » 🇬🇧 [VGC] Ukraine’s government wants ‘toxic’ Atomic Heart pulled from sale over Russia links. The game was released for PC and consoles this week → https://cutt.ly/N8w3BWF
 
 » 🇬🇧 [VGC] The Xbox Game Pass Friends & Family plan has been added to six more countries. Until now the service has only been available in Ireland and Colombia → https://cutt.ly/58w352a
@@ -14044,7 +14042,6 @@ raids : lydia__am => (16:32)[+252] Gautoz => (17:57) OsmosisCoop (>19:20) => Sel
 
 » 🇺🇸 [TechCrunch] Activision did not notify employees of data breach for months → https://cutt.ly/98w5iDl
 
-» 🇬🇧 [VGC] 
 
 » 🇺🇸 [Kotaku] Sega's iconic Akihabara arcade is being taken over by a rival. The arcade, which closed a few years back, will reopen as a Bandai Namco joint → https://cutt.ly/38w6KFv
 
@@ -14098,27 +14095,64 @@ ATTENTION ! le présentateur de ce stream est une source de miasmes, veuillez re
 raids : Gautoz => (17:12) Shisheyu_Mayamoto (samedi) (terminé à 01:38)
 
 
-:::::
+
+--------------------------------------
+2023-03-06
+
+» [Flammarion] Le fin mot de l'histoire, 201 expressions pour épater la galerie, par Nathalie Gendrot et Guillaume Meurice, 19 € → https://cutt.ly/K8OnkSk
+
+éminence grise : désigne un conseiller ayant de l'influence et qui reste dans l'ombre d'un autre individu, d'une personnalité (le plus souvent politique) → https://cutt.ly/W8OnUeH
+éminence grise : Le mot 'éminence' a eu plusieurs sens depuis son apparition au XIVe siècle. C'est au XVIIe siècle qu'il se spécialise comme un titre donné aux cardinaux avant de désigner simplement un porteur de la robe rouge. On sait que son Éminence le cardinal de Richelieu a été un conseiller fort écouté par Louis XIII. Il était comme son premier ministre, même si le titre n'existait pas encore vraiment. → https://cutt.ly/h8On8Sv
+
+
+» 🇺🇸 [Gematsu] The Wolf Among Us 2: A Telltale Series delayed “out of 2023”. Due out "when it's ready" → https://cutt.ly/58OxaAt
+» 🇺🇸 [IGN] The Wolf Among Us 2 pushed to next year in effort to avoid crunch → https://cutt.ly/j8Oxbpe
+» 🇺🇸 [Games Industry] The Wolf Among Us 2 delayed to 2024 to avoid crunch → https://cutt.ly/98Q4K13
+
+» 🇺🇸 [Gematsu] New Dragon Ball Z: Budokai Tenkaichi game announced. Official title and release date not announced → https://cutt.ly/p8OWL42
+
+» 🇺🇸 [Games Industry] Square Enix's Yosuke Matsuda stepping down after ten years as president. Final Fantasy publisher will be led by Takashi Kiryu, who will take over later this year → https://cutt.ly/K8Q877C
+» 🇬🇧 [VGC] Square Enix is replacing president Yosuke Matsuda, pending approval. The company wants to keep focusing on “adopting ever-evolving technological innovations” → https://cutt.ly/L8Q8MZD
+» 🇺🇸 [Gematsu] Square Enix president Yosuke Matsuda to be replaced by Takashi Kiryu. Change to be officially finalized in June, pending board approval → https://cutt.ly/B8OcaJZ
+» 🇺🇸 [Square Enix] [PDF] Notification of changes in the representative director of the company and a consolidated subsidiary → https://cutt.ly/d8OcQ2W
+» 🇺🇸 [Games Industry] Forspoken studio Luminous Productions merged with Square Enix. The developer previously operated as an independent subsidiary → https://cutt.ly/m8OROOh
+
+» 🇬🇧 [VGC] Counter-Strike 2 could be announced this month, it’s claimed. Newly released NVIDIA drivers also suggest the game could appear soon → https://cutt.ly/Q8OzYLT
+
+
 » 🇫🇷 [Frandroid] Où en est le rachat d’Activision-Blizzard par Microsoft ? Va-t-il échouer ? Tout comprendre au feuilleton → https://cutt.ly/w2LkCt5
-» 🇺🇸 [Games Industry] Microsoft granted access to Sony documents: The FTC's response in detail. Xbox firm will receive PlayStation exclusivity contracts and four years of company records in preparation for summer trial over Activision Blizzard acquisition → https://cutt.ly/l8Q4k6W
 » 🇺🇸 [Games Industry] Report: EU likely to approve Microsoft deal for Activision Blizzard. Reuters sources say the European Commission will be satisfied by multiplatform licensing deals for Call of Duty → https://cutt.ly/18Q4cVH
+» 🇺🇸 [Reuters] Exclusive: Microsoft set to win EU nod on Activision with licensing offer, sources say → https://cutt.ly/o8OIXB0
+» 🇬🇧 [VGC] UK regulator suggests removing Call of Duty from Microsoft’s Activision Blizzard acquisition. In its provisional conclusion, the CMA says Xbox’s Activision deal ‘could harm’ players → https://cutt.ly/e3lMJE9
 » 🇬🇧 [VGC] UK regulator meets with Microsoft and Activision to discuss merger remedies. Microsoft has reportedly said it’s willing to pay a third-party agency to oversee its compliance → https://cutt.ly/q8Q5szD
+» 🇺🇸 [Bloomberg] Microsoft and Activision Blizzard meet UK watchdog to heal $69 billion deal rift → https://cutt.ly/X8OOIei
+
+» 🇺🇸 [Games Industry] Microsoft granted access to Sony documents: The FTC's response in detail. Xbox firm will receive PlayStation exclusivity contracts and four years of company records in preparation for summer trial over Activision Blizzard acquisition → https://cutt.ly/l8Q4k6W
+
 » 🇬🇧 [VGC] Xbox says it’s not interested in ‘playing the exclusivity game’ with Call of Duty. “The best version of Call of Duty” will be on all platforms if Microsoft acquires the franchise → https://cutt.ly/e8Q67sO
 
+» 🇺🇸 [The Gamer] China expected to approve Microsoft-Activision merger. Tencent also reportedly approves of Microsoft and Activision tying the corporate knot → https://cutt.ly/O8OAF4w
 
-» 🇬🇧 [VGC] Square Enix is replacing president Yosuke Matsuda, pending approval. The company wants to keep focusing on “adopting ever-evolving technological innovations” → https://cutt.ly/L8Q8MZD
-» 🇺🇸 [Games Industry] Square Enix's Yosuke Matsuda stepping down after ten years as president. Final Fantasy publisher will be led by Takashi Kiryu, who will take over later this year → https://cutt.ly/K8Q877C
+» [YouTube - Gautoz] Le rachat d'Activision peut-il capoter ? → https://cutt.ly/z8OSrFB
 
+
+» 🇺🇸 [Rock Paper Shotgun] Warner Bros. casually reveal Mortal Kombat 12 is coming this year → https://cutt.ly/T8ODpXf
+
+» 🇬🇧 [VGC] Warner ‘very pleased’ with Hogwarts Legacy launch and ‘spectacular’ player engagement. The publisher says over 267 million hours have been played → https://cutt.ly/O8w3Zht
+
+» 🇺🇸 [Games Industry] Hi-Fi Rush reaches 2M players. Tango Gameworks' title was a surprise release on January 25 following the Xbox and Bethesda Developer Direct Showcase → https://cutt.ly/F8OFxM3
+
+» 🇬🇧 [VGC] Capcom has confirmed its next digital event for next week. Capcom Spotlight will feature news on Resident Evil 4, Mega Man Battle Network Legacy Collection and more → https://cutt.ly/K8OG2K0
+
+» 🇺🇸 [GameRant] Ubisoft is closing down one of its studios. Ubisoft is reportedly closing down one of its studios starting with the new financial year, citing 'external factors' as the cause → https://cutt.ly/a8OJEEd
+
+
+:::::
 » 🇺🇸 [Games Industry] Where did Knockout City go wrong? Velan Studios' Guha Bala discusses the dodgeball multiplayer game's upcoming closure and his hopes for a sequel → https://cutt.ly/M8Q4O6I
 
 » 🇺🇸 [Games Industry] Yuji Naka admits to insider trading. Prosecutor claims that the ex-Square Enix employee made a profit of $167,000 with insider information → https://cutt.ly/r8Q4FPi
 
 » 🇺🇸 [Games Industry] CWA presses charges against Activision over the firing of two employees. CWA decries discharge as "retaliation," says Activision treats employees like "disposable workhorses" → https://cutt.ly/T8Q5Gmh
-
-
-» 🇺🇸 [Games Industry] Hi-Fi Rush reaches 2M players. Tango Gameworks' title was a surprise release on January 25 following the Xbox and Bethesda Developer Direct Showcase → https://cutt.ly/q8Q5RUl
-
-» 🇺🇸 [Games Industry] The Wolf Among Us 2 delayed to 2024 to avoid crunch → https://cutt.ly/98Q4K13
 
 » 🇬🇧 [VGC] God of War Ragnarök is BAFTA’s most-nominated game ever. BAFTA reveals the nominations for its 2023 awards, including 14 for Sony Santa Monica’s sequel → https://cutt.ly/o8Q6Hb0
 
@@ -14135,9 +14169,25 @@ raids : Gautoz => (17:12) Shisheyu_Mayamoto (samedi) (terminé à 01:38)
 
 » 🇬🇧 [VGC] Elden Ring’s first expansion, Shadow of the Erdtree, has been announced. FromSoftware promises “new adventures in The Lands Between” → https://cutt.ly/B8WwqvK
 
-» 🇬🇧 [VGC] 
+» 🇬🇧 [VGC] Austrian court says FIFA packs constitute gambling, orders PlayStation refunds. It’s the latest European legal battle against the virtual football goliath → https://cutt.ly/p8OzxLq
 
-» 🇬🇧 [VGC] 
+» 🇬🇧 [VGC] Fortnite is reportedly getting a first-person mode next season. The game’s next season could kick off next week → https://cutt.ly/J8OzmvI
+
+
+» King Of The Castle → https://store.steampowered.com/app/1839880/
+» Metroid Fusion → https://cutt.ly/V8OZ2WE
+» Masterplan Tycoon → https://store.steampowered.com/app/1644500/
+» Gripper → http://www.gripper-game.com/ | https://s.team/a/1336380/
+» Lunark → https://store.steampowered.com/app/1050370/
+» The Last Worker → https://store.steampowered.com/app/1579280/
+» Atlas Fallen → https://focus-entmt.com/fr/games/atlas-fallen | https://s.team/a/1230530/
+» Deep Rock Galactic: Survivor → https://store.steampowered.com/app/2321470/
+» The Thaumaturge → https://ThaumaturgeTheGame.com/ | https://store.steampowered.com/app/1684350/
+» Mario + The Lapins Crétins Sparks of Hope, démo sur Switch → https://cutt.ly/M8ONE5r
+
+raids : Gautoz => (11:42)[+827] tpk_live (>13:30) => (<15:11) MK_RZA => (16:54)[+161] TiTavion [PlayStationFR=>(20:03)+105] [Ezechiel_DinCyr=>(23:45)+20] (terminé à 23:45)
+
+
 
 
 » 🇺🇸 
