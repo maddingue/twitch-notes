@@ -9150,7 +9150,7 @@ raids : lesnumeriques => (13:34)[+263] kenbogard => (19:21)[+392] mistermv (Spee
 » [Les Numériques] Aaron Swartz : itinéraire d'un génie brisé → https://cutt.ly/C8V7p3J
 » [Internet Archive] The Internet's Own Boy: The Story of Aaron Swartz → https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz
 
-raids : lesnumeriques => (13:38)[+371] mistermv (Speedons) [Gautoz=>(16:11)+786] (samedi) [GF_Iguel=>(14:18)+186] [Crizx=>(14:23)+21] [Modiiie=>(14:38)+272] [grasdemaggy=>(15:04)+8] [Britanouille=>(01:13)+2] [Xari=>(01:14)+1286] 
+raids : lesnumeriques => (13:38)[+371] mistermv (Speedons) [Gautoz=>(16:11)+786] (samedi) [GF_Iguel=>(14:18)+186] [Crizx=>(14:23)+21] [Modiiie=>(14:38)+272] [grasdemaggy=>(15:04)+8] (dimanche) [Britanouille=>(01:13)+2] [Xari=>(01:14)+1286] [Merry=>(01:18)+67] [Merry=>(01:20)+12] [Spenouh=>(03:17)+9] [LoxeTV=>(03:17)+13] [Silent_Genius=>(18:39)+1] [Toniob=>(18:39)+5] [ConstantinHolmes=>(23:20)+12] (lundi) (terminé à 01:25)
 
 
 
