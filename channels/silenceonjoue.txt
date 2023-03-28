@@ -406,7 +406,17 @@ raids entrants :
 - HephepTeam => (14:07)[+13]
 - CanardPC => (14:15)[+230]
 
-SilenceOnJoue => (15:21) KarimDebbache => (17:30)[+1150] Gilles_Stella => (20:30)[+279] CanardPC => (21:08) Gom4rt => (21:09)[+1041] maechi (>21:20) => (<00:49) FantaBobShow (>01:40)
+SilenceOnJoue => (15:21) KarimDebbache => (17:30)[+1150] Gilles_Stella => (20:30)[+279] CanardPC => (21:08) Gom4rt => (21:09)[+1041] maechi (>21:20) => (<00:49) FantaBobShow (>01:40) => BenZaie => (<03:05) elisa_lady_phantomhive (terminé à 03:22)
+
+
+--------------------------------------
+2023-03-28
+
+raids :
+- NotPatrick => (14:40)[+53]
+- CanardPC => (16:03)[142]
+
+SilenceOnJoue => (16:37)[+97] Gastronogeek (terminé à 16:47)
 
 
 
