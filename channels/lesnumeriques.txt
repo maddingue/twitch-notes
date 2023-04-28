@@ -9554,9 +9554,42 @@ raids : lesnumeriques => (13:40)[+166] WoodyLutherie (samedi) (>03:30) => iti63 
 
 » [Les Numériques] Test Barre de son Samsung HW-Q990C : des effets surround bluffants de réalisme → https://cutt.ly/85hNs1u
 
-raids : lesnumeriques => (13:36)[+162] ScienceFiction2000 (>23:00)
+raids : lesnumeriques => (13:36)[+162] ScienceFiction2000 (mardi) (>09:00)
 
 
+--------------------------------------
+2023-04-28
+
+» [TechRadar] Jack Dorsey's Bluesky is like Twitter without Musk – and that's good enough for me → https://cutt.ly/N5UasDo
+» [TechCrunch] Bluesky’s best shot at success is to embrace shitposting → https://cutt.ly/l5UaSbx
+
+» [Les Numériques] Une alternative open source à ChatGPT arrive bientôt → https://cutt.ly/H5UsQfj
+» [Les Numériques] HuggingChat : l'alternative (presque) française et open source à ChatGPT est lancée → https://cutt.ly/U5UsYhu
+» [Reuters] EU proposes new copyright rules for generative AI → https://cutt.ly/Q5UfeBf
+
+» [Twitter - Marc Rees] Un arrêté de la Préfécture de Police institue un périmètre de protection à l'occasion de la coupe de France au Stande de France, samedi 29 avril → https://cutt.ly/S5UfB3m
+
+» [TechSpot] Tactile OLEDs could give future phones tangible on-screen buttons → https://cutt.ly/W5Uf53j
+» [Les Numériques] Test Nokia T21 : une tablette un peu trop limitée → https://cutt.ly/g5Ugo0j
+
+» Onyphe - Cyber Defense Search Engine → https://onyphe.io
+» Shodan - Search Engine for the Internet of Everything → https://shodan.io
+» Malfrat's OSINT Map → https://map.malfrats.industries
+» Epieos - Retrieve information linked to an email address, without notifying its user → https://epieos.com
+» Sentinel-1 - Copernicus Open Access Hub → https://scihub.copernicus.eu/
+» Twitter - Benjamin Pittet → https://twitter.com/COUPSURE
+» Preligens → https://preligens.com
+» Eyes on Russia → https://eyesonrussia.org
+» Bellingcat → https://www.bellingcat.com
+» Stop Child Abuse – Trace an Object → https://www.europol.europa.eu/stopchildabuse
+» OSInt-Fr → https://osintfr.com
+» OpenFacto - Investigations en sources ouvertes → https://openfacto.fr
+» le Hack, du 30 juin au 2 juillet à la Cité des sciences → https://lehack.org
+» chaîne YouTube Deus Ex Silicium → https://youtube.com/@dexsilicium
+» Sourcing Games - Game 1 → https://sourcing.games/game-1/
+» PimEyes - Face Search Engine, Reverse Image Search → https://pimeyes.com
+
+raids : lesnumeriques => (13:47)[+112] Sylvqin => (<14:46) Badianne (>16:10) => (17:38)[+28] Praizidant (terminé à 19:00)
 
 
 » [Les Numériques] 
