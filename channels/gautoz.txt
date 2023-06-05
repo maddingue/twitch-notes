@@ -15020,7 +15020,7 @@ jeux VR présentés : Five Nights at Freddy's: Help Wanted 2 | Resident Evil 4 V
 » Final Fantasy XVI, annoncé pour le 22 juin 2023 sur PS5
 » Alan Wake II, par Remedy Entertainment (Max Payne, Alan Wake, Control), annoncé pour le 17 octobre 2023 sur PS5, XSX et PC → <https://AlanWake.com> | <https://blog.playstation.com/2023/05/24/alan-wake-2-launches-on-ps5-october-17/>
 » Assassin's Creed Mirage, par ubisoft, annoncé le 12 octobre 2023 sur PlayStation, Xbox et PC → <https://www.ubisoft.com/fr-fr/game/assassins-creed/mirage> | <https://blog.playstation.com/2023/05/24/first-assassins-creed-mirage-gameplay-revealed-launches-october-12/>
-» Revenant Hill, par Infinite Fall (Night in the Woods), annoncé sur PS4 et PS5 → <https://blog.playstation.com/2023/05/24/welcome-to-revenant-hill-where-your-journey-to-become-a-witchs-familiar-begins/>
+» Revenant Hill, par The Glory Society (anciens de Infinite Fall, studio derrière Night in the Woods), annoncé sur PS4 et PS5 → <https://revenanthill.com> | <https://blog.playstation.com/2023/05/24/welcome-to-revenant-hill-where-your-journey-to-become-a-witchs-familiar-begins/>
 » Grandblue Fantasy Relink, annoncé pour l'hiver 2023 → <https://blog.playstation.com/2023/05/24/two-new-playable-characters-join-the-granblue-fantasy-relink-roster/>
 » Street Fighter VI, par Capcom, annoncé pour le 2 juin 2023 sur PS5 et PC
 » Ultros, annoncé pour 2024 sur PS5 → <https://blog.playstation.com/2023/05/24/revealing-ultros-a-psychedelic-sci-fi-side-scroller-coming-to-ps5-and-ps4-in-2024/>
@@ -15060,6 +15060,102 @@ développé par X Plus Games et Sonzai Games (Super Sami Roll, Smelter's Mix Tap
 ⌨️ 🖱️ 15 € sur Steam (https://cutt.ly/nwqW09O7), démo disponible
 
 raids : NotPatrick => (14:12)[+60] Gautoz => (16:09)[+451] TiTavion (terminé à 22:51)
+
+
+
+--------------------------------------
+2023-06-02
+
+» JV le Mag numéro 100, 7,50 € chez votre marchand de journaux → https://n9.cl/z4z3y
+
+» 🗓️ Calendrier du Non-E3 chez Gautoz → https://n9.cl/7ll2s
+» 🇬🇧 [VGC] Metal Gear Solid Delta: Snake Eater will reuse the original game’s voice lines. Konami isn’t planning to record any new dialogue for the remake → https://n9.cl/hweyu
+» 🇬🇧 [VGC] PlayStation reveals streaming portable device, ‘Project Q’. It will allow users to stream games from their PS5 console via wi-fi → https://cutt.ly/0wqW7wyq
+
+» 🇬🇧 [VGC] The Last of Us multiplayer game has reportedly been scaled back. Report claims dev team has been reduced; Naughty Dog says it will continue to work on the game → https://n9.cl/tfnzp
+
+» 🐦 [Twitter] PlayStation -- Ratchet & Clank: Rift Apart comes to PC July 26, as Nixxes Software collaborates with Insomniac Games to bring the interdimensional adventure to ultrawide screen monitors everywhere → https://n9.cl/bjibu
+» 🇬🇧 [VGC / 30 mai 2023] Ratchet & Clank: Rift Apart is coming to PC in July. Insomniac’s game is making the jump from PS5 this summer → https://rebrand.ly/wp9mt4d
+
+» 🇫🇷 [Xbox] Prochainement dans le Xbox Game Pass : Amnesia: The Bunker, Car Mechanic Simulator 2021, Dordogne et plus encore → https://n9.cl/8dj5a
+
+» 🇺🇸 [Bloomberg / 1er juin 2023] Inside the making of Redfall, Xbox’s latest misfire. After Microsoft paid $7.5 billion for its parent company, Arkane Studios’ Redfall has been blasted by critics and players → https://t.co/7S4VjqjP54
+
+» 🇬🇧 [Competition Appeal Tribunal / 26 mai 2023] Summary of application under section 120 of the enterprise act 2002, Case No. 1590/4/12/23 -- Microsoft response to CMA (PDF) → https://rebrand.ly/cqc0itp
+» 🇬🇧 [VGC / 26 mai 2023] Microsoft reveals CMA appeal grounds and says UK regulator ‘overestimates the role of cloud streaming'. The company says the CMA’s decision was “flawed for multiple reasons” → https://rebrand.ly/sxzc5ll
+» 🇬🇧 [VGC / 30 mai 2023] South Korea is the latest country to approve Microsoft’s Activision Blizzard acquisition. The Korean FTC says it has “unconditionally cleared” the deal → https://rebrand.ly/84fu2mq
+» 🇬🇧 [VGC / 30 mai 2023] Microsoft’s appeal against UK Activision deal block has been scheduled for July. The UK’s competition regulator had hoped the case would be heard at a later date → https://rebrand.ly/g1kwt1b
+» 🇺🇸 [Game Developer / 30 mai 2023] Microsoft’s Activision Blizzard deal heads to a summer showdown with regulators. Microsoft’s UK appeal started today, with the main July 24th hearing penciled in the diary → https://rebrand.ly/l060n64
+» 🇫🇷 [Frandroid / 31 mai 2023] Activision Blizzard : Microsoft va devoir se battre dans les tribunaux cet été → https://rebrand.ly/68zhana
+» 🇺🇸 [WCCF Tech / 1er juin 2023] Microsoft might be preparing to close ActiBlizz deal despite UK opposition → https://rebrand.ly/l060n64
+
+» 🇺🇸 [Games Industry / 25 mai 2023] Embracer's $2bn+ deal collapsed due to "external factors". CEO Lars Wingefors offers more insight into partnership that "would have set a new benchmark for the industry" → https://n9.cl/n1ml1
+
+» 🇺🇸 [Games Industry] Layoffs at Crypt of the Necrodancer developer Brace Yourself Games. Reports suggest around 50% of the studio's employees were affected by job cuts → https://n9.cl/ijdvv
+» 🇺🇸 [Games Industry] Marvel's Midnight Suns developer hit by layoffs. Firaxis Games says that the redundancies come as it aligns talent against its "highest priorities" → https://n9.cl/1advn
+» 🇺🇸 [Games Industry] CD Projekt Red will lay off remaining 30 members of Gwent team. Staff will be dismissed between now and the end of the year as development winds down on The Witcher's spin-off → https://n9.cl/s8b7l
+» 🇬🇧 [VGC] Sega has laid off 121 employees at Company of Heroes studio Relic. The studio says restructuring will “ensure maximum focus is placed on our core franchises” → https://n9.cl/tuwbb
+
+» 🐦 [Twitter / 29 mai 2023] People Make Games -- We've spent the last three months investigating what's really been happening behind-the-scenes with Disco Elysium. We've been to Estonia, interviewed both sides of the dispute and discovered so much more nuance than you'll have heard up until now. → https://n9.cl/2vml6
+» 📺 [YouTube] People Make Games -- Investigation: Who’s telling the truth about Disco Elysium? (2 h 30 m) → https://n9.cl/7813b
+
+» 🇬🇧 [VGC] Former God of War art director joins Netflix to work on an original AAA game. Raf Grassetti will work alongside Halo veteran Joseph Staten and former Overwatch exec producer Chacko Sonny → https://rebrand.ly/8nwg70k
+
+» 🇬🇧 [VGC]  Prince of Persia: Sands of Time Remake ‘still at an early stage’, Ubisoft says. In a new interview, Ubisoft says players shouldn’t expect to hear more about the game this year → https://n9.cl/99s4e
+
+» 🇺🇸 [Games Industry] PSVR 2 sold just shy of 600,000 units in six weeks. PlayStation to invest more in new IP by FY25, strategy meeting report also shows → https://n9.cl/s3ktu
+
+» 🇫🇷 [Frandroid] Meta Quest 3 : la réalité mixte à moins de 600 euros, c’est enfin possible → https://n9.cl/pmwtb
+» [Les Numériques] VR : Mark Zuckerberg lève le voile sur le Meta Quest 3 → https://rebrand.ly/for9g4z
+
+» 🇺🇸 [Game Developer / 30 mai 2023] Developers anonymous: The normalization and impact of miscrediting in games. We chat with developers and advocates to learn more about the practical and emotional impact of miscrediting, and discuss possible solutions → https://n9.cl/i5nwk
+» 🇫🇷 [Insert Coin] Disparu·es dans la traduction → https://cutt.ly/6wwaqqWp
+
+» 🇬🇧 [VGC] Nintendo has announced Everybody 1-2-Switch and it’s releasing this month. The party game sequel can be played with Joy-Con controllers and smart devices → https://n9.cl/brpim
+» 🇺🇸 [Fanbytes / 7 juin 2022] The Wild Story Behind Nintendo’s Unannounced 1-2 Switch Sequel. The sequel to 1-2 Switch is hiding behind closed doors at Nintendo while the company figures out what to do with it → https://n9.cl/wt89lt
+
+» 🇺🇸 [Variety / 30 mai 2023] Bobby Kotick breaks his silence: embattled Activision CEO addresses toxic workforce claims as Microsoft deal hangs in balance → https://cutt.ly/dwwp2COB
+» 🇬🇧 [VGC / 1er juin 2023] World of Warcraft writer claims Blizzard fired him after he added ‘corporate greed’ jokes. The dialogue in question was reportedly in the game for a week until someone “very high” saw it → https://rb.gy/755ls
+
+» Stasis Bone Totem → https://store.steampowered.com/app/1426010/
+» Forever Skies → https://store.steampowered.com/app/1641960/
+» Total War: Pharaoh → https://store.steampowered.com/app/1937780/
+» Alone in the Dark → https://AloneInTheDark.THQNordic.com
+» 🇺🇸 [Gematsu] Silent Hill: Ascension launches in 2023, official trailer and details. Interactive streaming series follows multiple main characters from locations around the world → https://n9.cl/s6ajj
+» Warhammer 40,000: Space Marine 2 → https://store.steampowered.com/app/2183900/
+» Warhammer 40,000: Speed Freeks → https://store.steampowered.com/app/2078450/
+» The 7th Guest VR → https://www.oculus.com/experiences/quest/5223884527630557/
+» Cross Blitz → https://store.steampowered.com/app/1619520/
+
+
+:::::
+» 🇫🇷 [Les Echos / 25 mai 2023] Jeux vidéo : l'éditeur français Nacon accélère sa diversification → https://n9.cl/zhfq8
+
+» 🐦 [Twitter / 25 mai 2023] John Lowrie -- Back out at Valve today and, like all voice actors, can’t say anything specific → https://n9.cl/b07xu
+
+» 🇺🇸 [Dolphin / 27 mai 2023] Dolphin on Steam indefinitely postponed → https://n9.cl/h1kgn
+
+» 🐦 [Twitter / 27 mai 2023] Layoffs at PlayStation Visual Arts → https://n9.cl/lq7hv
+
+» 🇺🇸 [Gematsu / 29 mai 2023] The Witcher 3: Wild Hunt sales top 50 million; The Witcher series tops 75 million → https://n9.cl/vk6tm
+» 🇺🇸 [Games Industry / 29 mai 2023] CD Projekt sales drop 20% year-over-year. Company will begin marketing push for Cyberpunk 2077 Phantom Liberty expansion next month, denies rumors of a Sony acquisition → https://n9.cl/zd3ue
+
+» 🇬🇧 [VGC / 29 mai 2023] NetEase has formed another new studio, led by a key Dragon Quest producer. Tokyo-based PinCool will mainly focus on console games → https://rebrand.ly/ccftqoh
+
+» 🐦 [Twitter / 30 mai 2023] Jason Schreier -- GamesRadar's "Future Games Show" did a Q&A with the developers of Diablo and got caught faking Twitter handles with anodyne questions. The outlet now says those handles were "randomly generated" so people could be anonymous → https://n9.cl/q9lxp
+
+» 🇺🇸 [Game Developer / 31 mai 2023] Nintendo eShop to effectively shut down in Russia. Consumers in Russia will no longer be able to make purchases or redeem download codes → https://n9.cl/qjs8g
+
+» 🇺🇸 [exputer / 30 mai 2023] Romanian antitrust probe investigates Sony over PlayStation dominance abuse. The giant conglomerate is being investigated for multiple concerns over potential abuse → https://n9.cl/7jc4l
+
+» 🇺🇸 [Brawlhalla] One more week celebrating 100 million brawlers → https://rb.gy/f94d3
+
+» 🇺🇸 [Nintendo Life / 1er juin 2023] Sonic co-creator Yuji Naka could face over two years in prison. Veteran developer admitted to insider trading → https://rb.gy/c6e6q
+
+» 🇺🇸 [Games Industry / 1er juin 2023] Kirby support studio Vanpool shut down. Developer behind Dillon's Rolling Western series was dissolved yesterday → https://rb.gy/33v47
+
+
+raids : Gautoz => (17:10)[+624] Nico_Oni (>18:00) => Kahikusu => MistahCrimson => MrQuarate (samedi) => (00:38)[+222] irissia (>02:00) => (<04:41) [04:41 - en stream depuis 6 h 20 m] KayaneTV (terminé à 04:56)
 
 
 
