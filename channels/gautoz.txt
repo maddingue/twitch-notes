@@ -15641,7 +15641,6 @@ preshow :
 » Dune: Awakening, par Funcom → https://s.team/a/1172710 | https://duneawakening.com
 
 
-
 raids :
 - OsmosisCoop => (18:13)[+29]
 - At0mium => (20:56)[+734]
@@ -15650,7 +15649,7 @@ raids :
 - LaBonneAubergeJDR => (22:42)[+276]
 - Alexleserveur => (22:50)[+3]
 
-raids : Gautoz => (00:13)[+769] TipStevens (>00:30)
+raids : Gautoz => (00:13)[+769] TipStevens (terminé à 02:50)
 
 
 » 🇺🇸 
