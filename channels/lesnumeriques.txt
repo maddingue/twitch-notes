@@ -10045,6 +10045,20 @@ raids : lesnumeriques => (13:36)[+115] DefendIntelligence (>14:00) => (<15:01) S
 raids : lesnumeriques => (13:37)[+183] Nensha => (14:01)[+81] RTBF_iXPe (terminé à 22:35)
 
 
+--------------------------------------
+2023-06-23
+
+» [Engadget] Samsung brings its self-repair program to the UK. Galaxy S20, 21 and S22 owners can replace the screen, back glass and charging ports → https://n9.cl/jxl2o
+» [TechSport] European Union votes to bring back replaceable phone batteries. Sleek slabs could soon be a thing of the past → https://n9.cl/3k53b
+
+» [Les Numériques] Test Le MacBook Air 15 d'Apple fait voir la vie en grand → https://n9.cl/rva4g
+» [Les Numériques] Test Apple Mac Studio (2023) : la puissance du M2 Max en plus → https://n9.cl/us16k
+» Framework Laptop 13, désormais disponible avec la série AMD Ryzen™ 7040 et la 13e génération Intel Core → https://frame.work
+» [Les Numériques] Labo – Samsung S95C : un pic de luminosité record pour la technologie QD-Oled ! → https://n9.cl/ytodr
+
+raids : lesnumeriques => (13:43)[+158] Bouletcorp => (18:13)[+266] Eilystraee => (18:54)[+72] capitainebeep => (19:13)[+50] McDiams => (21:52)[+31] Hicur0
+
+
 
 » [Les Numériques] 
 » [Gamekult] 
@@ -10056,7 +10070,6 @@ raids : lesnumeriques => (13:37)[+183] Nensha => (14:01)[+81] RTBF_iXPe (termin�
 » [VICE Motherboard] 
 » [Engadget] 
 » [AnandTech] 
-
 
 
 Kappa 🥁
