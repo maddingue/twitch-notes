@@ -10059,6 +10059,23 @@ raids : lesnumeriques => (13:37)[+183] Nensha => (14:01)[+81] RTBF_iXPe (termin�
 raids : lesnumeriques => (13:43)[+158] Bouletcorp => (18:13)[+266] Eilystraee => (18:54)[+72] capitainebeep => (19:13)[+50] McDiams => (21:52)[+31] Hicur0
 
 
+--------------------------------------
+2023-06-30
+
+» LeHack: Kernel Panic -- salon dédié à la cybersécurité du 30 juin au 2 juillet à la Cité des sciences → https://lehack.org | https://youtube.com/@hzvprod
+» LeHack - OSINT Village → https://lehack.org/fr/tracks/osint/
+» Association HackerZ Voice → https://hzv.fr | https://youtube.com/@hzvprod
+
+» Benjamin Pittet / COUPSURE → https://twitter.com/COUPSURE
+» Bellingcat → https://bellingcat.com
+» Epieos - Retrieve information linked to an email address, without notifying its user → https://epieos.com
+» VirtuaLabs → https://twitch.tv/virtualabs
+» LockPickingLawyer  → https://www.youtube.com/@lockpickinglawyer
+» ARCSI - Association des Réservistes du Chiffre et de la Sécurité de l'Information → https://www.arcsi.fr
+» Quarkslab → https://quarkslab.com
+
+
+
 
 » [Les Numériques] 
 » [Gamekult] 
