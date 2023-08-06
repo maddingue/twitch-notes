@@ -1003,6 +1003,143 @@ développé par Larian Studios (Divinity Original Sin 1 & 2), studio de plus de 
 raids : SilenceOnJoue => (12:19)[+74] Kokihiete => (15:00) [+125] CabriDIY (>16:30) => (<17:11) AreUBready => (17:20)[+119] Sildarul (>19:45) => (<20:19) DirtyBarbouZ => (21:03)[+76] TerryCoco (terminé à 23:45)
 
 
+--------------------------------------
+2023-07-11
+
+La FAQ de la saison 16 de Silence on Joue
+
+Q: Y aura-t-il une saison 17 ?
+A: oui bien sûr
+
+Q: Sinon, ça va vous ?
+A: oui 🌞
+
+Q: Comment ça, la saison 16 est déjà finie ?
+A: Si on ne faisait pas de pause, la saison 16 n'aurait pas de fin, car le jeu vidéo ne s'arrête plus. Mais peut-être des chroniques de Jérémie durant l'été.
+
+Q: La saison prochaine, est-ce que ce sera encore Silence on joue à temps plein pour Erwan ?
+A: A priori oui, en attente de confirmation. Erwan a d'une certaine manière changé de travail, ses semaines sont donc totalement différentes d'avant.
+
+Q: Est-ce que Libération avait fixé des objectifs pour cette expérimentation ?
+A: Pas vraiment côté Libération. Erwan s'était fixé des objectifs de création plus que de résultats. La chaîne Twitch est encore en phase expérimentale, avec deux streams par semaine, mais comme cela n'a pas empiété sur le podcast, pas de raison de ne pas continuer. Les enregistrements de podcasts resteront par contre  hors ligne de Twitch, pour éviter la pression d'une forme de direct, connue à l'époque de Nolife.
+
+Q: Est-ce que chez Libération ils sont satisfait de cette expérimentation ?
+A: Oui, surtout avec plus de 730 abonnés de soutien à Silence on Joue en fin de saison
+
+Q: Avez-vous un avis sur le rachat d'Activision Blizzard King par Microsoft et la décision du jour sur la défaite de la FTC ?
+A: Tous les voyants sont en train de s'aligner pour que ça se fasse. Intéressant de voir tout ce qui est sorti durant les auditions, en matière de chiffres, de dossiers, un petit côté cours d'école. Par contre, il faudra voir ce qu'il se passera ensuite avec les synergies et les licenciements de masse qui pourraient en découler.
+C'est plutôt une bonne nouvelle pour les joueurs⋅euses qui sont sur le Game Pass. Les acteurs du cloud gaming ont gagné des accords très intéressants pour eux pour les 10 années qui viennent.
+
+Q: Vous évoquiez les statisques du podcasts, mais en termes d'audience, ça donne quoi ?
+A: Audience moyenne : 15K écoutes sur Acast et YouTube. Plus grosse émission, celle sur la fin de Gamekult avec 20K. Les entretiens font entre 9 et 10K. Les bandes annonces 7K.
+
+Q: Après un an de stream sur Twitch, est-ce que tu as pris plus de plaisir que prévu ?
+A: Erwan ne prévoyait par de s'ennuyer. La chaîne avait été lancé tout début novembre 2022, et deux semaines après, il y a le départ de la rédaction de Gamekult dans les conditions qu'on sait. Et Erwan et Marius ont fait un stream un peu imprivé pour discuter de leur article sur ce sujet. Peu après, création de Gâchette Gauche.
+
+Q: Outre le temps supplémentaire pour créer le contenu, que t'aura apporté le fait d'être à plein temps là-dessus, quel est ton ressenti ?
+A: Le jeu vidéo était un sujet connexe pour Erwan chez Libé, en plus des cultures numériques, d'Ecrans.fr à une époque, etc. Au final, ça tient la route. Silence on joue permet de faire la critique de trois quatre jeux chaque semaine, mais il y a aussi tous les autres sujets socio-économiques, voire politiques, les entretiens avec les créateurs et créatrices.
+
+Q: Y a-t-il des entretiens qui sont tombés à l'eau et dont on n'a pas connaissance ?
+A: Des demandes d'entretiens sont tombées à l'eau, parce que les personnes dn'étaient pas dispos, etc. Le format d'entretien qu'il a apprécié de faire, c'est les portraits de joueurs⋅euses (avec Dédo et Ultia). Les entretiens avec les chercheurs⋅euses sont très pertinents, mais il faut qu'ils et elles aient le temps.
+
+Q: Question parentalité : comment inculquer la modération à vos enfants avec votre activité ?
+A: Marius est en paix avec ça. Comme il joue dans le salon, ses filles « ont vu des trucs… » elles ont déréalisé la violence.
+Pour Erwan, il y a une limite temporelle sur les horaires d'écrans, surtout sur le début, mais en restant relativement souple. Évidemment des limites de contenu (Arthur a 11 ans, sa fille 8 ans). Ses enfants ne sont pas exposés aux jeux auxquels il joue car c'est surtout sur PC. Ses enfants jouent même à Roblox parce que les contraires de socialisation en cours d'école.
+
+Q: Comment les streams vont-ils évoluer ?
+A: Pas sur les podcasts
+
+Q: les jeux présentés dans Silence on joue seront-ils d'abord montrés sur Twitch ?
+A: Non parce que seulement deux streams en semaine
+
+Q: Vous qui êtes journalistes, n'avez-vous pas plus de crédibilité qu'une personne lambda pour donner votre avis sur un jeu ?
+A: On a chacun⋅e notre passé notre passif, de joueur⋅euses, qui fait qu'on a chacun⋅e notre opinion très subjective. Le débat de Silence on joue permet d'affronter des arguments. On peut avoir un coup de cœur pour tel jeu, ou au contraire une dent contre un autre.
+L'absence de ligne éditoriale permet d'éviter la pression de tester tout ce qui sort, d'avoir une liberté de chroniquer ce qui intéresse les chroniqueurs⋅euses.
+
+Q: Est-ce qu'un membre de Silence on joue a prévu de relancer Chained Echoes ?
+A: Des fois, on n'a pas le temps de faire les 100 h de certains RPG…
+
+Q: Est-ce que le format Gâchette Gauche pourra accueillir un nouveau membre, par exemple d'Origami ?
+A: Pourquoi pas, quand iels seront installés
+
+Q: y a-t-il des jeux que vous avez refusé de chroniquer, ou qui ont provoqué de vifs débats entre vous ?
+A: Quelques désaccords, mais pas de vifs débats. Pas de refus, même Atomic Heart et Hogwarts Legacy ont été chroniqués. Patrick fait une remarque sur l'absence de motivation sur les jeux en FMV qu'il propose. Erwan reconnaît un manque d'entrain sur les boomer shooters, avec un par semaine.
+
+Q: Comment naissent les questions des bandes annonces ?
+A: Dans un premier temps, Erwan. maintenant, elles viennent du Discord.
+
+Q: Quelle est votre question de bande annonce préférée ?
+A: « le jeu vidéo de vos 15 ans » / « quel jeu conseillerez-vous à un non joueur⋅euse ? x
+
+Q: À quand le méga cross over avec tous les podcasts JV français ?
+A: Déjà fait avec le RDV Jeu. Avec ZQSD ou le Cosy Corner, ce serait possible.
+
+Q: Une émission sur l'état de la recherche universitaire sur le jeu vidéo serait-elle envisageable ?
+A: oui
+Introduction aux théories des jeux vidéo, par Sébastien Genvo et Thibault Philippette → https://www.lcdpu.fr/livre/?GCOI=27000100197080
+
+Q: Une émission sur l'écologie et le jeu vidéo ?
+A: C'était dans la feuille de route de la saison 16, mais pas eu le temps. Comme pour le rap et le JV.
+
+Q: La saison 17 sera-t-elle la même ?
+A: On a une dream team, pourquoi en changer ?
+
+Q: Si a 50 ans on n'est pas passé dans le com des comm, est-ce qau'on a raté sa vie ?
+A: C'est copinage et compagnie.
+
+Q: Théorie pour passer dans le comm des comm.
+A: Ça se tente…
+
+Q: Est-ce que chaque épisode de SoJ pourrait se terminer en souhaitant l'anniversaire des membres dont cela tombe cette semaine, comme au Club Dorothée ?
+A: heu… non ?
+
+Q: Pouvons-nous prier pour l'apparition de produits dérivés SoJ ?
+A: Marius voudrait un mug SoJ, Patrick un bob. Si on refait le logo, peut-être
+
+Q: Un serveur Minecraft SoJ ?
+A: je ne sais pas comment ça marche, donc non
+
+Q: Silence on joue serait-il devenu un catalyseur intermédia
+A: À plus de trois, cela va être un peu plus compliqué, mais on va essayer de faire de place pour Origami
+
+Q: Avez-vous une idée du pourcentage d'auditeurs et auditrices de SoJ qui ne jouent pas ou plus aux jeux vidéo
+A: On n'a pas idée parce qu'on n'a pas demandé, mais on est au courant de cela, de gens qui ont envie d'écouter pour se tenir au courant.
+» résultat du sondage : A combien de jeux chroniqués avez-vous joué ?
+moins de 5 : 46% (26) | entre 5 et 10 : 32% (18) | entre 10 et 20 : 14% (8) | entre 20 et 50 : 5% (3) | plus de 50 : 4% (2)
+
+Q: Est-ce qu'un média comme Libération ne vous protège pas des lecteurs et de leurs caprices ?
+A: 
+
+Q: Marius fera-t-il partie du prochain Poleposisoj ?
+A: Si vous voulez on speedrun Baldur's Gate
+
+Q: Dans quelle mesure le jargon du jeu vidéo, truffé d'anglicismes et de mots bizarrement construits, vous est-il nécessaire ? Avez vous parfois des réticences à l'utiliser par crainte de perdre une partie du public ?
+A: Marius se sent assez libre dans SoJ par rapport à quand il écrit dans Libé.
+
+Q: Pourquoi n'y a t-il pas plus d'articles JV dans Libé ?
+A: Parce que Marius n'en fout pas une :D parce qu'il s'occupe aussi des séries, BD, cinéma, et l'habitude de penser d'abord pour le print (le papier en kiosques) avant le web, et que les places sont chères
+
+Q: Libé finance le podcast ou donne juste son nom ?
+A: Libé finance le podcast, avec les salaires d'Erwan et Marius
+
+Q: L'exhaustivité est-elle encore possible dans la presse JV aujourd'hui ?
+A: non
+
+Q: Un truc en vue pour la 600ème ?
+A: Erwan panique et détourne la conversation
+
+Q: Maintenant que tu es rôdé, envisage-tu de nouveaux formats pour la saison 17, des événements IRL ?
+A: La saison 17 est en gestation. Possibilités d'IRL au Stunfest, ou à nouveau au Forum des Images. Il y a des idées de nouveaux formats, mais il essaye déjà de faire aussi bien que la saison 16. Peut-être un podcast sur la parentalité.
+
+Q: une démo de batterie pour la saison 17 ?
+A: On va attendre la saison 18
+
+
+raids entrants :
+- lamhua => (19:27)[+459]
+
+raids : SilenceOnJoue => (21:25)[+157] Noddus_ => (23:50)[+54] PartiesPrivees (terminé à 00:06)
+
 
 🗞️ Abonnez-vous à Libération pour 5€/mois et soutenez votre podcast Silence on Joue → https://offre.liberation.fr/soj
 
