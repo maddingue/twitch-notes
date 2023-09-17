@@ -16210,7 +16210,6 @@ raids : Gautoz => (16:46)[+674] Shisheyu_Mayamoto => (18:22)[+1348] Krayn_Live =
 
 
 
-
 --------------------------------------
 2023-08-20 (hors stream)
 
@@ -16233,11 +16232,167 @@ prochain Playism Game Show le 10 septembre pour annoncer de nouveaux jeux
 
 
 
+--------------------------------------
+2023-09-10 (hors stream)
+
+Playism Game Show 2023 (2)
+
+présenté par Chiaki Matsuzawa (actrice de doublage), Shunji Mizutani (Playism) et Fullcon
+
+» **World of Horror**, en accès anticipé depuis le 20 février 2020 sur PC, version finale le 19 octobre 2023 sur Switch, PlayStation et PC, développé par panstasz → <https://s.team/a/913740> | <http://www.wohgame.com>
+» **Schim**, annoncé pour 2024 sur Switch, PlayStation, Xbox et PC, développé par Ewoud van der Werf & Nils (Pays-Bas) → <https://schimgame.com> | <https://s.team/a/1519710> | <https://extra-nice.itch.io/schim>
+» **EDEN.schemata();**, annoncé pour 2024 sur PC, développé par WSS playground (Drainus, Needy Streamer Overload) et illuCalab (Alice Escaped!) → <https://s.team/a/1630450> | <https://playism.com/en/game/eden-schemata/>
+» **The Star Named EOS**, annoncé pour 2024 sur PC, développé par Silver Lining Studio (Behind the Frame), démo disponible sur Steam → <https://s.team/a/1619230> | <https://silverliningstudio.co> | <https://playism.com/en/game/the_star_named_eos/>
+» **Metal Bringer**, annoncé sur PC, iOS, développé par AlphaWing (Samurai Bringer) → <https://s.team/a/2334170> | <https://playism.com/en/game/metal-bringer/>
+» **カニノケンカ** / **Fight Crab 2** 🦀️ annoncé en axccès anticipé cet hiver sur PC, développé par Calappa Games (Fight Crab, Ace of Seafood) → <https://s.team/a/2457580> | <https://playism.com/en/game/fight-crab-2/>
+» **Break Arts III**, annoncé sur PC, développé par MercuryStudio → <https://s.team/a/2522430> | <https://twitter.com/MercurySdo> | <https://playism.com/en/game/break-arts-iii/>
+» **Phantom Rose II Sapphire**, annoncé pour le 30 octobre 2023 sur PC, en 2024 sur iOS et Android, développé par makaroll → <https://s.team/a/1964200> | <https://phantomrosegame.com> | <https://playism.com/en/game/phantom-rose-2-sapphire/>
+» **34Everlast**, annoncé pour 2024 sur PlayStation, Xbox et PC, développé par Kanata Lab et Hyper Real → <https://s.team/a/2134470> | <https://kanata-labo.com> | <https://playism.com/en/game/34everlast/>
+» **Refind Self: 性格診断ゲーム** / **Refind Self: The Personality Test Game**, annoncé pour novembre 2023 sur mobiles et PC, développé par Lizardry (7 Days to End with You) → <https://s.team/a/2514960> | <https://lizardry.jp/> | <https://playism.com/en/game/refindself/>
+» **電気街の喫茶店** / **Maid Cafe at Electric Street**, annoncé poru 2024 sur PC, développé par Adventurer's Tavern → <https://s.team/a/1789030> | <https://playism.com/en/game/maid-cafe-at-electric-street/> | <https://twitter.com/dreambaseinc>
+» **Ib**, déjà sorti le 11 avril 2022 sur PC, le 9 mars 2023 sur Switch, annoncé pour le 14 mars 2024 sur PlayStation 4 & 5, développé par kouri → <https://s.team/a/1901370> | <https://playism.com/en/game/ib/> | <https://twitter.com/monomu_kouri>
+» **薔薇と椿 〜お豪華絢爛版〜** (Rose and Camellia), sortie annoncé pour le 11 ou le 19 septembre 2023 sur Switch (uniquement au Japon), développé par Nigoro (la Mulana 1 & 2) → <https://playism.com/game/rose-and-camellia/> | <https://en.roseandcamellia.com/> | <http://nigoro.jp/en/games/rose/>
+» **Journey Record**, annoncé sur PC, développé par Kochi Create → <https://s.team/a/2527610> | <https://playism.com/en/game/journeyrecord/>
+» **探偵死神は誘う** / **Invitation from the Detective Grim Reaper**, annoncé sur PC, développé par Shizu Kano Umi → <https://s.team/a/2527600>
+» **少年的の終り** / **Boyhood's End**, annoncé pour 2023 sur PC, développé par WSS playground (EDEN.schemata(), Drainus, Touhou Luna Nights) et buriki clock (Chloé’s Requiem -encore-) → <https://s.team/a/2403290> | <https://playism.com/en/game/boyhoodsend/>
+» **Touhou Luna Nights**, sorti le 26 février 2019 sur PC, le 3 septembre 2020 sur Xbox, annoncé pour le 25 janvier 2024 sur Switch et PlayStation, développé par Team Ladybug et WSS playground → <https://s.team/a/851100> | <https://playism.com/en/game/touhou-luna-nights/>
+» **Gnosia**, sorti le 4 mars 2021 sur Switch, le 23 janvier 2022 sur PC, annoncé pour le 14 décembre 2023 sur PlayStation et Xbox, développé par Petit Depotto → <https://s.team/a/1608290> | <https://playism.com/en/game/gnosia/>
+
+autres jeux prévus qui seront publiés par Playism, mais qui n'ont pas été présentés ici :
+» **Glaciered**, annoncé sur PC, développé par Studio Snowblind → <https://s.team/a/2052300> | <https://glaciered.com> | <https://playism.com/en/game/glaciered/>
+» **Momodora: Moonlit Farewell**, annoncé sur PC, développé par Bombservice (Momodora: Reverie Under The Moonlight) → <https://s.team/a/1747760> | <https://playism.com/en/game/momodora-moonlit-farewell/>
+» **炎姫** / **Homura Hime**, annoncé sur PC, développé par Crimson Dusk  → <https://s.team/a/1820000> | <https://playism.com/en/game/homura-hime/> | <https://facebook.com/people/%E7%82%8E%E5%A7%AC/100063788542277/>
+» **魔砲少女のメイガスフィア** / **MaguSphere - Magical Cannon Girls**, annoncé pour 2024 sur PC, développé par OHBADO → <https://s.team/a/1689130> | <https://twitter.com/ohbado> | <https://playism.com/en/game/magusphere/>
+
+» https://www.gematsu.com/tag/playism-game-show-2023-09-10
+
+
+
+--------------------------------------
+2023-09-14 (hors stream)
+
+Nintendo Direct
+
+» Splatoon 3 - passe d'extension Tour de l'Ordre
+» Mario vs Donkey Kong, le 16 février 2024
+» Prince of Persia: The Lost Crown, le 18 janvier 2024 sur toutes les consoles
+» Horizon Chase 2, déjà sorti sur PC et consoles, disponible maintenant sur Switch
+» Super Crazy Rhythm Castle, le 14 novembre 2023
+» Spy x Anya Operation Memories, l'an prochain
+» Super Mario RPG, le 17 novembre 2023
+» Another Code: Recollection (Two Memories + R), le 19 jancier 2024 → https://cutt.ly/AwxKnjdh
+» Princess Peach: Showtime, le 22 mars 2024 sur Switch → https://cutt.ly/jwxKbRU9
+» SaGa Emerald Beyond, l'an prochain sur Switch
+» Tomb Raider I-III Remastered, le 14 février 2024 sur Switch
+» Le retour de Détective Pikachu, le 6 octobre 2023 sur Switch
+» Trombone Champ, déjà sorti sur PC, disponible maintenant sur Switch
+
+» Battle Crush, annoncé pour le printemps 2024, béta fermée en octobre 2023
+» Wartales, déjà sorti sur PC, disponibke maintenant sur Switch
+» Contra Operation Galuga, en début d'année prochaine
+» Unicorn Overlord, le 8 mars 2024, par Atlus et Vanillaware
+» Luigi's Mansion 2 HD, été 2024 sur Switch
+
+» annonce du Nintendo Museum, ouverture prévue pour mars 2024
+» des Amiibo
+
+» F-Zero 99, disponible maintenant sur Switch, pour les abonnés Switch Online → https://cutt.ly/WwxKcJLz
+» Bandle Tale: A League of Legends Story, l'an prochain sur Switch
+» Song of Nunu: A League of Legends Story, le 1er novembre 2023 sur Switch → <https://www.songofnunu.com>
+» Wario Ware Move It!, le 13 novembre 2023 sur Switch
+» Eiyuden Chronicle: Hundred Heroes, annoncé sur consoles et PC le 23 avril 2024
+» Eastward: Octopia, DLC annoncé pour l'hiver 2023
+» Wargroove 2, annoncé sur PC et consoles pour le 5 octobre 2023 → <https://wargroove.com>
+» Dave the Diver, déjà sorti sur PC, annoncé pour le 26 octobre 2023 sur Switch
+» Mario Kart 8 Deluxe DLC Final Wave, cet hiver
+» Among Us - The Fungle, carte gratuite annoncée pour octobre 2023
+
+» Paper Mario - La porte millénaire, annoncé pour 2024
+
+
+State of Play
+
+» Baby Steps, annoncé pour 2023 sur PC, par les créateurs de Ape Out et Getting over it → <https://s.team/a/1281040> | <http://babysteps.com> | <https://blog.playstation.com/2023/09/14/wonderfully-weird-walking-sim-baby-steps-toddles-onto-playstation-next-year/>
+» Roblox, déjà sorti sur PC, annoncé sur PlayStation le 10 octobre 2023 → <https://blog.playstation.com/2023/09/14/roblox-coming-to-playstation-on-october-10/>
+» Ghostbusters: Rise of the Ghost Lord, annoncé le 26 octobre 2023 sur PS VR 2 → <https://www.ghostbusters.com/vr/> | <https://blog.playstation.com/2023/09/14/how-ghostbusters-rise-of-the-ghost-lord-captures-the-best-of-ps-vr2/>
+» Resident Evil 4 VR et Resident Evil 4 DLC Separate Ways, le 21 septembre 2023 → <https://blog.playstation.com/2023/09/14/resident-evil-4-dlc-separate-ways-launches-sept-21-re4-vr-mode-arrives-as-free-dlc-this-winter/>
+» Avatar: Frontiers of Pandora, le 7 décembre 2023 sur PlayStation 5, Xbox Series et PC, par Massive (The Division) → https://ubisoft.com/fr-fr/game/avatar/frontiers-of-pandora
+» Ghostrunner II, par 505 Games, annoncé pour 2023 sur PS5 et PC, démo disponible aujourd'hui → <https://ghostrunnergame.com> | <https://blog.playstation.com/2023/09/14/ghostrunner-2-demo-available-for-ps5-today-new-story-trailer-revealed/>
+» Helldivers II, par Arrowhead (Magicka, Helldivers), annoncé pour 2023 sur PS5 et PC → <https://blog.playstation.com/2023/09/14/helldivers-2-launches-february-8-2024/>
+» Marvel’s Spider-Man 2, annoncé pour le 20 octobre 2023 sur PlayStation 5 → <https://blog.playstation.com/2023/09/14/marvels-spider-man-2-new-state-of-play-trailer-gameplay-details/>
+» Tales of Arise – Beyond the Dawn, le 9 novembre 2023 → <https://blog.playstation.com/2023/09/14/tales-of-arise-beyond-the-dawn-dlc-expansion-releases-nov-9/>
+» Honkai: Star Rail, le 11 octobre 2023 → <https://hsr.hoyoverse.com> | <https://store.epicgames.com/fr/p/honkai-star-rail>
+» Foamstars, annoncé sur PlayStation 4 & 5, béta ouverte du 29 septembre au 10 octobre 2023 → <https://foamstars.square-enix-games.com> | <https://blog.playstation.com/2023/09/14/foamstars-open-beta-party-launches-this-month-heres-everything-you-need-to-know/>
+» Final Fantasy VII Rebirth, annoncé pour le 29 février 2024 sur PlayStation 5 → <https://ffvii.square-enix-games.com>
+
+
+
+--------------------------------------
+2023-09-15
+
+ça sent le roussi
+
+» 🇺🇸 [Unity / 12 septembre 2023] Unity plan pricing and packaging updates → https://cutt.ly/IwxJiMTF
+» 🇺🇸 [Axios / 12 septembre 2023] Unity rushes to clarify price increase plan, as game developers fume → https://cutt.ly/MwxJux2R
+» 🇺🇸 [Insert Credit / 12 septembre 2023] The Death of Unity, par Brandon Sheffield (Necrosoft) → https://cutt.ly/GwxJirFt
+» 🐦 [Twitter / 12 septembre 2023] Cult of the Lamb - Buy Cult of the Lamb now, cause we're deleting it on Jan 1st. 😘 → https://cutt.ly/4wxJWjHG
+» 🐦 [Twitter / 12 septembre 2023] Over the Moon - Hey @unity , our game "The Fall" was on the @EpicGames as a free game - I was quite happy to sell them the rights for peanuts and the game was installed like 7 million fucking times. How do you propose this will work? I'd owe you more money than I've made in my life → https://cutt.ly/MwxJQk46
+» 🐦 [Twitter / 12 septembre 2023] Devolver Digital - Definitely include what engine you’re using in game pitches. It’s important information! → https://cutt.ly/NwxJkPG5
+» 🇺🇸 [GameFromScratch / 12 septembre 2023] Unity announce new pricing and plan changes → https://cutt.ly/1wxJUTgx
+» 🇺🇸 [Reddit / gamedev] Unity silently removed their Github repo to track license changes, then updated their license to remove the clause that lets you use the TOS from the version you shipped with, then insists games already shipped need to pay the new fees → https://cutt.ly/mwxJv0Pn
+» 🐦 [Twitter / 12 septembre 2023] Jono Forbes - As a unity employee until this morning, I assure you we fought like hell against this, brought up all the points everyone has, were told answers were coming, and then the announcement went out without warning. Those of us who care are out -- more resignations coming end of week → https://cutt.ly/ZwxJcDdJ
+» 🇫🇷 [FactorNews / 12 septembre 2023] Unity : tous unis contre le moteur → https://cutt.ly/6wxJYpI8
+
+» 🇺🇸 [Games Industry / 13 septembre 2023] Unity clarifies new fee plans amid developer backlash. Engine provider estimates only 10% of developers will end up paying install charge, demos and charity bundles exempt → https://cutt.ly/mwxJo6Va
+» 🇫🇷 [Frandroid / 13 septembre 2023] Taxer chaque installation ? Pourquoi les créateurs de jeux vidéo sont en panique → https://cutt.ly/KwxJntsG
+» 🇺🇸 [GameFromScratch / 13 septembre 2023] Developers react to Unity pricing change → https://cutt.ly/owxJp6CB
+» 🇺🇸 [Bloomberg / 13 septembre 2023] Unity canceled a town hall this morning and closed two offices due to what CEO John Riccitiello said was a credible death threat, according to people familiar. This comes in the wake of a controversial price hike from the video game tech maker → https://t.co/Xldfu5q9A4
+» 🇺🇸 [Game Developer / 14 septembre 2023] Unity closes offices in response to "potential threat" to staff safety. The death threat comes days after Unity announced its divisive Runtime Fee pricing plan for developers → https://cutt.ly/IwxJHIH8
+» 🐘 [Mastodon] Rune Skovbo Johansen - Unity is introducing a new per-install fee. According to my calculations (see chart) it's a bankruptcy death-trap? Shockingly, the owed percentage is unbounded and can exceed gross revenue, since the owed amount depends on installs, not sales → https://cutt.ly/jwxJP27k
+» 🇺🇸 [GameDiscovery / 13 septembre 2023] Unity changes: why PC & console devs feel like the 'ugly duckling' → https://cutt.ly/6wxKs6Yw
+
+» 🇺🇸 [Games Industry / 14 septembre 2023] Unity’s pricing is a symptom, not the cause of tougher times ahead for the games industry. Midia Research's Karol Severin looks at the wider factors behind the engine's controversial new fee → https://cutt.ly/swxJicnt
+» 🇺🇸 [Mobile Gamer / 14 septembre 2023] Unity is offering a Runtime Fee waiver if you switch to LevelPlay as it tries to “kill AppLovin” → https://cutt.ly/vwxJl6yH
+» 🇫🇷 [FactorNews / 12 septembre 2023] Unity : la débandade continue → https://cutt.ly/zwxJIVOp
+
+» 🇺🇸 [Game Developer / 15 septembre 2023] Among Us dev predicts install fee "concessions" instead of reversal after call with Unity. Pressure is mounting on Unity to scrap its new Runtime Fee policy, and there are even reports that a lawsuit could be in the offing → https://cutt.ly/UwxJJEUo
+» 🇺🇸 [Mobile Gamer / 15 septembre 2023] Unity boycott begins as devs switch off ads to force a Runtime Fee reversal → https://cutt.ly/2wxJEO1L
+
+» 🇫🇷 [Canard PC Hardware / 17 novembre 2016] Vie privée et espionnage, partie 4 -- Des jeux un peu trop curieux - Sniff'em All → https://cutt.ly/wwxJAAjf
+
+
+» 🇺🇸 [Xbox] What To expect on day one with Xbox Game Pass Core → https://cutt.ly/ewxKP2nb
+
+» 🇺🇸 [Games Industry]  Xbox Series S and X UK sales jumped 76% on Starfield launch. Bethesda's RPG and the new 1TB Series S model delivered the best week of 2023 so far for Xbox console sales → https://cutt.ly/wwxKGTtW
+
+» 🇺🇸 [GameRant] No Man's Sky is having one of its best months ever. Hello Games founder Sean Murray announces that No Man’s Sky is having its best month in years, over seven years after it first launched → https://gamerant.com/no-mans-sky-september-2023-popularity/
+
+» 🇺🇸 [Games Industry] Ascendant Studios lays off "about 45%" of its workforce. Layoffs reportedly due to poor sales of Immortals of Aveum, former employee says → https://gamesindustry.biz/ascendant-studios-lays-off-45-of-its-workforce
+» 🇺🇸 [Games Industry] Hungry Shark developer Ubisoft London faces closure. 54 positions under threat as Hungry Sharp IP moved to Ubisoft Barcelona → https://gamesindustry.biz/hungry-shark-developer-ubisoft-london-faces-closure
+» 🇺🇸 [Insider Gaming] EA Reportedly Ending Support For Wild Hearts Seven Months After Launch → https://insider-gaming.com/ea-reportedly-ending-support-for-wild-hearts-seven-months-after-launch/
+» 🇺🇸 [Ubisoft] An Update on the Release of XDefiant from Mark Rubin → https://www.ubisoft.com/en-us/game/xdefiant/news/4vaekoOSRkSUkNei7kjm3g/an-update-on-the-release-of-xdefiant-from-mark-rubin
+
+» BIT.TRIP RERUNNER → https://store.steampowered.com/app/2222540/
+» Bilkins' Folly → https://store.steampowered.com/app/1526370/
+» Broken Roads → https://store.steampowered.com/app/1403440/
+» Warhammer 40,000: Rogue Trader → https://store.steampowered.com/app/2186680/
+
+
+raids entrants :
+- WoodyLutherie => (14:44)[+76]
+- Aelthan => (14:46)[+71]
+
+raids : Gautoz => (16:52)[+822] briandavidgilbert (terminé à 17:36)
+
+
+
+
 » 🇺🇸 
 » 🇫🇷 
 » 🇯🇵 
 » 📺 [YouTube] 
 » 🐦 [Twitter] 
+» 🐘 [Mastodon] 
 
 » 🇫🇷 [Gamekult] 
 » 🇫🇷 [Canard PC] 
