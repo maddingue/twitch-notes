@@ -12504,8 +12504,8 @@ raids : Gautoz => (16:51) TiTavion (>20:00) => (<22:20) MrDeriv [Antistar => 00:
 » 🇺🇸 [Washington Post] Blizzard Albany, formerly Vicarious Visions, announces unionization bid. The studio is the latest to join the video game industry’s labor organizing wave → https://wapo.st/3p8Byyt
 » 🇺🇸 [Washington Post] Activision Blizzard staff walk out, protesting loss of abortion rights → https://wapo.st/3JKYY6n
 
-» 🇫🇷 [Gamekult] Unity fait l'objet d'une nouvelle offre de fusion à 17,5 milliards de dollars. AppLovin veut prendre le dessus sur ironSource → https://cutt.ly/WZ8nkUS
-» 🇬🇧 [VGC] Mobile tech firm AppLovin has offered to buy Unity for $17.5 billion. The proposed deal would see Unity abandon its previously agreed deal with IronSource → https://cutt.ly/9Z8nvTR
+» 🇫🇷 [Gamekult / 9 août 2022] Unity fait l'objet d'une nouvelle offre de fusion à 17,5 milliards de dollars. AppLovin veut prendre le dessus sur ironSource → https://cutt.ly/WZ8nkUS
+» 🇬🇧 [VGC / 9 août 2022] Mobile tech firm AppLovin has offered to buy Unity for $17.5 billion. The proposed deal would see Unity abandon its previously agreed deal with IronSource → https://cutt.ly/9Z8nvTR
 
 » 🇫🇷 [Gamekult] Koch Media fait peau neuve et devient Plaion → https://cutt.ly/VZ8UpzS
 
@@ -16385,6 +16385,160 @@ raids entrants :
 raids : Gautoz => (16:52)[+822] briandavidgilbert (terminé à 17:36)
 
 
+
+--------------------------------------
+2023-09-21 (hors stream)
+
+Xbox Tokyo Game Show 2023
+
+» Party Animals x Ori, le 20 septembre, inclus dans le Game Pass → https://PartyAnimalsGame.com | https://s.team/a/1260320/
+» Ace Attorney Phoenix Wright Trilogy, déjà sorti en 2019 sur Switch, PlayStation, Xbox et PC → https://s.team/a/787480
+» Ace Attorney Apollo Justice Trilogy, début 2024 sur Switch, PlayStation, Xbox et PC, traduit en français → https://www.ace-attorney.com/aj-trilogy/fr/
+» Palworld, annoncé pour janvier 2024 sur Xbox et PC → https://s.team/a/1623730
+» Forza MotorSport, annoncé pour le 10 octobre 2023 sur Xbox et PC → https://forza.net | https://s.team/a/2440510
+» Persona 5 Tactica, le 17 novembre 2023 sur Switch, PlayStation, Xbox et PC → https://s.team/a/2254740 | https://persona.atlus.com/p5t/
+» Infinity Strash - Dragon Quest - The adventure of Dai, le 28 septembre 2023 sur Switch, PlayStation, Xbox et PC → https://www.dqdai-is.com | https://s.team/a/1895810
+» Altheia: The Wrath of Aferi, annoncé pour 2024 sur Xbox et PC → https://s.team/a/1638160
+» Mineko's Night Market, le 26 septembre 2023 sur Switch, PlayStation, Xbox et PC, par Meowza Games → https://minekosmarket.com | https://s.team/a/762940
+» Persona 3 Reload, le 2 février 2023 sur PlayStation, Xbox (Game Pass) et PC → https://persona.atlus.com/p3r/
+» Fallout 76 - DLC Atlantic City, test public le 3 octobre 2023 sur Steam → https://s.team/a/1151340
+» Wo Long: Fallen Dynasty - DLC Conqueror of Jiangdong, le 27 septembre 2023
+» Like a Dragon: Ishin! sorti le 21 février 2023 sur PlayStation, Xbox (Game Pass) et PC → https://ishin.sega.com
+» Like a Dragon Gaiden: The Man Who Erased His Name, le 8 novembre 2023 sur PlayStation, Xbox (Game Pass) et PC → https://gaiden.sega.com | https://s.team/a/2375550
+» Like a Dragon: Infinite Wealth, le 26 janvier 2024 sur PlayStation, Xbox (Game Pass) et PC → https://infinitewealth.sega.com
+» Eiyuden Chronicle: Hundred Heroes, annoncé sur consoles et PC le 23 avril 2024 → https://eiyudenchronicle.com | https://s.team/a/1658280
+» The Elder Scrolls Online: Necrom en japonais
+» PUBG: Battlegrounds sur Xbox
+» My Lovely Daughter, sorti le 8 mars 2018 sur PC, par GameChanger Studio → https://s.team/a/580170 | https://www.togeproductions.com/project/mylovelydaughter/
+» My Lovely Empress, annoncé pour 2024 sur Xbox et PC → https://s.team/a/2052990
+» ExoPrimal 🦖 - saison 2 le 19+8 octobre 2023
+» Hotel Barcelona, annoncé pour 2024 sur Switch, Xbox et PC, par Suda 51 et Swery, édité par Devolver
+
+
+
+
+--------------------------------------
+2023-09-25
+
+expression : anguille sous roche
+
+
+- CMA ok pour Microsoft + ABK :
+» 🇺🇸 [Games Industry / 22 septembre 2023] UK preliminarily approves Microsoft's acquisition of Activision Blizzard. CMA says modified deal addresses main issues in cloud gaming space but "residual concerns" remain → https://cutt.ly/AwvO62Px
+» 🇬🇧 [Eurogamer / 22 septembre 2023] Microsoft's Activision Blizzard bid provisionally approved by UK regulator. Revised deal has addressed concerns, CMA says → https://cutt.ly/IwvO2gRy
+» 🇫🇷 [Frandroid / 22 septembre 2023] Activision Blizzard : le Royaume-Uni ouvre la porte à une validation du rachat par Xbox → https://cutt.ly/JwvPRaqD
+
+
+- fuites Microsoft - gros résumés :
+» 🇺🇸 [Games Industry / 20 septembre 2023] Everything we learned from the Xbox leak. Mid-gen refreshes for Xbox Series X and S, a hybrid cloud gaming platform, the next generated dated, and more → https://cutt.ly/Mwvp2NBD
+» 🇺🇸 [Kotaku / 20 septembre 2023] The massive Xbox leak: 11 big reveals. Get a bucket, Microsoft’s latest Xbox leaks are pretty wild → https://cutt.ly/pwvp3HDK
+» 🇺🇸 [Bloomberg / 19 septembre 2023] Microsoft mistakenly reveals secret game plans in court case → https://cutt.ly/ewcSSwGT
+» 🇫🇷 [Frandroid / 20 septembre 2023] La fuite massive de Xbox met en lumière la vérité sur Phil Spencer → https://cutt.ly/vwc8YOAv
+  » 🇬🇧 [VGC / 19 septembre 2023] Xbox’s Phil Spencer was targeting a Nintendo acquisition in 2020, leaked emails reveal. In a 2020 internal discussion he said it was “THE prime asset” → https://cutt.ly/ZwvPV54t
+» 🇬🇧 [VGC / 19 septembre 2023] Microsoft was reportedly responsible for this week’s giant Xbox leak. Documents revealing confidential plans were published on a federal court website → https://cutt.ly/jwvPnzCh
+» 🇬🇧 [VGC / 21 septembre 2023] Microsoft says major Xbox leak consists of ‘old emails and documents’. “It is hard to see our team’s work shared in this way because so much has changed” → https://cutt.ly/bwvPovuB
+
+- fuites Microsoft - console rafraîchie et nouvelle manette :
+» 🇫🇷 [Frandroid / 19 septembre 2023] Xbox Series X Refresh personnalisable, nouvelle manette : ce document confidentiel dévoile les plans de Microsoft → https://cutt.ly/RwvsiI2P
+» 🇺🇸 [WCCF Tech / 19 septembre 2023] Xbox Series refresh in 2024 & next-gen Xbox in 2027 according to major leak: powered by AMD Zen 6 CPU & RDNA 5 GPU → https://cutt.ly/OwcSLn3n
+» 🇺🇸 [Kotaku / 20 septembre 2023] Xbox Series X/S redesign and new controller coming in 2024, according to leaked plans. Better Wi-Fi and less power consumption are among the upgrades → https://cutt.ly/8wvp7m4J
+
+- fuites Microsoft - répartition Series S / X :
+» 🇺🇸 [IGN / 20 septembre 2023] Leaked Microsoft documents show the Xbox Series S might be more popular than you think → https://cutt.ly/nwvawkEX
+» 🐦 [Twitter] Mat Piscatella - According to Circana's Retail Tracking Service, S accounts for a bit more than half of US Series owners LTD. X has seen improved supply and purchasing since the cited time period → https://cutt.ly/jwvaetkF
+
+- fuites Microsoft - génération 10 :
+» 🇺🇸 [Axios / 18 septembre 2023] Microsoft targeted next Xbox for 2028, court docs show → https://cutt.ly/swcSFZah
+» 🇺🇸 [Games Industry / 18 septembre 2023] Next Xbox planned for 2028. Court documents show as of spring 2022, the plan was for Series X|S to have an eight-year cycle → https://cutt.ly/zwvae6yW
+» 🇺🇸 [IGN / 18 septembre 2023] Microsoft aiming to release next Xbox by 2028. Court filings show the company may continue the Xbox Series X/S approach of offering multiple consoles → https://cutt.ly/9wvarXze
+» 🇺🇸 [The Verge / 18 septembre 2023] Microsoft is planning to stream PC cloud games, internal emails reveal. Microsoft has been working on adding PC games to Xbox Cloud Gaming, initially in response to Google’s threat with Stadia → https://cutt.ly/bwcSD3K1
+
+- fuites Microsoft - nourrir le Game Pass :
+» 🇬🇧 [VGC / 19 septembre 2023] Unannounced Bethesda games leak, including Dishonored 3 and a new Doom. Remasters of Oblivion and Fallout 3 also look to be in the works → https://cutt.ly/cwvP9keO
+» 🇺🇸 [Axios / 19 septembre 2023] Microsoft leak reveals cost estimates of bringing big releases to Game Pass → https://cutt.ly/0wvaiHBI
+» 🇺🇸 [IGN / 19 septembre 2023] Xbox leak estimates cost of bringing blockbusters to Game Pass. Microsoft eyed Star Wars Jedi: Survivor, Assassin's Creed Mirage, and more after Starfield got delayed → https://cutt.ly/swvauiGT
+» 🇺🇸 [Games Industry / 20 septembre 2023] Xbox leak reveals estimated costs of AAA games on Game Pass. Star Wars Jedi: Survivor was valued at $300 million and considered a "crown jewel" → https://cutt.ly/Pwvat4Ja
+
+» 🇺🇸 [The Verge / 18 septembre 2023] This is how Microsoft reacted to Sony’s PS5 announcement and price hike. Microsoft internal emails show Xbox executives reacting to the strengths and weaknesses of the PS5 tech specs and Sony’s price hike announcement → https://cutt.ly/hwcSFsMF
+
+» 🇺🇸 [WCCF Tech / 19 septembre 2023] Microsoft may exit gaming business if Game Pass subscribers off console don’t increase enough by 2027 → https://cutt.ly/awcSJDJx
+
+» 🇺🇸 [Axios / 19 septembre 2023] Unprecedented Microsoft leak reveals plans for new Xbox systems → https://cutt.ly/gwcSAraa
+
+» 🇺🇸 [Mashable / 18 septembre 2023] Microsoft AI team accidentally leaks 38TB of private company data. Whoops → https://cutt.ly/IwcSSRC3
+
+» 🇺🇸 [Kotaku / 20 septembre 2023] The silly story behind the weirdest Xbox exclusive → https://cutt.ly/swcMA4OV
+
+» 🇺🇸 [Games Industry / 10 septembre 2008] Phil Spencer: Ensemble closure is "right thing for our business". Microsoft Game Studios chief's leaked email to staff explains reasoning behind move → https://cutt.ly/GwcMASX5
+
+» 🇺🇸 [IGN / 29 juin 2023] The FTC trial unmasks Xbox’s ambitions. Opinion: An analysis on how secrets are being revealed through the FTC Trial → https://cutt.ly/BwcSPC1X
+
+- Game Pass :
+» 🇺🇸 [Xbox] Prochainement dans le Xbox Game Pass : The Lamplighter’s League, Lies of P, Cocoon, Party Animals, Gotham Knights, Payday 3, et bien plus ! → https://cutt.ly/7wvP4Ds7
+
+
+- Unity :
+» 🇬🇧 [Eurogamer / 20 septembre 2023] Terraria developer donates to open source engines in wake of Unity policy changes. Plus 500 devs sign open letter against new fees → https://cutt.ly/BwvPPuDf
+» 🇺🇸 [Games Industry / 22 septembre 2023] Unity kills Runtime Fee for Personal users, offers rev share for others. Engine maker will only apply per-install charges for devs on Pro or Enterprise licenses who upgrade to new version of Unity next year → https://cutt.ly/3wvO75S7
+» 🇬🇧 [Eurogamer / 22 septembre 2023] Unity announces significant changes to its controversial new pricing plan → https://cutt.ly/7wvON9Lq
+» 🇬🇧 [VGC / 23 septembre 2023] ‘I am sorry’: Unity partially walks back on controversial monetization plans. The software development company confirms new plans for its engine → https://cutt.ly/UwvPek1p
+» 🇫🇷 [Frandroid / 24 septembre 2023] Unity s’excuse devant les développeurs de jeux vidéo, mais c’est un peu tard → https://cutt.ly/rwvPQ2gt
+
+» 🇬🇧 [VGC / 9 août 2022] Mobile tech firm AppLovin has offered to buy Unity for $17.5 billion. The proposed deal would see Unity abandon its previously agreed deal with IronSource → https://cutt.ly/9Z8nvTR
+- 🇺🇸 [The Verge / 9 novembre 2021] Unity to pay $1.6 billion for The Lord of the Rings VFX maker Weta Digital → https://cutt.ly/1wvAogPU
+
+- Hideki Kamiya :
+» 🐦 [Twitter / 25 septembre 2023] Platinum Games - annonce du départ de Hideki Kamiya → https://cutt.ly/YwvOX4Fd
+» 🐦 [Twitter / 25 septembre 2023] Hideki kamiya - confirmation de son départ → https://cutt.ly/RwvOCCJt
+
+- Starfield :
+» 🇺🇸 [Games Industry / 13 septembre 2023] Xbox Series S and X UK sales jumped 76% on Starfield launch. Bethesda's RPG and the new 1TB Series S model delivered the best week of 2023 so far for Xbox console sales → https://cutt.ly/wwxKGTtW
+
+- Glen Schofield :
+» 🇺🇸 [Games Industry / 21 septembre 2023] Glen Schofield leaving Striking Distance Studios. Chief development officer Steve Papoutsis to become CEO → https://cutt.ly/GwvaYofU
+
+- licenciements chez Embracer :
+» 🇺🇸 [Games Industry / 21 septembre 2023] Crystal Dynamics is latest Embracer studio to suffer layoffs. Tomb Raider developer cuts ten positions "to align… with current business needs" → https://cutt.ly/AwvapLCn
+» 🇺🇸 [Games Industry / 19 septembre 2023] Beamdog lays off 26 employees. Developer was acquired by Embracer subsidiary Aspyr Media in 2022 → https://cutt.ly/VwvajCwj
+» 🇺🇸 [Games Industry / 1er septembre 2023] Embracer layoffs also affect Gearbox Publishing. Reports of redundancies at the publisher emerged on LinkedIn but it's unclear how many people are impacted → https://cutt.ly/Hwvake5k
+» 🇺🇸 [Games Industry / 20 septembre 2023] Switch version of Evil Dead: The Game cancelled. Development of new content for the title coming to an end, says Saber Interactive → https://cutt.ly/vwvanhhr
+
+- EA, Criteron :
+» 🇬🇧 [VGC / 20 septembre 2023] Criterion joins EA Entertainment to focus on Battlefield development. The UK studio will also continue to work on the Need for Speed series → https://cutt.ly/QwvAclC7
+
+- Ubisoft :
+» 🇺🇸 [IGN / 15 septembre 2023] Ubisoft Montreal in turmoil amid what developers are calling broken promises. Many employees are fuming over a forced return to office → https://cutt.ly/TwvAv2ik
+» 🇺🇸 [Games Industry / 19 septembre 2023] Ubisoft Montreal mandates partial return to office. Publisher now insisting on two-day-a-week minimum on-site; employees say it's breaking promises for remote work → https://cutt.ly/qwvax7da
+» 🇬🇧 [VGC / 21 septembre 2023] Ubisoft announces The Division 3, with Massive Entertainment set to develop. The studio is already working on Star Wars Outlaws and Avatar → https://cutt.ly/VwvAESCr
+
+
+:::::
+- licenciements ailleurs :
+» 🇺🇸 [Games Industry / 15 septembre 2023] Ascendant Studios lays off "about 45%" of its workforce. Layoffs reportedly due to poor sales of Immortals of Aveum, former employee says → https://cutt.ly/swvafVgA
+» 🇺🇸 [Games Industry / 14 septembre 2023] Hungry Shark developer Ubisoft London faces closure. 54 positions under threat as Hungry Sharp IP moved to Ubisoft Barcelona → https://cutt.ly/fwvafgY6
+» 🇺🇸 [Game Developer / 12 septembre 2023] Lego 2K Drive developer Visual Concepts hit with layoffs. The 2K subsidiary behind its WWE and NBA franchises has cut an undetermined amount of jobs at its Austin, TX office → https://cutt.ly/7wvazcN6
+
+- jeux :
+
+» 🇬🇧 [Eurogamer / 24 septembre 2023] Star Wars: Jedi 3 is on the way, according to Cal Kestis actor Cameron Monaghan → https://cutt.ly/kwvOPLuU
+» 🇬🇧 [VGC / 24 septembre 2023] Cal Kestis actor confirms Star Wars Jedi 3 during Comic Con panel. Stig Asmussen, the director of both Star Wars Jedi games, recently left Respawn → https://cutt.ly/IwvPws7F
+
+» 🇬🇧 [Eurogamer / 23 septembre 2023] Team Cherry has quietly updated Steam assets for Hollow Knight: Silksong → https://cutt.ly/RwvOBsOg
+
+» 🇬🇧 [VGC / 22 septembre 2023] A new Lord of the Rings game, Tales of the Shire, is coming to consoles and PC → https://cutt.ly/GwvPraDF
+
+» 🇬🇧 [Eurogamer / 22 septembre 2023] No Steam Deck performance upgrade "in the next couple of years" says Valve. Current model a "pretty sweet spot" → https://cutt.ly/SwvOMvzN
+
+» 🇬🇧 [Eurogamer / 20 septembre 2023] The Chinese Room says it's building Bloodlines 2 around 'doing things only a vampire can' → https://cutt.ly/ywvO97XP
+
+» 🇺🇸 [Forbes / 24 septembre 2023] ‘Starfield’ may release more ‘live’ content outside its expansion → https://cutt.ly/8wvAsU09
+
+» 🇺🇸 [The Verge / 22 septembre 2023] Valve: don’t expect a faster Steam Deck ‘in the next couple of years’. Valve’s Pierre-Loup Griffais hints it might be 2025, even 2026 before a Deck 2 → https://cutt.ly/QwvO4RKl
+
+» 🇺🇸 [Games Industry / 22 septembre 2023] Opinion: Microsoft's hardware strategy looks more and more traditional. Xbox Series X|S once presented a radically different vision; a console platform that would evolve and improve, ending the hardware generation cycle for good. What happened? → https://cutt.ly/CwvO6dbz
+
+
+raids : Gautoz => (13:01)[+823] SilenceOnJoue => (15:15)[+388] At0mium => (20:24) JonnyKuik (>20:50) => ika_tako_friedrice => (<22:47) ChewieMelodies (mardi) => (01:09)[+112] fwoshy
 
 
 » 🇺🇸 
