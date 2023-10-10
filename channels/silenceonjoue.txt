@@ -1218,7 +1218,7 @@ raids : Gautoz => (13:01)[+823] SilenceOnJoue => (15:15)[+388] At0mium => (20:24
 
 
 --------------------------------------
-2023-07-29
+2023-09-29
 
 🎧 Silence on joue ! S17E06 - «Mortal Kombat 1», «Venba», «En Garde» et «Rain Code» → https://cutt.ly/2wblLdUi
 
@@ -1227,7 +1227,22 @@ Cyberpunk 2077: Phantom Liberty, DLC sorti le 25 septembre 2023 sur PlayStation 
 🎮 30 € sur PlayStation (https://cutt.ly/YwblV6xk) et Xbox (https://cutt.ly/gwblBp2x)
 ⌨️ 🖱️ 30 € sur Steam (https://s.team/a/2138330) et GOG (https://cutt.ly/ZwblVPqL)
 
-raids : SilenceOnJoue => (12:14)[+40] CabriDIY => (13:47)[+141] Kalyoz => (14:25)[+121] Coffee => (17:28) Pressea (>18:30) => (<23:04) Bestmarmotte (samedi) (>03:00) => BenZaie => TheSushiDragon => (<13:39) lita426t [cheervinsky=>(18:58)+3] (dimanche) (>03:00)
+raids : SilenceOnJoue => (12:14)[+40] CabriDIY => (13:47)[+141] Kalyoz => (14:25)[+121] Coffee => (17:28) Pressea (>18:30) => (<23:04) Bestmarmotte (samedi) (>03:00) => BenZaie => TheSushiDragon => (<13:39) lita426t [cheervinsky=>(18:58)+3] (dimanche) (lundi) => (09:11)[+211] MarineMammalRescue (mardi)
+
+
+--------------------------------------
+2023-10-06
+
+🎧 Silence on joue ! S17E07 - «Assassin’s Creed Mirage», «Cyberpunk 2077 : Phantom Liberty», «EA Sports FC 24» → https://cutt.ly/MwnFGSrk
+» 📰 [Libération / 4 oct. 2023] Affaire Ubisoft : cinq gardes à vue dans le cadre d’une enquête pour harcèlements moral et sexuel → https://cutt.ly/OwnFZQPx
+
+Assassin’s Creed Mirage, sorti le 5 octobre 2023 sur PlayStation, Xbox et PC
+développé par Ubisoft Bordeaux, assisté par les autres studios Ubisoft
+🎮 à partir de 40 € en grande distribution
+🎮 50 € ou + sur PlayStation (https://cutt.ly/RwnFCdi0) et Xbox (https://cutt.ly/AwnFCb8c)
+⌨️ 🖱️ 50 € ou + sur EGS (https://cutt.ly/swnFXfIN)
+
+raids : SilenceOnJoue => (12:08)[+62] MarcusZeBoulet (terminé à 12:32)
 
 
 
