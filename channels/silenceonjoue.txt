@@ -1328,8 +1328,8 @@ Gâchette Gauche s02.e02 -- le rachat d’Activision par Microsoft /
 
 » 🇫🇷️ [Frannce TV Info / 16 sept. 2023] Jeux vidéo : Emmanuel Macron revient sur ses propos polémiques ayant suivi la mort de Nahel et adresse son mea culpa aux "gamers" → https://cutt.ly/1wEBHyJM
 
-» Paris Games Week, du 1er au 5 nov; 2023 → https://ParisGamesWeek.com
-» le programme de Paris Game sWeek 2023 → https://cutt.ly/twEBZAZT
+» Paris Games Week, du 1er au 5 nov. 2023 → https://ParisGamesWeek.com
+» le programme de Paris Games Week 2023 → https://cutt.ly/twEBZAZT
 » MO5, l'association de préservation du jeu vidéo → https://mo5.com/
 
 » Chants of Sennaar, sorti le 5 septembre 2023 sur Switch, PlayStation, Xbox et PC / Steam Deck ; développé par Rundisc, studio indé basé à Toulouse → https://www.rundisc.io/chants-of-sennaar/
@@ -1340,33 +1340,39 @@ Gâchette Gauche s02.e02 -- le rachat d’Activision par Microsoft /
 raids : Gautoz => (12:58)[+946] SilenceOnJoue => (15:06)[+484] Modiiie => (19:30)[+443] Souris_De_Coton => (20:31) Vazek_Tomi (terminé à 23:22)
 
 
+--------------------------------------
+2023-11-03 (annulé)
+
+🎧 Silence on joue ! S17E11 - «Super Mario Bros Wonder», «Slay the Princess», «El Paso Elsewhere», «Metal Gear Solid» → https://cutt.ly/lwRI9jj8
+
+
 --------------------------------------------------------------------------------
 
 intervenants Gâchette Gauche :
-» 📰 Canard PC → https://CanardPC.com | https://twitter.com/CanardPCredac
-» 🐦 Julie le Baron sur Twitter → https://twitter.com/icth
+» 📰 Canard PC → https://CanardPC.com | 🐦 https://twitter.com/CanardPCredac | 🟦 https://bsky.app/profile/canardpc.com
+» Julie le Baron → 🐦 https://twitter.com/icth
 
-» 📰 Jeux Vidéo Magazine → https://JeuxVideoMagazine.com | https://twitter.com/Jeux_Video_Mag
-» 🐦 Raphaël Lucas sur Twitter → https://twitter.com/Raphael_Lucas_
+» 📰 Jeux Vidéo Magazine → https://JeuxVideoMagazine.com | 🐦 https://twitter.com/Jeux_Video_Mag
+» Raphaël Lucas → 🐦 https://twitter.com/Raphael_Lucas_ | 🟦 https://bsky.app/profile/raphaellucas.bsky.social
 
-» 📰 JV le Mag → https://JVleMag.com | https://twitter.com/jvlemag
-» 🐦 Kevin Bitterlin sur Twitter → https://twitter.com/KBitterlin
+» 📰 JV le Mag → https://JVleMag.com | 🐦 https://twitter.com/jvlemag
+» Kevin Bitterlin → 🐦 https://twitter.com/KBitterlin | 🟦 https://bsky.app/profile/kbitterlin.bsky.social
 
-» 📰 Le Figaro → https://leFigaro.fr
-» 🐦 Chloé Woitier sur Twitter → https://twitter.com/W_Chloe
+» 📰 Le Figaro → https://leFigaro.fr| 🟦 https://bsky.app/profile/lefigaro.bsky.social
+» Chloé Woitier → 🐦 https://twitter.com/W_Chloe | 🟦 https://bsky.app/profile/chloew.bsky.social
 
-» 📰 Le Monde, rubrique Pixels → https://leMonde.fr/pixels/
-» 🐦 Pierre Trouvé sur Twitter → https://twitter.com/Pierre3D
+» 📰 Le Monde, rubrique Pixels → https://leMonde.fr/pixels/ | 🟦 https://bsky.app/profile/pixelsfr.bsky.social
+» Pierre Trouvé → 🐦 https://twitter.com/Pierre3D | 🟦 https://bsky.app/profile/pierre3d.bsky.social
 
 » 📻️ France Inter - La faute aux jeux vidéo → https://cutt.ly/ZwvSkUpH
-» 🐦 Olvier Bénis sur Twitter → https://twitter.com/OlivierBenis
+» Olvier Bénis → 🐦 https://twitter.com/OlivierBenis | 🟦 https://bsky.app/profile/olivierbenis.bsky.social
 
-» 📺️ Arte → https://arte.tv | https://twitch.tv/artefr
-» 🐦 Quineapple 🍍 sur Twitter → https://twitter.com/Quineapple
+» 📺️ Arte → https://arte.tv | https://twitch.tv/artefr | 🟦 https://bsky.app/profile/artefr.bsky.social
+» Quineapple 🍍 → 🐦 https://twitter.com/Quineapple | 🟦 https://bsky.app/profile/quineapple.bsky.social
 
-» 🌴 Origami → https://linktr.ee/origamilive_ | 📺 https://youtube.com/@origatube | 📡 https://twitch.tv/origatwitch | 💰 https://patreon.com/OrigamiMedia
-» 🐦 Gauthier Andres / Gautoz sur Twitter → https://twitter.com/gautoz
-» 🐦 Florient Velter sur Twitter → https://twitter.com/LePereFidalbion
+» Origami → 🌴 https://linktr.ee/origamilive_ | 📺 https://youtube.com/@origatube | 📡 https://twitch.tv/origatwitch | 💰 https://patreon.com/OrigamiMedia
+» Gauthier Andres / Gautoz → 🐦 https://twitter.com/gautoz | 🟦 https://bsky.app/profile/gautoz.cool
+» Florient Velter / Padre → 🐦 https://twitter.com/LePereFidalbion
 
 
 🗞️ Abonnez-vous à Libération pour 5€/mois et soutenez votre podcast Silence on Joue → https://offre.liberation.fr/soj
