@@ -532,6 +532,127 @@ développé par Gutter Arcade (Knight Club +), studio américain d'une dizaine d
 💻 5 € sur Steam (https://s.team/a/2536650)
 
 
+--------------------------------------
+2023-11-24 -- OriGaming, Hebdo #06
+
+Jurassic Park Classic Games Collection, sorti le 22 nov. 2023 sur Switch, PlayStation, Xbox et PC / Steam Deck
+développé par Limited Run Games, distributeur et maintenant studio américain 🇺🇸 d'environ 70 personnes basé en Caroline du Nord → https://LimitedRunGames.com
+🎮 30 € sur Switch (https://cutt.ly/zwIQHBE7), PS4 (https://cutt.ly/lwIQJr7j), PS5 (https://cutt.ly/RwIQJgz8) et Xbox (https://cutt.ly/BwIQJP97)
+💻 29 € sur Steam (https://s.team/a/2673080)
+
+Jurassic Park, sorti en 1993 sur NES et Game Boy, publié par Ocean Software, développé par Ocean of America
+Jurassic Park, sorti en 1993 sur Mega Drive, publié par Sega, développé par BlueSky Software
+Jurassic Park: Rampage Edition, sorti en 1994 sur Mega Drive, publié par Sega, développé par BlueSky Software
+Jurassic Park 2: The Chaos Continues, sorti en 1994 sur Super Nintendo, publié et développé par Ocean Software
+Jurassic Park 2: The Chaos Continues, sorti en 1995 sur Game Boy, publié et développé par Ocean Software
+
+excuses de sac :
+- oh non, j'étais en train de boire mon café ! (Gautoz, Jurassic Park (Game Boy))
+- c'est difficile de se tourner (Gautoz, Jurassic Park (Mega Drive))
+
+
+
+Hebdo #06
+
+## Invités
+» At0mium → 🐦 https://twitter.com/At0mium_ | 📡 https://twitch.tv/at0mium | 📺 https://youtube.com/@At0mium_VOD
+
+» Kevin Bitterlin → 🐦 https://twitter.com/KBitterlin | 🟦 https://bsky.app/profile/kbitterlin.bsky.social
+» 📰 JV le Mag → https://JVleMag.com | 🐦 https://twitter.com/jvlemag
+» 📰 JV le Mag n°104 → https://cutt.ly/OwIRr7tC
+
+» Médoc / Medhi Camprasse → 🐦 https://twitter.com/Elmedoc | 🟦 https://bsky.app/profile/medoc.bsky.social | 📡 https://twitch.tv/ALaiseBlaze | 🎙️ Le Cosy Corner → https://soundcloud.com/lecosycorner
+
+
+## Actu
+» [Twitter / PlayStation] La PlayStation 5 Slim est disponible → https://twitter.com/PlayStationFR/status/1728007375079010523
+» 🇬🇧 [VGC] The Last of Us Part 2 Remastered’s ‘Lost Levels’ have been revealed. New details about the game’s roguelike survival mode have also been confirmed → https://cutt.ly/PwIRoLPR
+
+» 🇺🇸 [Games Industry / 22 nov. 2023] Sony fails to block lawsuit over PlayStation Store prices. Case could cost the firm up to £6.3 million in damages → https://cutt.ly/iwIRsPRd
+
+» 🇺🇸 [Games Industry / 22 nov. 2023] Steam's USD currency change for Argentina and Turkey results in game price hikes. Argentinian users still have to pay high sales taxes for purchases alongside these newer sales prices → https://cutt.ly/5wIRdQmA
+» 🇬🇧 [PC Gamer / 22 nov. 2023] 'Today is the end of Steam': Argentina and Turkey floored by new Steam price hikes as high as 2900%. Steam's new pricing policy for Latin America and the MENA region came in yesterday → https://cutt.ly/ywIRd8b2
+
+» 🇺🇸 [Games Industry / 21 nov. 2023] GameMaker offers more free options for non-commercial use. Platform also rolls out a one-time fee for commercial license use instead of a recurring subscription → https://cutt.ly/jwIRfRAp
+» 🇬🇧 [VGC / 21 nov. 2023] Game engine GameMaker is now free for non-commercial use. Indie developers can pay a one-time fee of $99 to sell their game, instead of a subscription → https://cutt.ly/uwIRgeRP
+
+» 🇺🇸 [IGN / 20 nov. 2023] How Black Myth: Wukong developer’s history of sexism is complicating its Journey to the West. Indie developer Game Science’s global fame is forcing it to confront its own sexism, and that of the Chinese tech industry (Rebekah Valentine & Khee Hoon Chan) → https://cutt.ly/PwIWCVKm
+
+» 17 ans plus tard, Star Wars: Empire At War devient compatible 64 bits → https://www.warlegend.net/star-wars-empire-at-war-64-bit/
+
+-----
+
+» 🇺🇸 [Games Industry / 20 nov. 2023] Niantic pushing for arbitration ahead of sexual bias lawsuit hearing. Superior Court judge blocks Nianitc's motion, enabling the class action to proceed → https://cutt.ly/pwIEQ6hu
+
+» 🇺🇸 [Games Industry / 21 nov. 2023] Ubisoft pulls advertising from X. Publisher joins the likes of Apple, IBM, and Disney in removing ads from the social media platform → https://cutt.ly/xwIEnrfA
+
+» 🇺🇸 [Games Industry / 21 nov. 2023] Epic vs Google - Tim Sweeney: We were willing to sue Sony for cross-play. Elsewhere, more details emerge over Google's plans to buy the Fortnite firm → https://cutt.ly/UwIEnX3R
+
+» 🇺🇸 [Games Industry / 21 nov. 2023] European Monthly Charts - Assassin's Creed, Spider-Man, Mario and PS5 deliver strong sales in October. EA Sports FC 24 tops the charts for a second month → https://cutt.ly/qwIEmEBt
+» 🇺🇸 [Games Industry / 21 nov. 2023] China's game market to grow 5.2% this year. Niko Partners projects Chinese game revenue to hit $47.7 billion, more than offsetting last year's 2.5% dip → https://cutt.ly/xwIEm499
+» 🇬🇧 [VGC / 21 nov. 2023] Hogwarts Legacy returns to the top of the UK physical charts following Switch release. The game pushes Modern Warfare 3 off the top spot → https://cutt.ly/WwIEI6yY
+» 🇺🇸 [Games Industry / 22 nov. 2023] Report: 83% of mobile games fail in the three years after launch. SuperScale's research also finds 43% of games are dropped during development → https://cutt.ly/0wIEWC81
+
+» 🇺🇸 [Games Industry / 23 nov. 2023] Embracer: Human cost of restructure is "significant" but "necessary". Phil Rogers discusses the group's goals and progress following the dismissal of more than 900 staff → https://cutt.ly/UwIEERPU
+» 🇬🇧 [VGC / 20 nov. 2023] Immortals of Aveum studio layoffs were down to poor sales in a crowded market, CEO says. Bret Robbins says he hopes a 50% sale and a major update will attract new players → https://cutt.ly/6wIERC6J
+
+» 🇬🇧 [VGC / 20 nov. 2023] Returnal’s director is leaving Housemarque. Harry Krueger will leave the Finnish studio after nearly 15 years → https://cutt.ly/4wIERv2s
+» 🇬🇧 [VGC / 20 nov. 2023] A Suicide Squad: Kill the Justice League closed alpha test has been announced. Players can register for a chance to play the game later this month → https://cutt.ly/YwIEUG2t
+
+» [Valve] Half-Life: 25th Anniversary → https://half-life.com/halflife25/
+» [Steam] Half-Life : mise à jour du 25ᵉ anniversaire → https://cutt.ly/EwIEPIyd
+» 📺 [YouTube / Valve / 17 nov. 2023] Half-Life: 25th Anniversary Documentary → https://youtu.be/TbZ3HzvFEto
+
+» 🇫🇷️ [Frandroid / 22 nov. 2023] Google voulait racheter Fortnite (Epic Games) : le battle royale aurait-il pu sauver Stadia ? → https://cutt.ly/qwIEZc4N
+
+» 🇺🇸 [Rock Paper Shotgun / 20 nov. 2023] "The Next Subnautica" aims to deliver underwater survival spooks in early 2025. Publisher Krafton teases another nightmarish dip in the ocean → https://cutt.ly/9wIE36ry
+
+
+## Sorties
+» Irem Collection Volume 1, sorti le 21 nov. 2023, 25 € sur Switch, PlayStation et Xbox → https://www.iningames.com/games/irem-collection-1/
+» Jurassic Park Classic Games Collection, sorti le 22 nov. 2023, 30 € sur Switch, PlayStation, Xbox et PC / Steam Deck → https://LimitedRunGames.com | https://s.team/a/2673080
+» [ninjasei???)
+» Valfaris: Mecha Therion, sorti le 21 nov. 2023, 25 € sur Switch, PlayStation, Xbox et PC / Steam Deck → https://bigsugar.games/game/valfaris-mecha-therion/ | https://s.team/a/1647920
+» Worldless, sorti le 20 nov. 2023 sur Switch, PlayStation, Xbox et PC / Steam Deck → https://playWorldless.com | https://www.noname-studios.es | https://s.team/a/1898500
+
+» [YouTube / At0mium / 14 nov. 2023] Final Fantrasy XI en 2023 → https://youtu.be/Fc5LCRqic9w
+» Astral Ascent, sorti le 14 nov. 2023, 25 € sur Switch, PlayStation, PC, Mac, Linux et Steam Deck → https://hibernian-workshop.com | https://s.team/a/1280930
+» Knuckle Sandwich, sorti le 22 nov. 2023, 20 € sur PC / Steam Deck, démo disponible → https://knucklesandwich.biz | https://s.team/a/1012570
+
+
+## Le J-RPG
+» [YouTube / Tetryl / 28 juil. 2023] C'est quoi le JRPG ? - Histoire et définition d'un genre qui a changé le jeu vidéo → https://youtu.be/6UE2KtlDgXo
+» 🇺🇸 [Kotaku / 28 fév. 2023] Final Fantasy XVI producer doesn't seem to love the term 'JRPG'. Final Fantasy XVI producer Naoki Yoshida said he considered the genre term ‘discriminatory’ when it first gained traction → https://cutt.ly/5wIRA87b
+» 🇺🇸 [Polygon / 20 juin 2023] The ‘JRPG’ label has always been othering. The term’s historical baggage lives on today → https://cutt.ly/SwIRKx2M
+» [YouTube / At0mium / 28 févr. 2023] Final Fantasy XVI, c'est bien ? → https://youtu.be/pzxWCLn0fTs
+
+» 🇺🇸 [CNET / 5 mai 2018] God of War's unexpected influence? Indiana Jones. The director of God of War says he steals all his inspirational lessons from filmmakers. Also, his voice of doubt has an English accent for some reason → https://cutt.ly/owIR2rHS
+
+
+## Mais pas que
+Hoopy
+» [Netflix] Scott Pilgrim prend son envol (2023), 1 saison de 8 épisodes → https://netflix.com/title/81153115
+
+At0mium
+» The Five Star Stories (1986), par Mamoru Nagano, 17 tomes en cours en Japon, 3 tomes parus en France chez Noeve
+
+Moguri
+» Super Vieux Jeux, l'émission rétro de Sylvain Tastet, Patrick Hellio et Raphaël Lucas
+
+
+
+excuses de sac :
+- j'ai cramé tous mes MP (Moguri, intro)
+- je suis fatigué, j'ai pas mangé 😂 (At0mium, intro)
+
+
+raids entrants :
+- At0mium à 13:19 +19
+
+raids : OrigaTwitch => (15:17)[+561] LamHua => (17:33)[+928] OliveNoctua => (19:55) Lukrya => (23:42) GuGeo (samedi) => (00:08[+10] SettUneBlague (00:30)
+
+
+
 
 » 🇺🇸 
 » 🇫🇷 
