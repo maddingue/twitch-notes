@@ -1391,12 +1391,55 @@ Goldorak – Le Festin des Loups, sorti le 14 nov. 2023 sur Switch, PlayStation 
 raids : SilenceOnJoue => (12:08)[+58] OrigaTwitch (terminé à 12:12)
 
 
+--------------------------------------
+2023-11-27
+
+Gâchette Gauche s02.e03 -- 2023, la pire des meilleures années du jeu vidéo / what the GOTY
+
+## sujet : 2023, la pire des meilleures années du jeu vidéo
+
+Beaucoup de jeux de qualité, mais situation catastrophique au niveau social et compliquée pour le jeu indépendant (+ Unity + Activision Blizzard), que penser de ces derniers mois au moment des traditionnels bilans de l'année ? Est-ce qu'on peut encore parler des jeux comme des œuvres décorrélées de leurs conditions de production ? 
+
+» Game Industry Layoffs → http://videogamelayoffs.com
+» 🇺🇸 [Games Industry / 27 nov. 2023] ByteDance reportedly pulling out of games following Nuverse restructure. Sources say that games in development at TikTok parent will be halted by December → https://cutt.ly/8wI7tpwX
+» 🇺🇸 [Polygon / 21 nov. 2023] Video game company layoffs are creating an industry crisis. ‘People were just an expense. They don’t necessarily care about the human impact’ → https://cutt.ly/wwI7rHi2
+
+» 🇺🇸 [Game Developer / 16 nov. 2023] Embracer confirms 900 layoffs following net sales upswing. The company indicated it will continue making layoffs despite quarterly net sales rising by 13 percent to $170.5 million → https://cutt.ly/HwUpXaXg
+» 🇺🇸 [Games Industry / 16 nov. 2023] Sega of America accused of threatening workers with mass layoffs over unionisation. Union alleges publisher planned to "phase out" temporary workers in response to bargaining talks → https://cutt.ly/wwUpNznL
+
+» 🇫🇷 [Frandroid / 13 juillet 2023] Où en est le rachat d’Activision-Blizzard par Microsoft ? Va-t-il échouer ? Tout comprendre au feuilleton → https://cutt.ly/w2LkCt5
+
+» 🇺🇸 [The Verge / 7 nov. 2023] Former Kotaku writers are launching a new video game site — and they own it this time. They’ve started Aftermath, a new website about video games and culture → https://cutt.ly/QwYixfQS
+» Aftermath → https://aftermath.site
+» Second Wind → 🐦️ https://twitter.com/SecondWindGroup | 💰️ https://patreon.com/SecondWindGroup
+» Remap → https://remapradio.com
+
+
+## couvertures
+» 📰 JV le Mag n°104, 10 ans, 100 jeux, 7,50 € en kiosques → https://cutt.ly/owI7TVgB
+» 📰 Canard PC n°449, 7,90 € en kiosques
+» 📰 [Canard PC] Quand les développeurs indépendants s’inspirent de la France | Nos régions ont du talent → https://cutt.ly/JwI7APKv
+» 📰 [Canard PC] La presse indépendante de jeu vidéo cherche à renaître → https://cutt.ly/vwI7SynJ
+» 📰 Jeux Vidéo Magazine n°275, 6 € en kiosques
+
+
+## sujet : What the GOTY ?
+
+Le concept de Goty, Game of the year, n’a rien de nouveau, mais il est aujourd’hui utilisé dès le mois de janvier (ou février si on parle de 2022), on va essayer d’échanger sur les critères qui peuvent faire d’un jeu un candidat à ce titre.
+
+
+raids entrants :
+- Alexleserveur à 14:15 +2
+- Gautoz à 14:17 +679
+
+raids : SilenceOnJoue => (15:05)[+406] Turbojoul => (15:31)[+99] Nimelya (terminé à 18:05)
+
 
 --------------------------------------------------------------------------------
 
 intervenants Gâchette Gauche :
 » 📰 Canard PC → https://CanardPC.com | 🐦 https://twitter.com/CanardPCredac | 🟦 https://bsky.app/profile/canardpc.com
-» Julie le Baron → 🐦 https://twitter.com/icth
+» Julie le Baron → 🐦 https://twitter.com/icth | 🟦 https://bsky.app/profile/julielebaron.bsky.social
 
 » 📰 Jeux Vidéo Magazine → https://JeuxVideoMagazine.com | 🐦 https://twitter.com/Jeux_Video_Mag
 » Raphaël Lucas → 🐦 https://twitter.com/Raphael_Lucas_ | 🟦 https://bsky.app/profile/raphaellucas.bsky.social
