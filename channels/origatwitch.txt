@@ -676,7 +676,7 @@ environ 3 h 30 : 23% (19)
 
 
 --------------------------------------
-2023-12-01 -- Hebdo #06
+2023-12-01 -- Hebdo #07
 
 Hebdo #06
 
@@ -846,6 +846,106 @@ raids entrants :
 raids : OrigaTwitch => (15:05)[+434] CarolineSegarra (terminé à 15:43)
 
 
+--------------------------------------
+2023-12-08 -- Hebdo #08
+
+» Izual → 𝕏 https://twitter.com/Izual | 🟦 https://bsky.app/profile/izual.bsky.social
+» journaliste chez Canard PC (https://CanardPC.com), animateur de Quétamine (https://twitch.tv/quetaminetv)
+
+
+## Actus
+» 📺 [YouTube] Grand Theft Auto VI trailer 1 → https://youtu.be/QdBZY2fkU-0
+» Alone in the Dark → https://AloneInTheDark.THQNordic.com
+» Open Roads, annoncé pour fév. 2024 sur Switch, PlayStation, Xbox et PC / Steam Deck → https://s.team/a/1497360
+» Outcast: A New Beginning, annoncé pour le 15 mars 2024 sur PlayStation 5, Xbox Series et PC
+» Kingdom Come: Deliverance Royal Edition, annoncé sur Switch début 2024, porté par Warhorse Studios
+» Have a Nice Death, maintenant disponible sur PlayStation et Xbox
+» Wo Long: Fallen Dynasty DLC ‘Upheaval in Jingxiang’ le 12 déc. 2023
+» Tchia arrive sur Steam en mars 2024
+
+» Llamasoft: The Jeff Minter Story, annoncé pour 2024 → https://www.digitaleclipse.com/games/llamasoft
+» 🐦 [Twitter / Fellow Traveller] Rejoice! Citizen Sleeper fans in China, Japan and France will soon be able to enjoy the game in their native language → https://cutt.ly/bwAtxUnC
+» Nirvana Noir, annoncé pour 2024 → https://s.team/a/1287610
+
+» Halo saison 2
+» Fallout
+
+» 🇺🇸 [IGN / 6 déc. 2023] Bungie devs say atmosphere is ‘soul-crushing’ amid layoffs, cuts, and fear of total Sony takeover. The Destiny 2 and Marathon developer may not be able to cling to the last of its independence forever → https://cutt.ly/EwAtePFZ
+
+» 🇺🇸 [Games Industry / 5 déc. 2023] EA lays off Codemasters staff. Unknown number of workers made redundant due to "small-scale organisational changes" → https://cutt.ly/BwAtw06t
+» (Embracer)
+» 🇺🇸 [Games Industry / 5 déc. 2023] League of Geeks: "We'll fight till the last breath".We talk to studio director Trent Kusters as developer cuts off 50% of its workforce after investment falls through, with Jumplight Odyssey's development put on hold indefinitely → https://cutt.ly/dwAteiHP
+» 🇬🇧 [BBC / 29 nov. 2023] Rishi Sunak pressured to back immigration minister's migration plans → https://cutt.ly/IwAtSGux
+» 🇺🇸 [Reuters / 5 déc. 2023] Britain announces stricter visa measures to reduce net migration → https://cutt.ly/vwAtGyj1
+
+### Games Awards
+» 🇬🇧 [VGC / 8 déc. 2023] The Game Awards 2023: All the major announcements rounded up, including new game reveals, fresh trailers and award winners → https://cutt.ly/YwAtrFry
+» 🇬🇧 [Eurogamer / 8 déc. 2023] Everything announced at The Game Awards 2023: Blade! Monster Hunter Wilds! OD! → https://cutt.ly/twAtyhmb
+
+» The Rise of the Golden Idol → https://s.team/a/2716400 | https://thegoldenidol.com
+» Big Walk, annoncé pour 2025 sur PC, par House House (Untitled Goose Game) → https://s.team/a/1478500 | https://bigwalk.game
+» Marvel’s Blade, développé par Arkane Lyon → https://bethesda.net/en/article/4YzbGq9Tz5TRQIiHP03mrm/marvels-blade-announced
+» Light No Fire, annoncé sur PC → https://s.team/a/2719590 | https://lightnofire.com
+» Lost Records: Bloom & Rage, annoncé fin 2024 sur PlayStation 5, Xbox Series et PC → https://s.team/a/1902960 | https://dont-nod.com/en/games/lost-records-bloom-and-rage/
+» Jurassic Park: Survival, annoncé sur PlayStation 5, Xbox Series et PC → https://JurassicParkSurvival.com
+» No Rest for the Wicked, sur PlayStation 5, Xbox Series et PC, par Moon Studios → https://norestforthewicked.com | https://s.team/a/1371980
+» Monster Hunter Wilds, en 2025 sur PS5, Xbox Series X|S et PC, Capcom
+» World of Goo 2, en 2024 → https://worldofgoo2.com
+» Pony Island 2: Panda Circus, sur PC → https://pony-island.com | https://s.team/a/2017940
+» Windblown, annoncé pour 2024 sur PC → https://s.team/a/1911610 | https://windblown.game
+
+
+:::::
+» 🐦 [Twitter / Josh Sawyer (Obsidian)] This year’s The Game Awards is an embarrassing indictment of a segment of the industry desperate for validation via star power with little respect for the devs it’s supposedly honoring. → https://cutt.ly/ZwArozYJ
+» 🐦 [Twitter / Ethan Gach (Kotaku)] Geoff Keighley's opening remarks at The Game Awards 2023. No mention of widespread mass industry layoffs as some had hoped, or of broader political issues like the humanitarian crisis in Gaza as members of TGA's Future Class had demanded. https://cutt.ly/TwAro4ON
+» 🐦 [Twitter / Stephen Totilo (Axios)] For those curious, Game Awards winners are given 30 seconds for their acceptance speech before a “Please wrap it up” sign starts flashing → https://cutt.ly/rwArpmZB
+» 🐦 [Twitter / Javiera Cordero (Meta Quest)] If I won game of the year and was dedicating the award to a member of my team who had died during development and saw the words “Please wrap it up” I’d be fucking pissed → https://cutt.ly/7wAr5IN3
+
+
+## invité
+### Fallout
+» Fallout - Les mutations d'une saga, par Théo Dezalay / izual, publié en décembre 2016 chez Presse Non Stop
+» 🇺🇸 [Deadline / 23 oct. 2023] ‘Fallout’ TV series from ‘Westworld’ creators based on games gets Prime Video premiere date → https://cutt.ly/pwAt7QTQ
+» 🇺🇸 [Deadline / 28 nov. 2023] ‘Fallout’: Prime Video drops first-look images of post-apocalyptic series based on popular game → https://cutt.ly/bwAt77Zp
+
+### Canard PC
+» 📰 Canard PC → https://CanardPC.com | 🐦 https://twitter.com/CanardPCredac | 🟦 https://bsky.app/profile/canardpc.com | 📡 https://twitch.tv/canardpc
+» 📰 Canard PC n°449, 7,90 € en kiosques → https://cutt.ly/4wAy2tRq
+» L'affiche collector des 20 ans de Canard PC → https://boutique.canardpc.com/common/product-article/386
+
+
+## jeux de la semaine
+» Warhammer 40,000: Rogue Trader, sorti le 7 déc. 2023, à 50 € sur PlayStation 5, Xbox Series et PC / Steam Deck ; développé par Owlcat Games (Pathfinder) → https://roguetrader.owlcat.games
+50 € sur Steam (https://s.team/a/2186680)
+
+» Avatar: Frontiers of Pandora, sorti le 7 déc. 2023, à 80 € / 110 € / 130 € sur PlayStation 5, Xbox Series et PC ; développé par Massive Entertainment → https://www.ubisoft.com/fr-fr/game/avatar/frontiers-of-pandora
+
+
+## mais pas que
+Izual
+» Master and Commander: The Far Side of the World (2003), film cinéma écrit et réalisé par Peter Weir, musiques par Iva Davies, Christopher Gordon et Richard Tognetti
+» adapté des livres de la série Aubrey–Maturin par Patrick O'Brian (1914-2000)
+
+Padre
+» La Dette publique: Précis d'économie citoyenne (224 p), par Eric Berr, Léo Charles, Arthur Jatteau, Jonathan Marie et Alban Pellegris, paru le 14 janvier 2021 au Seuil, ISBN 2021470881, EAN 978-2-02147-088-8, 19 € → https://www.seuil.com/ouvrage/la-dette-publique-les-economistes-atterres/9782021470888
+
+Hoopy
+» Le chevalier aux épines, tome 1 Le Tournoi des preux (528 p), par Jean-Philippe Jaworski, ISBN/EAN 978-2-36183-832-4, paru le 18 janvier 2023 chez les Moutons électriques, 28 € → https://www.moutons-electriques.fr/chevalier-epines-1
+
+Gautoz/LaLinosse
+» Internet Exploreuses
+
+
+excuses de sac :
+- je ne suis pas encore habitué à ces jingles, c'est ma deuxième (Gautoz)
+
+raids entrants :
+- GrillePainVert à 14:04 +4
+
+raids : OrigaTwitch => (16:01)[+636] LamHua => (17:52)[+816] mariecpalot => (18:06)[+613] Jirayalecochon (terminé à 21:15)
+
+
+
 » 🇺🇸 
 » 🇫🇷 
 » 🇯🇵 
@@ -878,14 +978,15 @@ raids : OrigaTwitch => (15:05)[+434] CarolineSegarra (terminé à 15:43)
 📺 Origami sur YouTube → https://youtube.com/@origatube
 ♪ Origami sur TikTok → https://tiktok.com/@origatik
 💰 Origami sur Patreon → https://patreon.com/OrigamiMedia
+🛍️ code ORIGAMI sur TopAchat → https://secure.topachat.com/AffiliationCreator
 
-» Gautoz / Gauthier Andres → 🐦 https://twitter.com/gautoz | 🟦 https://bsky.app/profile/gautoz.cool
-» Padre / Florian Velter → 🐦 https://twitter.com/LePereFidalbion | 🟦 
-» Hoopy / Sylvain Tastet → 🐦 https://twitter.com/_Hoopy | 🟦 https://bsky.app/profile/hoopyjv.bsky.social
-» Moguri / Kevin Cicurel → 🐦 https://twitter.com/El_Mogurito | 🟦 https://bsky.app/profile/elmogurito.bsky.social
+» Gautoz / Gauthier Andres → 𝕏 https://twitter.com/gautoz | 🟦 https://bsky.app/profile/gautoz.cool
+» Padre / Florian Velter → 𝕏 https://twitter.com/LePereFidalbion | 🟦 
+» Hoopy / Sylvain Tastet → 𝕏 https://twitter.com/_Hoopy | 🟦 https://bsky.app/profile/hoopyjv.bsky.social
+» Moguri / Kevin Cicurel → 𝕏 https://twitter.com/El_Mogurito | 🟦 https://bsky.app/profile/elmogurito.bsky.social
 » LaLinosse → 𝕏 https://twitter.com/HLinossier | 🟦 https://bsky.app/profile/hlinossier.bsky.social
-» Medoc / Medhi Camprasse → 🐦 https://twitter.com/Elmedoc | 🟦 https://bsky.app/profile/medoc.bsky.social
-» Cassim → 🐦 https://twitter.com/NotCassim | 🟦 https://bsky.app/profile/cassim.montilla.fr
+» Medoc / Medhi Camprasse → 𝕏 https://twitter.com/Elmedoc | 🟦 https://bsky.app/profile/medoc.bsky.social
+» Cassim → 𝕏 https://twitter.com/NotCassim | 🟦 https://bsky.app/profile/cassim.montilla.fr
 » Lucie Ronfaut → 🌐 https://LucieRonfaut.com | 𝕏 https://twitter.com/LucieRonfaut | 🟦 https://bsky.app/profile/lucieronfaut.bsky.social
 
 les copains :
