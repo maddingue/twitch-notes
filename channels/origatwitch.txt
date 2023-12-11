@@ -653,9 +653,22 @@ raids : OrigaTwitch => (15:17)[+561] LamHua => (17:33)[+928] OliveNoctua => (19:
 --------------------------------------
 2023-11-29 -- OriGaming
 
-Lethal Company, en accès anticipé depuis le 23 oct. 2023 sur PC / Steam Deck
+(annullé) Lethal Company, en accès anticipé depuis le 23 oct. 2023 sur PC / Steam Deck
 développé par Zeekerss, jeune développeur solo derrière des jeux d'horreur comme It Steals et The Upturned → https://zeekerss.itch.io | https://twitter.com/ZeekerssRBLX
 💻 9,75 € sur Steam (https://s.team/a/1966720)
+
+
+Furious Farm: Total Reap-Out, sorti le 26 oct. 2023 sur PC / Steam Deck
+développé par 🥞 Punkcake Délicieux, studio composé de deux développeurs français, Benjamin Soulé and Rémy Devaux, et d'un compositeur espagnol, Pentadrangle → https://punkcake.club
+💻 19,50 € sur Steam (https://s.team/a/1320140)
+💻 20 $ sur itch.io (https://sketchylogic.itch.io/small-saga)
+
+
+Small Saga, sorti le 16 nov. 2023 sur PC / Steam Deck
+développé par Darya Noghani, britannique 🇬🇧 co-créateur de Aviary Attorney → https://smallsaga.com | https://twitter.com/Sketchy_Jeremy
+🎶️ musiques par Darya Noghani 🇬🇧, Kofi Young 🇬🇧 (https://kofiyoung.bandcamp.com | https://kofiyoung.com), et Evelyn Lark (https://thenobledemon.bandcamp.com)
+💻 6 € sur Steam (https://s.team/a/2521560)
+💻 6 $ sur itch.io (https://punkcake.itch.io/furious-farm)
 
 
 --------------------------------------
@@ -786,6 +799,43 @@ raids : OrigaTwitch => (15:41)[+576] Nico_Oni (>19:00) => (<22;05) CekterDown =>
 
 
 --------------------------------------
+2023-12-04 -- OriGaming
+
+SteamWorld Build, sorti le 1er déc. 2023 sur Switch, PlayStation, Xbox et PC / Steam Deck
+publié par Thunderful Publishing, développé par The Station, studio suédois 🇸🇪 d'une quarantaine de personnes basé à Karlshamn, qui fait partie de Thunderful Group, fusion des studios Image & Form (série des jeux SteamWorld), Zoink Games (Stick It to The Man, Fe, Zombie Vikings) et des éditeurs Rising Star Games et Headup Games → https://SteamWorldGames.com | https://station-interactive.com
+🎶 musique par Ola Bäckström 🇸🇪
+🎮 30 € sur Switch (https://cutt.ly/JwAvMBOb), PlayStation (https://cutt.ly/PwAv1eGH)
+🎮 30 € ou inclus dans le Game Pass sur Xbox (https://cutt.ly/PwAv1v8G)
+💻 30 € sur Steam (https://s.team/a/2134770) et GOG (https://cutt.ly/5wAvMFpv)
+
+
+--------------------------------------
+2023-12-05 -- OriGaming
+
+Metal Gear Solid: Master Collection Vol. 1, sorti le 24 oct. 2023 sur Switch, PlayStation 4 & 5, Xbox Series et PC / Steam Deck
+contient Metal Gear, Metal Gear 2: Solid Snake, Metal Gear Solid, Metal Gear Solid 2: Sons of Liberty, Metal Gear Solid 3: Snake Eater, Metal Gear(NES), Snake's Revenge
+🎮 60 € sur Switch (https://cutt.ly/dwRvHzj4), PlayStation (https://cutt.ly/2wRvHm4q) et Xbox (https://cutt.ly/twRvHDok)
+💻 60 € sur Steam (https://cutt.ly/ZwRvHtXp)
+
+
+--------------------------------------
+2023-12-06 -- OriGaming
+
+A Highland Song, sorti le 5 déc. 2023 sur Switch et PC / Steam Deck
+développé par inkle, studio anglais 🇬🇧 indé derrière les jeux Heaven's Vault, 80 Days, Overboard, Pendragon → https://InkleStudios.com/a-highland-song/
+🎶 musiques par Laurence Chapman, Talisk et Fourth Moon ; 6 £ sur Bandcamp (https://cutt.ly/MwAw6FCR), https://LaurenceChapman.com
+🎮 16 € sur Switch (https://cutt.ly/JwAw4V3y)
+💻 16 € sur Steam (https://s.team/a/1240060)
+
+
+Avatar: Frontiers of Pandora, sorti le 7 déc. 2023 sur PlayStation 5, Xbox Series et PC
+développé par Massive Entertainment, studio suédois 🇸🇪 de plus de 750 personnes basé à Malmö → https://massive.se/project/avatar-frontiers-of-pandora/ | https://ubisoft.com/fr-fr/game/avatar/frontiers-of-pandora
+🎮 à partir de 60 € en grande distribution
+🎮 80 € ou + sur PlayStation (https://cutt.ly/EwAvc7Q7) et Xbox (https://cutt.ly/xwAvcZJi)
+💻 70 € ou + sur EGS (https://cutt.ly/rwAvcjm4) et Ubisoft Store (https://cutt.ly/DwAvcRgW)
+
+
+--------------------------------------
 2023-12-07 -- Internet Exploreuses #01
 
 » exaheva → 𝕏 https://twitter.com/exaheva | 🟦 https://bsky.app/profile/exaheva.bsky.social | 🌴 https://linktr.ee/exaheva
@@ -855,30 +905,30 @@ raids : OrigaTwitch => (15:05)[+434] CarolineSegarra (terminé à 15:43)
 
 ## Actus
 » 📺 [YouTube] Grand Theft Auto VI trailer 1 → https://youtu.be/QdBZY2fkU-0
-» Alone in the Dark → https://AloneInTheDark.THQNordic.com
+» 🇬🇧 [VGC / 7 déc. 2023] The Alone in the Dark reboot has been delayed again. It’s now scheduled for release in March 2024 → https://cutt.ly/CwAc4L5X
 » Open Roads, annoncé pour fév. 2024 sur Switch, PlayStation, Xbox et PC / Steam Deck → https://s.team/a/1497360
-» Outcast: A New Beginning, annoncé pour le 15 mars 2024 sur PlayStation 5, Xbox Series et PC
-» Kingdom Come: Deliverance Royal Edition, annoncé sur Switch début 2024, porté par Warhorse Studios
-» Have a Nice Death, maintenant disponible sur PlayStation et Xbox
+» Outcast: A New Beginning, annoncé pour le 15 mars 2024 sur PlayStation 5, Xbox Series et PC → https://OutcastTheGame.com | https://s.team/a/1013140
+» [Plaion / 7 déc. 2023] Kingdom Come: Deliverance Royal Edition, annoncé sur Switch début 2024, porté par Saber Interactive → https://cutt.ly/twAvop4k
+» Have a Nice Death, maintenant disponible sur PlayStation et Xbox → https://cutt.ly/9wAvps7J
 » Wo Long: Fallen Dynasty DLC ‘Upheaval in Jingxiang’ le 12 déc. 2023
-» Tchia arrive sur Steam en mars 2024
+» Tchia arrive sur Steam en mars 2024 → https://s.team/a/1496590
 
 » Llamasoft: The Jeff Minter Story, annoncé pour 2024 → https://www.digitaleclipse.com/games/llamasoft
 » 🐦 [Twitter / Fellow Traveller] Rejoice! Citizen Sleeper fans in China, Japan and France will soon be able to enjoy the game in their native language → https://cutt.ly/bwAtxUnC
 » Nirvana Noir, annoncé pour 2024 → https://s.team/a/1287610
 
-» Halo saison 2
-» Fallout
+» 🇺🇸 [Deadline / 2 déc. 2023] ‘Halo’ gets season 2 premiere date at Paramount+; teaser trailer → https://cutt.ly/VwAc0XaE
+» 🇺🇸 [Deadline / 28 nov. 2023] ‘Fallout’: Prime Video drops first-look images of post-apocalyptic series based on popular game → https://cutt.ly/bwAt77Zp
 
 » 🇺🇸 [IGN / 6 déc. 2023] Bungie devs say atmosphere is ‘soul-crushing’ amid layoffs, cuts, and fear of total Sony takeover. The Destiny 2 and Marathon developer may not be able to cling to the last of its independence forever → https://cutt.ly/EwAtePFZ
 
 » 🇺🇸 [Games Industry / 5 déc. 2023] EA lays off Codemasters staff. Unknown number of workers made redundant due to "small-scale organisational changes" → https://cutt.ly/BwAtw06t
 » (Embracer)
-» 🇺🇸 [Games Industry / 5 déc. 2023] League of Geeks: "We'll fight till the last breath".We talk to studio director Trent Kusters as developer cuts off 50% of its workforce after investment falls through, with Jumplight Odyssey's development put on hold indefinitely → https://cutt.ly/dwAteiHP
+» 🇺🇸 [Games Industry / 5 déc. 2023] League of Geeks: "We'll fight till the last breath". We talk to studio director Trent Kusters as developer cuts off 50% of its workforce after investment falls through, with Jumplight Odyssey's development put on hold indefinitely → https://cutt.ly/dwAteiHP
 » 🇬🇧 [BBC / 29 nov. 2023] Rishi Sunak pressured to back immigration minister's migration plans → https://cutt.ly/IwAtSGux
 » 🇺🇸 [Reuters / 5 déc. 2023] Britain announces stricter visa measures to reduce net migration → https://cutt.ly/vwAtGyj1
 
-### Games Awards
+## Games Awards
 » 🇬🇧 [VGC / 8 déc. 2023] The Game Awards 2023: All the major announcements rounded up, including new game reveals, fresh trailers and award winners → https://cutt.ly/YwAtrFry
 » 🇬🇧 [Eurogamer / 8 déc. 2023] Everything announced at The Game Awards 2023: Blade! Monster Hunter Wilds! OD! → https://cutt.ly/twAtyhmb
 
@@ -902,7 +952,7 @@ raids : OrigaTwitch => (15:05)[+434] CarolineSegarra (terminé à 15:43)
 » 🐦 [Twitter / Javiera Cordero (Meta Quest)] If I won game of the year and was dedicating the award to a member of my team who had died during development and saw the words “Please wrap it up” I’d be fucking pissed → https://cutt.ly/7wAr5IN3
 
 
-## invité
+## Invité
 ### Fallout
 » Fallout - Les mutations d'une saga, par Théo Dezalay / izual, publié en décembre 2016 chez Presse Non Stop
 » 🇺🇸 [Deadline / 23 oct. 2023] ‘Fallout’ TV series from ‘Westworld’ creators based on games gets Prime Video premiere date → https://cutt.ly/pwAt7QTQ
@@ -914,23 +964,27 @@ raids : OrigaTwitch => (15:05)[+434] CarolineSegarra (terminé à 15:43)
 » L'affiche collector des 20 ans de Canard PC → https://boutique.canardpc.com/common/product-article/386
 
 
-## jeux de la semaine
-» Warhammer 40,000: Rogue Trader, sorti le 7 déc. 2023, à 50 € sur PlayStation 5, Xbox Series et PC / Steam Deck ; développé par Owlcat Games (Pathfinder) → https://roguetrader.owlcat.games
-50 € sur Steam (https://s.team/a/2186680)
+## Les jeux de la semaine
+» Warhammer 40,000: Rogue Trader, sorti le 7 déc. 2023, à 50 € sur PlayStation 5, Xbox Series et PC / Steam Deck ; développé par Owlcat Games (Pathfinder: Wrath of the Righteous), studio russe de plus de 120 personnes basé à Nicosie, Chypre 🇨🇾 et Yerevan, Arménie 🇦🇲 → https://roguetrader.owlcat.games
+🎮 50 € sur PlayStation (https://cutt.ly/cwAvxgW9) et Xbox (https://cutt.ly/wwAvxxrA)
+💻 50 € sur Steam (https://s.team/a/2186680) et GOG (https://cutt.ly/PwAvbfUI)
 
-» Avatar: Frontiers of Pandora, sorti le 7 déc. 2023, à 80 € / 110 € / 130 € sur PlayStation 5, Xbox Series et PC ; développé par Massive Entertainment → https://www.ubisoft.com/fr-fr/game/avatar/frontiers-of-pandora
+» Avatar: Frontiers of Pandora, sorti le 7 déc. 2023, à 80 € / 110 € / 130 € sur PlayStation 5, Xbox Series et PC ; développé par Massive Entertainment, studio suédois 🇸🇪 de plus de 750 personnes basé à Malmö → https://massive.se/project/avatar-frontiers-of-pandora/ | https://ubisoft.com/fr-fr/game/avatar/frontiers-of-pandora
+🎮 à partir de 60 € en grande distribution
+🎮 80 € ou + sur PlayStation (https://cutt.ly/EwAvc7Q7) et Xbox (https://cutt.ly/xwAvcZJi)
+💻 70 € ou + sur EGS (https://cutt.ly/rwAvcjm4) et Ubisoft Store (https://cutt.ly/DwAvcRgW)
 
 
-## mais pas que
+## Mais pas que
 Izual
 » Master and Commander: The Far Side of the World (2003), film cinéma écrit et réalisé par Peter Weir, musiques par Iva Davies, Christopher Gordon et Richard Tognetti
-» adapté des livres de la série Aubrey–Maturin par Patrick O'Brian (1914-2000)
+» adapté des livres de la série Aubrey–Maturin par Patrick O'Brian (1914-2000), publié en français dans les années 1990 chez Presse de la Cité, dans les années 2010 chez Omnibus, actuellement publié chez J'ai Lu en 10 tomes → https://www.jailu.com/Nos-auteurs/obrian-patrick
 
 Padre
-» La Dette publique: Précis d'économie citoyenne (224 p), par Eric Berr, Léo Charles, Arthur Jatteau, Jonathan Marie et Alban Pellegris, paru le 14 janvier 2021 au Seuil, ISBN 2021470881, EAN 978-2-02147-088-8, 19 € → https://www.seuil.com/ouvrage/la-dette-publique-les-economistes-atterres/9782021470888
+» La Dette publique: Précis d'économie citoyenne (224 p), par Eric Berr, Léo Charles, Arthur Jatteau, Jonathan Marie et Alban Pellegris, paru le 14 janvier 2021 au Seuil, ISBN 2021470881, EAN 978-2-02147-088-8, 19 € → https://seuil.com/ouvrage/la-dette-publique-les-economistes-atterres/9782021470888
 
 Hoopy
-» Le chevalier aux épines, tome 1 Le Tournoi des preux (528 p), par Jean-Philippe Jaworski, ISBN/EAN 978-2-36183-832-4, paru le 18 janvier 2023 chez les Moutons électriques, 28 € → https://www.moutons-electriques.fr/chevalier-epines-1
+» Le chevalier aux épines, tome 1 Le Tournoi des preux (528 p), par Jean-Philippe Jaworski, ISBN/EAN 978-2-36183-832-4, paru le 18 janvier 2023 chez les Moutons électriques, 28 € → https://moutons-electriques.fr/chevalier-epines-1
 
 Gautoz/LaLinosse
 » Internet Exploreuses
