@@ -1067,7 +1067,7 @@ raids : OrigaTwitch => (16:08)[+216] OPcrotte (terminé à 21:18)
 » 🇺🇸 [The Verge / 11 jan. 2024] Discord is laying off 17 percent of employees. In an internal memo, CEO Jason Citron said the company grew headcount too quickly over the past few years → https://cutt.ly/0wJOjYFe
 » 🇺🇸 [Games Industry / 11 jan. 2024] Discord cuts workforce by 17%. CEO says that it grew too quickly, took on more projects, and became less operationally efficient → https://cutt.ly/RwJOjqxj
 
-### 
+### Divers
 » [Xbox News / 9 jan. 2024] Xbox vous donne rendez-vous le 18 janvier à 21:00 pour le retour du Developer_Direct → https://cutt.ly/QwJlFd3Y
 » [Autorité de la concurrence / 20 déc. 2023] L’Autorité de la concurrence inflige à Sony une sanction de 13,5 millions d’euros pour avoir abusé de sa position dominante sur le marché de la fourniture de manettes de jeux vidéo pour PS4 → https://cutt.ly/TwJOb3I0
 » 🇫🇷 [Frandroid / 11 jan. 2024] DualSense V2 : la PS5 a une nouvelle manette officielle, tout ce qu’il faut savoir → https://cutt.ly/JwJOmIeD
@@ -1111,13 +1111,13 @@ publié par Ubisoft, développé par Ubisoft Montpellier 🇫🇷 (Rayman Origin
 » Paralives, par Alex Massé → https://s.team/a/1118520 | https://paralives.com
 » Harold Halibut, annoncé pour début 2024 sur Switch, PlayStation, Xbox (Game Pass) et PC / Steam Deck, développé par Slow Bros. → https://s.team/a/924750 | http://haroldhalibut.com
 
-» Black Myth: Wukong, le 20 aout 2024
-» Star Wars Outlaws
-» Silent Hill 2
-» Refantasio
-» Mumimn
-» Princess Peach
-» Persona 3 Reload
+» Black Myth: Wukong, le 20 août 2024 sur PlayStation 5, Xbox Series et PC, développé par Game Science → https://heishenhua.com | https://s.team/a/2358720
+» Star Wars Outlaws, annoncé pour 2024 sur PlayStation 5, Xbox Series et PC, développé par Massive Entertainment, édité par Ubisoft → https://ubisoft.com/fr-fr/game/star-wars/outlaws
+» Silent Hill 2, annoncé pour 2024 sur PlayStation 5 et PC, développé par Bloober Team → https://blooberteam.com/silent-hill-2 | https://s.team/a/2124490
+» Metaphor: ReFantazio, annoncé pour 2024 sur PlayStation 4 & 5, Xbox Series et PC, développé par Studio Zero, édité par Atlus → https://metaphor.atlus.com
+» Snufkin: Melody of Moominvalley, annoncé pour Q3 2024 sur Switch, PlayStation, Xbox et PC, développé par Hyper Games → https://snufkin.game | https://s.team/a/1808680
+» Princess Peach Showtime, le 22 mars 2024 sur Switch, développé par Nintendo
+» Persona 3 Reload, le 2 février 2024 sur PlayStation, Xbox et PC, développé par Atlus, édité par Sega → https://p3re.jp/en/ | https://s.team/a/2161700
 
 
 ## Mais pas que
@@ -1136,7 +1136,7 @@ LaLinosse
 » Formés à la haine des femmes, 300 pages, par Pauline Ferrari, EAN 9782709672474, 20 €, publié le 2 nov. 2023 chez JC Lattès → https://www.editions-jclattes.fr/livre/formes-la-haine-des-femmes-9782709672474/
 » [Canard PC / 15 oct. 2019] Du Gamergate à l'élection de Donald Trump, par L.F. Sébum → https://www.canardpc.com/jeu-video/dossier-jeu-video/du-gamergate-a-lelection-de-donald-trump/
 
-raids : OrigaTwitch => (15:32)[+567] At0mium => (19:02) LeTetryl => LysSombreciel => nopain_no_gain => (23:19)[+20] vintar21 (samedi) (>00:40) => (<01:24) MortueTV [syfrenne=>(01:49)+12] (>02:00)
+raids : OrigaTwitch => (15:32)[+567] At0mium => (19:02) LeTetryl => LysSombreciel => nopain_no_gain => (23:19)[+20] vintar21 (samedi) (>00:40) => (<01:24) MortueTV [syfrenne=>(01:49)+12] => (02:46)[+20] Jet_Coffee (>03:25) => (<12:04) Cpt_Haddock_ (dimanche) (>12:00) => (<14:38) GozeurTV => (18:49)[+31] Khun_twitch => (21:58) NEOZ24 => (22:26)[+7] ElaenaTV (lundi) => (00:06)[+14] SchrodingerKitten => (04:51)[+24] Delfea (terminé à 05:05)
 
 
 
