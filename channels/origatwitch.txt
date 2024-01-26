@@ -1281,8 +1281,89 @@ raids entrants :
 - lesnumeriques à 13:36 +142
 - CanardPC à 15:06 +175
 
-raids : OrigaTwitch => (15:12)[+469] DamDamLive => (20:20) Niniste [ROBinet36=>(20:26)+1] [SuggahDamn=>(21:44)+3] (>23:35) => (<00:09) Keubab (>01:00)
+raids : OrigaTwitch => (15:12)[+469] DamDamLive => (20:20) Niniste [ROBinet36=>(20:26)+1] [SuggahDamn=>(21:44)+3] (>23:35) => (<00:09) Keubab => (01:02)[+32] Marco (terminé à 05:30) 
 
+
+--------------------------------------
+2024-01-26
+
+Origaming -- Harold Halibut
+
+Harold Halibut, annoncé pour début 2024 sur Switch, PlayStation, Xbox (Game Pass) et PC / Steam Deck, développé par Slow Bros. → http://haroldhalibut.com
+💻 démo gratuite sur Steam (https://s.team/a/924750)
+
+raids entrants :
+- FrandroidLive à 11:09 +68
+- Lex_Tutor à 12:19 +68
+- Litsen_Lithenna à 12:55 +7
+
+
+Hebdo #10
+
+Invités :
+- Oni → 📡 https://twitch.tv/nico_oni | 𝕏 https://twitter.com/Nico_Oni
+- Anis Kx Hmi / Kahikusu → 📡 https://twitch.tv/kahikusu | 𝕏 https://twitter.com/kahikusu | ▶️ https://youtube.com/@AnisKxHmi
+- Fight Forward
+
+## Actu
+» Street Fighter 6 - Ed
+» 🇬🇧 [VGC / 24 jan. 2024] Splatoon 3’s Side Order DLC launches next month → https://cutt.ly/ZwL9V7pR
+» Last Epoch
+» Project C██████ et Project D████, par 
+» Apollo Justice: Ace Attorney Trilogy, sorti le 25 jan. 2024 sur PC / Steam Deck
+» arrêt du jeu en ligne sur 3DS et Wii U
+
+» 🇺🇸 [Kotaku / 25 jan. 2024] Thanks to new EU rules, Fortnite is coming back to iPhones. Epic plans to bring its own third-party mobile store to iPhones later this year → https://cutt.ly/TwL9f6EF
+» 🇺🇸 [Games Industry / 25 jan. 2024] Apple clears the way for Game Pass streaming on iOS. A day after UK CMA resumes investigation of cloud gaming restrictions, Apple says it will allow game streaming apps → https://cutt.ly/FwL9anIO
+» 🇺🇸 [Games Industry / 25 jan. 2024] Apple to allow alternative app stores in Europe. Tim Sweeney calls new policy "a devious new instance of malicious compliance" as Epic plans to launch Epic Games Store for iOS and return Fortnite to the platform → https://cutt.ly/HwL9aHg3
+
+» 🇺🇸 [Games Industry / 25 jan. 2024] Xbox announces Indie Selects program. A curation of indie games will be spotlighted weekly on the console's storefront → https://cutt.ly/twL9xXhH
+» 🇺🇸 [Games Industry / 25 jan. 2024] CWA says Microsoft's job cuts did not impact the staffers it represents. Organization adds that unions can establish more transparency and policies that put worker needs first → https://cutt.ly/twL9cwbf
+» 🇺🇸 [Games Industry] 
+
+» 🇺🇸 [Kotaku / 25 jan. 2024] The Day Before devs blame 'bloggers' for the game's failure. Developer Fntastic pointed fingers at everyone but themselves in a furious Twitter rant → https://cutt.ly/KwL9lyZl
+
+
+## Les jeux de combats
+» Under Night In-Birth II Sys:Celes, sorti le 25 jan. 2024 sur Switch, PlayStation et PC → https://arcsystemworks.jp/uni2celes/ | https://s.team/a/2076010
+
+» Barbarian, sorti en 1987 sur Atari ST et Amiga, puis sur la plupart des micro-ordinateurs de l'époque ; développé par Psygnosis
+
+» Street Fighter, sorti en 1987 en arcade, en 1988 sur ZX Spectrum, C64, Atari ST, Amiga… ; développé par Capcom, équipe dirigée par Takashi Nishiyama, programmation par Hiroshi Koike, musiques par Yoshihiro Sakaguchi
+
+» Street Fighter II, sorti en mars 1991 en arcade, en 1992 sur Super Nintendo, PC MS-DOS, Amiga, Atari ST ; développé par Capcom, équipe dirigée par Akira Nishitani et Akira Yasuda, direction artistique par Eri Nakamura, Satoru Yamashita, programmation par Shinichi Ueyama, Seiji Okada, Yoshihiro Matsui, Motohide Eshiro, musqiues par Yoko Shimomura; Isao Abe
+
+» Street Fighter III, sorti 
+
+» Street Fighter IV, sorti 
+
+» Garou: Mark of the Wolves, sorti en 1999 sur arcade, en 2000 sur Neo Geo ; développé par SNK, équipe dirigée par 
+
+» Fatal Fury: City of the Wolves
+» 🇫🇷 [ActuGaming / 6 août 2023] Fatal Fury: City of the Wolves dévoile ses premières images → https://cutt.ly/OwL3QXtK
+
+» Project L
+
+» Tekken 8, sorti le 26 jan. 2024, 80 € sur PlayStation 5, Xbox Series et PC / Steam Deck, démo gratuite disponible → https://tk8.tekken-official.jp | https://s.team/a/1778820
+🎮 80 € ou + sur PlayStation (https://cutt.ly/TwL3c6Jw) et Xbox (https://cutt.ly/awL3cYdb)
+💻️ 70 € ou + sur Steam (https://s.team/a/1778820)
+» ▶️ [YouTube / Anis Kx Hmi / 25 jan. 2024] Tekken 8 - le test complet de la version PC (input lag, performances, mécaniques de jeu...) → https://youtu.be/xYoeO-Zun7M
+
+
+## Mais pas que
+Oni
+» 🎶 Yes Future, par Toxic Avenger, 12 € sur Bandcamp → https://thetoxicavengertheband.bandcamp.com/album/yes-future
+
+Anis Kx Hmi
+» 🎦 RoboCop (1987), 102 min, film cinéma réalisé par Paul Verhoeven, scénario par Edward Neumeier et Michael Miner, musiques par Basil Poledouris, avec Peter Weller, Nancy Allen, Dan O'Herlihy
+» 🎦 Total Recall (1990), 113 min, film cinéma réalisé par Paul Verhoeven, scénario par Ronald Shusett, Dan O'Bannon et Gary Goldman, musiques par Jerry Goldsmith, avec Arnold Schwarzenegger, Rachel Ticotin, Sharon Stone, Michael Ironside
+» 🎦 Basic Instinct (1992), 128 min, film cinéma réalisé par Paul Verhoeven, scénario par Joe Eszterhas, musiques par Jerry Goldsmith, avec Michael Douglas, Sharon Stone, George Dzundza, Jeanne Tripplehorn
+» 🎦 Showgirls (1995), 131 min, film cinéma réalisé par Paul Verhoeven, scénario par Joe Eszterhas, musiques par Dave Stewart (Eurythmics), avec Elizabeth Berkley, Kyle MacLachlan, Gina Gershon
+» 🎦 Starship Troopers (1997), 129 min, film cinéma réalisé par Paul Verhoeven, scénario par Edward Neumeier, musiques par Basil Poledouris, avec Casper Van Dien, Dina Meyer, Denise Richards, Neil Patrick Harris, Michael Ironside
+
+Moguri
+» 📙 Slam Dunk, manga écrit et dessiné par Takehiko Inoue entre octobre 1990 et juin 1996 ; nouvelle édition chez Kana → https://www.kana.fr/series/slam-dunk-deluxe/
+» 📙 Real, manga écrit et dessiné par Takehiko Inoue, édité chez Kana → https://www.kana.fr/series/real/
 
 
 
