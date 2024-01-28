@@ -1303,15 +1303,18 @@ Hebdo #10
 Invités :
 - Oni → 📡 https://twitch.tv/nico_oni | 𝕏 https://twitter.com/Nico_Oni
 - Anis Kx Hmi / Kahikusu → 📡 https://twitch.tv/kahikusu | 𝕏 https://twitter.com/kahikusu | ▶️ https://youtube.com/@AnisKxHmi
-- Fight Forward
+- Amelitha, du collectif Fight Forward → 📡 https://twitch.tv/amelitha | 𝕏 https://twitter.com/amelitha_JG | 🟦 https://bsky.app/profile/amelitha.bsky.social | 📷 https://instagram.com/amelitha_jg/ | 📇 https://amelitha.carrd.co
+  - Fight Forward → 𝕏 https://twitter.com/FightForward_ | 📷 https://instagram.com/fight_forward_
+- Valhanya, du collectif Fight Forward → 📡 https://twitch.tv/valhanya | 𝕏 https://twitter.com/valhanya | 📷 https://instagram.com/valhanya_
 
 ## Actu
-» Street Fighter 6 - Ed
-» 🇬🇧 [VGC / 24 jan. 2024] Splatoon 3’s Side Order DLC launches next month → https://cutt.ly/ZwL9V7pR
-» Last Epoch
-» Project C██████ et Project D████, par 
-» Apollo Justice: Ace Attorney Trilogy, sorti le 25 jan. 2024 sur PC / Steam Deck
-» arrêt du jeu en ligne sur 3DS et Wii U
+» ▶️ [YouTube] Street Fighter 6 - Ed Teaser Trailer → https://youtu.be/4s0CHm0tWh8
+» 🇬🇧 [VGC / 24 jan. 2024] Splatoon 3’s Side Order DLC launches Feb 22nd → https://cutt.ly/ZwL9V7pR
+» Last Epoch, version finale le 21 fév. 2024 → https://cutt.ly/DwZsPh7o
+» Project C██████ et Project D████, par Half Mermaid, le studio de Sam Barlow → https://halfmermaid.co
+» Apollo Justice: Ace Attorney Trilogy, sorti le 25 jan. 2024, à 50 € sur Switch, PlayStation, Xbox et PC / Steam Deck → https://www.ace-attorney.com/aj-trilogy/
+» [Nintendo / 20 jan. 2024] Annonce de la fin des services en ligne pour les logiciels Nintendo 3DS et Wii U → https://cutt.ly/kwZsDYrw
+» Under Night In-Birth II Sys:Celes, sorti le 25 jan. 2024 sur Switch, PlayStation et PC → https://arcsystemworks.jp/uni2celes/ | https://s.team/a/2076010
 
 » 🇺🇸 [Kotaku / 25 jan. 2024] Thanks to new EU rules, Fortnite is coming back to iPhones. Epic plans to bring its own third-party mobile store to iPhones later this year → https://cutt.ly/TwL9f6EF
 » 🇺🇸 [Games Industry / 25 jan. 2024] Apple clears the way for Game Pass streaming on iOS. A day after UK CMA resumes investigation of cloud gaming restrictions, Apple says it will allow game streaming apps → https://cutt.ly/FwL9anIO
@@ -1325,29 +1328,30 @@ Invités :
 
 
 ## Les jeux de combats
-» Under Night In-Birth II Sys:Celes, sorti le 25 jan. 2024 sur Switch, PlayStation et PC → https://arcsystemworks.jp/uni2celes/ | https://s.team/a/2076010
-
-» Barbarian, sorti en 1987 sur Atari ST et Amiga, puis sur la plupart des micro-ordinateurs de l'époque ; développé par Psygnosis
+» Barbarian: The Ultimate Warrior, sorti en 1987 sur Amstrad CPC, Commodore 64, et ZX Spectrum, puis sur la plupart des micro-ordinateurs de l'époque ; développé par le studio britannique 🇬🇧 Palace Software 
 
 » Street Fighter, sorti en 1987 en arcade, en 1988 sur ZX Spectrum, C64, Atari ST, Amiga… ; développé par Capcom, équipe dirigée par Takashi Nishiyama, programmation par Hiroshi Koike, musiques par Yoshihiro Sakaguchi
 
 » Street Fighter II, sorti en mars 1991 en arcade, en 1992 sur Super Nintendo, PC MS-DOS, Amiga, Atari ST ; développé par Capcom, équipe dirigée par Akira Nishitani et Akira Yasuda, direction artistique par Eri Nakamura, Satoru Yamashita, programmation par Shinichi Ueyama, Seiji Okada, Yoshihiro Matsui, Motohide Eshiro, musqiues par Yoko Shimomura; Isao Abe
 
-» Street Fighter III, sorti 
+» Street Fighter III: New Generation, sorti en fév. 1997 en arcade ; développé par Capcom, équipe dirigée par Yasuhiro Seto, Tomonori Ohmura et Shinichiro Obata, direction artistique par Hitoshi Nishio, Takashi Hayashi (Ball Boy), Q Kyoku, Yusuke Yamamoto (Yu-suke) et Daisuke Kurita, programmation par Kazuhito Nakai, Yuko Kawamura (Tate) et Yas, musiques par Hideki Okugawa et Yuki Iwai
 
-» Street Fighter IV, sorti 
+» Street Fighter III: 3rd Strike - Fight for the Future, sorti en mai 🇯🇵 / juin 🇪🇺 1999 en arcade, en juin 🇯🇵 / oct. 🇫🇷 2000 sur Dreamcast, puis en 2004 sur PlayStation 2 et Xbox ; développé par Capcom, équipe dirigée par Toshiba Ishizawa, Haruo Murata et Tomonori Ohnuma, direction artistique par Yūji Imamura (Who), Ikuo Nakayama (Ikusan Z), Daisuke Kurita, Chimorin Shogun, programmation par Kazuhito Nakai, Nobuya Yoshizumi, Yuko Kawamura (Tate), Hiroshi Nakagawa (Raoh), Yoshinobu Inada (Ine), musiques par Hideki Okugawa
 
-» Garou: Mark of the Wolves, sorti en 1999 sur arcade, en 2000 sur Neo Geo ; développé par SNK, équipe dirigée par 
+» Street Fighter IV, sorti en juil. 2008 en arcade, en fév. 2009 sur PlayStation 3 et Xbox, en juil. 2009 sur PC Windows ; développé par Capcom et Dimps, équipe dirigée par Takashi Tsukamoto, direction artistique par Toshiyuki Kamei, programmation dirigée par Ryosuke Nakano, musiques par Hideyuki Fukasawa
 
-» Fatal Fury: City of the Wolves
+» Garou: Mark of the Wolves, sorti en 1999 sur arcade, en 2000 sur Neo Geo, en 2001 sur Dreamcast ; développé par SNK, équipe dirigée par Hiroshi Matsumoto, direction artistique par D. Takagi, M. Hirano, N. Kuroki, Soe Soe, Heitarou, Rolly-R, programmation par Bo-Fukunaga, musiques par Akihiro Uchida, Masato Horiuchi, Yasuhiro Naka
+
+» Fatal Fury: City of the Wolves, annoncé sur PlayStation 5, Xbox Series et PC ; développé par SNK
 » 🇫🇷 [ActuGaming / 6 août 2023] Fatal Fury: City of the Wolves dévoile ses premières images → https://cutt.ly/OwL3QXtK
 
-» Project L
+» Project L, annoncé sur PC ; développé par Riot Games → https://project-l.riotgames.com
 
-» Tekken 8, sorti le 26 jan. 2024, 80 € sur PlayStation 5, Xbox Series et PC / Steam Deck, démo gratuite disponible → https://tk8.tekken-official.jp | https://s.team/a/1778820
+» Tekken 8, sorti le 26 jan. 2024 sur PlayStation 5, Xbox Series et PC / Steam Deck, démo gratuite disponible → https://tk8.tekken-official.jp
 🎮 80 € ou + sur PlayStation (https://cutt.ly/TwL3c6Jw) et Xbox (https://cutt.ly/awL3cYdb)
 💻️ 70 € ou + sur Steam (https://s.team/a/1778820)
-» ▶️ [YouTube / Anis Kx Hmi / 25 jan. 2024] Tekken 8 - le test complet de la version PC (input lag, performances, mécaniques de jeu...) → https://youtu.be/xYoeO-Zun7M
+» ▶️ [YouTube / Anis Kx Hmi / 25 jan. 2024] Tekken 8 - le test complet de la version PC (input lag, performances, mécaniques de jeu...) → https://youtu.be/xYoeO-Zun7M (43 min)
+» ▶️ [YouTube / Digital Foundry / 26 jan. 2024] Tekken 8 is absolutely superb - DF Tech Review → https://youtu.be/RJFQh2NE72s (21 min)
 
 
 ## Mais pas que
@@ -1362,8 +1366,8 @@ Anis Kx Hmi
 » 🎦 Starship Troopers (1997), 129 min, film cinéma réalisé par Paul Verhoeven, scénario par Edward Neumeier, musiques par Basil Poledouris, avec Casper Van Dien, Dina Meyer, Denise Richards, Neil Patrick Harris, Michael Ironside
 
 Moguri
-» 📙 Slam Dunk, manga écrit et dessiné par Takehiko Inoue entre octobre 1990 et juin 1996 ; nouvelle édition chez Kana → https://www.kana.fr/series/slam-dunk-deluxe/
-» 📙 Real, manga écrit et dessiné par Takehiko Inoue, édité chez Kana → https://www.kana.fr/series/real/
+» 📙 Slam Dunk, manga écrit et dessiné par Takehiko Inoue, publié entre octobre 1990 et juin 1996 au Japon, terminé en 31 tomes ; nouvelle édition française chez Kana → https://www.kana.fr/series/slam-dunk-deluxe/
+» 📙 Real, manga écrit et dessiné par Takehiko Inoue, en cours de publication depuis 2001 au Japon, 15 tomes, édition française chez Kana → https://www.kana.fr/series/real/
 
 
 
