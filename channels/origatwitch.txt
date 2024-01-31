@@ -1162,7 +1162,7 @@ raids : OrigaTwitch => (22:12) LeFrenchRestream
 --------------------------------------
 2024-01-25
 
-Gautozinale
+Mardinale
 
 » 🇺🇸 [ShackNews / 20 jan. 2024] Awesome Games Done Quick 2024 ends with $2.5M+ raised for charity. AGDQ 2024 has raised more than $2.5 million for the Prevent Cancer Foundation → https://cutt.ly/ywLK0hx5
 
@@ -1316,13 +1316,7 @@ Invités :
 » [Nintendo / 20 jan. 2024] Annonce de la fin des services en ligne pour les logiciels Nintendo 3DS et Wii U → https://cutt.ly/kwZsDYrw
 » Under Night In-Birth II Sys:Celes, sorti le 25 jan. 2024 sur Switch, PlayStation et PC → https://arcsystemworks.jp/uni2celes/ | https://s.team/a/2076010
 
-» 🇺🇸 [Kotaku / 25 jan. 2024] Thanks to new EU rules, Fortnite is coming back to iPhones. Epic plans to bring its own third-party mobile store to iPhones later this year → https://cutt.ly/TwL9f6EF
-» 🇺🇸 [Games Industry / 25 jan. 2024] Apple clears the way for Game Pass streaming on iOS. A day after UK CMA resumes investigation of cloud gaming restrictions, Apple says it will allow game streaming apps → https://cutt.ly/FwL9anIO
-» 🇺🇸 [Games Industry / 25 jan. 2024] Apple to allow alternative app stores in Europe. Tim Sweeney calls new policy "a devious new instance of malicious compliance" as Epic plans to launch Epic Games Store for iOS and return Fortnite to the platform → https://cutt.ly/HwL9aHg3
-
 » 🇺🇸 [Games Industry / 25 jan. 2024] Xbox announces Indie Selects program. A curation of indie games will be spotlighted weekly on the console's storefront → https://cutt.ly/twL9xXhH
-» 🇺🇸 [Games Industry / 25 jan. 2024] CWA says Microsoft's job cuts did not impact the staffers it represents. Organization adds that unions can establish more transparency and policies that put worker needs first → https://cutt.ly/twL9cwbf
-» 🇺🇸 [Games Industry] 
 
 » 🇺🇸 [Kotaku / 25 jan. 2024] The Day Before devs blame 'bloggers' for the game's failure. Developer Fntastic pointed fingers at everyone but themselves in a furious Twitter rant → https://cutt.ly/KwL9lyZl
 
@@ -1368,6 +1362,82 @@ Anis Kx Hmi
 Moguri
 » 📙 Slam Dunk, manga écrit et dessiné par Takehiko Inoue, publié entre octobre 1990 et juin 1996 au Japon, terminé en 31 tomes ; nouvelle édition française chez Kana → https://www.kana.fr/series/slam-dunk-deluxe/
 » 📙 Real, manga écrit et dessiné par Takehiko Inoue, en cours de publication depuis 2001 au Japon, 15 tomes, édition française chez Kana → https://www.kana.fr/series/real/
+
+
+--------------------------------------
+2024-01-30
+
+Mardinale
+
+### Licenciements chez Microsoft
+» 🇺🇸 [IGN / 25 jan. 2024] **Microsoft lays off 1,900 staff from its video game workforce**. Following $69 billion acquisition of Activision Blizzard, par Wesley Yin-Poole → <https://cutt.ly/wwZd8CYd>
+» 🇫🇷️ [IGN / 25 jan. 2024] **Microsoft licencie 1900 personnes de ses effectifs jeux vidéo.** Juste après l'acquisition d'Activision Blizzard pour 69 milliards de dollars, traduction par Erwan Lafleuriel → <https://cutt.ly/XwZd4gdM>
+» 🇺🇸 [The Verge / 25 jan. 2024] **Microsoft lays off 1,900 Activision Blizzard and Xbox employees.** Blizzard president Mike Ybarra has also decided to leave, and Blizzard’s survival game has been canceled → <https://cutt.ly/kwZd4S0L>
+» 🇺🇸 [Kotaku / 25 jan. 2024] **25 days into 2024 and 5,900+ video game layoffs have been announced.** Microsoft recently announced 1,900 layoffs across Xbox, Activision, Blizzard, and ZeniMax → <https://cutt.ly/fwLKvRPm>
+» 🇺🇸 [The Gamer / 26 jan. 2024] **Xbox reportedly shuts down physical game release divisions.** Xbox takes another step in going all-digital, as Microsoft reportedly shuts down departments dedicated to physical game releases → <https://cutt.ly/OwZFUjXe>
+» 🇺🇸 [Reuters / 29 jan. 2024] **Investors see Microsoft's stock market value leaving Apple behind** → <https://cutt.ly/UwZFnQmP>
+» 🇺🇸 [Games Industry / 29 jan. 2024] **Blizzard Entertainment names Johanna Faries as president.** The executive originally joined the firm in 2018 and last served as general manager of Call of Duty → <https://cutt.ly/BwZFmtgl>
+
+» 🇦🇺 [Kotaku Australia / 25 jan. 2024] **Xbox is not your friend** → <https://cutt.ly/CwZFWpPU>
+
+» 🇺🇸 [Games Industry / 25 jan. 2024] **CWA says Microsoft's job cuts did not impact the staffers it represents.** Organization adds that unions can establish more transparency and policies that put worker needs first → <https://cutt.ly/twL9cwbf>
+
+» 🇺🇸 [Windows Central / 25 jan. 2024] **Microsoft cancels Blizzard's survival game amid layoffs, shifts developers to "one of several promising new projects".** As Microsoft cuts 1,900 jobs from its gaming teams, development on Blizzard's survival IP has ended → <https://cutt.ly/fwZFm0cn>
+
+### Ex-Ubisoft au tribunal
+» 🇫🇷 [Libération / 1er juil. 2020] **Récits de harcèlement et d'agressions sexuelles à Ubisoft : «Les jeux vidéo c’est fun, on peut tout faire, rien n’est grave»** → <https://cutt.ly/vwZFPNPR>
+» 🇫🇷 [Libération / 10 juil. 2020] **Harcèlement sexuel à Ubisoft : «On savait»** → <https://cutt.ly/fwZFAlNE>
+
+» 🇫🇷 [L'Informé / 24 jan. 2024] **Trois anciens cadres d’Ubisoft seront jugés pour harcèlement moral et sexuel.** Trois ans après les premières accusations, le parquet de Bobigny a retenu des griefs contre l’ex-numéro 2 de l’éditeur français et son ancien bras droit, notamment. Une audience est prévue début février pour fixer la date du procès → <https://cutt.ly/awLKnDZb>
+» 🇫🇷 [Numérama / 24 jan. 2024] **Harcèlement moral et sexuel chez Ubisoft : 3 anciens cadres vont être jugés** → <https://cutt.ly/rwLLNWJC>
+» 🇫🇷 [Le Figaro / 24 jan. 2024] **L’ex-numéro 2 d’Ubisoft va être jugé pour harcèlement moral et sexuel** → <https://cutt.ly/0wZFIShP>
+
+### Apple
+» 🇺🇸 [Kotaku / 25 jan. 2024] **Thanks to new EU rules, Fortnite is coming back to iPhones.** Epic plans to bring its own third-party mobile store to iPhones later this year → <https://cutt.ly/TwL9f6EF>
+» 🇺🇸 [Games Industry / 25 jan. 2024] **Apple clears the way for Game Pass streaming on iOS.** A day after UK CMA resumes investigation of cloud gaming restrictions, Apple says it will allow game streaming apps → <https://cutt.ly/FwL9anIO>
+» 🇺🇸 [Games Industry / 25 jan. 2024] **Apple to allow alternative app stores in Europe.** Tim Sweeney calls new policy "a devious new instance of malicious compliance" as Epic plans to launch Epic Games Store for iOS and return Fortnite to the platform → <https://cutt.ly/HwL9aHg3>
+» 🇫🇷 [Frandroid / 25 jan. 2024] **L’iPhone va subir sa plus grande révolution : voici les 10 mesures prises par Apple** → <https://cutt.ly/swZFHHgL
+» 🇫🇷 [Frandroid / 27 jan. 2024] **Attention Apple, l’Europe reste prête à taper du poing sur la table malgré les changements de l’App Store** → <https://cutt.ly/4wZFHV2F>
+» 🇫🇷 [Frandroid / 27 jan. 2024] **Tout comprendre aux changements à venir sur iPhone en trois minutes** → <https://cutt.ly/hwZFH3Cg>
+
+### Suicide Squad
+» 🇺🇸 [IGN / 27 jan. 2024] **Where's our Suicide Squad: Kill the Justice League Review?** Review codes have not been sent out ahead of time → <https://cutt.ly/vwZFZCw0>
+» 🇺🇸 [Forbes / 28 jan. 2024] **‘Suicide Squad: Kill The Justice League,’ review codes and players ‘making up their own minds’** → <https://cutt.ly/kwZFZPte>
+
+### Eidos, annulation d'un Deux Ex
+» 🇺🇸 [Games Industry / 29 jan. 2024] **Eidos Montreal lays off 97 staffers.** Alongside the latest Embracer redundancies was the cancellation of an unnamed Deus Ex project at the studio → <https://cutt.ly/cwZFXxW0>
+» 🇺🇸 [Bloomberg / 29 jan. 2024] **Embracer Group cancels ‘Deus Ex’ video game** → <https://cutt.ly/SwZFXNWb>
+
+### Reikon
+» 🇺🇸 [Games Industry / 26 jan. 2024] **Ruiner developer Reikon Games reportedly lays off more than half its staff.** Sources suggest around 60 to 70 people were let go earlier this week → <https://cutt.ly/TwZFCRe8>
+
+### 🍓 Celeste 64 🎂
+» **Celeste 64**, jouable pour Windows et Linux, gratuit sur itch.io → <https://cutt.ly/NwZFVz2I>
+
+### Enshrouded
+» 𝕏 [X (Twitter) / Keen Games / 29 jan. 2024] Enshrouded has reached OVER ONE MILLION PLAYERS → <https://cutt.ly/wwZFBhGV>
+
+### Shapeshifter Games
+» 🇺🇸 [Game Developer / 30 jan. 2024] **Volition devs regroup as Shapeshifter Games after Embracer shuttering** → <https://cutt.ly/owZFB4QQ>
+
+### Agenda
+» **Balatro**, annoncé sur PC / Steam Deck ; développé par LocalThunk → <https://playBalatro.com> | <https://s.team/a/2379780>
+» [PlayStation / 29 jan. 2024] **Le State  of  Play est de retour ce mercredi.** Rejoignez-nous le 31  janvier et profitez d'une présentation de 40  minutes sur plus d'une quinzaine de jeux, comme Stellar  Blade et Rise  of  the  Rōnin → <https://cutt.ly/AwZFNDe8>
+
+
+
+Origaming -- Suicide Squad
+
+Suicide Squad: Kill the Justice League, sortie le 2 fév. sur PlayStation 5, Xbox Series et PC
+développé par Rocksteady, studio britannique 🇬🇧 basé à Londres d'environ 250 personnes, connu pour la série de jeux Batman Arkham
+🎶 musiques par Nick Arundel et Rupert Cross
+🎮 80 € ou + sur PlayStation (https://cutt.ly/ywZFwCu2) et Xbox (https://cutt.ly/xwZFw6xg)
+💻 70 € ou + sur Steam (https://s.team/a/315210) 
+
+raids entrants :
+- SegaMag à 22:33 +10
+
+raids : OrigaTwitch => (00:18) Shisheyu_Mayamoto (terminé à 02:42)
 
 
 
