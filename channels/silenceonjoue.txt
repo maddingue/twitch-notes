@@ -1534,10 +1534,88 @@ raids : SilenceOnJoue => (12:04)[+26] LeFrenchRestream
 
 Like a Dragon: Infinite Wealth 🐉 sorti le 25 jan. 2024 sur PlayStation, Xbox et PC / Steam Deck
 développé par 龍が如くスタジオ / Ryu Ga Gotoku Studio, division de Sega CS1 R&D, studio de plus de 300 personnes, responsable des jeux de la licence Yakuza → https://infinitewealth.sega.com | https://ryu-ga-gotoku.com
-💻 70 € ou + sur PlayStation (https://cutt.ly/uwL0Z9uo) et Xbox (https://cutt.ly/5wL0Z6Zf)
+🎮 70 € ou + sur PlayStation (https://cutt.ly/uwL0Z9uo) et Xbox (https://cutt.ly/5wL0Z6Zf)
 💻 70 € ou + sur Steam (https://s.team/a/2072450)
 
 raid : SilenceOnJoue => (12:11)[+39] samueletienne => (12:38)[+2513] Deujna => (14:37) Lapi (terminé à 20:30)
+
+
+--------------------------------------
+2024-01-29
+
+Gâchette Gauche s02.e04
+
+## Invités :
+» Moguri / Kevin Cicurel → 𝕏 https://twitter.com/El_Mogurito | 🟦 https://bsky.app/profile/elmogurito.bsky.social
+» Agar / Ambroise Garel → 𝕏 https://twitter.com/akaAgar | 🟦 https://bsky.app/profile/akaagar.bsky.social | 🌐 https://cafedefaune.net
+» Cassim Montilla → 𝕏 https://twitter.com/NotCassim | 🟦 https://bsky.app/profile/cassim.montilla.fr
+
+## sujet : IA génératives
+### Square Enix ❤️ IA
+» 🇺🇸 [Games Industry / 2 jan. 2024] New Square Enix president pledges "aggressive" AI push in 2024. Further blockchain and cloud investments also in the works → https://cutt.ly/ywJObh6h
+» 🇫🇷️ [Clubic / 2 jan. 2024] Après les NFT, Square Enix veut jouer à fond la carte de l'intelligence artificielle → https://cutt.ly/UwJ2Vfup
+» 💻 Square Enix AI Tech Preview: The Portopia Serial Murder Case, gratuit sur Steam → https://s.team/a/2280000
+
+### Nvidia ❤️ IA
+» 🇺🇸 Nvidia Avatar Cloud Engine (ACE) → https://developer.nvidia.com/ace
+» 🇺🇸 [Nvidia / 8 jan. 2024] Nvidia and developers pioneer lifelike digital characters for games and applications with Nvidia Avatar Cloud Engine. Nvidia ACE microservices debut with generative AI models that will change how people interact with digital avatars → https://cutt.ly/jwJ2V4hE
+
+### Electronics Arts ❤️ IA
+» 🇺🇸 [Read Write / 8 jan. 2024] Players allege Apex Legends is using AI art in its new Final Fantasy trailer → https://cutt.ly/xwJ2BgID
+» 🇺🇸 [The Gamer / date] Has Apex Legends used AI art for the Final Fantasy crossover? And if so, why? → https://cutt.ly/hwJ2BciS
+
+### Embark Studios ❤️ IA
+» 🇬🇧 [PC Gamer / 30 oct. 2023] The Finals uses AI text-to-speech because it can produce lines 'in just a matter of hours rather than months', baffles actual voice actors. "Why the fuck do AI voice people act like hiring voice actors is some kind of arcane ritual" → https://cutt.ly/hwJ2NaK2
+» 🇺🇸 [IGN / 30 oct. 2023] The Finals criticised by actors and devs for using AI-generated voice overs. The hit shooter has faced some controversy → https://cutt.ly/8wJ2NjBP
+
+### Les travailleureuses 💔 IA
+» 🇺🇸 [Aftermath / 9 jan. 2024] As video game industry goes all-in on AI, workers race to secure their rights. Execs want AI to be the next big thing, but workers won't accept it unless it's on their terms → https://cutt.ly/cwJ2N1Ox
+» [SAF-AFTRA / 9 jan. 2024] SAG-AFTRA and Replica Studios introduce groundbreaking AI voice agreement at CES → https://cutt.ly/vwJOg7nM
+
+### Le rapport compliqué des IA génératives au droit d'auteur
+» 🇺🇸 [The Verge / 16 jan. 2023] AI art tools Stable Diffusion and Midjourney targeted with copyright lawsuit. The suit claims generative AI art tools violate copyright law by scraping artists’ work from the web without their consent → https://cutt.ly/3wJ2M5sQ
+» 🇫🇷️ [Le Monde / 10 sept. 2023] L’intelligence artificielle peut-elle s’effondrer sur elle-même ? → https://cutt.ly/nwJ20viG
+» 🇫🇷️ [Le Monde / 12 déc. 2023] Amazon confronté à une déferlante de « faux livres » générés par intelligence artificielle. Le géant américain a réduit à trois le nombre de livres publiés chaque jour sur sa plate-forme Kindle Direct Publishing par un même « auteur », en obligeant à spécifier s’il a été écrit par IA. Sans donner de détails sur ses éventuelles sanctions → https://cutt.ly/RwJ22oaw
+» 🇫🇷️ [Frandroid / 2 jan. 2024] Midjourney a-t-il réellement admis le plagiat de 4700 artistes dont Boulet, Uderzo, Akira Toriyama et Carl Barks ? → https://cutt.ly/8wJ21OCW
+» 🇬🇧 [The Register / 8 jan. 2024] OpenAI: 'Impossible to train today’s leading AI models without using copyrighted materials'. As IEEE study shows super lab's neural nets can emit 'plagiaristic output' → https://cutt.ly/2wJ21ptY
+» 🇺🇸 [Fortune / 9 jan. 2024] What’s ‘impossible’ when it comes to AI and copyright → https://cutt.ly/swJ21dzO
+» 🇫🇷️ [Frandroid / 9 jan. 2024] OpenAI (ChatGPT) admet qu’il faut voler du contenu pour créer une IA → https://cutt.ly/awJ21D84
+» 🇺🇸 [SAF-AFTRA / 9 jan. 2024] SAG-AFTRA and Replica Studios introduce groundbreaking AI voice agreement at CES → https://cutt.ly/vwJOg7nM
+
+### Valve 🤷 IA
+» [Valve / 10 jan. 2024] Contenu généré par l'IA sur Steam → https://cutt.ly/CwJOlWTz
+» 🇫🇷️ [Frandroid / 10 jan. 2024] IA : Steam vient de retourner sa veste. Valve ouvre les vannes → https://cutt.ly/WwJ20t67
+
+### Enquête GDC
+» 🇺🇸 [Game Developer / 18 jan. 2024] GDC 2024 State Of The Game Industry: Devs discuss layoffs, generative AI, and more. Over 3,000 game industry professionals weighed in on this year's State of the Game Industry survey with opinions about layoffs, the use of generative AI, return-to-office policies, and more → https://cutt.ly/FwZdXxJL
+
+
+## sujet : abonnements, et la non possession des jeux
+» 🇺🇸 [Games Industry / 15 jan. 2024] The new Ubisoft+ and getting gamers comfortable with not owning their games. Ubisoft introduces its Classic service to PC; and 'more to come' on Activision Blizzard → https://cutt.ly/CwLu5Ga5
+» 🇺🇸 [Game Developer / 16 jan. 2024] Ubisoft reworks subscription service, hopes players will forget about ownership. The French publisher has some interesting ideas about what needs to happen for its subscription service to take flight → https://cutt.ly/YwZfHRci
+» 𝕏 [X (Twitter) / Swen Vincke / 17 jan. 2024] Whatever the future of games looks like, content will always be king. But it’s going to be a lot harder to get good content if subscription becomes the dominant model and a select group gets to decide what goes to market and what not. Direct from developer to players is the way. → https://cutt.ly/swLu6ny
+
+» 🇫🇷️ [Télérama / 22 mai 2023] Disney+ fait le ménage dans son catalogue : vers la fin de l’immortalité des séries ? Submergées de nouveautés et contraintes de faire des économies, certaines grandes plateformes de streaming retirent pour la première fois des séries maison. Celles qui ne font pas assez de vues sont déjà invitées à prendre la porte. → https://cutt.ly/ZwZfLM9c
+» 🇫🇷️ [Frandroid / 4 déc. 2023] Pourquoi Sony supprime-t-il des contenus achetés sur le PlayStation Store par les joueurs ? → https://cutt.ly/8wZfKZRp
+» 🇫🇷️ [Frandroid / 25 déc. 2023] Ma plateforme de streaming préférée n’est ni Netflix, ni Prime Video, mais… France.tv → https://cutt.ly/SwZfKsil
+
+
+--------------------------------------
+2024-02-02
+
+🎧 Gâchette Gauche #10 : IA, le jeu vidéo prompt à s'emballer ? → https://cutt.ly/gwXu685a
+
+🎧 Silence on joue ! S17.E26 - «Tekken 8», «Like a Dragon : Infinite Wealth», «Chronique des silencieux» → https://cutt.ly/FwXuAT6N
+
+Balatro 🃏 le 20 fév. 2024 sur Switch, PlayStation, Xbox et PC / Steam Deck
+édité par Playstack, développé par LocalThunk → https://playBalatro.com
+🎮 page PlayStation (https://cutt.ly/swXuKrld)
+💻 démo gratuite sur Steam (https://s.team/a/2379780)
+
+raids entrants :
+- FrandroidLive à 11:14 +97
+
+raids : SilenceOnJoue ~> (11:16) CanardPC
 
 
 --------------------------------------------------------------------------------
