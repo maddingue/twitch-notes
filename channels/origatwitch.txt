@@ -324,7 +324,7 @@ développé par Outerloop Games (Falcon Age), studio d'une quinzaine de personne
 💻 28 € sur Steam (https://s.team/a/1617220)
 
 excuses de sac :
-- on va se mqouer de mon gaming (Moguri)
+- on va se moquer de mon gaming (Moguri)
 - s'il y a un problème ce n'est pas ta faute, toi t'as fait ce qu'il fallait, ça retombera sur Sylvain (Moguri)
 - t'as vu ce qu'ils fait Lucie et Sylvain durant leur stream ? c'était n'importe quoi ! (Moguri)
 - parce que bon, on va pas vous faire la lecture non plus, hein ! (LaLinosse)
@@ -547,7 +547,7 @@ Jurassic Park 2: The Chaos Continues, sorti en 1994 sur Super Nintendo, publié 
 Jurassic Park 2: The Chaos Continues, sorti en 1995 sur Game Boy, publié et développé par Ocean Software
 
 excuses de sac :
-- oh non, j'étais en train de boire mon café ! (Gautoz, Jurassic Park (Game Boy))
+- oh non, j'étais en train de boire mon café ! ☕ (Gautoz, Jurassic Park (Game Boy))
 - c'est difficile de se tourner (Gautoz, Jurassic Park (Mega Drive))
 
 
@@ -1023,8 +1023,8 @@ excuses de sac :
 - mon train a été supprimé ce matin (Padre)
 - j'ai pas forcément très bien joué jusque là (Padre)
 - le parler jouer n'est vraiment pas ma came (Padre)
-- j'ai regardé le tchat ! (Padre)
-- la manette Xbox ! (Padre)
+- j'ai regardé le tchat ! 💬👀 (Padre)
+- la manette Xbox ! 🎮 (Padre)
 - je cherche le passage, j'ai pas le temps (Padre)
 
 
@@ -1484,7 +1484,7 @@ excuses de sac :
 - j'avais appuyé, elle est pas partie (Padre)
 - oh mais on la voit pas là ! purée, elle est affreuse celle-là ! (Padre)
 - mais wesh ! je sais plus qu'est-ce qui faut faire ! (Padre)
-- je n'arrive pas à lire le tchat (Padre)
+- je n'arrive pas à lire le tchat 💬👀 (Padre)
 - on va la faire comme ça pour des raisons de streamabilité (Padre)
 - la classique, Florian s'est encore gouré avec les distances (Padre)
 - je pensais pas qu'il allait se retourner (Padre)
@@ -1494,6 +1494,82 @@ raids entrants :
 - Le_Gobelin à 10:57 +9
 
 raids : OrigaTwitch => (12:48)[+145] At0mium [lesnumeriques=>(14:40)+131] [Harleen_Fae=>(14:44)+10] [Atko9090=>(15:10)+1] (terminé à 16:22)
+
+
+
+--------------------------------------
+2024-02-02
+
+» ▶️ [YouTube] Internet Exploeuses #2 -- VTubing et Accélérationnisme → https://youtu.be/QZGiEufFkyE
+» ▶️ [YouTube] Super Vieux Jeux #2 -- La 3D Isométrique d'hier à aujourd'hui → https://youtu.be/GYPuVfEY2SA
+» ▶️ [YouTube] La Mardinale → https://youtu.be/ZNcsIFK7MCE
+
+
+Hebdo #11
+
+## Actu
+» **Dragon Ball Sparking Zero**, annoncé sur PlayStation 5, Xbox Series et PC, développé par Spike Chunsoft → <https://cutt.ly/pwZ4230P> | <https://s.team/a/1790600>
+» ▶️ [YouTube] **Vampire: The Masquerade - Bloodlines 2 - Extended Gameplay Reveal** → <https://youtu.be/HwhvfH-Ij8Q>
+» ▶️ [YouTube] **Brothers: A Tale of Two Sons Remake**, le 28 fév. 2024 sur PlayStation 5, Xbox Series et PC → <https://youtu.be/adNAxn-NxK8>
+» 🇺🇸 [Games Industry / 29 jan. 2024] **Eidos Montreal lays off 97 staffers.** Alongside the latest Embracer redundancies was the cancellation of an unnamed Deus Ex project at the studio → <https://cutt.ly/cwZFXxW0>
+» 🇺🇸 [Kotaku / 14 jan. 2024] **Spec Ops: The Line removed from digital stores due to expiring licenses**. 2K confirmed that the game will no longer be available to purchase on digital storefronts → <https://cutt.ly/kwXU8yNW>
+» 🍓 **Celeste 64** 🎂 jouable pour Windows et Linux, gratuit sur itch.io → <https://cutt.ly/NwZFVz2I>
+» 🇺🇸 [Kotaku / 25 jan. 2024] **Thanks to new EU rules, Fortnite is coming back to iPhones.** Epic plans to bring its own third-party mobile store to iPhones later this year → <https://cutt.ly/TwL9f6EF>
+» 🇺🇸 [WCCF Tech / 24 jan. 2024] **The Callisto Protocol dev Striking Distance Studios working on a “brand new unannounced Unreal Engine 5 title”** → <https://cutt.ly/0wXU4btd>
+» Béta ouverte de Skull & Bones, du 8 au 11 fév. 2024 → <https://cutt.ly/IwXU4YTq>
+
+## Sorties
+» **Dragon Quest Builders**, le 13 fév. 2024 sur PC / Steam Deck, 28 € sur Steam → <https://s.team/a/2436570>
+» **Highwater**, le 14 mars 2024 sur consoles et PC → <https://s.team/a/2000960> | <https://demagogstudio.com/Highwater>
+» **Planet Zoo**, le 26 mars 2024 sur PlayStation et Xbox → <https://planetzoogame.com/console>
+» **Open Roads**, le 28 mars 2024 sur consoles et PC / Steam Deck → <https://annapurnainteractive.com/games/open-roads> | <https://s.team/a/1497360>
+
+## State of Play
+» jeux présentés lors du State of Play : Helldivers II | Stellar Blade | Sonic x Shadow Generations | Foamstars 🫧 | Dave the Diver (PS5) | V Rising | Silence Hill: Short Message | Silent Hill 2 | Judas | Metro Awakening (VR) | Legendary Tales (VR) | Dragon's Dogma II | Rise of the Rōnin | Until Dawn Remake | Death Strading 2 On the Beach | PHYSINT
+
+
+## Les jeux
+### Suicide Squad: Kill the Justice League
+- sorti le 2 fév. 2024 sur PlayStation 5, Xbox Series et PC
+- développé par Rocksteady, studio britannique 🇬🇧 basé à Londres d'environ 250 personnes, connu pour la série de jeux Batman Arkham
+- réalisé par Sefton Hill et Axel Rydby, direction artistique par David Hego, 🎶 musiques par Nick Arundel et Rupert Cross
+
+🎮 80 € ou + sur PlayStation (https://cutt.ly/ywZFwCu2) et Xbox (https://cutt.ly/xwZFw6xg)
+💻 70 € ou + sur Steam (https://s.team/a/2161700)
+
+
+### Persona 3 Reload
+- sorti le 2 fév. 2024 sur PlayStation 5, Xbox Series et PC
+- développé par P-Studio, division interne d'Atlus, studio japonais 🇯🇵 basé à Tokyo d'environ 340 personnes → https://p3re.jp/en/ | https://persona.atlus.com/p3r/
+- réalisé par Takuya Yamaguchi, conception dirigée par Yuichiro Takada, programmation dirigée par Tomohiko Imanishi, direction artistique par Azusa Shimada, Tomohiro Kumagai, Shigenori Soejima, 🎶 musiques par Atsushi Kitajoh
+- jeu original **Persona 3** sorti en juil. 2006 🇯🇵 / fév. 2008 🇪🇺 sur PlayStation 2, en nov. 2009 🇯🇵 / avril 2011 🇪🇺 sur PSP
+- réalisé par Katsura Hashino, conception dirigée par Daisuke Kanada, programmation dirigée par Hirokazu Tohyama, direction artistique par Shigenori Soejima, 🎶 musiques par Shoji Meguro
+
+🎮 70 € ou + sur PlayStation (https://cutt.ly/GwXph4Li)
+🎮 70 € ou inclus dans le Game Pass sur Xbox (https://cutt.ly/OwXpjEtM)
+💻 70 € ou + sur Steam (https://s.team/a/315210)
+
+
+## Mais pas que
+**Moguri**
+» 🕌 **Institut du monde arabe**, ouvert tous les jours du mardi au dimanche de 10:00 à 18:00 → <https://imarabe.org>
+- exposition **Parfums d'Orient**, du 26 sept. 2023 au 17 mars 2024 → <https://imarabe.org/expositions/parfums-d-orient>
+
+**LaLinosse**
+» 📺 **Aggretsuko / アグレッシブ烈子** (2018), série animée en 5 saison, 51 épisodes d'environ 15 min. chaque ; visible sur Netflix (https://netflix.com/title/80198505)
+
+**Gautoz**
+» 📺 **For All Mankind**, série en 4 saisons de 10 épisodes chaque, visible sur Apple TV+ (https://tv.apple.com/show/umc.cmc.6wsi780sz5tdbqcf11k76mkp7)
+» 📺 **Slow Horses** (2022), série TV en 3 saison (4e confirmée) de 18 épisodes de 40 à 50 min. chaque ; visible sur Apple TV+ (https://apple.com/tv-pr/originals/slow-horses/) et myCanal (https://www.canalplus.com/series/slow-horses/h/40000083_50696/saisons/)
+
+**Padre**
+» 📕 **Bram Stoker Dracula**, 224 p., dessiné par Georges Bess, publié le 19 oct. 2022 chez Glénat, édition normale à 27,50 € (<https://cutt.ly/dwXIue20>), édition prestige à 39 € (<https://cutt.ly/vwXIyFeZ>)
+» 📙 **Victor Hugo Notre-Dame de Paris**, 208 p. dessiné par Georges Bess, publié le 22 nov. 2023 chez Glénat, édition normale à 25,50 € (<https://cutt.ly/kwXIuVEE>), édition prestige à 39 € (<https://cutt.ly/pwXIu9yx>)
+» 📘 **Mary Shelley Frankenstein**, 208 p., dessiné par Georges Bess, publié le 24 nov. 2021 chez Glénat, édition normale à 25,50 € (<https://cutt.ly/KwXIifwZ>), édition prestige à 39 € (<https://cutt.ly/kwXIijSe>)
+
+
+excuses de sac :
+- c'est difficile à dire (Padre, intro)
 
 
 
@@ -1533,10 +1609,10 @@ raids : OrigaTwitch => (12:48)[+145] At0mium [lesnumeriques=>(14:40)+131] [Harle
 🛍️ code ORIGAMI sur TopAchat → https://secure.topachat.com/AffiliationCreator
 
 » Gautoz / Gauthier Andres → 𝕏 https://twitter.com/gautoz | 🟦 https://bsky.app/profile/gautoz.cool
-» Padre / Florian Velter → 𝕏 https://twitter.com/LePereFidalbion | 🟦 
+» Padre / Florian Velter → 𝕏 https://twitter.com/LePereFidalbion
 » Hoopy / Sylvain Tastet → 𝕏 https://twitter.com/_Hoopy | 🟦 https://bsky.app/profile/hoopyjv.bsky.social
 » Moguri / Kevin Cicurel → 𝕏 https://twitter.com/El_Mogurito | 🟦 https://bsky.app/profile/elmogurito.bsky.social
-» LaLinosse → 𝕏 https://twitter.com/HLinossier | 🟦 https://bsky.app/profile/hlinossier.bsky.social
+» LaLinosse / Héloïse Linossier → 𝕏 https://twitter.com/HLinossier | 🟦 https://bsky.app/profile/hlinossier.bsky.social
 » Medoc / Medhi Camprasse → 𝕏 https://twitter.com/Elmedoc | 🟦 https://bsky.app/profile/medoc.bsky.social
 » Cassim → 𝕏 https://twitter.com/NotCassim | 🟦 https://bsky.app/profile/cassim.montilla.fr
 » Lucie Ronfaut → 🌐 https://LucieRonfaut.com | 𝕏 https://twitter.com/LucieRonfaut | 🟦 https://bsky.app/profile/lucieronfaut.bsky.social
