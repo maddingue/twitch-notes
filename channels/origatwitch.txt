@@ -1731,23 +1731,28 @@ raids : OrigaTwitch => (23:44)[+219] ALaiseBlaze (terminé à 00:47)
 
 
 ## Actu
-» Until Then
-» Banishers de don't nod
-» The Thaumaturge
-» Final Fantasy VII Rebirth au State of Play
-» Yu gi ooh early days collection
-» ventes de Like a Dragon et P3Reload
-» Nintendo va mourir
-» Square Enix
-» PS5 Dual Sense
+### Bandes annonces
+» ▶️ [YouTube] Until Then - announce trailer → <https://youtu.be/PQQgY2fVTOY>
+» ▶️ [YouTube] Banishers: Ghosts of New Eden | official gameplay breakdown trailer → <https://youtu.be/1Om1xzwvr9E>
+» ▶️ [YouTube] The Thaumaturge | quest trailer → <https://youtu.be/V0B8jDcvd0s>
+» ▶️ [YouTube] Final Fantasy VII Rebirth → <https://youtu.be/m5KnfPgCBF0>
+» ▶️ [YouTube] Yu-Gi-Oh! Card Game 25th Anniversary → <https://youtu.be/pzfwDJzj188>
+» ▶️ [YouTube] Yu-Gi-Oh! Card Game The Chronicles → <https://youtu.be/27dAass0LRk>
+
+### Chiffres 📊
+» 🇺🇸 [SegaSammy / 2 févr. 2024] **Notice regarding Like a Dragon: Infinite Wealth.**  Reaches one million units shipped in first week; fastest-selling title in the series → <https://cutt.ly/vwVly1iM>
+» 𝕏 [X (ex Twitter) / Atlus / 8 févr. 2024] Persona 3 Reload sold 1,000,000 copies worldwide within its first week, becoming the fastest selling game in ATLUS history! 🎉 → <https://cutt.ly/1wVkhTmq>
+» 🟦 [BlueSky / oscar lemaire / 6 févr. 2024] bilan financier Nintendo pour les neuf premiers mois de l’année fiscale (avril 2023 à mars 2024) → <https://bsky.app/profile/oscarlemaire.bsky.social/post/3kkqa2r5nms2t>
+» 🇺🇸 [Games Industry / 5 févr. 2024] **Square Enix sales almost flat through first nine months of fiscal year.** The publisher's HD Games segment saw a 15% revenue increase as it launched multiple titles during the period → <https://cutt.ly/zwVloFII>
+» 🇫🇷 [PlayStation Blog] **La bêta pour PS5 ajoute des améliorations sonores, ainsi que des interactions pour le Partage d’écran, avec la manette DualSense** → <https://cutt.ly/EwVlo1jS>
 
 ## Sorties
-» Lightyear Frontier
-» Classified France '44
-» Tribes 3 Rivals
-» Life by You repoussé
-» Paralives repoussé
-» Homeworld 3 repoussé
+» **Lightyear Frontier**, en accès anticipé le 19 mars 2024 sur PC et Xbox Series
+» **Classified: France ’44**, sorti le 5 mars 2024 sur PlayStation 4, Xbox Series et PC
+» **Tribes 3: Rivals**, annoncé pour Q1 2024 sur PC
+» **Life by You**, annoncé sur PC, repoussé au 4 juin
+» **Paralives**, annoncé sur PC, repoussé à 2025
+» **Homeworld 3**, annoncé sur PC, repoussé au 13 mai 2024
 
 
 ## Les jeux
@@ -1759,7 +1764,6 @@ raids : OrigaTwitch => (23:44)[+219] ALaiseBlaze (terminé à 00:47)
 🎮 80 € sur PlayStation (https://cutt.ly/ywCSYGBw), démo disponible
 
 ### Like a Dragon: Infinite Wealth 🐉
-» Like a Dragon: Infinite Wealth 🐉 sorti le 25 jan. 2024, 70 € ou + sur PlayStation, Xbox et PC / Steam Deck, développé par 龍が如くスタジオ / Ryu Ga Gotoku Studio, division de Sega CS1 R&D
 - sorti le 25 jan. 2024 sur PlayStation, Xbox et PC / Steam Deck
 - développé par 龍が如くスタジオ / Ryu Ga Gotoku Studio, division de Sega CS1 R&D, studio japonais 🇯🇵 de plus de 300 personnes, responsable des jeux de la licence Yakuza → <https://infinitewealth.sega.com> | <https://ryu-ga-gotoku.com>
 - réalisé par Ryosuke Horii, conception dirigée par Hirotaka Chiba, programmation dirigée par Yutaka Ito, direction artistique par Nobuaki Mitake
@@ -1770,7 +1774,7 @@ raids : OrigaTwitch => (23:44)[+219] ALaiseBlaze (terminé à 00:47)
 » 🇺🇸 [Kotaku / 19 jan. 2024] Like A Dragon: Infinite Wealth new game plus seemingly paywalled. The game’s official site lists the bog-standard inclusion as a Deluxe Edition feature → https://cutt.ly/swLLX5mb
 » 🇬🇧 [The Guardian / 5 sept. 2020] Making a slow getaway: Japan's anti-yakuza laws result in cohort of ageing gangsters → https://cutt.ly/mwCAV469
 » 🇺🇸 [Washington Post / 17 oct. 2021] As Japan’s yakuza mob weakens, former gangsters struggle to find a role outside crime → <https://cutt.ly/GwCANSbn
-» 🇺🇸 [Asahi Shimbun / 24 mai 2023] Vox Populi: Local bylaws ironically force ex-yakuza back to criminal ways → https://asahi.com/ajw/articles/14915082
+» 🇺🇸 [Asahi Shimbun / 24 mai 2023] Vox Populi: Local bylaws ironically force ex-yakuza back to criminal ways → <https://asahi.com/ajw/articles/14915082>
 
 ### Helldivers II
 » Helldivers II, sorti le le 8 février 2024, 40 € sur PlayStation 5 et PC ; développé par Arrowhead (Magicka, Helldivers)
@@ -1791,14 +1795,14 @@ raids : OrigaTwitch => (23:44)[+219] ALaiseBlaze (terminé à 00:47)
 
 
 ## Mais pas que
-Olbius
+**Olbius**
 » 🎦 The Fall (2006), film cinéma de 117 min, réalisé par Tarsem Singh, musiques par Krishna Levy, avec Lee Pace, Catinca Untaru, Justine Waddell
 
-Padre
-» 📰 Les Jours → https://lesjours.fr
+**Padre**
+» 📰 Les Jours → <https://lesjours.fr>
 » 🛍️ offre couplée Canard PC + Les Jours → https://boutique.canardpc.com
 
-Moguri
+**Moguri**
 » 📘 Tokyo Vice, 480 p., par Jake Adelstein, EAN 979-10-95582-00-7, paru en 2016 chez Éditions Marchialy, 21,50 € → <https://www.editions-marchialy.fr/livre/tokyo-vice/>
 » 🎦 Tokyo Vice (2022), série TV d'une saison, une seconde en cours, 10 épisodes, créée par J. T. Rogers, musiques par Danny Bensi et Saunder Jurriaans, avec Ansel Elgort, Ken Watanabe, Rachel Keller, Hideaki Itō
 » 📘 Le dernier des yakuzas, 370 p, par Jake Adelstein, EAN 979-10-95582-21-2, paru en 2017 chez Éditions Marchialy, 21,50 € → <https://www.editions-marchialy.fr/livre/le-dernier-des-yakuzas/>
@@ -1868,7 +1872,7 @@ OriGaming
 
 Lysfanga: The Time Shift Warrior, sorti le 13 févr. 2024 sur PC
 publié par Quantic Dream, développé par Sand Door Studio, basé à Paris → https://lysfanga.com | https://s.team/a/2161620
-💻 xx € sur Steam (https://s.team/a/2161620)
+💻 25 € sur Steam (https://s.team/a/2161620)
 
 
 --------------------------------------
