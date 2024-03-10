@@ -11139,6 +11139,25 @@ raids : lesnumeriques => (13:36) mistermv (samedi) (>12:00)
 raids : lesnumeriques => (13:41)[+206] kenbogard => (14:20) DazJDM (>17:40) => (<18:55) franceinfo (terminé à 20:03)
 
 
+--------------------------------------
+2024-03-08
+
+» [Ars Technica] German man got 217 COVID shots over 29 months—here’s how it went. It conflicts with concerns of repeat boosters, but authors warn against hypervaccination → https://cutt.ly/2w1Ax2Hm
+» [le Monde] Sur la piste d’un antivenin universel. Des chercheurs ont mis au point un anticorps monoclonal qui protège les souris contre les cobras, les mambas et les bongares → https://cutt.ly/Vw1AWqzj
+» [Les Numériques] Lomomatic 110 : l’appareil argentique ultra compact qui vous donne un look d’espion → https://cutt.ly/tw1AYudH
+» [Les Numériques] Le chiffre : 33 % du prix du neuf, le "seuil psychologique" au-dessus duquel on ne répare plus nos appareils → https://cutt.ly/Pw1AAwg2
+» [L'usine digitale] Soutenue par Microsoft et OpenAI, Figure lève 675 millions de dollars pour son robot humanoïde → https://cutt.ly/kw1AVzyS
+» [Les Numériques] MacBook avec écran pliant : Apple lancerait un premier modèle d’ici trois ans → https://cutt.ly/ew1Alonr
+» [Les Numériques] Test MacBook Air 15 pouces M3 : l’ultraportable grand format d’Apple plus polyvalent et toujours aussi autonome → https://cutt.ly/1w1AkRjp
+» [Les Numériques] Nothing Phone (2a) : à peine dévoilé, les précommandes déjà lancées → https://cutt.ly/rw1AkZoC
+
+» [Les Numériques] Midjourney ou Google Gemini : quelle IA générative produit les meilleures images ? → https://cutt.ly/Jw1Al1bR
+
+raids entrants :
+- Prodimage à 12:34 +15
+
+raids : lesnumeriques => (13:34)[+157] Clemovitch => lamhua => (<17:12) kenbogard => Altis_play => inforea => Cyver__ => LexyWinchester_ => LilouKaboom => La_Capitainerie => (<02:30) EncreMecanique (>03:30)
+
 
 
 » ▶️ [YouTube] 
