@@ -10576,6 +10576,48 @@ jeu en cours :
 raids : Ramenos => (22:08)[+21] [teslagauss1884=>(23:34]+2] Seldell (lundi) (terminé à 00:04)
 
 
+--------------------------------------
+2024-03-17
+
+» 📄 [Euronews / 8 févr. 2024] Data of half the population of France stolen in its largest ever cyberattack. This is what we know → https://cutt.ly/Lw2fcrcG
+» 📄 [Bloomberg / 8 mars 2024] OpenAI’s GPT is a recruiter’s dream tool. Tests show there’s racial bias. Recruiters are eager to use generative AI, but a Bloomberg experiment found bias against job candidates based on their names alone → https://cutt.ly/Fw2fcbgh
+» [YouTube] Figure status update - OpenAI speech-to-speech reasoning → https://youtu.be/Sq1QZB5baNw
+» 📄 [Steam / 12 mars 2024] Crown Wars | New Release Date: May 23rd → https://cutt.ly/Vw2fv9Ir
+» Terra Memoria, le 27 mars 2024 sur Switch, PlayStation 5, Xbox Series et PC / Steam Deck → https://s.team/a/1912750
+» 📄 [TechDirt / 12 mars 2024]  Warner Bros. Discovery Disappears Games People Already Purchased → https://cutt.ly/aw2fnsPE
+» 📄 [Quarante-Douze / 10 mars 2024] Guide Linux – Choisir sa distribution → https://cutt.ly/vw2fmtA3
+» 📄 [Gaming on Linux / 14 jan. 2024] God of War is now on Steam and runs out of the box on Linux with Proton → https://cutt.ly/9w2fmETz | https://gog.com/game/god_of_war
+» Jupiter Hell, sorti le 5 août 2021 sur PC / Steam Deck, grosse mise à jour le 11 mars 2024 → https://s.team/a/811320
+» 📄 [Vie Publique / 5 mars 2024] DMA : le règlement sur les marchés numériques veut mettre fin à la domination des géants du Net → https://cutt.ly/Cw2fQopR
+» Suyu, open-source, non-profit Switch emulator → https://suyu.dev
+
+Death of a Wish, sorti le 11 mars 2024 sur Switch et PC / Steam Deck
+développé par melessthanthree
+🎮 en promo à 17,55 € sur Switch (https://cutt.ly/uw2uAovD)
+💻️ en promo à 17,55 € sur Steam (https://s.team/a/2302080), démo disponible
+💻️ en promo à 18 $ sur itch.io (https://cutt.ly/Iw2uARGQ), démo disponible
+> 18:41 - 19:33  |  52 minutes
+
+Chrono Trigger, sorti le 27 févr. 2018 sur PC / Steam Deck
+originellement sorti en 1995 sur Super Nintendo ; par la suite en 1999 sur PlayStation, en 2006 sur Nintendo DS, en 2011 sur mobiles
+originellement développé par Square ; réalisé par Takashi Tokita, Yoshinori Kitase et Akihiko Matsui, conception par Hironobu Sakaguchi, direction artistique par Akira Toriyama, Yasuhiko Kamata, Masanori Hoshino et Tetsuya Takahashi, écriture par Masato Kato, Takashi Tokita, Yoshinori Kitase et Yuji Horii, musiques par Yasunori Mitsuda et Nobuo Uematsu
+💻️ en promo à 7,50 € sur Steam (https://s.team/a/613830)
+> 19:36 - 21:46  |  2 heures 10 minutes
+
+Encased: A Sci-Fi Post-Apocalyptic RPG, version finale sortie le 7 septembre 2021 sur PC / Steam Deck
+après 3 ans d'accès anticipé, commencé le 26 septembre 2019
+développé par Dark Crystal Games, studio russe 🇷🇺 d'une quarantaine de personnes basé à Saint Petersbourg → https://DarkCrystalgAmes.com
+💻️ 30 € sur Steam (https://cutt.ly/UL7txwp) et GOG (https://cutt.ly/gL7tbcP)
+> 21:47 - 22:14  |  27 minutes
+
+jeu en cours : Encased: A Sci-Fi Post-Apocalyptic RPG -- déjà passés : Death of a Wish, Chrono Trigger
+> 18:06 - 22:15  |  4 heures 9 minutes de stream
+
+raids : Ramenos => (22:15)[+16] Seijouf (terminé à 23:50)
+
+
+
+
 Cosmic Express, sorti le 16 mars 2017 sur Android, iOS et PC / Steam Deck, le 2 sept. 2021 sur Switch
 publié et développé par Draknek & Friends, groupe de développeurs derrière les jeux Sokobond, A Good snowman is hard to build, A Monster's Expedition, Bonfire Peaks ; réalisé par Alan Hazelden, Benjamin Davis et Tyu, musiques par Nick Dymond
 📱 6 € sur Android (https://cutt.ly/Qw19SWOw), 7 € sur iOS (https://cutt.ly/Qw19SHdQ)
