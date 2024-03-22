@@ -2426,7 +2426,7 @@ raids : OrigaTwitch => (13:35)[+361] ATTENTIONalaFROUSSE (terminé à 15:27)
 
 
 --------------------------------------
-2024-03-08 -- Hebdo #15
+2024-03-08 -- Hebdo #16
 
 ## Actus
 ### Annonces et sorties
@@ -2627,7 +2627,7 @@ raids : OrigaTwitch => (12:41)[+250] NotPatrick (terminé à 14:07)
 
 
 --------------------------------------
-2024-03-15 -- Hebdo #16
+2024-03-15 -- Hebdo #17
 
 ## Actus
 ### Annonces et sorties
@@ -2791,6 +2791,157 @@ raids : OrigaTwitch => (15:22)[+744] SilenceOnJoue => (17:02)[+178] Ostpolitik =
 
 
 
+--------------------------------------
+2024-03-21 -- Internet Exploreuses #04
+
+## invitée
+» **Daisy Letourneur**, autrice, militante
+- 🟦 <https://bsky.app/profile/daisyletourneur.bsky.social> | 𝕏 <https://twitter.com/daisyletourneur> | 📷 <https://instagram.com/daisyletourneur>
+- 📄 blog **La Mecxpliqueuse** → <https://lamecxpliqueuse.wordpress.com>
+- 📗 **On ne naît pas mec**, 224 p., paru le 5 mai 2022 chez Zones, 18 € version papier (ISBN 9782355221521), 13 € version numérique (ISBN 9782355222023) → <https://editions-zones.fr/livres/on-ne-nait-pas-mec/>
+
+
+## sujet 1 : la (supposée) neutralité de Wikipédia
+» [Wikipédia] **Sondage/Mention du nom de naissance pour les personnes trans** → <https://cutt.ly/Dw278dt9>
+» [Nouvel Obs / 13 oct. 2022] **« Nous dénonçons le traitement que réserve Wikipédia aux personnes trans, non binaires et intersexes »** → <https://cutt.ly/Kw274rWN>
+» [Médiamétrie / 27 févr. 2024] **Audience Internet Global en France en janvier 2024** (PDF) → <https://cutt.ly/fw277Ig0>
+
+» **Jimmy Wales**, né en 1966, homme d'affaires anglo-américain
+- 1999, création de Bomis, au début portail d'information sur la ville de Chicago, qui va évoluer pour devenir un moteur de recherche de contenu érotique
+- 2000, création de Nupedia, projet d'encyclopédie libre, mais avec un processus strict de rédaction des articles, et système de relecture par des pairs ; ferme en 2003 avec moins de 30 articles finalisés ; visible sur Internet Archive (https://cutt.ly/rw9e1IeH)
+- 2001, création de Wikipédia
+
+» [Wikipédia] **Lucie Ronfaut-Hazard** → <https://cutt.ly/Nw25kclw>
+» **Nelly Darbois**, contributrice Wikipédia professionnelle → <https://cutt.ly/6w25kR0H>
+» [BNF] **Encyclopédie** de Diderot et d’Alembert → <https://cutt.ly/Kw9e9no8>
+» [Slate / 15 déc. 2021] **Comment les dictionnaires choisissent leurs mots et définitions** → <https://cutt.ly/Bw25tFja>
+» [Wikipédia] **Principes fondateurs** → <https://cutt.ly/Fw9e2JAw>
+» [Wikipédia] **Neutralité de point de vue** → <https://cutt.ly/2w25upgD>
+» [Le Monde / 16 févr. 2021] **Frédérique Vidal lance une enquête sur « l’islamo-gauchisme » à l’université.** La ministre de l’enseignement supérieur charge le CNRS de mener une « étude scientifique » pour définir « ce qui relève de la recherche et du militantisme » → <https://cutt.ly/Mw25ioMt>
+
+» [Cairn.info / févr. 2022] **Wikipédia, ou la discrète neutralisation de l’antiracisme.** Enquête sur la fabrique quotidienne d’un géant encyclopédique → <https://cutt.ly/qw25dfFh>
+» **Sihame Assbague**, journaliste et militante se réclamant de l'antiracisme politique
+
+» [Wikipédia] **Statistiques** → <https://cutt.ly/Vw25hs9Z>
+» [Wikimedia Foundation / 1er mars 2023] **Closing the gender gap: Women in Red’s efforts to add more women to Wikipedia** → <https://cutt.ly/uw9e7hSq>
+» [Wikipédia] **Projet Noircir Wikipédia** → <https://cutt.ly/Iw9e7ZX9>
+» 📗 **Au cœur du Z : Un journaliste a infiltré la campagne d’Éric Zemmour**, 304 p., par Vincent Bresson, publié le 17 févr. 2022 aux Éditions Goutte d’Or (<https://cutt.ly/kw9e5VIG>), 18 en version papier ISBN 979-10-96906-33-8
+» [Wikipédia] **Elliot Page** → <https://cutt.ly/rw25bPkK>
+
+
+## sujet 2 : on déteste les _storytimes_
+» **パフューム** / **Perfume**, groupe féminin de J-pop, formé en 2000 → <https://perfume-global.com>
+
+» [France Inter / 27 févr. 2024] **"Who tf did I Marry", la série de vidéo qui affole Tiktok** → <https://cutt.ly/Hw9rrptU>
+» » ▶️ [YouTube / 24 avr. 2005] **"Me at the zoo"** → <https://youtu.be/jNQXAC9IVRw>
+» 📕 **La Machine YouTube**, 240 p., par Yvette Assilaméhou-Kunz et Franck Rebillard, paru en déc. 2022 chez C&F Éditions, 26 € version papier ISBN 978-2-37662-061-7 → <https://cfeditions.com/youtube/>
+» **Yvette Assilaméhou-Kunz**, maîtresse de conférences en psychologie sociale, IRMÉCCEN, université Sorbonne Nouvelle
+
+» [le Monde / 7 mars 2024] **Comment les vidéos « Get Ready with Me » sont devenues un espace d’expression pour les femmes, de YouTube à TikTok** → <https://cutt.ly/3w9rihIM>
+» [le Parisien / 25 juil. 2023] **« Agression » de Crazy Sally : Air France offre un « avoir conséquent » à la vidéaste, qui va en faire don.** En juin dernier, Crazy Sally, influenceuse et vidéaste, avait dénoncé une « agression » de la part d’une hôtesse de l’air de la compagnie Air France. La jeune femme est revenue ce lundi sur la suite de l’affaire. → <https://cutt.ly/zw9roacs>
+
+» 📗 **Des femmes et du style. Pour un feminist gaze**, 232 p., par Azélie Fayolle, paru le 5 mai 2023 chez Éditions Divergences, 16 e version papier ISBN 9791097088583 → <https://cutt.ly/Fw9rtBX1>
+» **Azélie Fayolle**, chercheuse en littérature, postdoctorante à l’Université Libre de Bruxelles, agrégée de lettres modernes ; anime la chaîne YouTube _Un grain de lettres_
+
+» [le Parisien / 20 févr. 2024] **C’est quoi « Abrège frère », ce compte TikTok accusé de vouloir faire taire les femmes ?** Le concept du compte @abregefrere est de faire un court résumé des vidéos « trop longues » qui circulent sur les réseaux sociaux → <https://cutt.ly/Fw9rscbd>
+» abregefrere → ♪ <https://tiktok.com/@abregefrere>
+» reflechis_frere → ♪ <https://tiktok.com/@reflechis_frere> | 📷 <https://instagram.com/reflechis_frere>
+
+## compte privé
+» **20 000 espèces d’abeilles** (2023), film cinéma réalisé par Estibaliz Urresola Solaguren, avec Sofía Otero, Patricia López Arnaiz, Ane Gabarain, Itziar Lazkano, Sara Cózar
+» ▶️ [YouTube / Le ciné-club de M. Bobine / 23 déc. 2022] **Aquaman et le phénomène des "mashup movies", l'analyse de M. Bobine** → <https://youtu.be/y4zG3o3ca1E> (30 min)
+» [Reddit / 14 juin 2019] **Thanks, I hate batman, shrek, waynze gretzky and sonic** → <https://cutt.ly/5w9rkuox>
+» [Libération / 18 jan. 2024] **La disparition annoncée de Pitchfork, une très mauvaise nouvelle pour la musique** → <https://cutt.ly/Jw257JIV>
+
+## mèmesplique-moi
+» **dayonu** → <https://tiktok.com/@dayonu_00>
+» [Polygon / 8 mai 2023] **Why sad TV men are the internet’s ‘babygirls’** → <https://cutt.ly/ew26rx3m>
+
+## va toucher de l'herbe
+» [CNN / 18 mars 2024] **Inventor of first karaoke machine, Shigeichi Negishi, dies aged 100** → <https://cutt.ly/Kw26iFCz>
+» [Les Echos / 20 avril 2018] **Karaoké : on connaît (ou non) la chanson !** Ringard, le karaoké? Cette pratique nippone n'a jamais été aussi populaire à travers le monde. En France, les lieux dédiés se multiplient. Vaincre sa timidité, tisser du lien, évacuer le stress, les bienfaits de ce loisir singulier sont plus nombreux qu'il n'y paraît. → <https://cutt.ly/3w9rm61K>
+» [Les Echos / 20 avril 2018] **Comment BAM Box a fait décoller le business du karaoké en salle privatisée.** Debout, micro, seul en scène… Jusqu'ici aller au karaoké était pour certains synonyme de pire cauchemar. Mais aujourd'hui, de plus en plus de salles proposent des boxes privatifs entre copains ou collègues. Zoom sur un business florissant → <https://cutt.ly/Xw9rQgSY>
+» ▶️ [YouTube] **Karaoké - Bande-annonce officielle** → <https://youtu.be/ESOtnbmkq2E>
+
+» **Furax**, les 5, 6 et 7 avril 2024 → <https://onestfurax.fr>
+
+
+
+--------------------------------------
+2024-03-22 -- Hebdo #18
+
+## Actus
+### Annonces et sorties
+» 🇫🇷 [ActuGaming / 18 mars 2024] **PS VR2 : Selon Bloomberg, Sony aurait suspendu la production de son casque en attendant d’écouler ses stocks actuels** → <https://cutt.ly/Aw2D9eLQ>
+» 🇺🇸 [Kotaku / 18 mars 2024] **_Overwatch 2_ devs fear story missions have been canceled.** The PvE campaign was pitched as the sequel’s big pillar, now ex-devs tell Kotaku its future is unclear → <https://cutt.ly/Mw2FppCq>
+» **Cities: Skylines II**
+- 🇺🇸 [Steam / 18 mars 2024] Beach properties asset pack & modding wavelet patch announcement → <https://cutt.ly/Uw9hwsHw>
+- 🇺🇸 [Steam / 19 mars 2024] Modding dev diary #1; Paradox Mods in Cities: Skylines II → <https://cutt.ly/Dw9hqBDq>
+- 🇺🇸 [Steam / 20 mars 2024] Modding dev diary #2 → <https://cutt.ly/fw9hqOe8>
+- 🇺🇸 [Steam / 21 mars 2024] Modding dev diary #3 → <https://cutt.ly/Fw9hqxcy>
+» 𝕏 [X (ex Twitter) / Balatro / 18 mars 2024] This morning Balatro hit a momentous milestone... ONE MILLION COPIES SOLD! → <https://cutt.ly/cw2Fti0T>
+» 🇺🇸 [Steam / Deep Rock Galactic Survivor / 15 mars 2024] A MILLION thanks! → <https://cutt.ly/Yw2FyyRP>
+» 𝕏 [X (ex Twitter) / Wo Long: Fallen Dynasty / 15 mars 2024] Wo Long: Fallen Dynasty has reached over 5 million militia warriors! → <https://cutt.ly/kw2FocAw>
+» **Alpha Protocol** de retour sur GOG, et en promotion à 18 € → <https://cutt.ly/Uw9hedUW>
+» 🇫🇷️ [ActuGaming / 20 mars 2024] **Project Birdseye : Un nouveau jeu tiré de l’univers de The Callisto Protocol montre ses premières images** → <https://cutt.ly/Yw9iF7zn>
+» 𝕏 [X (ex Twitter) / Broken Roads / 21 mars 2024] Survive, form bonds, and make tough choices in Broken Roads across the post-apocalyptic Australian outback. Begin your unforgettable journey on April 10th, 2024. Wishlist Now: <https://s.team/a/1403440> → <https://cutt.ly/nw9hrj7s>
+» 🇫🇷 [ActuGaming / 18 mars 2024] **Fatal Fury: City of the Wolves arrivera début 2025 et dévoile enfin du gameplay** → <https://cutt.ly/0w9hrJG8>
+
+### Future Games Show
+» **Knights in Tight Spaces**, annoncé sur PC / Steam Deck → <https://knightsintightspaces.com> | <https://s.team/a/2315400>
+» **Tails of Iron 2: Whiskers of Winter**, annoncé sur PC / Steam Deck → <https://s.team/a/2473480>
+» **Indika**, le 8 mai 2024 sur PlayStation 5, Xbox Series et PC / Steam Deck → <http://www.indikathegame.com> | <https://s.team/a/1373960>
+» **Worshippers of Cthulhu**, en accès anticipé sur PC Q2/Q3 2024, sur PlayStation 5 et Xbox Series en 2025 → <https://s.team/a/2807150>
+» **Still Wakes the Deep**, le 18 juin 2024 sur PlayStation 5, Xbos Series et PC → <https://stillwakesthedeep.com> | <https://s.team/a/1622910>
+» **Project Mango**, collaboration entre Toukana Interactive (Dorfromantik) et Kurzgesagt prévue pour 2025 → <https://toukana.com/project-mango>
+» **Hauntii**, le 23 mai 2024 sur Switch, PlayStation, Xbox et PC / Steam Deck → <https://hauntii.com/> | <https://s.team/a/2060790>
+» **Harold Halibut**, le 16 avril 2024 sur Switch, PlayStation, Xbox (Game Pass) et PC / Steam Deck → <http://haroldhalibut.com> | <https://s.team/a/924750>
+» **Pipistrello and the Cursed Yoyo**, annoncé sur PC / Steam Deck → <https://s.team/a/2870350>
+
+### QSMP
+» 🇫🇷 [Konbini / 30 juin 2023] **QSMP : on vous explique tout sur ce serveur Minecraft international où Antoine Daniel, Baghera, Etoiles et Aypierre croisent le monde entier** → <https://cutt.ly/Zw9auFQ6>
+» 🇫🇷 [Konbini / 6 mars 2024] **Bénévolat passionné ou travail dissimulé ?** On a discuté avec les petites mains de l’ombre du serveur international QSMP → <https://cutt.ly/Gw9apBrn>
+» 𝕏 [X (ex Twitter) / Pomme 🍎 / 21 mars 2024] Je suis l'admin de Pomme. Voici mon histoire et mon expérience sur le QSMP/avec Quackity Studios. Merci pour tout le soutien → <https://cutt.ly/Pw9adQ1N>
+» 📄 [Google Docs] **Lettre de la part de Pomme** 🍎 → <https://cutt.ly/yw9ad9TY>
+» 🇫🇷 [Solidaires Informatique / 20 mars 2024] **SQMP - résumé de la situation** → <https://cutt.ly/xw9asnhV>
+
+## Les jeux
+### Rise of the Rōnin
+» Rise of the Rōnin, sorti le 22 mars 2024 sur PlayStation 5, à partir de 60 € en grande distribution, 80 € sur PSN ; publié par Sony, développé par Team Ninja
+- sorti le 22 mars 2024 sur PlayStation 5
+- publié par Sony Interactive Entertainment, développé par le studio japonais 🇯🇵 Team Ninja, derrière les Wo Long: Fallen Dynasty, Nioh, les Ninja Gaiden, les Dead or Alive → <https://playstation.com/games/rise-of-the-ronin/>
+- réalisé par Fumihiko Yasuda, musiques par Inon Zur
+
+🎮 à partir de 60 € en grande distribution
+🎮 80 € sur PlayStation (<https://cutt.ly/rw9iJ0BG>)
+
+### Alone in the Dark
+» Alone in the Dark, sorti le 20 mars 2024, 60 € sur PlayStation 5, Xbox Series et PC / Steam Deck ; publié par THQ Nordic, développé par Pieces Interactive (Magicka 2)
+- sorti le 20 mars 2024 sur PlayStation 5, Xbox Series et PC / Steam Deck
+- publié par THQ Nordic, développé par Pieces Interactive (Magicka 2) → <https://AloneInTheDark.THQNordic.com>
+- réalisé par Mikael Hedberg, direction artistique par Guy Davis, écriture par Mikael Hedberg, musiques par Jason Köhnen et Árni Bergur Zoëga
+- jeu original sorti en 1992 sur PC MS-DOS, en 1994 sur 3DO et Mac ; développé par Infogrames ; réalisé par Frédérick Raynal, scénario par Hubert Chardot, musiques par Philippe Vachey
+
+🎮 60 € sur PlayStation (<https://cutt.ly/nw9iXuva>) et Xbox (<https://cutt.ly/cw9iXbVh>)
+💻️ 60 € sur Steam (<https://s.team/a/1310410>)
+
+## Mais pas que
+**Padre**
+» 📕 **Le traître et le néant − Macron : l'enquête**, 672 p., par Gérard Davet et Fabrice Lhomme, publié le 16 mars 2022 chez Fayard, 12 € version papier EAN 9782818506790 → <https://cutt.ly/Lw9seP84>
+- 🇫🇷 [France Inter / 11 oct. 2021] **"Le traître et le néant" : quatre choses à retenir du livre de Davet et Lhomme sur Emmanuel Macron** → <https://cutt.ly/Hw9semki>
+
+**Moguri**
+» 📘 **Vagabond**, par Takehiko INOUE, manga en 37 tomes, publié chez Delcourt Tonkam → <https://editions-delcourt.fr/mangas/series/serie-vagabond>
+- adapté de _La Pierre et le Sabre_, premier tome du roman _Musashi_ par Eiji Yoshikawa, paru entre 1935 et 1939
+
+**Hoopy**
+» 📺 **100% physique** (2023), série en deux saisons par Jang Ho-gi, disponible sur Netflix → <https://netflix.com/title/81587446>
+
+raids : OrigaTwitch => (15:36)[+] CanardPC (>18:00) => DamDamLive => (23:09)[+527] Nefercali (>23:10)
+
+
+
+
 » 🇺🇸 
 » 🇫🇷 
 » 🇯🇵 
@@ -2816,7 +2967,7 @@ raids : OrigaTwitch => (15:22)[+744] SilenceOnJoue => (17:02)[+178] Ostpolitik =
 
 » retrouvez Origami sur vos réseaux : 💬 https://discord.gg/5DMdurCBfn | 🐦 https://twitter.com/OrigaTwi | 🟦 https://bsky.app/profile/origasky.bsky.social | 📷 https://instagram.com/origagram/ | 📺 https://youtube.com/@origatube | ♪ https://tiktok.com/@origatik | 💰 https://patreon.com/OrigamiMedia
 
-🌴 https://origami.ng/
+🌴 https://origami.ng
 📡 Origami sur Twitch → https://twitch.tv/origatwitch
 💬 Origami sur Discord → https://discord.gg/5DMdurCBfn
 🐦 Origami sur Twitter → https://twitter.com/OrigaTwi
