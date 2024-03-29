@@ -11280,23 +11280,43 @@ raids : lesnumeriques => (13:58)[+188] LamHua => (18:08)[+190] DazJDM => (<20:35
 raids : lesnumeriques => (13:33)[+164] OrigaTwitch => (15:24)[+274] TiTavion [Protsky=>(17:07)+34] [WargameSpirit=>(19:08]+191] (>21:30)
 
 
+--------------------------------------
+2024-03-29
+
+» [Tech.eu / 22 mars 2024] Meatable can now transform cultivated cells into sausages in a record four days → https://cutt.ly/ow3v2SyR
+» 🇫🇷 [Les Numériques] Supersonic Nural : Dyson rend son sèche-cheveux iconique plus intelligent → https://cutt.ly/gw3v7bOH
+» [Mac Rumors / 28 mars 2024] Oregon's new right to repair law bans 'parts pairing' restrictions → https://cutt.ly/Ew3beex3
+» 🇫🇷 [Les Numériques / 28 mars 2024] L'Oregon montre la voie en bannissant cette pratique anti-réparations d'Apple → https://cutt.ly/Sw3beLN8
+» [Notebook Check] MSI Spatium M580: Extremely fast PCIe 5.0 SSD with large heatsink → https://cutt.ly/jw3buFgG
+» 🇫🇷 [Les Numériques] 50mm f/1.2 DG DN Art : Sigma lance le 50 mm f/1,2 le plus léger et le moins cher du marché → https://cutt.ly/Ww3boY6j
+» [OpenAI / 25 mars 2024] Sora: first impressions. We have gained valuable feedback from the creative community, helping us to improve our model → https://openai.com/blog/sora-first-impressions
+» 🇫🇷 [Ludovox] IA : Polémique pour le nouveau Puerto Rico 1897 → https://cutt.ly/Uw3bcymA
+» 🇫🇷 [Les Numériques] Une interface dopée à l'IA pour contrôler son ordinateur par la voix et à distance → https://cutt.ly/5w3bb3eW
+» 🇫🇷 [Les Numériques] Test Samsung 65S95D : le meilleur téléviseur QD-Oled fait la chasse aux reflets → https://cutt.ly/9w3bS5fO
+
+» Intel 4004, processeur 4-bit cadencé à 740 kHz sorti en novembre 1971
+
+raids entrants :
+- FrandroidLive à 10:57 +46
+
+raids : lesnumeriques => (13:46)[+132] CabriDIY => (<14:43) Clic_Argentique (>18:00) => inforea => LexyWinchester_ => La_Capitainerie => (23:36) Papajoue (>00:15)
+
 
 
 » ▶️ [YouTube] 
 » 🐦 [Twitter] 
 » 𝕏 [X (ex Twitter)] 
 » 🐘 [Mastodon]
-» [Les Numériques] 
-» [Gamekult] 
-» [ZDNet France] 
-» [CNET France] 
-» [Ars Technica] 
-» [The Verge] 
-» [XDA Developers] 
-» [VICE Motherboard] 
-» [Engadget] 
-» [AnandTech] 
-» [Twitter] 
+» 🇫🇷 [Les Numériques] 
+» 🇫🇷 [Gamekult] 
+» 🇫🇷 [ZDNet France] 
+» 🇫🇷 [CNET France] 
+» 🇺🇸 [Ars Technica] 
+» 🇺🇸 [The Verge] 
+» 🇺🇸 [XDA Developers] 
+» 🇺🇸 [VICE Motherboard] 
+» 🇺🇸 [Engadget] 
+» 🇺🇸 [AnandTech] 
 
 
 Kappa 🥁
