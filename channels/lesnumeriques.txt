@@ -11299,7 +11299,7 @@ raids : lesnumeriques => (13:33)[+164] OrigaTwitch => (15:24)[+274] TiTavion [Pr
 raids entrants :
 - FrandroidLive à 10:57 +46
 
-raids : lesnumeriques => (13:46)[+132] CabriDIY => (<14:43) Clic_Argentique (>18:00) => inforea => LexyWinchester_ => La_Capitainerie => (23:36) Papajoue (>00:15)
+raids : lesnumeriques => (13:46)[+132] CabriDIY => (<14:43) Clic_Argentique (>18:00) => inforea => LexyWinchester_ => La_Capitainerie => (23:36) Papajoue (>02:05) => (<10:53) SaynJon (samedi) (dimanche) (lundi) (>03:39)
 
 
 
