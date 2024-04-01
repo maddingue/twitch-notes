@@ -10649,6 +10649,55 @@ réalisé par Gareth Damian Martin, direction artistique par Guillaume Singelin,
 raids : Ramenos => (21:39)[+17] Seijouf => (23:27)[+41] WingTsun_Lee (>23:30)
 
 
+--------------------------------------
+2024-03-31
+
+» 📄 [Ars Technica / 20 mars 2024] GPT-5 might arrive this summer as a “materially better” update to ChatGPT. Sources say to expect OpenAI's next major AI model mid-2024, according to a new report → https://cutt.ly/1w3LiBs3
+» 📄 [Harvard Business Review / 19 mars 2024] How People Are Really Using GenAI → https://cutt.ly/pw3LojBV
+» 📄 [Rock Paper Shotgun / 18 mars 2024] You'll soon be able to play GOG games away from your PC through Amazon Luna. GOG teaming up with Amazon's cloud gaming platform → https://cutt.ly/uw3LoYtg
+» Mirthwood, annoncé pour Q3 2024, développé par Bad Ridge Games → https://s.team/a/2272900 | https://badridgegames.com
+» 📄 [France Info / 19 mars 2024] "Rationner internet" : que peut-on faire avec 3 Go, limite hebdomadaire évoquée par Najat Vallaud-Belkacem pour assainir "nos rapports aux écrans" ? La proposition formulée par l'ancienne ministre de l’Education nationale dans une tribune au "Figaro" impliquerait de changer largement nos habitudes → https://cutt.ly/9w3LsYtw
+» 📄 [TechCrunch / 26 mars 2024] Facebook snooped on users’ Snapchat traffic in secret project, documents reveal → https://cutt.ly/Kw3LpBM9
+» 🎧 podcast Le café de l'e-commerce → https://lecafedelecommerce.fr
+» 📄 [Le Parisien / 29 mars 2024] Achat de données personnelles pour 100 euros : la marketplace Temu supprime son offre → https://cutt.ly/Tw3Lp6dy
+» Slice & Dice, sorti le 20 mars 2024 sur Windows, Mac, Linux et Steam Deck, développé par Tann, 9 € sur Steam, démo disponible → https://s.team/a/1775490
+» 📄 [Bethesda] The Elder Scrolls Arena → https://elderscrolls.bethesda.net/arena
+» 📄 the triple-i initiative, conférence de jeux indés le 10 avril à 19:00 CEST → https://iii-initiative.com
+» 📄 [Stunlock / 26 mars 2024] Legacy of Castlevania is coming to V Rising on May 8th! → https://cutt.ly/lw3LfmgC
+
+
+Terra Memoria, sorti le 27 mars 2024 sur Switch, PlayStation 5, Xbox Series et PC / Steam Deck
+publié par Dear Villagers, développé par La Moutarde, studio français de 5 personnes derrière Old School Musical (2018) → https://lamoutarde.io
+🎶 musiques par Yponeko, 7 € sur Bandcamp (https://cutt.ly/1w3Ze81A) → https://yponeko.com
+🎮 en promo à 17 € sur Switch (https://cutt.ly/xw3OlWSf), PlayStation (https://cutt.ly/ow3OlFmv) et Xbox (https://cutt.ly/Gw3OlXQp)
+💻️ en promo à 17 € sur Steam (https://s.team/a/1912750)
+> 19:14 - 21:36  |  2 heures 22 minutes
+
+Captain Velvet Meteor: The Jump+ Dimensions, sorti le 17 déc. 2023 sur Android et iOS, le 1er mars 2024 sur Switch, Xbox Series et PC / Steam Deck
+publié par Shueisha Games, développé par Momo-π, studio indé de quelques personnes réparties dans le monde, en particulier Suisse et Japon, derrière les jeux Spirit (2016) et Persephone (2020) → https://momo-pi.com/captain-velvet-meteor/
+📱 inclus dans l'abonnement Crunchyroll Mega Fan sur Android (https://cutt.ly/uw3OA3FI) et iOS (https://cutt.ly/5w3OSjfb)
+🎮 édition physique sur Switch prévue Q2 2024, par Red Art Games (https://cutt.ly/Ww3OFtb2)
+🎮 21 € sur Switch (https://cutt.ly/5w3OWWOs) et Xbox (https://cutt.ly/7w3OWVmC)
+💻️ 21 € sur Steam (https://s.team/a/2222950), démo disponible
+> 21:39 - 23:18  |  1 heure 39 minutes
+
+Darkest Dungeon II, sorti le 8 mai 2023 sur PC / Steam Deck
+développé par Red Hook Studios, studio de 10 personnes basé à Vancouver, Canada 🇨🇦→ https://RedHookGames.com | https://DarkestDungeon.com
+⌨️ 🖱️ 39 € sur Steam (https://s.team/a/1940340) et EGS (https://cutt.ly/t1Fbsez) 
+> 23:20 - 23:53  |  33 minutes
+
+jeu en cours : Darkest Dungeon II -- déjà passés : Terra Memoria, Captain Velvet Meteor: The Jump+ Dimensions 
+> 18:19 - 23:54  |  5 heures 35 minutes de stream
+
+raids : Ramenos => (23:56)[+19] Seldell => (00:38)[+59] Bestiyo (terminé à 01:00)
+
+
+
+Jupiter Hell, sorti le 5 août 2021 sur Windows, Mac, Linux et Steam Deck
+développé par ChaosForge, studio polonais 🇵🇱 de quelques personnes basé à Wrocław, fondé par Kornel Kisielewicz, créateur de Doom RogueLike → https://JupiterHell.com | https://ChaosForge.org
+📰 [Steam] Jupiter Hell 1.8 - Abattoir! → https://cutt.ly/6w3Omrch
+💻️ 21 € sur Steam (https://s.team/a/811320)
+💻️ en promo à 8,40 € sur GOG (https://cutt.ly/Ew3Ob7jU)
 
 Cosmic Express, sorti le 16 mars 2017 sur Android, iOS et PC / Steam Deck, le 2 sept. 2021 sur Switch
 publié et développé par Draknek & Friends, groupe de développeurs derrière les jeux Sokobond, A Good snowman is hard to build, A Monster's Expedition, Bonfire Peaks ; réalisé par Alan Hazelden, Benjamin Davis et Tyu, musiques par Nick Dymond
