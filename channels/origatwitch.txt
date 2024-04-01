@@ -3080,6 +3080,85 @@ raids : OrigaTwitch => (15:24)[+274] TiTavion [Protsky=>(17:07)+34] [WargameSpir
 
 
 
+--------------------------------------
+2024-03-29 -- Hebdo #19
+
+## Invité
+» Ken Bruno, assistant d'édition chez Third Éditions
+- réseaux sociaux : 𝕏 https://twitter.com/FunKDreamer | 🟦 https://bsky.app/profile/funkdreamer.bsky.social
+- auteur des livres _Afro Samurai_ et _Streets of Rage_ chez Third Éditions (https://www.thirdeditions.com/45_ken-bruno)
+- merugezu le podcast → https://merugezu.com | 𝕏 https://twitter.com/merugezu | 🟦 https://bsky.app/profile/merugezu.com | ▶️ https://youtube.com/merugezu
+
+## Actus
+### Annonces et sorties
+» 🇫🇷 [ActuGaming / 27 mars 2024] **It Takes Two s’est écoulé à 16 millions d’exemplaires** → <https://cutt.ly/Ow3OZPhL>
+» 🇫🇷 [ActuGaming / 28 mars. 2024] **Gearbox se fait racheter par Take Two et confirme un nouveau jeu Borderlands en production** → <https://cutt.ly/cw3OXd8k>
+» 🇫🇷 [ActuGaming / 28 mars. 2024] **Sega revend Relic Entertainment et licencie 240 personnes en Europe et chez Creative Assembly** → <https://cutt.ly/7w3OXLN5>
+» 🇫🇷 [ActuGaming / 25 mars 2024] **Final Fantasy XIV: Dawntrail sera disponible dès le 2 juillet, une édition collector au programme** → <https://cutt.ly/4w99mTGf>
+» 🇫🇷 [ActuGaming / 25 mars 2024] **Final Fantasy IX : Le retour de cet épisode est de plus en plus suggéré par Square Enix** → <https://cutt.ly/lw99mZiZ>
+» 🇫🇷 [ActuGaming / 22 mars 2024] **Final Fantasy XVI : Le DLC The Rising Tide s’illustre avec un trailer épique et une date** → <https://cutt.ly/ww99QuVA>
+» 🇺🇸 [Obsidian / 25 mars 2024] **Get ready to flex in 'Grounded' with the upcoming 'fully yoked' 1.4 update** → <https://cutt.ly/Fw3OCXpF>
+» 🇫🇷 [ActuGaming / 22 mars 2024] **Larian Studios ne sortira aucun DLC pour Baldur’s Gate 3, ni Baldur’s Gate 4** → <https://cutt.ly/gw99QPNe>
+» 🇫🇷 [ActuGaming / 27 mars 2024] **NetEase annonce Marvel Rivals, un shooter PvP à la sauce Overwatch avec tous les plus grands super-héros** → <https://cutt.ly/Bw3OVzQU>
+» **The Operator**, annoncé pour Q3 2024 sur PC → <https://s.team/a/1771980>
+
+### Super Mario Maker
+» sorti en septembre 2015 sur Wii U, en décembre 2016 sur 3DS ; développé par Nintendo EAD, réalisé par Yosuke Oshino
+» 𝕏 [X (ex Twitter)] **Team 0%** → <https://twitter.com/team0percent>
+» **Is Super Mario Maker beaten yet?** → <https://issmmbeatenyet.com>
+» ▶️ [YouTube / Ahoyo / 21 août 2017] **Trimming the Herbs** → <https://youtu.be/siz4oB4CGKo>
+» 🇫🇷 [Thierry Falcoz / 29 mars 2024] **L’incroyable histoire du Game Over de Super Mario Maker !** → <https://cutt.ly/vw3ON8sz>
+» 🎧 **Pixel bento** le podcast → <https://pixelbento.fr>
+
+## Les jeux
+### Dragon's Dogma II
+» Dragon's Dogma II, sorti le 22 mars 2024, 75 € sur PlayStation 5, Xbox Series, 65 € sur PC → https://dragonsdogma.com/2/
+- sorti le 22 mars 2024 sur PlayStation 5, Xbox Series et PC
+- publié et développé par Capcom → https://dragonsdogma.com/2/
+- réalisé par Hideaki Itsuno, direction artistique par Daigo Ikeno, écriture par Makoto Ikehara et Bingo Morihashi, musiques par Satoshi Hori, Hana Kimura, Masahiro Oki et Shusaku Uchiyama
+
+🎮 75 € sur PlayStation (https://cutt.ly/qw3c6xGC) et Xbox (https://cutt.ly/rw3c6RjE)
+💻️ 65 € ou + sur Steam (https://s.team/a/2054970)
+
+» 🇬🇧 [VGC / 22 mars 2024] **Capcom has responded to criticism of Dragon’s Dogma 2’s paid DLC and performance issues.** “We sincerely apologize for any inconvenience” → https://cutt.ly/Sw99W0zc
+» 🇫🇷 [ActuGaming / 22 mars 2024] **Dragon’s Dogma 2 est enfin disponible, mais le jeu se fait critiquer sur Steam à cause de ses microtransactions et de Denuvo** → <https://cutt.ly/2w99QKBs>
+
+» 🇬🇧 [VGC / 25 mars 2024] **Capcom lists Dragon’s Dogma 2 update plans, including New Game and a 30fps cap.** The updates are coming “in the near future” → <https://cutt.ly/nw99EoW2>
+» 🇫🇷 [ActuGaming / 25 mars 2024] **Dragon’s Dogma 2 : Capcom fait le point sur les mises à jour à venir pour le jeu** → <https://cutt.ly/Ew99Q1i8>
+
+» ▶️ [YouTube / Origami / 26 mars 2024] **Comment Capcom a bâclé le lancement de Dragon's Dogma** → <https://youtu.be/wTeRix2Lhfk>
+
+
+### Princess Peach: Showtime!
+» Princess Peach: Showtime! sorti le 22 mars 2024 sur Switch, 45 € en grande distribution, 60 € sur eShop (https://cutt.ly/tw3vhTzO), démo disponible
+- sorti le 22 mars 2024 sur Switch
+- publié par Nintendo, développé par Good-Feel, studio japonais 🇯🇵 de 130 personnes derrière les jeux Yoshi's Crafted World (2019), Yoshi's Woolly World (2015), Kirby's Epic Yarn (2011)
+- réalisé par Etsunobu Ebisu, direction artistique par Yoshihiro Hobo et Taku Tanaka, musiques par Soshiro Hokkai, Yuki Minami et Taichi Tada
+
+🎮 à partir de 45 € en grande distribution
+🎮 60 € sur Switch (https://cutt.ly/tw3vhTzO), démo disponible
+
+## Mais pas que
+**Ken**
+» 🎶 **The Garden** → <https://thegardenvadavada.com> | ▶️ <https://youtube.com/@thegarden9770> | 📷 <https://instagram.com/__thegarden__> | 𝕏 <https://twitter.com/thegardentwins>
+
+**Héloise**
+» 📺 **The Good Place** (2016), série en 4 saisons créée par Michael Schur, avec Kristen Bell,Ted Danson,William Jackson Harper ; visible sur Netflix (<https://netflix.com/title/80113701>)
+
+**Florian**
+» 🎦 **Ninja Turtles: Teenage Years** (2023), 100 min, film cinéma d'animation réalisé par Jeff Rowe et Kyler Spears, scénario par Seth Rogen, Evan Goldberg, Jeff Rowe, Dan Hernandez et Benji Samit, musiques par Trent Reznor et Atticus Ross
+
+
+excuses de sac :
+- oui je suis en train de fuir ! je suis une mage !! (LaLinosse, DD2)
+
+raids entrants :
+- ATTENTIONalaFROUSSE à 13:53 +49
+- Clemovitch à 13:54 +1692
+
+raids : OrigaTwitch => (15:27)[+689] DamDamLive => (18:02)[+522] Souwtane => (18:48)[+161] mrabc_ (terminé à 00:03)
+
+
 
 » 🇺🇸 
 » 🇫🇷 
