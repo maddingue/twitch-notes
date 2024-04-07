@@ -3191,22 +3191,27 @@ raids : OrigaTwitch => (14:33)[+194] DamDamLive => (18:56) PierreLapin => (19:40
 
 ## Actus
 ### Annonces et sorties
-» Eternal Strands
-» Inkonbini
+» **Eternal Strands**, annoncé pour 2025 sur PlayStation 5, Xbox Series et PC / Steam Deck, par Yellow Brick Games → https://eternalstrandsgame.com | https://youtu.be/YLliDntAitQ | https://s.team/a/1491410
+» **inKONBINI: One Store. Many Stories**, annoncé sur PC / Steam Deck → https://inkonbini.com | https://s.team/a/2723430
 » 𝕏 [X (ex Twitter) / Nightdive Studios / 2 avril 2024] We're serious though, PO'ed: Definitive Edition is real and coming soon to PS4, PS5, Xbox One, Series X|S, Nintendo Switch, and PC! 🧑‍🍳🍳 → <https://cutt.ly/Lw8DC2RH>
 » 🇬🇧 [VGC / 2 avr. 2024] **’90s FPS PO’ed is seemingly getting a remaster by Nightdive Studios.** The comedy shooter was originally released on 3DO and PS1 → <https://cutt.ly/ww8DLicO>
 » **PO'ed: Definitive Edition** sur Steam (<https://s.team/a/2697470>)
-» Windblown, annoncé pour 2024 sur PC → https://s.team/a/1911610 | https://windblown.game
-» Where Wind Meet
-» chiffres de Dragon Dogma 2
-» Unicorn Overload
-» Content Warning
-» Nightmare Kart
+» **Windblown**, annoncé pour 2024 sur PC → https://windblown.game | https://s.team/a/1911610
+» **Where Winds Meet**, annoncé sur PC → https://yysls.cn
+» 🇫🇷 [ActuGaming / 2 avril 2024] **Déjà 2,5 millions de ventes pour Dragon’s Dogma 2, la série dépasse un cap important** → <https://cutt.ly/Cw4qKYvu>
+» 🇫🇷 [ActuGaming / 1er avril 2024] **Unicorn Overlord confirme son très bon lancement avec 500 000 ventes** → <https://cutt.ly/pw4qLtc1>
+» **Content Warning**, sorti le 1er avril 2024 sur PC / Steam Deck, 7,80 € sur Steam (https://s.team/a/2881650)
+» 🇬🇧 [PC Gamer / 3 avril 2024] **Nightmare Kart, the now-legally-distinct, not-Bloodborne fan game has a release date—after a letter from Sony delayed the whole thing.** Tonight, Bunlith joins the cup… → <https://cutt.ly/Gw4qXzay>
 
-### 
-» Eternal Strands, annoncé sur PlayStation, Xbox et PC ; par Yellow Brick Games → https://eternalstrandsgame.com | https://s.team/a/1491410
-» The Crush House, annoncé sur PC → https://s.team/a/2337820
-» 🇫🇷 [Xbox / 2 avr. 2024] Prochainement dans le Xbox Game Pass : LEGO 2K Drive, EA Sports PGA Tour, Harold Halibut et bien plus → https://cutt.ly/vw8Q0ju9
+### Focus
+» **Eternal Strands**, annoncé pour 2025 sur PlayStation 5, Xbox Series et PC / Steam Deck, par Yellow Brick Games → <https://eternalstrandsgame.com> | <https://youtu.be/YLliDntAitQ> | <https://s.team/a/1491410>
+
+» **The Crush House**, annoncé pour 2024 sur PC ; publié par Devolver Digital, développé par Nerial (Reigns, Card Shark) → <https://s.team/a/2337820>
+
+» 🇫🇷 [Xbox / 2 avr. 2024] **Prochainement dans le Xbox Game Pass : LEGO 2K Drive, EA Sports PGA Tour, Harold Halibut et bien plus** → <https://cutt.ly/vw8Q0ju9>
+
+» 🇫🇷 [PlayStation Blog / 2 avril 2024] **Le 16 avril, Dave the Diver plonge dans le Catalogue des jeux PlayStation Plus** → <https://cutt.ly/hw4qMKLG>
+» 🇫🇷 [PlayStation Blog / 2 avril 2024] **Tales of Kenzera: Zau disponible Day 1 dans le Catalogue de jeux PlayStation Plus le 23 avril** → <https://cutt.ly/0w4qM2Bo>
 
 
 ## Les jeux
@@ -3286,13 +3291,13 @@ raids : OrigaTwitch => (14:33)[+194] DamDamLive => (18:56) PierreLapin => (19:40
 » Jour de Play au Frames Festival, dimanche 14 avril à 10:00 → https://twitch.tv/artefr
 
 **Julie**
-» spawn, le festival du jeu vidéo d'Angoulême, le samedi 6 avril 2024 de 10:00 à 20:00 → https://spawngamesfestival.org/
+» spawn, le festival du jeu vidéo d'Angoulême, le samedi 6 avril 2024 de 10:00 à 20:00 → https://spawngamesfestival.org
 
 
 raids entrants :
 - ATTENTIONalaFROUSSE à 14:08 +62
 
-raids : OrigaTwitch => (15:08)[+581] LamHua => (16:14)[+589] kenbogard => (17:40)[+648] DamDamLive => (19:15) onestFURAX [Merry=>23:43)+38] [Drakony=>(23:49)+252] [Kyreelle=>(23:57)+9] (samedi) [Parks_King=>(00:15)+8] [Num3ndil=>(00:38)+8] [xena_la_guerriere=>(02:04)+5] [AngleDroit=>(02:08)+858] […] [Modiiie=>(13:54)+864] [GlitteryGlitch_=>(16:22)+23] [EkyLibre=>16:48)+9] [RadioBecca=>(17:13)+10] [Plumy_draw=>(17:28)+3] [desentredeux=>(18:52)+24] [From_Gehenna_To_Stream=>(18:53)+4] [ChiTai=>(19:51)+35] [Bigby_Vision=>(19:55)+11] [Pipissenlit=>(19:58)+2] [ebibiglass=>(19:59)+45] [Turbojoul=>(23:45)+96] [EkyLibre=>(23:52)+40] [LeFrenchRestream=>(23:56)+373] (dimanche) 
+raids : OrigaTwitch => (15:08)[+581] LamHua => (16:14)[+589] kenbogard => (17:40)[+648] DamDamLive => (19:15) onestFURAX [Merry=>23:43)+38] [Drakony=>(23:49)+252] [Kyreelle=>(23:57)+9] (samedi) [Parks_King=>(00:15)+8] [Num3ndil=>(00:38)+8] [xena_la_guerriere=>(02:04)+5] [AngleDroit=>(02:08)+858] […] [Modiiie=>(13:54)+864] [GlitteryGlitch_=>(16:22)+23] [EkyLibre=>16:48)+9] [RadioBecca=>(17:13)+10] [Plumy_draw=>(17:28)+3] [desentredeux=>(18:52)+24] [From_Gehenna_To_Stream=>(18:53)+4] [ChiTai=>(19:51)+35] [Bigby_Vision=>(19:55)+11] [Pipissenlit=>(19:58)+2] [ebibiglass=>(19:59)+45] [Turbojoul=>(23:45)+96] [EkyLibre=>(23:52)+40] [LeFrenchRestream=>(23:56)+373] (dimanche) [Kokonath_=>(00:36-01:00)+12] […] [Afrogameuses=>(12:06)+21] [BebouShan_PLS=>(12:17)+5] [EkyLibre=>(12:59)+44] [YomzEd=>(14:29)+10] [nobody_GameDesign=>(15:44)+7] [Nat_Ali=>(15:51)+791] [cats_roa=>(17:14)+2] [Monodie=>(17:22)+237] [Maylyss=>(17:23)+6] [DamDamLive=>(18:27)+538] [BureauRouge=>(19:09)+2] [B00BI_=>(19:11)+8] [LavenderRainFromAutumn=>(19:22)+7] [Niemesia=>(19:29)+317] [Ysalinde=>(19:38)+15] [OrigaTwitch=>(20:08)+345] [Artuan_de_Lierree=>(20:17)+11] [ArtillerieLourde=>(20:51)+191] [Baka_Boo=>(20:51)+131] [SonyaLwu=>20:51)+75] [LamHua=>(20:52]+182] [mistermv=>(20:52)+7841] [Space_Thomalice=>(20:52)+28] [LeMwakast=>(20:53]+54] [mamapaprika=>(20:53)+89] [mDeetz=>(20:53)+72]* [Nayru=>(20:54)+62] [3615sauvane=>(20:20:54)+36] [Vazek_Tomi=>(20:54)+63] [Flonflon=>(20:55)+449] [SweetBerry21=>(20:55)+19] [Delfea=>(20:55)+26] [LupusVII=>(21:06)+14] (terminé à 21:15)
 
 
 
@@ -3303,7 +3308,7 @@ On est Furax
 excuses de sac :
 - j'économise mon énergie pour le lancement de la caméra (LaLinosse)
 
-raids : OrigaTwitch => (00:13) LamHua [Eifar_=>(00:29)+199] [DazJDM=>(02:05)+182] [GhostFurax=>(02:23)+1] => (02:32)[+480] Space_Thomalice (>04:00) => desentredeux => demenis => (<13:42) Nayru [Ferlinna=>(16:41)+8] [Mahkda=>(16:42)+3] (>17:00)
+raids : OrigaTwitch => (00:13) LamHua [Eifar_=>(00:29)+199] [DazJDM=>(02:05)+182] [GhostFurax=>(02:23)+1] => (02:32)[+480] Space_Thomalice (>04:00) => desentredeux => demenis => (<13:42) Nayru [Ferlinna=>(16:41)+8] [Mahkda=>(16:42)+3] (dimanche) => (00:08) mistermv => (02:28) Eifar_ [Maxb_05=>(02:48)+4] [LamHua=>(02:49)+229] (>02:50) => Flonflon => RadioBecca => onestFURAX […] [Afrogameuses=>(12:06)+21] [BebouShan_PLS=>(12:17)+5] [EkyLibre=>(12:59)+44] [YomzEd=>(14:29)+10] [nobody_GameDesign=>(15:44)+7] [Nat_Ali=>(15:51)+791] [cats_roa=>(17:14)+2] [Monodie=>(17:22)+237] [Maylyss=>(17:23)+6] [DamDamLive=>(18:27)+538] [BureauRouge=>(19:09)+2] [B00BI_=>(19:11)+8] [LavenderRainFromAutumn=>(19:22)+7] [Niemesia=>(19:29)+317] [Ysalinde=>(19:38)+15] [OrigaTwitch=>(20:08)+345] [Artuan_de_Lierree=>(20:17)+11] [ArtillerieLourde=>(20:51)+191] [Baka_Boo=>(20:51)+131] [SonyaLwu=>20:51)+75] [LamHua=>(20:52]+182] [mistermv=>(20:52)+7841] [Space_Thomalice=>(20:52)+28] [LeMwakast=>(20:53]+54] [mamapaprika=>(20:53)+89] [mDeetz=>(20:53)+72]* [Nayru=>(20:54)+62] [3615sauvane=>(20:20:54)+36] [Vazek_Tomi=>(20:54)+63] [Flonflon=>(20:55)+449] [SweetBerry21=>(20:55)+19] [Delfea=>(20:55)+26] [LupusVII=>(21:06)+14] (terminé à 21:15)
 
 https://clips.twitch.tv/PuzzledTiredShingleSquadGoals-RcC3usT8sn9pwvWD
 https://clips.twitch.tv/ThirstyAuspiciousJayDxCat-Ewy95uRltsTeu1-L
@@ -3326,7 +3331,40 @@ https://clips.twitch.tv/ThirstyAuspiciousJayDxCat-Ewy95uRltsTeu1-L
 raids entrants :
 - Bubuchenbois à 16:31 +410
 
-raids : OrigaTwitch => (23:55)[+220] ArtillerieLourde
+raids : OrigaTwitch => (23:55)[+220] ArtillerieLourde (>02:50) => Eifar_ => Flonflon => RadioBecca => onestFURAX […] [Afrogameuses=>(12:06)+21] [BebouShan_PLS=>(12:17)+5] [EkyLibre=>(12:59)+44] [YomzEd=>(14:29)+10] [nobody_GameDesign=>(15:44)+7] [Nat_Ali=>(15:51)+791] [cats_roa=>(17:14)+2] [Monodie=>(17:22)+237] [Maylyss=>(17:23)+6] [DamDamLive=>(18:27)+538] [BureauRouge=>(19:09)+2] [B00BI_=>(19:11)+8] [LavenderRainFromAutumn=>(19:22)+7] [Niemesia=>(19:29)+317] [Ysalinde=>(19:38)+15] [OrigaTwitch=>(20:08)+345] [Artuan_de_Lierree=>(20:17)+11] [ArtillerieLourde=>(20:51)+191] [Baka_Boo=>(20:51)+131] [SonyaLwu=>20:51)+75] [LamHua=>(20:52]+182] [mistermv=>(20:52)+7841] [Space_Thomalice=>(20:52)+28] [LeMwakast=>(20:53]+54] [mamapaprika=>(20:53)+89] [mDeetz=>(20:53)+72]* [Nayru=>(20:54)+62] [3615sauvane=>(20:20:54)+36] [Vazek_Tomi=>(20:54)+63] [Flonflon=>(20:55)+449] [SweetBerry21=>(20:55)+19] [Delfea=>(20:55)+26] [LupusVII=>(21:06)+14] (terminé à 21:15)
+
+
+
+--------------------------------------
+2024-04-07 -- Furax
+
+Tricky Towers, sorti le 2 août 2016, 15 € sur Switch, PlayStation, Xbox et PC / Steam Deck → https://trickytowers.com
+
+excuses de sac :
+- on a pas des yeux assez bons, on aurait dû mettre l'écran plus près (Hoopy)
+- oh non je regardais les dons ! (Hoopy)
+- regardez l'ellipse intellectuelle, l'escroquerie que nous propose ce garçon (Padre)
+
+Bread & Fred, sorti le 23 mai 2023 sur PC / Steam Deck, 15 € sur Steam (https://s.team/a/1607680), démo disponible → https://BreadAndFred.com
+» ▶️ [YouTube / Speedons] Bread and Fred en Multiplayer Any% (Duo) par yoten et tixo en 10:50.5 → https://youtu.be/H2MGG4EHnHk
+
+excuses de sac :
+- c'était pas la bonne touche ! (Hoopy)
+- le jeu dit pas les règles aussi (Padre)
+- on n'est pas zoologistes (Padre)
+
+Cricket Through the Ages, sorti le 1er mars 2024, 8 € sur Switch (https://cutt.ly/Kw4qgXAK) et PC / Steam Deck (https://s.team/a/2657480) ; développé par Free Lives, le studio derrière Broforce et Terranil
+
+Totally Accurate Battle Simulator, sorti le 1er avril 2021, 20 € sur Switch, PlayStation, Xbox et PC / Steam Deck ; développé par Landfall → https://landfall.se/totally-accurate-battle-simulator
+
+Blind Test
+
+excuses de sac :
+- j'ai préparé ça un peu en précipitation (Gautoz)
+
+raids : OrigaTwitch => (20:08)[+345] onestFURAX [Artuan_de_Lierree=>(20:17)+11] [ArtillerieLourde=>(20:51)+191] [Baka_Boo=>(20:51)+131] [SonyaLwu=>20:51)+75] [LamHua=>(20:52]+182] [mistermv=>(20:52)+7841] [Space_Thomalice=>(20:52)+28] [LeMwakast=>(20:53]+54] [mamapaprika=>(20:53)+89] [mDeetz=>(20:53)+72]* [Nayru=>(20:54)+62] [3615sauvane=>(20:20:54)+36] [Vazek_Tomi=>(20:54)+63] [Flonflon=>(20:55)+449] [SweetBerry21=>(20:55)+19] [Delfea=>(20:55)+26] [LupusVII=>(21:06)+14] (terminé à 21:15)
+
+
 
 
 
