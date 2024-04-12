@@ -11341,8 +11341,8 @@ raids : lesnumeriques => (13:26)[+117] LamHua [OrigaTwitch=>(15:08)+581] => (16:
 » 🇫🇷 [Actugaming] Triple-i Initiative : Le résumé complet de la conférence centrée sur les gros jeux indépendants avec plus de 35 annonces → https://cutt.ly/Jw4Mmijs
 » the triple-i initiative → https://iii-initiative.com
 
-jeux présentés lors de triple-i initiative : Slay the Spire II | Risk of Rain 2 | Kill Night | Shadows of Doubt | My Time at Sandrock | Dinolords | Gestalt: Steam & Cinder | Vampire Survivors (PS) | Vampire Survivors: Operation Guns | Flintlock: The Siege of Dawn | Never Alone 2 | Cataclismo | Death Must Die | Endzone 2 | Dyson Sphere Program | UnderMine | Norland | WHAT THE CAR? | Darkest Dungeon II Kingdoms | RKGK / Rakugaki | Broken Roads | Ravenswatch | Cat Quest III
-jux présentés (suite) : Hyper Light Breaker | The Last Spell DLC Swrves of Runenberg | Laysara: Summit Kingdom | Wizard of Legend 2 | Let's School | Brotato: Abyssal Terrors | Tchia (Switch) | Streets of Rogue 2 | Old World - Behind the Throne | 33 Immortals | Mouse | V Rising + Castlevania | The Rogue - Prince of Persia
+jeux présentés lors de triple-i initiative : Slay the Spire II | Risk of Rain 2 | Kill Night | Shadows of Doubt | My Time at Sandrock | Dinolords | Gestalt: Steam & Cinder | Vampire Survivors (PS) | Vampire Survivors: Operation Guns | Flintlock: The Siege of Dawn | Never Alone 2 | Cataclismo | Death Must Die | Endzone 2 | Dyson Sphere Program | UnderMine 2 | Norland | WHAT THE CAR? | Darkest Dungeon II Kingdoms | RKGK / Rakugaki | Broken Roads | Ravenswatch | Cat Quest III
+jux présentés (suite) : Hyper Light Breaker | The Last Spell DLC Dwarves of Runenberg | Laysara: Summit Kingdom | Wizard of Legend 2 | Let's School | Brotato: Abyssal Terrors | Tchia (Switch) | Streets of Rogue 2 | Old World - Behind the Throne | 33 Immortals | Mouse | V Rising + Castlevania | The Rogue - Prince of Persia
 
 » Slay the Spire II, annoncé pour début 2025, par Mega Crit → https://megacrit.com | https://s.team/a/2868840
 » Dinolords, annoncé en accès anticipé pour 2024 → https://s.team/a/2587620
@@ -11356,9 +11356,31 @@ jux présentés (suite) : Hyper Light Breaker | The Last Spell DLC Swrves of Run
 » Yoann Laulan → 𝕏 https://twitter.com/valmontderag | 🎶 https://valmontderagondas.bandcamp.com
 » ▶️ [YouTube / Triple-i Initiative] The Rogue Prince of Persia - Reveal Trailer → https://youtu.be/J5RIwH6jQUQ
 
-raids : lesnumeriques => (13:42)[+151] CanardPC => (14:12)[+243] CekterDown => (14:56)[+81] Tieffeline (>21:00) => Kaaslope => (<00:41) Iti63 [Yavanah__=>(01:05)+33]  [white_star_s=>(01:18)+19] (>02:00)
+raids : lesnumeriques => (13:42)[+151] CanardPC => (14:12)[+243] CekterDown => (14:56)[+81] Tieffeline (>21:00) => Kaaslope => (<00:41) Iti63 [Yavanah__=>(01:05)+33]  [white_star_s=>(01:18)+19] => (10:16) loinduciel => (12:02)[+23] HadH => (12:29)[+43] slanmetha => (15:55)[+37] HadH => (16:44)[+29] Perceval_Robin [GanryuArt=>(17:08)+5] => (18:48)[+60] Foxieful => (19:40)[+107] LazyMaharsh (terminé à 20:53)
 
 
+--------------------------------------
+2024-04-12
+
+» 🇫🇷 [Les Numériques] Spliiit : la plateforme de coabonnement annonce avoir dépassé le million d'utilisateurs → https://cutt.ly/cw7rb8vP
+» 🇫🇷 [Les Numériques] Pendant les JO 2024, attention si vous possédez cette carte bancaire → https://cutt.ly/Vw7rEapH
+» 🇫🇷 [Les Numériques] Le virement instantané gratuit dans toutes les banques françaises, c’est pour bientôt → https://cutt.ly/Zw7rUtx9
+
+» [WCCF Tech] A Reddit user is running Game Boy Advance games on an Apple Watch Ultra running Android → https://cutt.ly/ww7rPgrh
+
+» [WCCF Tech] Apple will finally let you use second-hand parts for iPhone repairs → https://cutt.ly/2w7rGpPd
+» 🇫🇷 [Les Numériques] Quand l'IA permet la détection précoce de la maladie de Parkinson → https://cutt.ly/Zw7rKVPC
+» 🇫🇷 [Les Numériques] Synchron, rival de Neuralink, prépare des essais à grande échelle pour ses implants cérébraux → https://cutt.ly/3w7rVJ5n
+
+» 🇺🇸 [The Verge] Humane AI Pin review: not even close. For $699 and $24 a month, this wearable computer promises to free you from your smartphone. There’s only one problem: it just doesn’t work. → https://cutt.ly/jw7r222j
+
+» [Notebook Check] JSAUX FlipGo portable dual-screen external monitor preview reveals early-bird pricing → https://cutt.ly/xw7trMOc
+» [WCCF Tech] NVIDIA GeForce RTX 5090 & RTX 5080 “Blackwell” GPUs Rumored To Launch In Q4 2024 → https://cutt.ly/Yw7tavaZ
+
+» 🇫🇷 [Les Numériques] Labo – Duel de cartes graphiques intégrées sur PC portable entre l’Intel Arc et l’AMD Radeon 780M → https://cutt.ly/mw7tkHSZ
+» 🇫🇷 [Les Numériques] Avec son Snapdragon X Elite, Qualcomm veut manger les Core Ultra d’Intel au petit-déjeuner → https://cutt.ly/dw7tm4vC
+
+raids : lesnumeriques => (13:47)[+113] mamapaprika [OrigaTwitch=>(15:04)+527] => (15:57)[+186] Khenael => (18:19) Luucy_ => (19:57) Julgane => (22:30) JOSPLAY (terminé à 23:38)
 
 
 
