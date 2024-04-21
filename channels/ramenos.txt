@@ -10756,11 +10756,11 @@ développé par le studio français 🇫🇷 SoulGame Studio, studio de Argl & K
 💻️ 15 € sur Steam (https://s.team/a/1634860), démo disponible
 > 19:17 - 20:51  |  1 heure 34 minutes
 
-Planescape: Tormentt - Enhanced Edition, sorti le 11 avr. 2017 sur Windows, Mac, Linux et Steam Deck, en oct. 2019 sur Switch, PlayStation 4 et Xbox One
+Planescape: Torment - Enhanced Edition, sorti le 11 avr. 2017 sur Windows, Mac, Linux et Steam Deck, en oct. 2019 sur Switch, PlayStation 4 et Xbox One
 développé par Beamdog → https://planescape.com
 🎮 50 € en bundle avec Icewind Dale sur Switch (https://cutt.ly/hw7bnM30), PlayStation (https://cutt.ly/sw7bmhmf) et Xbox (https://cutt.ly/uw7bmIw5)
 💻️ 19,50 sur Steam (https://s.team/a/466300)
-💻️ 16 € GOG (https://cutt.ly/Qw7bcTbc)
+💻️ 16 € sur GOG (https://cutt.ly/Qw7bcTbc)
 > 20:53 - 22:00  |  1 heure 7 minutes
 
 jeu en cours : Minishoot' Adventures
@@ -10769,10 +10769,42 @@ jeu en cours : Minishoot' Adventures
 raids : Ramenos => (23:00)[+13] Seijouf => (23:29)[+39] Jarm0u => (02:31)[+95] Shisheyu (terminé à 06:28)
 
 
+--------------------------------------
+2024-04-21
+
+» 📄 [Wired / 11 avril 2024] **San Francisco’s train system still uses floppy disks—and will for years.** Three 5.25-inch floppy disks help keep Muni running every morning. A tech upgrade could take until 2030 → <https://shorturl.at/ipOY8>
+» **SteamWorld Heist II**, le 8 août 2024 sur Switch, PlayStation, Xbox et PC / Steam Deck → <https://steamworldgames.com/steamworld-heist-2> | <https://s.team/a/2396240>
+» 📄 [The Markup / 17 avril 2024] **Touring a rental? A face scan may be required.** With the rise of self-guided tours, many companies are requiring facial recognition to see a property → <https://shorturl.at/glGX8>
+» 𝕏 [X (ex Twitter) / Le contemplateur / 7 avril 2024] La streameuse chinoise 🇨🇳, Zheng Xiang Xiang, se film en direct, passant seulement 3 secondes à promouvoir chaque produit et fait 18,7 millions de dollars en 7 jours... C'est un autre monde ! → <https://shorturl.at/pVWX5>
+» 📄 [Engadget / 12 avril 2024] **Ubisoft is deleting The Crew from players' libraries, reminding us we own nothing.** The company is pulling licenses from paying customers now that the servers have shut down → <https://shorturl.at/rGPR9>
+» 📄 [Vintage Computing and Gamnig / 2 avril 2024] **My memories of what life was like before the Internet** → <https://shorturl.at/cotF9>
+» ▶️ [YouTube / Warhose Studios / 18 avril 2024] **Kingdom Come: Deliverance II official announce trailer** → <https://youtu.be/wMZFM6JC47Q>
+» 📄 [Steam / Crown Wars The Black Prince / 12 avril 2024] **Factions overview** → <https://t.ly/fXTN4>
+» 📄 [Subscription Index / 1er avril 2024] **Deep dive: cancellation flow best practices** → <https://t.ly/-TAfF>
+» 📺 [IMDB] **Conan O'Brien Must Go** (2024), série télévisée d'une saison, quatre épisode, créée par Conan O'Brien, réalisée par Mike Sweeney → <https://imdb.com/title/tt27790101/>
+
+Wargroove 2, sorti le 5 oct. 2023 sur Switch et PC / Steam Deck
+développé par Chucklefish et Robotality → https://wargroove.com
+🎮 19,50 € sur Switch (https://t.ly/cxvx5)
+💻️ 19,50 sur Steam (https://s.team/a/1346020)
+
+Laika: Aged Through Blood, sorti le 19 oct. 2023 sur PlayStation, Xbox et PC / Steam Deck
+développé par Brainwash Gang → https://brainwashgang.com
+🎮 20 € sur PlayStation (https://t.ly/tK4Yt) et Xbox (https://xbox.com/games/store/laika/9p26vhdg66pj)
+💻️ 20 sur Steam (https://s.team/a/1796220) et GOG (https://t.ly/ZiDpC)
+
+Planescape: Torment - Enhanced Edition, sorti le 11 avr. 2017 sur Windows, Mac, Linux et Steam Deck, en oct. 2019 sur Switch, PlayStation 4 et Xbox One
+développé par Beamdog → https://planescape.com
+🎮 50 € en bundle avec Icewind Dale sur Switch (https://cutt.ly/hw7bnM30), PlayStation (https://cutt.ly/sw7bmhmf) et Xbox (https://cutt.ly/uw7bmIw5)
+💻️ 19,50 sur Steam (https://s.team/a/466300)
+💻️ 16 € sur GOG (https://cutt.ly/Qw7bcTbc)
+
+
 
 
 
 » 📄 [
+» ▶️ [YouTube] 
 » xxx → https://s.team/a/
 
 Eiyuden Chronicle: Hundred Heroes, sortie le 23 avril 2024 sur Switch, PlayStation, Xbox et PC / Steam Deck
@@ -10796,7 +10828,7 @@ publié et développé par Draknek & Friends, groupe de développeurs derrière 
 
 
 ℹ️ le groupe Steam de Ramenos → https://steamcommunity.com/groups/ramenos
-📺 la chaîne YouTube de Ramenos → https://youtube.com/ramenosgv
+▶️ la chaîne YouTube de Ramenos → https://youtube.com/ramenosgv
 💬 le serveur Discord de Ramenos → https://discord.gg/MEmg5ag
 📅 agenda des streams → http://cpc.cx/sEL
 
