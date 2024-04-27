@@ -219,3 +219,9 @@ raids : artefr => (21:10)[+1335] CanardPC => (21:58)[+791] Gautoz => (23:26)[+82
 raids : artefr => (20:27)[+1014] PierreLapin => (20:38)[+351] pelerine (terminé à 23:22)
 
 
+--------------------------------------
+2024-04-14
+
+raids : artefr => (12:15)[+1662] Mynthos (terminé à 12:59)
+
+
