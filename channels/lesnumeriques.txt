@@ -11457,6 +11457,42 @@ raids : lesnumeriques => (13:46)[+90] LamHua (>16:00) => (<18:23) lydia__am (>18
 raids : lesnumeriques => (13:35)[+158] OrigaTwitch (terminé à 15:57)
 
 
+--------------------------------------
+2024-05-02
+
+» ▶️ [YouTube / Digital Foundry] Steam Deck ray tracing vs Asus ROG Ally: it works but should you use it? → https://youtu.be/rE6bIhntP2I
+
+» 🇫🇷 [ActuGaming / 2 mai 2024] TopSpin 2K25 : Les problèmes de serveurs liés à la connexion obligatoire en solo enragent la communauté du jeu de tennis → https://actugaming.net/a-642064
+» 🇫🇷 [BFM TV / 30 avril 2024] "Révoltant": la connexion obligatoire de TopSpin 2K25 provoque la colère des joueurs → https://bfmtv.com/tech/gaming/__AV-202404300471.html
+
+» 🇫🇷 [Gamekult / 30 avril 2024] L'extension Starfield : Shattered Space débarquera cet automne. Foi de Todd Howard → https://gamekult.com/actualite/a-3050858425.html
+» 🇫🇷 [FactorNews / 2 mai 2024] Starfield : vers des outils de modding, MàJ, DLC et au-delà → https://factornews.com/actualites/a-50227.html
+» 🇫🇷 [Xboxygen / 1er mai 2024] Résumé des novueautés de la mise à jour de Starfield en mai → https://cutt.ly/yeqLb77i
+
+» 🇫🇷 [Gamekult / 1er mai 2024] Batman : Arkham Shadow répandra la justice en VR sur Meta Quest 3 → https://gamekult.com/actualite/a-3050858450.html
+» Bad Mojo Redux, 6 € sur Steam (https://s.team/a/255960)
+
+» 🇫🇷 [Gamekult / 1er mai 2024] Assassin's Creed Mirage arrive sur iOS le 6 juin → https://gamekult.com/actualite/a-3050858449.html
+
+» 🇫🇷 [Gamekult 30 avril 2024] Keoken Interactive (Deliver Us The Moon, Deliver Us Mars) licencie toute son équipe. Mais les fondateurs du studio espèrent le reconstruire un jour → https://gamekult.com/actualite/a-3050858438.html
+» 🇫🇷 [Gamekult / 2 mai 2024] Take-Two ferme les studios Roll7 (OlliOlli) et Intercept Games (Kerbal Space Program 2) → https://gamekult.com/actualite/a-3050858456.html
+» 🇫🇷 [Gamekult / 1er mai 2024] Hasbro investit un milliard dans le jeu vidéo avec quatre studios internes AAA. G.I. Joe en figure de proue → https://gamekult.com/actualite/a-3050858443.html
+
+» 🇫🇷 [Gamekult / 30 avril 2024] Koei Tecmo a fondé un nouveau studio AAA, Rise of the Ronin démarre mieux que Nioh → https://gamekult.com/actualite/a-3050858430.html
+» 🇫🇷 [Gamekult / 1er mai 2024] Fate/Samurai Remnant témoigne de sa bonne santé avec plus de 410 000 exemplaires écoulés. Des chiffres tranchants pour Koei Tecmo → https://gamekult.com/actualite/a-3050858452.html
+» 🇫🇷 [Gamekult / 6 mars 2024] Capcom annonce une nouvelle augmentation de son salaire de départ, 300 000 yen par mois minimum → https://gamekult.com/actualite/a-3050857862.html
+
+» 🇫🇷 [FactorNews / 29 avril 2024] IGN x ID@Xbox Digital Showcase du 29/04/24 : le gros résumé → https://factornews.com/article/a-50228.html
+» All You Need Is Help, annoncé pour automne 2024 dans le Game Pass sur Xbox et PC ; développé par le studio japonais 🇯🇵 Q-Games, derrière The Tomorrow Children (2017, 2022) et la série de jeux PixelJunk → https://xbox.com/games/store/aynh/9ns4q51tvr51
+
+
+» 🇫🇷 [Xbox / 30 avril 2024] Rendez-vous le 9 juin pour le Xbox Games Showcase suivi du [REDACTED] Direct → https://cutt.ly/seqKPrgF
+» 🇫🇷 [Gamekult / 30 avril 2024] Xbox annonce un nouveau showcase et une présentation du prochain Call of Duty. Un secret qui n'en est pas vraiment un → https://gamekult.com/actualite/a-3050858440.html
+» 🇫🇷 [ActuGaming] Microsoft annonce son Xbox Games Showcase pour le 9 juin, suivi par un autre Direct qui est sans doute lié au prochain Call of Duty → https://actugaming.net/a-641114
+
+raids : lesnumeriques => (13:40)[+137] inforea => (14:12)[+146] Lapetitepotiere => (15:25)[+157] NofunNosound => (16:46)[+48] stopsigncam (>22:00)
+
+
 
 
 » ▶️ [YouTube] 
@@ -11465,6 +11501,7 @@ raids : lesnumeriques => (13:35)[+158] OrigaTwitch (terminé à 15:57)
 » 🐘 [Mastodon]
 » 🇫🇷 [Les Numériques] 
 » 🇫🇷 [Gamekult] 
+» 🇫🇷 [ActuGaming] 
 » 🇫🇷 [ZDNet France] 
 » 🇫🇷 [CNET France] 
 » 🇺🇸 [Ars Technica] 
