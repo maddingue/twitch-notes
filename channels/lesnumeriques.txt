@@ -11511,11 +11511,27 @@ raids : lesnumeriques => (13:40)[+137] inforea => (14:12)[+146] Lapetitepotiere 
 raids : lesnumeriques => (13:57)[+144] Bouletcorp (>15:40) => DollyWood_ => (19:08)[+146] Gilles_Stella (>19:30) => Flonflon => (samedi) (<00:05) AngleDroit => (02:48)[+2582] Shisheyu (terminé à 03:10)
 
 
+--------------------------------------
+2024-05-17
+
+» Science & Vie Junior est un magazine mensuel de vulgarisation scientifique français destiné à la jeunesse existant depuis 1988 → https://science-et-vie-junior.fr
+» le concours Innovez de Science & Vie Junior : tous les mois, un jury choisit la meilleure invention originale parmi celles envoyées par les lecteurs à la rédaction → https://science-et-vie-junior.fr/concours-innovez/
+» ▶️ [YouTube] la chaîne YouTube de Science & Vie Junior → https://youtube.com/@SvjlesiteFrance
+
+» 🇫🇷 [Les Numériques / 13 mai 2024] Apple iPhone : l’arrivée de ChatGPT sur iOS 18 de plus en plus probable → https://lesnumeriques.com/telephone-portable/-n221664.html
+» 𝕏 [X (ex Twitter)] Facebook is just AI slop now and the boomers boost it 🧵 → https://twitter.com/AnAngryOpossum/status/1789732780332482835
+» 🇫🇷 [Le Monde / 13 mai 2024] « Permacomputing » : la discrète communauté qui défend des outils numériques libres, sobres et décroissants → https://cutt.ly/5erP2lxM
+» CHATONS → https://chatons.org
+» 🇫🇷 [Le Monde / 7 mai 2024] « On devient styliste, caméraman, monteur » : la créativité, l’autre facette de TikTok et des écrans → https://cutt.ly/1erAtl7v
+» 🇫🇷 [20 Minutes / 16 mai 2024] Emeutes en Nouvelle-Calédonie : Pourquoi TikTok est désormais interdit dans l’archipel → https://cutt.ly/SerAySoN
+
+raids : lesnumeriques => (13:36)[+139] OrigaTwitch => (15:15)[+586] mistermv [Snakii94=>(00:11/00:54)+4] (terminé à 01:24 ?)
+
 
 
 » ▶️ [YouTube] 
 » 🐦 [Twitter] 
-» 𝕏 [X (ex Twitter)] 
+» 𝕏 [X (ex Twitter)]  🧵
 » 🐘 [Mastodon]
 » 🇫🇷 [Les Numériques] 
 » 🇫🇷 [Gamekult] 
