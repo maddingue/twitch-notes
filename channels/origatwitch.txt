@@ -4824,7 +4824,7 @@ réalisation par Pierre-Arnaud Boucher 🇫🇷 et Scott Richmond 🇦🇺
 raids entrants :
 - NotPatrick à 14:06 +82
 
-raids : OrigaTwitch => (16:14)[+221] Ponce (vendredi) => (01:58) Delfea [Maxb_05=>(02:30)+1] (>03:15)
+raids : OrigaTwitch => (16:14)[+221] Ponce (vendredi) => (01:58) Delfea [Maxb_05=>(02:30)+1] => (06:01)[+182] Rose_Waltz (terminé à 06:15)
 
 State of Play
 
@@ -4862,14 +4862,14 @@ jeux présentés : Concord | God of War Ragnarök | Dynasty Warrior Origins | In
 - 📄 
 » Path of Exile 2, accès anticipé annoncé pour fin 2024 sur PlayStation 5 et PC ; développé par Grinding Gear Games 🇳🇿🥝 → https://pathofexile2.com | https://s.team/a/2694490
 - ▶️ https://youtu.be/JUUXKN7Kh9Y
-- 📄 
+- 📄 https://blog.playstation.com/2024/05/30/path-of-exile-2-is-coming-to-ps5-couch-co-op-and-cross-play-confirmed/
 » Silent Hill 2, annoncé pour le 8 oct. 2024 sur PlayStation 5 et PC ; développé par Bloober Team 🇵🇱 → https://blooberteam.com/silent-hill-2 | https://s.team/a/2124490
 - ▶️ https://youtu.be/sU3pyYi5hz0
-- 📄 
+- 📄 https://blog.playstation.com/2024/05/30/silent-hill-2-launches-october-8-new-gameplay-revealed/
 » Monster Hunter Wilds, annoncé pour 2025 sur PlayStation 5, Xbox Series et PC / Steam Deck ; développé par Capcom → https://monsterhunter.com/wilds/ | https://s.team/a/2246340
 - ▶️ https://youtu.be/URG75CDX_rg
 - 📄 https://blog.playstation.com/2024/05/30/monster-hunter-wilds-new-gameplay-details-from-todays-state-of-play/
-» Astro Bot, le 6 sept. sur PlayStation 5 ; développé par Japan Studio / Team Asobi 🇯🇵 → https://teamasobi.com
+» Astro Bot, le 6 sept. 2024 sur PlayStation 5 ; développé par Japan Studio / Team Asobi 🇯🇵 → https://teamasobi.com
 - ▶️ https://youtu.be/wHMNQzLG_Jg
 - 📄 https://blog.playstation.com/2024/05/30/astro-bot-arrives-on-ps5-september-6/
 
@@ -4882,6 +4882,146 @@ raids entrants :
 - DollyWood_ à 00:08 +169
 
 raids : OrigaTwitch => (00:42)[+451] Covfefe => (01:13)[+304] Pinde (terminé à 01:45)
+
+
+
+--------------------------------------
+2024-05-31
+
+L'Hebdo #28
+
+## Actus
+### Annonces
+» ▶️ [YouTube / Origami / 27 mai 2024] Origami perd encore de l'argent mais… (bilan saison 1) → https://youtu.be/zd5pijDaHew
+
+### La semaine
+» Aikyam, annoncé sur PlayStation 5, Xbox Series et PC / Steam Deck ; développé par Thousand Stars, studio canadien 🇨🇦 d'une dizaine de personnes → https://aikyamgame.com | https://s.team/a/2363840
+» Hotel Barcelona, annoncé sur PlayStation 5, Xbox Series et PC / Steam Deck ; développé par White Owls, studio japonais 🇯🇵 de Swery65 derrière les jeux Deadly Premonition 2 (2020), The Good Life (20021) → https://s.team/a/2286600 | https://whiteowls.co.jp
+» Grapple Dogs: Cosmic Canines, annoncé sur Switch, Xbox Series et PC / Steam Deck ; développé par Medallion Games 🇬🇧 → https://s.team/a/2278790 | https://www.medalliongames.com/copy-of-grapple-dog/ | https://s.team/a/2278790
+» 🇺🇸 [Games Industry / 28 mai 2024] Square Enix shutting down two Dragon Quest mobile games. Dragon Quest Champions and Keshi Keshi will cease operations by the end of July → https://cutt.ly/QeuUSZfq
+» 🇫🇷 [ActuGaming / 27 mai 2024] Le remake de Dragon Quest III en HD-2D va bientôt refaire parler de lui et sortira sur PC, Switch, PS5 et Xbox Series → https://actugaming.net/a-646453
+» [𝕏 (ex Twitter) / Songs of Conquest / 27 mai 2024] 500 000 unités vendues 🧵 https://cutt.ly/deuUKock
+» 🇫🇷 [ActuGaming / 28 mai 2024] Dragon’s Dogma 2 s’est écoulé à 3 millions d’exemplaires dans le monde → https://actugaming.net/a-646774
+» 🇺🇸 [Game Developer / 28 mai 2024] Jury backs Bungie in lawsuit against cheat maker Aimjunkies. Bungie and Aimjunkies have been engaged in litigation for years → https://cutt.ly/OeuUSbqB
+» 🇺🇸 [Game Developer / 29 mai 2024] Activision awarded $14.5 million in Call of Duty cheatmaker suit. In addition to the financial compensation, Activison is taking the EngineOwning site domain from its creator → https://cutt.ly/aeuUA4cs
+» 🇫🇷 [ActuGaming / 28 mai 2024] Call of Duty: Black Ops 6 arrivera bien sur le Xbox Game Pass le jour de sa sortie → https://actugaming.net/a-646687
+
+### State of Play mai 2024
+» Astro Bot, le 6 sept. 2024 sur PlayStation 5 ; développé par Japan Studio / Team Asobi 🇯🇵 → https://teamasobi.com
+» Monster Hunter Wilds, annoncé pour 2025 sur PlayStation 5, Xbox Series et PC / Steam Deck ; développé par Capcom → https://monsterhunter.com/wilds/ | https://s.team/a/2246340
+» Concord, annoncé pour le 23 août 2024 2024 sur PlayStation 5 et PC ; développé par Firewalk 🇺🇸 → https://firewalkstudios.com
+» Dynasty Warrior Origins, annoncé pour 2025 sur PlayStation 5 ; développé par Omega Force 🇯🇵 → https://koeitecmoeurope.com/teams/omega-force/
+» Where Winds Meet, annoncé sur PlayStation 5 et PC ; développé par Everstone Studio 🇨🇳 → https://wherewindsmeetgame.com | https://yysls.cn
+» Ballad of Antara, annoncé pour 2025 sur PlayStation 5 ; développé par TipsWorks 🇨🇳 → https://balladofantara.com
+» Infinity Nikki, annoncé pour Q3 2024 sur PlayStation 5, PC et mobiles ; développé par Infoldgames → https://infinitynikki.infoldgames.com
+
+### Silent Hill Transmission
+» ▶️ [YouTube / Silent Hill / 30 mai 2024] Silent Hill Transmission → https://youtu.be/KUWjJ1zOxwo
+» Silent Hill 2, annoncé pour le 8 oct. 2024 sur PlayStation 5 et PC ; développé par Bloober Team 🇵🇱 → https://blooberteam.com/silent-hill-2 | https://s.team/a/2124490
+- ▶️ https://youtu.be/sU3pyYi5hz0
+- 📄 https://blog.playstation.com/2024/05/30/silent-hill-2-launches-october-8-new-gameplay-revealed/
+» ▶️ [YouTube / Silent Hill / 30 mai 2024] Return to Silent Hill | Behind-the-scenes early sneak peek → https://youtu.be/pHDUlTa1CQc
+» Silent Hill the Short Message a passé le cap des 2,5 millions de téléchargements ; le premier million avait été franchi le 6 février 2024, le second le 12 février
+
+### Geoff Follin
+» 🇺🇸 [ResetEra / 31 mai 2024] Composer Geoff Follin (Plok, Silver Surfer, Equinox) has passed away → https://resetera.com/threads/886002
+
+## Jeux
+### The Rogue Prince of Persia
+» The Rogue Prince of Persia, en accès anticipé depuis le 27 mai 2024 à 20 € sur PC / Steam Deck (https://s.team/a/2717880)
+- en accès anticipé depuis le 27 mai 2024 sur PC / Steam Deck
+- publié par Ubisoft, développé par le studio français 🇫🇷️ Evil Empire, derrière le support et les DLC de Dead Cells → https://www.therogueprinceofpersia.com
+- réalisé par Lucie Dewagnier, direction artistique par Dylan Eurlings, musiques par ASADI 🇺🇸/🇮🇷
+
+💻️ 20 € sur Steam (<https://s.team/a/2717880>)
+
+### Nine Sols 九日
+» Nine Sols 九日, sorti le 29 mai 2024 sur PC, Mac et Steam Deck (https://s.team/a/1809540), aussi annoncé sur Switch et PlayStation
+- sorti le 29 mai 2024 sur PC, Mac et Steam Deck, aussi annoncé sur Switch et PlayStation
+- développé par le studio taïwanais 🇹🇼 Red Candle Games (Detention, Devotion) → https://redcandlegames.com/9sols/
+- réalisé par Light Wang, écriture par Jennifer Dang, direction artistique par Hans Chen, musiques par FFXX, Im Baek Hun, Troy Lin et Vincent Yang
+
+💻️ 29 € sur Steam (<https://s.team/a/1809540>)
+
+### Paper Mario : La Porte Millénaire
+» Paper Mario : La Porte Millénaire, sorti le 23 mai 2024 sur Switch, 60 € sur eShop (https://cutt.ly/NeugTwMX), à partir de 45 € en grande distribution
+- sorti le 23 mai 2024 sur Switch ; originellement sorti en juil. 🇯🇵 / nov. 🇹🇼 2004 sur GameCube
+- publié par Nintendo, développé par Intelligent Systems, studio japonais 🇯🇵 d'environ 200 personnes → https://intsys.co.jp
+
+🎮 à partir de 45 € en grande distribution
+🎮 60 € sur Switch (<https://cutt.ly/NeugTwMX>)
+
+## Mais pas que
+### Moguri
+» 📘 Ping Pong (1996), par MATSUMOTO Taiyô, manga terminé en 5 tomes
+- nouvelle édition prestige en deux tomes chez Delcourt/Tonkam, 30 € le livre papier, 15 € la version numérique → https://editions-delcourt.fr/mangas/series/serie-ping-pong
+» 📺 Ping Pong the Animation (2014), série animée en 11 épisodes, écrite et réalisée par YUASA Masaaki
+- disponible sur ADN (https://animationdigitalnetwork.fr/video/ping-pong), premier épisode visible librement
+
+### Hoopy
+» 📘 Jean Doux et le mystère de la disquette molle, 304 p., par Philippe Valette, BD parue le 25 jan. 2017 chez Delcourt, 30 € en papier, 20 € en numérique → https://cutt.ly/ueuR75Mf
+» 📘 Georges Clooney - Une histoire vrai, 352 p., par Philippe Valette, BD parue le 20 mars 2013 chez Delcourt, 30 € en papier, 12 € en numérique → https://cutt.ly/deuTwDiL
+» 📘 Georges Clooney - Mi-homme Michel, 400 p., par Philippe Valette, BD parue le 3 déc. 2024 chez Delcourt, 30 € en papier, 12 € en numérique → https://cutt.ly/4euTer62
+
+
+# Entretien : L'orientalisme dans le jeu vidéo
+» Mehdi Derfoufi, maître de conférences en études culturelles et nouveaux médias au sein du département d’études de genre de l’université Paris 8
+- réseaux sociaux : 𝕏 https://twitter.com/laderfouf | 🟦 https://bsky.app/profile/laderfouf.bsky.social
+- 📙 Racisme et jeu vidéo, 256 p. paru le 6 mai 2021 chez Éditions de la Maison des sciences de l’homme, 12 € en papier (ISBN 978-2-7351-2440-4) → https://www.univ-paris8.fr/Racisme-et-jeu-video
+- De l'autre côté - L'atelier genre & postcolonial de Mehdi Derfoufi → https://delautrecote.org
+
+» L'orientalisme - L'Orient créé par l'Occident, 448 p., par Edward W. Said, paru en oct. 2005 aux Éditions Seuils, 25 € en papier (EAN 9782020792936) → https://www.seuil.com/ouvrage/l-orientalisme-l-orient-cree-par-l-occident-edward-w-said/9782020792936
+» Soraya Murray, professeure associée en cinéma et médias numérique à l'Université de Californie Santa Cruz → https://sorayamurray.com
+- 🇺🇸 [Cyber Orient / 22 déc. 2023] Raji’s Burden, par Soraya Murray → https://cyberorient.net/2023/12/22/rajis-burden/
+» CyberOrient - Journal of the virtual Middle East and Islamic World → https://cyberorient.net
+» The Habibis, podcast par Fawzi Mesmar, Osama Dorias, et Rami Ismail → https://thehabibis.com | 𝕏 https://twitter.com/the_habibis
+
+
+# 101% n° 1976
+
+## Description
+**101%** est le magazine quotidien de Nolife, diffusé du lundi au vendredi à 19 heures. D'une durée moyenne de 25 minutes, il s'agit d'une émission multi-thématique : on y retrouve ainsi quatre ou cinq rubriques selon les jours, pouvant être consacrées aux jeux vidéo, à la culture japonaise ou bien à toute autre thème traité sur la chaîne. 101% est présenté en alternance par plusieurs présentateurs réguliers. La présentation du 101% du vendredi est quand à elle laissée à n'importe qui : personnalités de la communauté geek, artistes japonais de passage en France, membres du staff de la chaîne… se succèdent donc à la présentation ce jour là.
+📄 <https://www.nolife-wiki.fr/101%25>
+
+## Actualités
+» **Devil Blade Reboot**, sorti le 23 mai 2024 à 15 € sur PC / Steam Deck → https://s.team/a/2882440
+» ▶️ [YouTube / Capcom / 29 avr. 2024] **Street Fighter 6 - Akuma trailer de gameplay** → https://youtu.be/foBAgEnvxJI
+» ▶️ [YouTube / Arc System Works / 21 mars 2024] **Guilty Gear -Strive- season pass 3 playable character #3 [A.B.A] trailer** → https://youtu.be/ZjqfSOnuyyM
+» ▶️ [YouTube / Arc **System Works / 29 avr. 2024] Guilty Gear -Strive- season pass 3 playable character #4 [Slayer] trailer** → https://youtu.be/fIrZvjyqf1Q
+» exposition **Insert Coin**, du 1er mars au 7 juillet à la Monnaie de Paris → <https://monnaiedeparis.fr/exposition-insert-coin>
+» **Goldorak XperienZ**, en avril 2024 → <http://goldorak-xperienz.com>
+- ▶️ [YouTube] quelques vidéos de Goldorak XperienZ 2024 → <https://cutt.ly/TeuE4WJu>
+» exposition **L'Art de James Cameron**, du 4 avril 2024 au 5 jan. 2025, à la Cinémathèque → <https://www.cinematheque.fr/exposition.html>
+
+## Critiques
+### Eiyuden Chronicle: Hundred Heroes
+» Eiyuden Chronicle: Hundred Heroes, sortie le 23 avril 2024 à 50 € sur Switch, PlayStation, Xbox et PC / Steam Deck ; développé par Rabbit & Bear Studios → https://EiyudenChronicle.com | https://RabbitAndBearStudios.com
+- publié par 505 Games, développé par Rabbit & Bear Studios → https://EiyudenChronicle.com | https://RabbitAndBearStudios.com
+- réalisé par Yoshitaka Murayama (décédé le 6 fév. 2024), créateur de la série Suikoden ; direction artistique par Junko Kawano et Junichi Murakami ; musiques par Motoi Sakuraba et Michiko Naruke
+
+🎮 50 € sur Switch (https://cutt.ly/zw88CQe1), PlayStation (https://cutt.ly/aw88COGr) et Xbox (https://cutt.ly/vw88C5dS)
+💻️ 50 € sur Steam (https://s.team/a/1658280) et GOG (https://cutt.ly/nw88X9Hw)
+
+## Live report : Yukka
+» [JaME / 1er avril 2024] Yukka revient avec un nouvel album et précise les dates de sa tournée européenne qui se tiendra en Avril → https://cutt.ly/ieuReunk
+
+## Hippodrôle
+» Où l'on découvre que Moguri aurait des talents de montage vidéo, et Médoc de montage audio ?
+
+## Mon Souvenir
+### Héloïse
+» **Grand Theft Auto: San Andreas**, sorti en oct. 2004 sur PlayStation 2, en juin 2005 sur Xbox et PC Windows ; développé par Rockstar North, réalisé par Leslie Benzies, direction artistique par Aaron Garbut, écriture par Dan Houser, James Worrall et DJ Pooh (Mark Jordan), musiques par Michael Hunter
+
+## Debug Mode
+» (Vous savez) Comment on est là
+
+## Forum
+» Forum de l'Association des téléspectateurs de Nolife → https://forum.atnl.fr
+
+raids entrants :
+- Nico_Oni à 20:18 +81
+
+raid : OrigaTwitch => (20:26)[+767] BagheraJones [JeremZzzer=>(20:35)+5] [Etoiles=>(01:02)+3896] [Shisheyu=>(01:09]+1698] [BundyJDR=>(01:14)+2] [1PVCS=>(01:20)+1269] [AquilaLeek=>(01:30)+30] => (02:21) LittleBigWhale => mistermv (terminé à 04:50)
 
 
 
@@ -4928,6 +5068,7 @@ raids : OrigaTwitch => (00:42)[+451] Covfefe => (01:13)[+304] Pinde (terminé à
 » Hoopy / Sylvain Tastet → 𝕏 https://twitter.com/_Hoopy | 🟦 https://bsky.app/profile/hoopyjv.bsky.social
 » Moguri / Kevin Cicurel → 𝕏 https://twitter.com/El_Mogurito | 🟦 https://bsky.app/profile/elmogurito.bsky.social
 » LaLinosse / Héloïse Linossier → 𝕏 https://twitter.com/HLinossier | 🟦 https://bsky.app/profile/hlinossier.bsky.social
+» Hubert Petit → 𝕏 https://twitter.com/snakenhub | 🟦 https://bsky.app/profile/hubertpetit.bsky.social
 » Medoc / Medhi Camprasse → 𝕏 https://twitter.com/Elmedoc | 🟦 https://bsky.app/profile/medoc.bsky.social
 » Cassim → 𝕏 https://twitter.com/NotCassim | 🟦 https://bsky.app/profile/cassim.montilla.fr
 » Lucie Ronfaut → 🌐 https://LucieRonfaut.com | 𝕏 https://twitter.com/LucieRonfaut | 🟦 https://bsky.app/profile/lucieronfaut.bsky.social
