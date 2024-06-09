@@ -5265,8 +5265,6 @@ Summer Game Fest 2024
 jeux présentés : Lego Horizon Adventures | No More Room in Hell 2 | Harry Potter's Quidditch Champions | Cuffbust | Star Wars Outlaws | Neva | | Civilization VII | Black Myth: Wukong | Asgard’s Wrath 2 | Once Human | Space Marine 2 | Metaphor: ReFantazio | Batman Arkham Shadow | Street Fighter 6 - DLC Fata Fury | Tears of Metal | Dragon Ball Sparking Zero | Delta Force: Hawk Ops | Fatal Fury: City of the Wolves | Battle Crush | Mecha Break | Power Rangers: Rita's Rewind | Deer & Boy
 jeux présentés : Kingdom Come: Deliverance II | Slitterhead | Killer Bean | Cairn | Wanderstop | Unknown 9: Awakening | Enotria: The Last Song | The First Descendant | Sonic x Shadow Generations | Dune: Awakening | Battle Aces | The Finals | Alan Wake II - DLC Night Springs | New World - DLC Aeternum | Dark and Darker | Kunitsu-Gami: Path of the Goddess | Hyper Light Breaker | Skate | Party Animals | Skate
 jeux Blumhouse : Crisol: Theater of Idols | Fear the Spotlight | Project C██████ | Grave Seasons | Sleep Awake | The Simulation
-| 
-| 
 
 » Lego Horizon Adventures sur Switch, PlayStation et PC / Steam Deck, par Studio Gobo
 » No More Room in Hell 2, accès anticipé fin  sur PC / Steam Deck → https://s.team/a/292000 | https://www.nmrih2.com
@@ -5343,7 +5341,7 @@ jeux présentés : Simpler Times | Battle Vision Network | Cairn | Petal Runner 
 
 » Simpler Times, annoncé sur PC / Steam Deck ; développé par stoneskip → https://s.team/a/1812210
 » Battle Vision Network, annoncé pour 2025 sur mobiles (via Netflix) et PC / Steam Deck, par Capybara Games → https://s.team/a/2216850 | https://battlevisionnetwork.com
-» Cairn, annoncé pour 2025 sur consoles et PC / Steam Deck → https://s.team/a/1588550 | https://www.thegamebakers.com/cairn/
+» Cairn, annoncé pour 2025 sur consoles et PC / Steam Deck, développé par The Game Bakers → https://s.team/a/1588550 | https://www.thegamebakers.com/cairn/
 » Petal Runner, annoncé sur PC / Steam Deck, développé par Nano Park Studios → https://s.team/a/2795110
 » KARMA: The Dark World, annoncé sur PlayStation 5, Xbox Series et PC / Steam Deck, développé par Pollard Studio → https://s.team/a/1376200
 » UFO 50, le 18 sept. 2024 sur PC / Steam Deck, développé par Mossmouth (Spelunky 1 & 2) → https://s.team/a/1147860 | https://50games.fun
@@ -5368,6 +5366,8 @@ jeux présentés : Simpler Times | Battle Vision Network | Cairn | Petal Runner 
 
 Devolver Direct
 
+jeux présentés durant Devolver Direct : Cult of the Lamb - DLC Unholy Alliance | The Crush House | Tenjutsu | The Talos Principle 2 - DLC Road to Elysium | Anger Foot | Possessor(s)
+
 » Cult of the Lamb - DLC Unholy Alliance, le 12 août 2024 sur toutes les plates-formes → https://cultofthelamb.com
 » The Crush House, le 9 août 2024 sur PC / Steam Deck, développé par Nerial → https://s.team/a/2337820 | https://thecrush.house | https://devolverdigital.com/games/the-crush-house
 » Tenjutsu, annoncé sur consoles et PC / Steam Deck, développé par Deepnight Games → https://s.team/a/1363940 | https://deepnight.net | https://devolverdigital.com/games/tenjutsu
@@ -5380,6 +5380,323 @@ excuses de sac :
 - nous on a des excuses avec Kevin (Médoc)
 
 raids : OrigaTwitch => (02:01)[+375] thegameawards (terminé à 02:30)
+
+
+
+--------------------------------------
+2024-06-08
+
+🗓️ Calendrier de la fête d'été des jeux vidéo 2024 → http://evenements.origami.ng
+
+Future of Play 2024
+
+» ALZARA Radiant Echoes, annoncé sur PC / Steam Deck, développé par Studio Cameli, musiques par Motoi Sakuraba → https://s.team/a/2856410 | https://alzara.studio-camelia.com
+» Abyss X Zero, annoncé sur PC / Steam Deck, développé par Studio Pixel Punk → https://s.team/a/2872300
+» Zodiac XX: Leo, développé par Virtuoso Neomedia → https://virtuoso.world
+» Battle Suit Aces, annoncé sur PC / Steam Deck, développé par Trinket Studios (Battle Chef Brigade) → https://s.team/a/2870530 | https://www.trinketstudios.com/
+» All Systems Dance, annoncé sur PC / Steam Deck, développé par Mighty Yell Studios (The Big Con) → https://s.team/a/2110000 | https://mightyyell.com
+» Yooka-Replaylee, annoncé sur PC / Steam Deck → https://s.team/a/2448020 | https://www.playtonicgames.com/game/yooka-replaylee/ 
+» Nova Hearts: The Spark, annoncé sur Switch, PlayStation, Xbox et PC / Steam Deck, développé par Lightbulb Crew → https://s.team/a/2747740 | https://novaheartsgame.com
+» A Date with Death, le 9 déc. 2024 sur PC / Steam Deck, démo disponible, développé par Two and a Half Studios → https://s.team/a/2415010
+» LOK Digital, annoncé sur PC / Steam Deck, démo disponible, développé par Letibus Design et Icedrop Game → https://s.team/a/2207440 | https://lok-digital.com
+» Croakwood, annoncé sur PC / Steam Deck, développé par Texel Raptor → https://s.team/a/2261380 | https://croakwood.com
+
+» Cozy Marbles, annoncé sur PC / Steam Deck, démo disponible, développé par Pixel Pea Games → https://s.team/a/2836460 | https://subscribepage.io/CozyMarbles
+» Phoenix Springs, le 16 sept. 2024 sur PC / Steam Deck, développé par Calligram Studio → https://s.team/a/1973310 | https://calligramstudio.com
+» REKA, annoncé pour Q3 2024 sur PC / Steam Deck, démo disponible, développé par Emberstorm Entertainment → https://s.team/a/1737870 | https://emberstorm.de
+» Sandara: City of a Thousand Eclipses, annoncé sur PC / Steam Deck, développé par Studio Malosi → https://s.team/a/2389220
+» Airborne Empire, annoncé pour Q3 2024 sur PC / Steam Deck, développé par The Wandering Band → https://s.team/a/2438680 | https://airborneempire.com
+» Dungeon Clawler, annoncé pour Q3 2024 sur PC / Steam Deck, démo disponible → https://s.team/a/2356780 | https://strayfawnstudio.com
+» N.O.D.E., annoncé pour 2025 sur PC / Steam Deck, démo disponible, développé par lapsus Games → https://s.team/a/2757670 | https://lapsusgames.com
+» Copycat, annoncé pour sept. 2024 sur PC / Steam Deck, démo disponible, développé par Spoonful Of Wonder → https://s.team/a/1622350
+» Light Odyssey, annoncé pour Q4 2024 sur PC / Steam Deck, développé par SSUN Games → https://s.team/a/1902860
+» Psychroma, le 11 juin 2024 sur PC / Steam Deck, développé par Rocket Adrift → https://s.team/a/1879950 | https://rocketadrift.com/games
+» Slay the Princess - The Pristine Cut, automne 2024 sur consoles et PC, sous-titres en 11 langues → https://blacktabbygames.com
+
+» Echo Generation: Midnight Edition, déjà sorti sur Xbox, annoncé le 19 juin sur Switch et PC / Steam Deck, développé par Cococucumber → https://s.team/a/1072300 | https://cococucumber.co/echo-generation/
+» Rooster, annoncé pour Q1 2025 sur PC / Steam Deck, développé par Sticky Brain Studios → https://s.team/a/1834220 | https://playrooster.com
+» ALZARA Radiant Echoes, annoncé sur PC / Steam Deck, développé par Studio Cameli, musiques par Motoi Sakuraba	 → https://s.team/a/2856410 | https://alzara.studio-camelia.com
+» Timberborn, en accès anticipé depuis le 15 sept. 2021 sur PC / Steam Deck, développé par Mechanistry → https://s.team/a/1062090 | https://mechanistry.com
+» Bubblegum Galaxy, annoncé sur PC / Steam Deck, démo disponbible, développé par Smarto Club → https://s.team/a/1989120 | https://smarto.club
+» Retro Gadgets, en accès anticipé depuis le 30 nov. 2022 sur PC / Steam Deck, développé par Licorice ehf et Studio Evil → https://s.team/a/1730260 | https://retrogadgets.game
+» Nomori, annoncé pour Q3 2025 sur PC / Steam Deck, développé par Enchanted Works → https://s.team/a/2932680
+» Margin of the Strange, annoncé sur PC / Steam Deck, développé par Future Cat (One Shot) → https://s.team/a/2949750 | https://marginofthestrange.com
+» Rose and Locket, annoncé sur PC / Steam Deck, démo disponible, développé par Whistling Wizard → https://s.team/a/1697850
+» RA RA BOOM, annoncé sur PC / Steam Deck, développé par Gylee Games → https://s.team/a/2335060 | https://midwestgames.com/game/ra-ra-boom
+
+» Genokids, annoncé sur PC / Mac / Steam Deck, démo disponible, développé par Nukefist → https://s.team/a/1239360 | https://genokids.com
+» Tiny Terry's Turbo Trip, sorti le 30 mai 2024 à 17,50 sur PC / Steam Deck, développé par snekflat → https://s.team/a/2238040
+
+excuses de sac :
+- je me suis accroché à un bouton sans faire exprès (Gautoz)
+
+
+Wholesome Direct 2024
+
+» Mythmatch, annoncé sur PC / Steam Deck, démo disponible, développé par Team Artichoke → https://s.team/a/1778050 | https://teamartichoke.com
+» Caravan SandWitch, annoncé sur Switch, PlayStation 5 et PC / Steam Deck, démo disponible, développé par Studio Plane Toast → https://s.team/a/1582650 | https://caravansandwitch.com
+» Tiny Bookshop, annoncé sur PC / Steam Deck, démo disponible, développé par neoludic games → https://s.team/a/2133760 | https://tinybookshopgame.com
+» Été, le 23 juil. 2024 sur PC / Steam Deck, démo disponible, développé par Impossible → https://s.team/a/1065070 | https://impossible.dev/ete
+» Discounty, annoncé sur PlayStation, Xbox et PC / Steam Deck, démo disponible, développé par Crinkle Cut Games → https://s.team/a/2274620 | https://crinklecutgames.com
+» Rooster, annoncé pour Q1 2025 sur PC / Steam Deck, développé par Sticky Brain Studios → https://s.team/a/1834220 | https://playrooster.com
+
+jeux Playdate
+- Spellcorked, sorti le 13 juin 2022, inclus dans la saison 1 → https://play.date/games/spellcorked/
+- Reel-istic Fishing, sorti le 10 oct. 2023, 8 $ → https://play.date/games/reel-istic-fishing/
+- Faraway Fairway, sorti le 10 juin 2023, 9 $ → https://play.date/games/faraway-fairway/
+- Bloom, sorti le 15 jan. 2023, 10 $ → https://play.date/games/bloom/
+- Escape the Arcade, sorti le 28 févr. 2024, 8 $ → https://play.date/games/escape-the-arcade/
+- RowBot Rally, sortie fin 2024 → https://play.date/games/rowbot-rally/
+
+» Into the Emberlands, annoncé pour 2024 sur PC / Steam Deck, démo disponible, développé par Tiny Roar → https://s.team/a/2856370
+» Squeakross: Home Squeak Home, annoncé sur PC / Steam Deck, démo disponible, développé par Alblune → https://s.team/a/2871440 | https://squeakross.cool
+» Critter Café, annoncé sur Switch et PC / Steam Deck, développé par Sumo Digital → https://s.team/a/2367610
+» Garden of the Sea, annoncé pour Q4 2024 sur Switch et PC / Steam Deck, démo disponible, développé par Neat Corporation → https://s.team/a/2887410
+» Fantastic Haven, annoncé pour Q3 2024 sur PC / Steam Deck, prologue disponible, développé par Piece of Cake Fabulous → https://s.team/a/2556470 | https://goblinzstudio.com/game/fantastic-haven
+» Crab God, le 20 juin 2024 sur PC / Steam Deck, démo disponible, développé par Chaos Theory Games → https://s.team/a/2289390 | https://firesquid.games/games/crab-god
+» ILA: A Frosty Glide, annoncé sur PC / Steam Deck, démo disponible, développé par Magic Rain Studios → https://s.team/a/1560160 | https://www.magicrainstudios.com
+» Sally, annoncé pour Q4 2024 sur PC / Steam Deck, démo disponible, développé par Lucid Tales → https://s.team/a/2165040 | https://lucid-tales.com/sally
+» Dungeons of Hinterberg, le 18 juil. 2024 sur Xbox et PC / Steam Deck, démo disponible, développé par Microbird Games → https://s.team/a/1983260 | https://dungeonsofhinterberg.com
+» Fruitbus, annoncé pour oct. 2024 sur PC / Steam Deck, démo disponible, développé par Krillbite Studio → https://s.team/a/2484130 | https://krillbite.com/fruitbus
+
+» Freeride, annoncé pour Q1 2025 sur Switch et PC / Steam Deck, démo disponible, développé par Flightyfelon Games → https://s.team/a/1597910 | https://flightyfelongames.com
+» Kamaeru: A Frog Refuge, sorti le 8 juin 2024 sur Switch, Xbox et PC / Steam Deck, démo disponible, développé par Humble Reeds → https://s.team/a/1978150 | https://kamaeru.com
+» Lost and Found Co., annoncé sur PC / Steam Deck, démo disponible, développé par Bit Egg → https://s.team/a/2101390
+» Littlelands, annoncé sur PC / Steam Deck, développé par Rafael Martín et Kyle Creamer → https://s.team/a/2083660
+» Usagi Shima, sorti en 2023 sur Apple Arcade, sorti le 8 juin 2024 sur Android, aussi annoncé sur Steam ; développé par pank0 → https://usagishima.net
+» Minami Lane, sorti le 28 févr. 2024 à 5 € sur PC / Steam Deck, arrivée sur Switch, développé par Doot et Blibloop → https://s.team/a/2678990
+» POOOOL, sorti le 8 juin 2024 5 € sur PC / Steam Deck, développé par Noah King → https://s.team/a/2935840
+» Tiny Lands 2, annoncé pour 2025 sur PC / Steam Deck, développé par Hyper Three Studio → https://s.team/a/2213330 | https://hyperthreestudio.com
+» Moonstone Island, déjà sorti le 20 sept. 2023 à 20 € sur PC / Steam Deck, arrivée le 19 juin sur Switch, développé par Studio Supersoft → https://s.team/a/1658150
+» Rolling Hills: Make Sushi, Make Friends, sorti le 4 juin 2024 à 15 € sur PC / Steam Deck, développé par Catch & Release → https://s.team/a/1235100 | http://visitrollinghills.com
+
+» On Your Tail, annoncé pour 2024 sur Switch et PC / Steam Deck, démo disponible, développé par Memorable Games → https://s.team/a/2132560 | https://onyourtail.games
+» Spilled!, annoncé sur PC / Steam Deck, démo disponible, développé par Lente → https://s.team/a/2240080 | https://lente.me
+» The Palace on the Hill, sorti le 8 juin 2024 sur Xbox et PC / Steam Deck, développé par Niku Games → https://s.team/a/2562620 | https://nikugames.com/ThePalaceOnTheHill/
+» Travellers Rest, en accès anticipé depuis le 28 juiL. 2020 sur PC / Steam Deck, développé par Isolated Games → https://s.team/a/1139980
+» Petit Island, annoncé pour 2024 sur Switch, PlayStation 5, Xbox Series et PC / Steam Deck, démo disponible, développé par Xelo Games → https://s.team/a/1744970 | https://www.soedesco.com/games/petit-island
+» Albatroz, annoncé pour 2024 sur PC / Steam Deck, développé par Among Giants → https://s.team/a/2171880 | https://soedesco.com/games/albatroz
+» Magical Bakery, annoncé pour 2024 sur PlayStation 5, Xbox Series et PC / Steam Deck, développé par SuperLumen → https://s.team/a/2595940 | https://soedesco.com/games/magical-bakery
+» While Waiting, annoncé sur PC / Steam Deck, développé par Optillusion → https://s.team/a/2449160 | https://optillusion.games
+» SOPA - Tale of the Stolen Potato, annoncé pour Q3 2024 sur consoles et PC / Steam Deck, développé par StudioBando → https://s.team/a/1935330 | https://sopagame.com
+» Tracks of Thought, sorti le 8 juin 2024 à 20 € sur PC / Steam Deck, développé par Tidbits Play → https://s.team/a/1487630
+
+» Tukoni : Gardiens de la Forêt, annoncé pour 2025 sur PC / Steam Deck, développé par Dream Operator → https://s.team/a/2933200
+» Nom Nom: Cozy Forest Café, annoncé sur PC / Steam Deck, développé par Anaïs Salla → https://s.team/a/2428800 | https://nomnomgame.cafe
+» Curiosmos, annoncé sur PC / Steam Deck, développé par Celine Veltman, Guillaume Pauli, Robin de Paepe, Pepijn Willekens et Chris Hanney → https://s.team/a/2585710 | https://curiosmos.space
+» Hermit and Pig, annoncé sur PC / Steam Deck, développé par Heavy Lunch Studio → https://s.team/a/2408350 | https://heavylunch.studio
+» Letter Bunny, annoncé sur PC / Steam Deck, développé par Dramatic Iceberg → https://s.team/a/2559780
+» Music Power Up, annoncé pour Q4 2024 sur mobiles, PC / Mac / Steam Deck, développé par microStudio → https://s.team/a/2246370 | https://musicpowerup.com
+» Dragon Shelter, annoncé sur PC / Steam Deck, développé par Wild Forest Studio → https://s.team/a/2712590
+» Goodlands, annoncé sur PC / Steam Deck, développé par thegeolojosh → https://s.team/a/1797850
+» Boreas, annoncé sur PC / Steam Deck, développé par Low Pony → https://s.team/a/2488450
+» Monterona, annoncé sur PC / Steam Deck, démo disponible, développé par Slava Korolev → https://s.team/a/2427980
+
+» The August Before, annoncé sur PC / Steam Deck, démo disponible, développé par Silly Little Games → https://s.team/a/2736840
+» OPUS: Prism Peak, annoncé sur PC / Steam Deck, développé par Sigono → https://s.team/a/1947910 | https://www.sigono.com/
+» Space Sprouts, annoncé sur PC / Steam Deck, développé par Schleuder Games → https://s.team/a/2790020
+» Broken Lens, le 22 juil. 2024 sur PC / Steam Deck, démo disponible, développé par Team RUN (RUN: The world in-between) → https://s.team/a/2184770
+» Ringo's Roundup, annoncé sur PC / Steam Deck, démo disponible, développé par SURT → https://s.team/a/2769290 | https://surtgames.com
+» The Star Named EOS, le 23 juil. 2024 pour le printemps 2024 sur Switch, PlayStation, Xbox et PC, par Silver Lining Studio, démo sur Steam → https://s.team/a/1619230
+» Tiny Tires, annoncé sur PC / Mac / Steam Deck, développé par Jon Kristinsson → https://s.team/a/2433790 | https://tinytires.com/
+» Dawnfolk, annoncé sur PC / Steam Deck, démo disponible, développé par Darenn Keller → https://s.team/a/2308630 | https://darenn.github.io/linktree/
+» Umami Grove, annoncé sur PC VR, développé par Pomshine Games → https://s.team/a/1394470
+» Kitsune Tails, le 1er août 2024 sur PC / Steam Deck, démo disponible, développé par Kitsune Games → https://s.team/a/1325260
+
+» Building Relationships, annoncé pour 2024 sur PC / Steam Deck, démo disponible, développé par Tanat Boozayaangool → https://s.team/a/2666920 | https://www.building-relationships.com
+» Tidy Cauldron, annoncé pour 2024 sur PC / Steam Deck, démo disponible, développé par Purring Campfire → https://s.team/a/2708320
+» Pup Champs, annoncé sur PC / Steam Deck, démo disponible, développé par Afterburn → https://s.team/a/2848800
+» Map Map - A Game About Maps, annoncé sur PC / Steam Deck, développé par Pipapo Games → https://s.team/a/2702260 | https://pipapo.games
+» Omochapon | おもちゃポン → https://omochapon.com | https://twitter.com/Omochapon
+» Catto's Post Office, annoncé sur PC / Steam Deck, développé par In Shambles Studio → https://s.team/a/2908050 | https://cattogame.com
+» Wax Heads, annoncé sur PC / Steam Deck, démo disopnible, développé par Patattie Games → https://s.team/a/2769240
+» Screenbound, annoncé sur PC / Steam Deck, développé par Crescent Moon Games et Those Dang Games → https://s.team/a/2805070
+» EbiTapes, annoncé pour Q1 2025 sur PC / Steam Deck, démo disponible, développé par Marton Kiss et Lilla Turi → https://s.team/a/2221850
+» Katsl, annoncé sur PC / Steam Deck, développé par Kofka.games → https://s.team/a/2631780
+
+» Pretty Coo', développé par Dollopop Games, démo sur itch.io → https://dollopop.itch.io/pretty-coo
+» Hirocato - The Delivery Hero, annoncé pour Q3 2024 sur PC / Steam Deck, démo disponible, développé par Astero Games → https://s.team/a/2445060 | http://astero.games
+» Hello Again, annoncé pour 2025 sur PC / Steam Deck, développé par Soup Island → https://s.team/a/2052710 | https://soupisland.com
+» Undusted: Letters from the Past, annoncé sur PC / Steam Deck, démo disponible, développé par 5minlab Corp. → https://s.team/a/2891020
+
+
+Latin American Games Showcase 2024
+
+» Prisma, développé par Dreams Uncorporated, Kickstarter → https://kickstarter.com/projects/randygbk/prisma-1
+» Goblin Cleanup, annoncé sur PC / Steam Deck, démo disponible, développé par Crisalu Games → https://s.team/a/2748340
+» I Was Lost, annoncé sur PC / Steam Deck, démo disponible, développé par CH3 Collective → https://s.team/a/1935420
+» Deathbound, annoncé pour 2024 sur PlayStation 5, Xbox Series et PC / Steam Deck → https://s.team/a/1277130 | https://www.tatemultimedia.com/games/deathbound/
+» Into The Grid, annoncé Q1 2025 sur PC / Steam Deck, développé par Flatline Studios → https://s.team/a/2576200 | https://flatline.games
+» Heaven Crawler, annoncé sur PC / Steam Deck, démo disponible, développé par Carbon Machina, Critical Slash → https://s.team/a/3036360
+» Bit & Quantum: Save the Earth, annoncé sur PC VR
+» Diesel Legacy: The Brazen Age, annoncé pour 2024 sur Switch, PlayStation 5, Xbox Series et PC / Steam Deck, démo disponible, développé par Maximum Entertainment → https://s.team/a/1959140
+» One Card One Shot - Mafia, annoncé sur PC / Steam Deck, démo disponible, développé par YAW Studios → https://s.team/a/2332120
+» Ironhive, annoncé sur PC / Steam Deck, démo disponible, développé par Wondernaut Studio → https://s.team/a/2679070
+
+» Gurei, annoncé sur PC / Steam Deck, développé par Lobo Sagaz studio → https://s.team/a/2191280
+» Hidden in my Paradise, annoncé sur PC / Steam Deck, démo disponible, développé par Ogre Pixel → https://s.team/a/2834330 | https://ogrepixel.com
+» Mark of the Deep, annoncé pour 2024 sur PC / Steam Deck, démo disponible, développé par Mad Mimic → https://s.team/a/1933370
+» The Amazing Crackpots Club!, en anticipé depuis le 8 juin 2024 sur PC / Steam Deck, démo disponible, développé par Astrobard Games, IguanaBee → https://s.team/a/2474020 | https://beacons.ai/iguanabee
+» Arco, annoncé pour 2024 sur PC / Steam Deck, démo disponible, développé par Franek, Max Cahill, Bibiki, Fáyer → https://s.team/a/2366970 | https://arco.game
+» Projéct Timi: Sasha's Curse, annoncé sur Switch et PC / Steam Deck, démo disponible, développé par Ephemeral Cube → https://s.team/a/1882710 | https://www.projecttimi.com
+» Naughty Geese, annoncé pour 2025 sur consoles et PC / Steam Deck, développé par Statera Studio → https://s.team/a/2877860 | https://staterastudio.com
+» Runa & the Chaikurú Legacy, annoncé sur PC / Steam Deck, démo disponible, développé par Fanny Pack Studios → https://s.team/a/2283470 | https://fannypackstudios.com
+» Vinebound: Tangled Together, annoncé sur PC / Steam Deck, démo disponible, développé par Riftpoint Entertainment → https://s.team/a/2410030 | https://vinebound.com
+» Slime Heroes, annoncé sur PC / Steam Deck, démo disponible, développé par Pancake Games → https://s.team/a/1511880
+
+» The Path Into The Abyss, annoncé sur PC / Steam Deck, développé par MXR Productions → https://s.team/a/3000460
+» The Coldest Winter, annoncé pour Q1 2025 sur PC / Steam Deck, démo disponible, développé par Vibe XP → https://s.team/a/2627420 | https://vibexp.com
+» Hollow Flowers, annoncé sur Switch et PC / Steam Deck → https://ruidoamigo.com/HollowFlowers
+» Among The Stars, annoncé sur Switch, PlayStation, Xbox et PC / Steam Deck, développé par Hidden Universe Games → https://s.team/a/1990240
+» Mexico, 1921. A Deep Slumber, annoncé pour 2024 sur PC / Steam Deck, démo disponible, développé par Mácula Interactive → https://s.team/a/1851090 | https://maculainteractive.com/1921
+» Curilemu, annoncé sur PC / Steam Deck, développé par Austral Games et Abstract Digital → https://s.team/a/2362780 | https://curilemu.com
+» SOPA - Tale of the Stolen Potato, annoncé pour Q3 2024 sur Xbox et PC / Steam Deck, développé par StudioBando → https://s.team/a/1935330 | https://sopagame.com
+» The War in Chiapas, annoncé pour 2025 sur PC / Steam Deck, développé par Bandprice → https://s.team/a/2121640 | https://thewarinchiapas.com
+» Keylocker | Turn Based Cyberpunk Action, annoncé sur Switch, PlayStation, Xbox et PC / Steam Deck, démo disponible, développé par Moonana → https://s.team/a/1325040 | https://serenityforge.com/games/keylocker
+» Travel On, Pigeon!, déc. 2024 sur PC / Steam Deck, démo disponible, développé par Fog Angler → https://s.team/a/2887950
+
+» Extinction Rifts, annoncé sur PC / Steam Deck, développé par QUByte Interactive → https://s.team/a/2923200
+» Desvelado, annoncé pour 2024 sur PC / Steam Deck, démo disponible, développé par Valentín Zacarías, Pablo Cuello, Joaquín Calvo → https://s.team/a/2878710
+» Pipistrello and the Cursed Yoyo, annoncé sur PC / Steam Deck, démo disponible, développé par Pocket Trap → https://s.team/a/2870350
+» Wind Runners, annoncé sur PC / Steam Deck, développé par Ludic Studios → https://s.team/a/1101370
+» Wander Stars, annoncé sur Switch et PC / Steam Deck, démo disponible, développé par Paper Castle Games → https://s.team/a/1575810 | https://papercastlegames.com/wanderstars/
+» Kulebra and the Souls of Limbo, annoncé sur Switch et PC / Steam Deck, démo disponible, développé par Galla → https://s.team/a/2246470 | https://gallagames.com/games.php
+» Zet Zillions, sorti le 23 mai 2024 à 10 € sur PC / Steam Deck → https://s.team/a/2229560 | https://zetzillions.com
+» Neva, annoncé pour 2024 sur Switch, PlayStation, Xbox et PC / Steam Deck → https://s.team/a/2420660 | https://neva.game
+
+» Atomic Picnic, annoncé sur PC / Steam Deck, développé par BitCake Studio → https://s.team/a/1903560
+» Century of Anticipation, annoncé sur PC / Steam Deck, démo disponible, développé par gools, Time Galleon → https://s.team/a/2555760 | https://www.timegalleon.com
+» Super Farming Boy, annoncé sur mobiles, Switch, PC / Steam Deck, démo disponible, développé par LemonChili Soft → https://s.team/a/659300 | https://superfarmingboy.com
+» The Midnight Crimes, annoncé sur Switch, PlayStation, Xbox et PC / Steam Deck, démo disponible, développé par DeadlyCrow Games → https://s.team/a/2277870
+» despelote, annoncé sur PlayStation, Xbox et PC / Steam Deck, démo disponible, développé par Julián Cordero, Sebastian Valbuena → https://s.team/a/2367820 | https://despelotegame.com
+» Payloaders Strike!, annoncé sur PC / Steam Deck, démo disponible, développé par Seven Leaf Clover → https://s.team/a/1977200
+» Sky Oceans: Wings for Hire, annoncé pour 2024 sur Switch, PlayStation, Xbox et PC / Steam Deck, développé par Octeto Studios → https://s.team/a/1691750
+» Under Canopies, annoncé sur PC / Steam Deck, démo disponible, développé par Novemtails → https://s.team/a/2939510 | https://undercanopies.com
+» The Cabbage Effect, annoncé sur PC / Steam Deck, développé par inja Garage → https://s.team/a/1342150 | http://ninjagarage.com
+» Bittersweet Birthday, annoncé pour Q2 2025 sur Switch, PlayStation, Xbox et PC / Steam Deck, démo disponible, développé par World Eater Games → https://s.team/a/1581100 | https://worldeater.games
+
+» Abyss X Zero, annoncé sur PC / Steam Deck, développé par Studio Pixel Punk → https://s.team/a/2872300
+» Beacon of Neyda, annoncé sur PlayStation, Xbox et PC / Steam Deck, développé par Ghost Creative Studio → https://s.team/a/2000970 | https://beaconofneyda.ghostcreativestudio.net
+» RoadOut, annoncé pour Q4 2024 sur PC / Steam Deck, démo disponible, développé par Rastrolabs Game Studio → https://s.team/a/1829270 | https://roadout.dangenentertainment.com/
+» Boyscout - Patrick's Town, annoncé sur PC / Steam Deck, démo disponible, développé par Ratikagames → https://s.team/a/2537480
+» Super Crane HD, annoncé sur PC / Steam Deck, développé par CalixJumio → https://s.team/a/2976620
+» Dreamsweeper, annoncé pour 2024 sur PC / Steam Deck, démo disponible, développé par Etherlight, Oatmello → https://s.team/a/2540800
+» Eagle Knight Paradox, annoncé pour févr. 2025 sur Switch, PlayStation, Xbox et PC / Steam Deck ; développé par Playstorm Studios, campagne sur Kickstarter → https://www.kickstarter.com/projects/playstormstudios/eagle-knight-paradox
+» SoulQuest, annoncé sur PC / Steam Deck, démo disponible, développé par SoulBlade Studio et TomasJPereyra → https://s.team/a/2512450
+» Codex Eternal Eclipse, annoncé pour Q1 2026 sur PC / Steam Deck, développé par Mogu
+» Tenebris Somnia, annoncé sur PC / Steam Deck, démo disponible, développé par Andrés Borghi et Tobías Rusjan → https://s.team/a/2121510 | http://tenebrissomnia.com
+
+» Vultures - Scavengers of Death, annoncé sur PC / Steam Deck, démo disponible, développé par Team Vultures → https://s.team/a/2537470
+» Stay with Me! Alien Abduction Story, annoncé pour 2024 sur PC / Steam Deck, démo disponible, développé par Dreams of Heaven → https://s.team/a/1794750 | https://staywithmegame.com
+» Dreamcore, annoncé sur PC / Steam Deck, démo disponible, développé par Montraluz → https://s.team/a/2453060 | https://dreamcoregame.com
+» Saborus, annoncé sur PC / Steam Deck, démo disponible, développé par High Room Studio → https://s.team/a/2768030
+» Bloodrush: Undying Wish, annoncé pour 2024 sur PC / Steam Deck, démo disponible, développé par Lightmancer Studios → https://s.team/a/2471390 | https://bloodrushundyingwish.com.br
+» Dark Crown, annoncé sur PC / Steam Deck, démo disponible, développé par Hyper Dive Studio → https://s.team/a/3021800
+» Digital Exorcist CF1_Defrag, annoncé sur PC / Steam Deck, démo disponible, développé par Cool Beans Productions → https://s.team/a/2944390
+» Astral Rot, annoncé sur PC / Steam Deck, développé par Abstract Digital → https://s.team/a/2474170
+» Mariachi Legends, annoncé pour 2024 sur Switch et PC / Steam Deck, démo disponible, développé par Halberd Studios → https://s.team/a/2376260
+
+
+Women-Led Games
+
+» The Palace on the Hill, sorti le 8 juin 2024 à 20 € sur Xbox et PC / Steam Deck, développé par Niku Games → https://s.team/a/2562620 | https://nikugames.com/ThePalaceOnTheHill/
+» Yes, Your Grace: Snowfall, annoncé pour 2024 sur PC / Steam Deck, démo disponible, développé par Brave At Night → https://s.team/a/1373090 | https://www.braveatnight.co.uk
+» Citadelum, annoncé pour 2024 sur PC / Steam Deck, démo disponible, développé par Abylight Barcelona → https://s.team/a/2603020 | https://abylight.com/es/juego/citadelum
+» SunnySide, le 14 juin 2024 sur PC / Steam Deck, le 16 août sur PlayStation et Xbox, démo disponible, développé par RainyGames → https://s.team/a/1746930 | https://www.mergegames.com/games/sunnyside/
+» The Crush House, le 9 août 2024 sur PC / Steam Deck, développé par Nerial Games → https://s.team/a/2337820 | https://thecrush.house | https://devolverdigital.com/games/the-crush-house
+» Duck Detective: The Secret Salami, sorti le 23 mai 2024 sur Switch, Xbox et PC / Steam Deck, développé par Happy Broccoli Games → https://s.team/a/2637990 | https://happybroccoligames.com
+» Just Crow Things, annoncé sur Xbox et PC / Steam Deck, démo disponible, développé par Unbound Creations → https://s.team/a/2537920 | http://unboundcreations.com/games/crowy
+» Phoenix Springs, le 16 sept. 2024 sur PC / Steam Deck, développé par Calligram Studio → https://s.team/a/1973310 | https://calligramstudio.com
+» Albert Wilde: Quantum P.I., annoncé sur PC / Steam Deck, démo disponible, développé par beyondthosehills → https://s.team/a/1810670 | https://beyondthosehills.com/quantum-pi/
+» Soulitaire, annoncé sur PC / Steam Deck, démo disponible, développé par Beardshaker Games → https://s.team/a/1953770
+
+» Mexico, 1921. A Deep Slumber, annoncé sur PC / Steam Deck, démo disponible, développé par Mácula Interactive → https://s.team/a/1851090 | https://maculainteractive.com/1921
+» Woodo, annoncé sur PC / Steam Deck, développé par Yullia Prohorova et Timur Bogotof → https://s.team/a/2572040 | https://www.woodo-game.com
+» Star Stuff, sorti le 7 juin 2024 à 15 € sur PC / Steam Deck, développé par Animo Games → https://s.team/a/1955110 | https://starstuffgame.com
+» The Star Named EOS, le 23 juil. 2024 pour le printemps 2024 sur Switch, PlayStation, Xbox et PC, par Silver Lining Studio, démo sur Steam → https://s.team/a/1619230
+» Bubblegum Galaxy, annoncé sur PC / Steam Deck, démo disponbible, développé par Smarto Club → https://s.team/a/1989120 | https://smarto.club
+» Abyss X Zero, annoncé sur PC / Steam Deck, développé par Studio Pixel Punk → https://s.team/a/2872300
+» Dungeon Clawler, annoncé pour Q3 2024 sur PC / Steam Deck, démo disponible → https://s.team/a/2356780 | https://strayfawnstudio.com
+» Hyde's Haunt & Seek, annoncé sur PC / Steam Deck, développé par Smol Games → https://s.team/a/1641040 | https://smol.fun
+» Münch, annoncé pour Q4 2024 sur PC / Steam Deck, démo disponible, développé par Mac n Cheese Games → https://s.team/a/2427050
+» Urban Jungle, annoncé sur PC / Steam Deck, démo disponible, développé par Kylyk Games → https://s.team/a/2744010
+
+
+Future Games Show
+
+» Bogdan's Cross, annoncé pour 2025 sur PC / Steam Deck, démo disponible, développé par Federico Moreno Breser → https://s.team/a/2503230 | https://bogdanscross.com
+» First Dwarf, annoncé pour Q2 2024 sur PC / Steam Deck, démo disponible, développé par Star Drifters → https://s.team/a/1714900 | http://firstdwarfgame.com
+» Nobody Wants to Die, annoncé sur PlayStation 5, Xbox Series et PC / Steam Deck, développé par Critical Hit Games → https://s.team/a/1939970 | http://nobodywantstodie.games
+» Detective Dotson, annoncé pour Q4 2024 sur PC / Steam Deck, développé par Masala Games Private Limited → https://s.team/a/2450840 | http://dotson.in
+» Once Human, le 9 juil. 2024 sur PC / Steam Deck, démo disponible ; développé par Starry Studio → https://s.team/a/2139460 | https://oncehuman.game
+» In Sink, annoncé pour 2024 sur PC / Steam Deck, prologue gratuit, développé par Clock Out Games → https://s.team/a/1858650
+» DREDGE - DLC The Iron Rig, le 15 août 2024 sur Switch, PlayStation, Xbox et PC / Steam Deck, développé par Black Salt Games → https://s.team/a/2561450 | https://blacksaltgames.com
+» Diabotical Rogue, en accès anticipé depuis le 4 juin 2024 à 19 € sur PC / Steam Deck, développé par GD Studio Inc → https://s.team/a/2805060 | https://diabotical.com
+» StarVaders, annoncé pour 2024 sur PC / Steam Deck, démo disponible, développé par StarVaders Studio → https://s.team/a/2097570 | https://star-vaders.com
+» Sword of the Necromancer: Resurrection, annoncé pour 2024 sur PC / Steam Deck, démo disponible, développé par Grimorio of Games → https://s.team/a/2782880 | https://grimorioofgames.com
+
+» Antonblast, le 12 nov. 2024 sur PC / Steam Deck, démo disponible, développé par Summitsphere → https://s.team/a/1887400 | https://summitsphere.com
+» Farlands, annoncé sur PC / Steam Deck, démo disponible, développé par JanduSoft et Eric Rodríguez → https://s.team/a/2252680
+» Big Boy Boxing, annoncé sur PC / Steam Deck, démo disponible, développé par Soupmasters → https://s.team/a/1680780 | https://soupmasters.com
+» Parcel Corps, le 3 sept. 2024 sur PlayStation 5, Xbox Series et PC / Steam Deck, développé par Billy Goat Entertainment Ltd → https://s.team/a/2015960 | https://parcelcorps.game
+» Screenbound, annoncé sur PC / Steam Deck, développé par Crescent Moon Games et Those Dang Games → https://s.team/a/2805070
+» Happy Bastards, annoncé sur PC / Steam Deck, développé par Clever Plays → https://s.team/a/2964560 | https://happybastardsgame.com
+» The Relic: First Guardian, annoncé pour 2025 sur PlayStation 5, Xbox Series et PC / Steam Deck, développé par Project Cloud Games → https://s.team/a/2827820 | https://perpgames.com/game/relic/
+» Hell of an Office, en accès anticipé depuis le 14 mars 2023, version finale le 3 oct. 2024 sur PC / Steam Deck, développé par 43 Studios → https://s.team/a/1640890
+» The Operator, annoncé pour Q3 2024 sur PC / Steam Deck, démo disponible ; développé par Bureau 81 → https://s.team/a/1771980
+» Deliver Us Home, annoncé sur PC / Steam Deck, développé par KeokeN Interactive → https://s.team/a/2561340 | https://deliverushome.com
+» The Precinct, le 15 août 2024 sur PlayStation, Xbox et PC / Steam Deck, développé par Fallen Tree Games → https://s.team/a/490110 | https://fallentreegames.com
+
+» Motordoom, le 2 août 2024, sur PC / Steam Deck, démo disponible, développé par Hobo Cat Games → https://s.team/a/1894720
+» Angeline Era, annoncé pour 2025 sur PC / Steam Deck, démo disponible, développé par Melos Han-Tani et Marina Kittaka → https://s.team/a/2393920
+» 10 Dead Doves, annoncé pour 2024 sur PC / Steam Deck, démo disponible, développé par Duonix Studios, Mark Byram II et Sean-Michael Millard → https://s.team/a/1564540 | https://10deaddoves.com
+» Servonauts, annoncé sur Switch et PC / Steam Deck, démo disponible, développé par MAXART Games → https://s.team/a/2514400 | https://servonauts.com
+» Dystopika, annoncé pour Q3 2024 sur PC / Steam Deck, démo disponible ; développé par Voids Within → https://s.team/a/2379910 | https://voidswithin.com
+» Guntouchables, annoncé pour Q3 2024 sur PC / Steam Deck, démo disponible, développé par Game Swing → https://s.team/a/2543510 | https://game-swing.com/guntouchables/
+» Wild Bastards, le 12 sept. 2024 sur PC / Steam Deck, démo disponible, développé par Blue Manchu → https://s.team/a/1660840
+» Metal Suits Counter Attack, annoncé pour Q4 2024 sur PC / Steam Deck, développé par Eggtart → https://s.team/a/2093800
+» RunOut - Run & Fun Together, annoncé sur PC / Steam Deck, développé par WakaStudio → https://s.team/a/2438120 | https://runout.world
+
+» Duck Detective: The Secret Salami, sorti le 23 mai 2024 sur Switch, Xbox et PC / Steam Deck, développé par Happy Broccoli Games → https://s.team/a/2637990 | https://happybroccoligames.com
+» SacriFire, annoncé sur PC / Steam Deck, développé par Pixelated Milk → https://s.team/a/1661330
+» Warhammer 40,000: Space Marine 2, annoncé pour le 9 sept. 2024 sur PlayStation 5, Xbox Series et PC, développé par Saber Interactive → https://s.team/a/2183900 | https://www.focus-entmt.com/fr/games/warhammer-40000-space-marine-2
+» Goat Simulator 3 - DLC Multiverse of Nonsense, le 19 juin 2024 sur mobiles, PlayStation 5, Xbox Series et PC / Steam Deck, développé par Coffee Stain North → https://s.team/a/2809180 | https://goatsimulator3.com/fr/
+» SCHiM, le 18 juil. 2024 sur Switch, PlayStation et PC / Steam Deck, démo disponible, développé par Ewoud van der Werf et Nils Slijkerman → https://s.team/a/1519710 | https://schimgame.com
+» World's Worst Handyman, annoncé pour sept. 2024 sur PC / Steam Deck, démo disponible, développé par Baby Lumberjack → https://s.team/a/1333930 | https://worldsworsthandyman.com
+» Judero, annoncé sur PC / Steam Deck, démo disponible, démo disponible, développé par J. King-Spooner, Talha Kaya et Jack Co → https://s.team/a/1960900
+» Hermit and Pig, annoncé sur PC / Steam Deck, développé par Heavy Lunch Studio → https://s.team/a/2408350 | https://heavylunch.studio
+» Eriksholm: The Stolen Dream, annoncé pour 2025 sur PC / Steam Deck, développé par River End Games → https://s.team/a/2377280
+» Run From Mummies, annoncé pour Q3 2024 sur PlayStation 5 et PC / Steam Deck, démo disponible, développé par Lost Turnip → https://s.team/a/2503180
+
+» Mandragora, annoncé sur Switch, PlayStation 5, Xbox Series et PC / Steam Deck, développé par Primal Game Studio → https://s.team/a/1721060 | https://mandragoragame.com
+» Dustborn, le 20 aout 2024 sur PlayStation, Xbox et PC / Steam Deck, développé par Red Thread Games → https://s.team/a/721180 | https://www.wearedustborn.com
+» Enter the Chronosphere, annoncé sur PC / Steam Deck, développé par Effort Star → https://s.team/a/1969810
+» Toy Tactics, en accès anticipé depuis le 17 mars 2023, version finale le xxx sur PC / Steam Deck, démo disponible, développé par Kraken Empire → https://s.team/a/1772530 | https://www.krakenempire.com/toy-tactics/
+» Linkito, annoncé sur PC / Steam Deck, démo disponible, développé par Kalinarm → https://s.team/a/2312770 | https://playdigious.com/games/linkito/
+» Pneumata, annoncé pour Q3 2024 sur PlayStation 5, Xbox Series et PC / Steam Deck, développé par Deadbolt Interactive → https://s.team/a/1183850 | https://deadboltinteractive.com
+» Sonokuni, annoncé sur PC / Steam Deck, démo disponible, développé par Don Yasa Crew → https://s.team/a/2054380 | https://sonokuni.com
+» Eternal Strands, annoncé pour 2025 sur PlayStation 5, Xbox Series et PC / Steam Deck, par Yellow Brick Games → https://eternalstrandsgame.com | https://s.team/a/1491410
+» Starship Troopers: Extermination - Carnage on Planet X-11, en accès anticipé depuis le 17 mai 2023 à 29 € sur PC / Steam Deck, développé par Offworld → https://s.team/a/1268750
+» The Casting of Frank Stone, annoncé sur PlayStation 5, Xbox Series et PC / Steam Deck, développé par Supermassive Games → https://s.team/a/2223840 | https://thecastingoffrankstone.com
+
+» Nikoderiko: The Magical World, annoncé sur Switch, PlayStation, Xbox et PC / Steam Deck, développé par VEA Games → https://s.team/a/2374190 | https://nikoderiko-game.com
+» Bodycam, en accès anticipé depuis le 8 juin 2024 à 30 € sur PC / Steam Deck, développé par Reissad Studio → https://s.team/a/2406770 | https://reissad.com
+» un jeu de Woodrunner Games → https://woodrunnergames.com
+
+raids entrants
+- NoFrag à 20:31 +11
+
+raids : OrigaTwitch => (22:34)[+680] HortyUnderscore (terminé à 23:04)
+
+
+
+
+» xxx, annoncé sur consoles et PC / Steam Deck, développé par xxx → https://s.team/a/
+» xxx, annoncé sur consoles et PC / Steam Deck, développé par xxx → https://s.team/a/
+» xxx, annoncé sur PC / Steam Deck, développé par xxx → https://s.team/a/
+» xxx, annoncé sur PC / Steam Deck, développé par xxx → https://s.team/a/
+
+
 
 
 
