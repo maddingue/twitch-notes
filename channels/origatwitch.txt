@@ -1455,7 +1455,7 @@ Invités :
 
 » Garou: Mark of the Wolves, sorti en 1999 sur arcade, en 2000 sur Neo Geo, en 2001 sur Dreamcast ; développé par SNK, équipe dirigée par Hiroshi Matsumoto, direction artistique par D. Takagi, M. Hirano, N. Kuroki, Soe Soe, Heitarou, Rolly-R, programmation par Bo-Fukunaga, musiques par Akihiro Uchida, Masato Horiuchi, Yasuhiro Naka
 
-» Fatal Fury: City of the Wolves, annoncé sur PlayStation 5, Xbox Series et PC ; développé par SNK
+» Fatal Fury: City of the Wolves, annoncé sur PlayStation 5, Xbox Series et PC ; développé par SNK → https://s.team/a/2492040
 » 🇫🇷 [ActuGaming / 6 août 2023] Fatal Fury: City of the Wolves dévoile ses premières images → https://cutt.ly/OwL3QXtK
 
 » Project L, annoncé sur PC ; développé par Riot Games → https://project-l.riotgames.com
@@ -5175,7 +5175,7 @@ jeux présentés (suite) : Bloodless | Toxic Crusaders | Devilated | Iron Meat |
 » The Transylvania Adventure of Simon Quest, annoncé pour 2025 sur Switch, PlayStation Xbox et PC / Steam Deck → https://s.team/a/2749920
 » 都市伝説解体センター / Urban Myth Dissolution Center, annoncé sur Switch et PC / Steam Deck → https://s.team/a/2089600 | https://shueisha-games.com
 
-» Cozy Dungeons, annoncé sur PC / Steam Deck → https://s.team/a/2377600
+» Cozy Dungeons, annoncé sur PC / Steam Deck ; développé par Them Handsome Fellas → https://s.team/a/2377600
 » DoubleShake, annoncé sur Switch, PlayStation et PC / Steam Deck, démo disponible → https://s.team/a/1445190 | https://rightstickstudios.com
 » The Land of the Magnates, annoncé sur PC / Steam Deck, démo disponible → https://s.team/a/2816570
 » Creatures of Ava, annoncé pour 2024 sur PC / Steam Deck → https://s.team/a/2304440
@@ -5214,7 +5214,7 @@ jeux présentés (suite) : Bloodless | Toxic Crusaders | Devilated | Iron Meat |
 » Beyond the Ice Palace II, annoncé sur Switch, PlayStation, Xbox et PC / Steam Deck → https://s.team/a/2384730 | https://pqube.co.uk/games/beyond-the-ice-palace-2/
 » Renaine, annoncé sur PC / Steam Deck, démo déisponible → https://s.team/a/662340
 » Immortal Hunters, annoncé sur PC / Steam Deck → https://s.team/a/2336760
-» Pinball Spire, annoncé sur PC / Steam Deck, démo disponible → https://s.team/a/2601940
+» Pinball Spire, annoncé sur PC / Steam Deck, démo disponible ; développé par Apparition Games → https://s.team/a/2601940
 » Chainstaff
 » StormEdge, annoncé pour Q3 2024 sur PC / Steam Deck → https://s.team/a/2321350
 » Münch, annoncé pour Q4 2024 sur PC / Steam Deck → https://s.team/a/2427050
@@ -5272,7 +5272,7 @@ jeux Blumhouse : Crisol: Theater of Idols | Fear the Spotlight | Project C██
 » Cuffbust, annoncé pour 2025 sur PC / Steam Deck → https://s.team/a/2592220
 » Star Wars Outlaws, le 30 août 2024 sur PlayStation 5, Xbox Series et PC / Steam Deck, développé par Massive Entertainment, édité par Ubisoft → https://ubisoft.com/fr-fr/game/star-wars/outlaws
 » Neva, annoncé pour 2024 sur Switch, PlayStation, Xbox et PC / Steam Deck → https://s.team/a/2420660 | https://neva.game
-» Civilization VII, annoncé sur PC / Steam Deck → https://s.team/a/ → https://civilization.2k.com
+» Civilization VII, annoncé pour 2025 sur PC / Steam Deck ; développé par Firaxis → https://s.team/a/1295660 → https://civilization.2k.com
 » Black Myth: Wukong, le 20 août 2024 sur PlayStation 5, Xbox Series et PC, développé par Game Science → https://heishenhua.com | https://s.team/a/2358720
 » Asgard’s Wrath 2, annoncé sur Meta Quest 3 → https://www.meta.com/experiences/846896660051683/
 » Once Human, le 9 juil. 2024 sur PC / Steam Deck ; développé par Starry Studio → https://s.team/a/2139460
@@ -5369,11 +5369,11 @@ Devolver Direct
 jeux présentés durant Devolver Direct : Cult of the Lamb - DLC Unholy Alliance | The Crush House | Tenjutsu | The Talos Principle 2 - DLC Road to Elysium | Anger Foot | Possessor(s)
 
 » Cult of the Lamb - DLC Unholy Alliance, le 12 août 2024 sur toutes les plates-formes → https://cultofthelamb.com
-» The Crush House, le 9 août 2024 sur PC / Steam Deck, développé par Nerial → https://s.team/a/2337820 | https://thecrush.house | https://devolverdigital.com/games/the-crush-house
-» Tenjutsu, annoncé sur consoles et PC / Steam Deck, développé par Deepnight Games → https://s.team/a/1363940 | https://deepnight.net | https://devolverdigital.com/games/tenjutsu
+» The Crush House, le 9 août 2024 sur PC / Steam Deck, démo disponible ; développé par Nerial → https://s.team/a/2337820 | https://thecrush.house | https://devolverdigital.com/games/the-crush-house
+» Tenjutsu, annoncé sur consoles et PC / Steam Deck, développé par Deepnight Games, derrière Nuclear Blaze (2021) → https://s.team/a/1363940 | https://deepnight.net | https://devolverdigital.com/games/tenjutsu
 » The Talos Principle 2 - DLC Road to Elysium, le 14 juin 2024 sur toutes les plates-formes → https://thetalosprinciple.com
 » Anger Foot, le 11 juil. 2024 sur PC / Steam Deck, développé par Free Lives → https://s.team/a/1978590 | https://devolverdigital.com/games/anger-foot
-» Possessor(s), annoncé pour 2025 sur PC / Steam Deck, développé par Heart Machine → https://s.team/a/2132890
+» Possessor(s), annoncé pour 2025 sur PC / Steam Deck, développé par Heart Machine, studio derrière Hyper Solar Ash (2022), Light Drifter (2016) → https://s.team/a/2132890
 
 
 excuses de sac :
@@ -5509,7 +5509,7 @@ jeux Playdate
 » Map Map - A Game About Maps, annoncé sur PC / Steam Deck, développé par Pipapo Games → https://s.team/a/2702260 | https://pipapo.games
 » Omochapon | おもちゃポン → https://omochapon.com | https://twitter.com/Omochapon
 » Catto's Post Office, annoncé sur PC / Steam Deck, développé par In Shambles Studio → https://s.team/a/2908050 | https://cattogame.com
-» Wax Heads, annoncé sur PC / Steam Deck, démo disopnible, développé par Patattie Games → https://s.team/a/2769240
+» Wax Heads, annoncé sur PC / Steam Deck, démo disopnible ; développé par Patattie Games → https://s.team/a/2769240
 » Screenbound, annoncé sur PC / Steam Deck, développé par Crescent Moon Games et Those Dang Games → https://s.team/a/2805070
 » EbiTapes, annoncé pour Q1 2025 sur PC / Steam Deck, démo disponible, développé par Marton Kiss et Lilla Turi → https://s.team/a/2221850
 » Katsl, annoncé sur PC / Steam Deck, développé par Kofka.games → https://s.team/a/2631780
@@ -5547,7 +5547,7 @@ Latin American Games Showcase 2024
 » The Path Into The Abyss, annoncé sur PC / Steam Deck, développé par MXR Productions → https://s.team/a/3000460
 » The Coldest Winter, annoncé pour Q1 2025 sur PC / Steam Deck, démo disponible, développé par Vibe XP → https://s.team/a/2627420 | https://vibexp.com
 » Hollow Flowers, annoncé sur Switch et PC / Steam Deck → https://ruidoamigo.com/HollowFlowers
-» Among The Stars, annoncé sur Switch, PlayStation, Xbox et PC / Steam Deck, développé par Hidden Universe Games → https://s.team/a/1990240
+» Among The Stars, annoncé sur Switch, PlayStation, Xbox et PC / Steam Deck ; développé par Split Studio → https://www.splitstudio.games/amongthestars
 » Mexico, 1921. A Deep Slumber, annoncé pour 2024 sur PC / Steam Deck, démo disponible, développé par Mácula Interactive → https://s.team/a/1851090 | https://maculainteractive.com/1921
 » Curilemu, annoncé sur PC / Steam Deck, développé par Austral Games et Abstract Digital → https://s.team/a/2362780 | https://curilemu.com
 » SOPA - Tale of the Stolen Potato, annoncé pour Q3 2024 sur Xbox et PC / Steam Deck, développé par StudioBando → https://s.team/a/1935330 | https://sopagame.com
@@ -5700,13 +5700,13 @@ Xbox Showcase 2024
 jeux présentés : CoD Black Ops 6 | DOOM the Dark Ages | State of Decay 3 | Dragon Age: The Veilguard | Starfield - Shattered Space | Fallout 76 - Skyline Valley | Expedition 33 | South of Midnight | WoW - The War Within | Metal Gear Solid Δ: Snake Eater | Sea of Thieves - s.13 | Flintlock | Age of Mythology | Perfect Dark | Diablo IV - Vessel of Hatred | Fable | FragPunk | Winter Burrow | Mixtape | Flight Sim 2024 | Indiana Jones et le Cercle Ancien | Mecha Break | Wuchang: Fallen Feathers | Avowed | Atomfall | Assassin's Creed Shadows | STALKER 2 : Heart of Chornobyl | Gears of War - E-Day
 
 » Call of Duty Black Ops 6, annoncé sur PlayStation 5, Xbox Series et PC / Steam Deck, développé par Treyarch, Raven Software, Beenox, High Moon Studios, Activision Shanghai, Sledgehammer Games, Infinity Ward, Demonware → https://s.team/a/2933620 | https://callofduty.com
-» DOOM the Dark Ages, annoncé pour 2025 sur PlayStation 5, Xbox Series (Game Pass) et PC / Steam Deck, développé par id Software → https://s.team/a/3017860 | https://slayersclub.bethesda.net
+» DOOM the Dark Ages, annoncé pour 2025 sur PlayStation 5, Xbox Series (Game Pass) et PC / Steam Deck ; développé par id Software → https://s.team/a/3017860 | https://slayersclub.bethesda.net
 » State of Decay 3, annoncé sur Xbox Series (Game Pass) et PC / Steam Deck, développé par Undead Labs → https://s.team/a/1340720 | https://stateofdecay.com/state-of-decay-3/
-» Dragon Age: The Veilguard, annoncé pour fin 2024 sur PlayStation 5, Xbox Series et PC / Steam Deck, développé par BioWare → https://s.team/a/1845910 | https://ea.com/games/dragon-age/dragon-age-the-veilguard
+» Dragon Age: The Veilguard, annoncé pour fin 2024 sur PlayStation 5, Xbox Series et PC / Steam Deck ; développé par BioWare → https://s.team/a/1845910 | https://ea.com/games/dragon-age/dragon-age-the-veilguard
 » Starfield - DLC Shattered Space, annoncé pour automne 2024 sur Xbox et PC / Steam Deck, développé par Bethesda Game Studios → https://s.team/a/1716740 | https://starfield.bethesda.net
 » Fallout 76 - DLC Skyline Valley, annoncé pour juillet 2024 sur Xbox et PC / Steam Deck, développé par Bethesda Game Studios → https://s.team/a/1151340 | https://fallout.bethesda.net
-» Clair Obscur: Expedition 33, annoncé pour 2025 sur Xbox Series (Game Pass) et PC / Steam Deck, développé par Sandfall, studio basé à Montpellier → https://s.team/a/1903340 | https://sandfall.co
-» South of Midnight, annoncé pour 2025 sur Xbox Series (2025) et PC, dans le Game Pass, par Compulsion Games (We happy Few, Contrast) → https://s.team/a/1934570 | https://compulsiongames.com/games/south-of-midnight/
+» Clair Obscur: Expedition 33, annoncé pour 2025 sur PlayStation 5, Xbox Series (Game Pass) et PC / Steam Deck, développé par Sandfall, studio basé à Montpellier → https://s.team/a/1903340 | https://sandfall.co
+» South of Midnight, annoncé pour 2025 sur Xbox Series (2025) et PC, dans le Game Pass ; développé par Compulsion Games (We happy Few, Contrast) → https://s.team/a/1934570 | https://compulsiongames.com/games/south-of-midnight/
 » World of Warcraft - The War Within, le 26 août 2024 → https://worldofwarcraft.blizzard.com
 » Metal Gear Solid Delta: Snake Eater, annoncé sur PlayStation 5, Xbox Series et PC / Steam Deck → https://konami.com/mg/mgs3r/eu/en/
 
@@ -5715,14 +5715,14 @@ jeux présentés : CoD Black Ops 6 | DOOM the Dark Ages | State of Decay 3 | Dra
 » Age of Mythology: Retold, le 4 sept. 2024 sur Xbox Series (Game Pass) et PC, développé par le studio World's Edge, déjà derrière les rééditions des Age of Empires → https://s.team/a/1934680
 » Perfect Dark, annoncé pour Xbox Series (Game Pass) et PC ; développé par The Initiative et Crystal Dynamics → https://s.team/a/2986410
 » Diablo IV - DLC Vessel of Hatred, le 8 oct. 2024 sur PlayStation, Xbox et PC / Steam Deck ; développé par Blizzard → https://s.team/a/3043530 | https://diablo4.blizzard.com
-» Fable, annoncé pour 2025 sur Xbox Series (Game Pass) et PC, développé par Playground Games (séries des Forza Horizon) → https://s.team/a/2769570
+» Fable, annoncé pour 2025 sur Xbox Series (Game Pass) et PC ; développé par Playground Games (séries des Forza Horizon) → https://s.team/a/2769570
 » FragPunk, F2P annoncé pour 2025 sur Xbox Series et PC ; développé par Bad Guitar Studio → https://s.team/a/2943650
 » Winter Burrow, annoncé pour Q1 2025 sur Xbox et PC / Steam Deck, développé par Pine Creek Games → https://s.team/a/3008740 | https://www.pinecreekgames.com
-» Mixtape, annoncé pour 2025 sur Xbox et PC / Steam Deck, développé par Beethoven and Dinosaur → https://s.team/a/2582320
+» Mixtape, annoncé pour 2025 sur PlayStation 5, Xbox Series et PC / Steam Deck ; développé par Beethoven and Dinosaur, studio derrière The Artful Escape (2021) → https://s.team/a/2582320
 » Microsoft Flight Simulator 2024, annoncé sur Xbox Series (game Pass) et PC / Steam Deck, développé par Asobo → https://flightsimulator.com
 
 » The Elder Scrolls Online - Gold Road, le 18 juin sur PC, développé par ZeniMax Online Studios → https://s.team/a/306130 | http://elderscrollsonline.com
-» Life is Strange: Double Exposure, le 29 oct. 2024 à 50 € sur Switch, PlayStation 5, Xbox Series et PC / Steam Deck, développé par Deck Nine → https://s.team/a/1874000 | https://lifeisstrange.com
+» Life is Strange: Double Exposure, le 29 oct. 2024 à 50 € sur Switch, PlayStation 5, Xbox Series et PC / Steam Deck, développé par Deck Nine, studio derrière les jeux The Expanse: A Telltale Series (2023), Life is Strange: True Colors (2021), Life is Strange: Before the Storm (2017) → https://s.team/a/1874000 | https://lifeisstrange.com
 » Indiana Jones et le Cercle Ancien, annoncé pour 2024 sur Xbox Series et PC / Steam Deck, développé par MachineGames → https://s.team/a/2677660 | https://indianajones.bethesda.net
 » Mecha Break, annoncé pour 2025 sur PC / Steam Deck ; développé par Amazing Seasun → https://s.team/a/2452280 | https://mechabreak.com
 » 明末：渊虚之羽 / Wuchang: Fallen Feathers, annoncé pour 2025 sur Xbox Series (Game Pass) et PC / Steam Deck, développé par Lenzee Games → https://linktr.ee/wuchanggame
@@ -5825,6 +5825,213 @@ PC Gaming Show 2024
 
 
 
+--------------------------------------
+2024-06-09
+
+🗓️ Calendrier de la fête d'été des jeux vidéo 2024 → http://evenements.origami.ng
+
+Ubisoft Forward 2024
+
+jeux présentés : Star Wars Outlaws | XDefiant s.01 | Skull and Bones s.02 | Prince of Persia: The Lost Crown - DLC Mask of Darkness | The Rogue Prince of Persia | Prince of Persia: The Sands of Time | Avatar: Frontiers of Pandora - DLC The Sky Breaker | The Crew Motorfest - s.05 | Anno 117: Pax Romana | Assassin's Creed Shadows
+
+» Star Wars Outlaws, le 30 août 2024 à 70 € (standard) / 130 € (ultime) sur PlayStation 5, Xbox Series et PC, développé par Massive Entertainment (The Division 1 (2016) et 2 (2019), Avatar: Frontiers of Pandora (2023)), édité par Ubisoft → https://ubisoft.com/fr-fr/game/star-wars/outlaws
+le jeu Star Wars Outlaws réalisé par Julian Gerighty et Mathias Karlson, écriture par Navid Khavari, musiques par Wilbert Roget II ; le moteur utilisé est Snowdrop
+
+» XDefiant, sorti le 21 mai 2024, jouable gratuitement sur PlayStation 5, Xbox Series et PC, saison 1 GSK le 1er juillet 2024 ; développé par Ubisoft San Francisco → https://www.ubisoft.com/fr-fr/game/xdefiant
+
+» Skull and Bones, sorti le 16 févr. 2024 sur PlayStation 5, Xbox Series et PC, saison 2 ; développé par Ubisoft Singapour → https://store.ubisoft.com/fr/skull-and-bones/629511ea27efc536e38350a4.html
+
+» Prince of Persia: The Lost Crown, sorti le 18 jan. 2024 sur Switch, PlayStation, Xbox et PC, DLC Mask of Darkness en sept. 2024 ; développé par Ubisoft Montpellier → https://store.ubisoft.com/fr/prince-of-persia-the-lost-crown/6408bd757ee83d203cf3bda2.html
+» The Rogue Prince of Persia, en accès anticipé depuis le 27 mai 2024 à 20 € sur PC / Steam Deck ; développé par Evil Empire
+» Prince of Persia: The Sands of Time, annoncé pour 2026 sur PlayStation 5, Xbox Series et PC
+
+» Avatar: Frontiers of Pandora - DLC The Sky Breaker, le 16 juillet 2024 → https://store.ubisoft.com/fr/avatar--frontiers-of-pandora/60c30ca40d253c1914049e93.html
+» The Crew Motorfest - saison 5 en nov. 2024 ; développé par Ivory Tower → https://www.ubisoft.com/fr-fr/game/the-crew/motorfest
+» Anno 117: Pax Romana, annoncé sur PlayStation 5, Xbox Series et PC → https://www.ubisoft.com/fr-fr/game/anno/117-pax-romana
+
+» For Honor, année 8 saison 2 → https://store.ubisoft.com/fr/for-honor/659ea92329c01c38968dce1a.html
+» Brawhalla → https://s.team/a/291550 | https://store.ubisoft.com/fr/brawlhalla/608178d65cdf9a2e6c5948fd.html
+» Monopoly, en sept. 2024 sur toutes les plates-formes → https://store.ubisoft.com/fr/monopoly-/6638e798aa201a2d55bcc775.html
+» Trackmania → https://s.team/a/2225070 | https://store.ubisoft.com/fr/trackmania-starter-access/5e8b5a0f5cdf9a12c868c879.html
+» Riders Republic, nouvelle saison le 19 juin → https://store.ubisoft.com/fr/riders-republic-%C3%A9dition-standard/5f2816af5cdf9a055850c797.html
+» BattleCore Arena, jouable gratuitement sur PC → https://s.team/a/2613870 | https://store.ubisoft.com/fr/battlecore-arena/6582c0ce54a8e0336185f421.html
+
+» Assassin's Creed Shadows, le 15 nov. 2024 à 70 € (standard) / 130 € (ultime) sur PlayStation 5, Xbox Series et PC ; développé par Ubisoft Québec → https://store.ubisoft.com/fr/assassins-creed-shadows/660e5a03fbff4e2940488bcd.html
+réalisé par Charles Benoit
+
+raids : OrigaTwitch => (22:18)[+537] Merry
+
+
+
+--------------------------------------
+2024-06-13
+
+» Last Moon, annoncé sur PC / Steam Deck, démo disponible ; développé par Sköll Studio (Koloro (2018)) → https://s.team/a/1108600 | https://skoll-studio.com/lastmoon.html | 💬 https://discord.com/invite/f3sgZp6fE8
+studio de 4 personnes : Vincent (art & code), T05 (audio & musiques), deux autres personnes à l'écriture
+
+» Sonokuni, annoncé sur PC / Steam Deck, démo disponible, développé par Don Yasa Crew, un groupe de J-HipHop → https://s.team/a/2054380 | https://sonokuni.com
+
+» Bloodless, le 29 aout 2024 sur PC / Steam Deck, démo disponibles ; édité par 3D Realms, développé par Point N' Sheep → https://s.team/a/1592490
+
+» Selfloss, annoncé sur PC / Steam Deck, démo disponible ; développé par Goodwin Games, studio de 3 personnes basé à Almaty, Kazakhstan → http://s.team/a/1086620 | https://alexgoodwingames.com
+
+excuses de sac :
+- c'est à cause de Médoc (Gautoz)
+- parce que je ne finis plus mes jeux (depuis la hot take d'hier soir sur Arte) (Gautoz)
+- pardon, mais c'était pas clair, clair (Gautoz)
+
+raids entrants :
+- FrandroidLive à 10:50 +95
+- DollyWood_ à 12:11 un raid avec un groupe de 107.
+
+
+Dis-moi weeb - Breath of Fire V: Dragon Quarter
+originalement sorti en nov. 2002 🇯🇵 / nov 2003 🇪🇺 sur PlayStation 2
+développé par Capcom Production Studio 3 ; réalisé par Makoto Ikehara, direction artistique par Tatsuya Yoshikawa, écriture par Yukio Andoh, musiques par Hitoshi Sakimoto
+🎶 musiques à 8 € sur Steam (https://s.team/a/1335110)
+
+» Breath of Fire, sorti en avril 1993 🇯🇵 sur Super Nintendo, en déc. 2001 🇪🇺 sur GBA ; réalisé par Yoshinori Takenaka, Yoshinori Kawano et Makoto Ikehara, direction artistique par Keiji Inafune et Tatsuya Yoshikawa, écriture par Yoshinori Kawano, musiques par Yasuaki Fujita, Mari Yamaguchi, Minae Fuji, Yoko Shimomura et Tatsuya Nishimura
+» Breath of Fire II, sorti en déc. 1994 🇯🇵 / avril 1996 🇪🇺 sur Super Nintendo ; réalisé par Yoshinori Kawano, écriture par Makoto Ikehara, musiques par Yuko Takehara
+» Breath of Fire III, sorti en sept. 1997 🇯🇵 / oct. 1998 🇪🇺 sur PlayStation, en 2005 sur PSP ; réalisé par Makoto Ikehara, direction artistique par Tatsuya Yoshikawa et Tōru Yamashita, écriture par Makoto Ikehara, musiques par Yoshino Aoki et Akari Kaida
+» Breath of Fire IV, sorti en avril 2000 🇯🇵 / août 2001 🇪🇺 sur PlayStation, en 2003 sur PC Windows ; réalisé par Makoto Ikehara, direction artistique par Tatsuya Yoshikawa, écriture par Makoto Ikehara, musiques par Yoshino Aoki et Taro Iwashiro
+» Breath of Fire V: Dragon Quarter, sorti en nov. 2002 🇯🇵 / nov 2003 🇪🇺 sur PlayStation 2
+» Breath of Fire 6: Hakuryū no Shugosha-tachi, sorti en 2016 🇯🇵 sur Android et iOS
+
+raids : OrigaTwitch => (16:38)[+204] [LamHua=>16:19] lydia__am (>18:00) => (<19;47) DjeliBae => (20:04)[+67] WIGFrance
+
+
+
+--------------------------------------
+2024-06-14
+
+L'Hebdo #29
+
+## Actus
+### La semaine
+» 🇫🇷 [ActuGaming / 10 juin 2024] Avowed : Le RPG d’Obsidian Entertainment devrait sortir le 12 novembre prochain selon une fuite → https://actugaming.net/a-650276
+» 🇫🇷 [ActuGaming / 10 juin 2024] Metal Gear Solid Delta: Snake Eater aura droit à une jolie édition collector, mais pas en Europe → https://actugaming.net/a-650610
+» 🇺🇸 [GameSpot / 8 juin 2024] Balatro is finally getting a physical release. The developer behind the indie hit Balatro reveals that the game is heading for a special physical release → https://cutt.ly/deptF4Nr
+» 🇫🇷 [ActuGaming / 10 juin 2024] Just Dance VR : Welcome to Dancity s’annonce en vidéo, et sortira le 15 octobre prochain → https://actugaming.net/a-650501
+» 🇫🇷 [ActuGaming / 12 juin 2024] Visions of Mana sortira le 29 août, voici les derniers détails à connaitre sur le JRPG de Square Enix (personnages, collectors…) → https://actugaming.net/a-650932
+» 🇺🇸 [Steam / Planet Crafter / 11 juin 2024] 1 million thanks! → https://cutt.ly/CeptG88j
+» 🇺🇸 [Capcom / 11 juin 2024] Resident Evil Village sales top 10 million units globally → https://www.capcom.co.jp/ir/english/news/html/e240611.html
+» 🇫🇷 [ActuGaming / 12 juin 2024] Elden Ring fait le point sur ses ventes avant la sortie du DLC, avec 25 millions de copies écoulées → https://actugaming.net/a-650998
+» 🇫🇷 [ActuGaming / 7 juin 2024] Concord : Le hero-shooter de PlayStation est maintenant disponible en précommande → https://actugaming.net/a-648968
+» 🇫🇷 [ActuGaming / 12 juin 2024] L’éditeur Sumo Group (Sackboy, Still Wakes the Deep) annonce licencier 15% de ses effectifs, soit près de 250 employés → https://actugaming.net/a-650855
+» 🇺🇸 [Games Industry / 7 juin 2024] Among Us dev Innersloth starts new indie game fund Outersloth. Six games already signed as studio aims to help fellow indies and create a "better, more sustainable industry" → https://cutt.ly/FeptAUMC
+
+### Kingdom Hearts, mais sur Steam Deck
+» Kingdom Hearts -HD 1.5+2.5 ReMIX-, sorti le 13 juin 2024 sur PC / Steam Deck, 50 € sur Steam (https://s.team/a/2552430)
+» Kingdom Hearts HD 2.8 Final Chapter Prologue, sorti le 13 juin 2024 sur PC / Steam Deck, 60 € sur Steam (https://s.team/a/2552440)
+» Kingdom Hearts III + Re Mind, sorti le 13 juin 2024 sur PC / Steam Deck, 60 € sur Steam (https://s.team/a/2552450)
+
+### League of Geeks
+» 🇺🇸 [Games Industry / 12 juin 2024] League of Geeks goes into hibernation. "We're not sure when (or if) we will resurrect this great beast," co-founders say → https://cutt.ly/9epts6nH
+» 🇺🇸 [Game Developer] Solium Infernum developer League of Geeks enters hibernation months after layoffs. The Australian studio explained making video games has become 'excruciatingly hard.' → https://cutt.ly/AepyfKgi
+
+### Ara: History Untold
+» Ara: History Untold, annoncé pour l'automne 2024 sur PC ; développé par Oxide Games → https://AraHistoryUntold.com | https://s.team/a/2021880
+» 🇫🇷 [Xbox / 13 juin 2024] Ara: History Untold, annonce de la date de sortie, détails sur le jeu multi → https://cutt.ly/CeptljRg
+» 🇫🇷 [ActuGaming / 13 juin 2024] Ara: History Untold : Le jeu de stratégie au tour par tour d’Oxide Games sortira le 24 septembre sur PC → https://actugaming.net/a-651136
+
+### Nouvelles consoles Xbox
+» 🇺🇸 [Xbox / 9 juin 2024] More choices than ever before with three new Xbox Series X|S consoles coming holiday 2024 → https://cutt.ly/JeptjHbl
+» 🇫🇷 [ActuGaming / 9 juin 2024] Xbox annonce trois nouvelles consoles Xbox Series pour la fin d’année → https://actugaming.net/a-649949
+
+## Bilan de la fête d'été 2024 du jeu vidéo
+» 🇺🇸 [Esquire / 6 juin 2024] Is Summer Game Fest the best thing to happen to gaming—or the worst? Suddenly, Geoff Keighley’s June showcase is one of the industry’s most important events. Whether or not it’s a positive force in gaming depends on who you ask—and how much money they have. → https://cutt.ly/septxgOW
+
+» Zoochosis, annoncé sur PC / Steam Deck, développé par Clapperheads → https://s.team/a/2458560 | https://www.zoochosis-game.com
+» Cozy Dungeons, annoncé sur PC / Steam Deck ; développé par Them Handsome Fellas → https://s.team/a/2377600
+
+» Black Myth: Wukong, le 20 août 2024 sur PlayStation 5, Xbox Series et PC, développé par Game Science → https://heishenhua.com | https://s.team/a/2358720
+» Phantom Blade Zero / 影之刃零, annoncé sur PlayStation 5 et PC ; développé par S-GAME et Cruel Man Studio → https://pbz.s-game.com | https://cruelmanstudio.com
+» 明末：渊虚之羽 / Wuchang: Fallen Feathers, annoncé pour 2025 sur Xbox Series (Game Pass) et PC / Steam Deck, développé par Lenzee Games → https://linktr.ee/wuchanggame
+» Where Winds Meet, annoncé sur PlayStation 5 et PC ; développé par Everstone Studio 🇨🇳 → https://wherewindsmeetgame.com | https://yysls.cn
+
+### Guerrilla Collective
+» page Steam du Guerrilla Collective → https://store.steampowered.com/sale/guerrillacollective
+
+» Yooka-Replaylee, annoncé sur PC / Steam Deck → https://s.team/a/2448020 | https://www.playtonicgames.com/game/yooka-replaylee/ 
+» Volgarr the Viking II, le 6 août sur PC / Steam Deck → https://s.team/a/2195140 | https://digitaleclipse.com/games/volgarr2
+» The Transylvania Adventure of Simon Quest, annoncé pour 2025 sur Switch, PlayStation Xbox et PC / Steam Deck → https://s.team/a/2749920
+
+### Summer Game Fest
+» Monster Hunter Wilds, annoncé pour 2025 sur PlayStation 5, Xbox Series et PC / Steam Deck ; développé par Capcom → https://monsterhunter.com/wilds/ | https://s.team/a/2246340
+» Civilization VII, annoncé pour 2025 sur PC / Steam Deck ; développé par Firaxis → https://s.team/a/1295660 → https://civilization.2k.com
+» Cairn, annoncé pour 2025 sur consoles et PC / Steam Deck ; développé par The Game Bakers (Haven (2020), Furi (2016)) → https://s.team/a/1588550 | https://www.thegamebakers.com/cairn/
+» Wanderstop, annoncé sur PlayStation 5 et PC / Steam Deck, développé par Ivy Road → https://s.team/a/1299460
+» Fatal Fury: City of the Wolves, annoncé sur PlayStation 5, Xbox Series et PC ; développé par SNK → https://s.team/a/2492040
+» Metal Slug Tactics, annoncé pour Q3 2024 sur Switch, PlayStation, Xbox et PC / Steam Deck, démo disponible ; développé par Leikir Studio, derrière Rogue Lords (2021), Wondershot (2016), Isbarah (2015) → https://s.team/a/1590760 | https://metalslugtactics.com
+» Neva, annoncé pour 2024 sur Switch, PlayStation, Xbox et PC / Steam Deck → https://s.team/a/2420660 | https://neva.game
+
+jeux Blumhouse (https://blumhouse.com/games) :
+- Crisol: Theater of Idols, annoncé sur PC / Steam Deck, développé par Vermila Studios → https://s.team/a/1790930
+- Fear the Spotlight, le 15 sept. 2023 sur Switch, PlayStation, Xbox et PC / Steam Deck, développé par Cozy Game Pals → https://s.team/a/1959390 | https://cozygamepals.com/
+- Project C██████, annoncé sur PC / Steam Deck, développé par  Half Mermaid / Sam Barlow → https://s.team/a/2771630 | https://halfmermaid.co
+- Grave Seasons, développé par Perfect Garbage → https://perfectgarbage.com/grave-seasons
+- Sleep Awake, développé par Eyes Out → https://eyes-out.com
+- The Simulation, développé par Playmestudio → https://playmestudio.com
+
+### Day of the Devs 2024
+» Building Relationships, annoncé pour 2024 sur PC / Steam Deck, développé par Tanat Boozayaangool → https://s.team/a/2666920 | https://www.building-relationships.com
+» Phoenix Springs, annoncé sur PC / Steam Deck, développé par Calligram Studio → https://s.team/a/1973310 | https://calligramstudio.com
+
+### Devolver Direct
+» Cult of the Lamb - DLC Unholy Alliance, le 12 août 2024 sur toutes les plates-formes → https://cultofthelamb.com
+» Possessor(s), annoncé pour 2025 sur PC / Steam Deck, développé par Heart Machine, studio derrière Hyper Solar Ash (2022), Light Drifter (2016) → https://s.team/a/2132890
+» Tenjutsu, annoncé sur consoles et PC / Steam Deck, développé par Deepnight Games, derrière Nuclear Blaze (2021) → https://s.team/a/1363940 | https://deepnight.net | https://devolverdigital.com/games/tenjutsu
+» The Crush House, le 9 août 2024 sur PC / Steam Deck, démo disponible ; développé par Nerial → https://s.team/a/2337820 | https://thecrush.house | https://devolverdigital.com/games/the-crush-house
+
+### Future of Play / Wholesome Direct / Latin American Games Showcase / Women-Led Games
+» Citadelum, annoncé pour 2024 sur PC / Steam Deck, démo disponible, développé par Abylight Barcelona → https://s.team/a/2603020 | https://abylight.com/es/juego/citadelum
+» Tiny Bookshop, annoncé sur PC / Steam Deck, démo disponible ; développé par neoludic games → https://s.team/a/2133760 | https://tinybookshopgame.com
+» Wax Heads, annoncé sur PC / Steam Deck, démo disopnible ; développé par Patattie Games → https://s.team/a/2769240
+» SOPA - Tale of the Stolen Potato, annoncé pour Q3 2024 sur consoles et PC / Steam Deck, développé par StudioBando → https://s.team/a/1935330 | https://sopagame.com
+» Mexico, 1921. A Deep Slumber, annoncé pour 2024 sur PC / Steam Deck, démo disponible ; développé par Mácula Interactive → https://s.team/a/1851090 | https://maculainteractive.com/1921
+» Desvelado, annoncé pour 2024 sur PC / Steam Deck, démo disponible, développé par Valentín Zacarías, Pablo Cuello, Joaquín Calvo → https://s.team/a/2878710
+» Among The Stars, annoncé sur Switch, PlayStation, Xbox et PC / Steam Deck ; développé par Split Studio → https://www.splitstudio.games/amongthestars
+
+### Xbox Showcase
+» DOOM the Dark Ages, annoncé pour 2025 sur PlayStation 5, Xbox Series (Game Pass) et PC / Steam Deck ; développé par id Software → https://s.team/a/3017860 | https://slayersclub.bethesda.net
+» Dragon Age: The Veilguard, annoncé pour fin 2024 sur PlayStation 5, Xbox Series et PC / Steam Deck ; développé par BioWare → https://s.team/a/1845910 | https://ea.com/games/dragon-age/dragon-age-the-veilguard
+» Perfect Dark, annoncé pour Xbox Series (Game Pass) et PC ; développé par The Initiative et Crystal Dynamics → https://s.team/a/2986410
+- 🇺🇸 [IGN / 27 juin 2023] Xbox’s Perfect Dark reboot is still years away. Years of setbacks have stalled development on the new Perfect Dark, and while it’s well underway now, we may have to wait a while yet → https://cutt.ly/CerMZjKV
+» Mixtape, annoncé pour 2025 sur PlayStation 5, Xbox Series et PC / Steam Deck ; développé par Beethoven and Dinosaur, studio derrière The Artful Escape (2021) → https://s.team/a/2582320
+» South of Midnight, annoncé pour 2025 sur Xbox Series (2025) et PC, dans le Game Pass ; développé par Compulsion Games (We happy Few, Contrast) → https://s.team/a/1934570 | https://compulsiongames.com/games/south-of-midnight/
+» Fable, annoncé pour 2025 sur Xbox Series (Game Pass) et PC ; développé par Playground Games (séries des Forza Horizon) → https://s.team/a/2769570
+» Clair Obscur: Expedition 33, annoncé pour 2025 sur PlayStation 5, Xbox Series (Game Pass) et PC / Steam Deck, développé par Sandfall, studio basé à Montpellier → https://s.team/a/1903340 | https://sandfall.co
+» Avowed, annoncé pour 2024 sur Xbox Series et PC / Steam Deck, développé par Obsidian Entertainement → https://s.team/a/2457220 | https://avowed.obsidian.net
+» Gears of War - E-Day, annoncé sur Xbox Series (Game Pass) et PC / Steam Deck ; développé par The Coalition → https://s.team/a/3010850
+» Indiana Jones et le Cercle Ancien, annoncé pour 2024 sur Xbox Series et PC / Steam Deck, développé par MachineGames → https://s.team/a/2677660 | https://indianajones.bethesda.net
+
+### PC Gaming Show
+» Citizen Sleeper 2: Starward Vector, annoncé sur PC / Steam Deck, développé par Jump Over The Age (In Other Waters, Citizen Sleeper) → https://s.team/a/2442460 | https://citizensleeper.com
+» The Rise of the Golden Idol, annoncé pour 2024 sur PC / Steam Deck, démo disponible ; développé par Color Gray Games (The Case of the Golden Idol) → https://s.team/a/2716400 | https://theGoldenIdol.com
+» Crescent County, annoncé sur Xbox et PC / Steam Deck ; développé par Electric Saint → https://s.team/a/2202650 | https://electricsaint.co.uk/
+» Tactical Breach Wizards, le 20 août 2024 sur PC / Steam Deck, démo disponible ; développé par Suspicious Developments 🇨🇦 (Gunpoint (2013), Heat Signature (2017)) → https://s.team/a/1043810
+
+### Ubisoft Forward
+» Anno 117: Pax Romana, annoncé sur PlayStation 5, Xbox Series et PC → https://www.ubisoft.com/fr-fr/game/anno/117-pax-romana
+» Star Wars Outlaws, le 30 août 2024 à 70 € (standard) / 130 € (ultime) sur PlayStation 5, Xbox Series et PC, développé par Massive Entertainment (The Division 1 (2016) et 2 (2019), Avatar: Frontiers of Pandora (2023)), édité par Ubisoft → https://ubisoft.com/fr-fr/game/star-wars/outlaws
+» Assassin's Creed Shadows, le 15 nov. 2024 à 70 € (standard) / 130 € (ultime) sur PlayStation 5, Xbox Series et PC ; développé par Ubisoft Québec → https://store.ubisoft.com/fr/assassins-creed-shadows/660e5a03fbff4e2940488bcd.html
+
+## Mais pas que
+### Héloïse
+» Reflets, journal d'investigation en ligne → https://reflets.info
+
+### Kevin
+» 📙 L'Oiseau des Français, 184 p., par Yasmina Liassine, publié en avril 2024 chez Sabine Wespieser, 19 € en papier (ISBN 978-2-84805-523-7) → https://swediteur.com/titre/oiseau-des-francais/
+» affordance.info → https://affordance.framasoft.org | 𝕏 https://twitter.com/Affordanceinfo2
+- 📘 Les IA à l’assaut du cyberespace. Vers un web synthétique, 142 p., par Olivier Ertzscheid, publié en juin 2024 chez C&F Éditions, 15 € en papier (ISBN 978-2-37662-085-3) → https://cfeditions.com/ia-cyberespace/
+
+
+raids entrants :
+- At0mium à 15:04 +569
+
+raids : OrigaTwitch => (15:33)[+769] Modiiie (>18:00) => (<18:06) Vazek_Tomi => (18:14)[+289] DollyWood_ => (19:46) Nat_Ali (terminé à 20:25)
+
+
 
 
 » 📄 
@@ -5877,4 +6084,5 @@ PC Gaming Show 2024
 
 les copains :
 🦊 Seldell → 📰 https://indiemag.fr | 📡 https://twitch.tv/Seldell | 📺 https://YouTube.com/@Seldell
+🩸 DollyWood_ → 📡 https://twitch.tv/dollywood_ | ▶️ https://youtube.com/@DollyWoodYT
 📰 Gâchette Gauche, le rendez-vous de la presse JV, tous les derniers lundis du mois ou presque, sur la chaîne Twitch de Silence on joue → https://twitch.tv/silenceonjoue
