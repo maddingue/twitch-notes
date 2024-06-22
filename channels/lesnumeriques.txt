@@ -11710,7 +11710,7 @@ raids : lesnumeriques => (13:34)[+116] Lepandaman (terminé à 14:32)
 
 
 --------------------------------------
-2024-06-17
+2024-06-13
 
 » 🇫🇷 [Gamekult / 12 juin 2024] Visions of Mana sera disponible le 29 août 2024 → https://gamekult.com/actualite/-3050858913.html
 » 🇫🇷 [Gamekult / 12 juin 2024] Avant la sortie de son extension, Elden Ring dépasse les 25 millions d'exemplaires distribués. Les ventes sont reparties de l'avant → https://gamekult.com/actualite/-3050858917.html
@@ -11742,7 +11742,7 @@ raids : lesnumeriques => (13:51)[+121) Lepandaman (terminé à 15:00)
 
 
 --------------------------------------
-2024-06-18
+2024-06-14
 
 » 🇫🇷 [Les Numériques] MG Motor : un avenir électrisant avec des véhicules à prix abordables → https://lesnumeriques.com/voiture/-n222872.html
 » 🇫🇷 [Les Numériques] Hyundai inster : l’électrique coréenne à petit prix arrive très bientôt → https://lesnumeriques.com/voiture/-n222819.html
@@ -11755,7 +11755,65 @@ raids : lesnumeriques => (13:51)[+121) Lepandaman (terminé à 15:00)
 
 » 🇫🇷 [Les Numériques / 13 juin 2024] Leica veut remplacer l'application photo des iPhones par Leica LUX → https://lesnumeriques.com/photo/-n222831.html
 
-raids : lesnumeriques => (13:33)[+89] CabriDIY => (15:25)[+202] Protsky => (17:47) PoppieLaLa => (18:00) SEROTHS => (22:21)[+86] MaliciaRoseNoire [lylipurplecats=>(22:54)+10] (>23:00) => TiftifMiou => (01:49) MialyMusic [clem_mlrt=>(02:05)+36] (>03:15) => cdubguitar => DeannaCross_SongstressDee => NoirTech => victordancer => susiesalmon_ => (<13:54) tropangmunggo (>16:00) => (<23:59) (dimanche) dam__pete (>00:40) => (<09:09) tropangmunggo => (12:40)[+21] susiesalmon_ (>17:00) => (<19:19) dam__pete (lundi) (>00:00) => (<02:14) RenegadeIncubus (>02:30)
+raids : lesnumeriques => (13:33)[+89] CabriDIY => (15:25)[+202] Protsky => (17:47) PoppieLaLa => (18:00) SEROTHS => (22:21)[+86] MaliciaRoseNoire [lylipurplecats=>(22:54)+10] (>23:00) => TiftifMiou => (01:49) MialyMusic [clem_mlrt=>(02:05)+36] (>03:15) => cdubguitar => DeannaCross_SongstressDee => NoirTech => victordancer => susiesalmon_ => (<13:54) tropangmunggo (>16:00) => (<23:59) (dimanche) dam__pete (>00:40) => (<09:09) tropangmunggo => (12:40)[+21] susiesalmon_ (>17:00) => (<19:19) dam__pete (lundi) (>00:00) => (<02:14) RenegadeIncubus (>04:30)
+=> (<08:55) paradoxdiscordia (11:42)
+
+
+--------------------------------------
+2024-06-20
+
+» Kingdom Hearts -HD 1.5+2.5 ReMIX-, sorti à 50 € le 13 juin 2024 sur PC / Steam Deck → https://s.team/a/2552430
+» Kingdom Hearts HD 2.8 Final Chapter Prologue, sorti à 60 € le 13 juin 2024 sur PC / Steam Deck → https://s.team/a/2552440
+» Kingdom Hearts III + Re Mind, sorti à 60 € le 13 juin 2024 sur PC / Steam Deck → https://s.team/a/2552450
+» la compilation Kingdom Hearts Integrum, actuellement en promotion à 69 € → https://store.steampowered.com/sub/1000794/
+
+» ▶️ [YouTube / Nintendo France / 18 juin 2024] Nintendo Direct → https://youtube.com/live/UdczZ2uJtrs
+» 🇫🇷 [Les Numériques / 18 juin 2024] The Legend of Zelda Echoes of Wisdom, Metroid Prime, Mario et Luigi : ce qu'il faut retenir du Nintendo Direct → https://lesnumeriques.com/jeux-video/-n223024.html
+» 🇫🇷 [ActuGaming / 18 juin 2024] Nintendo Direct : Le résumé de toutes les annonces du 18 juin (Metroid Prime 4, Zelda, Mario & Luigi…) → https://actugaming.net/a-651856
+» 🇫🇷 [ActuGaming / 18 juin 2024] Mario et Luigi : l’Épopée Fraternelle est annoncé sur Switch avec une date de sortie fixée fin 2024 → https://actugaming.net/a-2024-651853
+» 🇫🇷 [ActuGaming / 18 juin 2024] Fantasian Neo Dimension : Le RPG du créateur de Final Fantasy sort enfin sur PC et consoles après avoir été réservé à l’Apple Arcade → https://actugaming.net/a-652196
+» 🇫🇷 [ActuGaming / 18 juin 2024] MIO: Memories In Orbit : Le studio français Douze Douzièmes annonce pour 2025 un charmant metroidvania sur PC et consoles → https://actugaming.net/a-652236
+» 🇫🇷 [ActuGaming / 18 juin 2024] Donkey Kong Country Returns HD : Le platformer 2D sorti sur Wii et 3DS revient sur Switch le 16 janvier 2025 → https://actugaming.net/a-652024
+» 🇫🇷 [ActuGaming / 18 juin 2024] Dragon Quest III HD-2D Remake dévoile sa date de sortie, Dragon Quest I & II HD-2D Remake arriveront en 2025 → https://actugaming.net/a-2025-651815
+» 🇫🇷 [ActuGaming / 18 juin 2024] Perfect Dark revient sur Switch avec le Nintendo Switch Online, en plus de trois autres jeux → https://actugaming.net/a-652171
+» 🇫🇷 [ActuGaming / 18 juin 2024] Marvel vs. Capcom Fighting Collection: Arcade Classics fait revivre Marvel vs Capcom 2 et 6 autres grands jeux sur PC, PS4 et Switch → https://actugaming.net/a-652212
+» 🇫🇷 [ActuGaming / 18 juin 2024] Super Mario Party Jamboree débarque cet automne et sera le plus grand Mario Party de la série → https://actugaming.net/a-652113
+» 🇫🇷 [ActuGaming / 18 juin 2024] The Legend of Zelda: Echoes of Wisdom annoncé avec Zelda en héroïne principale et une nouvelle Switch Lite collector → https://actugaming.net/a-651873
+» 🇫🇷 [ActuGaming / 18 juin 2024] Just Dance 2025 Edition sortira en octobre prochain et fait le plein de nouvelles chansons → https://actugaming.net/a-652210
+» 🇫🇷 [ActuGaming / 18 juin 2024] Stray : L’aventure chat-berpunk se dégourdira les pattes fin 2024 sur Nintendo Switch → https://actugaming.net/-652168
+» 🇫🇷 [ActuGaming / 18 juin 2024] The Hundred Line: Last Defense est le nouveau RPG tactique des créateurs de Danganronpa → https://actugaming.net/a-652232
+» 🇫🇷 [ActuGaming / 18 juin 2024] Metroid Prime 4: Beyond : La prochaine aventure de Samus resurgit enfin avec un nouveau nom et un horizon de sortie pour 2025 → https://actugaming.net/a-651897
+
+» [𝕏 (ex Twitter) / Lords of the Fallen / 18 juin] https://twitter.com/lotfgame/status/1803111843088506921
+
+» 🇫🇷 [PlayStation Blog / 18 juin 2024] Une nouvelle mise à jour du logiciel système du lecteur à distance PlayStation Portal sera disponible demain → https://blog.fr.playstation.com/2024/06/18/une-nouvelle-mise-a-jour-du-logiciel-systeme-du-lecteur-a-distance-playstation-portal-sera-disponible-demain/
+
+raids : lesnumeriques => (13:36)[+125] Hiuuugs => (15:44) Farore (>19:00) => Joss_Bergia (>23:30) => (<00:35) BoudinDamour [Onirilia=>(01:01)+21] [Dr_LapeluchTV=>(01:54)+9] (>03:00) => BeLouBeProudOfLou => (<09:50) M0ufTchup (>09:54)
+=> (<11:25) BulleDeVanille => (18:18:21)[+100] Aranaels => (18:55)[+86] Reuteuteuh => (20:35)[+36] Souwtane => (21:22)[+112] MiladeBlois (>21:30)
+
+
+--------------------------------------
+2024-06-21
+
+» 🇫🇷 [Les Numériques] Ferrari : sa première voiture électrique coûterait au moins 500 000 € → https://lesnumeriques.com/voiture-electrique/-n223066.html
+» 🇫🇷 [L'Argus] Bugatti Tourbillon (2024). Tout sur l’hypercar V16 hybride rechargeable de 1 800 ch → https://largus.fr/actualite-automobile/a-30034524.html
+
+» [MacRumors / 18 juin 2024] Apple reportedly suspends work on Vision Pro 2 → https://www.macrumors.com/2024/06/18/apple-suspends-work-on-vision-pro-2/
+
+» [Notebook Check / 19 juin 2024] Philips Hue Twilight sleep and wake-up light now available → https://notebookcheck.net/a.849868.0.html
+
+» ▶️ [YouTube] I made an AI Lego PixelArt robot → https://youtu.be/ec_BtS97IR8
+
+» [The Daily Beast / 18 juin 2024] Premiere of first movie written by AI is axed after backlash → https://www.thedailybeast.com/the-last-screenwriter-premiere-of-first-movie-written-by-ai-is-axed-after-backlash
+
+» [the Cool Down / 16 juin 2024] Rocket company develops massive catapult to launch satellites into space without using jet fuel: '10,000 times the force of Earth's gravity'. If this concept proves reliable, it could eliminate the loads of fuel that is burned to launch spacecraft → https://www.thecooldown.com/green-tech/spinlaunch-satellite-launch-system-kinetic/
+» [Yahoo News / 18 juin 2024] Human missions to Mars in doubt after astronaut kidney shrinkage revealed → https://www.yahoo.com/news/human-missions-mars-doubt-astronaut-090649428.html
+
+» 🇫🇷 [Les Numériques / 17 juin 2024] Nikon lance le Z6 III, un hybride 24x36 milieu de gamme au look sage, mais qui en a sous le capot → https://lesnumeriques.com/photo/-n222961.html
+
+» 🇫🇷 [Les Numériques] ⭐⭐⭐⭐⭐ Test Huawei MateBook X Pro (2024) : un ultraportable élégant, puissant et vraiment très léger https://www.lesnumeriques.com/ordinateur-portable/huawei-matebook-x-pro-2024-p74837/test.html
+
+raids : lesnumeriques => (13:42)[+87] CabriDIY (>15:00) => (<15:54) Cyver__ => (16:31)[+49] FlemmHard => (18:54)[+61] keroex77 => (19:46)[+34] Layesah (>21:20)
 
 
 
