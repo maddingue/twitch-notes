@@ -5205,10 +5205,10 @@ jeux présentés (suite) : Bloodless | Toxic Crusaders | Devilated | Iron Meat |
 » Slime Heroes, annoncé sur PC / Steam Deck, démo disponible → https://s.team/a/1511880
 » Deadlink, annoncé sur PlayStation 5, Xbox Series et PC / Steam Deck → https://s.team/a/1676130
 » Elsie, annoncé sur PC / Steam Deck → https://s.team/a/1515570
-» Grifford Academy, annoncé pour 2024 sur PC / Steam Deck, démo dispobible → https://s.team/a/2445780 | https://griffordgame.com
+» Grifford Academy, annoncé pour 2024 sur PC / Steam Deck, démo disponible → https://s.team/a/2445780 | https://griffordgame.com
 » Bloodless, le 29 aout 2024 sur PC / Steam Deck → https://s.team/a/1592490
 
-» Toxic Crusaders, annoncé sur Switch, PlayStation, Xbox et PC / Steam Deck, démo dispobible → https://s.team/a/2303850 | https://playtoxiccrusaders.com
+» Toxic Crusaders, annoncé sur Switch, PlayStation, Xbox et PC / Steam Deck, démo disponible → https://s.team/a/2303850 | https://playtoxiccrusaders.com
 » Devilated, sorti le 30 janv. 2021 sur PC / Steam Deck, démo disponible → https://s.team/a/570950
 » Iron Meat, annoncé pour fin 2024 sur Switch, PlayStation, Xbox et PC / Steam Deck → https://s.team/a/1157740 | https://ironmeat.com/
 » Beyond the Ice Palace II, annoncé sur Switch, PlayStation, Xbox et PC / Steam Deck → https://s.team/a/2384730 | https://pqube.co.uk/games/beyond-the-ice-palace-2/
@@ -6031,6 +6031,107 @@ raids entrants :
 
 raids : OrigaTwitch => (15:33)[+769] Modiiie (>18:00) => (<18:06) Vazek_Tomi => (18:14)[+289] DollyWood_ => (19:46) Nat_Ali (terminé à 20:25)
 
+
+
+--------------------------------------
+2024-06-20
+
+Threshold, annoncé sur PC / Steam Deck, démo sur Steam (https://s.team/a/2580020) ; développé par Julien Eveillé, ancien d'Arkane, actuellement chez Crytek → https://twitter.com/pataloon
+
+Still Wakes the Deep, sorti le 18 juin 2024 à 35 € sur PlayStation 5, Xbos Series (inclus dans le Game Pass) et PC / Steam Deck ; développé par The Chinese Room → https://stillwakesthedeep.com | https://s.team/a/1622910
+Still Wakes the Deep, sorti le 18 juin 2024 sur PlayStation 5, Xbos Series et PC / Steam Deck
+🎮 35 € sur PlayStation (https://cutt.ly/LeajG1dM)
+🎮 36 € ou inclus dans le Game Pass sur Xbox (https://cutt.ly/7eajHrYT)
+💻 en promo à 32,50 € sur Steam (https://s.team/a/1622910)
+
+
+
+--------------------------------------
+2024-06-21
+
+L'Hebdo #30
+
+## Actus
+### La semaine
+» Nintendo Direct, _cf._ plus bas
+
+» 🇺🇸 [Paradox / 17 juin 2024] **Life By You is Cancelled** → <https://cutt.ly/seaRGnZ7>
+» 🇫🇷️ [ActuGaming / 18 juin 2024] **Life by You : Le Sims-like est finalement annulé et ne verra jamais le jour** → <https://actugaming.net/a-651800>
+
+» 🇫🇷️ [ActuGaming / 17 juin 2024] **Embracer ferme le studio Pieces Interactive après l’échec du dernier Alone in the Dark** → <https://actugaming.net/a-651752>
+
+» 🇫🇷️ [IGN / 18 juin 2024] **Le film Uncharted 2 officiellement en préparation chez Sony.** En route vers une nouvelle aventure → <https://fr.ign.com/the/70567>
+» 🇫🇷️ [The Hollywood Reporter / 17 juin 2024] **‘Street Fighter’ movie loses ‘Talk to Me’ filmmakers Danny and Michael Philippou.** Legendary and Capcom are developing a big-screen take based on the popular video game → <https://cutt.ly/1eaToJWD>
+» 🇺🇸 [Nintendo Life / 18 juin 2024] **Miyamoto shares surprise update about new Mario movie ahead of Nintendo Direct** → <https://cutt.ly/ReaTW424>
+
+» 🇫🇷 [ActuGaming / 18 juin 2024] MIO: Memories In Orbit : Le studio français Douze Douzièmes annonce pour 2025 un charmant metroidvania sur PC et consoles → https://actugaming.net/a-652236
+» Prince of Persia: The Lost Crown, sorti le 18 janvier 2024 sur Switch, PlayStation, Xbox et PC, arrivée sur Steam le 8 août 2024 → https://s.team/a/2751000
+
+### Nintendo Direct juin 2024
+» ▶️ [YouTube / Nintendo France / 18 juin 2024] Nintendo Direct → https://youtube.com/live/UdczZ2uJtrs
+» 🇫🇷 [ActuGaming / 18 juin 2024] Nintendo Direct : Le résumé de toutes les annonces du 18 juin (Metroid Prime 4, Zelda, Mario & Luigi…) → https://actugaming.net/a-651856
+
+» 🇫🇷 [ActuGaming / 18 juin 2024] Metroid Prime 4: Beyond : La prochaine aventure de Samus resurgit enfin avec un nouveau nom et un horizon de sortie pour 2025 → https://actugaming.net/a-651897
+» 🇫🇷 [ActuGaming / 18 juin 2024] Mario et Luigi : l’Épopée Fraternelle est annoncé sur Switch avec une date de sortie fixée fin 2024 → https://actugaming.net/a-2024-651853
+» 🇫🇷 [ActuGaming / 18 juin 2024] Super Mario Party Jamboree débarque cet automne et sera le plus grand Mario Party de la série → https://actugaming.net/a-652113
+» 🇫🇷 [ActuGaming / 18 juin 2024] The Legend of Zelda: Echoes of Wisdom annoncé avec Zelda en héroïne principale et une nouvelle Switch Lite collector → https://actugaming.net/a-651873
+» 🇫🇷 [ActuGaming / 18 juin 2024] Marvel vs. Capcom Fighting Collection: Arcade Classics fait revivre Marvel vs Capcom 2 et 6 autres grands jeux sur PC, PS4 et Switch → https://actugaming.net/a-652212
+» 🇫🇷 [ActuGaming / 18 juin 2024] Dragon Quest III HD-2D Remake dévoile sa date de sortie, Dragon Quest I & II HD-2D Remake arriveront en 2025 → https://actugaming.net/a-2025-651815
+» 🇫🇷 [ActuGaming / 18 juin 2024] MIO: Memories In Orbit : Le studio français Douze Douzièmes annonce pour 2025 un charmant metroidvania sur PC et consoles → https://actugaming.net/a-652236
+
+### Baten Kaitos I & II HD Remaster
+» **Baten Kaitos: Eternal Wings and the Lost Ocean**, sorti en déc. 2003 🇯🇵 / nov. 2004 🇺🇸 / avril 2005 🇪🇺 sur GameCube ; développé par les studios japonais 🇯🇵 Monolith Soft et tri-Crescendo, réalisé par Yasuyuki Honne et Hiroya Hatsushiba, direction artistique par Nakaba Higurashi, Shinji Noguchi et Yasuyuki Honne, écriture par Masato Kato, musiques par Motoi Sakuraba
+» **Baten Kaitos II**, sorti en févr. 2006 🇯🇵 / sept. 2006 🇺🇸 sur GameCube ; développé par les studios japonais 🇯🇵 Monolith Soft et tri-Crescendo, réalisé par Yasuyuki Honne et Hiroya Hatsushiba, direction artistique par Yasuyuki Honne, écriture par Koh Kojima, musiques par Motoi Sakuraba
+
+» version HD Remaster sortie le 15 sept. 2023 à 50 € sur Switch (https://cutt.ly/leaTz7uY)
+» version HD Remaster sortie le 18 juin 2024 à 50 € sur PC / Steam Deck (https://s.team/a/2146170)
+
+### Games baked in Germany
+» 🌭 Games baked in Germany 🇩🇪 → https://store.steampowered.com/sale/games-made-in-germany-2024
+» Nivalis, annoncé pour 2025 sur PC / Steam Deck ; développé par Ion Lands, le studio derrière Cloudpunk (2020) → https://s.team/a/1488490
+» Planetenverteidigungskanonenkommandant, annoncé sur PC / Steam Deck ; développé par Bippinbits, le studio derrière Dome Keeper (2022) → https://s.team/a/2956040
+» The Berlin Apartment, annoncé sur PC / Steam Deck ; dévelopé par btf, le studio derrière Constance (Q3 2025), Dino Dino – Playful Paleontology (2024), Trüberbrook (2019) → https://s.team/a/2280430
+
+## Les jeux
+### Synergy
+» Synergy, en accès anticipé à 25 € depuis le 21 mai 2024 sur PC / Steam Deck ; développé par Leikir Studio → https://s.team/a/1989070
+- en accès anticipé, pour un an, depuis le 21 mai 2024 sur PC / Steam Deck
+- publié par Goblinz, développé par Leikir Studio, studio français 🇫🇷 derrière Rogue Lords (2021), Wondershot (2016), Isbarah (2015) → https://goblinzstudio.com/game/synergy/ | https://leikir-studio.com
+
+💻️ 25 € sur Steam (https://s.team/a/1989070) et GOG (https://gog.com/game/synergy)
+
+### Duck Detective: The Secret Salami
+» Duck Detective: The Secret Salami, sorti le 23 mai 2024 à 10 € sur Switch, Xbox et PC / Steam Deck ; développé par le studio allemand Happy Broccoli Games → https://happybroccoligames.com | https://s.team/a/2637990
+- sorti le 23 mai 2024 sur Switch, Xbox et PC / Steam Deck
+- développé par Happy Broccoli Games, studio allemand de 7 personnes basé à Berlin derrière le jeu Kraken Academy!! (2021) → <https://happybroccoligames.com>
+
+🎮 10 € sur Switch (<https://cutt.ly/Xepu97ji>) et Xbox (<https://cutt.ly/Qepu3BbB>)
+💻️ 9,75 € sur Steam (<https://s.team/a/2637990>) et GOG (<https://cutt.ly/6epu8b7r>)
+
+### Surmount: A Mountain Climbing Adventure
+» Surmount: A Mountain Climbing Adventure, sorti le 2 mai 2024 à 15 € sur Switch et PC / Mac / Steam Deck ; Indiana-Jonas & Jasper Oprel → https://surmountgame.com | https://s.team/a/1675000
+- sorti le 2 mai 2024 sur Switch et PC / Mac / Steam Deck
+- développé par Indiana-Jonas & Jasper Oprel, musiques par Ryan Yoshikami → https://surmountgame.com
+
+🎮 15 € sur Switch (https://cutt.ly/neaR128w)
+💻️ 14,80 € sur Steam (https://s.team/a/1675000), démo disponible
+
+## Mais pas que
+### Héloïse
+» Chappell Roan, chanteuse américaine → https://iamchappellroan.com | 📷 https://www.instagram.com/chappellroan | ▶️ https://youtube.com/@ChappellRoan
+- 🇫🇷 [Numéro / 20 juin 2024] Qui est Chappell Roan, la chanteuse queer adoubée par Troye Sivan et Lady Gaga ? → https://cutt.ly/OeaYugxC
+
+### Sylvain
+» Sir James Paul McCartney, chanteur britannique, ancien membre des Beatles
+- tournée Got Back, à Paris La Défense Arena les 4 et 5 décembre 2024
+» 📺️ The Beatles: Get Back (2021), série documentaire réalisée par Peter Jackson
+- visible sur Disney+ (https://disneyplus.com/series/the-beatles-get-back/7DcWEeWVqrkE)
+- visible sur myCanal (https://canalplus.com/decouverte/the-beatles-get-back/h/17589122_50269)
+
+### Moguri
+» Ryūichi Sakamoto (1952 - 2023), compositeur japonais, membre du Yellow Magic Orchestra → https://www.sitesakamoto.com/home
+
+raids : OrigaTwitch => (15:16)[+456] Modiiie => (16:16) OPcrotte (terminé à 20:22)
 
 
 
