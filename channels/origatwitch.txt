@@ -6218,18 +6218,17 @@ L'Hebdo #31
 
 ## Actus
 ### La semaine
-» Epic Mickey Rebrushed
-» Creatures of Ava
-» Little Big Adventure
-» Habbo Hotel Origins
-» Alkahest
-» W40K Space Marine 2
-» Focus prend des parts dans Rundisc et Uppercut Games
-» chiffres :
-- 0,5 million de SMT V en 3 jours
-- 300 M de dettes Embracer effacées en revendant Gearbox
-» studio derrière Guild Wars se sépare de sa QA
-» Surgeon Simulator / Infogramme rachète des liences TinyBuild
+» 🇫🇷 [ActuGaming / 25 juin 2024] Disney Epic Mickey: Rebrushed viendra se refaire le portait le 24 septembre, les précommandes sont là avec un collector → https://actugaming.net/a-653644
+» 🇫🇷 [ActuGaming / 19 juin 2024] Creatures of Ava : Le jeu d’aventure cozy où il faut sauver tout plein de créatures adorables arrivera le 7 août prochain → https://actugaming.net/a-652431
+» 🇫🇷 [ActuGaming / 26 juin 2024] Little Big Adventure – Twinsen’s Quest fera revivre un classique dès cet automne sur toutes les plateformes → https://actugaming.net/a-653978
+» 🇫🇷 [Gamekult / 20 juin 2024] L'espace social Habbo Hotel revient aux sources avec Habbo Hotel Origins → https://cutt.ly/QedsAAxj
+» 🇫🇷 [Gamekult / 26 juin 2024] Alkahest : l'action-RPG médiéval affiche ses promesses à la première personne. Dans les pas de Dark Messiah → https://cutt.ly/9edsFOIe
+» 🇫🇷 [ActuGaming / 20 juin 2024] Warhammer 40,000: Space Marine 2 nous dit tout sur son gameplay dans une nouvelle vidéo → https://actugaming.net/a-652609
+» 🇺🇸 [Games Industry / 24 juin 2024] Pullup Entertainment acquires minority stakes in Uppercut and Rundisc. The games firm set publish upcoming projects for both studios through subsidiary Focus Entertainment Publishing → https://cutt.ly/uedsPOi3
+» 🇫🇷 [ActuGaming / 20 juin 2024] Shin Megami Tensei V: Vengeance réalise un bon lancement avec 500.000 copies déjà vendues → https://actugaming.net/a-652499
+» 🇺🇸 [Games Industry / 20 juin 2024] Embracer Group repays $300m to lenders. Repayment comes from net proceeds received from Take-Two's purchase of Gearbox Entertainment → https://cutt.ly/SedsOF9f
+» 🇫🇷 [Gamekult / 25 juin 2024] NCSoft va se scinder en deux entités, dans le but de faciliter une prise de décision rapide → https://cutt.ly/yedsHRQa
+» 🇺🇸 [Games Industry / 26 juin 2024] Infogrames buys Surgeon Simulator franchise from TinyBuild. Atari relaunched Infogrames in April → https://cutt.ly/DedsIG5n
 
 ### Nintendo
 » 🇫🇷 [ActuGaming / 18 juin 2024] Mario et Luigi : l’Épopée Fraternelle est annoncé sur Switch avec une date de sortie fixée fin 2024 → https://actugaming.net/a-651853
@@ -6242,27 +6241,44 @@ L'Hebdo #31
 » 🇬🇧 [VGC / 27 juin 2024] Nintendo’s Miyamoto discusses passing baton to ‘even younger’ developers. The Mario designer says he’s no longer involved in day-to-day work → https://cutt.ly/les516Yv
 
 Pour référence :
-- Takashi Tezuka, 63 ans, producteur sur de très nombreux jeux depuis 1984
-- Eiji Aonuma, 61 ans, réalisateur ou producteur de la plupart des jeux Zelda depuis Ocarina of Time (1988)
-- Shigefumi Hino, 61 ans, chez Nintendo depuis 1990, réalisateur des jeux Pikmin
-- Katsuya Eguchi, 59 ans, chez Nintendo depuis 1988, producteur sur de nombreux jeux récents
-- Hiroyuki Kimura, 59 ans, chez Nintendo depuis 1988, co-producteur ou chef de projet sur de nombreux jeux récents
-- Yoshiaki Koizumi, 56 ans, chez Nintendo depuis 1991, producteur sur les Super Mario Galaxy (2007, 2010), Super Mario 3D Land (2011), Super Mario 3D World (2013) et Super Mario Odyssey (2017)
-- Hisashi Nogami, 53 ans, créateur d'Animal Crossing et Splatoon
-- Hidemaro Fujibayashi, 51 ans, travaille sur la licence Zelda depuis Oracle of Seasons and Oracle of Ages (2001), réalisateur de Skyward Sword (2011), Breath of the Wild (2017), Tears of the Kingdom (2023)
-- Aya Kyogoku, 42 ans, chez Nintendo depuis 2000, réalisatrice ou productrice sur les jeux Animal Crossing depuis New Leaf (2012)
+- Gunpei Yokio, décédé à 56 ans en 1997, chez Nintendo entre 1965 et 1996
+- Satoru Okada, 77 ans, chez Nintendo entre 1969 et 2012, architecte avec Gunpei Yokoi des Game&Watch et de la Game Boy, architecte des Game boy Color, Game Boy Advance et Nintendo DS
+- Masayuki Uemura, décédé à 78 ans en 2021, chez Nintendo entre 1971 et 2004, architecte des consoles NES et Super Nintendo
+- Genyo Takeda, 75 ans, chez Nintendo entre 1972 et 2017, chef de division de R&D sur le matériel, l'un des architectes de la Wii
+- Shigeru Miyamoto, 71 ans, chez Nintendo depuis 1977
 
-- Koichi Hayashida, réalisateur sur Super Mario 3D Land (2011) et Super Mario 3D World (2013)
-- Yusuke Amano, réalisateur sur New Super Mario Bros. 2 (2012)
-- New Super Mario Bros. U, réalisateur sur New Super Mario Bros. U (2012)
-- Hiromasa Shikata, réalisateur sur The Legend of Zelda: A Link Between Worlds (2013)
-- Yuji Kando, réalisateur sur Pikmin 3 (2013)
-- Kenta Motokura, réalisateur sur Super Mario 3D World (2013), Captain Toad: Treasure Tracker (2014) et Super Mario Odyssey (2017)
-- Kosuke Yabuki, chez Nintendo depuis 2006, réalisateur sur Mario Kart 8 (2014), producteur sur Mario Kart 8 Deluxe (2017) et Arms (2017)
-- Shinya Hiratake, réalisateur sur Captain Toad: Treasure Tracker (2014)
+- Satoru Iwata, décédé à 55 ans en 2015, chez HAL Laboratory entre 1980 et 2000, chez Nintendo entre 2000 et 2015
+- Tadashi Sugiyama, 65 ans, chez Nintendo depuis 1983, réalisateur sur Zelda II: The Adventure of Link (1987), Pilotwings (1990), F-Zero X (1998), producteur sur plusieurs jeux depuis 2003
+- Takashi Tezuka, 63 ans, chez Nintendo depuis 1984, producteur sur de très nombreux jeux
+- Koji Kondo, 62 ans, chez Nintendo depuis 1984
+- Hideki Konno, 59 ans, chez Nintendo depuis 1986, réalisateur sur Super Mario Kart (1991), Yoshi's Island (1995), Mario Kart 64 (1996), Luigi's Mansion (2001), producteur sur de nombreux jeux depuis 2005
+- Kazunobu Shimizu, chez Nintendo depuis 1987, réalisateur sur F-Zero (1990), Top Rank Tennis (1993), F-Zero: Maximum Velocity (2001)
+- Eiji Aonuma, 61 ans, chez Nintendo depuis 1988, réalisateur ou producteur de la plupart des jeux Zelda depuis Ocarina of Time (1988)
+- Hiroyuki Kimura, 59 ans, chez Nintendo depuis 1988, co-producteur ou chef de projet sur de nombreux jeux récents
+- Katsuya Eguchi, 59 ans, chez Nintendo depuis 1988, réalisateur sur Star Fox (1993), Wave Race 64 (1996), Animal Crossing (2001), producteur sur de nombreux jeux depuis 2005
+
+- Shigefumi Hino, 61 ans, chez Nintendo depuis 1990, réalisateur des jeux Pikmin
+- Yoshiaki Koizumi, 56 ans, chez Nintendo depuis 1991, réalisateur sur Super Mario Sunshine (2002), Donkey Kong Jungle Beat (2004), producteur sur les Super Mario Galaxy (2007, 2010), Super Mario 3D Land (2011), Super Mario 3D World (2013) et Super Mario Odyssey (2017)
+- Hisashi Nogami, 53 ans, chez Nintendo depuis 1994, créateur d'Animal Crossing et Splatoon
+- Takehiko Hosokawa, chez Nintendo depuis 1996, co-réalisateur sur Metroid: Samus Returns (2017)
+- Hiromasa Shikata, chez Nintendo depuis 1998, réalisateur sur The Legend of Zelda: A Link Between Worlds (2013)
+
+- Aya Kyogoku, 42 ans, chez Nintendo depuis 2000, réalisatrice ou productrice sur les jeux Animal Crossing depuis New Leaf (2012)
+- Yusuke Akifusa, chez Nintendo depuis 2000, réalisateur de Everybody 1-2-Switch! (2023)
+- Kenta Motokura, chez Nintendo depuis 2000, réalisateur sur Super Mario 3D World (2013), Captain Toad: Treasure Tracker (2014) et Super Mario Odyssey (2017)
+- Yusuke Amano, 43 ans, chez Nintendo depuis 2001, réalisateur sur New Super Mario Bros. 2 (2012)
 - Yusuke Shiraiwa, chez Nintendo depuis 2001, réalisateur sur Mario Kart 8 Deluxe (2017)
-- Yosuke Oshino, réalisateur sur Super Mario Maker 2 (2019)
-- Yusuke Akifusa, réalisateur de Everybody 1-2-Switch! (2023)
+- Yuji Kando, chez Nintendo depuis 2001, réalisateur sur Pikmin 3 (2013) et Pikmin 4 (2023)
+- Koichi Hayashida, chez Nintendo depuis 2002, réalisateur sur Super Mario 3D Land (2011) et Super Mario 3D World (2013)
+- Shinya Hiratake, chez Nintendo depuis 2003, réalisateur sur Captain Toad: Treasure Tracker (2014)
+- Kenta Sato, chez Nintendo depuis 2003, réalisateur sur Arms (2017)
+- Masaaki Ishikawa, chez Nintendo depuis 2005, réalisateur sur Arms (2017)
+- Hidemaro Fujibayashi, 51 ans, chez Nintendo depuis 2005, travaille sur la licence Zelda depuis Oracle of Seasons and Oracle of Ages (2001), réalisateur de Skyward Sword (2011), Breath of the Wild (2017), Tears of the Kingdom (2023)
+- Masataka Takemoto, chez Nintendo depuis 2005, réalisateur sur New Super Mario Bros. U (2012), New Super Luigi U (2013)
+- Yosuke Oshino, chez Nintendo entre 2005 et 2019, chez Pokemon Company depuis 2019, réalisateur sur Super Mario Maker 2 (2019)
+- Kosuke Yabuki, chez Nintendo depuis 2006, réalisateur sur Mario Kart 8 (2014), producteur sur Mario Kart 8 Deluxe (2017) et Arms (2017)
+- Shintaro Jikumaru, chez Nintendo depuis 2007, réalisateur sur Arms (2017)
+- Tsubasa Sakaguchi, chez Nintendo depuis 2007, réalisateur sur Nintendo Labo (2018)
 
 ## Jeux
 ### Elden Ring: Shadow of the Erdtree
