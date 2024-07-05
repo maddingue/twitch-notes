@@ -11860,7 +11860,29 @@ raids : lesnumeriques => (13:44)[+142] LamHua => (16:19) LeMwakast (>16:30) => (
 
 » 🇫🇷 [ActuGaming / 2 juil. 2024] Kunitsu-Gami: Path of the Goddess s’offre une démo et prévoit un crossover avec Okami → https://actugaming.net/a-654963
 
-raids : lesnumeriques => (13:42)[+114] CanardPC => (14:04)[+241] DamDamLive => (16:56)[+465] Souwtane (vendredi) (>00:00)
+raids : lesnumeriques => (13:42)[+114] CanardPC => (14:04)[+241] DamDamLive => (16:56)[+465] Souwtane (vendredi) (>02:50) => Azano__ => Spuffi => (05:04)[+110] Miikeeswoosh (>10:10) => (<10:55) jengo_m => (14:48)[+86] YoannJPEG => (18:56)[+48] Val_Taiwan => (21:08) RoScOland (samedi) (terminé à 00:35)
+
+
+--------------------------------------
+2024-07-05
+
+» [Kickstarter] 4D Pack Plus: triple your storage and luggage capacity!. The first top-zipper airtight pouches with internal organizers. Save space & keep your stuff in perfect order. Replace tons of plastic! → https://www.kickstarter.com/projects/fitness-outdoor-mask/4d-pack-plus-home-travel-eco-bags-for-backpack-suitcase
+» [Xpeng] P7 → https://xpeng.com/p7
+
+» 🇫🇷 [Les Numériques] Test Peugeot e-5008 GT 210 : que vaut le SUV électrique 7 places français ? → https://www.lesnumeriques.com/voiture-electrique/peugeot-e-5008-gt-210-p75270/test.html
+
+» [Interesting Engineering / 3 juil. 2024] Figure 01: Coffee-making humanoid robot now shows car assembly skill at BMW. The humanoid operates autonomously, with actions guided by neural networks mapping pixels to actions. → https://interestingengineering.com/innovation/us-figure-humanoid-start-operations-at-bmw-plant
+» [The Guardian / 2 juil. 2024] Google’s emissions climb nearly 50% in five years due to AI energy demand. Tech giant’s goal of reducing climate footprint at risk as it grows increasingly reliant on energy-hungry data centres → https://www.theguardian.com/technology/article/2024/jul/02/google-ai-emissions
+
+» 🇫🇷 [Les Numériques] Le projet de fusion nucléaire ITER accuse un retard d'au moins huit années supplémentaires → https://lesnumeriques.com/science-espace/-n223805.html
+» [Interesting Engineering / 1er juiL. 2024] Moss that grows in Mojave desert, Antarctica can grow on Mars, claims China. A new study shows that Syntrichia caninervis, a type of moss found in Antarctica, can withstand radiation and freezing temperatures. → https://interestingengineering.com/space/desert-moss-can-survive-on-mars
+
+» 🇫🇷 [Les Numériques / 4 juil. 2024] Moshi, le premier assistant vocal IA en temps réel au monde, est made in France → https://lesnumeriques.com/intelligence-artificielle/-n223813.html
+
+» 🇫🇷 [Les Numériques] Test Logitech G515 Lightspeed TKL : un clavier gamer qui la joue vraiment discrète → https://www.lesnumeriques.com/clavier/logitech-g515-lightspeed-tkl-p75205/test.html
+
+raids : lesnumeriques => (13:37)[116] OrigaTwitch => (15:22)[+402] LeFilsdePub => (16:38)[+125] Eben_Stream => (18:52)[+39] OrigaTwitch [JVleMag=>(19:05)+21] [Luuuuuch=>(19:11)+8] [7Krone=>(19:18)+262] => (19:31)[+399] Modiiie => (21:02)[+361] Delfea (samedi) => (01:30)[+60] Macdadidouce [Euphoriasis=>(01:35)+43] (>01:40)
+
 
 
 
