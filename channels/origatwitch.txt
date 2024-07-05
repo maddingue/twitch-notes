@@ -6390,8 +6390,13 @@ raids : OrigaTwitch => (15:04)[+384] onestFURAX => (17:36) OPcrotte (terminé à
 2024-07-04
 
 » Luigi's Mansion 2 HD, sorti le 27 juin 2024 sur Switch, 45 € dans le commerce, 60 € sur eShop (https://cutt.ly/BefhidtM)
-originellement sorti en mars 2013 sur Nintendo 3DS, développé par Next Level Games, réalisé par Bryce Holliday, écriture par Eric Smith, direction artistique par Neil Singh, musiques par Chad York, Darren Radtke et Mike Peacock
-ventes : 6,44 millions en fin 2020
+- sorti le 27 juin 2024 sur Switch
+- publié par Nintendo, développé par Next Level Games
+- originellement sorti en mars 2013 sur Nintendo 3DS, développé par Next Level Games, réalisé par Bryce Holliday, écriture par Eric Smith, direction artistique par Neil Singh, musiques par Chad York, Darren Radtke et Mike Peacock
+- ventes : 6,44 millions en fin 2020
+
+🎮 à partir de 45 € en grande distribution
+🎮 60 € sur eShop (https://cutt.ly/BefhidtM)
 
 » Luigi's Mansion, sorti en sept. 2001 sur GameCube, en oct. 2018 sur 3DS ; développé par Nintendo EAD, réalisé par Hideki Konno, musiques par Kazumi Totaka et Shinobu Tanaka
 ventes : 3,3 millions
@@ -6403,6 +6408,152 @@ ventes : 14,25 millions à mars 2024
 
 excuses de sac :
 - comment voulez-vous combattre le démon quand vous avez ce genre de fantôme nul, ce genre de Furby dans les pattes (Hoopy)
+
+
+
+--------------------------------------
+2024-07-05
+
+L'Hebdo #32
+
+## Invités
+» Nawiel Almyugar → 𝕏 https://twitter.com/NawielAlmyugar | 📡 https://twitch.tv/nawielalmyugar | https://nawielalmyugar.carrd.co
+- 🎧 Ether 14 Radio, podcast autour de FF14 et de ses communautés → https://linktr.ee/ether14radio
+- 📜 Guides FF14 → https://nawiel.live
+» Cassim Montilla → 𝕏 https://twitter.com/NotCassim | 🟦 https://bsky.app/profile/cassim.montilla.fr | https://montilla.fr
+
+## Actus
+### La semaine
+» 🇫🇷 [ActuGaming / 26 juin 2024] Dead Rising revient massacrer du zombie avec un remaster qui révèle ses premières images → https://actugaming.net/a-654032
+» 🇫🇷 [ActuGaming / 2 juillet 2024] Capcom en dit plus sur Dead Rising Deluxe Remaster, tout savoir sur ce remaster plus proche d’un remake → https://actugaming.net/a-654925
+» 🇫🇷 [ActuGaming / 2 juillet 2024] Le prochain Resident Evil a été confirmé, c’est Koshi Nakanishi (Resident Evil 7) qui sera aux commandes → https://actugaming.net/a-654917
+» 🇫🇷 [ActuGaming / 1er juil. 2024] Le prochain Crazy Taxi de Sega sera en monde ouvert et « massivement multijoueur » → https://actugaming.net/a-654851
+» 🇫🇷 [ActuGaming / 3 juil. 2024] .45 Parabellum Bloodhound, le nouveau projet de Sukeban Games (Va-11 Hall-A) sort de l’ombre → https://actugaming.net/a-655267
+
+» 🇫🇷 [ActuGaming / 2 juillet 2024] Le studio derrière le jeu Tales of Kenzera: Zau serait lui aussi en train de licencier → https://actugaming.net/a-655060
+» 🇫🇷 [ActuGaming / 28 juin 2024] Ubisoft Toronto, qui travaille sur les remakes de Splinter Cell et Prince of Persia, licencie 33 personnes → https://actugaming.net/a-654813
+
+» 🇫🇷 [ActuGaming / 28 juin 2024] Après plusieurs reports, Rugby 24 devient Rugby 25 et démarre son accès anticipé… aujourd’hui → https://actugaming.net/a-654578
+
+» [𝕏 (ex Twitter) / Brandon Cole / 29 juin 2024] Hi, friends. Shaysters here. It is with a heavy heart to post that our beloved SuperBlindMan is no longer with us as of today. → https://cutt.ly/tefEI4zw
+
+» 🇺🇸 [Games Industry / 1er juil. 2024] Nintendo aims to avoid scalping of Switch successor by meeting console demand. President Shuntaro Furukawa also says successor won't be impacted by semiconductor shortage → https://cutt.ly/SefEUWmQ
+» 🇺🇸 [Game Developer / 1er juil. 2024] Nintendo doesn't expect production issues to impact Switch successor. The Japanese company believes avoiding production hiccups will combat scalpers → https://cutt.ly/UefEY8bj
+
+### Capcom
+» 🇫🇷 [ActuGaming / 26 juin 2024] Dead Rising revient massacrer du zombie avec un remaster qui révèle ses premières images → https://actugaming.net/a-654032
+
+» Kunitsu-Gami: Path of the Goddess, le 19 juil. 2024 sur PlayStation 5, Xbox Series (Game Pass) et PC / Steam Deck , démo disponible sur Steam et PlayStation → https://www.kunitsu-gami.com | https://s.team/a/2510710
+» 🇫🇷 [ActuGaming / 2 juil. 2024] Kunitsu-Gami: Path of the Goddess s’offre une démo et prévoit un crossover avec Okami → https://actugaming.net/a-654963
+
+### Beyond Good & Evil
+» Beyond Good & Evil - 20th Anniversary Edition, sorti le 25 juin 2024 à 20 € sur Switch, PlayStation, Xbox et PC / Steam Deck → https://s.team/a/2556990 | https://www.ubisoft.com/fr-fr/game/beyond-good-and-evil/20th-anniversary-edition
+
+
+## Jeu
+### Final Fantasy XIV: Dawntrail
+» Final Fantasy XIV: Dawntrail, sorti le 2 juil. 2024 à 35 € sur PlayStation 4 & 5, Xbox Series et PC / Steam Deck → https://fr.finalfantasyxiv.com/dawntrail
+
+» 🇫🇷 [ActuGaming / 2 juil. 2024] Final Fantasy XIV : L’extension Dawntrail du MMO est maintenant disponible → https://actugaming.net/a-655035
+- Final Fantasy XIV est sorti en sept. 2010 sur Windows ; la version 2.0 A Realm Reborn est sortie en août 2013 sur PlayStation 3 et Windows, en avril 2014 sur PlayStation 4
+- développé par Square Enix Creative Business Unit III → https://fr.finalfantasyxiv.com/dawntrail
+- produit et réalisé par Naoki Yoshida, écriture par Kazutoyo Maehiro, direction artistique par Hiroshi Minagawa, Akihiko Yoshida et Takeo Suzuki, musiques par Masayoshi Soken
+- extensions :
+  - 2.1 A Realm Awoken en déc. 2013
+  - 2.2 Through the Maelstrom en mars 2014
+  - 2.3 Defenders of Eorzea en juillet 2014
+  - 2.4 Dreams of Ice en oct. 2014
+  - 2.5 Before the Fall en jan. et mars 2015
+  - 3.0 Heavensward en juin 2015
+  - 4.0 Stormblood en juin 2017
+  - 5.0 Shadowbringers en juillet 2019
+  - 6.0 Endwalker en déc. 2021
+  - 7.0 Dawntrail en juillet 2024
+
+🎮 55 € sur PlayStation (https://cutt.ly/1efRNIgQ)
+💻️ 35 € sur Steam (https://s.team/a/2649240)
+
+Final Fantasy XI, sorti en mai 2002 sur PlayStation 2, en 2002/2003/2004 sur Windows
+
+## Mais pas que
+### Nawiel
+» 🎸 Halocene → https://halocene.com | ▶️ https://youtube.com/@Halocene | ♪ https://tiktok.com/@halocene | 🎧 https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL | 𝕏 https://twitter.com/Halocene
+
+### Cassim
+» Doctor Who - troisième série, saison 1, série TV britannique créée par Russell T Davies, musiques par Murray Gold, avec Ncuti Gatwa comme nouveau Docteur, Millie Gibson → https://doctorwho.tv
+- visible sur Disney+ (https://disneyplus.com/series/doctor-who/1ml73V6phgyZ)
+- articles au sujet de la nouvelle série :
+  - 🇫🇷 [Les Numériques / 18 mars 2024] Doctor Who : on sait enfin quand sortira la nouvelle saison sur Disney+ → https://lesnumeriques.com/serie/-n219639.html
+  - 🇫🇷 [Première / 7 mai 2024] Ce que l'arrivée de Disney va changer pour Doctor Who → https://cutt.ly/uefRUUm0
+  - 🇫🇷 [Le Monde / 10 mai 2024] Pourquoi la série « Doctor Who » est-elle culte (mais pas en France) ? Une nouvelle saison de la série britannique sort samedi 11 mai sur la plate-forme Disney+. Un « reboot » avec pour tête d’affiche un nouveau Docteur, interprété par Ncuti Gatwa, repéré dans la série « Sex Education ». → https://cutt.ly/OefRUxw9
+
+### Gauthier
+» 📕 Une femme en contre-jour, 218 p., par Gaëlle Josse, publié le 19 avril 2019 aux Éditions de La Loupe 21,50 € en papier (EAN 9782848688862) → https://www.editionsdelaloupe.com/product/130465/une-femme-en-contre-jour/
+» podcasts de France Culture sur Vivian Maier :
+- 📻 [La Dispute / 20 févr. 2019] Arts plastiques : Vivian Maier, "c’est la Mary Poppins de la photographie" (55 min) → https://cutt.ly/6efRT75u
+- 📻 [La Grande table culture / 4 mars 2019] Raconter Vivian Maier, "la génie invisible" (25 min) → https://cutt.ly/iefREfEr
+- 📻 [La Compagnie des œuvres / 20 mai 2021] Des femmes photographes - L'invention et la découverte de Vivian Maier (58 min) → https://cutt.ly/7efRns2c
+
+raids entrants :
+- DamRodi à 13:03 +2
+
+raids : OrigaTwitch => (15:22)[+402] LeFilsdePub => (16:38)[+125] Eben_Stream => (18:52)[+39] OrigaTwitch => (19:31)[+399] Modiiie => (21:02)[+361] Delfea (samedi) => (01:30)[+60] Macdadidouce [Euphoriasis=>(01:35)+43] (>01:40)
+
+
+Produire un JV sous l'extrême droite, ça donnerait quoi ?
+
+Invité⋅e⋅s
+- Sarah
+- Lenophie🐇🏳️‍⚧️ → 🌴 https://linktr.ee/lenophie | 𝕏 https://x.com/Lenophie | 📡 https://twitch.tv/Lenophie
+- Naomi
+- Antoine
+
+» Jennifer Lufau, consultante DEI, chroniqueuse JV sur RFI, co-fondatrice de Afrogameuses → 𝕏 https://x.com/invinciblejane | 📡 https://twitch.tv/invincible_jane | https://jenniferlufau.com/
+» Antoine Gouy, concepteur UI/UX → 𝕏 https://x.com/antoinegouy | https://gouy-antoine.com
+
+Intervenant⋅e⋅s
+- Elizabeth Maler, présidente de Abiding Bridge → 𝕏 https://x.com/elizabethmaler
+  - Abiding Bridge, maison d'édition qui ne s'occupe que des jeux développés par des collectifs qui ne sont pas structurés sous forme de société → https://abidingbridge.com
+- Célian Godefroid, doctorant en droit à l'université Paris-Saclay et à l'université d'Évry-Val-d'Essonne → https://celiangodefroid.fr
+  - Quel contrat pour l'emploi des esportifs en France ? (avril 2021) → https://univ-evry.hal.science/hal-03185830
+
+» ✊ https://lestreampopulaire.fr | 𝕏 https://twitter.com/seedevent_
+» 📝 Signez la pétition du Steam Populaire « L’Histoire nous regarde : mobilisons-nous ! » → https://www.change.org/p/l-histoire-nous-regarde-mobilisons-nous
+
+» STJV - Syndicat des Travailleurs·ses du Jeu Video → https://stjv.fr
+» 🇫🇷 [STJV] Baromètre 2022 → https://www.stjv.fr/2023/09/barometre-2022-les-travailleurses-du-jeu-video-en-chiffres/
+
+» 🇫🇷 [STJV / 25 juin 2024] Législatives 2024 : faire gagner le Nouveau Front Populaire pour enfin faire progresser nos droits → https://cutt.ly/JefTghdC
+» [𝕏 (ex Twitter) / STJV / 1er juil. 2024] #ElectionsLegislatives2024🔴 Nous subissons des pressions du patronat dans plusieurs grands studios de jeu vidéo français suite à ces affichages. ⤵🧵 → https://cutt.ly/1efTfr1p
+
+» [SNJV] Baromètre annuel du jeu vidéo en France édition 2020 → http://snjv.org/wp-content/uploads/2019/10/Barometre_JV_2019_Interactif.pdf
+» [SNJV] Baromètre annuel du jeu vidéo en France édition 2021 → http://snjv.org/wp-content/uploads/2021/09/Barometre-SNJV-2021.pdf
+» [SNJV] Baromètre annuel du jeu vidéo en France édition 2023 → https://frenchgamesmap.fr/media/download/barometre-2022.pdf
+
+» 🇫🇷 [Médiapart / 11 mars 2023] Dans la Hongrie d’Orbán, la culture entre bâillon et autocensure. Le domaine de la direction de l’esprit – notamment le monde de la musique – n’échappe pas à l’art du premier ministre hongrois d’étouffer la démocratie, tout comme la contestation de son régime. Viktor Orbán sait gratifier et réprimer, en même temps. → https://cutt.ly/PefY13fQ
+
+» 🇫🇷 [Afrogameuses] l’extrême droite : ni dans nos vies, ni dans nos jeux → https://www.afrogameuses.com/ni-dans-nos-vies-ni-dans-nos-jeux/
+
+» _cf._ les articles au sujet de Deck Nine
+
+» 🇺🇸 [GamesBeat / 18 mars 2022] Despite its beautiful Ori games, Moon Studios is called an ‘oppressive’ place to work → https://cutt.ly/0SWHkTE
+
+» jeux de gôche :
+- Foule populaire → https://foulepopulaire.fr
+- Front ou pas front → https://pickapic.fr
+- Macron dissolution → https://pgmstudio.itch.io/macron-dissolution
+- Je suis → https://celthim.itch.io/je-suis
+- Téléphone Quest → https://telephone.quest/
+- Le coeur à gauche → https://uniondelagauche.itch.io/lecoeuragauche
+- Barrage populaire → https://docgeraud.itch.io/barrage-populaire
+
+raids entrants :
+- Eben_Stream à 18:52 +39
+- JVleMag à 19:05 +21
+- Luuuuuch à 19:11 +8
+- 7Krone à 19:18 +262
+
+raids : OrigaTwitch => (19:31)[+399] Modiiie => (21:02)[+361] Delfea (samedi) => (01:30)[+60] Macdadidouce [Euphoriasis=>(01:35)+43] (>01:40)
 
 
 
@@ -6451,7 +6602,7 @@ excuses de sac :
 » LaLinosse / Héloïse Linossier → 𝕏 https://twitter.com/HLinossier | 🟦 https://bsky.app/profile/hlinossier.bsky.social
 » Hubert Petit → 𝕏 https://twitter.com/snakenhub | 🟦 https://bsky.app/profile/hubertpetit.bsky.social
 » Medoc / Medhi Camprasse → 𝕏 https://twitter.com/Elmedoc | 🟦 https://bsky.app/profile/medoc.bsky.social
-» Cassim → 𝕏 https://twitter.com/NotCassim | 🟦 https://bsky.app/profile/cassim.montilla.fr
+» Cassim Montilla → 𝕏 https://twitter.com/NotCassim | 🟦 https://bsky.app/profile/cassim.montilla.fr | https://montilla.fr
 » Lucie Ronfaut → 🌐 https://LucieRonfaut.com | 𝕏 https://twitter.com/LucieRonfaut | 🟦 https://bsky.app/profile/lucieronfaut.bsky.social
 
 les copains :
