@@ -11881,7 +11881,7 @@ raids : lesnumeriques => (13:42)[+114] CanardPC => (14:04)[+241] DamDamLive => (
 
 » 🇫🇷 [Les Numériques] Test Logitech G515 Lightspeed TKL : un clavier gamer qui la joue vraiment discrète → https://www.lesnumeriques.com/clavier/logitech-g515-lightspeed-tkl-p75205/test.html
 
-raids : lesnumeriques => (13:37)[116] OrigaTwitch => (15:22)[+402] LeFilsdePub => (16:38)[+125] Eben_Stream => (18:52)[+39] OrigaTwitch [JVleMag=>(19:05)+21] [Luuuuuch=>(19:11)+8] [7Krone=>(19:18)+262] => (19:31)[+399] Modiiie => (21:02)[+361] Delfea (samedi) => (01:30)[+60] Macdadidouce [Euphoriasis=>(01:35)+43] (>01:40)
+raids : lesnumeriques => (13:37)[116] OrigaTwitch => (15:22)[+402] LeFilsdePub => (16:38)[+125] Eben_Stream => (18:52)[+39] OrigaTwitch [JVleMag=>(19:05)+21] [Luuuuuch=>(19:11)+8] [7Krone=>(19:18)+262] => (19:31)[+399] Modiiie => (21:02)[+361] Delfea (samedi) => (01:30)[+60] Macdadidouce [Euphoriasis=>(01:35)+43] => (02:53)[+45] minitoma04 (>03:00) => shakawah => Lvcyd => Iti63 => (<11:13) Bluestardust_ [turtleseab=>11:40)+41] (terminé à 23:32)
 
 
 
