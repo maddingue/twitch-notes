@@ -7152,9 +7152,9 @@ sondage : comment qualifier ce qu'on voit entend ? la fin d'Origami (82%)
 > Many of you are reaching out about the news around Annapurna (sorry to see what is going on to all involved ) Interactive. Thank you for your care! Remedy's deal for Control 2, including Alan Wake and Control AV rights, is with Annapurna Pictures, and we are self-publishing Control 2. (I hope I made sense; its 5am in Finland and I'm jet lagged)
 
 » 🇺🇸 [Game Developer / 30 juil. 2024] **Humble Games' recent restructure is hurting devs and their games.** Developers Squid Shock and Stairway are unable to push console updates, and the former is resorting to Patreon while looking for a solution → https://cutt.ly/zeTSLYIO
-» 🇬🇧 [GamesRader+ / 13 sept. 2024] **"Nothing's gonna stop us from getting Wanderstop out the door": Annapurna Interactive partners react to mass resignations, as Remedy says its Control 2 deal is unaffected** → https://cutt.ly/beTSXqVH
+» 🇬🇧 [GamesRadar+ / 13 sept. 2024] **"Nothing's gonna stop us from getting Wanderstop out the door": Annapurna Interactive partners react to mass resignations, as Remedy says its Control 2 deal is unaffected** → https://cutt.ly/beTSXqVH
 
-» [𝕏 (ex Twitter) / dreamfeel | Marumittu Games / ] 🧵 https://x.com/dreamfeelx/status/1834647713490555113
+» [𝕏 (ex Twitter) / dreamfeel | Marumittu Games / 13 sept. 2024] 🧵 https://x.com/dreamfeelx/status/1834647713490555113
 > heyyy, it's llaura. considering the huge role Annapurna played in our lil studio's history and with If Found I want to share a few thoughts off the cuff. most of all just sending my best wishes to the team that resigned and a few hopes for the future.
 > I don't have any insight  at all beyond what's public & this isn't a statement or anything so please don't quote it anywhere, because it's not my place to comment. but just a few thoughts and best wishes inc to any future a_i team too.
 
@@ -7349,6 +7349,65 @@ raids : OrigaTwitch => (16:07)[+226] DamDamLive => (16:16)[+1059] Sarahlechatpri
 
 raids entrants :
 - Ostpolitik à 13:51 +604
+
+
+--------------------------------------
+2024-09-24
+
+» ▶️ [Patreon] Head Shot #01 -- Du Plucky Squire au Vaillant Petit Page, rencontre avec Frédéric Muller, responsable localisation → https://patreon.com/posts/112550591
+
+# Mardinale
+### Netflix
+» 🇫🇷 [Gamekeult / 20 sept. 2024] Tomb Raider : Dernier trailer avant la sortie de la série Netflix. Le premier épisode arrive le 10 octobre → https://cutt.ly/JeUqvQ3M
+» 🇫🇷 [ActuGaming / 20 sept. 2024] Arcane : La saison 2 de la série sera diffusée en trois parties en novembre, voici les dates → https://actugaming.net/a-673742
+» 🇫🇷 [ActuGaming / 20 sept. 2024] Dante enchaîne les combos dans le nouveau trailer de la série Devil May Cry de Netflix, qui sera diffusée en avril 2025 → https://actugaming.net/a-673732
+» 🇫🇷 [ActuGaming / 20 sept. 2024] La série d’animation Splinter Cell de Netflix se nommera Splinter Cell: Deathwatch et dévoile ses premières images → https://actugaming.net/a-673747
+» 🇫🇷 [ActuGaming / 20 sept. 2024] Cyberpunk 2077 va continuer d’être adapté en anime sur Netflix, une suite à Cyberpunk Edgerunners ou une autre série ? → https://actugaming.net/a-673736
+
+### Annonces pré TGS
+» 🇫🇷 [ActuGaming / 20 sept. 2024] Like a Dragon: Pirate Yakuza in Hawaii sera le prochain épisode de la saga, disponible le 28 février 2025 sur PC et consoles → https://actugaming.net/a-673769
+
+» 🇫🇷 [ActuGaming / 19 sept. 2024] Two Point Museum : Vous pourrez ouvrir les portes de votre propre musée dès le 4 mars 2025 → https://actugaming.net/a-673677
+
+» 🇫🇷 [ActuGaming / 18 sept. 2024] Freedom Wars : Le RPG de la PS Vita obtient une seconde vie avec un remaster prévu sur PC et consoles → https://actugaming.net/a-673360
+
+» Citadelum, le 17 oct. 2024 sur PC / Steam Deck, démo disponible, développé par Abylight Barcelona → https://s.team/a/2603020 | https://abylight.com/es/juego/citadelum
+» Blasphemous II - Mea Culpa, le 31 oct. 2024 sur Switch, PlayStation, Xbox et PC / Steam Deck → https://blasphemous2game.com/mea-culpa | https://s.team/a/2879370
+» The Stone of Madness, annoncé pour 2025 sur Switch, PlayStation, Xbox et PC / Steam Deck ; par The Game Kitchen → https://stoneofmadnessgame.com | https://s.team/a/1309710
+
+» 🇫🇷 [ActuGaming / 19 sept. 2024] Sony va sortir des éditions limitées de PS5 Pro, PS5 Slim, DualSense et PlayStation Portal aux couleurs de la PS1 → https://actugaming.net/a-673660
+
+### Les Sims
+» 🇺🇸 [Games Industry / 18 sept. 2024] EA to "disrupt the sequel model" by dropping sequential release for the Sims. Sims 4 set to be "the foundation of [EA's] future growth strategy," Laura Miele says → https://cutt.ly/veUqhYCu
+» 🇫🇷 [Gamekult / 18 sept. 2024] Les Sims 5 ne sortira jamais, mais la franchise va continuer de s'étendre. « Projet Rene » est toujours dans les plans → https://gamekult.com/actualite/a-3050859848.html
+» 🇫🇷 [ActuGaming / 18 sept. 2024] Electronic Arts veut mettre le paquet sur l’IA générative et s’attend à de gros résultats → https://actugaming.net/a-673245
+
+### Fermeture de Midwinter
+» 🇺🇸 [Games Industry / 18 sept. 2024] Midwinter shut down following Project T cancellation. Behaviour Interactive confirms closure in formal statement → https://cutt.ly/deUqDFC3
+» 🇫🇷 [ActuGaming / 18 sept. 2024] Le studio Midwinter viendrait d’être fermée après l’annulation d’un spin-off Dead by Daylight → https://actugaming.net/a-673388
+
+## Syndicat chez Ubisoft Barcelone
+» [𝕏 (ex Twitter) / CSVI CGT / 19 sept. 2024] 🧵 https://x.com/CSVI_CGT/status/1836819832609685585
+> The workers of Ubisoft Barcelona Mobile have unionized.
+> Our rights are not subject to be unilaterally cut.
+> People with stability make better games.
+> People who feel safe make better games.
+> Empowered people make better games.
+
+### Firewalk
+» 🇺🇸 [Kotaku / 19 sept. 2024] Concord director steps down as studio behind historic PlayStation flop waits for Sony's decision. Ryan Ellis was the hero shooter's game director at Firewalk Studios → https://kotaku.com/n-1851652811
+» 🇫🇷 [ActuGaming / 24 sept. 2024] Concord : Le réalisateur du jeu se met en retrait tandis que le studio Firewalk attend toujours de connaître son sort → https://actugaming.net/a-673798
+
+### State of Play
+» 🇫🇷 [ActuGaming / 22 sept. 2024] Sony annonce un nouveau State of Play le 24 septembre dans la soirée avec 20 jeux PS5 et PS VR2 → https://actugaming.net/a-674614
+» 🇫🇷 [ActuGaming / 13 sept. 2024] Horizon Zero Dawn Remastered est de plus en plus réel et vient d’être enregistré chez l’ESRB → https://actugaming.net/a-673280
+
+### Annapurna Interactive
+» 🇺🇸 [IGN / 21 sept. 2024] Inside Annapurna Interactive's mass walkout: internal politics, the surprise Remedy deal, and why it all happened. The entire staff of one of gaming's most beloved publishers walked off the job in early September. Why? → https://cutt.ly/JeUqpNJR
+
+raids : OrigaTwitch => (12:03)[+504] Flonflon => (15:09)[+98] Leaprima (terminé à 15:47)
+
+
 
 
 
