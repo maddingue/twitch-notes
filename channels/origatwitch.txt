@@ -3992,7 +3992,7 @@ Mardinale #15
 
 ## Jeux
 ### Stellar Blade
--publié par Sony, développé par le studio coréen 🇰🇷️ Shift Up d'environ 260 personnes → <https://cutt.ly/aw6Lw4l0> | <https://shiftup.co.kr/EVE/> | <https://stellar-blade.com>
+- publié par Sony, développé par le studio coréen 🇰🇷️ Shift Up d'environ 260 personnes → <https://cutt.ly/aw6Lw4l0> | <https://shiftup.co.kr/EVE/> | <https://stellar-blade.com>
 - direction artistique et réalisation par Kim Hyung-tae, assisté de Lee Chang-min et Jang Hee-cheol, musiques par Hwang Joo-Eun et MONACA (Oliver Good and Keita Inoue)
 
 🎮 80 € ou + sur PlayStation (<https://cutt.ly/aw6Lw4l0>)
@@ -7408,6 +7408,41 @@ raids entrants :
 raids : OrigaTwitch => (12:03)[+504] Flonflon => (15:09)[+98] Leaprima (terminé à 15:47)
 
 
+# State of Play
+jeux présentés : Astro Bot | The Midnight Walk | Hell is Us | Metro Awakening | ArcheAge Chronicles | Palworld | Lunar Remaster Collection | TMNT: Shredder's Revenge - Radical Reptiles | Sonic x Shadow Generations | Fantasian Neo Dimension | Dragon Age: The Veilguard | Alan Wake II - The Lake House | Hitman World of Assassination | Legacy of Kain: Soul Reaver 1&2 | Fear the Spotlight | Towers of Aghasba | Lego Fortnite | Dynasty Warrior Origins | Monster Hunter Wilds | Lego Horizon Adventures | Horizon Zero Dawn Remastered | Stellar Blade x NieR:Automata | Ghost of Yōtei
+
+» Astro Bot, sorti le 6 sept. 2024 à 70 € sur PlayStation 5, nouveau niveaux speedrun ; développé par Team Asobi → https://teamasobi.com/games/astro-bot | https://blog.fr.playstation.com/2024/09/25/astro-bot-de-nouveaux-niveaux-de-speedrun-et-des-bots-speciaux-debarquent-cet-automne/
+» The Midnight Walk, annoncé sur PlayStation 5 et PS VR 2 ; développé par Moonhood → https://s.team/a/2863640 | https://blog.playstation.com/2024/09/24/the-midnight-walk-is-coming-to-ps5-and-ps-vr2-next-year/
+» Hell is Us, annoncé pour 2025 sur PlayStation 5, PC / Steam Deck ; édité par Nacon, développé par Rogue Factor, studio derrière Mordheim (2015) et Necromunda (2020) → https://s.team/a/1620730 | https://hell-is-us.com
+» Metro Awakening (VR), le 7 nov. 2024 sur PS VR 2, Meta Quest 2+ et PC VR ; développé par Vertigo Games, studio derrière les jeux A Fisherman's Tale, Arizona Sunshine 1 & 2 → https://s.team/a/2669410 | https://metroawakening.com
+» ArcheAge Chronicles, annoncé pour 2025 sur PlayStation 5 ; développé par XLGames → https://s.team/a/3218230 | https://blog.playstation.com/2024/09/24/archeage-chronicles-new-gameplay-details-on-the-online-ps5-action-rpg-coming-2025/
+» Palworld, sorti le 19 janv. 2024 sur Xbox Series et PC / Steam Deck, sorti le 25 sept. 2024 sur PlayStation 5 ; développé par Pocketpair → https://s.team/a/1623730 | https://www.pocketpair.jp/palworld
+» Lunar Remastered Collection, printemps 2025 sur Switch, PlayStation, Xbox et PC / Steam Deck ; développé par GungHo → https://blog.playstation.com/2024/09/24/lunar-remastered-collection-launches-on-ps5-and-ps4-spring-2025/
+» TMNT: Shredder's Revenge - DLC Radical Reptiles, sorti le 24 sept. 2024 à 4 € sur toutes les plates-formes → https://s.team/a/2925190 | https://blog.playstation.com/2024/09/24/radical-reptiles-dlc-crawls-into-tmnt-shredders-revenge-today/
+» Sonic x Shadow Generations, le 25 oct. 2024 sur consoles et PC / Steam Deck ; édité par Sega, développé par Sonic Team → https://s.team/a/2513280 | https://sonicxshadowgenerations.com
+» Fantasian Neo Dimension, annoncé pour le 5 déc. 2024 sur Switch, PlayStation, Xbox et PC / Steam Deck ; édité par Square Enix, développé par Mistwalker Corporation → https://s.team/a/2844850 | https://fantasianneodimension.square-enix-games.com
+» Dragon Age: The Veilguard, le 31 oct. 2024 sur PlayStation 5, Xbox Series et PC / Steam Deck ; développé par BioWare → https://s.team/a/1845910 | https://ea.com/games/dragon-age/dragon-age-the-veilguard
+» Alan Wake II - DLC The Lake House, en oct. 2024 ; développé par Remedy 🇫🇮 → https://AlanWake.com | https://RemedyGames.com
+» Hitman World of Assassination, sur PS VR 2 ; développé par IO Interactive → https://hitman.com
+» Legacy of Kain: Soul Reaver 1 & 2 Remastered, annoncé pour le 10 déc. 2024 sur Switch, PlayStation, Xbox et PC / Steam Deck ; développé par Aspyr → https://s.team/a/2521380
+» Fear the Spotlight, sorti le 15 sept. 2023 sur PC / Steam Deck, le 22 oct. PlayStation, et par la suite Switch et Xbox ; édité par Blumhouse Games, développé par Cozy Game Pals → https://s.team/a/1959390 | https://cozygamepals.com
+» Towers of Aghasba, nov. 2024 sur PlayStation et PC / Steam Deck ; développé par Dreamlit → https://s.team/a/2178070 | https://dreamlit.games
+» Lego Fortnite
+» Dynasty Warrior Origins, le 17 jan. 2025 sur PlayStation 5, Xbox Series et PC / Steam Deck ; développé par Omega Force 🇯🇵 → https://s.team/a/2384580 | https://koeitecmoamerica.com/dw_origins/us/
+» Monster Hunter Wilds, le 28 févr. 2025 sur PlayStation 5, Xbox Series et PC / Steam Deck ; développé par Capcom → https://monsterhunter.com/wilds/ | https://s.team/a/2246340
+» Lego Horizon Adventures, le 14 nov. 2024 sur Switch, PlayStation et PC / Steam Deck ; développé par Studio Gobo → https://legohorizonadventures.com | https://s.team/a/2428810 | https://blog.fr.playstation.com/2024/09/25/lego-horizon-adventures-sortira-le-14-novembre-toutes-les-infos-sur-ledition-numerique-deluxe/
+» Horizon Zero Dawn Remastered, le 31 oct. sur PlayStation 5 ; édité par PlayStation, développé par Guerilla → https://s.team/a/1151640 | https://playstation.com/games/horizon-zero-dawn/
+» Stellar Blade - DLC NieR:Automata, fin 2024 sur PlayStation 5
+» Ghost of Yōtei, annoncé pour 2025 sur PlayStation 5 ; développé par Sucker Punch → https://blog.playstation.com/2024/09/24/ghost-of-yotei-is-coming-in-2025/
+
+
+raids entrants :
+- euuhhh__ à 00:10 +981
+- HellaFreya à 00:16 +8
+- DollyWood_
+- SebJDG à 00:45 +1199
+
+raids : OrigaTwitch => (00:48)[+1452] Guile (>03:00)
 
 
 
