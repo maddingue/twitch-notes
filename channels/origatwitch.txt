@@ -7446,6 +7446,82 @@ raids : OrigaTwitch => (00:48)[+1452] Guile (terminé à 04:05)
 
 
 
+--------------------------------------
+2024-09-27
+
+# L'Hebdo #35
+## Actus
+### TGS
+» ▶️ [YouTube / Sumimasen Turbo / 24 sept. 2024] TGS 2024, Sumimasen Turbo fait son Prologus depuis Tokyo → https://youtu.be/81Nicu_sMNI (55 min)
+
+### State of Play
+» ▶️ [YouTube / PlayStation / 24 sept. 2024] State of Play → https://youtu.be/fVs0suPHAX8
+- Ghost of Yōtei, annoncé pour 2025 sur PlayStation 5 ; développé par Sucker Punch → https://blog.playstation.com/2024/09/24/ghost-of-yotei-is-coming-in-2025/
+- Horizon Zero Dawn Remastered, le 31 oct. sur PlayStation 5 ; édité par PlayStation, développé par Guerilla → https://s.team/a/1151640 | https://playstation.com/games/horizon-zero-dawn/
+- Astro Bot, sorti le 6 sept. 2024 à 70 € sur PlayStation 5, nouveau niveaux speedrun ; développé par Team Asobi → https://teamasobi.com/games/astro-bot | https://blog.fr.playstation.com/2024/09/25/astro-bot-de-nouveaux-niveaux-de-speedrun-et-des-bots-speciaux-debarquent-cet-automne/
+- Lego Horizon Adventures, le 14 nov. 2024 sur Switch, PlayStation et PC / Steam Deck ; développé par Studio Gobo → https://legohorizonadventures.com | https://s.team/a/2428810 | https://blog.fr.playstation.com/2024/09/25/lego-horizon-adventures-sortira-le-14-novembre-toutes-les-infos-sur-ledition-numerique-deluxe/
+- Legacy of Kain: Soul Reaver 1 & 2 Remastered, le 10 déc. 2024 sur Switch, PlayStation, Xbox et PC / Steam Deck ; développé par Aspyr → https://s.team/a/2521380
+- Lunar Remastered Collection, printemps 2025 sur Switch, PlayStation, Xbox et PC / Steam Deck ; développé par GungHo → https://blog.playstation.com/2024/09/24/lunar-remastered-collection-launches-on-ps5-and-ps4-spring-2025/
+- Monster Hunter Wilds, le 28 févr. 2025 sur PlayStation 5, Xbox Series et PC / Steam Deck ; développé par Capcom → https://monsterhunter.com/wilds/ | https://s.team/a/2246340
+- Hell is Us, annoncé pour 2025 sur PlayStation 5, PC / Steam Deck ; édité par Nacon, développé par Rogue Factor, studio derrière Mordheim (2015) et Necromunda (2020) → https://s.team/a/1620730 | https://hell-is-us.com
+- The Midnight Walk, annoncé sur PlayStation 5 et PS VR 2 ; développé par Moonhood → https://s.team/a/2863640 | https://blog.playstation.com/2024/09/24/the-midnight-walk-is-coming-to-ps5-and-ps-vr2-next-year/
+» _cf._ fil de forum
+
+### La semaine
+» 🇫🇷 [ActuGaming / 25 sept. 2024] Assassin’s Creed Shadows ne sortira pas à la date prévue, le jeu est repoussé au début d’année 2025 → https://actugaming.net/a-675213
+» 🇫🇷 [ActuGaming / 25 sept. 2024] Suite à son lancement plus faible que prévu, Star Wars Outlaws sortira sur Steam en novembre → https://actugaming.net/a-675222
+» 🇫🇷 [ActuGaming / 28 sept. 2024] Star Wars Outlaws : Une nouvelle feuille de route a été dévoilée, voici quand arriveront les mises à jour → https://actugaming.net/a-676051
+
+» 🇺🇸 [Steam / Frostpunk 2 / 26 sept. 2024] Thank You for 350k Copies Sold! → https://cutt.ly/NeIvje7c
+» 🇫🇷 [Gamkult / 11 sept. 2024] Warhammer 40,000 Space Marine 2 : déjà plus de 2 millions de ventes en moins de 24h → https://cutt.ly/OeIvk8RM
+» 🇫🇷 [ActuGaming / 24 sept. 2024] Unicorn Overlord passe le million d’exemplaires vendus, gros succès pour le dernier jeu de Vanillaware → https://actugaming.net/a-674651
+» Metaphor: ReFantazio, le 11 oct. 2024 sur PlayStation 4 & 5, Xbox Series et PC / Steam Deck ; démo disponible sur toutes les plates-formes → https://metaphor.atlus.com | https://s.team/a/2679460
+
+### Fatal Fury: City of the Wolves
+» Fatal Fury: City of the Wolves, annoncé sur PlayStation 5, Xbox Series et PC ; développé par SNK → https://s.team/a/2492040
+» 🇫🇷 [ActuGaming / 26 sept. 2024] Ken et Chun-Li de Street Fighter s’invitent dans le roster de Fatal Fury: City of the Wolves → https://actugaming.net/a-675547
+» 🇫🇷 [Mouv' / 24 sept. 2024] Cristiano Ronaldo s’associe à Fatal Fury : City of the Wolves → https://cutt.ly/3eIvU0ij
+» 🇫🇷 [Le Monde - Pixels / 8 juil. 2022] L’e-sport, nouvel outil controversé de « soft power » pour les pays du Golfe. Qui du Qatar, de l’Arabie saoudite ou des Émirats arabes unis parviendra à s’imposer dans le jeu vidéo compétitif ? Motivés par des envies de diversification économique et d’influence à l’international, ces États investissent massivement l’e-sport, non sans contestation. → https://cutt.ly/0eIvOXmy
+
+
+## Jeux
+
+### Ara: History Untold
+- sorti le 24 sept. 2024 sur PC et Xbox Series
+- édité par Xbox Games Studios, développé par Oxide Games, studio américain basé à Baltimore, Maryland, derrière le jeu Ashes of the Singularity: Escalation (2016) → https://AraHistoryUntold.com | https://oxidegames.com
+
+🎮 60 € ou inclus dans le Game Pass PC (<https://cutt.ly/3eIzN6In>)
+💻️ 60 € € sur Steam (<https://s.team/a/2021880>)
+
+### Enotria: The Last Song
+- sorti le 16 sept. 2024 sur PlayStation 5 et PC / Steam Deck ; bientôt sur Xbox Series 
+- développé par Jyamma Games, studio italien d'une cinquantaine de personnes basé à Milan → https://enotriathelastsong.com
+
+🎮 45 € ou + sur PlayStation (<https://cutt.ly/seIzHMUx>) et Xbox (<https://cutt.ly/neIzJWf4>)
+💻️ 45 € sur Steam (<https://s.team/a/2102450>)
+
+### Frostpunk 2
+- sorti le 20 sept. 2024 sur PC / Steam Deck ; aussi annoncé sur PlayStation 5 et Xbox Series
+- développé par 11 bit studios, studio polonais 🇵🇱 d'environ 150 personnes derrière les jeux Frostpunk (2018), This War of Mine (2014), la série Anomaly (2011-2014) → <https://frostpunk2.com> | <https://11bitstudios.com>
+- réalisé par Łukasz Juszczyk et Jakub Dzierżykraj-Stokalski, direction artistique par Łukasz Juszczyk, direction narrative par Alexandre Boiret, musiques par Piotr Musiał
+
+🎮 annoncé sur PlayStation (<https://cutt.ly/nw5QkpsE>) et Xbox (<https://cutt.ly/rw5Qlr4b>)
+💻️ 45 € ou inclus dans le Game Pass PC (<https://cutt.ly/WeIzSWJh>)
+💻️ 45 € sur Steam (<https://s.team/a/1601580>) et GOG (<https://cutt.ly/xw5QhKob>)
+
+## Mais pas que
+### Gautoz
+» ▶️ [YouTube] Zeph & Ramo → https://youtube.com/@ZephRamo
+- ▶️ [YouTube / 13 sept. 2024] Crise du JV: les jeux bizarres sont la réponse [A MAZE 1/2] → https://youtu.be/34NVLRHsxSU (1 h 45 min)
+- ▶️ [YouTube / 20 sept. 2024] Crise du JV: les jeux bizarres sont l’avenir du gaming [A MAZE 2/2] → https://youtu.be/oBrkdcVam4U (1 h 20 min)
+
+### Moguri
+» ▶️ [YouTube / Zeph & Ramo / 21 déc. 2023] Toutes les rockstars des 90's ont créé des jeux étranges → https://youtu.be/JCtcMRypz8o (2 h 13 min)
+» 📘 Super Biscuit Maudit, 204 p., par Elodie Shanta, paru le 15 juil. 2024 chez Exemplaire Éditions, 18 € en papier (ISBN 978-2-492926-39-6) → https://www.exemplaire-editions.fr/exemplaire/librairie/livre/super-biscuit-maudit
+
+
+
+
 » 📄 
 » 🇺🇸 
 » 🇫🇷 
