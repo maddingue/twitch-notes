@@ -7520,6 +7520,72 @@ raids : OrigaTwitch => (00:48)[+1452] Guile (terminé à 04:05)
 » 📘 Super Biscuit Maudit, 204 p., par Elodie Shanta, paru le 15 juil. 2024 chez Exemplaire Éditions, 18 € en papier (ISBN 978-2-492926-39-6) → https://www.exemplaire-editions.fr/exemplaire/librairie/livre/super-biscuit-maudit
 
 
+--------------------------------------
+2024-10-01
+
+# Mardinale
+### State of Play : Ghost of Yōtei, Horizon Remastered, etc
+» 🇫🇷 [PlayStation Blog / 25 sept. 2024] Retrouvez toutes les révélations du State of Play de septembre  2024 → https://cutt.ly/KeI6Y3o2
+» 🇫🇷 [ActuGaming / 25 sept. 2024] Le résumé complet du State of Play du 24 septembre (Ghost of Yotei, Horizon Zero Dawn Remastered, Monster Hunter Wilds…) → https://actugaming.net/a-674734
+
+- Ghost of Yōtei, annoncé pour 2025 sur PlayStation 5 ; développé par Sucker Punch → https://blog.playstation.com/2024/09/24/ghost-of-yotei-is-coming-in-2025/
+- Monster Hunter Wilds, le 28 févr. 2025 sur PlayStation 5, Xbox Series et PC / Steam Deck ; développé par Capcom → https://monsterhunter.com/wilds/ | https://s.team/a/2246340
+- Dynasty Warrior Origins, le 17 jan. 2025 sur PlayStation 5, Xbox Series et PC / Steam Deck ; développé par Omega Force 🇯🇵 → https://s.team/a/2384580 | https://koeitecmoamerica.com/dw_origins/us/
+- Legacy of Kain: Soul Reaver 1 & 2 Remastered, le 10 déc. 2024 sur Switch, PlayStation, Xbox et PC / Steam Deck ; développé par Aspyr → https://s.team/a/2521380
+- Lego Horizon Adventures, le 14 nov. 2024 sur Switch, PlayStation et PC / Steam Deck ; développé par Studio Gobo → https://legohorizonadventures.com | https://s.team/a/2428810 | https://blog.fr.playstation.com/2024/09/25/lego-horizon-adventures-sortira-le-14-novembre-toutes-les-infos-sur-ledition-numerique-deluxe/
+- Horizon Zero Dawn Remastered, le 31 oct. sur PlayStation 5 ; édité par PlayStation, développé par Guerilla → https://s.team/a/1151640 | https://playstation.com/games/horizon-zero-dawn/
+
+### 20 millions pour Wukong
+» 🇺🇸 [Games Industry / 24 sept. 2024] Black Myth Wukong top-grossing game for August 2024 | Newzoo Charts → https://cutt.ly/leI6I5GP
+» 🇫🇷 [Gamekult / 26 sept. 2024] Black Myth : Wukong passe la barre des 20 millions de ventes en un mois → https://cutt.ly/keI6ITOH
+
+### Les devs de The Day Before veulent une seconde chance
+» 🇺🇸 [Kickstarter / 27 sept. 2024] Escape Factory -- Physics-based multiplayer co-op escape game set in dangerous factories for 4-8 players → https://cutt.ly/peI6OMM5
+» 🇫🇷 [ActuGaming / 27 sept. 2024] Le studio Fntastic (The Day Before) revient avec un nouveau jeu et ose demander un soutien financier du public → https://actugaming.net/a-675701
+» 🇫🇷 [Gamekult / 27 sept. 2024] Après l'escroquerie The Day Before, le nouveau jeu de Fntastic a tout l'air d'une nouvelle arnaque. Qui aurait pu prédire ? → https://cutt.ly/DeI6Pvqf
+
+### Poncle (Vampire Survivors) devient éditeur
+» 🇺🇸 [Games Industry / 26 sept. 2024] Vampire Survivor developer Poncle opens publishing arm, and it will not operate as a "traditional publisher" → https://cutt.ly/zeI6PMNQ
+» 🇺🇸 [Game Developer / 27 sept. 2024] Poncle launches publishing arm for third-party developers. The Vampire Survivors team wants to help studios make the games they truly want to make, provided they aren't related to web3, AI, or its own roguelike → https://cutt.ly/reI6AbJD
+
+### Merge Games fermé ? Non ! Merge Games intégré !
+» 🇺🇸 [Game Developer / 26 sept. 2024] Indie publisher Merge Games is shutting down. Merge has now said it's been integrated into parent company Maximum Entertainment, but a former employee claims all but two of the team were laid off → https://cutt.ly/OeI6AMmq
+» 🇺🇸 [Games Industry / 26 sept. 2024] Merge Games closing down after 15 years. Indie publisher previously suffered layoffs and office closure as part of parent Maximum Entertainment's consolidation → https://cutt.ly/5eI6SeRj
+
+### Focus débranche Hood: Outlaws & Legends
+» 🇺🇸 [Steam / Hood: Outlaws and Legends / 24 sept. 2024] Hood: Outlaws and Legends end of service → https://cutt.ly/EeI6DlkS
+» 🇺🇸 [Game Developer / 24 sept. 2024] Hood: Outlaws and Legends is shutting down in February 2025. After nearly a four-year run, Sumo Digital's Robin Hood multiplayer game is ending service next year → https://cutt.ly/ReI6S88n
+
+### La Californie s'attaque aux jeux à connexion obligatoire
+» 🇺🇸 [Game Developer / 24 sept. 2024] California law compels digital storefronts to inform players they don't own their games. Legislation will ensure consumers are aware they are licensing rather than purchasing digital products → https://cutt.ly/ceI6DMoy
+» 🇺🇸 [Game File / 26 sept. 2024] New law will change how digital games are sold, at least in California. Terms such as "buy" and "purchase" will be barred unless a seller clearly warns users they are paying for a license that could be revoked → https://cutt.ly/CeI6FJaw
+» 🇫🇷 [ActuGaming / 27 sept. 2024] En Californie, les stores numériques devront préciser que vous n’achetez pas un jeu sur leur plateforme, mais que vous le louez → https://actugaming.net/a-675735
+
+### Report de Shadows, sorties Steam Day 1 : le plan de relance d'Ubisoft
+» 🇺🇸 [Games Industry / 25 sept. 2024] Ubisoft revises financial targets after "soft" sales of Star Wars Outlaws and Assassin's Creed Shadows delay. Executive committee launches review in "light of recent challenges" → https://cutt.ly/EeI6HK8T
+» 🇫🇷 [ActuGaming / 25 sept. 2024] **Assassin’s Creed Shadows ne sortira pas à la date prévue, le jeu est repoussé au début d’année 2025** → <https://actugaming.net/a-675213>
+» 🇫🇷 [ActuGaming / 25 sept. 2024] **Suite à son lancement plus faible que prévu, Star Wars Outlaws sortira sur Steam en novembre** → <https://actugaming.net/a-675222>
+» 🇫🇷 [ActuGaming / 28 sept. 2024] **Star Wars Outlaws : Une nouvelle feuille de route a été dévoilée, voici quand arriveront les mises à jour** → <https://actugaming.net/a-676051>
+» 🇫🇷 [Gamekult / 1er oct. 2024] Star Wars Outlaws : seulement un million de ventes ? → https://cutt.ly/0eI6GFhB
+» 🇫🇷 [Gamekult / 1er oct. 2024] Assassin's Creed Shadows : une enquête précise les raisons du retard → https://cutt.ly/CeI6HhUH
+
+### SAG-AFTRA, Riot, la grève et League of Legends
+» 🇺🇸 [Games Industry / 24 sept. 2024] SAG-AFTRA calls strike against League of Legends, files unfair labour practice against Formosa. Riot Games says the union's press release has "nothing to do with League or any of our games" → https://cutt.ly/reI6JbWl
+» 🇺🇸 [Game Developer / 24 sept. 2024] SAG-AFTRA pulls League of Legends into video game strike over VO studio's conduct. Formosa Interactive, an audio outsource studio that's worked on League of Legends, has been accused of trying to bypass rules of the ongoing voice actors' strike → https://cutt.ly/peI6JBPd
+
+### Nintendo au dessus de la guerre des consoles, de l'IA, et d'un peu tout
+» 🇺🇸 [The New York Times / 26 sept. 2024] The Mushroom Kingdom that Shigeru Miyamoto built. Decades after Miyamoto invented Mario and Zelda, he explains what makes Nintendo special and its transformation into a global entertainment brand → https://cutt.ly/5eI6L7zF
+» 🇫🇷 [ActuGaming / 26 sept. 2024] Shigeru Miyamoto souhaite que Nintendo ne soit pas traîné dans la « guerre des consoles » et parle de l’utilisation de l’IA → https://actugaming.net/a-675525
+» 🇫🇷 [Gamekult / 27 sept. 2024] Nintendo ne s'intéresse pas aux IA selon Shigeru Miyamoto → https://cutt.ly/ieI6LRvk
+» 🇫🇷 [Gamekult / 30 sept. 2024] Nintendo n'en a rien à faire de "la guerre des consoles", d'après Shigeru Miyamoto → https://cutt.ly/0eI6K9BU
+
+### Quelques jeux pour souffler
+» Rivals of Aether II, le 23 oct. 2024 sur PC / Steam Deck ; développé par Aether Studios → https://s.team/a/2217000 | https://rivals2.com/
+» Nine Sols 九日, sorti le 29 mai 2024 sur PC, Mac et Steam Deck, le 26 nov. 2024 sur Switch, PlayStation et Xbox ; développé par Red Candle Games → https://redcandlegames.com/9sols/ | https://s.team/a/1809540
+» Little Big Adventure – Twinsen’s Quest, le 14 nov. 2024 sur Switch, PlayStation, Xbox et PC / Steam Deck ; édité par Microids, développé par [2.21] → https://littlebigadventure.com | https://s.team/a/2318070
+
+
+
 
 
 » 📄 
