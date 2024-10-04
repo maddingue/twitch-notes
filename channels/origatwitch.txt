@@ -7586,6 +7586,77 @@ raids : OrigaTwitch => (00:48)[+1452] Guile (terminé à 04:05)
 
 
 
+--------------------------------------
+2024-10-04
+
+» ▶️ [Patreon] Head Shot #01 -- Du Plucky Squire au Vaillant Petit Page, rencontre avec Frédéric Muller, responsable localisation → https://patreon.com/posts/112550591 | https://youtu.be/9_xQ0VuAQ7o
+
+# L'Hebdo #37
+## Actus
+### La semaine
+» 🇫🇷️ [ActuGaming / 1er oct. 2024] Le jeu service Horizon sera le prochain à sortir chez Guerrilla Games, Horizon 3 n’est pas prévu avant un bout de temps → https://actugaming.net/a-676421
+» 🇫🇷️ [IGN France / 27 sept. 2024] Blizzard travaillerait sur un shooter StarCraft — Avec Dan Hay (Far Cry) sur le projet → https://fr.ign.com/starcraft-ghost/72135/news/
+» 🇫🇷️ [ActuGaming / 2 oct. 2024] **Devolver ouvre Big Fan, un nouveau label d’édition centré sur les adaptations de films, séries et BD en jeux vidéo** → <https://actugaming.net/a-676647>
+» 🇫🇷 [Gamekult / 26 sept. 2024] Black Myth : Wukong passe la barre des 20 millions de ventes en un mois → https://cutt.ly/keI6ITOH
+» 🇺🇸 [Steam / Dome Keeper / 27 sept. 2024] It's Dome Keeper's second birthday! → https://cutt.ly/feOCjxUj
+» 🇺🇸 [Game Press / 27 sept. 2024] Manor Lords celebrates over 2.5 million sales with new content update → https://cutt.ly/feOClSyh
+» 🇫🇷️ [ActuGaming / 30 sept. 2024] Football Manager 25 est annoncé sur PC et consoles avec une première sortie prévue pour le 26 novembre prochain → https://actugaming.net/a-676318
+» 🇺🇸 [Games Industry / 30 sept. 2024] Pokémon Unite shutting down in Belgium and Netherlands next year. In-game items will no longer be available for purchase from October 31, 2024 → https://cutt.ly/7eOCvtjJ
+» 🇫🇷 [ActuGaming / 27 sept. 2024] En Californie, les stores numériques devront préciser que vous n’achetez pas un jeu sur leur plateforme, mais que vous le louez → https://actugaming.net/a-675735
+» 🇫🇷️ [UFC Que Choisir / 12 sept. 2024] Plainte européenne contre 7 éditeurs et leurs monnaies virtuelles → https://quechoisir.org/-n130982
+» 🇺🇸 [Games Industry / 1er oct. 2024] "We don't want to just replicate successful games": Behind Krafton's acquisition of Tango Gameworks. Head of corporate development Maria Park explains the reasoning behind the company's move to acquire the former Microsoft studio, and looks at the future of Hi-Fi Rush → https://cutt.ly/DeOCalVA
+- 🇫🇷️ [ActuGaming / 1er oct. 2024] **Hi-Fi Rush 2 : Une build du jeu était en développement depuis 6 mois avant la fermeture de Tango Gameworks, nouveaux détails** → https://actugaming.net/a-676513
+» 🇫🇷️ [ActuGaming / 2 oct. 2024] **Palworld arrivera aussi sur mobiles avec l’aide de Krafton** → https://actugaming.net/a-676652
+» 🇫🇷️ [ActuGaming / 29 sept. 2024] **Death Stranding 2 On the Beach : Nouveaux trailers et personnages, mode Photo, le titre fait le plein d’images au Tokyo Game Show 2024** → https://actugaming.net/a-676078
+» 🇫🇷️ [ActuGaming / 2 oct. 2024] **The Alters : La survie en compagnie de nos doubles attendra finalement 2025** → https://actugaming.net/a-676657
+
+### La Californie s'attaque aux jeux à connexion obligatoire
+» 🇺🇸 [Game File / 26 sept. 2024] New law will change how digital games are sold, at least in California. Terms such as "buy" and "purchase" will be barred unless a seller clearly warns users they are paying for a license that could be revoked → https://cutt.ly/CeI6FJaw
+
+### Little Big Adventure – Twinsen’s Quest
+» Little Big Adventure – Twinsen’s Quest, le 14 nov. 2024 sur Switch, PlayStation, Xbox et PC / Steam Deck ; édité par Microids, développé par [2.21] → https://littlebigadventure.com | https://s.team/a/2318070
+
+### Windblown
+» Windblown, accès anticipé annoncé pour le 24 oct. 2024 sur PC ; développé par Motion Twin (Dead Cells) → https://windblown.game | https://s.team/a/1911610
+
+
+## Jeux
+### The Legend of Zelda: Echoes of Wisdom
+» The Legend of Zelda: Echoes of Wisdom, sorti le 26 sept. 2024 sur Switch, 45 € en grande distribution, 60 € sur eShop
+- sorti le 26 sept. 2024 sur Switch
+- développé par les studios japonais Grezzo et Nintendo EPD
+- réalisé par Satoshi Terada et Tomomi Sano, direction artistique par Masaki Yasuda et Yumi Kikuoka
+
+🎮 à partir de 45 € en grande distribution
+🎮 60 € sur Switch (<https://cutt.ly/YeOD6Qxh>)
+
+» ▶️ [YouTube / Digital Foundry / 26 sept. 2024] The Legend of Zelda: Echoes of Wisdom - brilliant, but what about performance? → https://youtu.be/XhHFABnLfVg
+
+» 📄 [Nintendo] Iwata demande - The Legend of Zelda: Twilight Princess - L'indéfinissable essence de Zelda → https://cutt.ly/1eOJyss7
+» 📄 [Nintendo] Iwata demande - The Legend of Zelda: The Wind Waker HD → https://cutt.ly/PeOJgnTC
+» 📄 [Nintendo] Iwata demande - The Legend of Zelda: A Link Between Worlds → https://cutt.ly/8eOJfd1h
+» 📄 [Nintendo / 25 mai 2023] Les développeurs ont la parole, Vol. 9 : The Legend of Zelda: Tears of the Kingdom → https://cutt.ly/WeOJoOBV
+» 📄 [Nintendo / 2 oct. 2024] Les développeurs ont la parole, Vol. 13 : The Legend of Zelda: Echoes of Wisdom → https://cutt.ly/ceOJayTF
+
+» Victor Moisan, enseigne et vit à Kyoto depuis 2013, écricain et journaliste, il a collbaré avec Carbone, Gamekult, Chronic’art, Games Magazine, Le Monde - Pixels
+- réseaux sociaux : 𝕏 https://x.com/victormoisan | 🦋 https://bsky.app/profile/victormoisan.bsky.social
+- 📗 Zelda : Le Jardin et le Monde, 248 p., édité le 3 déc. 2021 chez Façonnage Éditions, 22 € en édition papier (ISBN  978-2-36481-062-4) → https://faconnage-editions.fr/Zelda-Le-jardin-et-le-monde
+
+## Mais pas que
+### Héloïse
+» Coraline (2009), film d'animation écrit et réalisé par Henry Selick, basé sur le roman du même nom par Neil Gaiman, musiques par Bruno Coulais
+
+### Gauthier
+» [France Culture / 9 mars 2022] Les Chemins de la philosophie - épisode 3/4 : Le Misanthrope par Francis Huster : "Je suis comme Alceste, j'ai tout raté" → https://cutt.ly/5eOJzaLg
+» [Konbini / 2 oct. 2024] Francis Huster dans BioShock, Spider-Man ou à Arkham, Internet a encore fait n’importe quoi → https://cutt.ly/beOJclH9
+
+
+raids entrants :
+- BastiUi à 13:12 +290
+- At0mium à 16:16 +509
+
+raids : OrigaTwitch => (15:17)[+864] CanardPC (terminé à 16:23)
+
 
 
 » 📄 
@@ -7628,6 +7699,7 @@ raids : OrigaTwitch => (00:48)[+1452] Guile (terminé à 04:05)
 
 ✉️ internetexploreuses@gmail.com
 
+
 » Gautoz / Gauthier Andres → 𝕏 https://twitter.com/gautoz | 🟦 https://bsky.app/profile/gautoz.cool
 » Padre / Florian Velter → 𝕏 https://twitter.com/LePereFidalbion
 » Hoopy / Sylvain Tastet → 𝕏 https://twitter.com/_Hoopy | 🟦 https://bsky.app/profile/hoopyjv.bsky.social
@@ -7637,6 +7709,7 @@ raids : OrigaTwitch => (00:48)[+1452] Guile (terminé à 04:05)
 » Medoc / Medhi Camprasse → 𝕏 https://twitter.com/Elmedoc | 🟦 https://bsky.app/profile/medoc.bsky.social
 » Cassim Montilla → 𝕏 https://twitter.com/NotCassim | 🟦 https://bsky.app/profile/cassim.montilla.fr | https://montilla.fr
 » Lucie Ronfaut → 🌐 https://LucieRonfaut.com | 𝕏 https://twitter.com/LucieRonfaut | 🟦 https://bsky.app/profile/lucieronfaut.bsky.social
+» Yamukass / Marion Bargiacchi → 𝕏 https://twitter.com/S_Yamukass | 🦋 https://bsky.app/profile/yamukass.bsky.social
 
 les copains :
 🦊 Seldell → 📰 https://indiemag.fr | 📡 https://twitch.tv/Seldell | 📺 https://YouTube.com/@Seldell
