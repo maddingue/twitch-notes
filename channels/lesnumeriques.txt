@@ -12088,8 +12088,34 @@ raids : lesnumeriques => (13:37)[+175] DamDamLive [OrigaTwitch=>(16:07)+226] => 
 » Cataclismo, en accès anticipé depuis le 22 juil. 2024 sur PC / Steam Deck, en promo à 20 € ; développé par Digital Sun, studio derrière Moonlighter (2018) → https://s.team/a/1422440
 » Mechabellum, le 26 sept. 2024 sur PC / Steam Deck, en promo à 10 € ; développé par Game River → https://s.team/a/669330
 
-raids : lesnumeriques => (13:40)[+125] inforea => (14:05)[+118] Solarykiki78_VT [ryukoji_vs=>(14:28)+2] (>21:00) => Sparrow_adp => (22:49)[+6] AidenSuzuno [OblonRobin=(23:42)+5] [Frizzia_bombastic=>(23:59)+3] (>00:00)
+raids : lesnumeriques => (13:40)[+125] inforea => (14:05)[+118] Solarykiki78_VT [ryukoji_vs=>(14:28)+2] (>21:00) => Sparrow_adp => (22:49)[+6] AidenSuzuno [OblonRobin=(23:42)+5] [Frizzia_bombastic=>(23:59)+3] => (01:47)[+14] Guildmaster_Tali (>01:50)
 
+
+--------------------------------------
+2024-10-04
+
+» 🇫🇷 [Les Numériques] BYD annonce le Seal 06 GT, un véhicule électrique sportif et peu cher → https://lesnumeriques.com/voiture-electrique/-n227134.html
+» [Fortune] Protecting a billionaire CEO costs millions. Here’s how the world’s biggest companies measure up → https://fortune.com/2024/09/14/tech-billionaire-ceos-security-costs-meta-tesla-apple-nvidia-google/
+
+» 🇫🇷 [Les Numériques] Soundcore Liberty 4 Pro : des écouteurs abordables et très complets → https://lesnumeriques.com/intra-ecouteur-true-wireless/-n227121.html
+» 🇫🇷 [Les Numériques] Buds Pro 3 : OnePlus s'associe à Dynaudio pour ses nouveaux écouteurs → https://lesnumeriques.com/intra-ecouteur-true-wireless/-n225426.html
+» 🇫🇷 [Les Numériques] Bose annonce la SoundLink Home, une nouvelle enceinte portable au design soigné → https://lesnumeriques.com/enceintes-portables/-n227067.html
+» 🇫🇷 [Les Numériques] Diva Utopia : Focal et Naim s'unissent autour d'une paire d'enceintes hi-fi actives d'exception → https://lesnumeriques.com/enceintes-stereo-actives-kits-pc/-n227048.html
+
+» 🇫🇷 [Cow Cot Land] Quand ton laptop soulève plus de fonte que toi : la RTX 4090 Desktop dans un PC portable de 8 kg ! → https://cowcotland.com/news/93151
+» 🇫🇷 [Les Numériques] Clap de fin pour la GeForce RTX 4090 de Nvidia → https://lesnumeriques.com/carte-graphique/-n227153.html
+
+» [WCCF Tech] Oura Ring 4 announced with a sleeker design, more size options and smart sensing capability to take on Galaxy Ring → https://wccftech.com/oura-ring-4-announced-features/
+» 🇫🇷 [Les Numériques] Garmin ne compte pas se lancer sur le marché des bagues connectées, voici pourquoi → https://lesnumeriques.com/sante-sport/-n227120.html
+
+» [Futurism / 28 sept. 2024] The Most Sophisticated AIs Are Most Likely to Lie, Worrying Research Finds. The AIs are "getting better at pretending to be knowledgeable" → https://futurism.com/sophisticated-ai-likely-lie
+» [The mainichi] Tokyo gov't launches AI dating app to match couples, boost births → https://mainichi.jp/english/articles/20240929/p2g/00m/0li/020000c
+
+» [Space] Space mining startup AstroForge aims to launch historic asteroid-landing mission in 2025. The California company also just raised $40 million from investors → https://space.com/asteroid-mining-astroforge-docking-mission-2025
+
+» 🇫🇷 [Les Numériques] Test Samsung TQ55S90D : le TV Oled change de formule, mais s’avère toujours efficace → https://www.lesnumeriques.com/tv-televiseur/samsung-tq55s90d-p75660/test.html
+
+raids : lesnumeriques => (13:39)[+148] LamHua (>17:00) => Chat_ => (<21:24) Hiuuugs (>23:30)
 
 
 
