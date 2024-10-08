@@ -7658,6 +7658,53 @@ raids entrants :
 raids : OrigaTwitch => (15:17)[+864] CanardPC (terminé à 16:23)
 
 
+--------------------------------------
+2024-10-08
+
+# Mardinale
+### Alien Isolation aura bien une suite
+» 🇫🇷 [ActuGaming / 7 oct. 2024] Alien Isolation aura bien droit à une suite, qui est déjà en développement → https://actugaming.net/a-677975
+» 🇫🇷 [Gamekult / 7 oct. 2024] Alien Isolation : une suite en développement chez The Creative Assembly → https://cutt.ly/tePAZL5v
+
+### Ice-Picked Lodge annonce Pathologic 3
+» 🇫🇷 [Gamekult / 8 oct. 2024] Pathologic 3 veut conquérir le temps et la maladie en 2025 → https://cutt.ly/aePAXdM8
+» Pathologic 3, annoncé pour 2025 sur xx ; développé par Ice-Pick Lodge → https://s.team/a/3199650
+
+### FromSoftware augmente ses salaires
+» 🇬🇧 [Eurogamer / 4 oct. 2024] Elden Ring developer FromSoftware announces salary increase of 12% → https://cutt.ly/yePAVoZG
+» 🇺🇸 [Games Industry / 4 oct. 2024] FromSoftware to increase average basic salary pay by around 11.8%. Starting salary for new graduates will also increase from ¥260,000 to ¥300,000 → https://cutt.ly/nePAVT9c
+» 🇫🇷 [Gamekult / 4 oct. 2024] FromSoftware annonce une hausse des salaires pour ses employés → https://cutt.ly/bePAVHWh
+
+### 343 Industries devient Halo Studios
+» 🇺🇸 [Xbox Wire / 6 oct. 2024] Halo Studios: new name, new engine, new games, new philosophy → https://cutt.ly/PePAMKDf
+» 🇫🇷 [Xbox Wire / 7 oct. 2024] Halo Studios : Nouveau nom, nouveau moteur, nouveaux jeux, nouvelle philosophie → https://cutt.ly/SePA1sLq
+» 🇺🇸 [Games Industry / 7 oct. 2024] 343 rebrands as Halo Studios, working on multiple Unreal Engine 5 games. Developer hails changes as "a new dawn for Halo" as it restructures around multiple projects → https://cutt.ly/KePABEjE
+» 🇺🇸 [Game Developer / 7 oct. 2024] 343 Industries rebrands to Halo Studios, picks Unreal Engine to help revitalize the franchise. New name, new engine, new Halo(s) → https://cutt.ly/7ePABCDR
+» 🇫🇷 [ActuGaming / 7 oct. 2024] 343 Industries devient Halo Studios, plusieurs jeux Halo en préparation et première image du Master Chief sous Unreal Engine 5 → https://actugaming.net/a-677732
+
+### Hi-Rez Studio licencie à nouveau
+» 🇺🇸 [Game Developer / 1er oct. 2024] Hi-Rez Studios to cut an unspecified number of jobs in "difficult but necessary change". The cuts follow "internal reorganisation and reprioritisation," CEO says → https://cutt.ly/pePANbBz
+» 🇺🇸 [Game Developer / 1er oct. 2024] Hi-Rez Studios lays off staff to 'ensure' Smite 2's long-term success. Several teams across Hi-Rez and its subsidiaries have been impacted by layoffs as the company puts more weight behind Smite 2's development → https://cutt.ly/1ePANZg3
+
+### Davide Soliani (Mario+Lapins Crétins) cofonde un  studio indé
+» 🇺🇸 [Game Developer / 4 oct. 2024] Mario + Rabbids and Red Dead Redemption creators form new studio: Day 4 Night. The new team has received its first round of funding from Krafton and 1Up Veterans → https://cutt.ly/GePA130z
+» 🇫🇷 [ActuGaming / 4 oct. 2024] L’équipe derrière Mario + Les Lapins Crétins s’associe au lead designer de Red Dead Redemption pour fonder un nouveau studio → https://actugaming.net/a-676941
+
+### Tencent ne rachète pas (encore) Ubisoft
+» 🇺🇸 [Bloomberg / 4 oct. 2024] Tencent, Guillemot Family Said to Consider Buyout of Ubisoft → https://cutt.ly/JePA08DU
+» 🇺🇸 [Game Developer / 4 oct. 2024] Tencent and Guillemot family reportedly planning Ubisoft buyout. Ubisoft responds to reports, says it "regularly reviews all its strategic options" → https://cutt.ly/DePA0FLI
+» 🇫🇷 [ActuGaming / 4 oct. 2024] La famille Guillemot envisagerait un rachat d’Ubisoft avec l’aide de Tencent pour rendre l’éditeur privé → https://actugaming.net/a-676945/
+» 🇫🇷 [Gamekult / 4 oct. 2024] Ubisoft : la famille Guillemot et Tencent envisageraient un rachat pour sortir de la bourse → https://cutt.ly/zePA0Q1z
+
+» 🇬🇧 [VGC / 4 août 2022] Tencent is reportedly seeking a larger stake in Ubisoft. The Guillemot family, including CEO Yves, owns 15% of the company → https://cutt.ly/uZ8iMt9
+
+### L'éléphant Disney
+» 🇺🇸 [Game Developer / 4 oct. 2024] Is the Star Wars franchise in crisis? Ubisoft is in a tailspin over poor sales of Star Wars Outlaws – but for all the publisher's woes, the real problem here may be Disney's management of the IP → https://cutt.ly/DePSeb0x
+
+
+
+
+
 
 » 📄 
 » 🇺🇸 
