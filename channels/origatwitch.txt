@@ -7591,7 +7591,7 @@ raids : OrigaTwitch => (00:48)[+1452] Guile (terminé à 04:05)
 
 » ▶️ [Patreon] Head Shot #01 -- Du Plucky Squire au Vaillant Petit Page, rencontre avec Frédéric Muller, responsable localisation → https://patreon.com/posts/112550591 | https://youtu.be/9_xQ0VuAQ7o
 
-# L'Hebdo #37
+# L'Hebdo #36
 ## Actus
 ### La semaine
 » 🇫🇷️ [ActuGaming / 1er oct. 2024] Le jeu service Horizon sera le prochain à sortir chez Guerrilla Games, Horizon 3 n’est pas prévu avant un bout de temps → https://actugaming.net/a-676421
@@ -7702,7 +7702,87 @@ raids : OrigaTwitch => (15:17)[+864] CanardPC (terminé à 16:23)
 » 🇺🇸 [Game Developer / 4 oct. 2024] Is the Star Wars franchise in crisis? Ubisoft is in a tailspin over poor sales of Star Wars Outlaws – but for all the publisher's woes, the real problem here may be Disney's management of the IP → https://cutt.ly/DePSeb0x
 
 
+--------------------------------------
+2024-10-11
 
+» ▶️ [YouTube / Origami / 9 oct. 2024] La Mardinale - Qui veut la peau d'Ubisoft ? - Ouvrez Les Guillemots → https://youtu.be/_EcAVL2KC-k
+» 🎧 Conf’ 2 Rédac’ S02.E03 — Coach Florian → https://patreon.com/posts/113794817
+
+# L'Hebdo #37
+## Actus
+### La semaine
+» 🇫🇷️ [ActuGaming / 8 oct. 2024] **Le premier Red Dead Redemption arrive enfin sur PC et dans quelques jours seulement** → <https://actugaming.net/a-678227>
+» 🇫🇷️ [FactorNews / 10 oct. 2024] **Adieu Humble Games, bonjour Good Games Group** → <https://cutt.ly/ueAdwzr1>
+» 🇫🇷️ [ActuGaming / 8 oct. 2024] **LittleBigPlanet 3 va être retiré de la vente sur le PlayStation Store de la PS4 d’ici la fin du mois** → <https://actugaming.net/a-678324>
+» paradox  Game File et PC Gamer
+» 🇬🇧 [PC Gamer / 8 oct. 2024] **Cities: Skylines 2 launched too early, says Paradox deputy CEO, but early access wouldn't have been a solution: 'A dev team that thinks they're going to have a nicer ride on an early access game, I think fool themselves'** → <https://cutt.ly/aeAdYPYg>
+» 🇺🇸 [Game File / 8 oct. 2024] **Paradox Interactive's leaders think you deserve an explanation.** After a run of bad news, two of the top execs of one of the world's premier strategy game studios want to talk about went wrong → <https://cutt.ly/6eAdU60l>
+
+### Annonces
+» Assassin's Creed Mirage, annoncé pour oct. 2024 sur Steam → https://s.team/a/3035570
+» Assassin's Creed Shadows, le 15 nov. 2024 à 70 € (standard) / 130 € (ultime) sur PlayStation 5, Xbox Series et PC ; développé par Ubisoft Québec → https://store.ubisoft.com/fr/assassins-creed-shadows/660e5a03fbff4e2940488bcd.html
+» XDefiant, sorti le 21 mai 2024, jouable gratuitement sur PlayStation 5, Xbox Series et PC  → https://www.ubisoft.com/fr-fr/game/xdefiant
+» The Axis Unseen, le 22 oct. 2024 sur PC, démo disponible ; développé par Just Purkey Games → https://justpurkeygames.com | https://s.team/a/1807810 
+» Hawthorn 🦉 annoncé sur PC / Steam Deck ; développé par NEARstudios → https://playhawthorn.com | https://s.team/a/3078150
+» 🇫🇷 [ActuGaming / 9 oct. 2024] **Pendant que le monde attend la Switch 2, Nintendo lève le voile sur son propre réveil musical, Alarmo ⏰** → <https://actugaming.net/a-678647>
+
+### Sorties
+» The Rise of the Golden Idol, le 12 nov. 2024 sur PC / Steam Deck, démo disponible ; développé par Color Gray Games (The Case of the Golden Idol) → https://s.team/a/2716400 | https://theGoldenIdol.com
+» XXX Nightshift, annoncé sur PC / Steam Deck ; développé par Dark Math Games → https://s.team/a/3261450
+- 🇺🇸 [IGN / 11 oct. 2024] You’d be forgiven for thinking this Disco Elysium spiritual successor from some of the people who worked at ZA/UM is Disco Elysium 2 → https://cutt.ly/HeAfFHnk
+- 🇫🇷 [IGN France / 11 oct 2024] Pas de Disco Elysium 2, mais des 'successeurs spirituels' par des anciens de ZA/UM. Dark Math Games et Longdue prennent la relève → https://fr.ign.com/disco-elysium/72366/news/
+- ▶️ [YouTube / Gautoz / 3 juin 2023] PlayStation Showcase, pré-E3, enquête sur Redfall, Rachat Activision, enquête sur Disco Elysium → https://youtu.be/SAjRXJIu1GM?t=2779s
+» Kingdom Two Crowns: L'appel de l'Olympe, sorti le 8 oct. 2024 ; développé par Fury Studios → https://s.team/a/2736340
+
+
+## Jeux
+### Silent Hill 2
+» Silent Hill 2, sorti le 8 oct. 2024 à 70 € sur PlayStation 5 et PC / Steam Deck ; publié par Konami, développé par Bloober Team → https://konami.com/games/silenthill/2r/eu/fr/
+- sorti le 8 oct. 2024 sur PlayStation 5 et PC / Steam Deck
+- publié par Konami, développé par Bloober Team, studio polonais 🇵🇱 derrière les jeux Layers of Fear (2016, 2019, 2023), Observer (2017), The Medium (2021) → https://konami.com/games/silenthill/2r/eu/fr/ | https://blooberteam.com
+- réalisation et direction artistique par Mateusz Lenart, écriture par Andrzej Mądrzak, musiques par Akira Yamaoka
+- jeu original sorti en sept. 2001 sur PlayStation 2 et Xbox, en 2002 sur Windows
+- publié par Konami, développé par Team Silent 🇯🇵
+- réalisé par Masashi Tsuboyama, direction artistique par Masahiro Ito, écriture par Hiroyuki Owaku, musiques par Akira Yamaoka
+
+🎮 à partir de 50 € en grande distribution
+🎮 70 € sur PlayStation (<https://cutt.ly/LeAakR1M>)
+💻️ 70 € sur Steam (<https://s.team/a/2124490>)
+
+### Metaphor: ReFantazio
+» Metaphor: ReFantazio, sorti le 11 oct. 2024 à 70 € sur PlayStation 4 & 5, Xbox Series et PC / Steam Deck ; publié par Sega, développé par Atlus / Studio Zero → https://metaphor.atlus.com
+- sorti le 11 oct. 2024 sur PlayStation 4 & 5, Xbox Series et PC / Steam Deck
+- publié par Sega, développé par Atlus / Studio Zero → https://metaphor.atlus.com
+- réalisé par Katsura Hashino, direction artistique par Shigenori Soejima, écriture par Yuichiro Tanaka, musiques par Shoji Meguro
+
+🎮 70 € sur PlayStation (<https://cutt.ly/0eAsEQVC>) et Xbox (<https://cutt.ly/SeAsRyP1>), démo disponible
+💻️ 70 € sur Steam (<https://s.team/a/2679460>), démo disponible
+
+» [𝕏 (ex Twitter)] https://x.com/stud_zero/status/1844665951431930116
+> 【㊗100万本突破！㊗】
+> 本日発売の『#メタファー：リファンタジオ』の全世界累計販売本数が、100万本を突破しました！　応援いただいた皆さまに、深く御礼申し上げます。
+> [㊗Plus d'un million d'exemplaires vendus ! ㊗】
+> Les ventes mondiales cumulées de #Metaphor : Refantasio, sorti aujourd'hui, ont dépassé le million d'exemplaires ! Nous tenons à exprimer notre plus profonde gratitude à tous ceux qui nous ont soutenus.
+
+Thomas Moore
+Ieonimus Bosch
+
+## Mais pas que
+### Sylvain
+» Uzumaki (2024), série animée en 4 épisodes créée par Hiroshi Nagahama, musiques par Colin Stetson 
+- disponible sur Adult Swim → https://www.adultswim.com/videos/uzumaki
+- disponible sur Max → https://www.max.com/fr/fr/shows/uzumaki/f3ba329b-1089-44bc-a844-6177fa69930e
+» Uzumaki / Spirale (1998), manga en 3 tomes par Junji Ito
+- nouvelle édition intégrale le 19 oct. 2011 chez Delcourt / Tonkam, 30 € en édition physique (EAN 9782759506620), 15 € en édition numérique → <https://www.editions-delcourt.fr/mangas/series/serie-spirale/album-spirale-integrale>
+
+### Héloïse
+» 📰 404 Media → https://www.404media.co
+» 🇺🇸 [404 Media / 9 oct. 2024] The editors protecting Wikipedia from AI hoaxes → https://www.404media.co/the-editors-protecting-wikipedia-from-ai-hoaxes/
+
+### Kévin
+» 📙 Le livre Oracle, 172 p., par Xavier Bouyssou, publié en sept. 2023 chez Éditions 2024, 16 € en édition physique (ISBN 978-2-38387-059-3) → https://www.editions2024.com/livres/le-livre-oracle
+
+raids : OrigaTwitch => (15:14)[+445] Dollywood_ (>18:00) => (<18:58) OsmosisCoop [SweetBerry21=>(20:06)+12] (terminé à 20:33)(reprise à 20:35) (>22:00)
 
 
 
