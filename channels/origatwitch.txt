@@ -7928,7 +7928,92 @@ raids : OrigaTwitch => (15:14)[+445] Dollywood_ (>18:00) => (<18:58) OsmosisCoop
 raids entrants :
 - lesnumeriques à 13:34 +202
 
-raids : OrigaTwitch => (14:43)[+248] DamDamLive => (17:07)[+1637] Nagaserya (>23:00)
+raids : OrigaTwitch => (14:43)[+248] DamDamLive => (17:07)[+1637] Nagaserya (vendredi) (terminé à 02:58)
+
+
+--------------------------------------
+2024-10-18
+
+# L'Hebdo #38
+## Invitée
+» Sedeto, illustratice et streameuse/VTubeuse
+- réseaux sociaux : https://sedeto.carrd.co | 📷 https://instagram.com/sedeto | 💰 https://patreon.com/sedeto | 𝕏 https://x.com/Sedeto | 🐘 https://shelter.moe/@Sedeto | 📡 https://twitch.tv/sedeto
+- boutique : 🛍️ https://sedeto.company.site
+
+## Actus
+### La semaine
+» 🇫🇷 [ActuGaming / 14 oct. 2024] Les Xbox Game Studios changent de dirigeant, Craig Duncan (Rare) remplace Alan Hartman → https://actugaming.net/a-679628
+» 🇫🇷️ [Gamekult / 17 oct. 2024] **Space Marine 2 prolonge son immense succès avec 4,5 millions de joueurs**, et un chiffre d'affaires record en prime pour Focus → <https://cutt.ly/jeSAGedz>
+» 🇫🇷️ [ActuGaming / 15 oct. 2024] **Dragon Ball Sparking Zero réalise le meilleur lancement d’un jeu Dragon Ball avec 3 millions de ventes en 24 heures** → <https://actugaming.net/a-679831>
+» 🇫🇷️ [ActuGaming / 17 oct. 2024] **It Takes Two : Le jeu d’aventure coopératif de Hazelight Studios (Josef Fares) franchit la barre symbolique des 20 millions de ventes** → <https://actugaming.net/a-680172>
+» 🇫🇷 [ActuGaming / 16 oct. 2024] Resident Evil 4 Remake passe déjà la barre des 8 millions d’exemplaires vendus → https://actugaming.net/a-680041
+» 🇫🇷 [ActuGaming / 17 oct. 2024] Silent Hill 2 Remake dépasse lui aussi le million d’exemplaires expédiés → https://actugaming.net/a-680123
+» 🇫🇷️ [Gamekult / 16 oct. 2024] **Non, Nobuo Uematsu ne part pas à la retraite** → <https://cutt.ly/NeSALtBa>
+» 🇫🇷 [ActuGaming / 14 oct. 2024] Destiny va avoir droit à un spin-off sur mobiles grâce à NetEase, voici Destiny: Rising → https://actugaming.net/a-679653
+» Don't Nod, _cf._ ci-après
+» 🇫🇷 [ActuGaming / 16 oct. 2024] Riot Games continue de licencier, 27 personnes de l’équipe League of Legends sont renvoyées → https://actugaming.net/a-679998
+
+### Don't Nod
+» 🇫🇷 [Don't Nod / 16 oct. 2024] Résultats semestriels 2024 → https://cutt.ly/GeSAI7jW
+» 🇫🇷 [Le Figaro / 16 oct. 2024] Jeu vidéo : le fleuron français Don't Nod pourrait se séparer de 20% des effectifs. Le studio à l’origine de la série «Life is Strange», en difficulté après plusieurs contre-performances commerciales, a annoncé un plan de restructuration. → https://cutt.ly/DeSSr1wx
+» 🇫🇷 [ActuGaming / 17 oct. 2024] Don’t Nod est au plus mal et envisagerait une restructuration qui pourrait supprimer 69 emplois → https://actugaming.net/a-680112
+
+### Grève chez Ubisoft
+» 🇫🇷 [STJV / 26 sept. 2024] **Appel à la grève pour les entités françaises d’Ubisoft les 15, 16 et 17 octobre 2024** → <https://cutt.ly/EeSi4s1u>
+
+» [𝕏 (ex Twitter) / L'Humanité / 15 oct. 2024] 🧵 <https://x.com/humanite_fr/status/1846280853694918745>
+> Ubisoft : de nombreux salariés se mobilisent pour une grève de trois jours alors que le géant français du jeu vidéo compte imposer le retour en présentiel à l'entreprise.
+
+» 🇫🇷️ [Libération / 15 oct. 2024] **Chez Ubisoft, trois jours de grève pour des mois de colère** → <https://cutt.ly/0eSTVWDN>
+» 🇫🇷 [France Info / 15 oct. 2024] **"Un droit acquis récemment" : la grève inédite des salariés d'Ubisoft pour le maintien du télétravail.** Les salariés du géant du jeu vidéo, Ubisoft, entament un mouvement de grève mardi, pour protester contre la fin du télétravail → <https://cutt.ly/7eSi5wiY>
+» 🇫🇷 [France Inter / 15 oct. 2024] **Ubisoft : les salariés en grève pour défendre leur droit au télétravail** → <https://cutt.ly/UeSi7c9z>
+» 🇫🇷 [Rapports de Force / 15 oct. 2024] Trois jours de grève à Ubisoft : “la plus grosse grève de l’histoire du jeu vidéo” → https://cutt.ly/1eSAFzWd
+» 🇫🇷 [ActuGaming / 15 oct. 2024] **Une grève des équipes françaises de plusieurs studios d’Ubisoft débute aujourd’hui** → <https://actugaming.net/a-679864>
+» 🎧 [Acast / Silence on Joue / 16 oct. 2024] **Reportage — Avec les salariés en grève chez Ubisoft** → <https://cutt.ly/YeSTCdVl>
+» 📻 [France Bleu / 16 oct. 2024] **L'invité du jour - Clément Montigny, représentant du syndicat des travailleurs du jeu vidéo chez Ubisoft** → <https://cutt.ly/eeST3z4N>
+» ▶️ [YouTube / Origami / 17 oct. 2024] **Ubisoft, à la rencontre des salariés en lutte** → <https://youtu.be/uySrE_6zNeI>
+
+» ▶️ [YouTube / Origami / 9 oct. 2024] La Mardinale - Qui veut la peau d'Ubisoft ? - Ouvrez Les Guillemots → https://youtu.be/_EcAVL2KC-k
+
+### Xbox Partner Preview
+» 🇫🇷 [Xbox Blog / 17 oct. 2024] Xbox Partner Preview | octobre 2024 : Retour sur les annonces → https://cutt.ly/feSAHW26
+- FBC: Firebreak, annoncé pour 2025 sur PlayStation 5, Xbox Series et PC ; développé par Remedy → https://youtu.be/tBO__RWUbKM
+- Cronos: The New Dawn, annoncé pour 2025 sur PlayStation 5, Xbox Series et PC ; développé par Bloober Team → https://youtu.be/ibQP4F8SyeA
+- Subnautica 2, accès anticipé annoncé pour 2025 sur Xbox Game Preview, Steam et EGS ; développé par Unknown Worlds → https://youtu.be/WS0vTRl_2PQ
+
+## Culture : Hatsune Miku
+### intervenant⋅e⋅s
+» exaheva → 𝕏 https://twitter.com/exaheva | 🟦 https://bsky.app/profile/exaheva.bsky.social | 🌴 https://linktr.ee/exaheva
+» Rrrrrose Azerty → 𝕏 https://x.com/RrrrroseAzerty | 📷 https://instagram.com/rrrrrose_azerty | 🎶 https://loyaltyfreakmusic.com
+
+» Hatsune Miku / 初音ミク, nom de code CV01, est une banque de voix développé par Crypton Future Media pour Voicaloid → https://ec.crypton.co.jp/pages/prod/virtualsinger/mikuv4x
+» Hatsune Miku, le 29 oct. 2024 à 20:00 au Zénith → https://le-zenith.com/shows/Hatsune%20Miku-19322
+
+» [Open Zones Magazine / 5 juil. 2024] Hatsune Miku 初音ミク, la pop star maudite https://openzonesmag.com/hatsune-miku/
+
+» ▶️ [YouTube / Brace Yourself Games / 4 avril 2024] **Crypt of the NecroDancer: Hatsune Miku Character DLC Trailer** → <https://youtu.be/kOUgfZWlZXQ>
+
+» ▶️ [YouTube] Internationale sung by Hatsune Miku → https://youtu.be/HH9a1BaPkOk
+» Black ★ Rock Shooter -- history → https://blackrockshooter.jp/en/history/
+
+
+## Jeu
+### Neva
+» Neva, sorti le 15 oct. 2024 à 20 € sur Switch, PlayStation, Xbox et PC / Steam Deck → https://neva.game | https://s.team/a/2420660 
+- sorti le 15 oct. 2024 sur Switch, PlayStation, Xbox et PC / Steam Deck
+- publié par Devolver Digital, développé par Nomada Studio, studio espagnol basé à Barcelone derrière le jeu Gris (2018) → https://neva.game | https://nomada.studio
+
+🎮 20 € sur Switch (<https://cutt.ly/GeSAtjCw>), PlayStation (<https://cutt.ly/UeSAtUJZ>) et Xbox (<https://cutt.ly/PeSAtKNO>)
+💻️ 20 € sur Steam (<https://s.team/a/2420660>)
+
+
+excuses de sac :
+- j'ai joué intégralement sur Steam Deck, c'est pour ça que Sylvain a été obligé d'aller chercher des images ailleurs (Gautoz)
+
+raids entrants :
+- DamRodi à 13:01 +1
+
+raids : OrigaTwitch => (14:54)[+465] DollyWood_ [YeahCy=>(18:51)+180] => (19:29)[+192] AuPoste_fr (>19:45) => m_a_p____ => (<23:44) louisebhn => (23:52) Yukaino (samedi) (>03:00)
 
 
 
