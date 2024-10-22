@@ -7788,7 +7788,7 @@ raids : OrigaTwitch => (15:14)[+445] Dollywood_ (>18:00) => (<18:58) OsmosisCoop
 --------------------------------------
 2024-10-15
 
-# Mardinale
+# Mardinale #27
 ### Red Dead Redemption 1 sur PC
 » 🇫🇷️ [ActuGaming / 8 oct. 2024] **Le premier Red Dead Redemption arrive enfin sur PC et dans quelques jours seulement** → <https://actugaming.net/a-678227>
 » 🇫🇷️ [Gamekult / 8 oct. 2024] **Red Dead Redemption et Undead Nightmare arrivent sur PC le 29 octobre** → https://cutt.ly/MeSiN0pI
@@ -7955,6 +7955,7 @@ raids : OrigaTwitch => (14:43)[+248] DamDamLive => (17:07)[+1637] Nagaserya (ven
 
 ### Don't Nod
 » 🇫🇷 [Don't Nod / 16 oct. 2024] Résultats semestriels 2024 → https://cutt.ly/GeSAI7jW
+» 🇫🇷 [STJV / 16 oct. 2024] **À Don’t Nod, le seul plan pour l’avenir est le plan de licenciement** → <https://cutt.ly/1eS05fP4>
 » 🇫🇷 [Le Figaro / 16 oct. 2024] Jeu vidéo : le fleuron français Don't Nod pourrait se séparer de 20% des effectifs. Le studio à l’origine de la série «Life is Strange», en difficulté après plusieurs contre-performances commerciales, a annoncé un plan de restructuration. → https://cutt.ly/DeSSr1wx
 » 🇫🇷 [ActuGaming / 17 oct. 2024] Don’t Nod est au plus mal et envisagerait une restructuration qui pourrait supprimer 69 emplois → https://actugaming.net/a-680112
 
@@ -8014,6 +8015,108 @@ raids entrants :
 - DamRodi à 13:01 +1
 
 raids : OrigaTwitch => (14:54)[+465] DollyWood_ [YeahCy=>(18:51)+180] => (19:29)[+192] AuPoste_fr (>19:45) => m_a_p____ => (<23:44) louisebhn => (23:52) Yukaino (samedi) (>03:00) => Measia_ => LilyKonjo => (<13:00) Estree38 [jeremfreedom=>(14:14)+8] (>14:00) => (<15:44) Venusisnaive => (19:31) ElyhOnAir (>21:30) => (<02:58) kejinn (>04:00) => SimonDiamondG => (<11:02) FrostyQc (>12:00) => (<13:38) Capt_N_BiLL => (14:01)[+197] MuffinMan_TRV (terminé à 14:10)
+
+
+--------------------------------------
+2024-10-22
+
+# Mardinale #28
+### Clair Obscur: Expedition 33
+» 🇫🇷 [ActuGaming / 16 oct. 2024] Le RPG français Clair Obscur: Expedition 33 dévoile un somptueux trailer et son gros casting avec une période de sortie → https://actugaming.net/a-680033
+» 🇫🇷 [Gamekult / 16 oct. 2024] Clair Obscur Expedition 33 : Une fenêtre de sortie, une édition physique et le casting annoncés → https://cutt.ly/MeDaC5V0
+
+### Marvel’s Spider-Man 2
+» 🇫🇷 [ActuGaming / 19 oct. 2024] Marvel’s Spider-Man 2 n’aura droit à aucun DLC mais sa version PC est prévue pour janvier 2025 → https://actugaming.net/a-680550
+» 🇫🇷 [Gamekult / 19 oct. 2024] Marvel’s Spider-Man 2 sortira sur PC le 30 janvier 2025. Insomniac Games ne prépare aucun DLC → https://cutt.ly/zeDaBFa0
+
+### Project ETHOS
+» 🇫🇷 [ActuGaming / 18 oct. 2024] Project ETHOS : Un hero-shooter de type roguelike en vue TPS et free-to-play annoncé par 2K Games et 31st Union sur PC et consoles → https://actugaming.net/a-680443
+» 🇫🇷 [Gamekult / 18 oct. 2024] 2K + TPS + hero shooter + roguelike + free-to-play = Project Ethos. Le hero shooter qui veut rebattre les cartes → https://cutt.ly/UeDaMwdU
+
+### IO Interactive
+» 🇺🇸 [IGN / 16 oct. 2024] **Project 007 is a 'Young Bond for gamers' and hopefully the start of a new trilogy, IO Interactive boss says.** CEO Hakan Abrak teases IO Interactive's shadowy James Bond game as a "young Bond for gamers." → <https://cutt.ly/MeSOANDR>
+» 🇫🇷️ [IGN France / 17 oct. 2024] **Le projet 007 pourrait être le début d'une trilogie selon le patron de IO Interactive.** Le PDG Hakan Abrak décrit le jeu James Bond de IO Interactive comme un « jeune Bond pour les joueurs » → <https://fr.ign.com/project-007/72426/news/>
+
+» 🇫🇷 [Gamekult / 16 oct. 2024] James Bond : IO Interactive compte réaliser une trilogie → https://cutt.ly/seDa2D4Q
+» 🇫🇷 [ActuGaming / 16 oct. 2024] IO Interactive (Hitman) va éditer MindsEye, le prochain jeu du studio créé par Leslie Benzies (GTA) → https://actugaming.net/a-680017
+
+### Certain Affinity racheté par Keywords
+» 🇺🇸 [Games Industry / 18 oct. 2024] Keywords acquires Halo co-developer Certain Affinity. Studio founded by ex-Bungie devs adds 180 staff to Keywords' development empire → https://cutt.ly/XeDa3MdP
+» 🇺🇸 [Game Developer / 18 oct. 2024] Keywords set to acquire Halo and Exodus co-dev Certain Affinity. Certain Affinity gets a 'safety net' during the ongoing industry turmoil, while Keywords can use the developer to expand its North American presence → https://cutt.ly/NeDa8Tx9
+» 🇫🇷 [Gamekult / 19 oct. 2024] Keywords Studios : le géant de la sous-traitance rachète Certain Affinity (Halo, Call of Duty) → https://cutt.ly/AeDa4d9I
+
+### Netflix ferme Team Blue
+» 🇺🇸 [Game File / 22 oct. 2024] Netflix shuts down 'AAA' Team Blue gaming studio, amid gaming shake-up. The SoCal studio boasted senior veterans from Halo, God of War and Overwatch → https://cutt.ly/AeDa7qVZ
+» 🇺🇸 [Games Industry / 22 oct. 2024] Netflix shuts down California game studio. Three key members of internal developer have left the company → https://cutt.ly/aeDa703l
+» 🇺🇸 [Game Developer / 22 oct. 2024] Netflix closes its only AAA game studio. The Southern Californian developer was around for less than two years → https://cutt.ly/feDdfsCc
+» 🇫🇷 [ActuGaming / 22 oct. 2024] Netflix ferme déjà l’un de ses studios gaming qui travaillait sur un jeu AAA → https://actugaming.net/a-680839
+» 🇫🇷 [Gamekult / 22 oct. 2024] Netflix met déjà un terme à ses ambitions dans le jeu vidéo AAA → https://cutt.ly/MeDa54dB
+
+### Bandai Namco va éditer Dawnwalker
+» 🇫🇷 [ActuGaming / 21 oct. 2024] Bandai Namco devient l’éditeur de Dawnwalker, le prochain RPG du studio Rebel Wolves composé d’anciens de The Witcher 3 → https://actugaming.net/a-680774
+» 🇫🇷 [Gamekult / 21 oct. 2024] Dawnwalker : le réalisateur de The Witcher 3 signe avec Bandai Namco pour son prochain jeu → https://cutt.ly/YeDsehBz
+
+### Bandai Namco va élaguer
+» 🇺🇸 [Bloomberg / 15 oct. 2204] Bandai Namco cuts jobs, culls titles as game sector woes deepen. Strict labor laws spur companies to incentivize resignations. Japanese company is canceling console and smartphone games → https://cutt.ly/EeDstusS
+» 🇺🇸 [Games Industry / 15 oct. 2024] Bandai Namco is reportedly cutting workforce following cancellation of "several" titles. It's alleged 200 staff have been moved into "expulsion rooms" and pressured to resign → https://cutt.ly/weDsyWOs
+» 🇺🇸 [Game Developer / 15 oct. 2024] Bandai Namco is cutting its workforce and cancelling several titles. Three games have purportedly been shelved, with almost 100 staff pressured into resignation → https://cutt.ly/yeDsoelZ
+» 🇫🇷 [Gamekult / 21 oct. 2024] Bandai Namco cherche à réduire ses effectifs et a annulé un jeu pour Nintendo. Le groupe japonais a annulé plusieurs jeux cette année → https://cutt.ly/eeDseK7e
+» 🇫🇷 [ActuGaming / 21 oct. 2024] Bandai Namco commence à réduire ses équipes après avoir annulé plusieurs jeux au cours de l’année → https://actugaming.net/a-679898
+
+» 🇯🇵 LeakPress → https://leakpress.net
+- [17 sept. 2024] バンダイナムコスタジオの社内人員削減について  (Bandai Namco Studios staff reductions) → https://leakpress.net/2024/09/1/
+- [23 sept. 2024] 【続】バンダイナムコスタジオの自主退職強要及び転職妨害について  ([Continued] Regarding Bandai Namco Studios' forced resignation and job-changing obstruction) → https://leakpress.net/2024/09/36/
+- [17 oct. 2024] 【悲報】バンダイナムコスタジオで犯人探しが始まる。騒動の前には意見書を送るも無視、自主退職を迫るためのリモートワーク解除か  ([Sad news] Search for the culprit begins at Bandai Namco Studios. A letter of opinion was sent before the incident but was ignored. Remote work was lifted to force voluntary resignation?) → https://leakpress.net/2024/10/45/
+
+### Don't Nod
+» 🇫🇷 [Don't Nod / 16 oct. 2024] **Résultats semestriels 2024** → <https://cutt.ly/GeSAI7jW>
+» 🇫🇷 [STJV / 16 oct. 2024] **À Don’t Nod, le seul plan pour l’avenir est le plan de licenciement** → <https://cutt.ly/1eS05fP4>
+» 🇫🇷 [Le Figaro / 16 oct. 2024] **Jeu vidéo : le fleuron français Don't Nod pourrait se séparer de 20% des effectifs.** Le studio à l’origine de la série «Life is Strange», en difficulté après plusieurs contre-performances commerciales, a annoncé un plan de restructuration. → <https://cutt.ly/DeSSr1wx>
+» 🇫🇷 [Gamekult / 16 oct. 2024] **Don't Nod : un projet de restructuration pourrait supprimer 69 emplois** → <https://cutt.ly/qeDslD7G>
+» 🇫🇷 [ActuGaming / 17 oct. 2024] **Don’t Nod est au plus mal et envisagerait une restructuration qui pourrait supprimer 69 emplois** → <https://actugaming.net/a-680112>
+
+actualités précédentes sur Don't Nod :
+- février 2024 :
+  - 🇫🇷 [STJV / 7 févr. 2024] **Don’t Nod : Ascension ou chute libre ?** → <https://cutt.ly/swVkC3vP>
+  - 🇫🇷 [Libération / 9 févr. 2024] **Douche froide. Le chantre du jeu vidéo progressiste Dontnod épinglé par ses salariés** → <https://cutt.ly/AwVk5ZBm>
+  - 🇺🇸 [Games Industry / 9 févr. 2024] **French union flags concerns for welfare of Don't Nod staff.** Don't Nod has issued a response to STJV's allegations that the studio is unable to handle the number of projects it is working on → <https://cutt.ly/UwVkB2TM>
+- septembre 2024 :
+  - 🇺🇸 [Games Industry / 24 sept. 2024] **Don't Nod pauses two projects as Jusant and Banishers sales dissapoint.** Firm will now "consider all possible options regarding its roadmap" as both titles fail to meet expectations → <https://cutt.ly/geIbgThu>
+  - 🇫🇷 [ActuGaming / 24 sept. 2024] **Banishers: Ghost of New Eden et Jusant n’ont pas atteint les résultats escomptés, DON’T NOD met deux projets en pause** → <https://actugaming.net/a-674659>
+
+» 🇺🇸 [Games Industry / 17 oct. 2024] **Shawn Layden: "AA is gone and that's a threat to the ecosystem going forward".** At Gamescom Asia, the former Sony exec explained why relying on the "blockbusters" to get us through is a "death sentence" → <https://cutt.ly/zeDscWuo>
+
+Don't Nod a été créé en 2008 par :
+- **Hervé Bonin**, directeur de production chez Don't Nod de 2008 à 2015
+  - pour Don't Nod, il a été directeur de production sur _Remember Me_ (2013) et _Life is Strange_ (2015)
+  - il a fondé 0 DiviD à Toulouse, un cabinet de conseil pour assister des petites entreprises comme le studio Nameless XIII ou Hiboo
+- **Aleksi Briclot**, illustrateur et auteur de bande dessinée
+  - pour Don't Nod, il a été directeur artistique sur _Remember Me_ (2013) et _Life is Strange_ (2015)
+  - il continue de faire des illustrations pour Marvel et Magic the gathering
+- **Alain Damasio**, écrivain de science-fiction et fantastique, auteur de _La Horde du Contrevent_ (2004), directeur narratif chez Don't Nod de 2008 à 2010
+  - pour Don't Nod, il avait produit deux premières bibles narratives pour _Remember Me_ (2013) et dirigé un atelier de sept scénariste pour établir une bible complète et la première version du scénario ; il est aussi crédité comme consultant sur _Life is Strange_ (2015)
+  - il continue d'écrire des nouvelles et des romans, et collbaore pour des documentaires et des créations diverses
+- **Oskar Guilbert**, PDG actuel de Don't Nod
+  - 📄 [Don't Nod / 6 juil. 2023] Entretien avec Oskar Guilbert pour les 15 ans de Don’t Nod → https://cutt.ly/zeDsX8ev
+- **Jean-Maxime Moris**, directeur créatif chez Don't Nod de 2008 à 2015
+  - pour Don't Nod, il a été directeur créatif sur _Remember Me_ (2013) et _Life is Strange_ (2015)
+  - directeur chez IO Interactive pendant un an chez IO Interactive
+  - a fondé et dirigé un cabinet de conseil pendant deux ans à Lille
+  - depuis 2018 chez Amplitude Studios
+    - producteur exécutif sur _Endless Space 2_ (2017)
+    - directeur créatif sur _Humankind_ (2021) et _Endless Dungeon_ (2023)
+
+### Ubisoft Montpellier
+» 📻 [France Culture / 14 oct. 2024] Entendez-vous l'éco ? — Homo œconomicus ep. 8 — Ubisoft en déroute : jeux vidéo et des bas → https://cutt.ly/FeDdtqA5 (59 min)
+L'émission d'économie de France Culture part de la crise actuelle d'Ubisoft pour en faire un rapide historique économique, dans le contexte français
+
+Invités :
+- Julien Pillot économiste, enseignant-chercheur à l’INSEEC
+- Alexis Blanchet, maître de conférences au département cinéma et audiovisuel de l'Université Sorbonne Nouvelle, auteur de livres sur l'histoire du jeu vidéo
+
+### Analogue 3D
+» **Analogue 3D**, annoncée à 250 $ → <https://analogue.co/3d>
+
 
 
 
