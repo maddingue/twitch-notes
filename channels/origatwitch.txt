@@ -8336,6 +8336,62 @@ raids entrants :
 raids : OrigaTwitch => (15:30)[+462] Nat_Ali (terminé à 17:12)
 
 
+--------------------------------------
+2024-11-05
+
+# Mardinale #30
+## Actus
+### Vampire: the Masquerade – Bloodlines 2 vise le premier semestre 2025
+» 🇫🇷 [ActuGaming / 1er nov. 2024] Vampire: the Masquerade – Bloodlines 2 introduit quelques personnages de la cour de la Camarilla dans une vidéo sanglante → https://actugaming.net/a-682067
+
+» 🇬🇧 [PC Gamer / 8 oct. 2024] Paradox wants to get out of the RPG business: 'If Bloodlines 2, God willing, is successful, Bloodlines 3 [will be] done by someone else'. It's time for someone else to shoulder the World of Darkness curse → https://cutt.ly/OeGHkd3r
+» 🇺🇸 [Games Industry / 8 oct. 2024] Paradox on Bloodlines 2: "We had a game we could do, but maybe not with the team we had". Mattias Lilja on the "high risk manoeuvre" of changing dev → https://cutt.ly/6eGHxHm7
+
+### Alan Wake 2 sera bientôt un jeu profitable
+» 📄 Remedy - Business review January - September 2024 → https://cutt.ly/AeF4MtP7
+» 🇺🇸 [Game Developer / 1er nov. 2024] Alan Wake 2 has recouped most of its development and marketing expenses. Remedy is now preparing to enter the world of self-publishing → https://cutt.ly/8eF4NO5g
+» 🇫🇷 [Gamekult / 1er nov. 2024] Alan Wake 2 est enfin rentable pour Remedy → https://cutt.ly/MeF4NcNF
+
+» 🇺🇸 [IGN / 29 août 2024] Control and Alan Wake TV and movies on the way thanks to new Annapurna and Remedy partnership → https://cutt.ly/YeGHzcT4
+» 🇫🇷 [IGN France / 30 août 2024] Des films et séries sur Alan Wake 2 et Control sont en préparation, grâce à un partenariat entre New Annapurna et Remedy → https://cutt.ly/OeGHxr7D
+
+### Appel à la grève chez Don't Nod
+» 🇫🇷 [STJV / 31 oct. 2024] Don’t Nod : appel à la grève le vendredi 8 novembre → https://cutt.ly/SeGuo5pg
+» 🇫🇷 [Gamekult / 31 oct. 2024] Don't Nod : après une première mobilisation, le STJV appelle à faire grève le 8 novembre → https://cutt.ly/0eGHjgN1
+
+### Aux USA, la grève SAG-AFTRA continue
+» 🇺🇸 [Los Angeles Times / 15 oct. 2024] SAG-AFTRA, video game companies resuming negotiations as actors’ strike continues → https://cutt.ly/ueGHYUkQ
+» 🇺🇸 [SAG-AFTRA / 26 oct. 2024] Video game negotiations to continue → https://cutt.ly/IeGsBGKM
+» 🇺🇸 [Game Developer / 28 oct. 2024] SAG-AFTRA strike will continue after union concludes latest talks with major game studios. 'After three days of scheduled negotiations, SAG-AFTRA announced that Interactive Media Agreement negotiations with employers would continue.' → https://cutt.ly/aeGsB3LO
+» 🇫🇷 [Gamekult / 2 nov. 2024] Après l’échec des négociations, la grève de la SAG-AFTRA se poursuit dans l’industrie vidéoludique → https://cutt.ly/JeGsNIeW
+
+### Netflix nomme son chef de l'IA générative
+» 🇺🇸 [Game Developer / 4 nov. 2024] Netflix Games exec prepares bowl of word salad to announce new role as VP of GenAI for Games. Mike Verdu claims devs can use generative AI to create 'mind-blowing new experiences for players.' → https://cutt.ly/beGHvnJn
+» 🇺🇸 [Games Industry / 4 nov. 2024] Netflix's Mike Verdu reveals new role as VP of GenAI for Games. Former Facebook and EA executive handed over games leadership position earlier this year → https://cutt.ly/weGHc0ui
+» 🇫🇷 [ActuGaming / 5 nov. 2024] Deux semaines après avoir fermé son studio AAA, Netflix met les bouchées doubles sur l’IA → https://actugaming.net/a-682437
+
+### Playstation ferme Firewalk (Concord) et Neon Koi
+» 🇺🇸 [Sony Interactive / 29 oct. 2024] An update from PlayStation Studios → https://cutt.ly/heF36b8U
+» [𝕏 (ex Twitter) / Jason Schreier / 29 oct. 2024] https://x.com/jasonschreier/status/1851332241051513093
+> Sony's closure today of two studios — Concord developer Firewalk Studios and mobile game maker Neon Koi — will result in 210 people losing their jobs, a spokesperson tells Bloomberg News. Firewalk had 172 employees, while Neon Koi had 38.
+» 🇺🇸 [Bloomberg / 29 oct. 2024] PlayStation shutters studio behind ‘Concord’ video-game flop → https://cutt.ly/5eF8eNFm
+» 🇺🇸 [Game Developer / 29 oct. 2024] Sony shuts Neon Koi and Firewalk Studios. "Neon Koi and Firewalk were home to many talented individuals," says Sony Studio Business Group CEO → https://cutt.ly/leF8Ru1b
+» 🇺🇸 [Kotaku / 29 oct. 2024] Sony shuts down studio behind Concord less than two years after buying it. Firewalk Studios is shutting down over a month following the shooter's disastrous launch → https://kotaku.com/n-1851684290
+» 🇫🇷 [ActuGaming / 29 oct. 2024] Sony ferme deux studios PlayStation, dont Firewalk (Concord) → https://actugaming.net/a-681772
+» 🇫🇷 [Gamekult / 29 oct. 2024] PlayStation : Firewalk Studios ferme ses portes suite à l'échec de Concord. Neon Koi passe également à la casserole → https://cutt.ly/xeF8Wm1d
+
+» 🇺🇸 [Aftermath / 30 oct. 2024] Concord’s demise is Sony’s fault. Once again, developers pay the price for a company's missteps → https://cutt.ly/TeF8qPbL
+» 🇺🇸 [Aftermath / 19 déc. 2023] Executives should be facing the music, not laying off workers. Bosses need to be held accountable for their failures → https://cutt.ly/1eF8waWB
+
+» 🇺🇸 [Game Developer / 31 oct. 2024] CWA claims Sony looking to further 'monopoly position' with latest studio closures. The labor union has implored game industry workers to seek the 'security of collective bargaining.' https://cutt.ly/aeGHbHjR
+» 🇺🇸 [Games Industry / 31 oct. 2024] CWA criticises Sony for shuttering Firewalk Studios and Neon Koi. Union says it plans to "raise the anti-competitive impacts of Sony's increasing monopoly [...] with regulators, policymakers, and stakeholders" → https://cutt.ly/4eF8y9HR
+
+» 🇺🇸 [Variety / 31 oct. 2024] PlayStation CEOs Hideaki Nishino and Hermen Hulst reveal how new two-business strategy impacts studio, console plans → https://cutt.ly/LeF3DB4m
+» 🇫🇷 [ActuGaming / 1er nov. 2024] PS5 Pro, licenciements, adaptations… Les deux PDG de PlayStation s’expriment sur la stratégie actuelle du groupe → https://actugaming.net/a-682081
+
+
+
+
 
 » 📄 
 » 🇺🇸 
