@@ -8383,13 +8383,86 @@ raids : OrigaTwitch => (15:30)[+462] Nat_Ali (terminé à 17:12)
 » 🇺🇸 [Aftermath / 30 oct. 2024] Concord’s demise is Sony’s fault. Once again, developers pay the price for a company's missteps → https://cutt.ly/TeF8qPbL
 » 🇺🇸 [Aftermath / 19 déc. 2023] Executives should be facing the music, not laying off workers. Bosses need to be held accountable for their failures → https://cutt.ly/1eF8waWB
 
-» 🇺🇸 [Game Developer / 31 oct. 2024] CWA claims Sony looking to further 'monopoly position' with latest studio closures. The labor union has implored game industry workers to seek the 'security of collective bargaining.' https://cutt.ly/aeGHbHjR
+» 🇺🇸 [Game Developer / 31 oct. 2024] CWA claims Sony looking to further 'monopoly position' with latest studio closures. The labor union has implored game industry workers to seek the 'security of collective bargaining.' → https://cutt.ly/aeGHbHjR
 » 🇺🇸 [Games Industry / 31 oct. 2024] CWA criticises Sony for shuttering Firewalk Studios and Neon Koi. Union says it plans to "raise the anti-competitive impacts of Sony's increasing monopoly [...] with regulators, policymakers, and stakeholders" → https://cutt.ly/4eF8y9HR
 
 » 🇺🇸 [Variety / 31 oct. 2024] PlayStation CEOs Hideaki Nishino and Hermen Hulst reveal how new two-business strategy impacts studio, console plans → https://cutt.ly/LeF3DB4m
 » 🇫🇷 [ActuGaming / 1er nov. 2024] PS5 Pro, licenciements, adaptations… Les deux PDG de PlayStation s’expriment sur la stratégie actuelle du groupe → https://actugaming.net/a-682081
 
 
+--------------------------------------
+2024-11-08
+
+# L'Hebdo #41
+## Actus
+### La semaine
+» 🇫🇷 [ActuGaming / 6 nov. 2024] La Switch 2 sera bien rétrocompatible avec les jeux de la Nintendo Switch actuelle → https://actugaming.net/a-682524
+» 🇫🇷 [ActuGaming / 5 nov. 2024] 146 millions de Switch vendues pour Nintendo, avec un bon démarrage pour The Legend of Zelda: Echoes of Wisdom → https://actugaming.net/a-682429
+» [𝕏 (ex Twitter) / Phasmophobia / 31 oct. 2024] We're thrilled to announce that over 20 million Ghost Hunters have begun their investigations in Phasmophobia across all platforms → https://x.com/PlayPhasmo/status/1852017907040931947
+» 🇫🇷 [Gamekult / 1er nov. 2024] Alan Wake 2 est enfin rentable pour Remedy → https://cutt.ly/MeF4NcNF
+» [𝕏 (ex Twitter) / Baldur's Gate 3 / 30 oct. 2024] https://x.com/baldursgate3/status/1851655300258185699
+> Together, you've downloaded more than 50 million mods since Patch 7 introduced modding support!
+> Apparently 10,000 of those downloads were you renaming Withers to Bone Daddy. 
+> So, uh, glad we could facilitate that
+» [𝕏 (ex Twitter) / Call of Duty: Mobile / 4 nov. 2024] We have officially reached 1 Billion downloads! 🥳 → https://x.com/PlayCODMobile/status/1853527640516293059
+» 🇫🇷 [ActuGaming / 31 oct. 2024] Carton plein pour Call of Duty: Black Ops 6, qui réalise des records pour la saga → https://actugaming.net/a-681976
+» 🇫🇷 [IGN / 31 oct. 2024] La franchise Call of Duty atteint un demi-milliard de ventes... sans même compter Black Ops 6 → https://fr.ign.com/black-black/72621/news/
+» Symphonia, le 5 déc. 2024 sur PC / Steam Deck ; développé par le studio français Sunny Peak → https://s.team/a/1865960 | https://symphonia-game.com
+» 🇫🇷 [ActuGaming / 6 nov. 2024] Sega confirme le développement d’un nouveau jeu Virtua Fighter → https://actugaming.net/a-682614
+» 🇫🇷 [ActuGaming / 4 nov. 2024] BioWare se focalise maintenant complètement sur le développement du prochain Mass Effect → https://actugaming.net/a-682313
+» 🇬🇧 [Eurogamer / 5 nov. 2024] Metacritic responds after Dragon Age: The Veilguard review bombing → https://cutt.ly/yeHxdP7C
+» 🇫🇷 [Frandroid / 7 nov. 2024] Dragon Age descendu en flèche par l’extrême droite : Metacritic réagit → https://frandroid.com/produits-android/2393296_a
+» 🇫🇷 [Gamekult / 4 nov. 2024] Champions Tactics : le RPG d'Ubisoft sauce NFTs injouable à cause d'un tricheur → https://cutt.ly/ZeHxhkRG
+» 🇫🇷 [Gamekult / 4 nov. 2024] The Elder Scrolls : Legends est retiré des magasins, fermeture en janvier → https://cutt.ly/aeHxhPoJ
+
+### Death Stranding
+» 🇫🇷 [ActuGaming / 7 nov. 2024] Surprise, Death Stranding Director’s Cut est disponible dès maintenant sur Xbox Series, Windows et Luna → https://actugaming.net/a-682718
+
+### Take-Two & Private Division
+» 🇺🇸 [Games Industry / 6 nov. 2024] Zelnick on Private Division sale: "Those projects were smaller, we're in the business of big hits". Publisher confirms sale of indie publishing label to undisclosed buyer following studio shutdowns this summer → https://cutt.ly/LeHpojVC
+» 🇫🇷 [ActuGaming / 7 nov. 2024] Take-Two a revendu le label Private Division, sans dire à qui, et a bien fermé les studios Roll7 et Intercept Games → https://actugaming.net/a-682704
+
+### Amplitude redevient indépendant
+» 🇺🇸 [Amplitude / 8 nov. 2024] Returning to our Roots → https://cutt.ly/UeHfaG7z
+» 🇺🇸 [Polygon / 28 mars 2024] Sega Europe laying off 240 workers, selling off Company of Heroes developer Relic. Yesterday, Sega of America workers locked in union protections with a ratified contract → https://polygon.com/24114464/n
+
+
+## Jeux
+
+### Rogue Flight
+» Rogue Flight, sorti le 24 oct. 2024 à 20 € sur Switch, PlayStation 5, Xbox Series et PC / Steam Deck ; développé par Truant Pixel, petit studio indé américain → https://truantpixel.com
+- sorti le 24 oct. 2024 sur Switch, PlayStation 5, Xbox Series et PC / Steam Deck
+- développé par Truant Pixel, petit studio indé américain → https://truantpixel.com
+
+🎮 20 € sur Switch (https://cutt.ly/9eHhs74O), PlayStation (https://cutt.ly/DeHhdlOL)
+🎮 18 € sur Xbox (https://cutt.ly/deHhdF12)
+💻️ 20 € sur Steam (https://s.team/a/2784620), démo disponible
+
+### Metal Slug Tactics
+» Metal Slug Tactics, sorti le 5 nov. 2024 à 25 € sur Switch, PlayStation, Xbox (Game Pass) et PC / Steam Deck ; développé par Leikir Studio → https://metalslugtactics.com
+- sorti le 5 nov. 2024 sur Switch, PlayStation, Xbox et PC / Steam Deck
+- publié par Dotemu, développé par Leikir Studio, studio français derrière Synergy (2024), Rogue Lords (2021), Wondershot (2016), Isbarah (2015) → https://metalslugtactics.com | https://leikir-studio.com
+- musiques par Tee Lopes (TMNT: Shredder’s Revenge, Sonic Mania, Streets of Rage 4 - Mr X’s Nightmare)
+
+🎮 25 € sur Switch (https://cutt.ly/5eHhi0UD) et PlayStation (https://cutt.ly/TeHhorkd)
+🎮 25 € ou inclus dans le Game Pass sur Xbox (https://cutt.ly/jeHhoaTC)
+💻️ 25 € sur Steam (https://s.team/a/1590760) et GOG (https://cutt.ly/5eHhobi3)
+
+### Death of the Reprobate
+» Death of the Reprobate, sorti le 7 nov. 2024 à 12 € sur PC, Mac, Linux et Steam Deck ; développé par Joe Richardson → https://s.team/a/1739900
+- sorti le 7 nov. 2024 sur PC / Steam Deck
+- développé par Joe Richardson, derrière The Procession to Calvary (2020), Four Last Things (2017), The Preposterous Awesomeness of Everything (2016)
+
+💻️ 12 € sur Steam (https://s.team/a/1739900)
+
+## Mais pas que
+### Kévin
+» **Kazuo Umezu** / **楳図 かずお** (1936 - 2024), mangaka, auteur de _Bessekai_ / 別世界 (1955), _Mori no kyōdai_ / 森の兄妹 (1955), _Romansu no kusuri_ / ロマンスの薬, _Kuchi ga mimi made sakeru toki_ / 口が耳までさける時 (1961), _La Femme-serpent_ / へび女 (1965-1966), _Neko-me kozō_ / 猫目小僧 (1968), _Orochi_ / おろち (1969-1970), _L'École emportée_ / 漂流教室 (1972-1974), _Baptism_ / 洗礼 (1974-1976), _Makoto-chan_ / まことちゃん (1976-1981), _Je suis Shingo_ / わたしは真悟 (1982-1986), _La main gauche de dieu, la main droite du diable_ / 神の左手悪魔の右手 (1986-1988), _Fourteen_ / 14歳 (1990-1995)
+- _L'École emportée_ et _Baptism_ ont été publiés chez Glénat (<https://glenat.com/meme-auteur/101352>)
+- _La Femme serpent_, _Je suis Shingo_, _Orochi_, _La main gauche de dieu_, _Makoto-chan_ et d'autres œuvres ont été publiées chez Le Lézard noir (<https://lezardnoir.com/auteur/umezu-kazuo/>)
+
+### Héloïse
+» 🎦 The Substance (2024), film cinéma écrit et réalisé par Coralie Fargeat, musiques par Raffertie, avec Demi Moore, Margaret Qualley, Dennis Quaid
 
 
 
@@ -8400,7 +8473,7 @@ raids : OrigaTwitch => (15:30)[+462] Nat_Ali (terminé à 17:12)
 » ▶️ [YouTube] 
 » 🐦 [Twitter] 
 » [𝕏 (ex Twitter)] 🧵
-» 🟦 🦋 [BlueSky] 
+» 🟦 🦋 [BlueSky] 🧵
 » 🐘 [Mastodon] 
 
 » 🇫🇷 [ActuGaming] 
