@@ -12213,7 +12213,26 @@ raids : lesnumeriques => (13:38)[+133] LamHua (terminé à 16:20)
 
 » 🇺🇸 [Remedy / 21 oct. 2024] Alan Wake 2 on PlayStation 5 Pro – Behind The Scenes. Take a deep dive into how Remedy’s Northlight engine team updated the technology behind Alan Wake 2 to support the new features of PlayStation 5 Pro → https://cutt.ly/aeHq6qF7
 
-raids : lesnumeriques => (13:36)[+187] Antistar (>18:00) => (<19:37) Jarm0u (cendredi) (>00:40)
+raids : lesnumeriques => (13:36)[+187] Antistar (>18:00) => (<19:37) Jarm0u (vendredi) => (01:19)[+99] Nimelya => (04:26)[+26] nitro_speedrun [Qentiko=>(11:16)+10] [Oopla=>17:57)+9]  (>00:00)
+
+
+--------------------------------------
+2024-11-08
+
+» 🇫🇷 [Les Numériques] E-Moped 500, un scooter électrique inspiré de la Fiat 500 e et dessiné par Pininfarina → https://lesnumeriques.com/moto/-n228517.html
+» 🇫🇷 [Les Numériques] LiveWire s’associe à Kymco pour réaliser un maxi scooter électrique de folie → https://lesnumeriques.com/moto/-n228475.html
+» [Futurism] Study finds self-driving Waymos are more expensive than taxis, take twice as long to get to destination → https://futurism.com/the-byte/waymo-expensive-slower-taxis
+« [ZME Science] Growing crops in the dark with “electro-agriculture” can revolutionize food production and free up over 90 percent of farmlands. In the future, photosynthesis could be replaced with electro-agriculture, a process that is four times more efficient and may do wonders for food security. → https://www.zmescience.com/science/agriculture-science/electro-agriculture/
+» [RFi] Australia's prime minister on Thursday vowed to ban children under 16 from social media, saying the pervasive influence of platforms like Facebook and TikTok was "doing real harm to our kids". → https://www.rfi.fr/en/international-news/20241107-australia-moves-to-ban-children-under-16-from-social-media
+» [Interesting Engineering] First cloned offspring of endangered black-footed ferrets in North America revealed. Both ferrets share the same genetic material as Elizabeth Ann, the pioneering cloned black-footed ferret → https://interestingengineering.com/science/cloned-endangered-black-footed-ferrets
+
+» Hardware & co → https://hardwareand.co/
+» 🇫🇷 [Les Numériques] AMD Ryzen 7 9800X3D : Le meilleur processeur pour jouer est enfin disponible → https://lesnumeriques.com/cpu-processeur/-n228503.html
+» 🇫🇷 [Les Numériques] Test processeur AMD Ryzen 7 9800X3D : le retour roi du gaming → https://www.lesnumeriques.com/cpu-processeur/amd-ryzen-7-9800x3d-p75793/test.html
+» 🇫🇷 [Les Numériques] Test Apple Mac Mini (M4) ⭐⭐⭐⭐⭐ : toujours plus petit, toujours plus puissant → https://www.lesnumeriques.com/ordinateur-de-bureau/apple-mac-mini-m3-p74177/test.html
+» 🇫🇷 [Les Numériques] Test Apple MacBook Pro 14 (M4) ⭐⭐⭐⭐⭐ : encore une masterclass ! → https://www.lesnumeriques.com/ordinateur-portable/apple-macbook-pro-14-m4-p75168/test.html
+
+raids : lesnumeriques => (13:39)[+118] MonPetitPC (>14:00) => (17:06) LamHua => (<17:30) modiiie => (21:26)[+323] Vazek_Tomi (>23:00) => (<23:11) Flonflon (samedi) => (00:06)[+300] Cleophele
 
 
 
