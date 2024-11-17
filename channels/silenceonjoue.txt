@@ -1982,13 +1982,13 @@ Marius
 
 » Knit’s Island - L'île sans fin, film documentaire, sortie en salles le 17 avril 2024, 95 min, écrit et réalisé par Ekiem Barbier, Guilhem Causse, Quentin L'helgoualc'h
 
-jeu &pisode
+jeu épisode
 » Nine Sols 九日, sorti le 29 mai 2024 à 29 € sur PC, Mac et Steam Deck (https://s.team/a/1809540), aussi annoncé sur Switch et PlayStation ; développé par le studio taïwanais 🇹🇼 Red Candle Games (Detention, Devotion) → https://redcandlegames.com/9sols/
 
 » Puerto Banana ⚓🍌 pour 2 à 6 personnes, à partir de 10 ans, créé par Mads Emil Christensen, illustré par Simon Douchy, édition française chez Blue Orange à 15 € → https://blueorangegames.eu/fr/jeux/puerto-banana/
 
 Julie
-» docu Naughty DOg ?
+» docu Naughty Dog ?
 
 » Promenade, le 23 fév. 2024 sur Switch, PlayStation, Xbox et PC ; développé par Holy Cap → https://holycapstudio.com/fr/accueil/ | https://s.team/a/1781260
 
@@ -2019,7 +2019,9 @@ Corentin
 » Balatro 🃏 sorti le 20 févr. 2024 à 15 € sur Switch, PlayStation, Xbox et PC / Steam Deck ; publié par Playstack, développé par LocalThunk → https://playBalatro.com
 
 » Portal: Revolution, sorti le 6 jan. 2024 sur PC / Steam Deck ; mod de Portal 2 développé par Second Face Software, studio de Stefan Heinz asssité de contributeurs → https://PortalRevolution.com | https://s.team/a/601360
+
 » Dr. Robotnik’s Ring Racers, gratuit sur Windows, mac et Linux ; développé par Kart Krew, collectif d'une dizaine de personnes réparties dans le monde → https://kartkrew.org
+
 » Nightmare Kart, sorti le 5 juin 2024, gratuit sur PC / Steam Deck ; réalisé par Lilith Walther, musiques par Evelyn Lark → https://s.team/a/2930160 | https://b0tster.itch.io/nmkart
 
 » Mosa Lina, sorti le 17 oct. 2023 à 5 € sur PC / Steam Deck ; développé par Stuffed Wombat, Silkersoft, Lukke → https://stuffedwomb.at | https://s.team/a/2477090
@@ -2029,7 +2031,7 @@ jeu épisode
 
 Quand vous ne jouez pas
 Corentin
-» Le Comte de Monte-Cristo (2024), film cinéma écrit et réalisé par Alexandre de La Patellière et Matthieu Delaporte, adapté su rscénario d'Alexandre Dumas, musiques par Jérôme Rebotier, avec Pierre Niney, Bastien Bouillon, Anaïs Demoustier, Anamaria Vartolomei, Laurent Lafitte
+» Le Comte de Monte-Cristo (2024), film cinéma écrit et réalisé par Alexandre de La Patellière et Matthieu Delaporte, adapté du scénario d'Alexandre Dumas, musiques par Jérôme Rebotier, avec Pierre Niney, Bastien Bouillon, Anaïs Demoustier, Anamaria Vartolomei, Laurent Lafitte
 
 Julie
 » r/Eldenring → https://reddit.com/r/Eldenring
@@ -2070,7 +2072,7 @@ Julie
 » Stray, morceaux de Morusque
 
 Marius
-» la chason de Raphaël dans Baldur's Gate III
+» la chanson de Raphaël dans Baldur's Gate III
 
 Erwan
 » Good riddance, Orphée et Eurydice dans Hades
