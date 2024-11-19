@@ -8655,6 +8655,70 @@ excuses de sac :
 - je ne suis pas un joueur de FPS, et surtout pas clavier souris (Moguri)
 
 
+--------------------------------------
+2024-11-19
+
+# Mardinale #32
+## Actus
+### Bilan des festivités Warcraft
+» 🇫🇷 [ActuGaming / 14 nov. 2024] Warcraft I et Warcraft II Remastered sont maintenant disponibles et Warcraft III Reforged se refait une santé → https://actugaming.net/a-683469
+
+» ▶️ [YouTube / World of Warcraft / 13 nov. 2024] World of Warcraft: 20 Years of Music | Orchestral Concert → <https://youtu.be/auDwPSu0sLI> (2 h 19 min)
+
+### Unreal et Unreal Tournament deviennent des abandonware légaux
+» 🇺🇸 [Rock Paper Shotgun / 14 nov. 2024] Classic shooters Unreal and Unreal Tournament are now free and preserved on the Internet Archive → https://cutt.ly/TeJRt0nI
+» OldUnreal, purely devoted to the old Unreal (Tournament) versions → https://oldunreal.com
+
+### The Rogue Prince of Persia change de visuels pour se relancer
+» 🇫🇷 [ActuGaming / 14 nov. 2024] The Rogue Prince of Persia change complètement d’allure avec l’arrivée de son deuxième gros chapitre → https://actugaming.net/a-683611
+
+### Star Wars Outlaws sur Steam
+» Star Wars Outlaws, le 21 nov. 2024 sur Steam → https://s.team/a/2842040
+
+### Le film Splinter Cell n'aura pas lieu
+» 🇺🇸 [The Direct / 14 nov. 2024] Tom Hardy's Splinter Cell movie is officially dead. A producer behind the previously announced Splinter Cell movie revealed that it fell apart → https://cutt.ly/meKsH7Gw
+» 🇫🇷 [ActuGaming / 15 nov. 2024] Le film Splinter Cell avec Tom Hardy que préparait Ubisoft pendant un temps est bien annulé → https://actugaming.net/a-683737
+
+### Capcom confirme le mauvais démarrage de Kunitsu-Gami
+» 🇯🇵 [Gamebiz / 18 nov. 2024] カプコン、『祇:Path of the Goddess』は計画未達　評価高いが事前プロモーション不十分、今後も継続　『デッドラR』などは計画通り → https://gamebiz.jp/news/396057
+» 🇺🇸 [Automaton Media / 18 nov. 2024] Capcom’s new IP Kunitsu-Gami: Path of the Goddess missed sales targets despite high reviews → https://cutt.ly/5eKsL1Tq
+» 🇫🇷 [ActuGaming / 18 nov. 2024] Kunitsu-Gami: Path of the Goddess n’est pas un succès pour Capcom, la faute à un marketing trop faible → https://actugaming.net/a-683983
+
+### Et les nommés des Game Awards 2024 sont…
+» 🇺🇸 Game Awards → https://thegameawards.com/nominees
+» 🇫🇷 [ActuGaming / 18 nov. 2024] Voici les nommés des Game Awards 2024 dans chaque catégorie → https://actugaming.net/a-683913
+
+### Sony voudrait s'acheter Kadokawa (FromSoftware, Elden Ring)
+» 🇺🇸 [Reuters / 19 nov. 2024] Sony is in talks to buy media powerhouse behind 'Elden Ring' → https://cutt.ly/teKsGpMw
+» 🇫🇷 [ActuGaming / 19 nov. 2024] Sony serait en discussion pour acquérir Kadokawa Corporation, maison-mère de From Software (Elden Ring) → https://actugaming.net/a-684077
+» 🇫🇷 [Gamekult / 19 nov. 2024] Sony serait sur le point de racheter le groupe Kadokawa (From Software, Spike Chunsoft...) → https://cutt.ly/QeKdc7XW
+
+### La PS5 Pro semble démarrer aussi bien que la 4 Pro
+» 🇫🇷 [ActuGaming / 11 nov. 2024] Le prix élevé de la PS5 Pro n’a pas d’impact négatif sur les ventes selon le président de Sony → https://actugaming.net/a-683101
+» 🇫🇷 [Gamekult / 15 nov. 2024] Charts Japon : malgré son prix affolant, la PS5 Pro démarre plus fort que la PS4 Pro → https://cutt.ly/9eKdcIUa
+
+### Ubisoft a rebooté son Projet U
+» 🇺🇸 [Insider Gaming / 12 nov. 2024] Ubisoft’s Project U is back to the drawing board after 5 years of development → https://cutt.ly/KeKdbAc4
+
+### Thunderful restructure et quitte le développement de jeux
+» 🇺🇸 [Thunderful Group / 14 nov. 2024] Thunderful Group implements strategic restructuring program: doubling down on third-party game publishing and scaling back internal development, resulting in write downs of 220-240 MSEK → https://cutt.ly/jeJRr4We
+» 🇺🇸 [Game Developer / 14 nov. 2024] Thunderful is restructuring its publishing division and cutting even more jobs. 'The shift will entail a greater focus on third-party game publishing and a reduction in investments in internally developed projects.' → https://cutt.ly/ueKdbXfs
+» 🇫🇷 [Gamekult / 14 nov. 2024] Malgré SteamWorld, Thunderful n'y arrive pas et va se concentrer sur l'édition. Une nouvelle restructuration frappe les développeurs → https://cutt.ly/beKdb5qe
+» 🇫🇷 [Gamekult / 15 nov. 2024] Le studio Jumpship (Somerville) coulé par la restructuration de Thunderful. Le studio fermé, son prochain jeu annulé → https://cutt.ly/OeKdnrkz
+
+### Steam épinglé pour contenus nazis et suprémacistes
+» 🇺🇸 [Anti-Defamation League / 14 nov. 2024] Steam-powered hate: top gaming site rife with extremism & antisemitism → https://cutt.ly/JeKsJ2BT
+» 🇺🇸 [United States Senate / 15 nov. 2024] Open letter from US Senator Mark Warner (D-VA) to Valve CEO Gabe Newell → https://cutt.ly/XeKsLWok
+» 🇺🇸 [The Verge / 15 nov. 2024] Senator to Valve: what’s with all the Nazis on Steam? Senator Mark Warner’s letter follows an ADL report about extremist content on the platform → https://theverge.com/2024/11/15/24297364/
+» 🇫🇷 [Le Monde / 15 nov. 2024] Croix gammées, portraits d’Adolf Hitler… Sur les forums de Steam, boutique de jeux vidéo en ligne, les contenus haineux sont légion. L’Anti-Defamation League, principale organisation de lutte contre l’antisémitisme aux Etats-Unis, dénonce dans un rapport la prolifération de contenus haineux et extrémistes sur la plateforme, très utilisée par les consommateurs de jeux vidéo. → https://cutt.ly/seKsJxV4
+» 🇫🇷 [ActuGaming / 18 nov. 2024] L’absence de modération de Steam sur le contenu haineux est pointée du doigt par un sénateur américain → https://actugaming.net/a-684045
+
+» 🇺🇸 [Vice / 19 oct. 2017] Steam is full of hate groups → https://cutt.ly/AeKdQhT5
+
+» 🇺🇸 [United States Senate / 15 déc. 2022] Open letter from US Senator Maggie Hassan (D-NH) to Valve CEO Gabe Newell → https://cutt.ly/ceKdWRwI
+» 🇬🇧 [PC Gamer / 16 déc. 2022] US senator asks Gabe Newell what Valve is doing to fight Nazis on Steam. Senator Maggie Hassan sent a letter to the Valve boss to express concern about neo-Nazis, white supremacy, misogyny, and other "hateful" content on Steam → https://cutt.ly/IeKdQSzd
+
+
 
 
 » 📄 
