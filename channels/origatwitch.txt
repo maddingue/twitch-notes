@@ -7013,7 +7013,7 @@ sondage : comment qualifier ce qu'on voit entend ? la fin d'Origami (82%)
 » 🇫🇷 [ActuGaming / 12 août 2024] **Hi-Fi Rush et Tango Gameworks rachetés par Krafton (PUBG), la licence n’est pas morte** → https://actugaming.net/a-663243
 
 - **Hoopoo Games**
-» 🇺🇸 [Games Industry / 3 sept. 2024] **Risk of Rain dev Hopoo Games on hiatus as co-founders join Valve.** Unannounced game 'Snail' now cancelled, other members of the team also working for Half-Lilfe firm → https://cutt.ly/teTALd6b
+» 🇺🇸 [Games Industry / 3 sept. 2024] **Risk of Rain dev Hopoo Games on hiatus as co-founders join Valve.** Unannounced game 'Snail' now cancelled, other members of the team also working for Half-Life firm → https://cutt.ly/teTALd6b
 » 🇫🇷 [Gamekult / 3 sept. 2024] **Valve engloutit le studio Hopoo Games (Risk of Rain)** → https://cutt.ly/TeTALJBp
 
 - **Black Myth: Wukong**
@@ -8795,8 +8795,163 @@ excuses de sac :
 excuses de sac :
 - j'ai plus d'eau depuis 30 minutes (LaLinosse)
 
-raids : OrigaTwitch => (15:29)[+248] mamapaprika => (17:07)[+180] Ykonikk => (19:46) Gom4rt => (23:34)[+1186) MisterJDay (vendredi) (>00:30)
+raids : OrigaTwitch => (15:29)[+248] mamapaprika => (17:07)[+180] Ykonikk => (19:46) Gom4rt => (23:34)[+1186) MisterJDay (vendredi) (>00:30) => (<02:13) AngleDroit (terminé à 02:20)
 
+
+--------------------------------------
+2024-11-22
+
+# L'Hebdo #43
+## Actus
+### La semaine
+**Sony voudrait acheter Kadokawa**
+» 🇺🇸 [Reuters / 19 nov. 2024] Sony is in talks to buy media powerhouse behind 'Elden Ring' → https://cutt.ly/teKsGpMw
+» 🇫🇷 [ActuGaming / 19 nov. 2024] Sony serait en discussion pour acquérir Kadokawa Corporation, maison-mère de From Software (Elden Ring) → https://actugaming.net/a-684077
+» 🇫🇷 [Gamekult / 19 nov. 2024] Sony serait sur le point de racheter le groupe Kadokawa (From Software, Spike Chunsoft...) → https://cutt.ly/QeKdc7XW
+
+» 🇺🇸 [Kadokawa / 20 nov. 2024] **Notice regarding media articles** → <https://cutt.ly/KeKSVpT3>
+» 🇺🇸 [Games Industry / 20 nov. 2024] **FromSoftware parent Kadokawa confirms buyout interest from Sony.** Sony sent the firm a letter of intent to acquire its shares, but "no decision has been made at this time," CEO says → <https://cutt.ly/teKSCxh3>
+» 🇫🇷 [ActuGaming / 20 nov. 2024] **Kadokawa Corportation confirme les rumeurs d’un rachat par Sony, mais la décision n’est pas encore prise** → <https://actugaming.net/a-684352>
+
+**L'avenir de Xbox**
+» 🇺🇸 [Rolling Stone / 14 nov. 2024] Xbox CEO says there will ‘definitely’ be future consoles. Although the company's new ads emphasize cloud streaming, CEO Phil Spencer tells Rolling Stone there will still be a box to buy → https://cutt.ly/neKLmI2u
+» 🇫🇷 [ActuGaming / 14 nov. 2024] Avec sa nouvelle pub, Microsoft veut faire passer le message que Xbox ne se limite plus à la console → https://actugaming.net/a-683583
+» 🇫🇷 [ActuGaming / 15 nov. 2024] Phil Spencer confirme que Xbox va continuer à fabriquer des nouvelles consoles à l’avenir → https://actugaming.net/a-683669
+
+**Ratatan**
+» ▶️ [YouTube] Ratatan reveal trailer → https://youtu.be/HR9r-LXLGnI
+
+**Take the Throne annulé**
+» [𝕏 / Karmine Corp / 14 nov. 2024] 🧵 https://x.com/KarmineCorp/status/1857157821906702843
+> Communiqué officiel - Take the Throne
+> Nous nous retirons de la compétition Take the Throne. […]
+
+» 🇺🇸 [Dexerto / 14 nov. 2024] Team BDS CEO got fired after ruining Rocket League event with controversial statement → https://cutt.ly/EeKLWxVf
+
+**Valorant Game Changers**
+» 🇺🇸 [ESports Insider / 18 nov. 2024] VCT Game Changers Championship 2024 becomes second most popular women’s esports event → https://cutt.ly/eeKLEfvu
+
+**Frostpunk 2**
+» 🇫🇷 [Gamekult / 14 nov. 2024] Frostpunk 2 : 500 000 billets achetés pour l'enfer blanc → https://cutt.ly/9eKLRpoR
+
+**Alan Wake et Control**
+» 🦋 [BlueSky / Remedy / 19 nov. 2024] 🧵 https://bsky.app/profile/remedygames.com/post/3lbch2m27ot2a
+> News from our Capital Markets day:
+> 🔦 Alan Wake 2 has sold over 1.8M units
+> 🔻 Control Ultimate Edition will release on Mac February 12th 2025
+> 💥 Control 2 will be an action RPG
+> 🎁 Control will receive a free update in early 2025, unlocking some previously released content
+> 🔎 more details: https://buff.ly/4eCBQEU
+» 🇫🇷 [ActuGaming / 19 nov. 2024] Remedy confirme que Control 2 sera un action-RPG et qu’Alan Wake 2 s’est vendu à 1,8 million d’exemplaires → https://actugaming.net/a-684162
+
+**Minami Lane**
+» [𝕏 / Minami Lane / 15 nov. 2024] 🧵 https://x.com/blibloop/status/1857479754795950533
+> OMG!!! I can't believe 200,000 people got our silly little game 😭
+
+**PlayStation Portal**
+» 🇫🇷 [PlayStation Blog / 20 nov. 2024] L’expérience proposée par le lecteur à distance PlayStation Portal va évoluer avec une nouvelle mise à jour système. Les abonnés PlayStation Plus Premium auront accès au streaming dans le cloud (bêta) pour certains jeux PS5 du Catalogue des jeux → https://cutt.ly/yeKdTKcY
+» 🇫🇷 [ActuGaming / 20 nov. 2024] Le PlayStation Portal permet enfin de jouer en cloud à des jeux PS5 sans console pour les abonnés au PS Plus Premium → https://actugaming.net/a-684243
+
+**Xbox Cloud**
+» 🇫🇷 [Xbox Wire / 20 nov. 2024] Jouez à vos propres jeux grâce au Xbox Cloud Gaming (bêta) → https://cutt.ly/JeKv5n2l
+
+**Divers**
+» 🇫🇷 [ActuGaming / 15 nov. 2024] Microids décide de repousser L’Amerzone – Le Testament de l’Explorateur à l’année prochaine → https://actugaming.net/a-683702
+
+» 🇫🇷 [ActuGaming / 21 nov. 2024] L’envoûtant Lorelei and the Laser Eyes débarquera sur les consoles PlayStation d’ici quelques jours → https://actugaming.net/a-684686
+
+» 🇫🇷 [ActuGaming / 19 nov. 2024] Indie Game Awards : Les meilleurs jeux indépendants ont droit à leur propre cérémonie, voici les nommés → https://actugaming.net/a-684195
+
+» 🇫🇷 [ActuGaming / 20 nov. 2024] Final Fantasy XIV va débarquer sur mobiles, le MMO aura bien des version iOS et Android → https://actugaming.net/a-684238
+
+**Alkemi**
+» 🦋 [BlueSky / les Indés Primés / 19 nov. 2024] Malgré des jeux originaux et toujours faits avec amour, le studio Français Alkemi se voit contrait de fermer boutique → https://bsky.app/profile/indesprimes.bsky.social/post/3lbddd43ym32l
+» 🇫🇷 [ActuGaming / 20 nov. 2024] Le studio français Alkemi (Foretales, An Ankou) s’apprête à fermer ses portes → https://actugaming.net/a-684262
+
+### S.T.A.L.K.E.R. 2: Heart of Chornobyl
+» S.T.A.L.K.E.R. 2: Heart of Chornobyl, sorti le 20 nov. 2024 à 60 € ou + sur Xbox Series et PC, inclus dan sle Game Pass ; développé par GSC Game World, studio ukrainien 🇺🇦 d'environ 300 personnes derrière les séries de jeux Cossacks et S.T.A.L.K.E.R. → https://stalker2.com
+
+» ▶️ [YouTube / Origami / 20 nov. 2024] La première heure de STALKER 2 avec le camarade Gautoz → https://youtu.be/Fu9OwWI5unI (51 min)
+
+» ▶️ [YouTube / GSC Game World / 3 oct. 2024] War Game: The Making of S.T.A.L.K.E.R. 2 Documentary → https://youtu.be/28CITqxwNz0 (1 h 27 min)
+
+### Grève chez Don't Nod
+» 🇫🇷 [STJV / 21 nov. 2024] Don’t Nod : nouvel appel à la grève le 22 novembre 2024 → https://cutt.ly/oeKEsZSY
+» 🇫🇷 [HelloAsso] Caisse de grève Don't Nod → https://cutt.ly/keKEs6Co
+
+### Virtua Fighter 5
+» 🇫🇷 [ActuGaming / 22 nov. 2024] Virtua Fighter 5 R.E.V.O. est annoncé sur PC, une meilleure version de Virtua Fighter 5 avec du rollback en 4K/60 fps → https://actugaming.net/a-684807
+» ▶️ [YouTube / Sega / 22 nov. 2024] Virtua Fighter 5 R.E.V.O. - opening cinematic → https://youtu.be/einEYdj3nAQ
+
+### South of Midnight
+» South of Midnight, annoncé pour 2025 sur Xbox Series (2025) et PC, dans le Game Pass ; développé par Compulsion Games, studio canadien 🇨🇦 derrière We happy Few (2018), Contrast (2013) → https://s.team/a/1934570 | https://compulsiongames.com/games/south-of-midnight/
+
+Entretien :
+- Maxime Archetto, directeur de réalisation
+- Olivier Derivière, compositeur
+
+» 🇫🇷 [Gamekult / 12 nov. 2024] South of Midnight : l'animation en stop motion sera optionnelle en jeu → https://cutt.ly/qeKLIAKb
+
+» ▶️ [YouTube / Xbox / 12 nov. 2024] Weaving Hazel's Journey - A South of Midnight documentary → https://youtu.be/17zwqjbje6g (30 min)
+
+## Jeux
+
+### Mindcop
+» Mindcop, sorti le 14 nov. 2024 à 15 € sur Switch, PlayStation 5 et PC / Steam Deck ; développé par Andre Gareis 🇩🇪 → https://s.team/a/1517180
+- sorti le 14 nov. 2024 sur Switch, PlayStation 5 et PC / Steam Deck
+- publié par Dear Villagers, développé par Andre Gareis 🇩🇪 → https://x.com/mindcopgames
+
+🎮 15 € sur Switch (https://cutt.ly/TeKGykAe), PlayStation (https://cutt.ly/beKGyJE1)
+💻️ 15 € sur Steam (https://s.team/a/1517180), démo disponible
+
+### Tetris Forever
+» Tetris Forever, sorti le 12 nov. 2024 à 35 € sur Switch, PlayStation, Xbox et PC / Steam Deck ; développé par Digital Eclipse → https://digitaleclipse.com/games/tetrisforever
+- sorti le 12 nov. 2024 sur Switch, PlayStation, Xbox et PC / Steam Deck
+- développé par Digital Eclipse, studio américain 🇺🇸 d'une vingtaine de personnes responsable de plusieurs rééditions patrimoniales de vieux jeux : Llamasoft: The Jeff Minter Story (2024), The Making of Karateka (2023), Blizzard Arcade Collection (2021), Samurai Shodown NeoGeo Collection (2020), Disney Classic Games: Aladdin and The Lion King (2019), SNK 40th Anniversary Collection (2018), Street Fighter 30th Anniversary Collection (2018)
+
+🎮 35 € sur Switch (https://cutt.ly/MeKI184M), PlayStation (https://cutt.ly/eeKI0qFB) et Xbox (https://cutt.ly/xeKI0yLK)
+💻️ 34 € sur Steam (https://s.team/a/3180240) et GOG (https://cutt.ly/leKI1JaG)
+
+» Hermann Broch (1886 - 1951), romancier, dramaturge et essayiste autrichien, auteur en particulier de _Der Tod des Vergil_ / _La mort de Virgile_ (1945) et _Einige Bemerkungen zum Problem des Kitsches_ / _Quelques remarques à propos du kitsch_ (1955)
+
+» Milan Kundera (1929 - 2023), romancier, essayiste et dramaturge tchécoslovaque naturalisé français, auteur de _Žert_ / _La Plaisanterie_ (1967), _Le Livre du rire et de l'oubli_ (1979), _L'Insoutenable Légèreté de l'être_ (1984), _L'art du roman_ (1995)
+
+» ▶️ [YouTube / Speedons / 11 mars 2023] Tetris: The Absolute - TGM2 Plus et Tetris: TGM3- Terror Instinct par QLEX → https://youtu.be/W5VXEtGareU (54 min)
+
+» ▶️ [YouTube / aGameScout / 31 déc. 2023] After 34 years, someone finally beat Tetris → https://youtu.be/GuJ5UuknsHU (16 min)
+» ▶️ [YouTube] chaîne de HydrantDude avec plusieurs vidéos courtes expliquant le bug → https://youtube.com/@hydrantdude3642/videos
+» ▶️ [YouTube / Retro Game Mechanics Explained / 6 mars 2024] Bugs & glitches of high-level NES Tetris → https://youtu.be/h7H_ilLn7nc (53 min)
+» ▶️ [YouTube / Displaced Gamers / 7 mars 2024] Crashing Tetris! The logic behind the madness - Behind the code leveled up → https://youtu.be/vAbRx9obM1M (22 min)
+
+Je remets ici ce que j'avais noté en plus la première fois que j'avais mentionné ces vidéos :
+> Petit trivia non mentionné dans ces deux vidéos : le vrai CPU 6502 avait un support intégré du BCD (binaire codé décimal), au cœur du bug de Tetris. Mais le CPU de la NES, le Ricoh 2A03, n'avait pas les instructions correspondantes, probablement pour une question de brevet. D'où le fait que les développeurs de Tetris NES ont codé cela de leur côté, avec comme conséquence indirecte le crash potentiel du jeu.
+
+### The Rise of the Golden Idol
+» The Rise of the Golden Idol, sorti le 12 nov. 2024 à 20 € sur Switch, PlayStation, Xbox et PC, Mac et Steam Deck ; développé par Color Gray Games → https://thegoldenidol.com
+- sorti le 12 nov. 2024 sur Switch, PlayStation, Xbox et PC, Mac et Steam Deck
+- publié par PlayStack, développé par le studio letton 🇱🇻 Color Gray Games → <https://thegoldenidol.com>
+- réalisé par Andrejs Kļaviņš et Ernests Kļaviņš
+
+🎮 19,50 € sur Switch (https://cutt.ly/aeJGzfma) et Xbox (https://cutt.ly/6eJGxyzl)
+🎮 20 € sur PlayStation (https://cutt.ly/6eJGz2n1)
+💻️ 19,50 € sur Steam (https://s.team/a/2716400)
+
+
+## Mais pas que
+### Gauthier
+» 📷 alex777terieur - n’aie pas peur de faire des erreurs, plante toi et tu pousseras 🌱🌸❤️ → https://instagram.com/alex777terieur
+
+### Florian
+» 🎦 Luca (2021), film d'animation réalisé par Enrico Casarosa, scénario par Enrico Casarosa, Jesse Andrews et Simon Stephenson, musiques par Dan Romer, doublage original par Jacob Tremblay, Jack Dylan Grazer, Emma Berman, Saverio Raimondo
+- disponible sur Disney+ (<https://disneyplus.com/movies/luca/7K1HyQ6Hl16P>)
+
+excuses de sac :
+- ça va, j'avais réussi à le dire pour une fois (Padre, Golden Idol)
+- j'ai pas le temps de tondre ma pelouse et tout
+- vous m'expliquerez, mon téléphone il buggue (Gautoz)
+
+raids entrants :
+- lesnumeriques à 13:41 +142
 
 
 
