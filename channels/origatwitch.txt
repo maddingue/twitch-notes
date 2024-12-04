@@ -9170,7 +9170,92 @@ Le quatrième jeu a commencé son développement sur Unreal Engine 4 avant d'êt
 » Mac DeMarco → https://macdemarco.com
 - 📻 playlist de Mac DeMarco sur NTS → https://nts.live/shows/guests/episodes/mac-demarco-3rd-november-2020
 
-raids : OrigaTwitch => (15:27)[+675] JVleMag => (18:52)[+67] Modiiie => (00:01) Farore => (02:00)[+295] Raffi => passagallia => Arilyna => Bastila => Mrleledg => GALAXYZUG => SakuraTsubasa => youreBRAVERthanithought => (<14:36) Foxxy_Sly => (20:00) SallyMcSusan (>22:30) => (<01:48) IamSamyySweetheart (>:02:00) => kittykatxlove => (<10:14) Rozar => (10:52)[+29] EvilChick_n (>12:00) => (<17:01) MissOoky => (17:07) AshleighEmilia (>19:00) => (<20:14) GoodGameGizmo (lundi) (>02:30) => kwispyquackers => stillCasual => (08:18) cereal_streams => (09:52)[+29] mishellovesyou (>10:00) => Chexican18 => (<14:59) nick_reznee (mardi) (>02:15)
+raids : OrigaTwitch => (15:27)[+675] JVleMag => (18:52)[+67] Modiiie
+    (samedi) => (00:01) Farore => (02:00)[+295] Raffi => passagallia => Arilyna => Bastila => Mrleledg => GALAXYZUG => SakuraTsubasa => youreBRAVERthanithought => (<14:36) Foxxy_Sly => (20:00) SallyMcSusan (>22:30)
+    => (<01:48) IamSamyySweetheart (>:02:00) => kittykatxlove => (<10:14) Rozar => (10:52)[+29] EvilChick_n (>12:00) => (<17:01) MissOoky => (17:07) AshleighEmilia (>19:00) => (<20:14) GoodGameGizmo
+    (lundi) (>02:30) => kwispyquackers => stillCasual => (08:18) cereal_streams => (09:52)[+29] mishellovesyou (>10:00) => Chexican18 => (<14:59) nick_reznee
+    (mardi) (>02:15) => (<08:42) EnyaFaerie (>09:30) => ReikoMacchiato => Gaiety__ => (<20:07) MysticShadeDelight (>20:50)
+    => (<00:38) Purrodie (>01:40)
+
+
+--------------------------------------
+2024-12-03
+
+# Mardinale #34
+## Actus
+### Light of Motiram, quand Tencent singe Horizon
+» 🇺🇸 [Gematsu / 27 nov. 2024] ‘Mechanimal’ open-world survival crafting game Light of Motiram announced for PC, from Tencent subsidiary Polaris Quest → https://cutt.ly/heLJXwGN
+» ▶️ [YouTube / Gematsu / 28 nov. 2024] Light of Motiram - teaser trailer → https://youtu.be/5IPmpZFdNP4
+» 🇫🇷 [ActuGaming / 28 nov. 2024] Light of Motiram est un nouveau jeu de survie en monde ouvert très, très, très inspiré par Horizon → https://actugaming.net/a-685504
+
+### Playstation fête ses 30 ans avec des thèmes temporaires
+» ▶️ [YouTube / PlayStation / 2 déc. 2024] 30th Anniversary | Thank You → https://youtu.be/KkmonzpHVRg
+» 🇫🇷 [ActuGaming / 2 déc. 2024] PlayStation publie une vidéo spéciale pour fêter ses 30 ans et met en place une jolie surprise sur PS5 → https://actugaming.net/a-685930
+
+### Le nouveau Layton remontre sa ville à vapeur
+» 🇫🇷 [ActuGaming / 29 nov. 2024] Professeur Layton et le Nouveau Monde à vapeur nous donne un aperçu de sa localisation française dans un trailer → https://actugaming.net/a-685686
+
+### Après Plague Inc, After Inc Revival
+» [𝕏 / Ndemic Creations / 27 nov. 2024] 🧵 https://x.com/NdemicCreations/status/1861760636989968676
+> What happens after Plague Inc.?  
+> After Inc. a unique blend of strategic simulation, survival city builder and ‘mini 4X’.
+> The Necroa Virus has ravaged humanity, Build a settlement and shape your post-apocalyptic society.
+> Out now on iOS and Android!
+
+### Baldur's Gate 3 va recevoir des sous-classes bonus
+» 🇬🇧 [Eurogamer / 27 nov. 2024] Baldur's Gate 3 getting new subclasses, cross-play, and more next year. Public testing starts soon → https://cutt.ly/LeLDr8Vu
+» 🇫🇷 [ActuGaming / 27 nov. 2024] Le patch 8 de Baldur’s Gate 3 sera conséquent avec le mode Photo, le cross-play et 12 nouvelles sous-classes → https://actugaming.net/a-685444
+
+### Le DLC de Lies of P viserait le trimestre prochain
+» 🇰🇷 [EBN / 29 nov. 2024] 네오위즈, ‘P의 거짓’ 흥행 이을 차기작 'SF 생존 호러'. 내년 1분기 'P의 거짓' DLC 출시 기대감.  주가 반등 위한 신작 출시 필요해 → https://cutt.ly/BeXenS35
+» 🇺🇸 [VG24/7 / 29 nov. 2024] Lies of P will get some major DLC in Q1 2025, as Neowiz cracks on with a new survival horror game. A clear window into the future of Neowiz, courtesy of a Korean article → https://cutt.ly/YeXeb2HQ
+» 🇫🇷 [ActuGaming / 29 nov. 2024] Le DLC de Lies of P serait prévu pour le premier trimestre 2025, tandis que Neowiz travaille sur un jeu d’horreur → https://actugaming.net/a-685745
+
+### Ubisot Barcelona attaqué en justice par la CGT
+» 🇺🇸 [Games Industry / 25 nov. 2024] Report: Ubisoft Barcelona unions file lawsuit against return to office mandate. Ubisoft's decision was made "suddenly and without transparency," unions claim → https://cutt.ly/IeLprkMl
+» 🇫🇷 [Gamekult / 25 nov. 2024] Ubisoft Barcelone : la CGT espagnole attaque l'éditeur en justice sur le télétravail. Le dialogue social tourne au vinaigre → https://cutt.ly/3eXemcVo
+
+### 15 jeux NASCAR vont disparaître des boutiques
+» [𝕏 / Motorsport Games / 29 nov. 2024] 🧵 https://x.com/MSportgames/status/1862534587206836467
+> To the NASCAR game community!
+> From December 31, 2024, all NASCAR game titles and their DLC content will no longer be available for purchase on all digital storefronts but will remain available to play after this time. This includes the NASCAR Heat, NASCAR Rivals and NASCAR Ignition franchises.
+> Please lookout for various platform promotions this December to complete your NASCAR console game collection while you can!
+> We sincerely thank our community for the enthusiasm and support you’ve shown for these games over the years and hope you have enjoyed racing with us.
+
+» 🇬🇧 [Eurogamer / 3 déc. 2024] Forza Horizon 4 leaving Game Pass in the coming weeks → https://cutt.ly/ZeXemNo2
+
+» cf. fil de discussion 💬
+
+### Blizzard fait retirer Warcraft 1 et 2 de GOG
+» 🇺🇸 [Polygon / 2 déc. 2024] Warcraft: Orcs & Humans, Warcraft 2 pulled from GOG platform. Both games will be removed on Dec. 13 → https://polygon.com/news/488807/n
+» 🇫🇷 [ActuGaming / 2 déc. 2024] Blizzard va retirer de la vente Warcraft I et Warcraft II sur GOG, malgré la volonté de ce dernier de les préserver → https://actugaming.net/a-685948
+
+### Section 9 (par des anciens de Little Nightmares) signe avec Epic
+» [𝕏 / Section 9 Interactive / 26 nov. 2024] 🧵 https://x.com/section9int/status/1861425076135928190
+> We've entered a publishing partnership with @EpicPublishing ! Our team is very excited, as they've been tremendous partners in helping bring our creative vision to life.
+> We appreciate everyone's support along the way, and can't wait to share more soon!
+
+### Steam visé par une action en justice collective
+» 🇺🇸 [Games Industry / 28 nov. 2024] Wolfire and Dark Catt's antitrust lawsuit against Valve granted class action status. Legal dispute between studios and Steam firm originally began in 2021 → https://cutt.ly/UeLX7mm1
+» 🇫🇷 [Gamekult / 29 nov. 2024] Steam : une action collective en justice pourrait tout changer pour les développeurs → https://cutt.ly/UeZzsyfE
+
+### La région Pays de la Loire s'attaque au JV
+» 🦋 [BlueSky / 2 déc. 2024] 🧵 https://bsky.app/profile/atlangames.bsky.social/post/3lcczwu5wjc2h
+> 🔴 COMMUNIQUÉ
+> Suppression totale de l’aide publique régionale de la Région Pays de la Loire pour Atlangames
+> Depuis sa création en 2010, Atlangames, réseau dédié au développement de l’industrie du jeu vidéo dans le grand Ouest, s’est affirmé comme un acteur clé de l’écosystème local.
+> Rassemblant et fédérant des studios de développement et travailleur·euses indépendant·es du jeu vidéo, l’association a porté plus de 300 projets depuis près de 15 ans et a contribué à faire briller cette industrie au niveau régional, national et international.
+> Cependant, c’est avec une profonde incompréhension et une vive inquiétude que nous devons annoncer que la suppression prévue de l’aide publique régionale des Pays de la Loire, essentielle à notre fonctionnement, met en péril la survie même de l’association.
+
+» 🇫🇷 [ActuGaming / 2 déc. 2024] Mauvaise nouvelle pour le jeu vidéo français, l’association Atlangames qui regroupe plusieurs studios pourrait perdre ses aides → https://actugaming.net/a-685911
+
+### STALKER 2 visé par la désinformation russe
+» 🇺🇸 [404 media / 27 nov. 2024] Russian disinformation campaign spreads lies about Ukraine's ‘Stalker 2’ → https://cutt.ly/reZ05mdu
+» 🇬🇧 [Eurogamer / 2 déc. 2024] Stalker 2 reportedly target of Russian disinformation campaign claiming it's used to draft players into Ukraine war. "Boycott this game for your own safety." → https://cutt.ly/7eXec8zJ
+» 🇫🇷 [Gamekult / 2 déc. 2024] STALKER 2 : le studio GSC Game World visé par une campagne de désinformation russe → https://cutt.ly/1eZ049LY
+» 🇫🇷 [ActuGaming / 3 déc. 2024] STALKER 2: Heart of Chornobyl est victime d’une campagne de désinformation russe à propos de la guerre en Ukraine → https://actugaming.net/a-686014
+
+
 
 
 
@@ -9185,6 +9270,7 @@ raids : OrigaTwitch => (15:27)[+675] JVleMag => (18:52)[+67] Modiiie => (00:01) 
 » 🐘 [Mastodon] 
 
 » 🇫🇷 [ActuGaming] 
+» 🇫🇷 [Gamekult]
 » 🇫🇷 [Canard PC] 
 » 🇫🇷 [Frandroid] 
 » 🇫🇷 [Gamekult] 
