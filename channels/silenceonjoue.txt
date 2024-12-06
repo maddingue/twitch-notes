@@ -2151,7 +2151,7 @@ raids entrants :
 raids : SilenceOnJoue => (12:05)[+37] Woum__ => (13:53)[+41] DanteRosche (>18:00) => (<19:04) Pemdora => (19:34)[+28] LesMoulinsDuDev => (21:30)[+33] deafmute (>23:00) => Twidi_Angel => stevedev76 => (<10:00) GhostvOne (terminé à 11:35)
 
 --------------------------------------
-2024-10-11
+2024-10-18
 
 🎧 Silence on Joue ! - Reportage — Avec les salariés en grève chez Ubisoft → https://cutt.ly/YeSTCdVl
 🎧 Silence on joue ! bande annonce S18.E08 - Si vous deviez confier une licence à un autre studio... → https://cutt.ly/ueSO0xIs
@@ -2172,7 +2172,7 @@ SilenceOnJoue => (12:02)[+48] mamapaprika [OeilCarnivore=>(14:09)+5] => (14:44)[
 
 
 --------------------------------------
-2024-10-11
+2024-11-08
 
 🎧 Silence on joue ! S18.E11 - «Dragon Age: The Veilguard», «Windblown», «Clock Tower» → https://cutt.ly/qeHd3JsP
 
@@ -2195,13 +2195,13 @@ raids : SilenceOnJoue => (12:06)[+34] mamapaprika [Litsen_Lithenna=>(12:10)+8] (
 
 
 --------------------------------------
-2024-10-22
+2024-11-22
 
 🎧 Silence on joue ! S18.E13 - «Les Fourmis», «Threshold», «Metal Slug Tactics», «Shogun Shodown» → https://cutt.ly/jeKSg5YJ
 
 
 --------------------------------------
-2024-10-29
+2024-11-29
 
 🎧 Silence on joue ! S18.E14 - «S.T.A.L.K.E.R. 2», « Fear the Spotlight», «Tactical Breach Wizards» → https://cutt.ly/jeL3BtT7
 
@@ -2211,7 +2211,23 @@ Minishoot' Adventures, sorti le 2 avr. 2024 sur PC / Steam Deck
 développé par SoulGame Studio, studio de Argl & Kuhogan
 💻️ 15 € sur Steam (https://s.team/a/1634860), démo disponible
 
-raids : SilenceOnJoue => (12:10)[+26] Theo_Sacha => Ceizyl => (<00:57) MyoCorp_ => (01:52)[+52] InSoMniAkTTV (>02:00)
+raids : SilenceOnJoue => (12:10)[+26] Theo_Sacha => Ceizyl => (<00:57) MyoCorp_ => (01:52)[+52] InSoMniAkTTV (>02:00) => (<11:53) arrrrow_off => (20:25)[+13] Telethon_France (terminé à 23:10)
+
+
+--------------------------------------
+2024-12-07
+
+🎧 Gâchette Gauche #13 : Le jeu vidéo français en souffrance → https://cutt.ly/xeXAnBMZ
+🎧 Silence on joue ! S18.E15 - «Symphonia», «30 Birds», «Minishoot' Adventures» → https://cutt.ly/9eXAmaPJ
+
+Indiana Jones et le Cercle Ancien, sorti le 9 déc. 2024 sur Xbox Series et PC Windows ; annoncé pour début 2025 sur PlayStation 5
+édité par Bethesda, développé par MachineGames, studio suédois 🇸🇪 d'environ 160 personnes derrière les jeux _Wolfenstein_ récents : _The New Order_ (2014), _The Old Blood_ (2015), _The New Colossus_ (2017), _Youngblood_ (2019) → <https://indianajones.bethesda.net>
+réalisé par Jerk Gustafsson et Axel Torvenius, direction artistique par Mattias Astenvald, musiques par Gordy Haab
+🎮 80 € ou inclus dans le Game Pass sur Xbox (https://cutt.ly/keXU2Jax)
+🎮 80 € sur PlayStation (https://cutt.ly/reXU22vi)
+💻️ 70 € sur Steam (https://s.team/a/2677660)
+
+raid : SilenceOnJoue => (12:00)[+42] CanardPC (terminé à 12:51)
 
 
 
