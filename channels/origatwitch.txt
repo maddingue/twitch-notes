@@ -9385,7 +9385,7 @@ raids : OrigaTwitch => (15:27)[+675] JVleMag => (18:52)[+67] Modiiie
 raids entrants :
 - BastiUi à 14:00 +315
 
-raids : OrigaTwitch => (13:31)[+536] DollyWood_ (>18:00) => (<19:08) Pseudoless_1 => (19:12) Sturry316 => (19:47)[+147] ChezCody (samedi) (>00:00)
+raids : OrigaTwitch => (13:31)[+536] DollyWood_ (>18:00) => (<19:08) Pseudoless_1 => (19:12) Sturry316 => (19:47)[+147] ChezCody (samedi) (terminé à 03:03)
 
 
 
