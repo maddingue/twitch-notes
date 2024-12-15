@@ -9388,15 +9388,267 @@ raids entrants :
 raids : OrigaTwitch => (13:31)[+536] DollyWood_ (>18:00) => (<19:08) Pseudoless_1 => (19:12) Sturry316 => (19:47)[+147] ChezCody (samedi) (terminé à 03:03)
 
 
+--------------------------------------
+2024-12-10
 
+# Mardinale #35
+## Actus
+### Le million au lancement pour Path of Exile 2
+» 🇫🇷 [ActuGaming / 6 déc. 2024] Path of Exile 2 réunit déjà plus d’un million de personnes pour son accès anticipé, ce qui provoquera quelques bouchons → https://actugaming.net/a-686538
+» 🇫🇷 [Gamekult / 8 déc. 2024] Path of Exile 2 : plus de 500 000 joueurs en simultané pour le premier weekend sur le marché → https://cutt.ly/AeCNi0ia
+
+### Marvel Rivals fait 10 millions en 72h
+» 🇫🇷 [ActuGaming / 9 déc. 2024] Marvel Rivals dépasse la barre des 10 millions de joueurs en seulement 3 jours → https://actugaming.net/a-686924
+
+### Infinity Nikki a aussi fait 10 millions !
+» 🇫🇷 [ActuGaming / 9 déc. 2024] Infinity Nikki atteint lui aussi le cap des 10 millions de téléchargements → https://actugaming.net/a-686967
+
+### EA libère 23 brevets liés à l'accessibilité
+» 🇺🇸 [Electronic Arts] Accessibility Portal → https://ea.com/accessibility
+» 🇺🇸 [Electronic Arts / 5 déc. 2024] EA pledges 23 more accessibility patents and open sources more tech. Six audio and sound technologies as well as photosensitivity analysis plugin to help open gaming for more players → https://cutt.ly/GeCNfdCd
+» 🇺🇸 [Games Industry / 5 déc. 2024] EA expands free library of accessibility patents to make more games inclusive. 23 new patents include photosensitivity analysis plugins and intelligent speech recognition → https://cutt.ly/weXRXUgG
+
+### La société de presse Future signe avec OpenAI
+» 🇺🇸 [OpenAI / 4 déc. 2024] OpenAI and Future partner on specialist content. Future’s 200+ brands will bring a broad range of news and lifestyle content to ChatGPT → https://cutt.ly/meXRJ6LN
+» 🇫🇷 [Gamekult / 5 déc. 2024] Future Publishing (Edge, GamesRadar, PC Gamer) signe un deal de création de contenu avec OpenAI. Nécrologie d'un journaliste → https://cutt.ly/jeXRDtMZ
+» fil de discussion 💬
+
+### itch.io mis en danger par un outil IA de la société Funko
+» [𝕏 / itch.io / 9 déc. 2024] 🧵 https://x.com/itchio/status/1866017758040993829
+> I kid you not, itchio has been taken down by Funko because they use some trash "AI Powered" Brand Protection Software called BrandShield that created some bogus Phishing report to our registrar, iwantmyname, who ignored our response and just disabled the domain
+> I hope you are all having a nice Sunday evening
+> Also, for transparency, we *did* take the disputed page down as soon as we got the notice because it's not worth fighting stuff like that. Regardless, our registrar's automated system likely kicked to disable the domain since no one read our confirmation of removal.
+
+» [𝕏 / itch.io / 9 déc. 2024] 🧵 https://x.com/itchio/status/1866239798924763227
+> This is not a joke, Funko just called my mom
+> > **Message from Mom**
+> > Got a strange call from a company about accusatory statements on your social media account. Call me.
+
+» 🇫🇷 [ActuGaming / 9 déc. 2024] Itch.io, l’un des plus grands sites d’hébergement de jeux vidéo, a été mis hors-ligne à cause de Funko (Funko Pop) → https://actugaming.net/a-686943
+» 🇫🇷 [Gamekult / 9 déc. 2024] Funko Pop laisse de côté le fun et met hors service itch.io. Alors, pourquoi il y a le mot Fun dans Funko ? → https://cutt.ly/EeCNvDtC
+» fil de discussion 💬
+
+### Raf Grassetti (God of War) rejoint Naughty Dog
+» 🇫🇷 [ActuGaming / 9 déc. 2024] Raf Grassetti, le directeur artistique de God of War et God of War Ragnarok, rejoint Naughty Dog → https://actugaming.net/a-686994
+» 🇫🇷 [Gamekult / 10 déc. 2024] Naughty Dog (The Last of Us) récupère le directeur artistique de God of War Ragnarok → https://cutt.ly/peCNhxNI
+
+### The Thing Remastered est sorti en surprise
+The Thing: Remastered, sorti le 5 déc. 2024 sur PlayStation, Xbox et PC / Steam Deck
+développé par Nightdive Studios, studio américain 🇺🇸 derrière de nombreux remakes de vieux jeux → <https://nightdivestudios.com/the-thing-remastered/>
+🎮 30 € sur PlayStation (<https://cutt.ly/seCNk8mi>)
+🎮 31,50 € sur Xbox (<https://cutt.ly/BeCNlj6b>)
+💻️ 29 € sur Steam (<https://s.team/a/2958970>) et GOG (<https://cutt.ly/ReXSIb73>)
+
+» 🇫🇷️ [Gamekult / 4 déc. 2025] **The Thing Remastered sortira dès le 5 décembre** → <https://cutt.ly/EeXANQsD>
+» 🇺🇸 [Syfy Wire / 27 nov. 2024] **The Thing: Remastered fixes major issue from original game, developer confirms** → <https://cutt.ly/1eXA30oJ>
+
+### Legacy of Kain: Soul Reaver 1 & 2
+Legacy of Kain: Soul Reaver 1 & 2 Remastered, sorti le 10 déc. 2024 sur Switch, PlayStation, Xbox et PC / Steam Deck
+🎮 30 € sur PlayStation (<https://cutt.ly/6eCNmp03>) et Xbox (<https://cutt.ly/reCNmnRK>)
+💻️ 29 € sur Steam (<https://s.team/a/2521380>) et GOG (<https://cutt.ly/BeCNn0Hc>)
+
+» 🇫🇷️ [Gamekult / 10 déc. 2025] **Legacy of Kain : Soul Reaver 1 & 2 Remastered - résurrection glorieuse d’une révolution silencieuse** → https://cutt.ly/ceCNcaY3
+
+### Le calendrier du début d'année se REMPLIT
+» ▶️ [YouTube] INDIE Live Expo 2024.12.7 (English) → https://youtu.be/Vy8hA7qKAdk (3 h)
+
+» ▶️ [YouTube] PC Gaming Show: Most Wanted 2024 → https://youtu.be/c4Y3GMbaV3s (2 h 42 min)
+» 🇬🇧 [PC Gamer / 5 déc. 2024] Every game, trailer, and announcement in the 2024 PC Gaming Show: Most Wanted. This year's showcase featured over 80 games to look forward to in the new year → https://cutt.ly/weCNT14e
+
+### Torn Banner (Chivalry) licencie
+» 🇺🇸 [LinkedIn / Torn Banner Studios / 3 déc. 2024] A message from Steve Piggott, Torn Banner Studios CEO & Creative Director → https://cutt.ly/TeXeAUhT
+» 🇺🇸 [Game Developer / 3 déc. 2024] Torn Banner Studios cuts staff after No More Room in Hell 2's EA launch. The developer affirmed it was committed to fixing No More Room in Hell 2's issues and growing the game into a full, 1.0 release for a 2025 launch → https://cutt.ly/AeXeAjoC
+» 🇺🇸 [Game Developer / 10 déc. 2024] People Can Fly restructures studio by laying off 120 devs and icing projects. The Outriders and Bulletstorm creator is 'tailoring plans to our financial capacity' by going back to work-for-hire and prioritizing a single independent project → https://cutt.ly/yeCNapU4
+
+### Illfonic (Friday 13th) licencie
+» [𝕏 / IllFonic / 4 déc. 2024] 🧵 https://x.com/IllFonic/status/1864369606988632330
+> Today we had to accept the harsh reality that the state of the industry has impacted us here at IllFonic.
+> It is with the heaviest of hearts that cuts to our teams had to be made today as we re-aligned to a refined strategy.
+> There is a lot of talent in this group and if you or your team is hiring, please reach out so people can be connected to open roles.
+> Thank you. -- Charles Brungardt
+
+» 🇺🇸 [Games Industry / 4 déc. 2024] IllFonic "re-aligns to a refined strategy" as it makes "cuts" to its teams. It's unclear how many staff have been impacted by the cuts → https://cutt.ly/aeXh7Y9H
+» 🇺🇸 [Game Developer / 3 déc. 2024] Killer Klowns dev Illfonic 'realigns' studio by cutting staff → https://cutt.ly/3eCNOCv4
+» 🇫🇷 [ActuGaming / 5 déc. 2024] Le studio IllFonic (Friday the 13th, Predator: Hunting Grounds) annonce à son tour une restructuration et des licenciements → https://actugaming.net/a-686302
+
+### Deck Nine (Life is Strange) licencie
+» [𝕏 / Deck Nine Games / 6 déc. 2024] 🧵 https://x.com/DeckNineGames/status/1865138496601575468
+> Today, we are sad to share the news that we must say goodbye to some of our talented team members. This was an extremely difficult decision and reflects the challenging times many companies in our industry are facing. […]
+
+» [𝕏 / Felice Kuan / 8 déc. 2024] 🧵 https://x.com/felicekuan/status/1865559764735857044
+> Yesterday, I and the remainder of my writers were among the many layoffs at Deck Nine Games.
+> After the bittersweetness of launching Life is Strange Double Exposure without most of the narrative team, it feels fitting that we are finally united on the other side.
+> I adore LiS: Double Exposure and the opportunity it gave us to tell stories we hadn’t seen before.
+> For me, LiS: DE is encapsulated by one moment in particular that came from no other source but us.
+> LiS:DE is about marginalized creatives fighting to keep their jobs within an institution that cares more about covering up scandal and finding scapegoats.
+> If you take one message from our game, let it be that you may need supernatural powers to change the status quo.
+> In LiS: DE, we gave a queer woman the ability to refuse an untenable situation and shape it into a better one.
+> May Max be an inspiration to all of us.
+> When I look back at the moments in the LiS franchise I’ve been most proud to write, I notice they’re all about the meaning two people can bring to each others’ lives. I am so grateful for the people who have been with me on this journey, that I still have today.
+> The most brilliant and principled narrative leads in the world: Deandra Warrick, Mallory Littleton, and Aysha U. Farah.
+> My incredible writers and narrative designers: Andy Auseon, Elizabeth Ballou, Giselle Francis, Zipporah Smith, and James F. Wright.
+> Philip Lawrence and Izzy Jagan, who fought for us on the other side of the world, and the folks still at D9 giving their all to the next project.
+> But most especially Jonathan Stauder, who will undoubtedly ascend to a higher plane for all the hits he has taken for others.
+> Thank you, Life is Strange fans, for all of your love, support, and passion these last eight years. I believe games can change lives, and I know you do, too. 💙
+> 73 days until Lost Records!
+
+» [𝕏 / AdnanRiaz9 / 8 déc. 2024] 🧵 https://x.com/AdnanRiaz9/status/1865728899277041667
+> Updated D9 list:
+> 
+> ➡️ Jonathan Stauder (DE dir)
+> ➡️ Felice Kuan (DE nr dir)
+> ➡️ Aysha Farah (DE writ)
+> ➡️ James Wright (DE writ)
+> ➡️ Lauren Parker (DE prod)
+> ➡️ Julian Bell (DE prod)
+> ➡️ John Welter
+> ➡️ Justin Maio
+> ➡️ Marcel Oyuela-Bonzani
+> ➡️ Joel Hasse
+> ➡️ Chad Gleason
+> ➡️ Tim Healey
+
+» 🇺🇸 [IGN / 5 avril 2024] **How hidden Nazi symbols were the tip of a toxic iceberg at Life Is Strange developer Deck Nine.** Inside the developer of Life Is Strange's internal struggles with toxicity, hate speech, crunch, and more → <https://cutt.ly/Ow4RN1gR>
+» 🇬🇧 [Metro / 18 nov. 2024] Square Enix accused of abusing copyright law to silence fan criticism → https://cutt.ly/qeCgSDX5
+
+» fil de discussion 💬
+
+### Ubisoft x Tencent : la sortie des marchés reste d'actualité
+» 🇺🇸 [Reuters / 6 déc. 2024] Ubisoft shareholders in talks over possible buyout terms, sources say → https://cutt.ly/OeCNrAFc
+» 🇺🇸 [Games Industry / 9 déc. 2024] Tencent and Guillemot Brothers' Ubisoft buyout reportedly held up by dispute over control. Guillemot family hopes to retain leadership while Tencent vying for greater influence over future board decisions → https://cutt.ly/feCN0AYw
+» ▶️ [YouTube / Origami / 8 oct. 2024] La Mardinale #29 — Ouvrez les Guillemots → https://youtu.be/_EcAVL2KC-k
+» fil de discussion de l'émission avec les liens 💬
+» fil de discussion de l'info récente 💬
+
+### Arrêt de XDefiant, fermeture d'Ubisoft San Franciso et Osaka
+(reprise des liens précédents)
+
+### Rocksteady cesse les travaux sur Suicide Squad
+» 🇺🇸 [Suicide Squad / 9 déc. 2024] Season 4 deep dive → https://cutt.ly/BeCNtXdL
+» 🇫🇷 [ActuGaming / 10 déc. 2024] Fin de parcours pour Suicide Squad: Kill the Justice League, la saison 4 du jeu sera la dernière → https://actugaming.net/a-687080
+» 🇫🇷 [ActuGaming / 10 déc. 2024] Avant son clap de fin, Suicide Squad ramène Deathstroke pour sa dernière saison. Il y a de l'eau dans le GaaS → https://cutt.ly/teCN4rLm
+» fil de discussion 💬
+» forum de discussion des deux qui y jouent 💬
+
+
+--------------------------------------
+2024-12-13
+
+# L'Hebdo #45
+## Actus
+### La semaine
+» 🇫🇷 [PlayStation Blog / 11 déc. 2024] Astro Bot  : La mise à jour Festival Hivernal sort demain → https://cutt.ly/ieVRhQOX
+» 🇫🇷 [ActuGaming / 11 déc. 2024] Astro Bot célèbre la fin d’année avec une nouvelle mise à jour sur le thème de l’hiver et un niveau bonus → https://actugaming.net/a-687229
+
+» despelote, annoncé pour 2025 sur PlayStation, Xbox et PC / Steam Deck ; développé par Julián Cordero, Sebastian Valbuena → https://despelotegame.com | https://s.team/a/2367820
+» Chained Echoes: Ashes of Elrant, annoncé pour Q2 2025 sur Switch, PlayStation, Xbox, Windows, Mac, Linux, Steam Deck → https://chainedechoes.com | https://s.team/a/3350260
+» Monument Valley 3, sorti le 10 déc. 2024 sur iOS et Android ; développé par ustwo games → https://go.ustwo.games/mv3
+» Warcraft Rumble, maintenant disponible sur Battle.net → https://warcraftrumble.blizzard.com
+» [𝕏 / Arginauts / 5 déc. 2024] 🧵 https://x.com/ArgonautGames_/status/1865093859237056975
+> […] We have decided to push the launch into Q1 2025 […]
+
+» 🇫🇷 [ActuGaming / 11 déc. 2024] Hyper Light Breaker annonce son accès anticipé sur Steam le 14 janvier 2025 → https://actugaming.net/a-687204
+» ▶️ [YouTube / NoClip / 21 mai 2024] Embracing Chaos - How Hyper Light Breaker Survived 2023 → https://youtu.be/z6DbJldbMR0 (27 min)
+
+» 🇫🇷 [ActuGaming / 11 déc. 2024] People Can Fly, le studio derrière Outriders, licencie plus de 120 de ses employés → https://actugaming.net/a-687200
+
+» TOEM 2, annoncé sur Switch, PlayStation, Xbox, Windows, Mac, Linux et Steam Deck ; développé par Something We Made → https://s.team/a/2900640
+» The Talos Principle: Reawakened, annoncé sur PlayStation, Xbox et PC / Steam Deck → https://thetalosprinciple.com/reawakened | https://s.team/a/2806640
+» 🇺🇸 [Rock Paper Shotgun / 11 déc. 2024] Path Of Exile 2 is so "severely overloaded" by players that Grinding Gear are hiring new support staff. Developers apologise for delayed replies to support requests → https://cutt.ly/xeVDZreX
+
+### Game Awards 2024
+» 🇫🇷 [ActuGaming / 13 déc. 2024] Game Awards 2024 : Voici le résumé de toutes les annonces à retenir (The Witcher 4, Elden Ring Nightreign, Okami 2…) → https://actugaming.net/a-686954
+» ▶️ [YouTube] Intergalactic: The Heretic Prophet → https://youtu.be/V0x8olX_p3o
+» ▶️ [YouTube] The Witcher 4 → https://youtu.be/yWMu6JeT2g8
+» ▶️ [YouTube] Elden Ring Nightreign → https://youtu.be/YIkgOUKTAn8
+» ▶️ [YouTube] Split Fiction → https://youtu.be/9CWilpm49rU
+» ▶️ [YouTube] Okami 2 (Sequel) → https://youtu.be/Y5A83J2rBCE
+» ▶️ [YouTube] Onimusha: Way of the Sword → https://youtu.be/ZPvrzaC44pc
+» ▶️ [YouTube] Project Century → https://youtu.be/-hihuPFku9I
+» ▶️ [YouTube] Mafia: The Old Country → https://youtu.be/KI-sFV32SmM
+» ▶️ [YouTube] New VIRTUA FIGHTER Project → https://youtu.be/pmeGL2JP9N0
+» ▶️ [YouTube] Ninja Gaiden: Ragebound → https://youtu.be/pELx25XLsCM
+» ▶️ [YouTube] Rematch → https://youtu.be/tqd3riJmFIs
+» ▶️ [YouTube] The First Berserker: Khazan → https://youtu.be/i8-zqnCGX18
+» ▶️ [YouTube] The Outer Worlds 2 → https://youtu.be/yUI-EIS0nnw
+
+» ▶️ [YouTube] Borderlands 4 → https://youtu.be/P26c__EHyFQ
+» ▶️ [YouTube] Turok Origins → https://youtu.be/Cs4PW9oOPlQ
+» ▶️ [YouTube] Untitled Project by Fumito Ueda of GenDesign → https://youtu.be/GLtyQBCeSuM
+
+### Atlangames
+Intervenant⋅e⋅s
+- **Marie-Charlotte Ynesta**, déléguée générale de SO Games → 🏢 https://linkedin.com/in/mynesta
+- **Florent de Grissac**, co-fondateur du studio Casus Ludi → 𝕏 https://x.com/florentdgrissac
+- **Sasha Bernert**, artiste chez Umbra Rebellium → 🏢 https://linkedin.com/in/sashabernert
+
+» 🦋 [BlueSky / Atlangames / 2 déc. 2024] 🧵 https://bsky.app/profile/atlangames.bsky.social/post/3lcczwu5wjc2h
+> 🔴 COMMUNIQUÉ
+> Suppression totale de l’aide publique régionale de la Région Pays de la Loire pour Atlangames
+> Depuis sa création en 2010, Atlangames, réseau dédié au développement de l’industrie du jeu vidéo dans le grand Ouest, s’est affirmé comme un acteur clé de l’écosystème local.
+> Rassemblant et fédérant des studios de développement et travailleur·euses indépendant·es du jeu vidéo, l’association a porté plus de 300 projets depuis près de 15 ans et a contribué à faire briller cette industrie au niveau régional, national et international.
+> Cependant, c’est avec une profonde incompréhension et une vive inquiétude que nous devons annoncer que la suppression prévue de l’aide publique régionale des Pays de la Loire, essentielle à notre fonctionnement, met en péril la survie même de l’association.
+
+» 🇫🇷 [ActuGaming / 2 déc. 2024] Mauvaise nouvelle pour le jeu vidéo français, l’association Atlangames qui regroupe plusieurs studios pourrait perdre ses aides → https://actugaming.net/a-685911
+
+» [SNJV] Baromètre annuel du jeu vidéo en France édition 2023 → https://frenchgamesmap.fr/media/download/barometre-2022.pdf
+
+» 🇫🇷 [Canard PC] Comment l'assurance chômage tient la scène indé à bout de bras → https://cutt.ly/AeVDdDGp
+
+» fil de discussion 💬
+
+
+## Jeux
+
+### Path of Exile 2
+» Path of Exile 2, en accès anticipé le 6 déc. 2024 sur à 28 € PlayStation 5, Xbox Series et PC / Steam Deck → https://pathofexile2.com
+- en accès anticipé le 6 déc. 2024 pour une année, le jeu deviendra gratuit à sa sortie finale
+- développé par Grinding Gear Games, studio néo-zélandais 🇳🇿🥝 d'une centaine de personnes derrière _Path of Exile_ (2013) → <https://pathofexile2.com>
+
+🎮 28 € ou + sur PlayStation (<https://cutt.ly/teXH10bh>) et Xbox (<https://cutt.ly/OeXH0t8M>)
+💻️ 28 € ou + sur Steam (<https://s.team/a/2694490>) et EGS (<https://cutt.ly/zeXH06V4>)
+
+
+### Indiana Jones et le Cercle Ancien
+» Indiana Jones et le Cercle Ancien, sorti le 9 déc. 2024 à 70 € sur Xbox Series et PC Windows, en début 2025 sur PlayStation 5 ; développé par MachineGames → https://indianajones.bethesda.net
+- sorti le 9 déc. 2024 sur Xbox Series et PC Windows, en début 2025 sur PlayStation 5
+- édité par Bethesda, développé par MachineGames, studio suédois 🇸🇪 d'environ 160 personnes derrière les jeux _Wolfenstein_ récents : _The New Order_ (2014), _The Old Blood_ (2015), _The New Colossus_ (2017), _Youngblood_ (2019) → <https://indianajones.bethesda.net>
+- réalisé par Jerk Gustafsson et Axel Torvenius, direction artistique par Mattias Astenvald, musiques par Gordy Haab
+
+🎮 70 € ou inclus dans le Game Pass sur Xbox (<https://cutt.ly/keXU2Jax>)
+🎮 70 € sur PlayStation (<https://cutt.ly/reXU22vi>)
+💻️ 70 € sur Steam (<https://s.team/a/2677660>)
+
+» ▶️ [YouTube / Origami / 6 déc. 2024] La première heure d'Indiana Jones et le Cercle Ancien (Gameplay PC / VF) → https://youtu.be/89m_dMHZ4eI
+» ▶️ [YouTube / Digital Foundry / 6 déc. 2024] Indiana Jones And The Great Circle - Digital Foundry tech review - Xbox Series X|S - HDR video → https://youtu.be/b8I4SsQTqaY (25 min)
+» ▶️ [YouTube / Digital Foundry / 7 déc. 2024] Indiana Jones and the Great Circle - PC tech review - Best settings, DF optimised + Xbox vs PC → https://youtu.be/xbvxohT032E (15 min)
+
+1937, c'est après le Temple maudit (1935) et les Aventuriers de l'arche perdue (1936) mais avant la Dernière Croisade (1938, 1939) et le Mystère de l'Atlantide (1939)
+
+Les Aventuriers de l'arche perdue : 1936
+Indiana Jones et le Temple maudit : 1935
+Indiana Jones et la Dernière Croisade : 1938, 1939
+le mystère de l'Atlantide : 1939
+
+» 🇺🇸 [Aftermath / 12 déc. 2024] Objects to hit fascists with in Indiana Jones, Ranked. I've been playing Indiana Jones and The Great Circle and have constructed a ranking internally → https://cutt.ly/NeVDRnqh
+
+## Mais pas que
+### Héloïse
+» 📰 La Déferlante, tous les trois mois → https://revueladeferlante.fr
+- 🇫🇷 [La Déferlante / 21 oct. 2024] Violences sexuelles : des artistes racisées prennent la parole → https://cutt.ly/8eVFtzWq
+
+
+
+
+» 💬
 » 📄 
 » 🇺🇸 
 » 🇫🇷 
 » 🇯🇵 
 » ▶️ [YouTube] 
 » 🐦 [Twitter] 
-» [𝕏 (ex Twitter)] 🧵
-» 🦋 [BlueSky] 🧵
+» 𝕏 [X / xxx] 🧵 
+» 🦋 [BlueSky] 🧵 
 » 🐘 [Mastodon] 
 
 » 🇫🇷 [ActuGaming] 
@@ -9416,7 +9668,7 @@ raids : OrigaTwitch => (13:31)[+536] DollyWood_ (>18:00) => (<19:08) Pseudoless_
 
 » retrouvez Origami sur vos réseaux : 💬 https://discord.gg/5DMdurCBfn | 🐦 https://twitter.com/OrigaTwi | 🦋 https://bsky.app/profile/origasky.bsky.social | 📷 https://instagram.com/origagram/ | 📺 https://youtube.com/@origatube | ♪ https://tiktok.com/@origatik | 💰 https://patreon.com/OrigamiMedia
 
-🌴 https://origami.ng
+🌴 Origami le portail web → https://origami.ng
 📡 Origami sur Twitch → https://twitch.tv/origatwitch
 💬 Origami sur Discord → https://discord.gg/5DMdurCBfn
 🐦 Origami sur Twitter → https://twitter.com/OrigaTwi
@@ -9443,6 +9695,6 @@ raids : OrigaTwitch => (13:31)[+536] DollyWood_ (>18:00) => (<19:08) Pseudoless_
 » Yamukass / Marion Bargiacchi → 🦋 https://bsky.app/profile/yamukass.bsky.social | 𝕏 https://twitter.com/S_Yamukass
 
 les copains :
-🦊 Seldell → 📰 https://indiemag.fr | 📡 https://twitch.tv/Seldell | 📺 https://YouTube.com/@Seldell
+🦊 Seldell → 📰 https://indiemag.fr | 📡 https://twitch.tv/Seldell | ▶️ https://YouTube.com/@Seldell
 🩸 DollyWood_ → 📡 https://twitch.tv/dollywood_ | ▶️ https://youtube.com/@DollyWoodYT
 📰 Gâchette Gauche, le rendez-vous de la presse JV, tous les derniers lundis du mois ou presque, sur la chaîne Twitch de Silence on joue → https://twitch.tv/silenceonjoue
