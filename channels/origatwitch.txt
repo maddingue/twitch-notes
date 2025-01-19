@@ -9775,7 +9775,7 @@ Medhi
 --------------------------------------
 2025-01-07
 
-# Mardinale #35
+# Mardinale #36
 ## Actus
 ### Nvidia dévoile les RTX 5000 et son DLSS4
 » 🇫🇷 [ActuGaming / 7 jan. 2025] NVIDIA dévoile ses cartes GeForce RTX série 50, tout savoir (DLSS 4, date, prix…) → https://actugaming.net/a-693589
@@ -9947,6 +9947,237 @@ What a great way to start 2025! ✨
 » 🎦 **Borderlands** (2024), 101 min, écrit et réalisé par Eli Roth, coécrit par Joe Crombie, musiques par Steve Jablonsky, avec Cate Blanchett, Kevin Hart, Jamie Lee Curtis, Jack Black, Ariana Greenblatt
 
 
+--------------------------------------
+2025-01-14
+
+# Mardinale #37
+## Actus
+### Assassin's Creed Shadows repoussé, de gros changements à prévoir chez Ubi
+» 🇫🇷 [ActuGaming / 9 jan. 2025] Assassin’s Creed Shadows est une nouvelle fois repoussé tandis qu’Ubisoft fait le point sur son avenir incertain → https://actugaming.net/a-694284
+» 🇫🇷 [Gamekult / 9 jan. 2025] Ubisoft : l'éditeur fait le point sur sa restructuration interne et veut remettre la "qualité" en avant → https://cutt.ly/qe2KkVso
+» 🇺🇸 [Games Industry / 10 jan. 2025] Ubisoft appoints advisors to oversee "strategic options". Assassin's Creed Shadows delayed by a month as part of ongoing reviews → https://cutt.ly/we2KxCK1
+» fil de discussion 💬
+
+### Un Xbox Dev Direct en approche avec un jeu mystère
+» 🇫🇷 [Xbox Wire / 9 jan. 2025] Le Developer_Direct de Xbox est de retour : rendez-vous le 23 janvier → https://cutt.ly/Je9mZZua
+
+» 🇫🇷 [ActuGaming / 14 jan. 2025] Ecco the Dolphin pourrait revenir dans un nouveau jeu, SEGA enregistre à nouveau la marque → https://actugaming.net/a-695417
+
+### Un Smash-MOBA-like incubé par Bungie chez Playstation
+» 🇺🇸 [Forbes / 11 jan. 2025] More details leak about Bungie’s ‘Gummy Bears’ live game for Sony → https://cutt.ly/pe9mFyRP
+» 🇺🇸 [TheGamePost / 10 jan. 2025] Details on Bungie’s MOBA-Smash Bros hybrid Gummy Bears, under new PlayStation Studio → https://cutt.ly/0e9mDHnl
+» 🇫🇷 [ActuGaming / 13 jan. 2025] Le MOBA initialement en développement chez Bungie (Destiny) est au cœur d’une nouvelle fuite avec des détails inédits → https://actugaming.net/a-695144
+» fil de discussion 💬
+
+### Des anciens de CDProjekt dévoilent The Blood of the Dawnwalker
+» 🇺🇸 [Kotaku / 14 jan. 2025] Ex-Witcher devs tease new vampire RPG and it looks really cool. Rebel Wolves has revealed _The Blood of Dawnwalker_, bring on _Cyberpunk 2077_ quest designer → https://kotaku.com/n-1851739294
+» 🇫🇷 [ActuGaming / 13 jan. 2025] The Blood of Dawnwalker : Découvrez les premières images de cet action-RPG en monde ouvert, par des vétérans de The Witcher 3 → https://actugaming.net/a-695352
+» fil de discussion 💬
+
+### Une application native GeForce Now pour Steam Deck
+» 🇫🇷 [Frandroid / 7 jan. 2025] Steam Deck va embarquer GeForce Now nativement, et ça change tout → https://cutt.ly/fe9mC0dq
+
+### Fermeture et licenciements autour de MechWarrior 5
+» 🇺🇸 [Game Developer / 10 jan. 2025] Enad Global 7 shuts down Toadman, cuts staff at MechWarrior dev Piranha Games. Toadman began as a work-for-hire studio, and later became a direct subsidiary of its reformed parent company, Enad Global 7 → https://cutt.ly/1e2KvJMc
+» 🇫🇷 [Gamekult / 13 jan. 2025] Le groupe suédois EG7 ferme Toadman Interactive (Evil V Evil) et licencie chez Piranha Games (MechWarrior) → https://cutt.ly/6e9mByEd
+
+### Counterplay (Duelyst, Godfall) aurait silencieusement fermé
+» 🇫🇷 [ActuGaming / 13 jan. 2025] Counterplay Games, le studio derrière Godfall, ne serait plus en activité depuis l’échec du jeu → https://actugaming.net/a-695133
+» 🇫🇷 [Gamekult / 13 jan. 2025] Counterplay Games : le début de la fin pour le studio de Godfall → https://cutt.ly/Ae9mBPzl
+
+### Freejam (Robocraft) va fermer
+» 🇺🇸 [TechRaptor / 9 jan. 2025] Robocraft 2 canceled as developer Freejam shuts down → https://cutt.ly/je9m1kY9
+» 🇺🇸 [Game Developer / 9 jan. 2025] Robocraft 2 developer Freejam shuts down. 'Freejam has been a family to all of us, and [the players] have been a part of that. [...] From all of us here, thank you so much for joining us on this journey.' → https://cutt.ly/De9m1Qtz
+
+### Des licenciements chez Splash Damage
+» 🇺🇸 [Games Industry / 8 jan. 2025] Splash Damage jobs at risk following Transformers: Reactivate cancellation. UK studio says the decision "did not come lightly" → https://cutt.ly/oe2KcECj
+» 🇫🇷 [ActuGaming / 8 jan. 2025] Le jeu d’action en coopération Transformers Reactivate est annulé chez le studio Splash Damage → https://actugaming.net/a-694132
+
+### Des licenciements chez Rocksteady
+» 🇬🇧 [Eurogamer / 7 jan. 2025] Suicide Squad: Kill the Justice League developer Rocksteady hit by end-of-year layoffs. Yet more jobs lost at Arkham studio → https://cutt.ly/ye2KsO81
+» 🇫🇷 [ActuGaming / 8 jan. 2025] Après l’échec de Suicide Squad: Kill the Justice League, les licenciements continuent chez Rocksteady → https://actugaming.net/a-693976
+
+### La Switch 2 en passe d'être dévoilée ?
+» 🇫🇷 [Gamekult / 9 jan. 2025] Devant les fuites, la Switch 2 à deux doigts d'être enfin dévoilée par Nintendo → https://cutt.ly/Ce9mMt4S
+» 🇺🇸 [Kotaku / 13 jan 2025] Nintendo is reportedly just days away from announcing the Switch 2. Insiders claim the mid-January hardware reveal will be followed by a games showcase at a later date → https://kotaku.com/n-1851738104
+
+### L'AGDQ 2025 lève 2,4 millions de dollars contre le cancer
+» 🇫🇷 [Gamekult / 13 jan. 2025] AGDQ 2025 : le marathon caritatif lève 2,5 millions contre le cancer, et 54 millions de dollars en 15 ans → https://cutt.ly/Se9m04PH
+» ▶️ [YouTube] Awesome Games Done Quick 2025 → https://cutt.ly/Je9m3suE
+» fil de forum autour des GDQ 💬
+
+
+--------------------------------------
+2025-01-17
+
+# L'Hebdo #48
+## Actus
+### La semaine
+» 🇬🇧 [VGC / 15 jan. 2025] Tencent and the Guillemot family are considering moving Ubisoft assets to a new venture, it’s claimed. Ubisoft’s founding family may create a new entity and move some Ubisoft assets over to it → https://cutt.ly/ye93IagA
+» 🇫🇷 [Gamekult / 15 jan. 2025] Ubisoft : la famille Guillemot et Tencent envisagent de créer une nouvelle entreprise en commun, pour intégrer une partie d'Ubisoft dedans → https://cutt.ly/Ce3xEY8J
+
+» 🇫🇷 [STJV / 12 jan. 2025] DON’T NOD – Appel à la grève à partir du Lundi 13 Janvier 2025 → https://cutt.ly/Se22yO0j
+» 🇫🇷 [ActuGaming / 13 jan. 2025] DON’T NOD : Un appel à une grève reconductible a été lancé et prend effet dès aujourd’hui au sein du studio → https://actugaming.net/a-695122
+
+» 🇫🇷 [ActuGaming / 13 jan. 2025] Un mois après sa sortie, Marvel Rivals est plus populaire que jamais et bat son record de fréquentation sur Steam → https://actugaming.net/a-694955
+» 🇬🇧 [Metro / 14 jan. 2025] Marvel Rivals interview – how to make a hit live service game → https://cutt.ly/ue3xUsV6
+» 🇫🇷 [ActuGaming / 15 jan. 2025] Marvel Rivals aura droit à un moins un nouveau héros toutes les six semaines, soit deux par saison → https://actugaming.net/a-695593
+» 🇫🇷 [ActuGaming / 15 jan. 2025] Marvel’s Spider-Man 2 s’invite dans Marvel Rivals avec un costume pour l’Homme-Araignée → https://actugaming.net/a-695893
+
+» 🇫🇷 [Gamekult / 14 jan. 2025] Project Pantheon : Wolcen Studio revient avec une fusion de Diablo et Escape from Tarkov → https://cutt.ly/Ae3xODmF
+» 🇫🇷 [ActuGaming / 15 jan. 2025] Après Wolcen Lords of Mayhemn Wolcen Studio revient avec Project Pantheon, décrit comme un « ExtrAction RPG » → https://actugaming.net/a-695867
+
+» 🇫🇷 [Gamekult / 15 jan. 2025] Forest Reigns : les ex-développeurs de STALKER préparent un FPS post-apocalyptique à Paris → https://cutt.ly/Qe3xPJvv
+» Forest Reigns, annoncé sur PC ; développé par VG Entertainment (ex Vostok Games), studio ukrainien derrière _Survarium_ (2012, 2015) → https://forestreigns.com | https://s.team/a/3325070
+
+» ▶️ [YouTube / IGN / 15 jan. 2025] Promise Mascot Agency - exclusive voice cast announcement trailer → https://youtu.be/WQOxgxvtFaw
+
+### Switch 2
+» ▶️ [YouTube / Nintendo France 16 jan. 2025] Nintendo Switch 2 – Premier aperçu → https://youtu.be/egNFeeBX_b0
+
+» 🇫🇷 [ActuGaming / 16 jan. 2025] Nintendo annonce officiellement la Nintendo Switch 2, voici à quoi ressemble la console en vidéo → https://actugaming.net/a-696259/
+» 🇫🇷 [Gamekult / 16 jan. 2025] Nintendo Switch 2 : la nouvelle console hybride de Nintendo est enfin officielle → https://cutt.ly/ce3xZb3Z
+» 🇺🇸 [Game Developer / 16 jan. 2025] Nintendo finally unveils the Switch 2, its successor to the Nintendo Switch. A strikingly familiar device still shrouded in mystery → https://cutt.ly/2e3xV0kn
+» 🇺🇸 [Kotaku / 16 jul. 2025] 13 glimpses of what's different with the Nintendo Switch 2. The Switch 2's familiar shape masks some very subtle differences → https://kotaku.com/n-1851740928
+» 🇺🇸 [Kotaku / 16 jul. 2025] Is the Switch 2 weird enough? Kotaku writers and editors debate if Nintendo's new console is too predictable → https://kotaku.com/n-1851741231
+» 🇫🇷 [ActuGaming / 16 jan. 2025] Nintendo aurait prévu énormément de stock pour la première année de la Switch 2 → https://actugaming.net/a-696279
+» 🇺🇸 [Bloomberg / 16 jan. 2025] Nintendo to unveil next-generation Switch 2 in April → https://archive.is/UD00c
+» 🇫🇷 [ActuGaming / 17 jan. 2025] Nintendo Switch 2 : Nouveautés, Mario Kart 9, Nintendo Direct… On fait le point en vidéo sur la nouvelle console https://actugaming.net/a-696611/
+» 🇫🇷 [ActuGaming / 17 jan. 2025] Nintendo Switch 2 : Vous pouvez maintenant vous inscrire pour tester la console à Paris du 4 au 6 avril, voici comment → https://actugaming.net/a-696720
+» 🇫🇷 [Gamekult / 17 jan. 2025] Cette Nintendo Switch 2 est une suite parfaitement logique à la stratégie de Nintendo. Si vous en doutez, vous ne connaissez pas le petit artisan → https://cutt.ly/qe3xHdBA
+» 🇫🇷 [Gamekult / 18 jan. 2025] Switch 2 : Hideki Kamiya (Bayonetta) dénonce "ces connards de leakers" → https://cutt.ly/ke3xZAhW
+
+» 🇺🇸 [Kotaku / 1er juil. 2024] Nintendo says it has a plan to prevent scalping: just make loads of Switch 2s. With no foreseen parts shortages, the company's president looks to be planning to flood the market → https://kotaku.com/n-1851569802
+
+» 🇺🇸 [Nintendo Life / 8 jan. 2025] Talking point: Everyone else is busy revealing Switch 2 - what gives, Nintendo? → https://cutt.ly/Te3ct2hT
+» 🇺🇸 [Kotaku / 8 jul. 2025] If the Switch 2 is just a better Switch, I'll be a bit disappointed. Where's that trademark Nintendo weirdness? Where's the surprise twist? → https://kotaku.com/n-1851735307
+
+» fil de discussion 💬
+
+### Annulation de deux jeux service chez PlayStation
+» 🇺🇸 [Bloomberg / 17 jan. 2025] Sony cancels two more PlayStation projects in broader retreat. The company told subsidiaries Bend and Bluepoint it will work with them to determine their next steps and minimize job losses → https://shorturl.at/Jhami
+» 🇫🇷 [ActuGaming / 17 jan. 2025] Sony annule deux jeux service chez Bend Studio et Bluepoint Games, dont un sur God of War → https://actugaming.net/a-696599
+» 🇺🇸 [GameRant / 19 jan. 2024] Bluepoint Games updates fans on its next game → https://cutt.ly/Ve95KOb1
+» 🇺🇸 [IGN / 30 sept. 2021] PlayStation officially acquires Bluepoint Games, next game planned to be an original, not a remake. The _Demon's Souls_ and _Shadow of the Colossus_ remake devs are venturing into original territory as PlayStation acquires them → https://cutt.ly/Ae95Jbwy
+
+» fil de discussion 💬
+
+### Appel à la grève générale
+» 🇫🇷 [STJV / 17 jan. 2025] GG25 : Appel à la grève générale de l’industrie du jeu vidéo – 13 février 2025 → https://cutt.ly/Fe3cahcB
+» 🇫🇷 [ActuGaming / 17 jan. 2025] Le STJV appelle à une grève générale dans le jeu vidéo le 13 février → https://actugaming.net/a-696925/
+
+» 🇺🇸 [Game Developer / 10 jan. 2025] Square Enix prepared to take legal action to protect staff from harassment. The company has rolled out a new harassment policy to shield its workers from bad actors → https://cutt.ly/We2Kv1fg
+» 🇫🇷 [Gamekult / 12 jan. 2025] Square Enix : un pas de plus contre le harcèlement dans l'industrie du jeu vidéo → https://cutt.ly/6e22iROj
+» 🇫🇷 [ActuGaming / 13 jan. 2025] Square Enix s’engage à défendre ses employés face aux fans les plus toxiques → https://actugaming.net/a-695125
+
+## Jeux
+### Hyper Light Breaker
+- accès anticipé depuis le 14 jan. 2025 sur PC / Steam Deck
+- développé par Heart Machine, studio américain 🇺🇸 derrière les jeux _Hyper Light Drifter_ (2016) et _Solar Ash_ (2021) → https://hyperlightbreaker.com
+- réalisé par Alx Preston, musiques par Troupe Gammage, Sky Lu et Joel Corelitz
+
+💻️ 29 € sur Steam (https://s.team/a/1534840)
+
+» 🇺🇸 [Game Developer / 21 nov. 2024] Hyper Light Breaker developer Heart Machine confirms layoffs. The studio said development of projects like Hyper Light Breaker and Possessor(s) won't be impacted by the job cuts → https://cutt.ly/3eKIGsla
+» 🇫🇷 [ActuGaming / 21 nov. 2024] Avant même la sortie de Hyper Light Breaker, le studio Heart Machine licencie une partie de ses employés → https://actugaming.net/a-684706
+
+» forum dédié au jeu 💬
+
+### Prince of Persia: The Lost Crown - Mask of Darkness
+- sorti le 17 sept. 2024 sur Switch, PlayStation, Xbox et PC / Steam Deck
+- publié par Ubisoft, développé par Ubisoft Montpellier, studio français 🇫🇷 derrière _Rayman Origins_ (2011), _ZombiU_ (2012), _Rayman Legends_ (2013), _Soldats inconnus : Mémoires de la Grande Guerre_ (2014)
+
+🎮 5 € sur Switch (https://cutt.ly/ge3vJA31), PlayStation (https://cutt.ly/me3vJHiz) et Xbox (https://cutt.ly/ee3vJLYI)
+💻️ 5 € sur Steam (https://s.team/a/3102580)
+
+### Prince of Persia
+- sorti en 1989 sur Apple ][, très vite porté sur la plupart des consoles et ordinateurs de cette époque
+- publié par Broderbund, développé par Jordan Mechner
+
+» 📘 **La création de Prince of Persia - Carnets de bord de Jordan Mechner 1985-1993**, 302 p., par Jordan Mechner, publié le 26 nov. 2020 chez Third Editions, 30 € en édition papier (ISBN 978-2377841639) → <https://cutt.ly/Fe3UX7aW>
+
+» ▶️ [YouTube / Ars Technica / 17 mars 2020] **How Prince of Persia defeated Apple II's memory limitations** | War Stories → <https://youtu.be/sw0VfmXKq54> (20 min)
+» ▶️ [YouTube / Konbini / 5 juin 2023] **"Prince Of Persia n'a failli jamais exister" : son créateur raconte la FOLLE histoire du jeu culte 😱** → <https://youtu.be/VM2ve55XnIs> (10 min)
+
+» ▶️ **Super Vieux Jeux #1 - Une histoire du _cinematic platformer_** → <https://youtu.be/WKXHWu7pJsE> (3 h 11 min) | 💬
+
+» 📘 **Les Histoires de Prince of Persia. Les 1001 vies d’une icône**, 192 p., par Raphaël Lucas, publié en 2022 chez Third Éditions, 25 € en édition physique → <https://cutt.ly/Xe3UCr6T>
+
+» **The Making of Karateka**, sorti le 29 août 2023, à 20 € sur Switch, PlayStation, Xbox et PC / Steam Deck, développé par Digital Eclipse, studio d'une vingtaine de personnes responsable de plusieurs rééditions patrimoniales de vieux jeux → <https://DigitalEclipse.com/games/karateka> | <https://s.team/a/1163060>
+
+### Prince of Persia: The Sands of Time / Les sables du temps
+- sorti fin 2003 sur Game Boy Advance, PlayStation 2, Xbox, GameCube et PC Windows
+- développé par Ubisoft Montréal
+- réalisation dirigée par Patrice Désilets et Jordan Mechner, programmation dirigée par Claude Langlais, direction artistique par Raphaël Lacoste, musiques par Stuart Chatwood
+
+💻 10 € sur Steam (<https://s.team/a/13600>) et GOG (<https://cutt.ly/xwPr4FFr>)
+
+» 📄 **_The Sands of Time_: Crafting a video game story**, by Jordan Mechner → <https://cutt.ly/7e3UVgoL>
+» ▶️ [YouTube / Double Find / 22 déc. 2015] **Devs Play S2E03 · "Prince of Persia: The Sands of Time" with Patrice Désilets and Greg Rice** → https://youtu.be/_ODNMBG4MUA (1 h)
+
+### Le parkour
+Intervenant :
+» **Adrien Gateau**, enseignant-chercheur à l'université de Strasbourg
+- thèse : _Le parkour : vers l’emergence d’une pratique et d’equipements sportifs novateurs. L’exemple strasbourgeois du Tracespace de Hautepierre_ (2019)
+- <https://e3s.unistra.fr/equipe/composition/gateau-adrien-jean>
+
+» ▶️ [YouTube] First ever parkour documentary - 1997 - Stade 2 → <https://youtu.be/gwYi-Da1Ths> (2 min)
+
+### Prince of Persia: Warrior Within / L'Âme du guerrier
+- sorti en déc. 2004 sur PlayStation 2, GameCube, Xbox et Windows, en déc. 2005 sur PSP
+- édité par Ubisoft, développé par Ubisoft Montréal
+- réalisé par Jean-Christophe Guyot, écriture par Corey May et Dooma Wendschuh, musiques par Stuart Chatwood et Inon Zur
+
+💻 10 € sur Steam (<https://s.team/a/13500>) et GOG (<https://cutt.ly/3e3UMJqR>)
+
+### Prince of Persia
+- sorti en déc. 2008 sur PlayStation 3, Xbox 360 et Windows
+- édité par Ubisoft, développé par Ubisoft Montréal
+- réalisé par Jean-Christophe Guyot, écriture par Andrew Walsh, direction artistique par Mickael Labat, musiques par Stuart Chatwood et Inon Zur
+
+💻 10 € sur Steam (<https://s.team/a/19980>) et GOG (<https://cutt.ly/Ie3UMrp7>)
+
+### Prince of Persia: The Forgotten Sands / Les sables oubliés
+- sorti en mai 2010 sur PlayStation 3, Xbox 360, Nintendo DS, PSP, mobiles et Windows
+- édité par Ubisoft, développé par Ubisoft Montréal
+- réalisé par Jean-Christophe Guyot et Mario Lord, écriture par Ceri Young, Ben McCaw et Marianne Krawczyk, direction artistique par Wilson Mui, musiques par Steve Jablonsky, Penka Kouneva et Tom Salta
+
+💻 10 € sur Steam (<https://s.team/a/33320>)
+
+### The Rogue Prince of Persia
+- en accès anticipé depuis le 27 mai 2024 sur PC / Steam Deck
+- publié par Ubisoft, développé par Evil Empire, studio français 🇫🇷️ derrière le support et les DLC de _Dead Cells_ → https://www.therogueprinceofpersia.com
+- réalisé par Lucie Dewagnier, direction artistique par Dylan Eurlings, musiques par ASADI 🇺🇸/🇮🇷
+
+💻️ 20 € sur Steam (<https://s.team/a/2717880>)
+
+## Mais pas que
+### Héloïse
+» Benito Antonio Martínez Ocasio, dit **Bad Bunny**, auteur-compositeur-interprète, rappeur, producteur, acteur et catcheur portoricain
+- discographie :
+  - _X 100pre_ (2018)
+  - _YHLQMDLG_ (2020)
+  - _El Último Tour Del Mundo_ (2020)
+  - _Un Verano Sin Ti_ (2022)
+  - _Nadie Sabe Lo Que Va a Pasar Mañana_ (2023)
+  - _Debí Tirar Más Fotos_ (2025)
+
+### Kévin
+» **David Lynch** (1946 - 2025), cinéaste, scénariste, photographe, musicien et peintre américain
+- filmographie :
+  - _Eraserhead_ (1977)
+  - _Elephant Man_ (1980)
+  - _Dune_ (1984)
+  - _Blue Velvet_ (1986)
+  - _Wild at Heart_ / _Sailor et Lula_ (1990)
+  - _Twin Peaks_ (1990-1991)
+  - _Twin Peaks: Fire Walk with Me_ (1992)
+  - _Lost Highay_ (1997)
+  - _The Straight Story_ / _Une histoire vraie_ (1999)
+  - _Mulholand Drive_ (2001)
+  - _Inland Empire_ (2006)
+  - _Twin Peaks: The Return_ (2017)
+
 
 
 » 💬
@@ -9961,10 +10192,9 @@ What a great way to start 2025! ✨
 » 🐘 [Mastodon] 
 
 » 🇫🇷 [ActuGaming] 
-» 🇫🇷 [Gamekult]
+» 🇫🇷 [Gamekult] 
 » 🇫🇷 [Canard PC] 
 » 🇫🇷 [Frandroid] 
-» 🇫🇷 [Gamekult] 
 » 🇬🇧 [VGC] 
 » 🇺🇸 [IGN] 
 » 🇺🇸 [Gematsu] 
