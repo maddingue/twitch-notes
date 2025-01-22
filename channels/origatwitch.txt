@@ -9834,7 +9834,7 @@ Medhi
 ### Monstre sacré du doublage, Benoit Allemane est mort
 » 🇫🇷 [ActuGaming / 6 jan. 2025] Benoît Allemane, l’une des voix les plus célèbres du doublage français, est décédé → https://actugaming.net/a-693437
 
-### L'inflation monstre du budge des Call of Duty
+### L'inflation monstre du budget des Call of Duty
 » 🇺🇸 [Game File / 7 jan. 2025] Call of Duty's massive development budgets revealed: $700 million for Black Ops Cold War. The biggest development budgets ever disclosed by a game company, buried in a court filing (but found by Game File), along with updated sales figures → https://cutt.ly/ue015oEw
 » 🇫🇷 [ActuGaming / 7 jan. 2025] Activision dévoile le budget ahurissant des jeux Call of Duty, avec 700 millions de dollars pour Black Ops Cold War → https://actugaming.net/a-693693
 » 🇫🇷 [Gamekult / 7 jan. 2025] Le budget de développement de Call of Duty : Black Ops Cold War a atteint les 700 millions de dollars, sur l'ensemble du cycle du jeu → https://cutt.ly/Te00tKTb
@@ -10177,6 +10177,62 @@ Intervenant :
   - _Mulholand Drive_ (2001)
   - _Inland Empire_ (2006)
   - _Twin Peaks: The Return_ (2017)
+
+
+--------------------------------------
+2025-01-21
+
+# Mardinale #38
+## Actus
+### Voici donc la Switch 2
+» ▶️ [YouTube / Nintendo France 16 jan. 2025] **Nintendo Switch 2 – Premier aperçu** → <https://youtu.be/egNFeeBX_b0>
+
+» 🇫🇷️ [ActuGaming / 16 jan. 2025] **Nintendo annonce officiellement la Nintendo Switch 2, voici à quoi ressemble la console en vidéo** → <https://actugaming.net/a-696259>
+» 🇫🇷️ [Gamekult / 16 jan. 2025] **Nintendo Switch 2 : la nouvelle console hybride de Nintendo est enfin officielle** → <https://cutt.ly/ce3xZb3Z>
+» 🇫🇷️ [ActuGaming / 17 jan. 2025] **Nintendo Switch 2 : Nouveautés, Mario Kart 9, Nintendo Direct… On fait le point en vidéo sur la nouvelle console** <https://actugaming.net/a-696611>
+» 🇫🇷️ [ActuGaming / 17 jan. 2025] **Nintendo Switch 2 : Vous pouvez maintenant vous inscrire pour tester la console à Paris du 4 au 6 avril, voici comment** → <https://actugaming.net/a-696720>
+» 🇫🇷️ [Gamekult / 17 jan. 2025] **Cette Nintendo Switch 2 est une suite parfaitement logique à la stratégie de Nintendo. Si vous en doutez, vous ne connaissez pas le petit artisan** → <https://cutt.ly/qe3xHdBA>
+
+» fil de discussion 💬
+
+### Le STJV appelle à une grève générale en France
+» 🇫🇷️ [STJV / 17 jan. 2025] **GG25 : Appel à la grève générale de l’industrie du jeu vidéo – 13 février 2025** → <https://cutt.ly/Fe3cahcB>
+» 🇫🇷️ [ActuGaming / 17 jan. 2025] **Le STJV appelle à une grève générale dans le jeu vidéo le 13 février** → <https://actugaming.net/a-696925>
+
+### Playstation annule deux jeux-services dont un God of War
+» 🇺🇸 [Bloomberg / 17 jan. 2025] Sony cancels two more PlayStation projects in broader retreat. The company told subsidiaries Bend and Bluepoint it will work with them to determine their next steps and minimize job losses → https://shorturl.at/Jhami
+» 🇫🇷 [ActuGaming / 17 jan. 2025] Sony annule deux jeux service chez Bend Studio et Bluepoint Games, dont un sur God of War → https://actugaming.net/a-696599
+» 🇺🇸 [GameRant / 19 jan. 2024] Bluepoint Games updates fans on its next game → https://cutt.ly/Ve95KOb1
+» 🇺🇸 [IGN / 30 sept. 2021] PlayStation officially acquires Bluepoint Games, next game planned to be an original, not a remake. The _Demon's Souls_ and _Shadow of the Colossus_ remake devs are venturing into original territory as PlayStation acquires them → https://cutt.ly/Ae95Jbwy
+
+» fil de discussion 💬
+
+### Que reste-t-il des la ruée vers le GaaS de Playstation ?
+
+### Ubisoft : vers une division de l'empire ?
+» 🇬🇧 [VGC / 15 jan. 2025] **Tencent and the Guillemot family are considering moving Ubisoft assets to a new venture, it’s claimed. Ubisoft’s founding family may create a new entity and move some Ubisoft assets over to it** → <https://cutt.ly/ye93IagA>
+» 🇫🇷 [Gamekult / 15 jan. 2025] **Ubisoft : la famille Guillemot et Tencent envisagent de créer une nouvelle entreprise en commun, pour intégrer une partie d'Ubisoft dedans** → <https://cutt.ly/Ce3xEY8J>
+
+### La réalisatrice de Dragon Age: The Veilguard quitte Bioware
+» 🇬🇧 [Eurogamer / 17 jan. 2025] Dragon Age: The Veilguard game director leaving BioWare. Busche confirms departure, following 18-year career at EA → https://cutt.ly/qe3xzEqs
+» 🇫🇷 [ActuGaming / 17 jan. 2025] La réalisatrice de Dragon Age: The Veilguard, Corinne Busche, s’apprête à quitter BioWare → https://actugaming.net/a-696643
+
+### Game Workshop a annulé un projet Warhammer Action-RPG
+» 🇺🇸 [MP1st / 18 jan. 2025] **Unannounced Warhammer RPG cancelled by Games Workshop** → <https://cutt.ly/6e8tKN7T>
+
+### Microsoft commence à relicencier
+» 🇺🇸 [Business Insider / 8 jan. 2025] **Microsoft is planning job cuts and focusing more on underperforming employees** → <https://cutt.ly/ye93UUEx>
+» 🇺🇸 [Business Insider / 14 jan. 2025] **Microsoft lays off employees in security, experiences and devices, sales, and gaming — separate from performance cuts** → <https://cutt.ly/Qe93UnRN>
+» 🇺🇸 [Games Industry / 15 jan. 2025] **Microsoft to lay off unknown number of staff.** Employees across gaming, security, and sales divisions affected → <https://cutt.ly/Ce3ItGjF>
+
+### Le rachat d'Activision n'a pas boosté le Game Pass
+» 🇺🇸 [The Information / 15 jan. 2025] **Microsoft’s gaming business falls short, despite Activision** → <https://cutt.ly/Me3IyacN>
+
+» 🇺🇸 [Install Base / 7 jan. 2025] **Industry Q&A | Christopher Dring answers your questions** → <https://cutt.ly/Oe2KznVX>
+» 🇫🇷 [Gamekult / 9 jan. 2025] **Oui, le Game Pass a un gros impact sur les ventes de jeux Xbox** → <https://cutt.ly/fe2Kl35B>
+» 🇫🇷 [Canard PC / 10 jan. 2025] **maison de pass** → <https://cutt.ly/Ie3Iusl9>
+
+
 
 
 
