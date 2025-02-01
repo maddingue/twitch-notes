@@ -10476,9 +10476,100 @@ raids => OrigaTwitch => (15:20)[+498] At0mium => (16:04)[+597] LilyRosaliina [Ad
 » 🇺🇸 [Games Industry / 24 jan. 2025] Pocketpair launches publishing arm, partners with Surgent Studios for first title. Surgent Studios to release standalone horror game in late 2025, unrelated to Tales of Kenzera universe → https://cutt.ly/Je7qTQIv
 » 🇫🇷 [Gamekult / 27 jan. 2025] Pocketpair (Palworld) lance sa branche d'édition et se retrouve inondé sous les propositions de jeux → https://cutt.ly/Ue7qRe1m
 
-raids : lesnumeriques [+426] + GamekultLive [+44] => (13:38) NotPatrick => (14:34)[+171] OrigaTwitch => (15:19)[+780] mamapaprika => (16:25) LeMwakast => (22:13)[+123] Bianceee [FredKisss=>(23:20)+5] (vendredi) (>00:45)
+raids : lesnumeriques [+426] + GamekultLive [+44] => (13:38) NotPatrick => (14:34)[+171] OrigaTwitch => (15:19)[+780] mamapaprika => (16:25) LeMwakast => (22:13)[+123] Bianceee [FredKisss=>(23:20)+5] (vendredi) (terminé à 02:02)
 
 
+--------------------------------------
+2024-11-31
+
+# L'Hebdo #51
+## Actus
+### La semaine
+» 🇫🇷 [Le Monde / 29 jan. 2025] Visé comme TikTok par un bannissement aux Etats-Unis, le jeu vidéo « Marvel Snap » change d’éditeur. Ce jeu vidéo de cartes en ligne sous licence Marvel ne sera plus édité par une filiale du chinois ByteDance. Une manière de se conformer à la même loi américaine qui menace toujours le réseau social TikTok → https://cutt.ly/xe46QZ6I
+
+» pour les sujets sur Ubisoft, _cf._ la Mardinale #39
+
+» GOG Dreamlist → https://gog.com/dreamlist/
+» 🇫🇷 [ActuGaming / 29 jan. 2025] Dino Crisis est de retour chez GOG, la plateforme vous demande quels jeux elle devrait ensuite ajouter à son catalogue → https://actugaming.net/a-699770
+» 🇫🇷 [Gamekult / 29 jan. 2025] Dino Crisis et Dino Crisis 2 sont disponibles sur GOG.com → https://cutt.ly/Re7TlV6y
+
+» 🇫🇷 [ActuGaming / 27 jan. 2025] Kingdom Come Deliverance II va refaire une partie de son doublage français suite aux critiques des previews → https://actugaming.net/a-699589
+
+» 🇫🇷 [ActuGaming / 29 jan. 2025] Avec son patch 8, Baldur’s Gate 3 apporte enfin l’écran partagé sur Xbox Series S → https://actugaming.net/a-699765
+
+» Tails of Iron 2: Whiskers of Winter, le 28 jan. 2025 à 25 € sur Windows, Mac, Linux et Steam Deck ; développé par Odd Bug Studio → https://s.team/a/2473480
+
+» Rise of the Rōnin, le 11 mars 2024 à 50 € sur PC / Steam Deck → https://s.team/a/1340990
+
+» 🇬🇧 [PC Gamer / 29 jan. 2025] **Age of Empires 3: Definitive Edition DLC promised last year is cancelled: 'We announced content before it had been built, and we now feel that announcement was premature'.** The DLC was supposed to be out in late 2024 but was delayed in October, and now it's just not going to happen → https://cutt.ly/Fe7TQVsO
+
+» 🇺🇸 [PushSquare / 29 jan. 2025] Silent Hill 2 has been massively successful on PS5, PC. Tops two million sales in three months → https://cutt.ly/Ie46RvDf
+» 🇫🇷 [ActuGaming / 29 jan. 2025] Silent Hill 2 Remake continue de se vendre et atteint les 2 millions de copies écoulées → https://actugaming.net/a-699762
+
+### Path of Exile
+» ▶️ [YouTube / 30 jan. 2025] A message to Path of Exile 1 players → https://youtu.be/wF4rqnPoo80
+
+### Forza Horizon 5 sur PlayStation 5
+» 🇫🇷 [ActuGaming / 30 jan. 2025] Forza Horizon 5 déboulera lui aussi sur PS5, la sortie de cette version PlayStation est prévue pour ce printemps → https://actugaming.net/a-700460
+
+### L'Arabie Saoudite va-t-elle financer un DLC pour Assassin's Creed Mirage ?
+» pour les sujets sur Ubisoft, _cf._ la Mardinale #39
+
+### BioWare restructure et licencie sans le dire
+» pour le sujets sur BioWare, _cf._ la Mardinale #39
+
+
+## Jeux
+
+### Final Fantasy VII Rebirth
+- sorti le 23 jan. 2025 sur PC et Steam Deck
+- édité par Square Enix, développé par Square Enix Creative Business Unit I
+- réalisé par Naoki Hamaguchi, Motomu Toriyama et Tetsuya Nomura, direction artistique par Shintaro Takai, Tetsuya Nomura et Roberto Ferrari, écriture par Kazushige Nojima, 🎶 musiques par Mitsuto Suzuki et Masashi Hamauzu
+
+💻️ 70 € sur Steam (<https://s.team/a/2909400>)
+
+» pour une critique du jeu lui-même, voir l'Hebdo #14
+» ▶️ [YouTube / Digital Foundry / 30 jan. 2025] Final Fantasy 7 Rebirth PC review: it's OK... but there are issues → https://youtu.be/26-Vlqmbq8c (40 min)
+
+### Ender Magnolia: Bloom in the Mist
+» Ender Magnolia: Bloom in the Mist, sorti le 22 jan. 2025 à 25 € sur Switch, PlayStation, Xbox, PC et Steam Deck ; développé par Adglobe et Live Wire → https://endermagnolia.com | https://s.team/a/2725260
+- sorti le 22 jan. 2025 sur Switch, PlayStation, Xbox, PC et Steam Deck
+- publié par Binary Haze, développé par les studios japonais 🇯🇵 Adglobe et 株式会社 Live Wire → https://endermagnolia.com
+
+🎮 25 € sur Switch (<https://cutt.ly/de7R5tXI>), PlayStation (<https://cutt.ly/le7R6CzS>) et Xbox (<https://cutt.ly/ge7TqwR8>)
+💻️ 25 € sur Steam (<https://s.team/a/2725260>)
+
+### Eternal Strands
+» Eternal Strands, sorti le 28 jan. 2025 à 40 € sur PlayStation 5, Xbox Series (Game Pass) et PC / Steam Deck ; développé par Yellow Brick Games → https://eternalstrandsgame.com | https://s.team/a/1491410
+- développé par Yellow Brick Games, studio canadien 🇨🇦  créé en 2020 par des anciens d'Ubisoft, BioWare et Electronic Arts → https://eternalstrandsgame.com | https://yellowbrickgames.ca
+
+🎮 40 € sur PlayStation (<https://cutt.ly/me7dK85z>)
+🎮 40 € ou inclus dans le Game Pass sur Xbox (<https://cutt.ly/oe7dLgtP>)
+💻️ 40 € sur Steam (<https://s.team/a/1491410>), démo disponible
+
+### Citizen Sleeper 2: Starward Vector
+» Citizen Sleeper 2: Starward Vector, sorti le 31 janv. 2025 à 25 € sur Switch, PlayStation 5, Xbox Series (Games Pass), Windows, Mac, Linux et Steam Deck ; développé par Jump Over the Age → https://citizensleeper.com | https://s.team/a/2442460
+- sorti le 31 janv. 2025 sur Switch, PlayStation 5, Xbox Series, Windows, Mac, Linux et Steam Deck
+- publié par Fellow Traveller, développé par Jump Over the Age, studio britannique 🇬🇧 du seul Gareth Damian Martin, derrière _In Other Waters_ (2020), _Citizen Sleeper_ (2022) → <https://citizensleeper.com>
+- réalisé par Gareth Damian Martin, direction artistique par Guillaume Singelin, musiques par Amos Roddy
+
+🎮 25 € sur Switch (<https://cutt.ly/We7axlI1>) et PlayStation (<https://cutt.ly/ee7acwdC>)
+🎮 25 € ou inclus dans le Game Pass sur Xbox (<https://cutt.ly/Ae7ansal>)
+💻️ 25 € sur Steam (<https://s.team/a/2442460>) et GOG (<https://cutt.ly/3e7srzfo>)
+
+» 📰 [The Gamer / 28 mars 2023] **Ending Citizen Sleeper** → <https://cutt.ly/Ve7j9Kbo>
+» 📰 [The Gamer / 7 avril 2023] **What a tabletop version of Citizen Sleeper would look like, according to Gareth Damian Martin** → <https://cutt.ly/he7j3Aha>
+» 📰 [Old Men Running The World / 15 mai 2023] **An interview with Citizen Sleeper creator, Gareth Damian Martin** → <https://cutt.ly/Be7j4Q87>
+» 📰 [Super Jump / 12 juin 2024] **Citizen Sleeper 2: hands-on preview and interview with Gareth Damian Martin** → <https://cutt.ly/ve7j45ms>
+» 📰 [Paste Magazine / 29 jan. 2025] **Bodies and long-term harm: Gareth Damian Martin discusses _Citizen Sleeper 2_** → <https://cutt.ly/je7j7OmN>
+» 📰 [Point'n Think] **Gareth Damian Martin, creator of Citizen Sleeper** → <https://cutt.ly/Ue7j761D>
+
+## Mais pas que
+### Florian
+» 📕 Le Monde nazi, 640 p. par Johan Chapoutot, Christian Ingrao, Nicolas Patin, publié le 19 sept; 2024 hcez Tallendier, 27,50 € en édition papier (ISBN 9791021045804) → https://tallandier.com/livre/le-monde-nazi/
+» 📰 [The Atlantic / 8 jan 2025] How Hitler dismantled a democracy in 53 days. He used the constitution to shatter the constitution → https://cutt.ly/je7gPCWT
+
+raids : OrigaTwitch => (15:42)[+381] CanardPC => (17:33)[+295] Nico_Oni (>19:30) => (20:46) LupusVII => (22:47)[+45] JackplayPZ => Izetline => George_Pedro => ZiggehGG => MrGodRoll => (<13:56) FrostyQc (>22:30)
 
 
 » 💬
@@ -10527,7 +10618,7 @@ raids : lesnumeriques [+426] + GamekultLive [+44] => (13:38) NotPatrick => (14:3
 » Gautoz / Gauthier Andres → 🦋 https://bsky.app/profile/gautoz.cool | 𝕏 https://twitter.com/gautoz 
 » Padre / Florian Velter → 🦋 https://bsky.app/profile/leperefidalbion.bsky.social | 𝕏 https://twitter.com/LePereFidalbion
 » Hoopy / Sylvain Tastet → 🦋 https://bsky.app/profile/hoopyjv.bsky.social | 𝕏 https://twitter.com/_Hoopy 
-» Moguri / Kevin Cicurel → 🦋 https://bsky.app/profile/elmogurito.bsky.social | 𝕏 https://twitter.com/El_Mogurito 
+» Moguri / Kevin Cicurel → 🦋 https://bsky.app/profile/elmogurito.bsky.social | 𝕏 https://twitter.com/El_Mogurito
 » LaLinosse / Héloïse Linossier → 🦋 https://bsky.app/profile/hlinossier.bsky.social | 𝕏 https://twitter.com/HLinossier
 » Hubert Petit → 🦋 https://bsky.app/profile/hubertpetit.bsky.social | 𝕏 https://twitter.com/snakenhub
 » Medoc / Medhi Camprasse → 🦋 https://bsky.app/profile/medoc.bsky.social | 𝕏 https://twitter.com/Elmedoc 
