@@ -12456,8 +12456,21 @@ raids : lesnumeriques => (13:35)[+189] PoppieLaLa (>16:30) => (16:57) TiTavion (
 
 » 🇫🇷 [Gamekult / 27 jan. 2025] Ubisoft ferme le studio de Leamington et licencie 185 employés en Europe → https://gamekult.com/actualite/-3050861871.html
 
-raids : lesnumeriques [+426] + GamekultLive [+44] => (13:38) NotPatrick => (14:34)[+171] OrigaTwitch => (15:19)[+780] mamapaprika => (16:25) LeMwakast => (22:13)[+123] Bianceee [FredKisss=>(23:20)+5] (vendredi) (>00:45)
+raids : lesnumeriques [+426] + GamekultLive [+44] => (13:38) NotPatrick => (14:34)[+171] OrigaTwitch => (15:19)[+780] mamapaprika => (16:25) LeMwakast => (22:13)[+123] Bianceee [FredKisss=>(23:20)+5] (vendredi) (terminé à 02:02)
 
+
+--------------------------------------
+2025-01-31
+
+» 🇫🇷 [Les Numériques] Test Technics EAH-AZ100 ⭐⭐⭐⭐⭐ d'excellents écouteurs, précis et recordmen en autonomie → https://www.lesnumeriques.com/intra-ecouteur-true-wireless/technics-eah-az100-p76095/test.html
+» 🇫🇷 [Les Numériques] Open-R1 : le projet qui veut rendre le chinois DeepSeek-R1 vraiment open source → https://lesnumeriques.com/intelligence-artificielle/-n232586.html
+» 🇫🇷 [Les Numériques] Les concurrents chinois d'OpenAI accusés "d'extraire les connaissances" de l'IA américaine → https://lesnumeriques.com/intelligence-artificielle/-n232554.html
+» 🇫🇷 [Les Numériques] Mistral AI : un partenariat historique avec l'AFP pour lutter contre la désinformation → https://lesnumeriques.com/intelligence-artificielle/-n232114.html
+» 🇫🇷 [Les Numériques] GeForce Now : Nvidia suspend temporairement les nouvelles inscriptions à son service de cloud gaming → https://lesnumeriques.com/cloud-gaming/-n232561.html
+» 🇫🇷 [Les Numériques] Test Nvidia GeForce RTX 5090 ⭐⭐⭐⭐ la carte graphique qui met l'IA au service des joueurs → https://www.lesnumeriques.com/carte-graphique/nvidia-geforce-rtx-5090-p74864/test.html
+» 🇫🇷 [Les Numériques] Test Nvidia GeForce RTX 5080 ⭐⭐⭐⭐⭐ une évolution timide, le DLSS 4 à la rescousse → https://www.lesnumeriques.com/carte-graphique/nvidia-geforce-rtx-5080-p74865/test.html
+
+raids : lesnumeriques => (13:37)[+113] MonPetitPC (>17:30) => (<18:59) inforea [Prodimage=>(19:04)+28] => (20:36)[+172] KlowroQueen [SunPowerTV=>(21:17)+4] => (<22:33) Paume__ => (23:02)[+18] MarlyLyn [Lyorell=>(23:08)+4] => PixEtMotion => (<13:48) TancredTerror => (18:00)[+102] Jouliux (>22:30)
 
 
 
