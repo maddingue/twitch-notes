@@ -10572,6 +10572,87 @@ raids : lesnumeriques [+426] + GamekultLive [+44] => (13:38) NotPatrick => (14:3
 raids : OrigaTwitch => (15:42)[+381] CanardPC => (17:33)[+295] Nico_Oni (>19:30) => (20:46) LupusVII => (22:47)[+45] JackplayPZ => Izetline => George_Pedro => ZiggehGG => MrGodRoll => (<13:56) FrostyQc (>23:30) => MissEmmm_ => (01:10) nokE_FPS (>02:00) => gMdd => (07:22)[+90] inspire (terminé)
 
 
+--------------------------------------
+2025-02-04
+
+# Mardinale #40
+## Actus
+### GOG ouvre sa listre au Père Noël
+» GOG Dreamlist → https://gog.com/dreamlist/
+» 🇫🇷 [ActuGaming / 29 jan. 2025] Dino Crisis est de retour chez GOG, la plateforme vous demande quels jeux elle devrait ensuite ajouter à son catalogue → https://actugaming.net/a-699770
+» 🇫🇷 [Gamekult / 29 jan. 2025] Dino Crisis et Dino Crisis 2 sont disponibles sur GOG.com → https://cutt.ly/Re7TlV6y
+
+### Sony donne la chasse au patch 60fps pour Bloodborne
+» 🦋 [BlueSky / Lance McDonald / 31 jan. 2025] 🧵 https://bsky.app/profile/manfightdragon.bsky.social/post/3lh2cipa4rk2v
+> On February 21st, 2021, I created and released a patch for Bloodborne which makes the game run at 60fps. Today I received a DMCA takedown notification on behalf of Sony Interactive Entertainment asking that I remove links to the patch I posted on the internet, so I've now done so
+
+» 🇫🇷 [Gamekult / 3 fév. 2025] Bloodborne : Sony met KO le mod 60 fps. Ça dépassait les (blood)bornes → https://cutt.ly/Ye5d2m48
+
+» fil de discussion 💬
+
+### Un évènement ID@Xbox le 24 février (SILKSONG)
+» 🇫🇷 [ActuGaming / 4 fév. 2025] Une nouvelle édition du ID@Xbox Showcase aura lieu le 24 février avec plein d’annonces autour de jeux indépendants → https://actugaming.net/a-701138
+
+### Prince of Persia The Lost Crown a vendu 1,3 million en un an
+» 🇫🇷 [Xboxygen / 30 jan. 2025] Enfin un chiffre de ventes d’Ubisoft pour Prince of Persia : The Lost Crown → https://cutt.ly/ke5d92P5
+
+» précédentes Mardinales sur Prince of Persia The Lost Crown :
+- ▶️ [8 oct. 2024] Qui veut la peau d'Ubisoft ? - Ouvrez Les Guillemots → https://youtu.be/_EcAVL2KC-k | 💬
+- ▶️ [22 oct. 2024] Chez Ubisoft, l'équipe The Lost Crown n'existe déjà plus - Ouvrez Les Guillemots → https://youtu.be/8HgkIyq0emY | 💬
+
+### Platinum fait le ménage dans son CV : Projet GG disparait
+» 🇺🇸 [NintendoLife / 3 fev. 2025] PlatinumGames wipes several games from its website's portfolio, including Star Fox Zero and 'Project G.G.' → https://cutt.ly/Ce5d3nEv
+» 🇫🇷 [Gamekult / 3 fev. 2025] L’avenir de Project G.G. s’assombrit après sa disparition du site de PlatinumGames → https://cutt.ly/le5d3DhB
+» 🇫🇷 [ActuGaming / 4 fév. 2025] PlatinumGames semble souffrir d’une fuite de talents avec le départ de nombreux vétérans → https://actugaming.net/a-701218
+
+» fil de discussion 💬
+
+### Rollerdrome et OlliOlli World ne seront pas vendus avec Private Division
+» 🇬🇧 [Eurogamer / 3 fév. 2025] Roll7's critically acclaimed skating games OlliOlli World and Rollerdrome mysteriously yanked from Steam. 2K says games "will be added back". → https://cutt.ly/Ce5dAgbo
+» 🇫🇷 [ActuGaming / 3 fév. 2025] Rollerdrome et OlliOlli World disparaissent de Steam après la débâcle autour de Private Division → https://actugaming.net/a-700831
+» 🇫🇷 [Gamekult / 3 fev. 2025] OlliOlli World et Rollerdrome ont disparu de Steam → https://cutt.ly/te5d4pDr
+
+» fil de discussion 💬
+
+### EA a tranché dans BioWare
+» 🇺🇸 [Bloomberg / 31 jan. 2025] Electronic Arts slashes BioWare after ‘Dragon Age’ sales miss. The studio has shrunk to less than 100 people following the release of Dragon Age: The Veilguard → https://cutt.ly/6e5s6lK7
+» 🇫🇷 [ActuGaming / 3 fév. 2025] BioWare : Les transferts d’employés vers d’autres studios Electronic Arts seraient plus permanents que prévu → https://actugaming.net/a-700843
+» 🇫🇷 [Gamekult / 3 fév. 2025] BioWare : finalement, les employés prêtés à d'autres studios EA ne reviendront pas. Le studio ne compte plus qu'une centaine de personnes → https://cutt.ly/pe5d5c28
+
+### EA cherche encore la route du succès pour Battlefield
+» 🇫🇷 [ActuGaming / 3 fév. 2025] Electronic Arts présente le Battlefield Labs, un grand test communautaire pour le prochain Battlefield, premières images → https://actugaming.net/a-700901
+
+» 🇬🇧 [Eurogamer / 3 fév. 2025] Need for Speed will return, EA pledges, but team all-in on Battlefield for now. Small group had previously been working on racing series' future → https://cutt.ly/be5s49CT
+» 🇫🇷 [ActuGaming / 4 fév. 2025] La licence Need for Speed n’est pas morte mais la priorité est aujourd’hui Battlefield pour le studio Criterion → https://actugaming.net/a-700930
+
+### Warner Bros abandonne Multiversus
+» 🇫🇷 [ActuGaming / 31 jan. 2025] La saison 5 de MultiVersus sera la dernière, Warner Bros arrête les frais et va débrancher le jeu en ligne → https://actugaming.net/a-700606
+» 🇫🇷 [Gamekult / 31 jan. 2025] Après cinq saisons, MultiVersus arrête définitivement son développement → https://cutt.ly/Fe5d6fri
+
+» fil de discussion 💬
+
+### John Gonzalez (New Vegas) revient chez Obsidian
+» 🇫🇷 [ActuGaming / 3 fév. 2025] Le scénariste de Fallout New Vegas revient chez Obsidian, mais pas pour ce que certains espèrent → https://actugaming.net/a-700834
+» 🇫🇷 [Gamekult / 3 fév. 2025] Le scénariste de Fallout New Vegas de retour chez Obsidian, en tant que directeur créatif, mais pas de Fallout New Vegas 2 au programme → https://cutt.ly/ue5fqecM
+
+### Midnight Society (Deadrop, Dr Disrespect) ferme boutique
+» 🇺🇸 [PCGamesN / 30 jan. 2025] Studio co-founded by Dr Disrespect closing after three years working on new FPS. Midnight Society cut ties with Dr Disrespect in 2024, but now the studio that was working on extraction FPS game Deadrop is shutting down → https://cutt.ly/pe5fqSbp
+» 🇬🇧 [VGC / 30 jan. 2025] Midnight Society, the studio co-founded by Dr Disrespect, is closing its doors the same day the disgraced streamer says his YouTube channel is being remonetized. The studio sold a ton of NFTs when it first opened, but never managed to release a game → https://cutt.ly/Oe5fqNA6
+» 🇺🇸 [Kotaku / 30 jan. 2025] YouTube turns money faucet back on for Dr Disrespect six months after Twitch ban controversy. The popular COD streamer previously admitted to messages that leaned 'inappropriate' with a minor → https://kotaku.com/n-1851752083
+» 🇫🇷 [Gamekult / 31 jan. 2025] Le studio du streamer DrDisrespect, Midnight Society, met la clé sous la porte → https://cutt.ly/me5fq4xN
+
+### Evil Empire condamné aux Prud'hommes
+» 🇫🇷 [Solidaires Informatiques / 30 jan. 2025] Défaite aux prud’hommes pour le studio Evil Empire → https://cutt.ly/De5feWsW
+
+### La compositrice Winifred Phillips remporte un Grammy pour Wizardry
+» 🇫🇷 [ActuGaming / 3 fév. 2025] Aux Grammys, le remake de Wizardry l’emporte face à Spider-Man, God of War, Star Wars et Avatar → https://actugaming.net/a-700864
+
+### Le compositeur français Stéphane Picq est décédé
+» 🇫🇷 [Gamekult / 4 fév. 2025] Stéphane Picq, l'âme musicale de Cryo (Dune, Atlantis, Lost Eden), s'est éteint. L'esprit libre des années 90 → https://cutt.ly/ge5sVeje
+» 🇫🇷 [Eklecty-City / 25 juil. 2020] Interview avec Stéphane Picq le compositeur de Lost Eden et Dune → https://cutt.ly/6e5sVIUo
+
+
+
 » 💬
 » 📄 
 » 🇺🇸 
