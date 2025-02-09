@@ -12505,6 +12505,27 @@ raids : lesnumeriques => (13:37)[+113] MonPetitPC (>17:30) => (<18:59) inforea [
 raids : lesnumeriques [+131] + GamekultLive [+33] => (13:36) NotPatrick (terminé à 14:40)
 
 
+--------------------------------------
+2025-02-07
+
+» 🇫🇷 [Les Numériques] BYD dépasse Tesla dans ce pays voisin, le constructeur chinois impose sa domination → https://lesnumeriques.com/voiture-electrique/-n232852.html
+» [New Scientist] Experimental XB-1 aircraft goes supersonic for the first time. Boom Supersonic’s XB-1 aircraft broke the sound barrier during three test runs, a step toward the possible return of supersonic commercial flights → https://www.newscientist.com/article/2465962-n
+» [BBC] The ultra-fast cancer treatments which could replace conventional radiotherapy → https://www.bbc.com/future/article/20250121-the-physics-transforming-cancer
+» [Le Monde] La radiothérapie Flash, espoir face à certains cancers.  L’Institut Curie construit une nouvelle machine, non encore testée sur l’homme, pour viser les tumeurs de mauvais pronostic → https://www.lemonde.fr/sciences/article/2025/02/04/la-radiotherapie-flash-espoir-face-a-certains-cancers_6530420_1650684.html
+» 🇫🇷 [Les Numériques] Les 4 Fantastiques : Marvel nie avoir utilisé de l'IA pour les posters et crée la polémique → https://lesnumeriques.com/cine-svod/-n232783.html
+» 🇫🇷 [Les Numériques] Les Nvidia GeForce RTX 5090 et 5080 sont bel et bien en pénurie et leur prix ne cesse d'augmenter → https://lesnumeriques.com/carte-graphique/-n232381.html
+» [Tech PowerUp] AMD Ryzen 7 9800X3D CPU Accounts for Almost 90% of "Zen 5" Sales, Rest of 9000 Series in Trouble → https://techpowerup.com/332104
+» 🇫🇷 [Les Numériques] Nvidia n'abandonne toujours pas son boîtier Shield TV, qui profite d'une solide mise à jour → https://lesnumeriques.com/disque-dur-multimedia/-n232847.html
+» 🇫🇷 [Les Numériques] Sonos : le prix de la future box streaming va faire hurler votre porte-monnaie → https://lesnumeriques.com/disque-dur-multimedia/-n232788.html
+» 🇫🇷 [Les Numériques] Test JBL Tune 770NC : un casque Bluetooth simple, abordable et efficace → https://www.lesnumeriques.com/casque-nomade/jbl-tune-770nc-p73582/test.html
+» 🇫🇷 [Les Numériques] Samsung Galaxy Ring : vers une bague connectée pour contrôler un PC ou une tablette → https://lesnumeriques.com/sante-sport/-n232842.html
+» 🇫🇷 [Les Numériques] Dangbei MP1 Max : un vidéoprojecteur trilaser 4K encore plus lumineux que le Mars Pro 2 → https://lesnumeriques.com/videoprojecteur/-n231736.html
+
+raids : lesnumeriques [+106] + GamekultLive [+] => (13:39) Bytell2 => (15:30)[+79] Hexakil (terminé à 16:22)
+
+
+
+
 » ▶️ [YouTube] 
 » 🐦 [Twitter] 
 » [𝕏 (ex Twitter)]  🧵
