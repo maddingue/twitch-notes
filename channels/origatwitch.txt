@@ -10654,7 +10654,7 @@ raids : OrigaTwitch => (15:42)[+381] CanardPC => (17:33)[+295] Nico_Oni (>19:30)
 
 
 --------------------------------------
-2025-02-06
+2025-02-07
 
 # L'Hebdo #52
 ## Actus
@@ -10839,6 +10839,157 @@ raids : OrigaTwitch => (15:18)[+432] Kokihiete => (18:18)[+103] KaoryKat (termin
 » 🇫🇷 [Gamekult / 6 fév. 2025] Paradox rachète Haemimont Games (Tropico 5, Jagged Alliance 3) → https://cutt.ly/be6BAdnR
 
 
+--------------------------------------
+2025-02-14
+
+# L'Hebdo #53
+## Actus
+### La semaine
+» 🇺🇸 [Games Industry / 12 fév. 2025] Jumpship co-founder reacquires studio from Thunderful. Dino Patti also obtains shares in Viewfinder developer Sad Owl Studios → https://cutt.ly/rrqLiZQL
+» 🇺🇸 [Game Developer / 12 fév. 2025] Jumpship co-founder Dino Patti reacquires studio from Thunderful. The news comes with Thunderful attempting to reduce costs after admitting it made some 'over-investments.' → https://cutt.ly/krqLoXb1
+
+» 🇫🇷 [ActuGaming / 10 fév. 2025] Relic Entertainment (Company of Heroes) fait le point sur son avenir après sa séparation avec SEGA → https://actugaming.net/a-702806
+» 🇫🇷 [ActuGaming / 11 fév. 2025] Devenu indépendant, Relic (Company of Heroes 3) fait le point sur l'avenir → https://cutt.ly/trqLduWM
+
+» 🇺🇸 [Game Developer / 11 fév. 2025] Unity continues mass layoffs with 'abrupt' communications and 5am emails. 'Unity must do better in how they treat their workers in hard times.' → https://cutt.ly/ie6BRVBa
+» 🇺🇸 [80lv / 11 fév. 2025] Unity suddenly lays off numerous developers with a 5 AM email. Apparently, the entire Unity Behavior team was cut, alongside many other employees → https://cutt.ly/he6BR5OT
+» 🇫🇷 [Gamekult / 12 fév. 2025] Unity : nouvelle vague de licenciements et un projet abandonné → https://cutt.ly/rrqLqHk3
+
+» 🇫🇷 [ActuGaming / 12 fév. 2025] Crytek licencie une soixantaine de personnes et suspend le développement de Crysis 4 → https://actugaming.net/a-703510
+» 🇫🇷 [Gamekult / 13 fév. 2025] Crytek licencie environ 15 % de ses effectifs et gèle le développement de Crysis 4. Tout repose désormais sur Hunt Showdown 1896 → https://cutt.ly/irqLqY9Y
+
+» 🇺🇸 [Gematsu / 11 fév. 2025] Koei Tecmo Holdings appoints Hisashi Koinuma as president and CEO. Yoichi Erikawa to become representative director and chairman → https://cutt.ly/Qe6BTu21
+» 🇫🇷 [Gamekult / 11 fév. 2025] Koei Tecmo : les fondateurs se retirent et nomment Hisashi Koinuma au poste de PDG. Keiko et Yôichi Erikawa superviseront les opérations → https://cutt.ly/be6BTxNr
+
+» 🇨🇿 [Seznamzpravy / 6 fév. 2025] Kingdom Come: Deliverance II na sebe vydělalo hned první den, říká Vávra → https://cutt.ly/mrqLgpXp
+» 🇺🇸 [IGN / 5 fév. 2025] Kingdom Come: Deliverance 2 has already sold 1 million copies, dev calls it a ‘triumph’ → https://cutt.ly/frqLftTO
+» 🇫🇷 [IGN France / 5 fév. 2025] Kingdom Come: Deliverance 2 a déjà vendu 1 million d’exemplaires, le développeur parle de "triomphe" → https://cutt.ly/jrqLfadw
+» 🇫🇷 [Xboxygen / 8 fév. 2025] Grâce à ses ventes, Kingdom Come : Deliverance 2 s’est rentabilisé en seulement 1 jour ! → https://cutt.ly/4rqLfYr8
+» 🇫🇷 [ActuGaming / 13 fév. 2025] Kingdom Come Deliverance II approche des 2 millions de ventes et dépasse les espérances d’Embracer → https://actugaming.net/a-703925
+
+» 🇺🇸 [Remedy / 12 fév. 2025] Alan Wake 2 sales exceeded 2 million units and the game started to accrue royalties, updated company strategy and growth objectives announced → https://cutt.ly/brqK6HMY
+» 🇫🇷 [ActuGaming / 12 fév. 2025] Alan Wake 2 commence à être rentable avec 2 millions d’exemplaires vendus tandis que Control 2 avance bien → https://actugaming.net/a-703481
+» 🇫🇷 [Gamekult / 12 fév. 2025] Alan Wake 2 a dépassé les 2 millions de ventes à la fin de l'année 2024 → https://cutt.ly/zrqLwjqq
+
+» 🇬🇧 [Eurogamer / 7 fév. 2025] Dragon Quest 3 HD-2D Remake exceeded Square Enix expectations, but game sales drop overall → https://cutt.ly/2e6aODBn
+» 🇫🇷 [ActuGaming / 7 fév. 2025] Dragon Quest 3 HD-2D Remake est un tel succès qu’il a dépassé les attentes de Square Enix → https://actugaming.net/a-702162
+» 🇫🇷 [Gamekult / 8 fév. 2025] Square Enix : des ventes meilleures que prévu pour Dragon Quest 3 HD-2D Remake, mais le mobile s'effondre → https://cutt.ly/Ee6aDEbf
+
+» 🇺🇸 [The Verge / 11 fév. 2025] Microsoft confirms it’s getting out of HoloLens hardware entirely → https://cutt.ly/grqLpCCj
+» 🇫🇷 [Frandroid / 14 fév. 2025] Microsoft jette l’éponge : fin de partie pour son casque de réalité mixte sauf pour un usage précis → https://cutt.ly/IrqLpkLf
+
+### Grève générale
+» 🇫🇷️ [STJV / 17 jan. 2025] **GG25 : Appel à la grève générale de l’industrie du jeu vidéo – 13 février 2025** → <https://cutt.ly/Fe3cahcB>
+» 🇫🇷️ [STJV / 25 jan. 2025] **GG25, Grève générale du jeu vidéo : pourquoi ? pour qui ? comment ?** → <https://cutt.ly/SrqzGn6R>
+» 🇫🇷️ [STJV / 1er fév. 2025] **GG25, Grève générale du jeu vidéo : quelles revendications ?** → <https://cutt.ly/LrqzHNsF>
+» 🇫🇷️ [STJV / 12 fév. 2025] **GG25 – Linguistes solidaires** → <https://cutt.ly/RrqzHxLb>
+
+» 💰 **Grève bundle GG25** → <https://itch.io/b/2891/grve-bundle-gg25>
+
+» 🇫🇷 [ActuGaming / 13 fév. 2025] **La grève générale de la STJV débute aujourd’hui, un bundle est disponible pour la soutenir** → <https://actugaming.net/a-703927>
+» 🇫🇷 [Gamekult / 14 fév. 2025] **Grève générale : un bundle pour soutenir la caisse de grève** → <https://cutt.ly/prqG4o5Q>
+
+» 🇫🇷️ [Libération / 12 fév. 2025] **Licenciements, fermetures de studios, précarité… Une première grève nationale pour l’industrie du jeu vidéo.** A l’appel du Syndicat des travailleurs et travailleuses du jeu vidéo, une mobilisation générale inédite est prévue ce jeudi 13 février dans le secteur qui dénonce depuis un an des conditions de travail dégradées. Manière d’acter un nouveau rapport de force entre les représentants des salariés et les patrons. → <https://cutt.ly/PrqzJ4uQ>
+» 🇫🇷️ [Libération / 13 fév. 2025] **Industrie du jeu vidéo en crise : «La course aux superproductions est une formule qui ne fonctionne plus».** Le spécialiste des rouages économiques du secteur et cofondateur du studio Weird Loop, Stéphane Rappeneau, explique à «Libé» comment l’industrie a basculé d’un âge d’or à une crise appelée à durer. → <https://cutt.ly/rrqzLPLP>
+» 🇫🇷️ [Libération / 14 fév. 2025] **Jeux vidéo : Ubisoft plombé par des résultats décevants et une grève nationale.** Le géant français des jeux vidéo a dévoilé ce jeudi 12 février son chiffre d’affaires en baisse, alors que les salariés se sont mis en grève pour défendre leurs salaires. → <https://cutt.ly/HrqzFly2>
+
+» 🇫🇷️ [Le Monde / 13 fév. 2025] **Grève nationale dans le jeu vidéo, point culminant de l’ascension du STJV : « Les patrons ne peuvent plus nous ignorer ».**  Cette organisation indépendante, qui s’est implantée depuis sa création, en 2017, au sein de plusieurs dizaines d’entreprises du secteur vidéoludique français, prévoit une journée de grève nationale dans un contexte tendu. → <https://cutt.ly/Xrqz3iYm>
+» 🇫🇷️ [Le Monde / 13 fév. 2025] **A Paris, une « journée historique » pour les grévistes du jeu vidéo.** Une dizaine de rassemblements ont été organisés à travers la France, jeudi 13 février, dans le cadre d’une grève nationale du secteur vidéoludique organisée à l’initiative du Syndicat des travailleurs et travailleuses du jeu vidéo. → <https://cutt.ly/jrqz3XjU>
+
+» 🇫🇷️ [Le Figaro / 13 fév. 2025] **«On nous demande de payer l’addition» : le jeu vidéo français en grève ce jeudi contre les licenciements et la crise.** «On s’attend à une mobilisation plutôt importante», a affirmé Vincent Cambedouzou, délégué du STJV à Ubisoft Paris, qui espère rassembler plusieurs milliers de manifestants. → <https://cutt.ly/5rqxVnn1>
+
+» 🇫🇷️ [France Inter / 13 fév. 2025] **Le jeu vidéo français vit ce jeudi sa toute première grève générale** → <https://cutt.ly/VrqxB3Gq>
+» 🇫🇷️ [France Culture / 13 fév. 2025] **Jeu vidéo en grève, quelle est l'ampleur de la crise ?** → <https://cutt.ly/4rqxN2m6>
+
+» 🎧 [Silence on joue / 13 fév. 2025] Pourquoi la grève générale, avec le STJV → https://cutt.ly/zrqv5Gqu
+
+### State of Play
+» 🇫🇷 [ActuGaming / 13 fév. 2025] State of Play : Le résumé complet des annonces sur PS5 (Days Gone Remaster, Saros, Onimusha…) → https://actugaming.net/a-703561
+
+» Saros, annoncé sur PlayStation 5 ; édité par Sony Interactive Entertainment, développé par Housemarque
+» 🇫🇷 [ActuGaming / 12 fév. 2025] Housemarque dévoile Saros, un nouveau jeu de tir dans la lignée de Returnal → https://actugaming.net/a-703640
+
+» 🇫🇷 [ActuGaming / 13 fév. 2025] Onimusha: Way of the Sword met brièvement en scène son héros dans une petite vidéo de gameplay → https://actugaming.net/a-703594
+
+» Directive 8020: A Dark Pictures Game, le 2 oct. 2025 sur PlayStation 5, Xbox Series et PC ; développé par Supermassive Games → https://s.team/a/2255370 | https://store.playstation.com/concept/10008357 | https://xbox.com/games/store/g/9pf9qdh98k8l
+» 🇫🇷 [ActuGaming / 13 fév. 2025] Directive 8020 : le jeu d'horreur s'offre un trailer cinématique et une date de sortie → https://cutt.ly/drqbdnnn
+
+» SHINOBI: Art of Vengeance, le 29 août 2025 sur Switch, PlayStation, Xbox et PC / Steam Deck ; édité par Sega, développé par Lizardcube → https://shinobi-art-of-vengeance.sega.jp | https://sega.com/fr/shinobi/shinobi-art-of-vengeance | https://s.team/a/2361770
+» 🇫🇷 [ActuGaming / 13 fév. 2025] SHINOBI: Art of Vengeance : Le retour de la licence de SEGA s’effectuera le 29 août avec les français de Lizardcube à la baguette → https://actugaming.net/a-703757
+
+» Darwin's Paradox! annoncé pour 2025 sur Switch, PlayStation 5, Xbox Series eet PC / Steam Deck, édité par Konami, développé par ZDT (ZeDrimeTim) Studio → https://konami.com/games/darwins_paradox/ | https://s.team/a/2989180
+
+» Dreams of Another, annoncé pour 2025 sur PlayStation 5 et PS VR 2 ; développé par Q-Games → https://store.playstation.com/concept/10009629
+
+» The Midnight Walk, le 8 mai 2025 ; édité par Fast Travel Games, développé par MoonHood → https://moonhood.se | https://s.team/a/2863640
+
+» Lost Soul Aside, le 30 mai 2025 sur PlayStation 5 et PC ; édité par Sony Interactive Entertainment, développé par Ultizero Games → https://s.team/a/3378960 | https://store.playstation.com/concept/10012778
+» 🇫🇷 [ActuGaming / 12 fév. 2025] Le spectaculaire Lost Soul Aside sort de son terrier pour préciser sa sortie → https://actugaming.net/a-703568
+
+» 湮灭之潮 / Tides of Annihilation, annoncé sur PlayStation 5, Xbox Series et PC ; développé par Eclipse Glow Games → https://cn.playtoa.com | https://global.playtoa.com | https://s.team/a/3292470
+» 🇫🇷 [ActuGaming / 13 fév. 2025] Tides of Annihilation est un jeu d’action inspiré des légendes arthuriennes qui en met plein la vue dans sa première vidéo → https://actugaming.net/a-703756
+» ▶️ [YouTube / IGN / 14 févr. 2025] Tides of Annihilation - Extended gameplay walkthrough → https://youtu.be/_hU-lpWlaEs (11 min)
+
+» Sonic Racing: CrossWorlds, annoncé sur Switch, PlayStation, Xbox et PC / Steam Deck ; édité et développé par Sega → https://sonic.sega.jp/SonicRacingCrossWorlds/ | https://www.sega.com/sonic-the-hedgehog/sonic-racing-crossworlds | https://s.team/a/2486820
+» 🇫🇷 [ActuGaming / 12 fév. 2025] Sonic Racing: CrossWorlds : un premier trailer dévoile des courses à travers les dimensions → https://actugaming.net/a-703597
+
+» 無双アビス / Warriors: Abyss, sorti le 13 fév. 2025 à 25 € sur Switch, PlayStation, Xbox et PC / Steam Deck ; édité par Koei Tecmo Games, développé par Omega Force → https://www.gamecity.ne.jp/musou_abyss/jp/ | https://www.koeitecmoeurope.com/warriors_abyss/fr/ | https://s.team/a/3178350
+» 🇫🇷 [ActuGaming / 13 fév. 2025] Warriors: Abyss veut mélanger le roguelite et le musou, une formule étonnante qui est disponible dès maintenant → https://actugaming.net/a-703807
+
+» Borderlands 4, le 23 sept. 2025 sur PlayStation 5, Xbox Series et PC / Steam Deck ; édité par 2K, développé par Gearbox → https://borderlands.2k.com | https://s.team/a/1285190
+» 🇫🇷 [ActuGaming / 13 fév. 2025] Borderlands 4 fait le tour de son arsenal et nous donne rendez-vous pour une sortie en septembre → https://actugaming.net/a-703776
+
+» Hell is Us, le 4 sept. 2025 sur PlayStation 5, Xbox Series et PC / Steam Deck ; édité par Nacon, développé par Rogue Factor, studio derrière Mordheim (2015) et Necromunda (2020) → https://hell-is-us.com | https://s.team/a/1620730
+» 🇫🇷 [ActuGaming / 13 fév. 2025] Hell is Us profite d’un trailer cryptique pour annoncer sa sortie au 4 septembre 2025 → https://actugaming.net/a-703800
+
+» 🇫🇷 [ActuGaming / 13 fév. 2025] Lies of P: Overture : Le DLC du Souls-like coréen se précise en vidéo avec une ambiance hivernale et une sortie pour cet été → https://actugaming.net/a-703715
+
+» 🇫🇷 [ActuGaming / 13 fév. 2025] Days Gone Remastered s’annonce sur PS5 avec des améliorations graphiques et du nouveau contenu → https://actugaming.net/a-703669
+
+» 🇫🇷 [ActuGaming / 13 fév. 2025] Mindseye : l’ancien producteur des GTA dévoile son nouveau jeu d’action-aventure → https://actugaming.net/a-703815
+
+## Reportage : exposition Jordan Mechner à la galerie Maeght
+» Les œuvres d'art de Jordan Mechner → https://jordanmechner.com/fr/artworks/
+
+» 🇫🇷 [M05 Mag / 15 jan. 2025] Jordan Mechner au vernissage de l’exposition de ses gravures à la Galerie Maeght → https://cutt.ly/ArqLQXbE
+
+» Les eaux-fortes originales par Jordan Mechner, chacune éditée en 2024 à 35 exemplaires signés et numérotés :
+- 🛍️ Anna Wolff, 41 x 50 cm, 380 € → https://maeght.com/produit/anna-wolff/
+- 🛍️ Chappaqua – Dome House, 33 x 33 cm, 220 € → https://maeght.com/produit/chappaqua-dome-house/
+- 🛍️ Streetcar 1910, 32 x 33 cm, 220 € → https://maeght.com/produit/streetcar-1910/
+- 🛍️ 11 rue Daguerre, 33 x 36 cm, 220 € → https://maeght.com/produit/11-rue-daguerre/
+- 🛍️ Prince of Persia – Shadow, 42 x 50 cm, 380 € → https://maeght.com/produit/prince-of-persia-shadow/
+
+» 📙️ Replay : mémoire d'une famille, 320 p., par Jordan Mechner, publié le 26 avril 2023 chez Delcourt collection Shampooing, 29 € en édition papier (EAN 9782413040866) → https://cutt.ly/s6OQQ0t
+
+## Jeux
+### Rift of the Necrodancer
+» Rift of the Necrodancer, sorti le 5 févr. 2025 à 20 € sur PC / Steam Deck (https://s.team/a/2073250)
+- sorti le 5 févr. 2025 sur Switch et PC / Steam Deck
+- édité par Klei Entertainment, développé par Brace Yourself Games, studio canadien 🇨🇦 derrière _Crypt of the NecroDancer_ (2015) et _Cadence of Hyrule_ (2019), et Tic Toc Games, studio californien 🇺🇸 de portage, support et plusieurs jeux mobiles → <https://braceyourselfgames.com/rift-of-the-necrodancer/>
+
+🎮 bientôt sur Switch (<https://cutt.ly/he7atMKc>)
+💻️ 19,50 € sur Steam (<https://s.team/a/2073250>)
+
+### Avowed
+» Avowed, le 18 fév. 2025 à 70 € sur Xbox Series (Game Pass) et PC / Steam Deck ; développé par Obsidian Entertainement → https://s.team/a/2457220 | https://avowed.obsidian.net
+- sorti le 18 fév. 2025 sur Xbox Series et PC / Steam Deck
+- édité par Xbox Game Studios, développé par Obsidian Entertainment → https://avowed.obsidian.net
+- réalisation dirigée par Carrie Patel, direction artistique par Matt Hansen, musiques par Venus Theory
+
+🎮 70 € ou inclus dans le Game Pass sur Xbox (<https://cutt.ly/FrqLE0XP>)
+💻️ 70 € sur Steam (<https://s.team/a/2457220>)
+
+## Mais pas que
+### Kévin
+» 📘 **Shin Zero** tome 1 sur 3, 216 p., scénario par Mathieu Bablet, dessin par Guillaume Singelin, paru le 22 jan. 2025 chez Rue De Sevres collection Label 619, 14 € en édition physique (EAN 9782810209651) → <https://editions-ruedesevres.fr/Shin-Zero-T1
+
+
+raids entrants :
+- Jarm0u à 13:10 +58
+- TheBigGameovski à 14:30 +4
+- JustForGamesFR à 14:58 +29
+
 
 
 
@@ -10887,7 +11038,7 @@ raids : OrigaTwitch => (15:18)[+432] Kokihiete => (18:18)[+103] KaoryKat (termin
 
 » Gautoz / Gauthier Andres → 🦋 https://bsky.app/profile/gautoz.cool | 𝕏 https://twitter.com/gautoz 
 » Padre / Florian Velter → 🦋 https://bsky.app/profile/leperefidalbion.bsky.social | 𝕏 https://twitter.com/LePereFidalbion
-» Hoopy / Sylvain Tastet → 🦋 https://bsky.app/profile/hoopyjv.bsky.social | 𝕏 https://twitter.com/_Hoopy 
+» Hoopy / Sylvain Tastet → 🦋 https://bsky.app/profile/hoopyjv.bsky.social | 𝕏 https://twitter.com/_Hoopy
 » Moguri / Kevin Cicurel → 🦋 https://bsky.app/profile/elmogurito.bsky.social | 𝕏 https://twitter.com/El_Mogurito
 » LaLinosse / Héloïse Linossier → 🦋 https://bsky.app/profile/hlinossier.bsky.social | 𝕏 https://twitter.com/HLinossier
 » Hubert Petit → 🦋 https://bsky.app/profile/hubertpetit.bsky.social | 𝕏 https://twitter.com/snakenhub
