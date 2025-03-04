@@ -11381,6 +11381,106 @@ raids : OrigaTwitch => (15:16)[+425] DollyWood_
 raids : OrigaTwitch => (15:53) mistermv
 
 
+--------------------------------------
+2025-03-04
+
+# Mardinale #43
+## Actus
+### Speedons 2025 lève 2,23 millions d'euros pour Médecins du Monde
+» ▶️ [YouTube] **SpeeDons** → <https://youtube.com/@SpeeDons>
+» 🇫🇷 [ActuGaming / 3 mars 2025] SpeeDons 5 : Une nouvelle édition record avec plus de 2 millions d’euros récoltés au profit de Médecins du Monde → https://actugaming.net/a-708897
+
+### Monster Hunter Wilds vend 8 millions en trois jours
+» 🇺🇸 [Kotaku / 28 fév. 2025] _Monster Hunter Wilds_ explodes on Steam despite terrible user reviews. The online action-RPG is breaking records and struggling on weaker gaming rigs → https://kotaku.com/a-1851766992
+» 🇫🇷 [ActuGaming / 28 fév. 2025] Monster Hunter Wilds est déjà un carton historique, avec un record établi sur Steam pour la série → https://actugaming.net/a-708162
+
+» 🇺🇸 [Kotaku / 3 mars 2025] _Monster Hunter Wilds_ devs are fixing a game-breaking bug while PC players edit file typos because of bad performance. The game's first weekend helped Steam break player records → https://kotaku.com/n-1851767330
+» 🇫🇷 [ActuGaming / 3 mars 2025] Monster Hunter Wilds : Un bug bloquant a été découvert et Capcom promet de le corriger au plus vite → https://actugaming.net/a-708987
+
+» 🇺🇸 [Capcom / 4 mars 2025] The new _Monster Hunter Wilds_ roars past 8 million units sold with ferocious speed! → https://www.capcom.co.jp/ir/english/news/html/e250304.html
+» 🇫🇷 [ActuGaming / 3 mars 2025] Monster Hunter Wilds dépasse déjà les 8 millions de ventes et réalise le plus gros lancement d’un jeu Capcom → https://actugaming.net/a-709327
+
+» 🇯🇵 [Automaton Media / 3 mars 2025] あるネパール料理屋、「『モンスターハンターワイルズ』が出て、チーズナンが売れまくってる」と報告。チーズ在庫尽きるレベルで. 『モンスターハンターワイルズ』の発売後に、とあるネパール料理屋が「チーズナンが大人気になっている」と報告。本作への感謝を伝えている。 (A Nepali restaurant reported that "since the release of 'Monster Hunter Wilds', cheese naan has been selling like hotcakes." They're running out of cheese in stock.) → https://cutt.ly/1rtDSnE7
+» 🇫🇷 [ActuGaming / 3 mars 2025] Monster Hunter Wilds : un plat emblématique du jeu fait décoller les ventes de cheese naan au Japon → https://actugaming.net/a-709055
+
+» le fil de discussion des bizarres chasseurs de gros monstres 💬
+
+### Warner ferme trois studios dont Monolith
+» 🇺🇸 [Bloomberg / 7 fév. 2025] Warner Bros. video-game division faces thin slate, leadership uncertainty and Wonder Woman issues. Last year, Warner Bros. Discovery took $300 million in losses on gaming. The near future is rife with additional challenges → https://cutt.ly/nrr2OvEI
+» 🇺🇸 [Bloomberg / 25 fév. 2025] Warner Bros. shuts down three game studios, cancels Wonder Woman title. Closures follow several disappointing releases last year → https://cutt.ly/nrrgjZPQ
+» 🇺🇸 [TheGamer / 25 fév. 2025] Warner Bros. cancels Wonder Woman game, shuts down MultiVersus dev → https://cutt.ly/1rtM5CxZ
+» 🇫🇷 [ActuGaming / 25 fév. 2025] Warner Bros annule le jeu Wonder Woman et ferme Monolith Productions, Player First Games (MultiVersus) et WB San Diego → https://actugaming.net/a-707293
+» 🇫🇷 [Gamekult / 25 fév. 2025] Warner annonce la fermeture de Monolith Productions et annule le jeu Wonder Woman. Player First Games et WB Games San Diego vont également fermer → https://cutt.ly/trrT47R9
+» 🇺🇸 [Kotaku / 25 fév. 2025] Warner Bros. cancels Wonder Woman game and shuts down _Shadow Of Mordor_ studio. Monolith Productions is closing as part of a massive Warner Bros. Games reshuffle → https://kotaku.com/n-1851766400
+» 🇫🇷 [Gamekult / 26 fév. 2025] Warner Bros. : David Zaslav, PDG incompétent et symbole d'une industrie malade → https://cutt.ly/OrrT9llK
+» 🇺🇸 [Kotaku / 26 fév. 2025] Comic book writer says unfinished Wonder Woman game was 'gorgeous and expansive'. Secret Six and Batgirl writer Gail Simone called Monolith's canceled game 'a showpiece epic' → https://kotaku.com/n-1851766545
+» 🇫🇷 [Gamekult / 26 fév. 2025] Wonder Woman : l'autrice Gail Simone s'exprime sur l'annulation du jeu → https://cutt.ly/drrT38UD
+» 🇺🇸 [Kotaku / 26 fév. 2025] The Nemesis system was one of the best things gaming ever did, and WB just killed it. Warner Bros. is shutting down the team responsible for one of the most interesting narrative design mechanics in recent memory → https://kotaku.com/n-1851766437
+» 🇫🇷 [ActuGaming / 26 fév. 2025] Avec la fermeture de Monolith et un brevet possédé par Warner Bros, le système Nemesis repart aux oubliettes → https://actugaming.net/a-707303
+
+### NetEase revoit ses investissements hors-Chine
+» 🇺🇸 [Game File / 21 fév. 2025] In an industry earthquake, NetEase plans to cut more all-star game studios. More than a dozen teams around the world could be impacted, a source tells Game File → https://cutt.ly/hrtM6sio
+» 🇺🇸 [Bloomberg / 21 fév. 2025] NetEase’s billionaire CEO slashes jobs and games in profit push. Hundreds of staffers and about a dozen games have been cut. Founder William Ding sets elevated expectations for results → https://cutt.ly/dre4DsqE
+» 🇫🇷 [ActuGaming / 24 fév. 2025] Marvel Rivals a failli être annulé, le PDG de NetEase ne voulant pas payer Disney pour les droits → https://actugaming.net/a-706692
+
+» 🇺🇸 [Game Developer / 25 fév. 2025] NetEase commits to supporting overseas studios but feels structural changes are 'necessary'. 'Our studios in North America, the UK, Spain, France, and Japan all continue to refine and develop their ongoing game projects.' → https://cutt.ly/0rrgbDh4
+» 🇫🇷 [ActuGaming / 25 fév. 2025] Quantic Dream assure qu’il est hors de danger et qu’il n’est pas concerné par les coupes chez NetEase → https://actugaming.net/a-707199
+» 🇫🇷 [Gamekult / 25 fév. 2025] Quantic Dream esquive les licenciements chez NetEase → https://cutt.ly/IrrT7tud
+» 🇬🇧 [Eurogamer / 25 fév. 2025] Star Wars Eclipse developer Quantic Dream gives update amidst NetEase cuts and closures. Studio "deeply saddened" but otherwise "unaffected" → https://cutt.ly/srrgb8XT
+
+» 🇺🇸 [80 level / 24 fév. 2025] 30% of Black Myth: Wukong Players aren't from China, the game's art director says. It means the title sold around 7.5 million copies outside of its home country. → https://cutt.ly/qre4T55o
+» 🇫🇷 [ActuGaming / 24 fév. 2025] 30% des ventes de Black Myth Wukong ont été réalisées hors-Chine, soit plus de 7,5 millions de copies écoulées → https://actugaming.net/a-706801
+
+### Hasbro commande à Saber un succès "à la Space Marine 2"
+» 🇺🇸 [Gematsu / 20 fév. 2025] Saber Interactive developing AAA game based on “tentpole” Hasbro IP. Led by the Warhammer 40,000: Space Marine II team → https://cutt.ly/HrewLJjT
+» 🇫🇷 [ActuGaming / 20 fév. 2025] Saber Interactive (Warhammer 40,000: Space Marine II) va travailler sur une grosse licence de Hasbro (Transformers ?) → https://actugaming.net/a-705870
+» 🇫🇷 [Gamekult / 21 fév. 2025] Après Warhammer 40,000 Space Marines 2, les développeurs sur un jeu Hasbro. De quoi Saber le champagne → https://cutt.ly/Jreepgl2
+
+» fil de discussion 💬
+
+### Rockstar achète Deluxe Video Games (et réhabilité Brendan McNamara)
+» 🇺🇸 [Business Wire / 3 mars 2025] Rockstar Games to acquire Video Games Deluxe → https://cutt.ly/YrtDBFBe
+» 🇫🇷 [ActuGaming / 3 mars 2025] Rockstar Games acquiert le studio Video Game Deluxe, avec qui il avait collaboré sur L.A. Noire → https://actugaming.net/a-709039
+» 🇫🇷 [Gamekult / 3 mars 2025] À fond sur GTA 6, Rockstar Games se renforce avec l'acquisition de Video Games Deluxe. Rockstar Australia rejoint la fête → https://cutt.ly/OrtDLkRd
+
+### Détresse au travail chez Microids
+» 🇫🇷 [BFM TV / 28 fév. 2025] "C'est une super boîte, mais on est épuisé": chez Microids, les salariés alertent sur des conditions de travail dégradées → https://cutt.ly/3rtDVH4Z
+» 🇫🇷 [ActuGaming / 4 mars 2025] Microids : Des témoignages évoquent des conditions de travail de plus en plus épuisantes chez l’éditeur français → https://actugaming.net/a-709462
+» 🇫🇷 [Gamekult / 4 mars 2025] Crise chez Microids : des témoignages accablants sur la gestion du studio → https://cutt.ly/Irt1y5kN
+
+### PSE chez DON'T NOD : pour le STJV, "la lutte paie"
+» 🇫🇷 [Don't Nod / 26 fév. 2025] Avancées du projet de réorganisation de DON'T NOD et perspectives → https://cutt.ly/srrTBLPT
+» 🇫🇷 [STJV / 26 fév. 2025] La lutte paie : accord trouvé à Don’t Nod → https://cutt.ly/8rrTBBt4
+» 🇫🇷 [ActuGaming / 27 fév. 2025] DON’T NOD : Après la grève, un accord a été trouvé entre la direction et l’organisation syndicale pour sauver quelques emplois → https://actugaming.net/a-707774
+» 🇫🇷 [Gamekult / 27 fév. 2025] En restructuration, Don't Nod prévoit jusqu'à 58 licenciements économiques. Le studio français va se concentrer sur deux jeux → https://cutt.ly/urrXAZHy
+
+### Leikir a discrètement licencié un tiers de ses troupes
+» 🇫🇷 [Canard PC / 28 fév. 2025] Enquête sur les licenciements chez Leikir Studio → https://cutt.ly/Frr2aWFY
+» 🇫🇷 [ActuGaming / 4 mars 2025] Leikir Studio, derrière Metal Slug Tactics, licencie une partie de ses employés suite à l’annulation d’un projet → https://actugaming.net/a-709145
+» 🇫🇷 [Gamekult / 4 mars 2025] Leikir Studio (Metal Slug Tactics) : un tiers des effectifs licenciés dans la discrétion la plus totale → https://cutt.ly/Grt1fhry
+
+### EA libère le code source de plusieurs jeux Command&Conquer
+» 🇫🇷 [Gamekult / 27 fév. 2025] Révolution pour Command & Conquer : EA libère le code source de plusieurs jeux. Un tournant historique pour la communauté C&C → https://cutt.ly/3rrXOAac
+» 🇺🇸 [Kotaku / 28 fév. 2025] EA has done something wonderful that every major publisher needs to copy. The first four _Command & Conquer_ games are now officially open source → https://kotaku.com/n-1851767009
+
+### Anno 117: Pax Romana sort en 2025
+» 🇫🇷 [Gamekult / 27 fév. 2025] Anno 117 : Pax Romana monte en bateau et présente ses mécaniques → https://cutt.ly/krt1hoVm
+
+### MercurySteam annonce Blades of Fire pour ~~avril~~ le 22 mai
+» Blades of Fire, le 22 mai 2025 sur PC / Steam Deck ; édité par 505 Games, développé par MercurySteam, studio espagnol derrière _Castlevania: Lords of Shadow 1_ (2010) et _2_ (2014), _Metroid Dread_ (2021) → https://bladesoffire.com
+
+### Les anciens de Zachtronics reviennent au jeu vidéo
+» Kaizen: A Factory Story, annoncé pour 2025 sur PC / Steam Deck ; édité par Astra Logical, développé par Coincidence, nouveau studio de l'quipe Zachtronics, derrière _SpaceChem_ (2011), _Infinifactory_ (2015), _TIS-100_ (2015), _Shenzhen I/O_ (2016), _Opus Magnum_ (2017), _ExaPunks_ (2018), _Eliza_ (2019), _Last Call BBS_ (2022) → https://coincidence.games/kaizen/ | https://s.team/a/2275490
+» 🇫🇷 [Gamekult / 3 mars 2025] Kaizen : A Factory Story marque le retour des développeurs de Zachtronics → https://cutt.ly/ZrtD1ZiM
+» 🇺🇸 [Game Developer / 3 mars 2025] Ex-Zachtronics devs establish new 'framework' team Coincidence. Coincidence will make puzzle games like Zachtronics used to, but it also appears to be dabbling in other mediums like in-person card games → https://cutt.ly/krtD14UN
+
+» fil de discussion 💬
+
+### Terminator 2D : NO FATE, un hommage rétro au T-800
+» Terminator 2D: NO FATE, le 5 sept. 2025 sur Switch, PlayStation 4 & 5, Xbox One & Series, et PC / Steam Deck ; développé par Bitmap Bureau, studio britannique d'une quinzaine de personnes derrière _Final Vandetta_ (2022), _Battle Axe_ (2021), _Xeno Crisis_ (2019), _Ninja Showdown_ (2017), _88 Heroes_ (2017) → https://terminator2d.com | https://bitmapbureau.com
+
+
+
 
 
 » 💬
