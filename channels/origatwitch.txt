@@ -11480,7 +11480,125 @@ raids : OrigaTwitch => (15:53) mistermv
 » Terminator 2D: NO FATE, le 5 sept. 2025 sur Switch, PlayStation 4 & 5, Xbox One & Series, et PC / Steam Deck ; développé par Bitmap Bureau, studio britannique d'une quinzaine de personnes derrière _Final Vandetta_ (2022), _Battle Axe_ (2021), _Xeno Crisis_ (2019), _Ninja Showdown_ (2017), _88 Heroes_ (2017) → https://terminator2d.com | https://bitmapbureau.com
 
 
+--------------------------------------
+2025-03-07
 
+# L'Hebdo #55
+## Actus
+### La semaine
+**Le retour de Zachtronics, sous une nouvelle forme**
+» Kaizen: A Factory Story, annoncé pour 2025 sur PC / Steam Deck ; édité par Astra Logical, développé par Coincidence, nouveau studio de l'quipe Zachtronics, derrière _SpaceChem_ (2011), _Infinifactory_ (2015), _TIS-100_ (2015), _Shenzhen I/O_ (2016), _Opus Magnum_ (2017), _ExaPunks_ (2018), _Eliza_ (2019), _Last Call BBS_ (2022) → https://coincidence.games/kaizen/ | https://s.team/a/2275490
+» 🇫🇷 [Gamekult / 3 mars 2025] Kaizen : A Factory Story marque le retour des développeurs de Zachtronics → https://cutt.ly/ZrtD1ZiM
+» 🇺🇸 [Game Developer / 3 mars 2025] Ex-Zachtronics devs establish new 'framework' team Coincidence. Coincidence will make puzzle games like Zachtronics used to, but it also appears to be dabbling in other mediums like in-person card games → https://cutt.ly/krtD14UN
+
+**Licenciements chez PlayStation**
+» 🇺🇸 [LinkedIn / Ozgur Ustundag / 3 mars 2025] my wonderful time at PlayStation Studios Visual Arts has come to an end due to the multiple project cancellations → https://cutt.ly/Prt1C7iq
+» 🇺🇸 [Kotaku / 4 mars 2025] PlayStation hit with more layoffs following recent game cancellations. Sony's PlayStation Visual Arts team faces fresh cuts as the company continues reorganizing → https://kotaku.com/n-1851767734
+» 🇺🇸 [Game Developer / 5 mars 2025] Sony cutting jobs at Visual Arts and Malaysia support studios. PlayStation maker Sony is reportedly continuing a layoff spree that has resulted in widespread redundancies, project cancellations, and studio closures → https://cutt.ly/mryTJvlI
+» 🇫🇷 [ActuGaming / 5 mars 2025] Les licenciements continuent chez PlayStation, notamment au sein du studio Visual Arts → https://actugaming.net/a-709742
+
+**Rockstar achète Deluxe Video Games (et réhabilite Brendan McNamara**
+» 🇺🇸 [Business Wire / 3 mars 2025] Rockstar Games to acquire Video Games Deluxe → https://cutt.ly/YrtDBFBe
+» 🇫🇷 [ActuGaming / 3 mars 2025] Rockstar Games acquiert le studio Video Game Deluxe, avec qui il avait collaboré sur L.A. Noire → https://actugaming.net/a-709039
+» 🇫🇷 [Gamekult / 3 mars 2025] À fond sur GTA 6, Rockstar Games se renforce avec l'acquisition de Video Games Deluxe. Rockstar Australia rejoint la fête → https://cutt.ly/OrtDLkRd
+
+» SIGNAL: Uncharted Lands, le 3 mars 2025 sur PC / Steam Deck ; développé par le studio ukrainien 🇺🇦 HmarkaTeam → https://s.team/a/3194380
+
+**Monster Hunter Wilds vend 8 millions en trois jours**
+» 🇺🇸 [Capcom / 4 mars 2025] The new _Monster Hunter Wilds_ roars past 8 million units sold with ferocious speed! → <https://cutt.ly/PryYeGDF>
+» 🇫🇷 [ActuGaming / 4 mars 2025] Monster Hunter Wilds dépasse déjà les 8 millions de ventes et réalise le plus gros lancement d’un jeu Capcom → https://actugaming.net/a-709327
+
+**Pokémon TCG Pocket passe les 100 millions de téléchargements**
+» 🇬🇧 [VGC / 28 fév. 2025] Pokémon TCG Pocket has passed 100 million downloads. Ranked matches are coming soon to the virtual card battler → https://cutt.ly/jryTKHu9
+
+**Speedons 2025 lève 2,23 millions d'euros pour Médecins du Monde**
+» ▶️ [YouTube] **SpeeDons** → <https://youtube.com/@SpeeDons>
+» 🇫🇷 [ActuGaming / 3 mars 2025] SpeeDons 5 : Une nouvelle édition record avec plus de 2 millions d’euros récoltés au profit de Médecins du Monde → https://actugaming.net/a-708897
+
+**Acclaim revient d'entre les morts**
+» 🇺🇸 [Gematsu / 4 mars 2025] Game publisher Acclaim returns with focus on indie studios and classics, led by games industry veteran Alex Josef → https://cutt.ly/Wrt1CszG
+» 🇫🇷 [ActuGaming / 4 mars 2025] L’éditeur Acclaim revient d’entre les morts pour aider les studios indépendants et pour faire revivre certaines licences cultes → https://actugaming.net/a-709483
+
+**Tony Hawk’s Pro Skater 3+4**
+» 🇫🇷 [ActuGaming / 4 mars 2025] Tony Hawk’s Pro Skater 3+4 est annoncé et sortira dès cet été, premières images de cette nouvelle compilation → https://actugaming.net/a-709457
+» 🇺🇸 [Kotaku / 4 mars 2025] _Tony Hawk's Pro Skater 3+4_ officially revealed, launching in July. _THPS_ 3+4 is a remaster of the third and fourth entries in the popular skateboarding series → https://kotaku.com/n-1851767654
+
+» 🇺🇸 [Steam / The Rise of the Golden Idol / 4 mars 2025] _The Sins of New Wells_, the first DLC for _The Rise of the Golden Idol_, is now available! → https://cutt.ly/fryTC0Dg
+
+» 🇺🇸 [EventHub / 28 fév. 2025] Fatal Fury: City of the Wolves second beta test is indeed coming → https://cutt.ly/PryTNiXG
+
+### Nacon Connect
+» 🇫🇷 [ActuGaming / 6 mars 2025] Nacon Connect : RoboCop, Styx, Cthulhu: The Cosmic Abyss… Le résumé complet de la conférence du 06 mars 2025 → https://actugaming.net/a-710143
+
+- 🇫🇷 [ActuGaming / 6 mars 2025] Nacon dévoile Cthulhu: The Cosmic Abyss, un nouveau jeu d’enquête horrifique inspiré par l’univers de Lovecraft → https://actugaming.net/a-709824
+- 🇫🇷 [ActuGaming / 6 mars 2025] The Mound: Omen of Cthulhu vous demandera de survivre en coopération dans une jungle impitoyable → https://actugaming.net/a-710156
+- 🇫🇷 [ActuGaming / 6 mars 2025] Styx: Blades of Greed signe le retour du fameux gobelin voleur dans un nouvel épisode → https://actugaming.net/a-709796
+- 🇫🇷 [ActuGaming / 6 mars 2025] RoboCop reprend du service dans un nouveau standalone pour RoboCop: Rogue City, intitulé Unfinished Business → https://actugaming.net/a-709831
+- 🇫🇷 [ActuGaming / 6 mars 2025] Edge of Memories : Le prochain action-RPG du studio derrière Edge of Eternity dévoile davantage de gameplay → https://actugaming.net/a-710163
+- 🇫🇷 [ActuGaming / 6 mars 2025] Roméo et Juliette s’invitent dans Ravenswatch avec un DLC gratuit → https://actugaming.net/a-709786
+- 🇫🇷 [ActuGaming / 6 mars 2025] Hell is Us dévoile six minutes de gameplay à l’occasion de la Nacon Connect → https://actugaming.net/a-710173
+- 🇫🇷 [ActuGaming / 6 mars 2025] Ishtar Games lève le voile sur Dead in Antares, un nouvel épisode de sa série de gestion/survie → https://actugaming.net/a-710130
+- 🇫🇷 [ActuGaming / 6 mars 2025] The Fading of Nicole Wilson, une aventure narrative « folk-horror » où l’on incarne une chasseuse de fantômes → https://actugaming.net/a-710454
+
+### Pégases 2025
+» 🏆 Pégases 2025 → https://academiejeuvideo.org/edition-2025
+» ▶️ [YouTube / Académie des Arts et Techniques du Jeu Vidéo / 6 mars 2025] La 6ème cérémonie des Pégases → https://youtu.be/dAGdo4yZnWw (2 h 55 min)
+» 🇫🇷 [ActuGaming / 7 mars 2025] Pégases 2025 : Voici la liste des gagnants pour la cérémonie qui récompense les jeux français → https://actugaming.net/a-710483
+
+### Reportage : Absolom
+» Absolum, annoncé pour 2025 sur Switch, PlayStation 4 & 5 et PC / Steam Deck ; développé par Guard Crush, Supamonks et Dotemu → https://dotemu.com/games/absolum/ | https://s.team/a/1904480
+- annoncé pour 2025 sur Switch, PlayStation 4 & 5 et PC / Steam Deck
+- développé par Guard Crush, Supamonks et Dotemu → https://dotemu.com/games/absolum/
+
+💻️ page sur Steam (<https://s.team/a/1904480>)
+
+
+## Jeux
+### Knights in Tight Spaces
+» Knights in Tight Spaces, le 4 mars 2025 sur PC / Steam Deck, démo disponible ; édité par Raw Fury, développé par Ground Shatter, studio derrière _Fights in Tight Spaces_ (2021) → https://knightsintightspaces.com | https://s.team/a/2315400
+- le 4 mars 2025 sur PC / Steam Deck
+- édité par Raw Fury, développé par Ground Shatter, studio derrière _Fights in Tight Spaces_ (2021) → https://knightsintightspaces.com
+
+💻️ 19,50 € sur Steam (<https://s.team/a/2315400>), démo disponible
+
+### Clair Obscur: Expedition 33
+» Clair Obscur: Expedition 33, le 24 avril 2025 à 50 € sur PlayStation 5, Xbox Series (Game Pass) et PC / Steam Deck ; développé par Sandfall 🇫🇷, studio basé à Montpellier → https://sandfall.co | https://s.team/a/1903340
+- le 24 avril 2025 à 50 € sur PlayStation 5, Xbox Series (Game Pass) et PC / Steam Deck
+- édité par Kepler Interactive, développé par Sandfall, studio français 🇫🇷 basé à Montpellier → https://expedition33.com | https://sandfall.co
+- réalisé par Guillaume Broche, écriture par Jennifer Svedberg-Yen, direction artistique par Nicholas Maxson-Francombe, musiques par Lorien Testard
+
+🎮 50 € sur PlayStation (<https://cutt.ly/XryT2b9i>)
+🎮 50 € ou inclus dans le Game Pass sur Xbox (<https://cutt.ly/1ryT2EWv>)
+💻️ 50 € sur Steam (<https://s.team/a/1903340>)
+
+» ▶️ [YouTube / Origami / 6 mars 2025] Trois heures sur la démo de Clair Obscur: Expedition 33 (le J-RPG béret-baguette) → https://youtu.be/04LhrbvZ7gc (2 h 55 min)
+
+### Split Fiction
+» Split Fiction, sorti le 6 mars 2025 à 50 € sur PlayStation 5, Xbox Series et PC / Steam Deck ; édité par Electronic Arts, développé par Hazelight → https://ea.com/games/split-fiction
+- sorti le 6 mars 2025 sur PlayStation 5, Xbox Series et PC / Steam Deck
+- édité par Electronic Arts, développé par Hazelight, studio sudéois 🇸🇪 derrière _A Way Out_ (2018) et _It Takes Two_ (2021) → <https://ea.com/games/split-fiction>
+- réalisé par Josef Fares
+
+🎮 50 € sur PlayStation (<https://cutt.ly/vryvSSJW>) et Xbox (<https://cutt.ly/rryvDQZR>)
+💻️ 50 € sur Steam (<https://s.team/a/2001120>)
+
+## Mais pas que
+### Héloïse
+» 💥 On est Furax 💥 du 11 au 13 avril 2024 → https://onestfurax.fr
+» fil de forum 💬
+
+### Gautoz
+» 🎶 Earthblade ~ Across the Bounds of Fate, par Lena Raine, 7$ sur Bandcamp → https://radicaldreamland.bandcamp.com/album/earthblade-across-the-bounds-of-fate
+
+excuses de sac :
+- d'habitude on n'utilise pas ce synthé (Gautoz)
+- mes collègues étaient dissipés (Gautoz)
+
+raids entrants :
+- LesNumeriques à 13:35 +100
+- GamekultLive à 13:35 +20
+
+raids : OrigaTwitch => (15:03)[+552] Nat_Ali (terminé à 17:05)
 
 
 » 💬
