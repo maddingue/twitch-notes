@@ -12618,7 +12618,7 @@ raids : LesNumeriques [+100] + GamekultLive [+20] => 13:35 OrigaTwitch => (15:03
 
 
 --------------------------------------
-2025-03-14
+2025-03-13
 
 » 🇫🇷 [Gamekult / 8 mars 2025] Monster Hunter Wilds : Et si le solo était la vraie aventure → https://gamekult.com/actualite/-3050862500.html
 » 🇫🇷 [Gamekult / 11 mars 2025] Monster Hunter Wilds : la narration est un des principaux facteurs du succès du jeu selon son producteur, et en prime, Capcom corrige de nombreux bugs du jeu → https://gamekult.com/actualite/-3050862608.html
@@ -12652,6 +12652,24 @@ raids : LesNumeriques [+100] + GamekultLive [+20] => 13:35 OrigaTwitch => (15:03
 » 🇫🇷 [Gamekult / 9 mars 2025] Death Stranding 2 : Kojima dévoile la date de sortie avec une bande-annonce de 10 minutes → https://gamekult.com/actualite/-3050862578.html
 
 raids : LesNumeriques [+148] + GamekultLive [+40] => (13:33) LamHua => (15:59)[504] mamapaprika => (<18:02) fastandfabs [ker_pouic_pouic=>18:28)+11] [ThibaultBrock=>(21:42)+10] (vendredi) (terminé à 00:30)
+
+
+--------------------------------------
+2025-03-14
+
+» 🇫🇷 [Les Numériques] Plissez les yeux, voici le plus petit microcontrôleur au monde → https://lesnumeriques.com/ordinateur-portable/-n234188.html
+» Ultenic France → https://ultenic.fr/
+» 🇫🇷 [Les Numériques] Panne du Chromecast 2 : Google déploie enfin un correctif... mais pas pour tout le monde → https://lesnumeriques.com/disque-dur-multimedia/-n234176.html
+» 🇫🇷 [Les Numériques] Samsung Galaxy S26 Ultra : une excellente technologie photo ferait son grand retour → https://lesnumeriques.com/telephone-portable/-n234164.html
+» 🇫🇷 [Les Numériques] iOS 19 transforme les AirPods, Apple prépare une traduction instantanée qui pourrait tout changer → https://lesnumeriques.com/ecouteurs-sans-fil/-n234181.html
+» 🇫🇷 [Les Numériques] JBL annonce le casque Tour One M3 et son accessoire bien pratique → https://lesnumeriques.com/casque-nomade/-n231417.html
+» 🇫🇷 [Mr Montre] Montre Death Stranding 2 : Hamilton et Kojima Productions dévoilent une édition limitée → https://www.mrmontre.com/montre-death-stranding-2-hamilton.html
+» 🇫🇷 [Les Numériques] Test Apple Mac Studio (M4 Max) ⭐⭐⭐⭐⭐ un maximum de performances pour un minimum de nouveautés → https://www.lesnumeriques.com/ordinateur-de-bureau/apple-mac-studio-m4-max-p76377/test.html
+» 🇫🇷 [Les Numériques] “Les prix vont se stabiliser” : Nvidia promet la fin des pénuries pour les RTX Série 50 → https://lesnumeriques.com/carte-graphique/-n234173.html
+» 🇫🇷 [Le Monde] TikTok : une commission d’enquête parlementaire entend se pencher sur les « effets psychologiques sur les mineurs » de l’application → https://www.lemonde.fr/pixels/article/2025/03/13/tiktok-une-commission-d-enquete-parlementaire-entend-se-pencher-sur-les-effets-psychologiques-sur-les-mineurs-de-l-application_6580381_4408996.html
+» 🇺🇸 [Ars Technica] AI search engines cite incorrect sources at an alarming 60% rate, study says.  CJR study shows AI search services misinform users and ignore publisher exclusion requests.  → https://arstechnica.com/ai/2025/03/ai-search-engines-give-incorrect-answers-at-an-alarming-60-rate-study-says/
+
+raids : LesNumeriques => (13:40)[+119] MonPetitPC (>17:30) => (<21:46) DrPierre (samedi) (>00:00) => (<05:04) MarineMammalRescue [Killglance=>(05:47)+10] [flockheart=>(06:05)+2] [MafiaJinx=>(09:33)+355] [Insomniac_rap=>(09:37)+28] [Skrebel=>(13:01)+30] (>14:00)
 
 
 
