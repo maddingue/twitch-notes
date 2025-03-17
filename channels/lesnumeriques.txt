@@ -12669,7 +12669,7 @@ raids : LesNumeriques [+148] + GamekultLive [+40] => (13:33) LamHua => (15:59)[5
 » 🇫🇷 [Le Monde] TikTok : une commission d’enquête parlementaire entend se pencher sur les « effets psychologiques sur les mineurs » de l’application → https://www.lemonde.fr/pixels/article/2025/03/13/tiktok-une-commission-d-enquete-parlementaire-entend-se-pencher-sur-les-effets-psychologiques-sur-les-mineurs-de-l-application_6580381_4408996.html
 » 🇺🇸 [Ars Technica] AI search engines cite incorrect sources at an alarming 60% rate, study says.  CJR study shows AI search services misinform users and ignore publisher exclusion requests.  → https://arstechnica.com/ai/2025/03/ai-search-engines-give-incorrect-answers-at-an-alarming-60-rate-study-says/
 
-raids : LesNumeriques => (13:40)[+119] MonPetitPC (>17:30) => (<21:46) DrPierre (samedi) (>00:00) => (<05:04) MarineMammalRescue [Killglance=>(05:47)+10] [flockheart=>(06:05)+2] [MafiaJinx=>(09:33)+355] [Insomniac_rap=>(09:37)+28] [Skrebel=>(13:01)+30] (>14:00)
+raids : LesNumeriques => (13:40)[+119] MonPetitPC (>17:30) => (<21:46) DrPierre (samedi) (>00:00) => (<05:04) MarineMammalRescue [Killglance=>(05:47)+10] [flockheart=>(06:05)+2] [MafiaJinx=>(09:33)+355] [Insomniac_rap=>(09:37)+28] [Skrebel=>(13:01)+30] [LeShark75=>(18:03)+17] [wakuforia=>(18:30)+6] [影陌殤(foxmoshang)=>(18:35)+6] [じゅーし14(jushi14)=>(18:52)+8] [rubyalpacalypse=>(21:00)+8] [rheyaHeart=>(21:33)+12] [ManjavLive=>(22:07)+4] (dimanche) [arisuo3o=>(10:15)+64] [Dollforhunter=>(10:49)+5] [Jade_Santos=>(11:10)+2] [ChabzPls=>(12:18)+15] [Pironious=>13:05)+2] [General_Sengir=>(13:59]+4] [=>(15:28)+17] [crashdingens=>(16:39)+2]  (>22:50)
 
 
 
