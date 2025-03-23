@@ -12672,6 +12672,34 @@ raids : LesNumeriques [+148] + GamekultLive [+40] => (13:33) LamHua => (15:59)[5
 raids : LesNumeriques => (13:40)[+119] MonPetitPC (>17:30) => (<21:46) DrPierre (samedi) (>00:00) => (<05:04) MarineMammalRescue [Killglance=>(05:47)+10] [flockheart=>(06:05)+2] [MafiaJinx=>(09:33)+355] [Insomniac_rap=>(09:37)+28] [Skrebel=>(13:01)+30] [LeShark75=>(18:03)+17] [wakuforia=>(18:30)+6] [影陌殤(foxmoshang)=>(18:35)+6] [じゅーし14(jushi14)=>(18:52)+8] [rubyalpacalypse=>(21:00)+8] [rheyaHeart=>(21:33)+12] [ManjavLive=>(22:07)+4] (dimanche) [arisuo3o=>(10:15)+64] [Dollforhunter=>(10:49)+5] [Jade_Santos=>(11:10)+2] [ChabzPls=>(12:18)+15] [Pironious=>13:05)+2] [General_Sengir=>(13:59]+4] [=>(15:28)+17] [crashdingens=>(16:39)+2]  (>22:50)
 
 
+--------------------------------------
+2025-03-20
+
+» Game Story : l'histoire du jeu vidéo, exposition du 9 oct. 2024 au 13 avril 2025 à l'Ancienne Poste de Versailles → https://www.versailles.fr/game-story.htm
+
+
+--------------------------------------
+2025-03-21
+
+» [The Wrap] Apple loses $1 billion annually on Apple TV+ → https://www.thewrap.com/apple-loses-1-billion-annually-apple-tv-plus/
+» 🇫🇷 [Les Numériques] Vous utilisez un casque Bluetooth pour le sport ? Voici pourquoi ce n'est pas une bonne idée → https://lesnumeriques.com/casque-bluetooth/-n234117.html
+» [Notebook Check] Samsung dévoile la barre de son haut de gamme HW-Q930F avec un caisson de basses redessiné, des haut-parleurs arrière orientés vers le haut et Active Voice Pro → https://notebookcheck.biz/n.982826.0.html
+» [Lenovo] Yoga 1 en 1 → https://www.lenovo.com/fr/fr/c/laptops/yoga/yoga-2-in-1-series/
+» 🇫🇷 [Les Numériques] Test Samsung HW-S66D ⭐⭐⭐ une barre de son qui voit large, malgré son format mini → https://www.lesnumeriques.com/barre-de-son/samsung-hw-s66d-p74722/test.html
+» 🇫🇷 [Les Numériques] GFX100RF : Fujifilm annonce son boîtier tueur de Leica → https://lesnumeriques.com/appareil-photo-numerique/-n234413.html
+» [PetaPixel] World’s Largest Camera is Ready to Take Its First 3,200-Megapixel Photos of the Universe → https://petapixel.com/2025/03/14/worlds-largest-camera-is-ready-to-take-its-first-3200-megapixel-photos-of-the-universe/
+
+» https://gam.onl
+
+» [PhotoTrend] Vente aux enchères Leica Série 0 N°112 : boîtier historique, nouveau record en vue ? → https://phototrend.fr/2025/03/vente-aux-encheres-leica-serie-0-n112/
+
+» 🇫🇷 [Les Numériques] Meta AI arrive finalement en Europe… sous l’œil très inquiet des régulateurs → https://lesnumeriques.com/intelligence-artificielle/-n234412.html
+» 🇫🇷 [Les Numériques] Vous cherchez un téléviseur Oled abordable ? Voici les modèles à ne pas manquer → https://lesnumeriques.com/tv-televiseur/-n234427.html
+» [WCCF Tech] OpenAI Wants Unrestricted Access To Copyrighted Material To Train Its Artificial Intelligence Models; Has Sought The Help Of The U.S. Government To Make This Possible → https://wccftech.com/openai-wants-to-use-copyrighted-material-to-train-ai-models/
+» [WCCF Tech] NVIDIA Says It Shipped Twice The RTX 50 Cards In The First Five Weeks Than RTX 40 Series; Promises Stability In Pricing Soon → https://wccftech.com/nvidia-says-it-shipped-twice-the-rtx-50-cards-in-the-first-five-weeks-than-rtx-40/
+
+raids : LesNumeriques => (13:45)[+103] adyboo => (13:59)[+112] GallyP (>19:50) => (<21:18) PetrichorLIVE (samedi) (>02:30) => (<16:52) WishyVT (>21:30)
+
 
 » ▶️ [YouTube] 
 » 🐦 [Twitter] 
@@ -12703,7 +12731,7 @@ SwiftRage 📢 il est 12:30 🕧
 SwiftRage 📢 il est 13:00 🕐
 SwiftRage 📢 il est 13:30 🕜
 
-📺 Les Numériques sur YouTube → https://youtube.com/user/LesNumeriques
+▶️ Les Numériques sur YouTube → https://youtube.com/user/LesNumeriques
 📷 Les Numériques sur Instagram → https://instagram.com/lesnumeriques/
 🐦 Les Numériques sur Twitter → https://twitter.com/LesNums
 🐦 le Twitter de Lâm Hua → https://twitter.com/LamHua
