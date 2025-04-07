@@ -12201,17 +12201,247 @@ raids entrants :
 - zyzipix lance un raid avec un groupe de 1 à 13:48
 
 
+--------------------------------------
+2025-04-01
+
+# Mardinale #47
+## Actus
+
+» Ludostrie, le site d'articles de Oscar Lemaire → https://ludostrie.com
+
+### Une filiale Tencent x Ubisoft avec les grosses licences
+» 🇫🇷 [Global Newswire / 27 mars 2025] Ubisoft annonce la création d’une nouvelle filiale → https://cutt.ly/zraqnyyA
+» 🇫🇷 [ActuGaming / 27 mars 2025] Ubisoft annonce la création d’une nouvelle filiale réservée à Assassin’s Creed, Far Cry et Rainbow Six, et avec Tencent → https://actugaming.net/a-716839
+» 🇫🇷 [Gamekult / 27 mars 2025] Ubisoft va créer une nouvelle filiale avec Tencent et lui confier ses trois plus grosses franchises : Assassin's Creed, Far Cry et Rainbow Six → https://cutt.ly/PraqQGxP
+» 🇺🇸 [Games Industry / 27 mars 2025] Tencent invests $1.25bn in new Ubisoft subsidiary focused on Assassin's Creed, Far Cry, and Rainbow Six. New subsidiary granted a "worldwide, exclusive, irrevocable, perpetual license" → https://cutt.ly/praqD1Rj
+» 🇫🇷 [Le Monde / 27 mars 2025] Ubisoft s’associe à Tencent pour créer une filiale regroupant les franchises « Assassin’s Creed », « Far Cry » et « Rainbow Six ». Le groupe chinois investit 1,16 milliard d’euros pour détenir 25 % de la nouvelle filiale de l’éditeur français, valorisée à 4 milliards d’euros → https://cutt.ly/zraqA0bI
+» 🇫🇷 [Le Monde / 28 mars 2025] En difficulté, Ubisoft entame sa réorganisation stratégique en collaboration avec Tencent. Après des lancements de jeux décevants, l’entreprise française de jeux vidéo renforce ses liens avec le géant chinois, au travers de la création d’une filiale regroupant ses trois principales licences. → https://cutt.ly/GraqSvh1
+
+» fil de discussion 💬
+
+### Une filiale mieux valorisée que sa maison-mère
+» 🦋 [BlueSky / Oscar Lemaire / 27 mars 2025] 🧵 https://bsky.app/profile/oscarlemaire.bsky.social/post/3llewq7qbuc2p
+> Pour résumer
+
+### AC Shadows ne devait-il pas sauver Ubisoft ?
+» 𝕏 [X / Assassin's Creed / 20 mars 2025] 🧵 https://x.com/assassinscreed/status/1902802072640295067
+> It's not even 4PM here in Canada and Assassin's Creed Shadows has already passed 1 million players!
+> Thank YOU from the bottom of our hearts for joining this adventure in Feudal Japan. We are beyond excited to start this journey with you! 💝
+
+» 🇫🇷 [ActuGaming / 21 mars 2025] Assassin’s Creed Shadows a attiré plus d’un million de personnes pour son lancement → https://actugaming.net/a-714572
+
+» 𝕏 [X / Assassin's Creed / 22 mars 2025] 🧵 https://xcancel.com/assassinscreed/status/1903431554459644198
+> 🔥 2 MILLION PLAYERS! 🔥
+> We’re thrilled to celebrate this incredible milestone!
+> Assassin's Creed Shadows has now surpassed the launches of AC Origins and Odyssey. Thank you for joining the journey in Feudal Japan!
+
+» 🇫🇷 [ActuGaming / 24 mars 2025] Assassin’s Creed Shadows démarre avec 2 millions de joueurs et réalise un meilleur lancement qu’Origins ou Odyssey → https://actugaming.net/a-715535
+» 🇫🇷 [BFM TV / 24 mars 2025] "Joie et soulagement": chez Ubisoft, on souffle enfin après la sortie d'"Assassin's Creed Shadows" → https://cutt.ly/RrpWJrtz
+
+» 🦋 [BlueSky / Oscar Lemaire / 25 mars 2025] 🧵 https://bsky.app/profile/oscarlemaire.bsky.social/post/3ll7l3pnxu62d
+> Plus de 120 000 ventes physiques pour le lancement d’Assassin’s Creed Shadows en France. C’est pas loin du triple de SW Outlaws et plus du double d’Avatar. C’est environ 12 fois plus que DA Veilguard. Hors FC/COD, c’est le plus gros lancement FR depuis SMB Wonder, et hors Nintendo depuis Hogwarts.
+> À l’échelle des Assassin’s Creed, c’est un peu en dessous des trois précédents AC (sans inclure Mirage, qui a fait moins), mais je pense qu’on est en réalité au même niveau une fois le démat comptabilisé.
+> [...]
+
+» 🦋 [BlueSky / Oscar Lemaire / 28 mars 2025] 🧵 https://bsky.app/profile/oscarlemaire.bsky.social/post/3llgr73bnka27
+> Bon je vais essayer de résumer la situation d’Ubisoft et leurs choix récents tel que je le comprends, avec un thread un poil long
+> Déjà, on rappelle que les problèmes sérieux pour Ubisoft datent surtout de l’année fiscale 2022-23 où l’entreprise a accusé une perte nette colossale de 500 millions €. C’est reparti dans le vert l’année suivante, mais sur le premier semestre de l’année en cours c’était 250 M€ de pertes nettes. 📊
+> Mais c’est surtout du côté de la trésorerie et de la dette que la situation d’Ubisoft est très compliquée. Sa dette ne cesse de croitre depuis des années, et s’élève, en mars 2024, à 2,5 milliards €, plus du double de sa trésorerie. 📊
+> Ubisoft a donc cruellement besoin de liquidités, à la fois pour payer sa dette et pour se relancer.
+> […]
+
+### Fin des angoisses boursières pour Ubisoft ?
+» 🦋 [BlueSky / Oscar Lemaire / 28 mars 2025] 🧵 https://bsky.app/profile/oscarlemaire.bsky.social/post/3llgrrkekm62v
+> […]
+> Mais là, les Guillemot coopèrent étroitement avec Tencent pour, en théorie, une relation saine. La participation de Tencent monte à 10% avec engagement à ne pas aller au-delà, et ils achètent la moitié du capital de Guillemot Brothers, la principale holding familiale. 📊
+> Si les Guillemot vendent la moitié (49,9% en réalité) de Guillemot Brothers à Tencent, c'est sans doute pour qu'ils se renflouent individuellement, au-delà du cas Ubisoft. Pour Tencent c'est un gage de bonne volonté, en étant minoritaire ils n'ont aucun droit sur les votes de la holding.
+> L’intérêt pour Tencent, qui du coup ne touche pas de dividende vu qu’il n’y en a pas, c’est qu’ils sont officiellement prioritaires en cas de vente. Si jamais les Guillemot veulent vendre, Tencent est en mesure de racheter Ubisoft sans souci.
+> Visiblement, les Guillemot ne veulent pas vendre. En tout cas, ils ne veulent pas vendre au cours actuel de l’entreprise en bourse, très faible (environ 15€ l’action). En 2022, des sources au sein du marché évoquaient un prix de 100€ l’action, ou au minimum 60€, pour rendre la vente possible.
+> Vu l’état actuel d’Ubisoft, même Tencent ne voudrait probablement pas dépenser autant. Et c’est aussi la grande différence avec l’époque du feuilleton Vivendi: Ubisoft va financièrement mal, ce qui a de quoi irriter les actionnaires qui peuvent en avoir marre des Guillemot.
+> Donc, les Guillemot veulent garder le contrôle, au moins le temps de faire remonter la valeur d’Ubisoft, mais ils ont besoin de liquidités pour ça. Ils se tournent vers Tencent, mais Tencent demande visiblement à avoir plus de contrôle dans la gestion d’Ubi, ce qui fait peur aux Guillemot.
+> […]
+
+### Quel(s) intérêt(s) pour Tencent ?
+» 🦋 [BlueSky / Oscar Lemaire / 28 mars 2025] 🧵 https://bsky.app/profile/oscarlemaire.bsky.social/post/3llgs7gg3bt2x
+> […]
+> Mais les Guillemot peuvent toujours s'entendre avec Tencent, qui incarne malgré tout un partenaire, loin d'être agressif comme l'était Vivendi. Et Tencent a intérêt à aider Ubisoft: si Ubisoft s'écroulent, ils perdent de l'argent après tout.
+> Donc en créant une filiale, pas présente sur les marchés financiers, qui regroupe ce qui marche le mieux dans Ubisoft, ils peuvent vendre une fraction (25%) de cette filiale à Tencent, sans que ça donne à Tencent plus de pouvoir sur la gestion d'Ubisoft.
+> Ce qui permet donc à Ubisoft de récupérer des liquidités de 1,2 milliard € pour les aider à rebondir ensuite, sans que ça ne fragilise le contrôle des Guillemot sur Ubisoft, et renforce encore plus la position d'acheteur prioritaire de Tencent en cas de vente.
+> Tout ceci ouvre néanmoins la porte à la vente de cette nouvelle entité débarassée des trucs les moins rentables, et donc en mesure de valoir plus d'argent. Ce qui serait dramatique pour l'emploi en France. Mais ça reste les Guillemot qui ont la main sur cette éventualité.
+> […]
+
+### Pourquoi ces studios, pourquoi ces licences ?
+» 🇫🇷 [Gamekult / 2 avril 2018] Far Cry 5 réalise le meilleur démarrage de la franchise au Royaume-Uni → https://cutt.ly/Zra5p58h
+» 🇫🇷 [Gamekult / 4 avril 2018] Far Cry 5 est le second plus gros lancement de l'histoire d'Ubisoft, après The Division → https://cutt.ly/Nra5afqS
+» 🇨🇦 [La Presse / 4 avril 2018] Ubisoft: les ventes mondiales de Far Cry 5 s'élèvent à 310 millions US. Les ventes mondiales du cinquième tome de la saga Far Cry ont atteint 310 millions de dollars lors de sa première semaine de lancement, a indiqué mercredi l'éditeur de jeux vidéo français Ubisoft → https://cutt.ly/Nra5fxiW
+» 🇫🇷 [GameWave / 30 avril 2018] Far Cry 5 : 2.5 millions d'exemplaires vendus en seulement 5 jours → https://cutt.ly/Sra5fL1F
+
+» 🇫🇷 [ActuGaming / 16 mai 2019] Far Cry 5 devient le jeu Ubisoft le plus vendu de cette génération → https://actugaming.net/a-223095
+
+» 🇫🇷 [ActuGaming / 28 mars 2023] Far Cry 5 : 30 millions de personnes ont essayé le jeu depuis sa sortie → https://actugaming.net/a-556583
+
+### L'heure d'une rupture stratégique ?
+» 🇫🇷 [Les Échos / 27 mars 2025] Ubisoft crée une filiale regroupant ses licences XXL avec Tencent qui investit 1,2 milliard d'euros. Le poids lourd français du jeu vidéo a annoncé qu'il créait une nouvelle filiale qui va regrouper ses trois licences les plus emblématiques : Far Cry, Assassin's Creed et Rainbow Six → https://cutt.ly/jraqm8y7
+
+
+--------------------------------------
+2025-04-04
+
+# L'Hebdo #60
+## Actus
+### La semaine
+» 🇺🇸 [Capcom / 31 mars 2025] Monster Hunter Wilds tops 10 million units sold! → https://cutt.ly/ira7WRi4
+» 🇫🇷 [ActuGaming / 31 mars 2025] Monster Hunter Wilds dépasse les 10 millions de ventes en un seul mois → https://actugaming.net/a-717777
+
+» 🇫🇷 [ActuGaming / 31 mars 2025] 20 millions de personnes ont joué à Death Stranding depuis sa sortie → https://actugaming.net/a-717840
+
+» 🇺🇸 [Pure Xbox / 1er avril 2025] Atomfall is already a colossal success on Xbox Game Pass & beyond. The best launch in Rebellion's 32-year history → https://cutt.ly/Tra7Og5R
+» 🇫🇷 [ActuGaming / 2 avril 2025] Atomfall signe déjà le meilleur lancement pour Rebellion, seulement quelques jours après sa sortie → https://actugaming.net/a-718727
+
+» 🦋 [BlueSky / Thunder Lotus / 31 mars 2025] 🧵 https://bsky.app/profile/thunderlotusgames.com/post/3llp5jw55jj2j
+> 🎉 500,000 unique players in only 13 days! That's what we call a rebellion!
+> Immortals, thank you for joining this Early Access adventure, your support and feedback mean the world to us! 🙏
+> Now let's spread the word and grow this rebellion even bigger!
+
+» 🇺🇸 [LinkedIn / Plaion / 27 mars 2025] Today, we had to make the difficult decision to realign certain areas of our gaming operations, affecting a number of talented colleagues across several departments and locations → https://cutt.ly/8raxgVhU
+
+» 🇫🇷 [LinkedIn / Eidos Montréal / 31 mars 2025] Nous avons informé aujourd'hui les membres de notre studio que nous allons devoir nous séparer de jusqu’à 75 de nos collègues, étant donné que l'un de nos mandats touche à sa fin. Cela ne reflète pas leur dévouement ou leurs compétences, mais malheureusement, nous n'avons pas la capacité de les réallouer entièrement à nos autres projets en cours ou à nos services. → https://cutt.ly/wra7RTTN
+» 🇫🇷 [ActuGaming / 1er avril 2025] Eidos Montréal continue de licencier une partie de son équipe, avec 75 renvois → https://actugaming.net/a-718255
+
+» 🇬🇧 [Eurogamer / 31 mars 2025] Stardew Valley Baldur's Gate 3 mod praised by Larian boss gets yanked by lawyers. Takedown a 'mistake'. → https://cutt.ly/yra7UpJi
+» 🇺🇸 [IGN / 31 mars 2025] Update: Wizards of the Coast apologizes for 'Mistaken' DMCA on fan's Baldur's Gate 3 Stardew Valley mod → https://cutt.ly/Xra7U4K0
+» 🇫🇷 [ActuGaming / 1er avril 2025] Wizards of the Coast s’attaque au mod Baldur’s Gate 3 de Stardew Valley… avant de retropédaler → https://actugaming.net/a-718269
+
+» 🇫🇷 [ActuGaming / 2 avril 2025] Monster Train 2 aura toutes les cartes en main lors de sa sortie prévue en mai → https://actugaming.net/a-718732
+
+» Two Strikes, en accès anticipé depuis le 31 mai 2021 sur PC / Steam Deck, sortie finale le 25 avril 2025 ; développé par Retro Reactor, studio derrière One Strike (2017) → https://twostrikesgame.com | https://s.team/a/1586750
+
+### JV le Mag
+» 🦋 [BlueSky / KV le Mag / 31 mars 2025] 🧵 https://bsky.app/profile/jvlemag.com/post/3llot2vdyw22v
+> Bonsoir ! Ce n'est pas le genre de nouvelle que l'on aurait aimé vous donner. Mais devant l'impasse économique actuelle, JV doit se mettre en pause pour une durée indéterminée, tout du moins dans sa version mensuelle. Toutes les informations sont disponibles ci-dessous (petit thread) 🔽
+> […]
+
+» 🦋 [BlueSky / KV le Mag / 1er avril 2025] 🧵 https://bsky.app/profile/jvlemag.com/post/3llr4o7is4l2v
+> Bonjour ! Tout d'abord merci infiniment pour tous vos messages et votre soutien après notre annonce. Comme nous l'avons précisé, nous ne lâchons rien et tentons le tout pour le tout. Voici donc notre feuille de route pour les mois à venir. Explications dans le thread 🔽
+> […]
+
+» 🛍️ [Ulule] Génération PlayStation 2 - la réédition. La réimpression du magazine hors-série dédié à la PlayStation 2, initialement sorti en 2020 → https://cutt.ly/jrsUnzbb
+
+» fil de discussion 💬
+
+### Grève chez Zenimax
+» 🇺🇸 [Game Developer / 3 avril 2025] Update: Microsoft claims it has made 'fair' proposals to union workers after Zenimax staff authorize strike. Unionized ZeniMax workers have accused Microsoft of failing to address key concerns after years of bargaining, but the company claims it has made 'substantial progress' during negotiations → https://cutt.ly/YrsbUy9u
+» 🇫🇷 [Gamekult / 3 avril 2025] Microsoft doit faire face à une grève annoncée par Zenimax. "Nous leur montrerons à quel point notre travail est précieux" → https://cutt.ly/WrsbJxVx
+
+### La Switch 2
+» ▶️ [YouTube / Nintendo 公式チャンネル / 2 avril 2025] Nintendo Direct : Nintendo Switch 2 → https://youtu.be/nkaodTSlhbU (1 h 2 min)
+» ▶️ [YouTube / Nintendo of America / 2 avril 2025] Nintendo Direct : Nintendo Switch 2 → https://youtu.be/VrTVeYm4iIM (1 h 2 min)
+» ▶️ [YouTube / Nintendo France / 2 avril 2025] Nintendo Direct : Nintendo Switch 2 → https://youtu.be/5dEcSRXRY0s (1 h 33 min)
+
+» 🇫🇷 [ActuGaming / 2 avril 2025] Nintendo Direct Switch 2 : Le résumé complet des annonces du 2 avril (Prix, date, Mario Kart, Donkey Kong…) → https://actugaming.net/a-718738
+» 🇫🇷 [ActuGaming / 2 avril 2025] Switch 2 : 4K, 120 fps, stockage… Voici toutes les specs de la nouvelle console de Nintendo → https://actugaming.net/a-718748
+
+» 🇫🇷 [ActuGaming / 2 avril 2025] Mario Kart World dévoilé : tout savoir sur la première exclusivité de la Nintendo Switch 2 → https://actugaming.net/a-718749
+» 🇫🇷 [ActuGaming / 2 avril 2025] Drag x Drive : Un jeu de sport multijoueur inspiré du basket fauteuil annoncé sur Nintendo Switch 2 → https://actugaming.net/a-718809
+» 🇫🇷 [ActuGaming / 2 avril 2025] Donkey Kong signe son grand retour sur Nintendo Switch 2 avec Donkey Kong Bananza → https://actugaming.net/a-718778
+» 🇫🇷 [ActuGaming / 2 avril 2025] Kirby Air Riders signe le retour du jeu de course plus de 20 ans après l’opus Gamecube → https://actugaming.net/a-718938
+» 🇫🇷 [ActuGaming / 2 avril 2025] Hyrule Warriors: Les Chroniques du Sceau : Un nouveau musô dans l’univers de The Legend of Zelda annoncé sur Nintendo Switch 2 → https://actugaming.net/a-718760
+» 🇫🇷 [ActuGaming / 3 avril 2025] Hollow Knight Silksong annonce, en coup de vent, une version Switch 2 et une sortie pour 2025 → https://actugaming.net/a-719241
+» 🇫🇷 [ActuGaming / 2 avril 2025] From Software annonce The Duskbloods, un nouveau titre action-multijoueur exclusif à la Switch 2 pour 2026 → https://actugaming.net/a-718812
+
+» 🇫🇷 [ActuGaming / 3 avril 2025] Elden Ring: Tarnished Edition nous fera revisiter l’Entre-Terre sur Nintendo Switch 2 → https://actugaming.net/a-719076
+» 🇫🇷 [ActuGaming / 3 avril 2025] Cyberpunk 2077 tiendra entièrement sur cartouche sur Switch 2, sans téléchargement nécessaire → https://actugaming.net/a-719284
+» 🇫🇷 [ActuGaming / 4 avril 2025] Split Fiction sera disponible dès le lancement sur la Nintendo Switch 2 → https://actugaming.net/a-719381
+» 🇫🇷 [ActuGaming / 4 avril 2025] Le jeu de mecha Daemon X Machina: Titanic Scion sortira à la rentrée, une édition collector dévoilée → https://actugaming.net/a-719522
+
+» 🇫🇷 [ActuGaming / 2 avril 2025] La Nintendo Switch 2 annonce sa date de sortie et son prix au Nintendo Direct → https://actugaming.net/a-718761
+» 🇫🇷 [ActuGaming / 2 avril 2025] 90€ pour les jeux Nintendo Switch 2, Nintendo augmente fortement le prix de ses cartouches → https://actugaming.net/a-718788
+
+» 🦋 [BlueSky / Oscar Lemaire / 2 avril 2025] (fil d'Oscar Lemaire comparant les prix des consoles) 📊 📊 📊 🧵 https://bsky.app/profile/oscarlemaire.bsky.social/post/3llu4ci5xgz2y
+
+» 🇫🇷 [ActuGaming / 3 avril 2025] Nintendo Switch 2 : La rétrocompatibilité n’est pas garantie sur près de 200 jeux → https://actugaming.net/a-719200
+» 🇫🇷 [Gamekult / 3 avril 2025] Switch 2 : Plus d'une centaine de jeux présenteront des problèmes de rétrocompatibilité. Doom: Eternal, Fall Guys, Harvestella... → https://cutt.ly/FrsbKzvo
+
+» 🇫🇷 [ActuGaming / 2 avril 2025] Nintendo annonce GameChat, son nouveau système de chat vocal pour la Switch 2 → https://actugaming.net/a-718963
+
+
+## Jeux
+
+### The First Berserker: Khazan
+» The First Berserker: Khazan, sorti le 27 mars 2025 sur PlayStation 5, Xbox Series et PC / Steam Deck ; édité par Nexon, développé par Neople, studio coréen 🇰🇷 derrière la série des _Dungeon & Fighter_ → http://khazan.nexon.com
+- sorti le 27 mars 2025 sur PlayStation 5, Xbox Series et PC / Steam Deck
+- édité par Nexon, développé par Neople, studio coréen 🇰🇷 derrière la série des _Dungeon & Fighter_ → http://khazan.nexon.com | https://neople.co.kr
+
+🎮 60 € sur PlayStation (https://cutt.ly/ZrsThusc) et Xbox (https://cutt.ly/UrsThUXF)
+💻️ 60 € sur Steam (https://s.team/a/2680010), démo disponible
+
+### AtomFall
+» Atomfall, sorti le 27 mars 2025 à 60 € sur PlayStation, Xbox et à 50 € sur PC / Steam Deck ; développé par Rebellion, studio britannique 🇬🇧 derrière les Sniper Elite, les Zombie Army → https://atomfall.com
+- sorti le 27 mars 2025 sur PlayStation, Xbox et PC / Steam Deck
+- développé par Rebellion, studio britannique 🇬🇧 derrière les Sniper Elite, les Zombie Army → https://atomfall.com
+- réalisation par Chinmay Zende, écriture par Jonathan L. Howard, direction artistique par Ryan Greene, musiques par Graham Gatheral
+
+🎮 60 € sur PlayStation (https://cutt.ly/lrp6fNVk)
+🎮 60 € ou inclus dans le Game Pass sur Xbox (https://cutt.ly/krp6gSjI)
+💻️ 50 € sur Steam (https://s.team/a/801800)
+
+» 🇫🇷 [Le Monde / 5 mai 1986] L'incendie de Windscale → https://cutt.ly/xrsZosNg
+» 🇬🇧 [BBC / 4 nov. 2014] Windscale Piles: Cockcroft's Follies avoided nuclear disaster → https://cutt.ly/nrsZpFRC
+» 🇫🇷 [Géo / 2 jan. 2025] Cet incident nucléaire, dissimulé, qui aurait bien pu contaminer le nord de l'Europe → https://cutt.ly/hrsZphR1
+» 🇬🇧 [BBC / 27 mars 2025] Atomfall: How a forgotten nuclear disaster inspired a video game → https://cutt.ly/prsZdpgt
+» 🇬🇧 [History Extra / 3 avril 2025] Britain’s worst nuclear disaster: the Windscale fire of 1957 → https://cutt.ly/5rsZsqFu
+
+» ▶️ [YouTube / Steve Saylor / 27 mars 2025] Every game should learn from THIS! - Atomfall accessibility review → https://youtu.be/TYjtfbkTIIE (11 min)
+
+### South of Midnight
+» South of Midnight, le 8 avril 2025 à 40 € sur Xbox Series (Game Pass) et PC / Steam Deck ; développé par Compulsion Games, studio canadien 🇨🇦 derrière _We happy Few_ (2018), _Contrast_ (2013) → https://s.team/a/1934570 | https://compulsiongames.com/games/south-of-midnight/
+- le 8 avr. 2025 sur Xbox Series et PC / Steam Deck
+- édité par Xbox Game Studios, développé par Compulsion Games, studio canadien 🇨🇦 derrière _We happy Few_ (2018), _Contrast_ (2013) → https://s.team/a/1934570 | https://compulsiongames.com/games/south-of-midnight/
+- écriture et réalisation par David Sears, direction artistique par Whitney Clayton, musiques par Olivier Derivière
+
+🎮 45 € ou inclus dans le Game Pass sur Xbox (https://cutt.ly/6rsTqP4C)
+💻️ 40 € sur Steam (https://s.team/a/1934570)
+🎶 musiques sur Bandcamp : 9 $ les chansons (https://cutt.ly/LrsTuoOF), 10 $ l'OST (https://cutt.ly/IrsTuSnb), 4 $ les jams (https://cutt.ly/QrsTu3SL), 18 $ le tout avec des bonus (https://cutt.ly/CrsTihij)
+
+» ▶️ [YouTube / Steve Saylor / 3 avr. 2025] South Of Midnight: SO close to accessibility greatness → https://youtu.be/Pt3JmtwIyS8 (14 min)
+
+## Mais pas que
+### Gauthier
+» 📷 [Instagram / Cult of the Lamb / 3 avril 2025] It’s with heavy and broken hearts we have to announce that Narayana Johnson AKA River Boy has passed away → https://instagram.com/p/DH_51bWTVy0
+
+» 🦋 [BlueSky / Thomas Méreur / 4 avril 2025] 🧵 <https://bsky.app/profile/amaebi.bsky.social/post/3llxtbgmav22i>
+> Rappel utile :
+> 
+> » 🦋 [BlueSky / Posthuman / 5 déc. 2024] <https://bsky.app/profile/posthuman.bsky.social/post/3lckp5ey3qc24>
+> > I'm not on twitter anymore, but this tweet from 2 years ago
+> > is sadly more accurate than ever
+> >
+> > » 🐦 [Twitter / Posthuman / 4 mai 2021] 
+> > > Remember, if you buy an album from bandcamp, it's around
+> > > the financial equivalent of the artist of you streaming
+> > > their music every day for 3 years.
+
+» fil de discussion 💬
+
+### Kévin
+» 📄 [Hobonichi] The script of Earthbound — A chat between the English localizer of _Mother 2_ and its creator → https://www.1101.com/n/s/mother_project/marcus_lindblom_en/index.html
+
+raids entrants :
+- PacomeHerel à 13:35 + 13
+ raids : OrigaTwitch => (15:40)[+832] JVleMag => Chez_LEX [Nico_Oni=>(21:06)+193] (>21:15) => (<07:00) fluffletown [EmeraldNinjaIV=>(07:05)+1] [ProudlyRadical=>(07:31)+56] (>12:00)
+
+
 
 » 💬
 » 📄 
 » 🇺🇸 
 » 🇫🇷 
 » 🇯🇵 
-» ▶️ [YouTube] 
+» ▶️ [YouTube / xxx] 
 » 🐦 [Twitter] 
 » 𝕏 [X / xxx] 🧵 
-» 🦋 [BlueSky] 🧵 
-» 🐘 [Mastodon] 
+» 🦋 [BlueSky / xxx] 🧵 
+» 🐘 [Mastodon / xxx] 
 
 » 🇫🇷 [ActuGaming] 
 » 🇫🇷 [Gamekult] 
