@@ -12429,6 +12429,85 @@ raids entrants :
 raids entrants :
 - PacomeHerel à 13:35 + 13
  raids : OrigaTwitch => (15:40)[+832] JVleMag => Chez_LEX [Nico_Oni=>(21:06)+193] (>21:15) => (<07:00) fluffletown [EmeraldNinjaIV=>(07:05)+1] [ProudlyRadical=>(07:31)+56] (>12:00)
+ 
+
+--------------------------------------
+2025-04-10
+
+# Mardinale #48
+## Actus
+### Le Nintendo Direct qui ne voulait pas tout dire
+» 🇫🇷 [ActuGaming / 3 avril 2025] Nintendo Switch 2 : Derrière une console convaincante, une politique tarifaire qui interroge → https://actugaming.net/a-719257
+
+» 🇺🇸 [IGN / 4 avril 2025] Nintendo delays Switch 2 pre-order date in the U.S. to assess impact of Trump's tariffs. Will the price go up? → https://cutt.ly/GrdWO19O
+» 🇫🇷 [ActuGaming / 4 avril 2025] Les précommandes pour la Nintendo Switch 2 sont repoussées aux États-Unis → https://actugaming.net/a-719591
+
+» 🇨🇦 [MobileSyrup / 8 avril 2025] Nintendo delays Switch 2 pre-orders in Canada. The pre-orders were originally set to go live on April 9 → https://cutt.ly/4rdWclSG
+» 🇺🇸 [Forbes / 6 avril / 2025] Analysts predict potential, eventual Switch 2 price moves after tariffs → https://cutt.ly/7rdWHbXd
+» 🇫🇷 [ActuGaming / 8 avril 2025] Nintendo repousse également le début des précommandes de la Switch 2 au Canada → https://actugaming.net/a-720738
+
+» 🇫🇷 [Nintendo / 2 avril 2025] Les développeurs ont la parole, Vol. 16 : Nintendo Switch 2 – Chapitre 4 : Un nouveau standard → https://cutt.ly/lrsLOBEW
+» 🇫🇷 [Gamekult / 4 avril 2025] La rétrocompatibilité Switch sur Switch 2, c'est possible (entre autres) grâce à l'émulation → https://cutt.ly/ArsLO5Mw
+» ▶️ [YouTube / MVG / 5 avril 2025] I was right about Nintendo Switch 2 backward compatibility → https://youtu.be/WVgUe3qSU9k (16 min)
+» fil de discussion 💬
+
+» ▶️ [YouTube / Kit & Krysta / 3 avril 2025] The reactions inside Nintendo as fans rage about Switch 2 pricing → https://youtu.be/jMibVyYvSYU (32 min)
+» ▶️ [YouTube / Kit & Krysta / 7 avril 2025] What Nintendo ACTUALLY just told us about Switch 2 pricing, joy-con drift & more → https://youtu.be/yH4AoMYnkFg (49 min)
+
+### Nintendo défend (maladroitement) le prix de la Switch 2
+» 🇨🇦 [CBC / 7 avril 2025] For Nintendo's Switch 2, Trump tariffs could be an unbeatable final boss. Switch 2’s price tag worried gamers. It could be the start of industry-wide price hikes → https://cutt.ly/7rd8UPt8
+» 🇫🇷 [ActuGaming / 8 avril 2025] Pour Nintendo, si vous ne pouvez pas acheter la Switch 2, il reste la Switch qui continuera d’être alimentée en jeux → https://actugaming.net/a-720749
+
+### Nintendo explique (maladroitement) le prix de Mario Kart World
+» 🇺🇸 [Washington post / 7 avril 2025] Nintendo boss Doug Bowser explains the $80 price for ‘Mario Kart World’. In an interview with The Post, Nintendo of America’s president breaks down the company’s “variable pricing” approach for its new games → https://cutt.ly/Xrd8nZXY
+» 🇺🇸 [IGN / 7 avril 2025] Switch 2 exclusive Mario Kart World justifies its $80 price tag, Nintendo insists in first comments addressing cost controversy → https://cutt.ly/ardWDXId
+» 🇫🇷 [IGN France / 7 avril 2025] Nintendo réagit enfin à la polémique sur les prix de Mario Kart World → https://cutt.ly/9rdC3z7S
+» 🇫🇷 [ActuGaming / 7 avril 2025] Nintendo défend le prix de 90 € pour Mario Kart World en justifiant cela par le contenu du jeu → https://actugaming.net/a-720635
+» 🇫🇷 [Gamekult / 7 avril 2025] Switch 2 : Nintendo justifie le prix élevé de Mario Kart World → https://cutt.ly/Yrd8ntyJ
+
+» 🇫🇷 [Gamekult / 8 avril 2025] Jeux vidéo à 90€ : pourquoi les prix explosent (et ce n’est pas que la faute de Nintendo) → https://cutt.ly/Vrd8mgsj
+
+### Un Joy-Con drift ? Quel Joy-Con drift ?
+» 🇬🇧 [VGC / 3 avril 2025] Will Switch 2 also suffer from Joy-Con drift? We asked Nintendo. Drifting Joy-Cons were a significant problem for many owners of the original → https://cutt.ly/erd8QR6p
+» 🇬🇧 [Eurogamer / 3 avril 2025] Nintendo responds to question of Joy-Con drift in Switch 2, also says new console will have better wireless connectivity → https://cutt.ly/urd8Q6Zv
+» 🇫🇷 [Gamekult / 4 avril 2025] La Switch 2 souffrira-t-elle aussi du Joy-Con drift ? Nintendo évite de répondre directement → https://cutt.ly/Ird8mUHS
+
+» 🇺🇸 [Nintendo Life / 7 avril 2025] It's official, Switch 2 joy-con will not feature Hall effect sticks. Controllers have been designed from the ground up → https://cutt.ly/ZrdWmqML
+
+### Emplois menacés chez Microids : on a mené l'enquête
+» 🇫🇷 [Libération / 26 août 2024] Chez l’éditeur de jeux vidéo Microids, «j’en ai marre de sortir des daubes» → https://cutt.ly/urd8jKB8
+
+» 🇫🇷 [BFM TV / 28 fév. 2025] "C'est une super boîte, mais on est épuisé": chez Microids, les salariés alertent sur des conditions de travail dégradées → https://cutt.ly/3rtDVH4Z
+
+» 🇫🇷 [La Lettre / 19 mars 2025] Le Seuil, La Martinière, Dargaud : Média-Participations en quête de synergies pour ses maisons → https://cutt.ly/7rd8JC86
+» ▶️ [YouTube / France 24 / 3 nov. 2017] Michael Sportouch : "Le retour aux sources de la saga Call of Duty" → https://youtu.be/8N9wxPX0qWE (11 min)
+
+» 🦋 [BlueSky / Gautoz / 7 avril 2025] 🧵 https://bsky.app/profile/gautoz.cool/post/3lmaaxqso2225
+> 🚨 Plusieurs sources me confirment le projet de licenciement intégral de l'équipe Microids Studio Paris, filiale de Microids et du groupe Média-Participations.
+> La trentaine d'employé·es a récemment appris la nouvelle alors que son prochain jeu, le remake de L’Amerzone, sort dans quelques semaines.
+> Contacté au sujet du plan de licenciement économique, un porte-parole de l'éditeur français n'a pas souhaité confirmer et m'a transmis le communiqué ci-dessous :
+>
+> > Développé par les équipes de Microids Studio Paris depuis avril 2022,
+> > _L'Amerzone - Le Testament de l'Explorateur_ sera officiellement
+> > disponible le 24 avril 2025. La version gold du jeu, achevée il y a
+> > quelques semaines, a été finalisée par l'ensemble des collaborateurs
+> > du studio.
+> 
+> La fermeture possible de l'antenne de développement Studio Paris intervient quelques semaines après la nomination par Média-Participations de Michael Sportouch au poste de PDG de Microids.
+> Microids Studio Paris : antenne fondée en 2021 dont le seul autre projet « lead » avant L’Amerzone était le dernier Syberia. MSP bossait en parallèle au soutien d’autres projets Microids, certes parfois mal nés, mais qui n’étaient pas les siens.
+> Sur le papier c’était la branche solide.
+
+» 🇫🇷 [Le Figaro / 10 avril 2025] La vague de licenciements dans le jeu vidéo frappe le français Microids → https://cutt.ly/SrdVI56J
+> Selon nos informations, l’actionnaire souhaiterait que Microids se recentre sur les jeux familiaux et mette fin à ses quelques incartades du côté des jeux dits «gamers». Autre priorité, que l’éditeur sorte beaucoup moins de jeux vidéo par an, afin de consacrer à chaque projet plus de temps et d’attention. Objectif, que la qualité prime sur la quantité.
+> Des rumeurs non confirmées bruissent au sein de l’industrie du jeu vidéo selon lesquelles le groupe d’édition aurait tenté de se séparer de cet actif. Le changement d’orientation de Microids pourrait aider à rendre la mariée plus belle. Il pourrait aussi convaincre son actionnaire de continuer son aventure dans le jeu vidéo.
+» 🇫🇷 [ActuGaming / 10 avril 2025] Microids s’apprêterait à fermer son studio parisien, qui doit prochainement sortir L’Amerzone – Le Testament de l’Explorateur → https://actugaming.net/a-720950
+
+raids entrants :
+- FrandroidLive à 10:59 +76
+- Moinelle à 11:39 +85
+- DollyWood_ à 12:04 +115
+
+raids : OrigaTwitch => (12:11)[+785] LeFilsdePub => (12:14)[+155] AliceRage_ => briquette2lait => (14:36)[+68] sacha_solaria => (17:13)[+23] pomelyne (terminé à 20:23)
 
 
 
