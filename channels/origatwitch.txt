@@ -5736,7 +5736,7 @@ jeux présentés : CoD Black Ops 6 | DOOM the Dark Ages | State of Decay 3 | Dra
 PC Gaming Show 2024
 
 » Among the Wild, accès anticipé nnoncé sur consoles et PC / Steam Deck, développé par Buggets Entertainment → https://s.team/a/2400980
-» Star Birds (ex Project Mango), collaboration entre Toukana Interactive (Dorfromantik) et Kurzgesagt prévue pour 2025 → https://toukana.com/project-mang
+» Star Birds (ex Project Mango), collaboration entre Toukana Interactive (Dorfromantik) et Kurzgesagt prévue pour 2025 → https://toukana.com/project-mango
 » Lorn Vale, accès anticipé annoncé pour 2025 sur PC / Steam Deck, développé par Gritty Games → https://s.team/a/2869850 | https://lornvale.com
 » Ale Abbey, annoncé pour 2024 sur PC / Steam Deck, développé par Hammer & Ravens → https://s.team/a/2789460
 » Streets of Rogue 2, accès anticipé le 14 août 2024 pour 2024 ; développé par Matt Dabrowski (Streets of Rogue) → https://s.team/a/2165810 | https://sor2game.com
@@ -12508,6 +12508,100 @@ raids entrants :
 - DollyWood_ à 12:04 +115
 
 raids : OrigaTwitch => (12:11)[+785] LeFilsdePub => (12:14)[+155] AliceRage_ => briquette2lait => (14:36)[+68] sacha_solaria => (17:13)[+23] pomelyne (terminé à 20:23)
+
+
+--------------------------------------
+2025-04-11
+
+# L'Hebdo #61
+## Actus
+### La semaine
+» Truckful, annoncé sur PC / Steam Deck ; édité par Pocketpair Publishing, développé par MythicOwl, studio polonais 🇵🇱 derrière _Planetiles_ (2024), _Harmony's Odyssey_ (2022), _One Line Coloring_ (2020), _Trancelation_ (2019), _Hexologic_ (2018) → https://mythicowl.com | https://s.team/a/3090810
+
+» 🇬🇧 [VGC / 9 avril 2025] Nintendo Switch 2 GameCube controller is only compatible with GameCube games, Nintendo says. Previous retro controllers worked on other Switch games → https://cutt.ly/TrfzbALt
+» 🇫🇷 [IGN France / 9 avril 2025] Le pad GameCube de la Switch 2 ne semble compatible qu'avec GameCube Classics, d'après la notice de Nintendo. Faut lire les petites lignes → https://cutt.ly/3rfznu6X
+
+» 🇩🇪 [PlayFront / 7 avril 2025] PlayStation sagt Konzertreihe an mehreren Orten kommentarlos ab – Fans verärgert. Sony sagt das PlayStation Concert in mehreren Ländern ohne Erklärung ab. Fans sind wütend, Reisekosten verpuffen – und das Vertrauen in Sonys Event-Planung bröckelt. (PlayStation cancels concert series at several locations without comment – fans angry) → https://cutt.ly/WrdWWTfe
+
+» 🇺🇸 [Forbes / 6 avril / 2025] ‘Quake II’ review (Microsoft AI Co-Pilot edition): a modern tragedy→ https://cutt.ly/xrdWm8uA
+» 🇫🇷 [ActuGaming / 7 avril 2025] Microsoft tente de reproduire Quake 2 à l’aide d’un IA, avec un résultat très discutable → https://actugaming.net/a-720611
+
+» 🇺🇸 [Steam / Cataclismo / 4 avril 2025] Celebrating 250K sales with Experimental Branch, Community Spotlights, and more! → https://cutt.ly/Krfzn0Mi
+
+» 🇺🇸 [LinkedIn / Krafton / 4 avril 2025] 📢 One week. One million. We’re pleased to share that inZOI, developed by inZOI Studio, has sold over 1 million copies globally — just one week after its Early Access launch on Steam → https://cutt.ly/MrdWExP3
+» 🇫🇷 [ActuGaming / 4 avril 2025] InZoi dépasse déjà le million de copies, une semaine après son lancement en accès anticipé → https://actugaming.net/a-719573
+
+» 🇫🇷 [ActuGaming / 3 avril 2025] Hades II : Le rogue-like mythologique de Supergiant Games arrivera aussi sur Nintendo Switch et Switch 2 en 2025 → https://actugaming.net/a-719244
+
+### Triple-I Initiative
+» 🇫🇷 [ActuGaming / 10 avril 2025] Triple-I Initiative : Le résumé complet de toutes les annonces (REMATCH, Neverway, The Alters…) → https://actugaming.net/a-720954
+
+- 🇫🇷 [ActuGaming / 10 avril 2025] REMATCH : le nouveau jeu de foot multijoueur de Sloclap sortira le 19 juin sur PS5, Xbox Series et PC → https://actugaming.net/a-721050
+- 🇫🇷 [ActuGaming / 10 avril 2025] The Alters arrête de repousser l’échéance et passera en mode survie dès le mois de juin → https://actugaming.net/a-720958
+- 🇫🇷 [ActuGaming / 11 avril 2025] Heroes of Might and Magic: Olden Era arrive en accès anticipé cet été sur PC → https://actugaming.net/a-721104/
+- 🇫🇷 [ActuGaming / 10 avril 2025] Moonlighter 2: The Endless Vault sortira cet été sur consoles et PC → https://actugaming.net/a-720996
+- 🇫🇷 [ActuGaming / 11 avril 2025] Le roguelite Morbid Metal lancera son accès anticipé cet été et reçoit le soutien d’Ubisoft → https://actugaming.net/a-721246
+- 🇫🇷 [ActuGaming / 10 avril 2025] VOID/BREAKER : un nouveau roguelite FPS explosif annoncé sur PC, PS5 et Xbox Series → https://actugaming.net/a-721023
+- 🇫🇷 [ActuGaming / 11 avril 2025] SpeedRunners 2: King of Speed est annoncé sur PC et consoles → https://actugaming.net/a-721099
+- 🇫🇷 [ActuGaming / 10 avril 2025] Into the Fire dévoile un nouveau trailer de gameplay brûlant → https://actugaming.net/a-720916
+- No, I'm not a Human, annoncé sur PC / Steam Deck ; édité par Critical Reflex, développé par Trioskaz → https://s.team/a/3180070
+- Star Birds (ex Project Mango), annoncé pour 2025 sur PC / Steam Deck ; collaboration entre la chaîne YouTube éducative Kurzgesagt et Toukana Interactive, studio allemand 🇩🇪 derrière _Dorfromantik_ (2022) → https://toukana.com/starbirds | https://s.team/a/2719750
+- OPUS: Prism Peak, annoncé pour 2025 sur Windows, Mac et Steam Deck ; édité par Shueisha Games, développé par Sigono, studio taïwanais derrière _OPUS: The Day We Found Earth_ (2016), _OPUS: Rocket of Whispers_ (2018), _OPUS: Echo of Starsong_ (2021) → https://www.sigono.com | https://s.team/a/1947910
+- Neverway, annoncé sur Windows, Mac et Linux / Steam Deck ; édité par Outersloth, développé par Coldblood, direction artistique par Pedro Medeiros (_Celeste_), musiques par Disasterpeace → https://neverwaygame.com | https://s.team/a/2318330
+- Duskfade, annoncé pour 2026 sur PC / Steam Deck ; édité par Fireshine Games, développé par Weird Beluga, studio espagnol 🇪🇸 derrière _Clid the Snail_ (2021) → https://weirdbeluga.com | https://s.team/a/2542020
+- IKUMA - The Frozen Compass, annoncé sur PC / Steam Deck ; développé par Mooneye Studios, studio derrière _Lost Ember_ (2019), _Haven Park_ (2021), _Smushi Come Home_ (2023), _Farewell North_ (2024) → https://s.team/a/1728620
+- SacriFire, annoncé pour Q1 2026 sur PC / Steam Deck, développé par Pixelated Milk, studio allemand 🇩🇪 de cinq humains et deux chiens derrière _Regalia: Of Men and Monarchs_ (2017), _Warsaw Rising: City of Heroes_ (2019) → https://mooneyestudios.com | https://s.team/a/1661330
+- 🇫🇷 [Gamekult / 11 avril 2025] Katana Zero : l'extension gratuite compte enfin sortir en 2025 → https://cutt.ly/MrfzXzvi
+
+### Le point Gautoz
+» ▶️ [YouTube / Origami / 10 avril 2025] Switch 2 : ce que Nintendo ne voulait pas dire ; Enquête sur la restructuration chez Microids → https://youtu.be/9cFmLivg0Tw
+
+## Jeux
+
+### Endless Legend II
+» Endless Legend II, annoncé sur PC ; édité par Hooded Horse, développé par Amplitude Studios → https://s.team/a/3407390 | https://www.amplitude-studios.com
+
+- accès anticipé annoncé pour l'été 2025 sur PC
+- édité par Hooded Horse, développé par Amplitude Studios, studio français 🇫🇷 derrière les jeux _Endless Space_ (2012), _Dungeon of the Endless_ (2014), _Endless Legend_ (2014), _Endless Space 2_ (2017), _Love Thyself - A Horatio Story_ (2019), _Humankind_ (2021), _Endless Dungeon_ (2023) → https://www.amplitude-studios.com
+
+💻️ 25 € sur Steam (<https://s.team/a/3407390>)
+
+» 🇫🇷 [Gamekult / 11 avril 2025] Endless Legend II : une nouvelle bande-annonce et une fenêtre de lancement pour le 4X d'Amplitude → https://cutt.ly/2rfz1SXf
+
+### Blue Prince
+» Blue Prince, sorti le 10 avril 2025 sur PlayStation 5, Xbox Series (Game Pass) et PC / Steam Deck ; édité par Raw Fury, développé par Dogubomb → https://blueprincegame.com | http://dogubomb.com
+
+- sorti le 10 avril 2025 sur PlayStation 5, Xbox Series (Game Pass) et PC / Steam Deck
+- édité par Raw Fury, développé par Dogubomb → https://blueprincegame.com | http://dogubomb.com
+
+🎮 30 € ou inclus dans le PS+ Extra sur PlayStation (<https://cutt.ly/ird80JNt>)
+🎮 30 € ou inclus dans le Game Pass sur Xbox (<https://cutt.ly/Wrd809lr>)
+💻️ 30 € sur Steam (<https://s.team/a/1569580>)
+
+» 🇫🇷 [Canard PC / 7 avril 2025] Blue Prince — Le casse-tête du haut château (9/10 par Julie Lebaron / Ellen Replay) → https://cutt.ly/Zrd8CFN1
+» 🇫🇷 [Numérama PC / 7 avril 2025] Blue Prince est le jeu le plus fascinant auquel j’ai joué depuis des années, ou comment un jeu m'a retourné le cerveau (par Thomas Méreur / Amaebi) → https://cutt.ly/krd8V8fn
+» 🇺🇸 [Thinky Games / 10 avril 2025] How Myst, Riven, and tabletop games built the foundation of Blue Prince → https://cutt.ly/jrd8dcjy
+
+» 🦋 [BlueSky / Jason Schreier / 7 avril 2025] 🧵 <https://bsky.app/profile/jasonschreier.bsky.social/post/3lm7zjbfmjc2a>
+> For the last month I have done very little but think about, talk about, and play Blue Prince. It's sort of like a cross between Slay the Spire and Outer Wilds — you progress by gaining knowledge — but it's also much more than that.
+> It is one of the most incredible games I have played in my life.
+> Blue Prince isn't just going to be the best game of 2025, it's going to go down as one of the best games of all time. If you're a puzzle sicko and you love nothing more than keeping a notebook next to you, this game was designed for you baby
+
+» 🦋 [BlueSky / Rebekah Valentine / 7 avril 2025] 🧵 <https://bsky.app/profile/duckvalentine.bsky.social/post/3lma5coxh2s2r>
+> Blue Prince.
+> I'm not doing our review, but I've been playing for a couple weeks now. I cannot put it down. I'm obsessed. I think about it constantly. I dream about Blue Prince, drafting rooms in my sleep. I have a notebook that makes me look like a crazy person full of scribbles and ideas and connections.
+> I have literally never played anything like it before. It might be one of the most impressive games I've ever experienced. The sheer scope of the layers and level of detail snaps my brain in half every few days or so.
+> […]
+
+» fil de forum du jeu 💬
+
+## Mais pas que
+### Héloïse
+» 🎶 Sir Chloe, groupe de musique rock originaire du Vermont → https://sirchloemusic.com
+- album _I Am the Dog_ (2023)
+
+raids entrants :
+- LesNumeriques à 13:34 +69
 
 
 
