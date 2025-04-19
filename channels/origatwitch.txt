@@ -12602,6 +12602,146 @@ raids : OrigaTwitch => (12:11)[+785] LeFilsdePub => (12:14)[+155] AliceRage_ => 
 
 raids entrants :
 - LesNumeriques à 13:34 +69
+ 
+
+--------------------------------------
+2025-04-15
+
+# Mardinale #49
+## Actus
+### Bungie dévoile Marathon (gameplay, date, modèle éco)
+» 🇺🇸 [Push Square / 10 avril 2025] Sony won't force PSN on Xbox, PC players of Marathon. Should save some headaches → https://cutt.ly/2rd3516i
+» 🇫🇷 [ActuGaming / 10 avril 2025] Marathon : Le jeu de Bungie ne devrait pas vous forcer à créer un compte PSN pour jouer sur PC ou Xbox Series → https://actugaming.net/a-720915
+
+» ▶️ [YouTube / Marathon / 12 avril 2025] Aperçu du gameplay → https://youtu.be/ZvJIQoWIQP8 (5 min)
+» ▶️ [YouTube / Marathon / 12 avril 2025] Court-métrage de présentation → https://youtu.be/fvbEnWLRo1s (8 min)
+
+» 🇫🇷 [ActuGaming / 11 avril 2025] Marathon : Tout ce qu’il faut savoir sur le nouvel extraction-shooter de Bungie (date de sortie, modèle économique…) → https://actugaming.net/a-721423
+
+» 🇺🇸 [GameSpot / 12 avril 2025] Bungie's Marathon is a polished extraction shooter, but that might not be enough. Marathon feels like it'll deliver satisfying gameplay, but the experience around it could leave a lot to be desired → https://cutt.ly/qrgdLTcl
+» 🇫🇷 [Gamekult / 14 avril 2025] Marathon n'est pas free-to-play et Bungie doit apparemment s'en justifier. Le free-to-play est-il une fatalité ? → https://cutt.ly/TrgdZ9TD
+
+### La PS5 Digital Edition monte encore de prix
+» 🇺🇸 [VGChartz / 9 avril 2025] Sony to increase PlayStation Plus price in 15 Latin American countries on April 16 → https://cutt.ly/IrgqBRda
+» 🇺🇸 [PlayStation Blog / 13 avril 2025] PS5 price to rise in Europe, Australia and New Zealand. Disc Drive for PS5 price will also be reduced in these regions → https://cutt.ly/ergqMkiO
+» 🇫🇷 [PlayStation Blog / 14 avril 2025] Augmentation du prix de la PS5 en Europe, Australie et Nouvelle-Zélande. Le prix du lecteur de disques pour PS5 sera également réduit dans ces mêmes régions → https://cutt.ly/4rgqMiVW
+» 🇺🇸 [Kotaku / 14 avril 2025] PS5 getting another price increase in some countries. In some regions the PlayStation 5 Digital Edition will cost $100 more than it did four years ago → https://kotaku.com/n-1851776054
+» 🇫🇷 [ActuGaming / 14 avril 2025] Sony augmente le prix de la PS5 Digitale en Europe et dans d’autres parties du monde → https://actugaming.net/a-721643/
+
+### AC Shadows deuxième meilleur lancement aux US
+» 🦋 [BlueSky / Mat Piscatella / 14 avril 2025] 🧵 https://bsky.app/profile/matpiscatella.bsky.social/post/3lmrugvasic24
+> Here's a fun one... Assassin's Creed: Shadows has been the best-selling video game in the US for each of its first 3 weeks in market, according to Circana's Retail Tracking Service (dollar sales, latest data through April 5th).
+> Currently ranks #2 year-to-date trailing only Monster Hunter: Wilds.
+
+» 🇫🇷 [ActuGaming / 15 avril 2025] Aux États-Unis, Assassin’s Creed Shadows est le deuxième jeu le plus vendu de ce début d’année → https://actugaming.net/a-721792
+
+### Ubisoft publie un outil d'accessibilité en open source
+» 🇺🇸 [Ubisoft / 14 avril 2025] Ubisoft’s colorblind simulation tool, Chroma, now available for public use → https://cutt.ly/qrgq0g7q
+» Chroma (developed by Ubisoft) is a one-stop solution for detecting color blindness-related issues in games → https://github.com/ubisoft/Chroma
+» 🦋 [BlueSky / Will Mesilane / 15 avril 2025] 🧵 https://bsky.app/profile/willmesilane.com/post/3lmthchmr322u
+> Folks this is incredibly fucking cool. Ubisoft have made their Colorblind Simulator available publicly so other developers can help make their games accessible to those with colorblindness! 💪
+
+### Le disque PS5 d'Indiana Jones est presque vide...
+» ▶️ [YouTube / Retro Games Future / 12 avril 2025] Unboxing & install offline Indiana Jones PS5 (and the Great Circle) → https://youtu.be/x0P6-qjypBU (1 min)
+» 🦋 [BlueSky / Does it Play? / 12 avril 2025] 🧵 https://bsky.app/profile/doesitplay.org/post/3lmmyeidepb2f
+> Confirmation that Indiana Jones on PS5 is indeed #PhysicalFraud. Only 20 GB of data on there. Mandatory update. Another great example of how Microsoft "values" the physical format.
+> Check out this video by Retro Game Future: https://youtu.be/x0P6-qjypBU
+» 🇺🇸 [Push Square / 13 avril 2025] Microsoft short changes Indiana Jones PS5 by only putting 20GB on the Blu-ray. Physical copies won't work without a download → https://cutt.ly/Ergwrwvd
+» 🇫🇷 [ActuGaming / 15 avril 2025] La version physique d’Indiana Jones et le Cercle Ancien n’aurait qu’une petite partie du jeu sur son blu-ray → https://actugaming.net/a-721744
+
+
+--------------------------------------
+2025-04-18
+
+# L'Hebdo #62
+## Actus
+### La semaine
+» **The Electrifying Incident: A Monster Mini-Expedition**, sorti le 15 avril 2025 sur Windows, Mac et Steam Deck ; développé par Draknek and Friends, groupe de développeurs derrière les jeux _Sokobond_ (2014), _A Good snowman is hard to build_ (2015), _A Monster's Expedition_ (2020), _Bonfire Peaks_ (2021), _LOK Digital_ (2024) → <https://draknek.org> | https://s.team/a/3352300
+
+» présentation de Marathon, cf. Mardinale
+
+» augmentation du prix de la PS5, cf. Mardinale
+
+» 🇺🇸 [Steam / Kingdom Come Deliverance II / 10 avril 2025] Hardcore Mode arrives April 15 → https://cutt.ly/hrgXeBUQ
+
+» 🇫🇷 [ActuGaming / 14 avril 2025] **Baldur’s Gate 3 lancera son patch 8 le 15 avril avec ses 12 nouvelles sous-classes** → <https://actugaming.net/a-721647>
+» ▶️ [YouTube / Larian Studios / 15 avr. 2025] **Baldur’s Gate 3: The final patch - an animated short** → <https://youtu.be/CwCyTt8fSAU> (4 min)
+
+» 🇺🇸 [Game File / 11 avril 2025] **The Game File chain interview: Featuring Riot, Blizzard, Shuhei Yoshida and more…** Six interviewees, each asking a question for the next person. Ready to see how they all connected? → https://cutt.ly/LrgXtvMb
+» 🇫🇷 [ActuGaming / 14 avril 2025] **Blizzard a des plans sur 10 ans pour la licence Diablo** → https://cutt.ly/BrgXrCo8
+
+» 🇺🇸 [Steam / S.T.A.L.K.E.R. 2: Heart of Chornobyl / 14 avril 2025] Roadmap for Q2 2025 → https://cutt.ly/RrgXtNzg
+
+» 🇺🇸 [Steam / Skull and Bones / 14 avril 2025] Year 2 season 1 patch notes → https://cutt.ly/1rgXydiX
+» 🇺🇸 [Steam / Skull and Bones / 15 avril 2025] Cette année, Skull and Bones voit les choses en grand. Explorez les nouvelles fonctionnalités qui se profilent à l'horizon → https://cutt.ly/ArgXyQnm
+
+» 🇫🇷 [ActuGaming / 11 avril 2025] Inazuma Eleven: Victory Road sifflera enfin le coup d’envoi le 21 août prochain après de multiples reports → https://actugaming.net/a-721330
+
+» **Yes, Your Grace: Snowfall**, sorti le 8 mai 2025 sur Windows, Mac et Steam Deck ; développé par Brave At Night → https://braveatnight.co.uk | https://s.team/a/1373090
+
+» 🇺🇸 [Gematsu / 10 avril 2025] Mafia: The Old Country launches August 8. Release date inadvertently announced by 2K → https://cutt.ly/orgqVw5p
+» 🇫🇷 [ActuGaming / 11 avril 2025] La date de sortie de Mafia: The Old Country a été publiée par erreur par 2K → https://actugaming.net/a-721241
+
+» 🇫🇷 [ActuGaming / 16 avril 2025] Among Us : La version 3D du célèbre jeu sortira le 6 mai prochain → https://actugaming.net/a-721846
+
+» Chroma, cf. Mardinale
+
+### Mario Kart Direct
+» ▶️ [YouTube / Nintendo France / 17 avril 2025] Mario Kart World Direct → https://youtu.be/QnyJLb2UE1w
+» 🇫🇷 [ActuGaming / 17 avril 2025] Mario Kart World : Tout ce qu’il faut savoir sur le prochain épisode (modes de jeu, nouveautés, circuits…) → https://actugaming.net/a-721947
+» 🇫🇷 [Gamekult / 17 avril 2025] Mario Kart World Direct du 17 avril : monde ouvert, circuits, nouvelles mécaniques... voici ce qu'il faut retenir → https://cutt.ly/brgY0GRW
+
+
+## Jeux
+
+### Cthuloot
+» Cthuloot, sorti le 14 avril 2025 à 15 € sur Windows, Mac et Steam Deck, annoncé sur Switch, PlayStation 5 et Xbox Series ; développé par Pixelnest Studio et Headbang Club → https://s.team/a/2283410 | https://cthuloot.games
+
+- sorti le 14 avril 2025 sur Windows, Mac et Steam Deck ; annoncé sur Switch, PlayStation 5 et Xbox Series
+- édité par TyGames, développé par Pixelnest Studio, studio français 🇫🇷 derrière _Flipon_ (2020) et _Steredenn_ (2015), et par Headbang Club, studio français 🇫🇷 derrière _Double Kick Heroes_ (2020) → <https://cthuloot.games>
+
+💻️ 15 € sur Steam (<https://s.team/a/2283410>), démo disponible
+
+### Haste
+» Haste, sorti le 1er avril à 19 € 2025 sur Windows, Mac, Linux et Steam Deck ; développé par le studio suédois 🇸🇪 Landfall → https://s.team/a/1796470
+
+- sorti le 1er avril 2025 sur Windows, Mac, Linux et Steam Deck
+- développé par Landfall, studio suédois 🇸🇪 derrière _Content Warning_ (2024), _Knightfall: A Daring Journey_ (2022), _Totally Accurate Battle Simulator_ (2021), _Rounds_ (2021), _Totally Accurate Battlegrounds_ (2018), _Clustertruck_ (2016), _Air Brawl_ (2015), _Square Brawl_ (2015) → https://landfall.se
+
+💻️ 19 € sur Steam (<https://s.team/a/1796470>), démo disponible
+
+### Sandwalkers
+» Sandwalkers, sorti le 8 avril 2025 à 20 € sur Windows, Mac, Linux et Steam Deck ; développé par Goblinz Studio → https://s.team/a/1639080
+
+- sorti le 8 avril 2025 sur Windows, Mac, Linux et Steam Deck
+- édité par Goblinz Publishing, développé par Goblinz Studio
+
+💻️ 20 € sur Steam (<https://s.team/a/1639080>) et GOG (<https://cutt.ly/vrgUxuy0>)
+
+### Lost Records: Bloom & Rage
+» Lost Records: Bloom & Rage, épisode 1 sorti le 18 fév., épisode 2  le 15 avril, à 40 € sur PlayStation 5, Xbox Series et PC ; développé par Don't Nod → https://s.team/a/1902960 | https://dont-nod.com/en/games/lost-records-bloom-and-rage/
+
+- épisode 1 sorti le 18 fév., épisode 2 le 15 avril, à 40 € sur PlayStation 5, Xbox Series et PC / Steam Deck
+- édité et développé par Don't Nod, studio français 🇫🇷 derrière _Remember Me_ (2013), _Life Is Strange_ (2015), _Vampyr_ (2018), _Life Is Strange 2_ (2018), _Tell Me Why_ (2020), _Twin Mirror_ (2020) → <https://dont-nod.com>
+- réalisé par Michel Koch, direction artistique par Sam Bradley et Lucile Meunier, écriture par Desiree Cifre, Nina Freeman et Jean-Luc Cano, musiques par Milk & Bone, Ruth Radelet et Nora Kelly Band
+
+🎮 40 € sur PlayStation (<https://cutt.ly/grew3UFu>) et Xbox (<https://cutt.ly/Yrew3Mit>)
+💻️ 40 € sur Steam (<https://s.team/a/1902960>)
+
+### Mandragora: Whispers of the Witch Tree
+» Mandragora: Whispers of the Witch Tree, sorti le 17 avril 2025 à 40 € sur PlayStation 5, Xbox Series et PC / Steam Deck
+
+- sorti le 17 avril 2025 sur PlayStation 5, Xbox Series et PC / Steam Deck
+- édité par Knights Peak, développé par Primal Game Studio, studio hongrois 🇭🇺 d'une soixantaine de personnes basé à Budapest derrière les jeux _Around_ (2020), _Beasts of Brawlia_ (2019), _Supernova: Never Surrender_ (2016) → <https://mandragoragame.com> | <https://primalgs.com>
+
+🎮 40 € sur PlayStation (<https://cutt.ly/OrgYUT1N>) et Xbox (<https://cutt.ly/SrgYUNla>), démo disponible
+💻️ 40 € sur Steam (<https://s.team/a/1721060>) et GOG (<https://cutt.ly/qrgYbeZj>), démo disponible
+
+## Mais pas que
+### Gauthier
+» 🎶 Minecraft: Soothing Farm Morning, par Andrew Prahlow → https://album.link/s/6TkQwY9Y1ysw5St3fTVezF
+
+raids : OrigaTwitch => (15:20)[+518] At0mium => (15:40)[+717] Kokihiete => (<18:19) TiTavion (>19:40) => (<00:02) ZeratoR
 
 
 
