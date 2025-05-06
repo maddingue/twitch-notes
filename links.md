@@ -3076,6 +3076,7 @@ traduction :
 
 » 🇺🇸 [Games Industry / 24 avril 2025] NGO files complaint against Ubisoft for data protection concerns and forcing "always online" connections. "If the behaviour is illegal in the physical sphere, it should be illegal in the digital one as well" → https://cutt.ly/YrhKX5fC
 
+» 🇺🇸 [Noyb / 24 avril 2025] Like to play alone? Ubisoft is still watching you! → https://cutt.ly/xrli2MCc
 
 » 🇫🇷 [Gamekult / 24 avril 2025] Découvrez Figment, un prototype de console en papier électronique → https://cutt.ly/irhKT5Dh
 
@@ -3215,8 +3216,6 @@ traduction :
 » 🇫🇷 [3DVF / 30 avril 2025] Cyber Group Studios en liquidation : après 20 ans d’existence, la fin de l’aventure → https://cutt.ly/irj4SRLP
 » 🇫🇷 [ActuGaming / 30 avril 2025] Final Fantasy IX : L’entreprise d’animation française Cyber Group Studios en charge de la série animée met la clé sous la porte → https://actugaming.net/a-724535
 
-» 🇫🇷 [ActuGaming / 30 avril 2025] Sea of Stars sortira son DLC gratuit, Throes of the Watchmaker, le 20 mai prochain sur PC et consoles → https://actugaming.net/a-724540
-
 » 🇫🇷 [ActuGaming / 30 avril 2025] Oblivion Remastered : la VF restaurée via un mod sur PC grâce à un groupe de passionnés → https://actugaming.net/a-724547
 
 » 🇫🇷 [ActuGaming / 30 avril 2025] Les Tortues Ninja – Le destin de Splinter : Le rogue-like de Super Evil Megacorp date sa sortie sur PS4, PS5, Xbox One et Xbox Series → https://actugaming.net/a-724548
@@ -3263,8 +3262,6 @@ traduction :
 
 » 🇺🇸 [Game File / 1er mai 2025] Expedition 33 publisher: "Elder Scrolls: Oblivion didn’t seem to harm us at all". 35% of Expedition 33 players also played the Elder Scrolls remaster | Publisher Kepler hails Xboxhttps://cutt.ly/qrkcgTh9
 
-» 🇺🇸 [GoNintendo / 1er mai 2025] 1000xRESIST celebrates Peabody Award win, game hits 100k sold, surprises teased → https://cutt.ly/5rkp9Rqv
-
 » 🇫🇷 [ActuGaming / 1er mai 2025] F1 25 : Une longue vidéo de gameplay avec les circuits améliorés (dont Miami) et des tracés inversés → https://actugaming.net/a-724699
 
 » 🇺🇸 [Nintendo Life / 2 mai 2025] Switch Users Are Getting Error Codes After Updating To Version 20.0.0. Nintendo says it's investigating the issue → https://cutt.ly/FrkhAWL2
@@ -3274,9 +3271,6 @@ traduction :
 » 🇺🇸 [Rockstar / 2 mai 2025] Grand Theft Auto VI is now coming May 26, 2026 → https://cutt.ly/MrkhBRMS
 
 » 🇬🇧 [Eurogamer / 2 mai 2025] Working in the Shadows: how an Assassin's Creed researcher braved the backlash → https://cutt.ly/MrkU4OiJ
-
-» 🇫🇷 [ActuGaming / 2 mai 2025] GTA VI officiellement reporté à mai 2026 : Rockstar s’explique → https://actugaming.net/a-724747
-» 🇫🇷 [ActuGaming / 2 mai 2025] GTA VI reporté : l’action de Take-Two chute de près de 10 % en Bourse → https://actugaming.net/a-724764
 
 » 🇺🇸 [Time Extension / 2 mai 2025] Trump's Tariffs Are Also Impacting Evercade Stock In The US. But "release plans for our collections and hardware will continue unabated" → https://cutt.ly/ork8LN71
 
@@ -3330,25 +3324,20 @@ traduction :
 » 🇺🇸 [The Game Post / 3 mai 2025] Nintendo files lawsuit against Genki over unauthorized Switch 2 mockups and trademark use at CES 2025 → https://cutt.ly/hrk8SKHg
 » 🇺🇸 [Kotaku / 5 mai 2025] Nintendo sues accessory maker who flaunted console mockup at the height of Switch leaks. Genki made waves at CES by debuting a 3D-printed Switch 2 replica → https://kotaku.com/n-1851779140
 » 🇫🇷 [Gamekult / 5 mai 2025] Nintendo traine en justice le fabricant d'accessoires Genki, pour avoir montré une maquette de Switch 2 → https://cutt.ly/5rk83gCW
+» 🇺🇸 [Games Industry / 6 mai 2025] Nintendo sues third-party accessory maker for trademark violation, false advertising, and unfair competition. Genki says it is "working with legal counsel to respond thoughtfully" → https://cutt.ly/4rli3ZA7
 
 » 🇺🇸 [Kotaku / 5 mai 2025] The _Last Of Us_ fans are divided on the show’s Ellie and Dina romance. Sure, the show's version of the romance is wholesome, but the changes it makes are frustrating long-time game fans → https://kotaku.com/n-1851779166
 » 🇺🇸 [Kotaku / 5 mai 2025] Is _The Last Of Us_ skipping one of the game’s most tragic deaths? Fans think the show might have changed at least one character’s fate → https://kotaku.com/n-1851779222
-
-» 🇫🇷 [ActuGaming / 5 mai 2025] Gears of War Reloaded : Le premier opus de la licence de jeu de tir va faire peau neuve sur PC, Xbox… et PS5, sortie prévue le 26 août → https://actugaming.net/a-725307
-» 🇺🇸 [Kotaku / 5 mai 2025] _Gears of War_ getting new remaster, coming to Xbox and PS5 this summer. _Gears of War: Reloaded_ will support 4k/120 FPS and will be free for Game Pass subscribers → https://kotaku.com/n-1851779167
-» 🇺🇸 [Kotaku / 5 mai 2025] This shouldn't be weird anymore, but this is still very weird. Imagine explaining the news that Gears of War was coming to PlayStation to someone in 2009 → https://kotaku.com/n-1851779186
 
 » 🇫🇷 [ActuGaming / 5 mai 2025] HoYoverse (Genshin Impact) tease un nouveau jeu qui prendrait la forme d’un Pokémon-like → https://actugaming.net/a-725303
 
 » 🦋 [BlueSky / Jump Over the Age / 5 mai 2025] 🧵 https://bsky.app/profile/jumpovertheage.com/post/3logrdv65rs2r
 > Today we are revealing that the Citizen Sleeper series has had 2 MILLION PLAYERS over the course of 3 years and two games.
 > I've also been crunching achievement percentages to figure out some interesting facts about our player base 😅
+» 🇫🇷 [ActuGaming / 6 mai 2025] Citizen Sleeper : un jeu de plateau gratuit pour le troisième anniversaire de la franchise → https://cutt.ly/1rli04So
 
 » 🇺🇸 [The Game Post / 4 mai 2025] Call of Duty: Black Ops 7 leak reveals battle pass paywall for LTMs and exclusive rewards → https://cutt.ly/5rk80z1E
 » 🇺🇸 [80 level / 5 mai 2025] Rumor: Call of Duty will hide limited-time modes behind battle pass. Some are just too valuable to distribute for free → https://cutt.ly/Erk81CcG
-
-» 🇺🇸 [Gematsu / 5 avril 2025] Ecco the Dolphin and Ecco: The Tides of Time remasters announced alongside third Ecco game. Countdown website ends on April 25, 2026 → https://cutt.ly/8rk8O755
-» 🇺🇸 [Kotaku / 5 mai 2025] One-year countdown clock is teasing _Ecco The Dolphin's_ return. We are getting remasters of the first two games and a new _Ecco the Dolphin_ sequel → https://kotaku.com/n-1851779245
 
 » 🇺🇸 [Game Developer / 5 avril 2025] NCSoft invests in TX-based studio founded by id, Naughty Dog alums. The investment is aimed at helping the studio bring its first game, Defect, to the finish line. → https://cutt.ly/trk8Hdh1
 » 🇫🇷 [Gamekult / 5 mai 2025] NCSoft investit dans le studio texan Empty Vessel (Defect) → https://cutt.ly/0rk89AEb
@@ -3358,6 +3347,8 @@ traduction :
 » 🇫🇷 [Gamekult / 5 mai 2025] Unreal Engine 6 : Epic Games veut fusionner ses outils pros et grand public, annonce Tim Sweeney → https://cutt.ly/drk890WL
 
 » 🇫🇷 [Gamekult / 5 mai 2025] 7 jeux Leisure Suit Larry prennent leur retraite et quittent Steam → https://cutt.ly/Erk8292J
+
+» 🇨🇦 [Le Devoir / 5 mai 2025] GameStop Canada acquis par un fabricant de jouets québécois et rebaptisé EB Games → https://cutt.ly/0rli9aCq
 
 » 🇺🇸 [The Gamer / 5 mai 2025] Nintendo hasn't dropped its diversity practices, despite Trump's war against DEI → https://cutt.ly/Frk80MWw
 » 🇺🇸 [Nintendo Life / 5 mai 2025] Doug Bowser reiterates the importance of diversity within Nintendo. "We strive to have a diversity that reflects our players" → https://cutt.ly/0rk80Omo 
@@ -3371,11 +3362,54 @@ traduction :
 
 » 🇺🇸 [VentureBeat / 5 mai 2025] Game veteran Warren Spector raises awareness about working with bipolar condition → https://cutt.ly/nrk8Memk
 
+» 🇫🇷 [PlayStation Inside / 5 mai 2025] Interview de Shuhei Yoshida, ancien président de PlayStation → https://cutt.ly/6rli8UXr
+» 🇺🇸 [PlayStation Inside / 5 mai 2025] An interview with Shuhei Yoshida, former president of PlayStation → https://cutt.ly/lrli8FNr
 
 
-» 🇫🇷 [ActuGaming / 5 mai 2025] 
+» 🇫🇷 [ActuGaming / 6 mai 2025] Half-Life 3 bientôt une réalité ? Un insider Valve déclare en tout cas que le titre serait jouable « du début à la fin » → https://actugaming.net/a-725232
 
-» 🇫🇷 [Gamekult / 5 mai 2025] 
+» 🇫🇷 [Dealabs / 6 mai 2025] De nouveaux packs PS5 inattendus bientôt dévoilés avec des promos à la clé → https://cutt.ly/OrliMpxx
+» 🇫🇷 [ActuGaming / 6 mai 2025] PlayStation préparerait pour bientôt des bundles PS5 avec Call of Duty Black Ops 6 → https://actugaming.net/a-725423
+
+» 🇫🇷 [Gamekult / 6 mai 2025] Ymir : un nouvel émulateur Sega Saturn open source débarque → https://cutt.ly/frli0nAy
+
+» 🇫🇷 [ActuGaming / 6 mai 2025] The Shadow Syndicate : découvrez ce jeu d’action et d’infiltration dans le Brooklyn des années 30 prévu pour 2026 → https://actugaming.net/a-725320
+
+» 🇫🇷 [ActuGaming / 6 mai 2025] Clair Obscur: Expedition 33 continue sa folle ascension en dépassant les 2 millions de copies vendues → https://actugaming.net/a-725432
+
+» 🇺🇸 [Starbreeze / 6 mai 2025] Starbreeze enters into agreement regarding the publishing rights for PAYDAY™ 3 and carries out a directed share issue of class B shares amounting to SEK 33 million → https://cutt.ly/5rli91C9
+
+» 🇫🇷 [ActuGaming / 6 mai 2025] Grand Theft Auto VI : Rockstar dévoile enfin un deuxième trailer officiel → https://actugaming.net/a-725456
+
+» 🇫🇷 [ActuGaming / 6 mai 2025] Dimps : Le studio japonais de Takashi Nishiyama (Street Fighter, Fatal Fury) va développer un jeu de boxe en partenariat avec le magazine The Ring → https://actugaming.net/a-725468
+» 🇫🇷 [Gamekult / 6 mai 2025] Takashi Nishiyama (Street Fighter, Fatal Fury) travaille sur un jeu de boxe avec l'Arabie saoudite → https://cutt.ly/Vrli2y6f
+
+» 🇫🇷 [ActuGaming / 6 mai 2025] GTA VI : Voici une présentation officielle des personnages clés du prochain monde ouvert → https://actugaming.net/a-725476
+
+» 🇫🇷 [ActuGaming / 6 mai 2025] Bubsy in: The Purrfect Collection : La liste des jeux est désormais officielle, et oui, Bubsy 3D est bien présent → https://actugaming.net/a-725569
+
+» 🇫🇷 [Gamekult / 6 mai 2025] Sony prend le contrôle de la distribution de PlayStation en Chine → https://cutt.ly/nrli2fTD
+
+» 🇫🇷 [ActuGaming / 6 mai 2025] Project Caesar : Le prochain jeu de grande stratégie de Paradox Interactive sera dévoilé le jeudi 8 mai à 18h → https://actugaming.net/a-725586
+
+» 🇫🇷 [ActuGaming / 6 mai 2025] Final Fantasy VII Remake : Toute la trilogie de remake du RPG de Square Enix pourrait bien sortir sur Switch 2 → https://actugaming.net/a-725610
+
+» 🇫🇷 [ActuGaming / 6 mai 2025] GTA VI : Voici les principaux lieux de la map du jeu, avec Vice City et ses alentours → https://actugaming.net/a-725473
+
+» 🇫🇷 [ActuGaming / 6 mai 2025] Destiny 2 : L’avenir du jeu dévoilé avec Les Confins du Destin le 15 juin et une extension Rebelles à l’ambiance Star Wars pour décembre → https://actugaming.net/a-725602
+
+» 🇺🇸 [Games Industry / 6 mai 2025] Roblox revenue jumps 29% to $1.04bn during Q1 2025. DAU reached 97.8 million during the quarter, with US and Canada experiencing a 22% rise → https://cutt.ly/krli3xDn
+
+» 🇺🇸 [Games Industry / 6 mai 2025] "Hope, optimism; I think we need this" – Stéphane D'Astous on joining Iwot Games and ramping up for The Wheel of Time RPG. The prolific studio founder speaks to GamesIndustry.biz about the new Montreal-based developer → https://cutt.ly/6rli3URb
+
+» 🇺🇸 [Games Industry / 6 mai 2025] Former ProbablyMonsters devs form "emotionally rich, single-player narrative games," Zunzún. "We believe games can be art, and great art should make you feel something," says CCO → https://cutt.ly/lrli3DkR
+
+» 🇺🇸 [Gematsu / 6 mai 2025] New Battlefield game to be announced this summer. "A pivotal step in delivering on our next generation of blockbuster entertainment." → https://cutt.ly/2rloiOuQ
+
+
+» 🇫🇷 [ActuGaming / 6 mai 2025] 
+
+» 🇫🇷 [Gamekult / 6 mai 2025] 
 
 » 🇬🇧 [PC Gamer / 5 mai 2025] 
 
