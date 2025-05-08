@@ -28,6 +28,8 @@
 » 🇫🇷 [Nathalie Lawhead / 1er juin 2022] “Abusing you was by the book” (documenting two years of abuse from Game Journalism, after sharing my #metoo… the whole painful story all in one place) → https://cutt.ly/vrhX7mjc
 
 
+
+
 » 🇺🇸 [German Game Industry Association / 16 oct. 2024] Minister of State for Culture and the Media promotes Germany-wide games founding grant → https://cutt.ly/ZeF8Y2HY
 
 » 🇺🇸 [Remedy / 21 oct. 2024] Alan Wake 2 on PlayStation 5 Pro – Behind The Scenes. Take a deep dive into how Remedy’s Northlight engine team updated the technology behind Alan Wake 2 to support the new features of PlayStation 5 Pro → https://cutt.ly/aeHq6qF7
@@ -911,6 +913,8 @@
 » 🇫🇷 [ActuGaming / 16 jan. 2025] Microids va distribuer des versions physiques des jeux NIS America en France, dont The Legend of Heroes: Trails Through Daybreak II → https://actugaming.net/a-696416
 
 » 🇫🇷 [ActuGaming / 16 jan. 2025] The Blood of Dawnwalker : Le studio Rebel Wolves explique comment la mécanique du temps qui passe fonctionne en jeu → https://actugaming.net/a-696564
+
+» 🇺🇸 [FTC / 17 jan. 2025] Genshin Impact Game Developer Will be Banned from Selling Lootboxes to Teens Under 16 without Parental Consent, Pay a $20 Million Fine to Settle FTC Charges. Game developer Cognosphere allegedly unfairly marketed loot boxes to children that obscured real costs and misled all players about the odds of obtaining prizes → https://cutt.ly/OrlU3OQ4
 
 » 🇫🇷 [ActuGaming / 17 jan. 2025] The House of the Dead 2 revient dans un remake, première vidéo et période de sortie → https://actugaming.net/a-696588
 
@@ -3262,6 +3266,10 @@ traduction :
 
 » 🇺🇸 [Game File / 1er mai 2025] Expedition 33 publisher: "Elder Scrolls: Oblivion didn’t seem to harm us at all". 35% of Expedition 33 players also played the Elder Scrolls remaster | Publisher Kepler hails Xboxhttps://cutt.ly/qrkcgTh9
 
+» 🇺🇸 [Game File / 1er mai 2025] Epic offers Fortnite 'peace proposal' to Apple, after searing court ruling against iPhone maker. Game File spoke with an ebullient Tim Sweeney after Epic's win. Apple, facing a potential criminal investigation into its conduct, plans to appeal → https://cutt.ly/prlsKeB2
+
+» 🇺🇸 [Game File / 2 mai 2025] Tim Sweeney wants the Epic Games Store on consoles, but isn't going to sue over it → https://cutt.ly/grlsKQm7
+
 » 🇫🇷 [ActuGaming / 1er mai 2025] F1 25 : Une longue vidéo de gameplay avec les circuits améliorés (dont Miami) et des tracés inversés → https://actugaming.net/a-724699
 
 » 🇺🇸 [Nintendo Life / 2 mai 2025] Switch Users Are Getting Error Codes After Updating To Version 20.0.0. Nintendo says it's investigating the issue → https://cutt.ly/FrkhAWL2
@@ -3404,18 +3412,116 @@ traduction :
 
 » 🇺🇸 [Games Industry / 6 mai 2025] Former ProbablyMonsters devs form "emotionally rich, single-player narrative games," Zunzún. "We believe games can be art, and great art should make you feel something," says CCO → https://cutt.ly/lrli3DkR
 
+» 🇫🇷 [Gamekult / 6 mai 2025] Le développement de la Switch 2 a débuté dès 2019 → https://cutt.ly/brlsPwsL
+
 » 🇺🇸 [Gematsu / 6 mai 2025] New Battlefield game to be announced this summer. "A pivotal step in delivering on our next generation of blockbuster entertainment." → https://cutt.ly/2rloiOuQ
+» 🇺🇸 [Kotaku / 6 mai 2025] The wait for _Battlefield 6_ won't be much longer with full reveal this summer. The military shooter was originally trying to dodge _GTA 6_ → https://kotaku.com/n-1851779462
+» 🇫🇷 [ActuGaming / 7 mai 2025] Electronic Arts révélera officiellement le prochain Battlefield cet été avec une sortie confirmée d’ici mars 2026 → https://actugaming.net/a-725703
+
+» 🇺🇸 [Gematsu / 6 mai 2025] Killer is Dead sales top one million. A very late sales update → https://cutt.ly/HrlsWUgY
+
+» 🇬🇧 [VGC / 6 mai 2025] EA says Split Fiction has been ‘hugely successful’ as sales milestone revealed. Hazelight’s It Takes Two follow-up has sold nearly 4 million copies → https://cutt.ly/ArlsEUva
+» 🇫🇷 [ActuGaming / 7 mai 2025] Split Fiction ne s’arrête pas de briller en franchissant le cap des 4 millions de ventes → https://actugaming.net/a-725695
+
+» 🇫🇷 [ActuGaming / 7 mai 2025] Analyse GTA VI : les secrets que nous révèlent le trailer et les nouvelles images partagées par Rockstar → https://actugaming.net/a-725458
+
+» 🇫🇷 [Gamekult / 7 mai 2025] Anbernic reprend enfin son rythme de croisière habituel et présente la RG-34XXSP → https://cutt.ly/NrlsFiEe
+
+» 🇺🇸 [Steam / Dorfromantik / 7 mai 2025] Dorfromantik Expands to Further Consoles and Mobile! → https://cutt.ly/ArlU28JC
+» 🇫🇷 [ActuGaming / 7 mai 2025] Dorfromantik : Le jeu de puzzle/stratégie particulièrement addictif prévoit une sortie sur consoles et mobile → https://actugaming.net/a-725816
+
+» 🇺🇸 [Reuters / 7 mai 2025] Microsoft wins appeal in FTC challenge to $69 bln Activision Blizzard deal → https://cutt.ly/crlU8ito
+» 🇫🇷 [ActuGaming / 8 mai 2025] Activision-Blizzard : Un énième recours de la FTC rejeté par la cour d’appel des Etats-Unis → https://actugaming.net/a-725891
+
+» 🇺🇸 [PlayStation Blog / 7 mai 2025] Welcome teamLFG to the PlayStation Studios family. teamLFG rallies developers from across the industry to bring to life an ambitious incubation project → https://play.st/3GGT09j
+» 🇫🇷 [PlayStation Blog / 7 mai 2025] teamLFG rejoint la famille PlayStation Studios. teamLFG rassemble des développeurs d'à travers l’industrie pour donner vie à un ambitieux projet → https://cutt.ly/NrlU2TIt
+» 🇬🇧 [VGC / 7 mai 2025] Sony announces new studio TeamLFG including Bungie, Fortnite and Roblox veterans. The new Washington-based studio is working on an “ambitious incubation project” → https://cutt.ly/ErlU92Pq
+» 🇫🇷 [ActuGaming / 7 mai 2025] teamLFG, un studio notamment composé d’anciens de Bungie, se fonde et rejoint la bannière PlayStation Studios → https://actugaming.net/a-725758
+
+» 🇺🇸 [Game Developer / 8 mai 2025] EA says business primed for 'accelerated growth' following layoffs. CEO Andrew Wilson said the publisher has 'never been more optimistic about what comes next.' → https://cutt.ly/drlU9cRm
+» 🇫🇷 [ActuGaming / 7 mai 2025] Electronic Arts ne prévoit pas d’augmenter le prix de ses jeux « pour le moment » selon son PDG Andrew Wilson → https://actugaming.net/a-725791
+
+» 🇺🇸 [Sony / 8 mai 2025] Sony Group Corporation, Bandai Namco Holdings, and Gaudiy Have Begun a Strategic Partnership to Invest and Cooperate in Building the Future of Entertainment → https://cutt.ly/5rlU8Of2
+
+» 🇬🇧 [VGC / 8 mai 2025] Palworld confirms ‘disappointing’ game changes forced by Pokémon lawsuit. Palworld is patching out various features related to Nintendo’s lawsuit → https://cutt.ly/zrlU7iPZ
+
+» 🇺🇸 [Nintendo] Financial highlights → https://cutt.ly/wrlIq2Xu
+
+» 🇺🇸 [PlayStation Blog / 8 mai 2025] Revealing the DualSense wireless controller – Death Stranding 2: On the Beach Limited Edition. Pre-orders begin May 22, with launch on June 26 alongside Death Stranding 2: On the Beach → https://cutt.ly/IrlIwb3L
+» 🇫🇷 [PlayStation Blog / 8 mai 2025] Découvrez la manette sans fil DualSense – Édition limitée Death Stranding 2: On the Beach. Les précommandes ouvrent le 22 mai, et elle sera disponible le 26 juin, en même temps que Death Stranding 2: On the Beach → https://cutt.ly/TrlIwV8s
+» 🇫🇷 [ActuGaming / 8 mai 2025] Death Stranding 2 : Une DualSense édition limitée aux couleurs du jeu est annoncée, début des précommandes le 22 mai → https://actugaming.net/a-725983
+
+» 🇯🇵 [Famitsu / 6 mai 2025] Switch2『エルデンリング TARNISHED EDITION』では新たな素性“イデスの騎士”、“重装騎士”が追加。フロム・ソフトウェアのイベントで判明 → https://cutt.ly/3rlOAMkt
+» 🇫🇷 [ActuGaming / 7 mai 2025] Elden Ring : Le contenu inclus dans la Tarnished Edition sur Switch 2 se précise → https://actugaming.net/a-725723
+
+» 🇫🇷 [ActuGaming / 7 mai 2025] Trails in the Sky 1st Chapter arrivera le 19 septembre sur PC, PS5 et Switch → https://actugaming.net/a-725729
+
+» 🇫🇷 [ActuGaming / 7 mai 2025] Tomb Raider IV-VI Remastered : Une édition physique et un collector confirmés par Limited Run, début des précommandes le 13 mai → https://actugaming.net/a-725738
+
+» 🇫🇷 [ActuGaming / 7 mai 2025] Yakuza 0 Director’s Cut détaille et fait une démonstration de son casting vocal anglais → https://actugaming.net/a-725797
+
+» 🇫🇷 [ActuGaming / 7 mai 2025] Nikoderiko: The Magical World Director’s Cut annonce une version physique ainsi qu’un collector prévus pour le 22 août → https://actugaming.net/a-725789
+
+» 🇫🇷 [ActuGaming / 7 mai 2025] GTA VI : Rockstar Games réagit et tient à rassurer face aux doutes concernant le rendu graphique du dernier trailer → https://actugaming.net/a-725823/
+
+» 🦋 [BlueSky / ActuGaming / 7 mai 2025] 🧵 https://bsky.app/profile/actugaming.net/post/3loly3vy5rw2w
+> L'AG French Direct revient le 28 mai prochain avec une lineup pépite de plus de 40 jeux indépendants français et francophones ! ✨
+
+» 🇺🇸 [Games Industry / 7 mai 2025] Unity's Q1 2025 revenue dips 6% YoY to $435m. Firm says revenue drop has been "partially offset by the earlier than expected rollout of Unity Vector" → https://cutt.ly/frlSoYwu
+
+» ▶️ [YouTube / Mark Darrah / 6 mai 2025] How 2017 changed BioWare 1000 ways → https://youtu.be/4v9SIGTLHF0 (16 min)
+» 🇺🇸 [Kotaku / 7 mai 2025] Ex-BioWare lead says the _Dragon Age_ team didn't feel supported during _Veilguard_ development. Mark Darrah explains how EA ‘starved’ the project of resources to focus on the ill-fated Anthem → https://kotaku.com/n-1851779569
 
 
-» 🇫🇷 [ActuGaming / 6 mai 2025] 
+» 🇫🇷 [ActuGaming / 8 mai 2025] Apex Legends : la saison 25 Prodige est enfin disponible → https://actugaming.net/a-725858
 
-» 🇫🇷 [Gamekult / 6 mai 2025] 
+» 🇫🇷 [ActuGaming / 8 mai 2025] Accompagnez l’exil de mexicains en quête d’un monde meilleur dans Take us North, un jeu d’aventure narratif inspiré d’histoires vraies → https://actugaming.net/a-725950
+
+» 🇫🇷 [ActuGaming / 8 mai 2025] Asus ROG Ally 2 : Des visuels en ligne appuient la version d’un modèle en collaboration avec Xbox → https://actugaming.net/a-725790
+
+» 🇫🇷 [ActuGaming / 8 mai 2025] Little Mage : un nouveau metroidvania en 2D annoncé sur PC et consoles → https://actugaming.net/a-725321
+
+» 🇫🇷 [ActuGaming / 8 mai 2025] Death Stranding 2 : Hideo Kojima confie que GTA VI n’a pas perturbé le planning de sortie… mais aurait pu quand même → https://actugaming.net/a-725829
+
+» 🇫🇷 [ActuGaming / 8 mai 2025] Death Stranding 2 On the Beach : Les premières previews du titre de Kojima Productions sont tombées, voici ce que l’on peut en retenir → https://actugaming.net/a-725966
+
+» 🇫🇷 [ActuGaming / 8 mai 2025] Clair Obscur: Expedition 33 : Le studio annonce rééquilibrer la dose de dégâts d’une technique absolument surpuissante → https://actugaming.net/a-726012
+
+» 🇫🇷 [ActuGaming / 8 mai 2025] Mafia: The Old Country : 2K diffuse une très jolie vidéo de gameplay et confirme que le jeu sortira bien le 8 août → https://actugaming.net/a-726036
+
+» 🇺🇸 [Gematsu / 8 mai 2025] Titan Quest II Early Access delayed to summer. New window set after missing winter release → https://cutt.ly/wrlOKJ6K
+
+» 🇫🇷 [ActuGaming / 8 mai 2025] Helldivers II : Une nouvelle salve d’équipements et de skins débarque le 15 mai avec les obligations de guerre premium Maîtres de cérémonie → https://actugaming.net/a-726033
+
+» 🇫🇷 [ActuGaming / 8 mai 2025] Kingdom Come Deliverance II tease son premier DLC, « Brushes with Death », à paraître le 15 mai prochain → https://actugaming.net/a-726070
+
+» 🇺🇸 [Konami / 8 mai 2025] FY2025 financial results — Fiscal year ended March 31, 2025 → https://cutt.ly/ErlA5XxZ
+» 🇫🇷 [Gamekult / 8 mai 2025] Konami annonce les meilleurs résultats de son histoire. Tout ça grâce à Rocket Knight → https://cutt.ly/HrlA5xqS
+
+» 🇯🇵 [Kantei / 11 déc. 2023] 株式会社レベルファイブ 参考資料 (Level-5 Inc. Documents de référence) → https://cutt.ly/FrlA4Ow9
+» 🇫🇷 [Inazuma Frontier / 12 déc. 2023] Level-5 dévoile des exemples d’utilisation de l’IA dans ses projets → https://cutt.ly/DrlA4XwX
+» 🇫🇷 [Gamekult / 8 mai 2025] Selon le PDG de Level-5, 80 à 90% du code des jeux actuels sont générés avec l'aide de l'IA → https://cutt.ly/5rlA7lgC
+
+» 🇺🇸 [CTA / 6 mai 2025] How the proposed Trump tariffs increase prices for Consumer Technology products (May 2025) → https://cutt.ly/LrlSeNRt
+» 🇺🇸 [Games Industry / 8 mai 2025] US trade organization warns video game consoles could cost US players 69% more under current Trump tariff proposals. That would see the average console's price rise by - not to - $428 → https://cutt.ly/lrlSuLvO
+» 🇺🇸 [Kotaku / 8 mai 2025] Worst-case tariff scenario could hike game console prices by over 69 percent. A new report sounds the alarm about an impending collapse in console sales → https://kotaku.com/n-1851779765
+
+» 🇺🇸 [Games Industry / 8 mai 2025] Tripledot Studios acquires AppLovin's mobile games business for $800 million. The deal is expected to close this summer, subject to regulator approval → https://cutt.ly/JrlSiNAB
+» 🇺🇸 [Game Developer / 8 mai 2025] Tripledot to acquire AppLovin mobile studio portfolio for $800 million. The deal will see UK mobile publisher Tripledot acquire 10 new studios and numerous titles. → https://cutt.ly/9rlSinzN
+
+» 🇺🇸 [Games Industry / 8 mai 2025] Zugalu Entertainment acquires Crimson Herring Studios. "This acquisition allows us to accelerate our growth and expand our creative horizons," says Zugalu CEO → https://cutt.ly/yrlSolZc
+
+
+
+» 🇫🇷 [ActuGaming / 8 mai 2025] 
+
+» 🇫🇷 [Gamekult / 8 mai 2025] 
 
 » 🇬🇧 [PC Gamer / 5 mai 2025] 
 
 » 🇺🇸 [Time Extension / 5 mai 2025] 
 
-» 🇺🇸 [Kotaku / 5 mai 2025] 
+» 🇺🇸 [Kotaku / 8 mai 2025] 
 
 » 🇬🇧 [PC Gamer / xxx] 
 
