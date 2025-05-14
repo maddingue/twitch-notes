@@ -2434,8 +2434,6 @@ traduction :
 
 » 🇫🇷 [Gamekult / 28 mars 2025] Amazon Luna signe avec Electronic Arts pour consolider son offre de cloud gaming → https://cutt.ly/nraxIxB0
 
-» 🇫🇷 [ActuGaming / 28 mars 2025] MindsEye : Le jeu de l’ancien producteur de GTA sera disponible dès ce mois de juin → https://actugaming.net/a-717307
-
 » 🇫🇷 [ActuGaming / 28 mars 2025] The Legend of Heroes: Trails beyond the Horizon est annoncé en France pour cet automne → https://actugaming.net/a-717306
 
 » 🇬🇧 [GamesRadar+ / 28 mars 2025] "30 years of history reside in our tape backups": PlayStation's building a game preservation mineshaft vault with 200 million files going back to a 1994 build of PS1 JRPG Arc the Lad. "There's people who probably don't know what Gex is – that wounds me personally" → https://cutt.ly/1raTRjLU
@@ -3088,8 +3086,6 @@ traduction :
 
 » 🇫🇷 [ActuGaming / 24 avril 2025] Pourquoi jouer à Vestiges: Fallen Tribes pour sa sortie en version finale → https://actugaming.net/a-723231
 
-» 🇫🇷 [ActuGaming / 25 avril 2025] Mafia: The Old Country nous montrera plus de gameplay le 8 mai et devrait confirmer sa date de sortie → https://actugaming.net/a-723646
-
 » 🇺🇸 [Kotaku / 25 avril 2025] _Oblivion Remastered_ is out, so let's all play _Morrowind_. The 24-year-old game is still playable out of the box, but even better via OpenMW → https://kotaku.com/n-1851777833
 
 » 🇺🇸 [Kotaku / 25 avril 2025] Wait, just how long is _Oblivion Remastered_? Are you going to be playing this game forever? Well, you almost probably could → https://kotaku.com/n-1851777882
@@ -3505,12 +3501,6 @@ traduction :
 
 » 🇬🇧 [PC Gamer / 9 mai 2025] The voice of Disco Elysium's Ancient Reptilian Brain performed the game's famous karaoke scene live and in costume. The Smallest Church in Saint-Saëns → https://cutt.ly/Nrzs6ufs
 
-» 🇺🇸 [CWA / 9 mai 2025] Overwatch game developers secure union recognition with Communications Workers of America → https://cutt.ly/5rzs5IR0
-» 🇺🇸 [Kotaku / 9 mai 2025] Blizzard's Overwatch team just unionized: 'what I want to protect most here is the people'. The wall-to-wall union of Blizzard Team 4 includes nearly 200 developers → https://kotaku.com/n-1851779922
-» 🇬🇧 [PC Gamer / 9 mai 2025] Nearly 200 Overwatch developers at Blizzard form a new union: The Overwatch Gamemakers Guild. The Communications Workers of America says Microsoft has already recognized the union → https://cutt.ly/Przs78Mg
-» 🇫🇷 [Gamekult / 12 mai 2025] Overwatch : les équipes de développeurs se syndicalisent chez Activision → https://cutt.ly/jrzU3B4N
-» 🇺🇸 [Game Developer / 12 mai 2025] Overwatch developers form nearly 200-person union at Blizzard Entertainment. The world could always use more unions. → https://cutt.ly/PrzU3zXv
-
 » 🇺🇸 [Bloomberg / 9 mai 2025] ‘Grand Theft Auto VI’ delay impacts every game company. When Rockstar pushed back the release of the highly anticipated title, some game makers breathed a sigh of relief. Others are holding emergency meetings → https://cutt.ly/orzsJ0ab
 » 🇺🇸 [Kotaku / 9 mai 2025] GTA 6's delay has reportedly led to chaos at other studios and publishers. We know that EA was closely watching GTA 6's delay as it plans to launch Battlefield 6 → https://kotaku.com/n-1851780047
 
@@ -3519,6 +3509,7 @@ traduction :
 » 🇺🇸 [Steam / Outer Wilds / 9 mai 2025] Outer Wilds patch 16 is now available. A small patch for gameplay and credits updates → https://cutt.ly/frzUBjbP
 » 🇺🇸 [The Verge / 9 mai 2025] Don’t expect to hear about the Outer Wilds team’s next game for ‘years’. The team wants to ‘preserve the mystery of the next game.’ → https://cutt.ly/Mrzs06Xd
 » 🇫🇷 [Gamekult / 12 mai 2025] Outer Wilds : fini les grosses mises à jour, les développeurs se concentrent sur leur prochain jeu. Il faudra être patient → https://cutt.ly/MrzUV2UJ
+» 🇫🇷 [ActuGaming / 13 mai 2025] Maintenant que l’ultime patch pour Outer Wilds est disponible, Mobius Digital se tourne vers son prochain jeu → https://actugaming.net/a-726827
 
 » 🇫🇷 [ActuGaming / 9 mai 2025] Death Stranding 2 : Hideo Kojima admet que la crise du COVID a beaucoup influencé l’écriture de cette suite → https://actugaming.net/a-726085
 
@@ -3546,8 +3537,6 @@ traduction :
 > - Autres : 546 millions € (-45%)
 
 » 🇫🇷 [ActuGaming / 9 mai 2025] Clair Obscur: Expedition 33 : Le succès est également musical en cartonnant sur les plateformes de streaming → https://actugaming.net/a-726151
-
-» 🇫🇷 [ActuGaming / 9 mai 2025] Europa Universalis V : Le prochain opus de la saga axée Grande stratégie officialisé sur PC par Paradox Interactive → https://actugaming.net/a-726173
 
 » 🇫🇷 [ActuGaming / 9 mai 2025] Fantasy Life i: La Voleuse de temps ajoute une version Switch 2 mais sans date de sortie pour le moment → https://actugaming.net/a-726189
 
@@ -3595,12 +3584,6 @@ traduction :
 » 🇺🇸 [Game File / 10 mai 2025] Some very short origin stories for some excellent video game names. Game developers explain “Alan Wake,” “Obra Dinn,” “Despelote,” Caves of Qud’s “Eaters,” and more. → https://cutt.ly/SrzU9fbP
 
 
-» 🦋 [BlueSky / Giant Bomb / 11 mai 2025] 🧵 https://bsky.app/profile/giantbomb.bsky.social/post/3lou2vs2v2c2t
-> Giant Bomb lives! Fandom has sold the site to us and it is now fully independent and employee-owned. We'll see you all on Tuesday for the Giant Bombcast.
-> For more info right now, head over to <giantbomb.com/join>
-» 🇬🇧 [PC Gamer / 11 mai 2025] After conflict between the staff of gaming site Giant Bomb and owner Fandom, 'Giant Bomb is now owned by the people who make Giant Bomb'. Fandom is calling it a "strategic decision". → https://cutt.ly/Brzs9Wfd
-» 🇺🇸 [Games Industry / 12 mai 2025] Giant Bomb sold to site's staff by Fandom. The site and video outlet is now independently owned and operated → https://cutt.ly/ArzU9E3r
-
 » 🇬🇧 [PC Gamer / 11 mai 2025] FTC delays enforcing 'click to cancel' rule that would finally bring the hammer down on companies that make it as annoying as possible to cancel subscriptions. The Negative Option Rule is great for consumers, but the FTC isn't enforcing it → https://cutt.ly/mrzItHGR
 
 
@@ -3609,10 +3592,6 @@ traduction :
 » 🇫🇷 [ActuGaming / 12 mai 2025] F1 25 dévoile les notes de ses pilotes et il y en a quelques-unes qui sont difficiles à comprendre → https://actugaming.net/a-726601
 
 » 🇫🇷 [ActuGaming / 12 mai 2025] The First Descendant annonce une collaboration avec NieR Automata et présente sa saison 3 → https://actugaming.net/a-726620
-
-» 🇫🇷 [ActuGaming / 12 mai 2025] La vie de Moon Studios serait menacée et dépendrait des avis laissés sur No Rest for the Wicked, selon son PDG Thomas Mahler → https://actugaming.net/a-726637
-» 🇫🇷 [Gamekult / 12 mai 2025] Selon Thomas Mahler (Moon Studios), No Rest for The Wicked pourrait ne jamais être terminé. Des ventes insuffisantes et une campagne de review bombing ? → https://cutt.ly/DrzUVp0N
-» 🇺🇸 [Kotaku / 12 mai 2025] Ori studio head says review bombing might force studio closure, then takes it all back. Studio head Thomas Mahler is having one, with a series of confusing, contradictory social media posts → https://kotaku.com/n-1851780166
 
 » 🇫🇷 [ActuGaming / 12 mai 2025] Des remasters ou portages de GTA IV et de Max Payne 3 pourraient voir le jour sur PS5 et Xbox Series → https://actugaming.net/a-726669
 
@@ -3640,7 +3619,9 @@ traduction :
 » 🇺🇸 [ScreenRant / 9 mai 2025] Tony Hawk wants a Tony Hawk’s Underground remaster too: “I’ll campaign all I can → https://cutt.ly/YrzUMYFn
 » 🇺🇸 [Kotaku / 12 mai 2025] Tony Hawk also wants Activision to remake _Underground_. The famous pro skater himself will push hard for a _Tony Hawk's Underground_ remake → https://kotaku.com/n-1851780287
 
+» 🇺🇸 [Entertainment Weekly / 11 mai 2025] Tati Gabrielle of The Last of Us is about to go Intergalactic. From the "Uncharted" movie to HBO's "The Last of Us" to now headlining the next original Naughty Dog video game, Gabrielle opens up about joining the gaming studio's extended family → https://ew.com/n-11732492
 » 🇺🇸 [TheGamer / 12 mai 2025] "Neil's been bootcamp-ing me": Naughty Dog is preparing the star of Intergalactic: The Heretic Prophet for another The Last Of Us-level hate campaign → https://cutt.ly/9rzIq3ez
+» 🇫🇷 [ActuGaming / 13 mai 2025] Intergalactic: The Heretic Prophet : Neil Druckmann a préparé Tati Gabrielle à ignorer la haine en ligne → https://actugaming.net/a-726757
 
 » 🇺🇸 [Kotaku / 12 mai 2025] _Doom: The Dark Ages_ makes changing skins a little confusing. Spicing up the look of your guns is pretty straightforward, but what if you want a new fit for the Slayer himself? → https://kotaku.com/n-1851780292
 
@@ -3650,6 +3631,7 @@ traduction :
 » 🇬🇧 [PC Gamer / 12 mai 2025] Ouch—Warner Bros throws Suicide Squad: Kill the Justice League under the bus in the most corporate way possible, side-eyes it for closed studios and cancelled games. "Prior year quarter impairment" is some potent corpo-speak. → https://cutt.ly/SrzItadR
 
 » 🇺🇸 [Games Industry / 12 mai 2025] Falls in Sega's FY2025 revenue cushioned by "strong" performance in game and entertainment division. Firm buoyed by "strong performance of high-margin repeat sales" for back catalog → https://cutt.ly/vrzU2Rw3
+» 🇫🇷 [Gamekult / 13 mai 2025] Les jeux Atlus et Sonic portent les résultats de Sega, sans oublier Yakuza → https://cutt.ly/0rzCJnRo
 
 » 🇺🇸 [Washington Post / 11 mai 2025] White House fires head of Copyright Office amid Library of Congress shakeup. Shira Perlmutter’s termination comes after her office this month released a report that raised concerns about using copyrighted materials to train AI. → https://cutt.ly/VrzIrQC9
 » 🇺🇸 [TechCrunch / 11 mai 2025] Trump fires Copyright Office director after report raises questions about AI training → https://cutt.ly/SrzIrHsn
@@ -3665,9 +3647,78 @@ traduction :
 » 🇬🇧 [PC Gamer / 12 mai 2025] The SteamOS era is imminent: Valve adds a new compatibility rating for games that’ll run on ‘any device that’s not a Steam Deck’. Sounds like more SteamOS devices could be on their way soon. → https://cutt.ly/WrzU7unG
 
 
-» 🇫🇷 [ActuGaming / 12 mai 2025] 
+» 🇫🇷 [ActuGaming / 13 mai 2025] Ninja Theory viendrait de teaser son prochain jeu sur ses réseaux sociaux → https://actugaming.net/a-726729
 
-» 🇫🇷 [Gamekult / 12 mai 2025] 
+» 🇺🇸 [Alinea Analytics / 25 avril 2025] Indiana Jones is selling copies faster on PS5 than it did on Steam and Xbox – a positive sign for Xbox’s third-party future → https://cutt.ly/MrzCA2CU
+» 🇫🇷 [PlayStation Blog / 5 mai 2025] PlayStation Store : Top des téléchargements d’avril 2025. Un classique adulé au sommet du classement → https://cutt.ly/7rzCATbf
+» 🇫🇷 [ActuGaming / 13 mai 2025] Xbox a cartonné en avril sur PlayStation et c’est Sony qui le dit → https://actugaming.net/a-726758
+
+» 🇺🇸 [Steam / Roboquest / 7 mai 2025] Roboquest - The End of the Journey → https://cutt.ly/qrzCDYw7
+» 🇫🇷 [ActuGaming / 13 mai 2025] Clap de fin pour Roboquest qui cesse son développement, RyseUp Studios se tourne vers un autre projet → https://actugaming.net/a-726746
+
+» 🇫🇷 [ActuGaming / 13 mai 2025] Palworld : La mise à jour « Tides of Terraria », collaboration avec le jeu de Re-Logic, arrivera cet été → https://actugaming.net/a-726781
+
+» 🇫🇷 [ActuGaming / 13 mai 2025] Switch 2 : La prochaine console de Nintendo disposera d’un nouveau système de recharge pour préserver la batterie → https://actugaming.net/a-726744
+» 🇫🇷 [Gamekult / 13 mai 2025] La Switch 2 pourra arrêter sa recharge à 90% → https://cutt.ly/srzCJBnd
+
+» 🇫🇷 [ActuGaming / 13 mai 2025] FBC: Firebreak (Remedy Entertainment) recrute pour une phase imminente de tests techniques → https://actugaming.net/a-726709
+
+» 🇫🇷 [ActuGaming / 13 mai 2025] Enshrouded : la mise à jour Serviteurs des Ténèbres est disponible (nouveaux ennemis, quêtes et trésors…) → https://actugaming.net/a-726745
+
+» 🇫🇷 [ActuGaming / 13 mai 2025] Genshin Impact : la version 5.7 se tease avec deux nouveaux personnages, Dahlia et Skirk → https://actugaming.net/a-726836
+
+» 🇫🇷 [ActuGaming / 13 mai 2025] Surprise, The Sinking City Remastered est disponible dès aujourd’hui sur PC, PS5 et Xbox Series → https://actugaming.net/a-726834
+
+
+
+
+» 🇫🇷 [Gamekult / 13 mai 2025] Le lancement de GeoGuessr sur Steam est un véritable accident industriel → https://cutt.ly/FrzCKs8H
+
+» 🇫🇷 [PlayStation Blog / 13 mai 2025] Helldivers 2 : Illuministes en route vers la Super-Terre, nouveaux types d’ennemis déployés. En réponse, une nouvelle fonctionnalité de personnalisation d'arme, une extension pour la Super-boutique et bien plus sont disponibles pour les joueurs → https://cutt.ly/frzCLTh0
+» ▶️ [YouTube / PlayStation / 13 mai 2025] Helldivers 2 - Galactic emergency trailer → https://youtu.be/bO9qCGVQsFs
+» 🇫🇷 [Gamekult / 13 mai 2025] Helldivers 2 décrète l'état d'urgence galactique, de nouveaux ennemis en approche. Les armes peuvent désormais monter de niveau → https://cutt.ly/jrzCK24b
+
+» 🇺🇸 [Games Industry / 13 mai 2025] Capcom reports eighth consecutive year of record profits as Monster Hunter Wilds sells 10.1m copies. Catalogue sales were strong, with 3.18 million copies of 2018's Monster Hunter World sold and 2.76 million further sales of 2023's Resident Evil 4 remake → https://cutt.ly/UrzCNjB8
+» 🇫🇷 [Gamekult / 13 mai 2025] Avec Monster Hunter Wilds, Capcom valide la meilleure année de son histoire, et veut faire encore mieux cette année → https://cutt.ly/irzCL9YW
+
+» 🇫🇷 [Gamekult / 13 mai 2025] Naughty Dog : l'héroine d'Intergalactic formée à encaisser la haine en ligne. Quel monde merveilleux → https://cutt.ly/YrzCZVb5
+
+» 🇫🇷 [Gamekult / 13 mai 2025] PlayStation 5 : le service Apple Pay est disponible pour acheter vos contenus en ligne → https://cutt.ly/3rzCCuIE
+
+» 🇫🇷 [Gamekult / 13 mai 2025] Enshrouded : la mise à jour Serviteurs des Ténèbres rend la nuit plus intéressante (et dangereuse) → https://cutt.ly/BrzCCn2G
+
+» 🇫🇷 [Gamekult / 13 mai 2025] Marvel 1943 : Rise of Hydra est repoussé à 2026 → https://cutt.ly/rrzCCIZW
+
+» 🇺🇸 [Games Industry / 13 mai 2025] Activision files lawsuit against creator of Call of Duty hacking software. Publisher says it gave opportunity for defendants to respond, alleged that "each has ignored outreach necessitating this lawsuit" → https://cutt.ly/zrzC1Fjm
+» 🇫🇷 [Gamekult / 13 mai 2025] Call of Duty : Activision s'attaque aux Cronus Zen et autres outils de triche → https://cutt.ly/hrzCCB9d
+
+» 🇫🇷 [Gamekult / 13 mai 2025] The House in Fata Morgana fête ses 300 000 ventes avec une peluche → https://cutt.ly/srzCVpPL
+
+» 🇺🇸 [Games Industry / 13 mai 2025] More Germans are playing video games than ever before, particularly those aged 60+. New data shows about 59% of Germans aged 6 to 69 play video games → https://cutt.ly/DrzCMkGY
+
+» 🇺🇸 [Games Industry / 13 mai 2025] Nintendo president reiterates US tariffs did not affect Switch 2 price. Shuntaro Furukawa said higher price was due to manufacturing costs, consumer impressions, market conditions, and exchange rates → https://cutt.ly/srzCMMLI
+
+» 🇺🇸 [CNBC / 13 mai 2025] Microsoft laying off about 6,000 people, or 3% of its workforce → https://cutt.ly/YrzC1Rcr
+» 🇺🇸 [Games Industry / 13 mai 2025] Microsoft to lay off 3% of employees. How it will affect gaming is not clear → https://cutt.ly/XrzC1aDj
+» 🇫🇷 [Gamekult / 13 mai 2025] Microsoft va supprimer 7 000 emplois à travers toutes ses équipes. Sa plus grosse vague de licenciements depuis janvier 2023 → https://cutt.ly/xrzCVlsC
+» 🇫🇷 [Frandroid / 13 mai 2025] Après ses excellents résultats, Microsoft annonce des licenciements massifs → https://cutt.ly/SrzCBPJW
+» 🇫🇷 [ActuGaming / 14 mai 2025] Microsoft annonce licencier 3% de son staff, la division gaming serait peut-être concernée → https://actugaming.net/a-726925
+
+» 🇺🇸 [404 Media / 13 mai 2025] How video game sex scenes are made. Game developers use intimacy coordinators, velcro, and juicy oranges to make better sex in games → https://cutt.ly/wrzVojLC
+
+
+» 🇫🇷 [ActuGaming / 14 mai 2025] Warhammer Skulls 2025 : Le showcase centré sur la licence de Games Workshop revient le 22 mai → https://actugaming.net/a-726857
+
+» 🇫🇷 [Gamekult / 14 mai 2025] To a T sera "très touchant et très stupide" selon le créateur de Katamari Damacy. Ou comment amener de l'absurde dans le jeu vidéo → https://cutt.ly/Rrz1k4pe
+
+» 🇫🇷 [Gamekult / 14 mai 2025] Palworld : il aura fallu une petite semaine avant que les changements de gameplay récents soient restaurés. Pas officiellement, évidemment → https://cutt.ly/urz1zt9q
+
+» 🎧 [Acast / Silence on joue / 14 mai 2025] S18.E39 - Grand entretien avec Sandfall, le studio de «Clair Obscur : Expedition 33» → https://cutt.ly/Mrz1xIPc
+
+
+» 🇫🇷 [ActuGaming / 14 mai 2025] 
+
+» 🇫🇷 [Gamekult / 14 mai 2025] 
 
 » 🇬🇧 [PC Gamer / 5 mai 2025] 
 
