@@ -12856,7 +12856,21 @@ raids : LesNumeriques => (13:32)[+105] CabriDIY => (13:46) Protsky => (17:50) Mi
 
 » 🇫🇷 [Gamekult] Test : DOOM : The Dark Ages grave sa légende dans le sang et les flammes, 8/10 par Cael → https://gamekult.com/jeux/doom-the-dark-ages-3050887706/test.html
 
-raids : LesNumeriques[+137] + GamekultLive [+20] => (13:37) OrigaTwitch => (15:21)[+255] mamapaprika => (17:36) demenis (>19:35) => Jimauve => (19:53)[+49] AquilaLeek (vendredi) (>01:00)
+raids : LesNumeriques[+137] + GamekultLive [+20] => (13:37) OrigaTwitch => (15:21)[+255] mamapaprika => (17:36) demenis (>19:35) => Jimauve => (19:53)[+49] AquilaLeek (vendredi) (>01:00) => BulleDeVanille => (08:09)[+149] Pesto7_ (>09:00) => (17:28) Marinarf_ => (19:28)[+11] Callais_SeaTeaSlug (terminé à 20:32)
+
+
+--------------------------------------
+2025-05-16
+
+» [Les Échos / 14 mai 2025] IA : « Le Monde » scelle un partenariat avec la start-up Perplexity. Cette jeune société américaine veut remplacer Google dans la recherche en ligne. C'est le deuxième partenariat que signe le quotidien français avec un acteur de l'IA générative → https://www.lesechos.fr/tech-medias/medias/n-2165016
+» [The Guardian / 7 mai 2025] AI of dead Arizona road rage victim addresses killer in court. Clip of Chris Pelkey, who died in 2021, says: ‘I believe in forgiveness’ after his sister fed an AI model videos of him → https://www.theguardian.com/us-news/2025/may/06/arizona-road-rage-victim-ai-chris-pelkey
+» [TechSport / 15 mai 2025] Woman divorces husband after ChatGPT reads his coffee grounds and predicts affair. ChatGPT: Hogwarts' new professor of Divination → https://www.techspot.com/news/107925-n.html
+» [Travel+Leisure / 12 mai 2025] What actually happens if you don’t use airplane mode on your phone during a flight? Aviation experts weighed in—here’s what you should know. → https://www.travelandleisure.com/n-11733373
+» [Reuters / 9 mai 2025] China's Baidu looks to patent AI system to decipher animal sounds → https://www.reuters.com/business/media-telecom/chinas-baidu-looks-patent-ai-system-decipher-animal-sounds-2025-05-08/
+
+» 🇫🇷 [Les Numériques] Comparatif / 57 casques bluetooth testés Mai 2025 → https://lesnumeriques.com/casque-nomade/-a259.html
+» 🇫🇷 [Les Numériques] Test Sony WH-1000XM6 ⭐⭐⭐⭐⭐ le roi des casques à réduction du bruit renoue avec l’excellence → https://www.lesnumeriques.com/casque-bluetooth/sony-wh-1000xm6-p76615/test.html
+» 🇫🇷 [Les Numériques] Vous utilisez un casque Bluetooth pour le sport ? Voici pourquoi ce n'est pas une bonne idée → https://lesnumeriques.com/casque-bluetooth/-n234117.html
 
 
 
