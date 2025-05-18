@@ -13464,8 +13464,115 @@ raids entrants :
 - GamekultLive à 13:37 +20
 - LesNumeriques à 13:37 +137
 
-raids : OrigaTwitch => (15:21)[+255] mamapaprika => (17:36) demenis (>19:35) => Jimauve => (19:53)[+49] AquilaLeek (vendredi) (>01:00)
+raids : OrigaTwitch => (15:21)[+255] mamapaprika => (17:36) demenis (>19:35) => Jimauve => (19:53)[+49] AquilaLeek (vendredi) (>01:00) => BulleDeVanille => (08:09)[+149] Pesto7_ (>09:00) => (17:28) Marinarf_ => (19:28)[+11] Callais_SeaTeaSlug (terminé à 20:32)
 
+
+--------------------------------------
+2025-05-16
+
+# L'Hebdo #66
+## Actus
+### La semaine
+» 🇺🇸 [Sony / 14 mai 2025] Corporate Strategy Presentation 2025 — Sony Group`s Long-Term Strategies and Direction focused on Realizing the "Creative Entertainment Vision" → https://cutt.ly/srxotNes
+» 🇺🇸 [Games Industry / 14 mai 2025] PlayStation full-year operating income jumps 43% to $2.8bn. Sony sold 303.3 million games during the fiscal year, an increase of 6% → https://cutt.ly/4rxopL8M
+» 🇺🇸 [Kotaku / 14 mai 2025] Sony says PS5 price hikes are possible as it faces $680 million hit from tariffs. The company has already raised prices in some other countries → https://kotaku.com/n-1851780593
+» 🇺🇸 [Game Developer / 14 mai 2025] Sony may 'pass on' Trump tariffs to customers, is considering US manufacturing on hardware. The tariffs could result in a $680 million hit for the Japanese company. → https://cutt.ly/arxohF4n
+» 🇫🇷 [ActuGaming / 14 mai 2025] La PlayStation 5 dépasse les 77 millions d’exemplaires vendus → https://actugaming.net/a-726939
+» 🇺🇸 [Games Industry / 15 mai 2025] Sony considers manufacturing PS5 consoles in US due to tariffs. President and COO Hiroki Totoki says manufacturing hardware in the United States "needs to be considered going forward" → https://cutt.ly/TrxogjpF
+» 🇫🇷 [Gamekult / 14 mai 2025] Sony annonce des résultats record malgré le ralentissement des ventes de PS5. La PS5 se rapproche des 80 millions → https://cutt.ly/FrxpzPAa
+
+» 🦋 [BlueSky / Daniel Ahmad / 14 mai 2025] 🧵 https://bsky.app/profile/zhugeex.com/post/3lp5cuxbmjk2m
+> I’ve already seen articles claiming that Sony can manufacture consoles in the US or will manufacture consoles in the US.
+> But that isn’t true. They said it’s not something they’re doing / need to do right now, but are not ruling it out for the future if it gets to the point they have to consider it
+
+» 🇺🇸 [Games Industry / 13 mai 2025] Capcom reports eighth consecutive year of record profits as Monster Hunter Wilds sells 10.1m copies. Catalogue sales were strong, with 3.18 million copies of 2018's Monster Hunter World sold and 2.76 million further sales of 2023's Resident Evil 4 remake → https://cutt.ly/UrzCNjB8
+» 🇫🇷 [Gamekult / 13 mai 2025] Avec Monster Hunter Wilds, Capcom valide la meilleure année de son histoire, et veut faire encore mieux cette année → https://cutt.ly/irzCL9YW
+
+» 🇺🇸 [Games Industry / 14 mai 2025] Square Enix game sales down but profits up as strategic shift continues. Dragon Quest III HD-2D Remake was cited as a highlight of the year → https://cutt.ly/vrxoaCHQ
+» 🇫🇷 [ActuGaming / 14 mai 2025] Square Enix confirme poursuivre sa récente stratégie multiplateforme après une année fiscale en deçà et annonce un partenariat avec TBS → https://actugaming.net/a-726978
+» 🇫🇷 [Gamekult / 14 mai 2025] Résultats de Square Enix : les bénéfices remontent, mais les gros jeux se font rares. Square Enix lance son plan de reboot interne → https://cutt.ly/Frxps0CY
+
+» 🇺🇸 [Kotaku / 14 mai 2025] _Final Fantasy_ maker cancels _Kingdom Hearts_ spin-off as it focuses on 'quality over quantity'. _Kingdom Hearts Missing-Link_ was in development for nearly 6 years → https://kotaku.com/n-1851780603
+» 🇫🇷 [ActuGaming / 14 mai 2025] Kingdom Hearts Missing-Link : le développement du jeu est annulé tandis que Square Enix se concentre sur Kingdom Hearts IV → https://actugaming.net/a-726940
+
+» 🇺🇸 [Global Newswire / 14 mai 2025] Ubisoft reports full-year 2024-25 earnings figures → https://cutt.ly/nrxoogKQ
+» 🇫🇷 [Global Newswire / 14 mai 2025] Ubisoft annonce ses résultats pour l’exercice 2024-25 → https://cutt.ly/IrxooHal
+» 🇺🇸 [Games Industry / 14 mai 2025] Ubisoft's FY24-25 financials report "solid balance sheet" despite hefty drops in revenue and back-catalog sales. CEO says Ubisoft will "provide additional development time to some of our biggest productions in order to create the best conditions for success" → https://cutt.ly/Arxodr4G
+» 🇺🇸 [Kotaku / 14 mai 2025] Far Cry 7, Assassin's Creed Hexe, and more seemingly delayed to create 'Best conditions for success'. Ubisoft is giving its biggest games more development time → https://kotaku.com/n-1851780674
+» 🇫🇷 [ActuGaming / 14 mai 2025] Ubisoft repousse plusieurs projets en développement, mais pas Prince of Persia : Les Sables du Temps Remake, confirmé pour début 2026 → https://actugaming.net/a-727085
+» 🇫🇷 [Gamekult / 15 mai 2025] Ubisoft : le retour des pertes, en attendant le grand changement → https://cutt.ly/4rxi7wQG
+» 🇫🇷 [Gamekult / 15 mai 2025] Prince of Persia : Les Sables du Temps Remake devrait sortir entre janvier et mars 2026 → https://cutt.ly/vrxi4JoG
+
+» 🇫🇷 [Gamekult / 13 mai 2025] Marvel 1943 : Rise of Hydra est repoussé à 2026 → https://cutt.ly/rrzCCIZW
+
+» 🇺🇸 [Variety / 12 mai 2025] ‘Fallout’ renewed for season 3 ahead of season 2 premiere in December → https://cutt.ly/urzU6e8H
+» 🇬🇧 [PC Gamer / 12 mai 2025] Fallout show actor says they know its 'endpoint' and it's sometime in season 5 or 6, which means we've still got loads of time to scream at each other about New Vegas → https://cutt.ly/SrzU5DO0
+» 🇺🇸 [VG24/7 / 12 mai 2025] "They gave me the end point" The Fallout TV show sounds like it could run for at least five or six seasons, provided it sticks to the original plan. Maximus actor Aaron Moten says the game's been narratively rigged from the start. → https://cutt.ly/grzU6vPM
+» 🇺🇸 [TheGamer / 12 mai 2025] We're getting at least five seasons of Fallout, if everything goes according to plan → https://cutt.ly/YrzU6Fiq
+» BDS
+
+» 🇫🇷 [Gamekult / 13 mai 2025] Le lancement de GeoGuessr sur Steam est un véritable accident industriel → https://cutt.ly/FrzCKs8H
+
+» Giant Bomb, _cf._ la Mardinale
+
+### Suikoden
+» ▶️ [YouTube / Konami / 15 mai 2025] Suikoden Live Broadcast → https://youtu.be/E7hW4tl6gdo (51 min)
+» ▶️ [YouTube / Konami / 15 mai 2025] Suikoden Star Leap → https://youtu.be/FR-h7TJZaDc (4 min)
+» 🇫🇷 [Gamekult / 16 mai 2025] La collection Suikoden I & II HD Remaster a fait de très belles ventes selon Konami → https://cutt.ly/rrxxDjnR
+
+### Départ de Jade Raymond
+» 🇺🇸 [Bloomberg / 15 mai 2025] PlayStation executive Jade Raymond leaves studio she founded. Her company, Haven Studios, is developing an online shooter title called Fairgames → https://cutt.ly/UrxkKbyG
+» 🇺🇸 [Kotaku / 15 mai 2025] PlayStation's Fairgame$ reportedly delayed as studio head leaves. Jade Raymond is out at Haven amid more live service woes → https://kotaku.com/n-1851780961
+» 🇫🇷 [ActuGaming / 16 mai 2025] Jade Raymond quitte Haven Studios en plein développement de Fairgames, le jeu est repoussé en interne pour le printemps 2026 → https://actugaming.net/a-2026-727267
+» 🇫🇷 [Gamekult / 16 mai 2025] Fairgames : la productrice Jade Raymond abandonne le prochain jeu-service de PlayStation → https://cutt.ly/arxbSsRR
+
+» 🦋 [BlueSky / Knoebel / 15 mai 2025] 🧵 https://bsky.app/profile/knoebel.bsky.social/post/3lpahmixeos24
+> ... Fairgame$ dropped the $ and is now called 'Fairgames'...
+> It's a rebranding... i guess..
+
+## Jeux
+### Aureole - Wings of Hope
+» Aureole - Wings of Hope, le 15 mai 2025 à 13 € sur Switch, PlayStation 5, Xbox Series et PC / Steam Deck ; développé par Team Stargazers → https://jandusoft.com/aureole/ | https://s.team/a/2387460
+
+- sorti le 15 mai 2025 sur Switch, PlayStation 5, Xbox Series et PC / Steam Deck
+- édité par JanduSoft, développé par Team Stargazers → https://jandusoft.com/aureole/
+
+🎮 13 € sur Switch (<https://cutt.ly/ErxZjDrp>), PlayStation (<https://cutt.ly/3rxZjByU>) et Xbox (<https://cutt.ly/arxZj86d>)
+💻️ 12,80 € sur Steam (<https://s.team/a/2387460>), démo disponible
+
+### Shotgun Cop Man
+» Shotgun Cop Man, le 1er mai 2025 à 10 € sur Switch et PC / Steam Deck ; édité par Devolver, développé par DeadToast Entertainment, studio derrière _My Friend Pedro_ (2019) → https://deadtoast.com | https://s.team/a/2966850
+
+- sorti le 1er mai 2025 sur Switch et PC / Steam Deck
+- édité par Devolver, développé par DeadToast Entertainment, studio derrière _My Friend Pedro_ (2019) → https://deadtoast.com
+
+🎮 10 € sur Switch (<https://cutt.ly/NrxZxMVB>)
+💻️ 10 € sur Steam (<https://s.team/a/2966850>), démo disponible
+
+### DOOM the Dark Ages
+» DOOM the Dark Ages, le 15 mai 2025 à 80 € sur PlayStation 5, Xbox Series (Game Pass) et PC / Steam Deck ; développé par id Software → https://s.team/a/3017860 | https://slayersclub.bethesda.net
+
+- sorti le 15 mai 2025 sur PlayStation 5, Xbox Series (Game Pass) et PC / Steam Deck
+- édité par Bethesda Softworks, développé par id Software → <https://slayersclub.bethesda.net>
+- réalisé par Hugo Martin, direction artistique par Emerson Tung, musiques par Finishing Move
+
+🎮 80 € sur PlayStation (<https://cutt.ly/NrxxLl7N>)
+🎮 80 € ou inclus dans le Game Pass sur Xbox (<https://cutt.ly/DrxxLUSt>)
+💻️ 80 € sur Steam (<https://s.team/a/3017860>)
+
+## Mais pas que
+### Héloïse
+» 📙 Histoires de peintures, 368 p., par Daniel Arasse, paru en 2006 chez Folio, EAN 9782070320813 → https://www.folio-lesite.fr/catalogue/histoires-de-peintures/9782070320813
+- adapté de l'émission du même nom sur France Culture (<https://cutt.ly/YrxZcCzH>), disponible aussi sur YouTube (<https://cutt.ly/KrxZc9Tb>)
+
+### Kévin
+» 📕 Mon nom est Rouge, 752 p., par Orhan Pamuk, paru en 2003 chez Gallimard collection Folio (n°3840), 13 € en édition papier (ISBN 9782070428175) → <https://www.gallimard.fr/catalogue/mon-nom-est-rouge/9782070428175>
+
+### Sylvain
+» 📺️ 데블스 플랜 / The Devil's Plan / À l'épreuve du diable (2025), série TV en 2 saisons, 12 épisodes, créée par Jeong Jong-yeon, avec Kang Ji-yeong, Kyuhyun, Kim Ha-rin
+- disponible sur Netflix (<https://netflix.com/title/81653386>)
+
+raids : OrigaTwitch => (15:05)[+488] JVleMag [LamHua=>(16:xx)] => (18:16)[+153] DollyWood_ => (19:07)[+106] Modiiie (>19:30) => (23:37) LeMwakast (samedi) (>00:00) => (<10:34) thaithai___ (dimanche) (>12:00)
 
 
 
