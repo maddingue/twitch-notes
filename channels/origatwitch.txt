@@ -13572,7 +13572,7 @@ raids : OrigaTwitch => (15:21)[+255] mamapaprika => (17:36) demenis (>19:35) => 
 » 📺️ 데블스 플랜 / The Devil's Plan / À l'épreuve du diable (2025), série TV en 2 saisons, 12 épisodes, créée par Jeong Jong-yeon, avec Kang Ji-yeong, Kyuhyun, Kim Ha-rin
 - disponible sur Netflix (<https://netflix.com/title/81653386>)
 
-raids : OrigaTwitch => (15:05)[+488] JVleMag [LamHua=>(16:xx)] => (18:16)[+153] DollyWood_ => (19:07)[+106] Modiiie (>19:30) => (23:37) LeMwakast (samedi) (>00:00) => (<10:34) thaithai___ (dimanche) (>12:00)
+raids : OrigaTwitch => (15:05)[+488] JVleMag [LamHua=>(16:xx)] => (18:16)[+153] DollyWood_ => (19:07)[+106] Modiiie (>19:30) => (23:37) LeMwakast (samedi) (>00:00) => (<10:34) thaithai___ (dimanche) (lundi) (>16:30)
 
 
 
