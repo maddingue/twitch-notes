@@ -3640,10 +3640,6 @@ traduction :
 » 🇺🇸 [TechCrunch / 11 mai 2025] Trump fires Copyright Office director after report raises questions about AI training → https://cutt.ly/SrzIrHsn
 » 🇬🇧 [PC Gamer / 12 mai 2025] Trump administration reportedly fires the head of the US Copyright Office as it tries to tackle AI's use of copyrighted materials. The firing finger gets to work once more. → https://cutt.ly/grzIe0Zj
 
-» 🇺🇸 [Variety / 12 mai 2025] ‘Fallout’ renewed for season 3 ahead of season 2 premiere in December → https://cutt.ly/urzU6e8H
-» 🇬🇧 [PC Gamer / 12 mai 2025] Fallout show actor says they know its 'endpoint' and it's sometime in season 5 or 6, which means we've still got loads of time to scream at each other about New Vegas → https://cutt.ly/SrzU5DO0
-» 🇺🇸 [VG24/7 / 12 mai 2025] "They gave me the end point" The Fallout TV show sounds like it could run for at least five or six seasons, provided it sticks to the original plan. Maximus actor Aaron Moten says the game's been narratively rigged from the start. → https://cutt.ly/grzU6vPM
-» 🇺🇸 [TheGamer / 12 mai 2025] We're getting at least five seasons of Fallout, if everything goes according to plan → https://cutt.ly/YrzU6Fiq
 
 » 🇬🇧 [PC Gamer / 12 mai 2025] US senator announces a bill requiring geotracking in high-end GPUs to prevent the Chinese government from wielding the ruinous power of your Nvidia RTX 4090. The US can't afford to lose its advantage in making games look a little funny with DLSS. → https://cutt.ly/XrzU7jjj
 
@@ -3674,23 +3670,16 @@ traduction :
 
 » 🇺🇸 [Kotaku / 13 mai 2025] No, Atlus isn’t teasing Persona 6 yet. Persona 5: The Phantom X seems to finally be making its way out of China → https://kotaku.com/n-1851780429
 
-» 🇫🇷 [Gamekult / 13 mai 2025] Le lancement de GeoGuessr sur Steam est un véritable accident industriel → https://cutt.ly/FrzCKs8H
-
 » 🇫🇷 [PlayStation Blog / 13 mai 2025] Helldivers 2 : Illuministes en route vers la Super-Terre, nouveaux types d’ennemis déployés. En réponse, une nouvelle fonctionnalité de personnalisation d'arme, une extension pour la Super-boutique et bien plus sont disponibles pour les joueurs → https://cutt.ly/frzCLTh0
 » ▶️ [YouTube / PlayStation / 13 mai 2025] Helldivers 2 - Galactic emergency trailer → https://youtu.be/bO9qCGVQsFs
 » 🇺🇸 [Kotaku / 13 mai 2025] Helldivers 2 is calling players back to defend Super Earth in one of its most important updates yet. Weapon customization arrives just in time for an Illuminate invasion → https://kotaku.com/n-1851780432
 » 🇫🇷 [Gamekult / 13 mai 2025] Helldivers 2 décrète l'état d'urgence galactique, de nouveaux ennemis en approche. Les armes peuvent désormais monter de niveau → https://cutt.ly/jrzCK24b
-
-» 🇺🇸 [Games Industry / 13 mai 2025] Capcom reports eighth consecutive year of record profits as Monster Hunter Wilds sells 10.1m copies. Catalogue sales were strong, with 3.18 million copies of 2018's Monster Hunter World sold and 2.76 million further sales of 2023's Resident Evil 4 remake → https://cutt.ly/UrzCNjB8
-» 🇫🇷 [Gamekult / 13 mai 2025] Avec Monster Hunter Wilds, Capcom valide la meilleure année de son histoire, et veut faire encore mieux cette année → https://cutt.ly/irzCL9YW
 
 » 🇫🇷 [Gamekult / 13 mai 2025] Naughty Dog : l'héroine d'Intergalactic formée à encaisser la haine en ligne. Quel monde merveilleux → https://cutt.ly/YrzCZVb5
 
 » 🇫🇷 [Gamekult / 13 mai 2025] PlayStation 5 : le service Apple Pay est disponible pour acheter vos contenus en ligne → https://cutt.ly/3rzCCuIE
 
 » 🇫🇷 [Gamekult / 13 mai 2025] Enshrouded : la mise à jour Serviteurs des Ténèbres rend la nuit plus intéressante (et dangereuse) → https://cutt.ly/BrzCCn2G
-
-» 🇫🇷 [Gamekult / 13 mai 2025] Marvel 1943 : Rise of Hydra est repoussé à 2026 → https://cutt.ly/rrzCCIZW
 
 » 🇺🇸 [Games Industry / 13 mai 2025] Activision files lawsuit against creator of Call of Duty hacking software. Publisher says it gave opportunity for defendants to respond, alleged that "each has ignored outreach necessitating this lawsuit" → https://cutt.ly/zrzC1Fjm
 » 🇫🇷 [Gamekult / 13 mai 2025] Call of Duty : Activision s'attaque aux Cronus Zen et autres outils de triche → https://cutt.ly/hrzCCB9d
@@ -3722,16 +3711,7 @@ traduction :
 
 » 🇫🇷 [Gamekult / 14 mai 2025] Heroes of Might & Magic : Olden Era présente ses améliorations suite aux retours des joueurs → https://cutt.ly/frxiNol9
 
-» 🇺🇸 [Kotaku / 14 mai 2025] _Final Fantasy_ maker cancels _Kingdom Hearts_ spin-off as it focuses on 'quality over quantity'. _Kingdom Hearts Missing-Link_ was in development for nearly 6 years → https://kotaku.com/n-1851780603
-» 🇫🇷 [ActuGaming / 14 mai 2025] Kingdom Hearts Missing-Link : le développement du jeu est annulé tandis que Square Enix se concentre sur Kingdom Hearts IV → https://actugaming.net/a-726940
 
-» 🇺🇸 [Sony / 14 mai 2025] Corporate Strategy Presentation 2025 — Sony Group`s Long-Term Strategies and Direction focused on Realizing the "Creative Entertainment Vision" → https://cutt.ly/srxotNes
-» 🇺🇸 [Games Industry / 14 mai 2025] PlayStation full-year operating income jumps 43% to $2.8bn. Sony sold 303.3 million games during the fiscal year, an increase of 6% → https://cutt.ly/4rxopL8M
-» 🇺🇸 [Kotaku / 14 mai 2025] Sony says PS5 price hikes are possible as it faces $680 million hit from tariffs. The company has already raised prices in some other countries → https://kotaku.com/n-1851780593
-» 🇺🇸 [Game Developer / 14 mai 2025] Sony may 'pass on' Trump tariffs to customers, is considering US manufacturing on hardware. The tariffs could result in a $680 million hit for the Japanese company. → https://cutt.ly/arxohF4n
-» 🇫🇷 [ActuGaming / 14 mai 2025] La PlayStation 5 dépasse les 77 millions d’exemplaires vendus → https://actugaming.net/a-726939
-» 🇺🇸 [Games Industry / 15 mai 2025] Sony considers manufacturing PS5 consoles in US due to tariffs. President and COO Hiroki Totoki says manufacturing hardware in the United States "needs to be considered going forward" → https://cutt.ly/TrxogjpF
-» 🇫🇷 [Gamekult / 14 mai 2025] Sony annonce des résultats record malgré le ralentissement des ventes de PS5. La PS5 se rapproche des 80 millions → https://cutt.ly/FrxpzPAa
 
 » 🇫🇷 [Gamekult / 14 mai 2025] Clair Obscur : Expedition 33 sur Nintendo Switch 2 ? "Ça pourrait être intéressant" → https://cutt.ly/PrxiMNk2
 
@@ -3743,11 +3723,8 @@ traduction :
 
 » 🇫🇷 [ActuGaming / 14 mai 2025] Roland-Garros eSeries by Renault 2025 : huit finalistes, deux légendes et un nouveau format pour le show eSport → https://actugaming.net/a-726984
 
+» 🇫🇷 [Steam / 12 mai 2025] Compatibilité SteamOS → https://cutt.ly/TrxVMjME
 » 🇫🇷 [Gamekult / 14 mai 2025] Valve étend son système de vérification de jeux à tout SteamOS → https://cutt.ly/vrxi1Jys
-
-» 🇺🇸 [Games Industry / 14 mai 2025] Square Enix game sales down but profits up as strategic shift continues. Dragon Quest III HD-2D Remake was cited as a highlight of the year → https://cutt.ly/vrxoaCHQ
-» 🇫🇷 [ActuGaming / 14 mai 2025] Square Enix confirme poursuivre sa récente stratégie multiplateforme après une année fiscale en deçà et annonce un partenariat avec TBS → https://actugaming.net/a-726978
-» 🇫🇷 [Gamekult / 14 mai 2025] Résultats de Square Enix : les bénéfices remontent, mais les gros jeux se font rares. Square Enix lance son plan de reboot interne → https://cutt.ly/Frxps0CY
 
 » 🇺🇸 [Variety / 8 mai 2025]  ‘Return to Silent Hill’ set for wide theatrical release from Cineverse, promises to be a ‘faithful adaptation’ of ‘Silent Hill 2’ → https://cutt.ly/orxi2tml
 » 🇫🇷 [Gamekult / 14 mai 2025] Return to Silent Hill vit encore et veut être une "adaptation fidèle" de Silent Hill 2 → https://cutt.ly/trxi157r
@@ -3765,18 +3742,6 @@ traduction :
 » 🇫🇷 [Gamekult / 14 mai 2025] Riders Republic : Ubisoft annonce un film par les réalisateurs de Bad Boys for Life → https://cutt.ly/LrxpoYYI
 
 » 🇺🇸 [Time Extension / 14 mai 2025] Tomohiro Nishikado on making 'Space Invaders' and what makes games fun. "Younger people who want to make games should play really old games" → https://cutt.ly/3rxolyWR
-
-» 🦋 [BlueSky / Daniel Ahmad / 14 mai 2025] 🧵 https://bsky.app/profile/zhugeex.com/post/3lp5cuxbmjk2m
-> I’ve already seen articles claiming that Sony can manufacture consoles in the US or will manufacture consoles in the US.
-> But that isn’t true. They said it’s not something they’re doing / need to do right now, but are not ruling it out for the future if it gets to the point they have to consider it
-
-» 🇺🇸 [Global Newswire / 14 mai 2025] Ubisoft reports full-year 2024-25 earnings figures → https://cutt.ly/nrxoogKQ
-» 🇫🇷 [Global Newswire / 14 mai 2025] Ubisoft annonce ses résultats pour l’exercice 2024-25 → https://cutt.ly/IrxooHal
-» 🇺🇸 [Games Industry / 14 mai 2025] Ubisoft's FY24-25 financials report "solid balance sheet" despite hefty drops in revenue and back-catalog sales. CEO says Ubisoft will "provide additional development time to some of our biggest productions in order to create the best conditions for success" → https://cutt.ly/Arxodr4G
-» 🇺🇸 [Kotaku / 14 mai 2025] Far Cry 7, Assassin's Creed Hexe, and more seemingly delayed to create 'Best conditions for success'. Ubisoft is giving its biggest games more development time → https://kotaku.com/n-1851780674
-» 🇫🇷 [ActuGaming / 14 mai 2025] Ubisoft repousse plusieurs projets en développement, mais pas Prince of Persia : Les Sables du Temps Remake, confirmé pour début 2026 → https://actugaming.net/a-727085
-» 🇫🇷 [Gamekult / 15 mai 2025] Ubisoft : le retour des pertes, en attendant le grand changement → https://cutt.ly/4rxi7wQG
-» 🇫🇷 [Gamekult / 15 mai 2025] Prince of Persia : Les Sables du Temps Remake devrait sortir entre janvier et mars 2026 → https://cutt.ly/vrxi4JoG
 
 » 🇺🇸 [Games Industry / 14 mai 2025] Nexon says it's "delivering on promises" as it posts Q1 2025 results. Three biggest franchises deliver "aggregate 21% year-over-year growth" → https://cutt.ly/FrxodP2A
 
@@ -3797,12 +3762,14 @@ traduction :
 » 🇺🇸 [IGN / 15 mai 2025] EA pushes full return to office, effectively ends remote hiring. Company moves to "globally consistent, enterprise-wide work model." → https://cutt.ly/rrxkMBet
 » 🇺🇸 [Game Developer / 15 mai 2025] EA's new hybrid work policy requires a minimum of three days in-office. The 'offsite local' work model will be sunset within three to 24 months. → https://cutt.ly/Arxk1IqV
 » 🇫🇷 [Gamekult / 15 mai 2025] Electronic Arts signe la fin du télétravail → https://cutt.ly/hrxkMRFe
+» 🇫🇷 [ActuGaming / 16 mai 2025] Electronic Arts : Le PDG Andrew Wilson annonce la fin du télétravail complet → https://actugaming.net/a-727365
 
 » 🇫🇷 [Gamekult / 15 mai 2025] Assassin's Creed : la série Netflix recrute les scénaristes de The Acolyte et Walking Dead → https://cutt.ly/4rxk1aSU
 
 » 🇺🇸 [Forbes / 15 mai 2025] ‘Helldivers 2’ studio’s next game will be free from PlayStation partnership → https://cutt.ly/urxkGnr8
 » 🇺🇸 [VG24/7 / 15 mai 2025] Helldivers 2 is still Arrowhead's "main focus", as its CEO suggests work on its next game will kick off "later this year" with "freedom to explore some really cool concepts". "A very, very small team will spin up something later this year and go at it sloowly." → https://cutt.ly/UrxkNtnx
 » 🇺🇸 [IGN / 15 mai 2025] Helldivers 2 'is our main focus and will be for a loooong time,' Arrowhead boss insists: 'as long as you keep playing and buying super credits we can keep it going' → https://cutt.ly/wrxkB194
+» 🇫🇷 [Gamekult / 16 mai 2025] Grâce à Helldivers 2, le prochain jeu d’Arrowhead sera 100% autofinancé → https://cutt.ly/0rxZ3x3O
 
 » 🇫🇷 [ActuGaming / 15 mai 2025] Clair Obscur: Expedition 33 : Sandfall Interactive va réaliser le souhait des fans en préparant des peluches à l’effigie d’Esquie → https://actugaming.net/a-727177
 
@@ -3817,9 +3784,12 @@ traduction :
 » 🇫🇷 [ActuGaming / 15 mai 2025] Lost in Random: The Eternal Die, l’action-roguelite burtonien, débarquera le 17 juin → https://actugaming.net/a-727111
 
 » 🇺🇸 [IGN / 15 mai 2025] The Pokémon Fossil Museum is bringing real and fake Pokémon fossils to the U.S. next year. Gotta dig 'em all → https://cutt.ly/3rxkGCxE
+» 🇫🇷 [Gamekult / 17 mai 2025] Des squelettes de Pokémon et de dinosaures exposés au Pokémon Fossil Museum → https://cutt.ly/DrxXzGTu
 
 » 🇺🇸 [The Game Business / 15 mai 2025] Major media outlets will not have Nintendo Switch 2 reviews at launch. Plus, GTA 6 delay could result in 700,000 fewer console sales in 2025 → https://cutt.ly/BrxkCL1X
 » 🇺🇸 [Kotaku / 15 mai 2025] Don't expect many Switch 2 reviews at launch. Nintendo is reportedly holding back review units until the very last second → https://kotaku.com/n-1851780793
+
+» ▶️ [YouTube / ExServ / 15 mai 2025] Un peu de Contexte - Comment financer le développement d'un jeu vidéo ? → https://youtu.be/6e36fWWtMnM (24 min)
 
 » 𝕏 [X / 4nt1r34l / 15 mai 2025] 🧵 https://xcancel.com/4nt1r34l/status/1923067988871147605
 > the Marathon alpha released recently and its environments are covered with assets lifted from poster designs i made in 2017.
@@ -3828,6 +3798,9 @@ traduction :
 > in 10 years i have never made a consistent income from this work and i am tired of designers from huge companies moodboarding and parasitising my designs while i struggle to make a living.
 
 » 🇺🇸 [Kotaku / 15 mai 2025] Artist shocked to find her poster designs from 2017 in Bungie's Marathon: 'a major company has deemed it easier to pay a designer to imitate or steal my work than to write me an email'. The sci-fi shooter's visual design language is one of its most distinctive features → https://kotaku.com/n-1851780911
+» 🇺🇸 [Washington Post / 16 mai 2025] Artist accuses PlayStation game of lifting her work; studio admits to ‘oversight’. Bungie, the studio behind the Halo series that is now owned by Sony, said it is investigating concerns over the “unauthorized use” of the artist’s work. → https://cutt.ly/yrxbVg8w
+» 🇫🇷 [ActuGaming / 16 mai 2025] Marathon : Bungie semble avoir récupéré sans consentement le travail d’une artiste pour la direction artistique de son FPS multi → https://actugaming.net/a-727251
+» 🇫🇷 [Gamekult / 16 mai 2025] Marathon : Bungie reconnaît (encore) un cas de plagiat dans la direction artistique → https://cutt.ly/rrxbDPj8
 
 » 🇺🇸 [IGN / 15 mai 2025] Take-Two CEO says 'delays pain me — how could they not?' but insists GTA 6's new 2026 release date was about making sure Rockstar achieves its creative vision 'with no limitations' → https://cutt.ly/NrxkZXkG
 » 🇺🇸 [Kotaku / 15 mai 2025] GTA 6 needed more time to achieve vision with 'no limits' and probably won't be delayed again. Take-Two's CEO said the game didn't really start development until 2020 → https://kotaku.com/n-1851780943
@@ -3835,18 +3808,103 @@ traduction :
 » 🇺🇸 [IGN / 15 mai 2025] Our big Nintendo San Francisco interview with Nintendo of America president Doug Bowser. We also asked Bowser about Switch 2 Game-Key Cards, if Nintendo can meet demand in the U.S., and a lot more → https://cutt.ly/brxkKZcs
 » 🇺🇸 [Kotaku / 15 mai 2025] Nintendo Of America president won't commit to Switch 2 staying $450 after launch. Prices might go up due to ongoing tariffs, but Doug Bowser won't say specifically → https://kotaku.com/n-1851780934
 
-» 🇺🇸 [Bloomberg / 15 mai 2025] PlayStation executive Jade Raymond leaves studio she founded. Her company, Haven Studios, is developing an online shooter title called Fairgames → https://cutt.ly/UrxkKbyG
-» 🇺🇸 [Kotaku / 15 mai 2025] PlayStation's Fairgame$ reportedly delayed as studio head leaves. Jade Raymond is out at Haven amid more live service woes → https://kotaku.com/n-1851780961
+» 🇫🇷 [Gamekult / 16 mai 2025] Take-Two encaisse une nouvelle perte nette de 4 milliards d'euros. C'est quand déjà, GTA 6 ? → https://cutt.ly/vrxxEKBN
 
-» 🦋 [BlueSky / Knoebel / 15 mai 2025] 🧵 https://bsky.app/profile/knoebel.bsky.social/post/3lpahmixeos24
-> ... Fairgame$ dropped the $ and is now called 'Fairgames'...
-> It's a rebranding... i guess..
+» 🇫🇷 [Gamekult / 16 mai 2025] Switch 2  : Voici la liste des jeux qui bénéficieront d'une mise à jour gratuite au lancement → https://cutt.ly/NrxxE2ly
+» 🇫🇷 [ActuGaming / 16 mai 2025] Nintendo dévoile les upgrades gratuits pour les versions Switch 2 de 12 jeux first-party déjà existants → https://actugaming.net/a-727301
+
+» 🇫🇷 [Gamekult / 16 mai 2025] Warhammer 40,000 : Rogue Trader présente le DLC Lex Imperialis → https://cutt.ly/crxxDne3
+
+» 🇫🇷 [ActuGaming / 16 mai 2025] L’AG French Direct de retour le 28 mai 2025 avec la conférence la plus riche de son histoire → https://actugaming.net/a-727126
+
+» 🇫🇷 [ActuGaming / 16 mai 2025] Le MMORPG Blue Protocol: Star Resonance reviendra d’entre les morts cette année sur PC et mobile → https://actugaming.net/a-727239
+» 🇫🇷 [Gamekult / 16 mai 2025] Blue Protocol : Star Resonance ressuscite le MMO perdu de Bandai Namco en Occident → https://cutt.ly/1rxZ8fVq
+
+» 🇫🇷 [Gamekult / 16 mai 2025] Le prochain film Mario s’intitulera Super Mario World, selon une fuite → https://cutt.ly/WrxbSATb
+
+» 🇫🇷 [Gamekult / 16 mai 2025] Gears of War : le film Netflix veut recruter le réalisateur de John Wick et Deadpool 2 → https://cutt.ly/jrxbDfA2
+
+» 🇺🇸 [Nintendo] Free updates for select Nintendo Switch games → https://cutt.ly/hrxZJ5Ph
+» 🇫🇷 [ActuGaming / 16 mai 2025] Nintendo dévoile les upgrades gratuits pour les versions Switch 2 de 12 jeux first-party déjà existants → https://actugaming.net/a-727301
+
+» 🇺🇸 [GameReactor / 16 mai 2025] Red Dead Redemption 2 for Nintendo Switch 2 may arrive this year. Sources close to Rockstar indicate that the port is as real as the "next-gen update" and could complete the release schedule for the new console. → https://cutt.ly/drxZL0yd
+» 🇫🇷 [ActuGaming / 16 mai 2025] Red Dead Redemption 2 pourrait bénéficier cette année d’une version Switch 2, tout comme du fameux patch PS5 et Xbox Series → https://actugaming.net/a-727338
+
+» 🇫🇷 [ActuGaming / 16 mai 2025] Rescue Ops: Wildfire, un simulateur de sapeur-pompier français, sortira fin 2025 en accès anticipé sur PC → https://actugaming.net/a-727332
+
+» 🇺🇸 [Nintendo / 16 mai 2025] Nintendo apologises for "error" with mention of Switch 2 VRR TV support. "The incorrect information was initially published" → https://cutt.ly/3rxZXuEJ
+» 🇫🇷 [ActuGaming / 16 mai 2025] Switch 2 : pas de VRR en mode docké, Nintendo présente ses excuses → https://actugaming.net/a-727366
+
+» 🇫🇷 [Gamekult / 16 mai 2025] Kojima a laissé une clé USB avec toutes ses idées à ses collaborateurs en cas de décès → https://cutt.ly/prxZBeT2
+
+» ▶️ [YouTube / Game World Art / 9 mai 2025] Ex-Rockstar artist reacts to GTA6 trailer 2 screenshots → https://youtu.be/0yYEK5zaihs (28 min)
+» 🇫🇷 [Gamekult / 16 mai 2025] GTA 6 : le développement a démarré dès 2018, selon un ex-développeur → https://cutt.ly/FrxZBTX0
+
+» 🇫🇷 [Gamekult / 16 mai 2025] Découvrez le VMU Pro, un des vestiges modernes de la Dreamcast → https://cutt.ly/VrxZMilS
+
+» 🇫🇷 [Gamekult / 16 mai 2025] The First Berserker : Khazan n'a pas atteint ses objectifs de ventes, mais reste un succès → https://cutt.ly/rrxZ9f7n
+
+
+» 🇫🇷 [ActuGaming / 17 mai 2025] Capcom Fighting Collection 2 – Le Coffre au trésor → https://actugaming.net/a-726892
+
+» ▶️ [YouTube / Spidey Santa / 10 mai 2025] Ultimate Spider-Man 2 - Обзор отмененной игры (critique du jeu annulé) → https://youtu.be/wq7H5s__7GQ (27 min)
+» 🇫🇷 [Gamekult / 17 mai 2025] Annulé, Ultimate Spider-Man 2 proposait le Bouffon Vert comme perso jouable → https://cutt.ly/2rxZ86cE
+
+» 🇺🇸 [GamesBeat / 13 mai 2025] Shuhei Yoshida looks back on his long career at PlayStation while at Gamescom Latam 2025 → https://cutt.ly/CrxXqkLV
+» 🇫🇷 [Gamekult / 17 mai 2025] L'idée du PlayStation VR est née avec God of War sur PS3 → https://cutt.ly/JrxZ6jyH
+
+» 🇺🇸 [These Are The Works of Thao Le / 1er déc. 2020] screen shots of Quake 1 environments in id Tech 5 → https://www.thisisthaole.com/QuakeSP-Exploration.php
+» 🇺🇸 [TheGamer / 14 mai 2025] Doom designer shares screenshots of cancelled Id Software project → https://cutt.ly/3rxXzQab
+» 🇫🇷 [Gamekult / 17 mai 2025] Un remake de Quake était en développement, en voici une flopée d'images → https://cutt.ly/mrxXywLN
+
+» 🇫🇷 [Gamekult / 17 mai 2025] À la base, Gran Turismo 1 était si réaliste qu'il en était injouable → https://cutt.ly/2rxXxhBY
+
+» 🇺🇸 [VideoGamer / 14 mai 2025] Skyrim lead recalls Bethesda working their “a**es off” to make the game just 4.8GB as Oblivion Remastered sucks up 125GB → https://cutt.ly/4rxXWkP6
+» 🇫🇷 [Gamekult / 18 mai 2025] Skyrim ne pesait que 4 Go et Bethesda a travaillé "d'arrache-pied" pour y parvenir → https://cutt.ly/BrxXx0rH
+
+» 🇬🇧 [GamingOnLinux / 17 mai 2025] Steam Deck / SteamOS hits 19,000 games rated Verified and Playable → https://cutt.ly/3rxV2iVf
+
+» 🇺🇸 [Time Extension / 17 mai 2025] Japan's Game Preservation Society is safe for now, and it's all thanks to you. A message from GPS founder Joseph Redon → https://cutt.ly/prxXSrHF
+
+» ▶️ [YouTube / 電ファミ公式チャンネル / 15 mai 2025] ニンテンドースイッチ2版『サイバーパンク2077』ゲームプレイ映像 ジョイコンを振って刀やマンティスブレードで敵をめった斬りにする「モーション操作」や、直感的にエイムできる「ジャイロ操作」にも対応 (Vidéo de gameplay de la version Nintendo Switch 2 « Cyberpunk 2077 ») → https://youtu.be/3VVHAa4dEbA (4 min)
+» 🇫🇷 [Gamekult / 18 mai 2025] Cyberpunk 2077 s'exhibe sur Nintendo Switch 2 : première plongée en 4K dans Night City → https://cutt.ly/BrxVVRSR
+
+» 🇺🇸 [LinkedIn / Stéphane Jankowski / 17 mai 2025] Anno 1800 🎉 5 Million Players! 🎉 → https://cutt.ly/1rx28tTK
 
 
 
-» 🇫🇷 [ActuGaming / 15 mai 2025] 
+» ▶️ [YouTube / Hardware Unboxed / 19 mai 2025] Don't buy the RTX 5060 → https://youtu.be/QtFDz-BQLew (32 min)
+» ▶️ [YouTube / Gamers Nexus / 19 mai 2025] Nvidia's dirty manipulation of reviews → https://youtu.be/AiekGcwaIho (22 min)
 
-» 🇫🇷 [Gamekult / 14 mai 2025] 
+» 🇫🇷 [Gamekult / 19 mai 2025] Denuvo, accessibilité limitée... la sortie PC de Stellar Blade s'annonce compliquée → https://cutt.ly/Irx9rnnZ
+
+» 🇫🇷 [Gamekult / 19 mai 2025] Call of Duty : Warzone Mobile, c'est déjà fini → https://cutt.ly/7rx9rZcC
+
+» 🇺🇸 [Forbes / 17 mai 2025] New ‘Marathon’ info: Bungie morale, launch worries and changing plans → https://cutt.ly/hrx9uaGR
+» 🇫🇷 [Gamekult / 19 mai 2025] Marathon : chez Bungie, le moral n'est pas au beau fixe → https://cutt.ly/orx9yxnT
+
+» 🇫🇷 [Gamekult / 19 mai 2025] Syberia Remastered : le point 'n click de Benoît Sokal ressuscite chez Microids → https://cutt.ly/Yrx9uMFj
+» 🇫🇷 [ActuGaming / 19 mai 2025] Microids annonce Syberia Remastered, un retour du point’n click de Benoît Sokal prévu en fin d’année sur PS5, Xbox Series et PC → https://actugaming.net/a-727471
+
+» 🇫🇷 [Gamekult / 19 mai 2025] Star Citizen : la communauté dénonce une dérive pay-to-win suite à la dernière mise à jour → https://cutt.ly/Lrx3QErq
+
+» 🇺🇸 [RPG Site / 15 mai 2025] Level-5 has formally dissolved the Level5 comcept subsidiary established with Keiji Inafune → https://cutt.ly/orx3YjOf
+» 🇫🇷 [Gamekult / 19 mai 2025] Level-5 Comcept : l'ex-studio de Keiji Inafune (Mighty No. 9) est officiellement dissous → https://cutt.ly/arx3Q5Hk
+
+» 🇺🇸 [Insider Gaming / 15 mai 2025] Yves Guillemot’s son, Charlie Guillemot, is returning to Ubisoft → https://cutt.ly/zrx7CLSh
+» 🇫🇷 [Gamekult / 19 mai 2025] Ubisoft : le fils d'Yves Guillemot revient participer au comité de transformation → https://cutt.ly/Wrx7Cfrj
+
+» 🇫🇷 [Gamekult / 19 mai 2025] Vous vous demandiez pourquoi Final Fantasy XI existe encore ? Square Enix aussi → https://cutt.ly/mrx7VvQn
+
+» 🇫🇷 [ActuGaming / 19 mai 2025] Vindictus: Defying Fate, l’action-RPG de Nexon, annonce lancer son alpha test du 8 au 16 juin avec un nouveau trailer → https://actugaming.net/a-727495
+
+» 🇫🇷 [ActuGaming / 19 mai 2025] Selon Hideo Kojima, son futur jeu d’action-espionnage Physint n’arrivera pas avant 5 ou 6 ans → https://actugaming.net/a-727509
+
+
+
+» 🇫🇷 [ActuGaming / 19 mai 2025] 
+
+» 🇫🇷 [Gamekult / 19 mai 2025] 
 
 » 🇬🇧 [PC Gamer / 5 mai 2025] 
 
@@ -3863,7 +3921,7 @@ traduction :
 » 🇺🇸 
 » 🇫🇷 
 » 🇯🇵 
-» ▶️ [YouTube] 
+» ▶️ [YouTube / xxx] 
 » 🐦 [Twitter / xxx] 
 » 𝕏 [X / xxx] 🧵 
 » 🦋 [BlueSky / xxx] 🧵 
@@ -3886,7 +3944,7 @@ traduction :
 - sorti le 
 - développé par 
 
-🎮 25 € sur
-💻️ 25 € sur Steam (<https://s.team/a/xxx>)
+🎮 xx € sur
+💻️ xx € sur Steam (<https://s.team/a/xxx>)
 
 
