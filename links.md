@@ -3882,6 +3882,7 @@ traduction :
 
 » 🇺🇸 [Forbes / 17 mai 2025] New ‘Marathon’ info: Bungie morale, launch worries and changing plans → https://cutt.ly/hrx9uaGR
 » 🇫🇷 [Gamekult / 19 mai 2025] Marathon : chez Bungie, le moral n'est pas au beau fixe → https://cutt.ly/orx9yxnT
+» 🇺🇸 [the Game Post / 19 mai 2025] Ex-Bungie dev says Marathon leadership was “extremely toxic and humiliating” to work with: “Bungie leadership needs to be gutted completely” → https://cutt.ly/ArnLRF4o
 
 » 🇫🇷 [Gamekult / 19 mai 2025] Syberia Remastered : le point 'n click de Benoît Sokal ressuscite chez Microids → https://cutt.ly/Yrx9uMFj
 » 🇫🇷 [ActuGaming / 19 mai 2025] Microids annonce Syberia Remastered, un retour du point’n click de Benoît Sokal prévu en fin d’année sur PS5, Xbox Series et PC → https://actugaming.net/a-727471
@@ -3894,25 +3895,305 @@ traduction :
 » 🇺🇸 [Insider Gaming / 15 mai 2025] Yves Guillemot’s son, Charlie Guillemot, is returning to Ubisoft → https://cutt.ly/zrx7CLSh
 » 🇫🇷 [Gamekult / 19 mai 2025] Ubisoft : le fils d'Yves Guillemot revient participer au comité de transformation → https://cutt.ly/Wrx7Cfrj
 
+» 🇯🇵 [Dengeki Online / 17 mai 2025] 『FF11』23周年 藤戸洋司P/Dインタビュー。2025年はリンバスを完全リニューアルし、多人数でもソロでも遊べる場に【ファイナルファンタジーXI】 → https://cutt.ly/CrnLT5qt
+» 🇺🇸 [Automaton Media / 19 mai 2025] Square Enix considered ending Final Fantasy 11 in 2024, but player interest was high enough to keep it alive even after 20+ years. According to Final Fantasy 11 producer and director Yoji Fujito, the MMORPG could have ended support or even shut down completely → https://cutt.ly/ErnLYvJ7
+» 🇬🇧 [VGC / 19 mai 2025] Final Fantasy 11 was going to shut down last year but fans have kept it alive, director says. The MMO is still getting updates 23 years later → https://cutt.ly/mrnLTY4q
 » 🇫🇷 [Gamekult / 19 mai 2025] Vous vous demandiez pourquoi Final Fantasy XI existe encore ? Square Enix aussi → https://cutt.ly/mrx7VvQn
 
 » 🇫🇷 [ActuGaming / 19 mai 2025] Vindictus: Defying Fate, l’action-RPG de Nexon, annonce lancer son alpha test du 8 au 16 juin avec un nouveau trailer → https://actugaming.net/a-727495
 
 » 🇫🇷 [ActuGaming / 19 mai 2025] Selon Hideo Kojima, son futur jeu d’action-espionnage Physint n’arrivera pas avant 5 ou 6 ans → https://actugaming.net/a-727509
 
+» 🇺🇸 [The Game Post / 20 mai 2025] PlayStation’s new first-party studio wants artists with “expertise in using generative AI tools” like Midjourney, ChatGPT, and Stable Diffusion for its AAA game → https://cutt.ly/DrnLUqw6
+
+» 🇬🇧 [VGC / 21 mai 2025] Lies of P is getting difficulty options to make the Soulslike more accessible. The game will offer 3 levels of difficulty for the base game, and the expansion → https://cutt.ly/zrnLUjLo
+
+» 🇺🇸 [Game File / 21 mai 2025] A new Roblox gardening game is hotter than anything on Steam. Grow a Garden was made by a teenager and is now being orchestrated like a concert. Its stats are so stunning that some observers called foul, but Roblox says they’re legit → https://cutt.ly/yrnLUXUV
+
+» 🇺🇸 [Embracer / 22 mai 2025] Embracer to spin off Coffee Stain Group – remaining business to be renamed Fellowship Entertainment → https://cutt.ly/RrnLI52Y
+
+» 🇫🇷 [Gamekult / 22 mai 2025] Face à la pression populaire, le tournoi EWC de GeoGuessr ne prendra pas place en Arabie Saoudite → https://cutt.ly/6rnLPscV
+
+» 🇺🇸 [Games Industry / 22 mai 2025] NetEase games segment revenue grows 12.1% to $3.3bn in Q1. Firm attributed rise to success of its online games including the successful launch of Where Winds Meet last December → https://cutt.ly/YrnLOTCz
+
+» 🇺🇸 [Game File / 23 mai 2025] Take Two removes praise for its LGBTQ efforts from its annual report, scrubs diversity references. Game File combed the latest annual reports from Take Two and EA, finding numerous fine-print changes. Some serious, some not, some seemingly in reaction to Donald Trump. → https://cutt.ly/xrnLONmV
 
 
-» 🇫🇷 [ActuGaming / 19 mai 2025] 
 
-» 🇫🇷 [Gamekult / 19 mai 2025] 
 
-» 🇬🇧 [PC Gamer / 5 mai 2025] 
+» 🇺🇸 [Forbes / 24 mai 2025] Gamers are making EA, Take-Two and CDPR scared to use AI → https://cutt.ly/2rnLQtLl
 
-» 🇺🇸 [Time Extension / 5 mai 2025] 
+» 🇯🇵 [GameBiz / 21 mai 2025] カプコン、本社隣接地に27年竣工予定の開発拠点を建設中　近隣に新たに土地を取得し新拠点も　「REエンジン」も新技術に対応 → https://gamebiz.jp/news/406072
+» 🇬🇧 [VGC / 25 mai 2025] Capcom strengthens game development muscle with new Osaka base. Capcom plans to open a new game development building by 2027 → https://cutt.ly/urnLxhzR
 
-» 🇺🇸 [Kotaku / 13 mai 2025] 
+» 🇺🇸 [WRC / 26 mai 2025] NACON confirmed as WRC Games Publisher from 2027. WRC Promoter has confirmed that the publishing of games based on the FIA World Rally Championship will return to French publisher NACON → https://cutt.ly/srnLcxCX
 
-» 🇬🇧 [PC Gamer / 12 mai 2025] 
+» 🇺🇸 [Digital Trends / 27 mai 2025] Apple acquires RAC7, its first-ever video game studio. Apple has acquired the two-person studio behind Sneaky Sasquatch, one of Apple Arcade's most popular games → https://cutt.ly/DrnLvKqc
+» 🇫🇷 [Gamekult / 28 mai 2025] Apple renforce sa stratégie jeu vidéo avec un rachat de studio et une app dédiée → https://cutt.ly/ErnLX9W2
+
+» 🇺🇸 [Hollywood Reporter / 27 mai 2025] Paris gaming studio Amplitude, newly independent from Sega, raises $13.5 million. Lead investor Griffin Gaming lauds its ‘Endless’ universe and “proven track record of excellence in releasing multiple titles that are both critically acclaimed and loved by their audiences.” → https://cutt.ly/SrnLbpzf
+
+» 🇫🇷 [Gamekult / 27 mai 2025] Clair Obscur : Expedition 33 s'est écoulé à 3,3 millions d'exemplaires en 33 jours → https://cutt.ly/FrnLC243
+
+» 🇺🇸 [Games Industry / 27 mai 2025] Open letter slams Gamescom Latam's treatment of Brazilian developers. UPDATE: Gamescom Latam organisers issue statement in response to mistreatment allegations → https://cutt.ly/vrnLM4Kq
+
+» 🇺🇸 [Gematsu / 27 mai 2025] Atlantis Studio established in South France – co-founded by Ready at Dawn’s Ru Weerasuriya. Currently at work on "first ambitious game." → https://cutt.ly/hrnLc2Jk
+» 🇫🇷 [Gamekult / 28 mai 2025] Ru Weerasuriya (Ready At Dawn) et Nico Augusto (Les Saisons du Paradis) fondent Atlantis Studio dans le Sud de la France → https://cutt.ly/hrnLCfRA
+
+» 🇫🇷 [Gamekult / 28 mai 2025] Yakuza / Like a Dragon : la taille de l'équipe n'a pas augmenté depuis l'ère PS2 → https://cutt.ly/4rnLXAky
+
+» 🇫🇷 [Gamekult / 28 mai 2025] Pour le créateur de MindsEye, les retours négatifs ont été achetés par la concurrence. Sûrement la faute des francs-maçons → https://cutt.ly/mrnLXoaV
+
+» 🇺🇸 [Gematsu / 28 mai 2025] Nioh series shipments and digital sales top eight million. One million copies sold since October 2022 → https://cutt.ly/OrnLbnG2
+
+» 🇯🇵 [Vogue Japan / 28 mai 2025] 映画とゲームが交錯する未来【MY VIEW｜小島秀夫】「メタルギア」シリーズや『DEATH STRANDING』を手がけ、世界的ヒットへと導いたゲームクリエイター小島秀夫が予見する、映画とゲームの境界が消失していく未来とは。『DEATH STRANDING』の新作や映画化の先に描く構想、そしてクリエイターとして大切にする“違和感”について聞いた。 → https://cutt.ly/9rnLnvOs
+» 🇬🇧 [VGC / 28 mai 2025] A Death Stranding anime is in the works, Hideo Kojima confirms. It was already announced that a live-action adaptation is also on the way → https://cutt.ly/BrnLbZKK
+
+» 🇫🇷 [ActuGaming / 28 mai 2025] AG French Direct 2025 → https://actugaming.net/ag-french-direct/
+
+» 🇺🇸 [IGN / 28 mai 2025] EA cancels Black Panther game, closes Cliffhanger Games. This is the third round of layoffs at EA this year. → https://cutt.ly/XrnLmS8d
+» 🇫🇷 [IGN France / 29 mai 2025] EA annule le jeu Black Panther et ferme le studio Cliffhanger Games. Il s’agit de la troisième vague de licenciements chez EA cette année... → https://cutt.ly/9rnLmg1R
+
+» 🇫🇷 [Gamekult / 29 mai 2025] En 10 ans, The Witcher 3 a dépassé les 60 millions de ventes → https://cutt.ly/SrnLZftX
+
+» 🇫🇷 [Frandroid / 29 mai 2025] GeForce Now : le cloud gaming de Nvidia a désormais son application sur Steam Deck et ça change tout → https://cutt.ly/grnLzpbs
+
+» 🇺🇸 [XboxEra / 30 mai 2025] ZeniMax and QA Union reach deal after years of negotiations → https://cutt.ly/RrnLlWqD
+» 🇺🇸 [Games Industry / 2 juin 2025] ZeniMax Workers United reaches tentative agreement with Microsoft. QA developers to receive 13.5% wage increase, new minimum salaries and protections against arbitrary dismissal and grievance procedures → https://cutt.ly/grnLMziy
+» 🇫🇷 [Gamekult / 3 juin 2025] Après des mois de tension, les employés de ZeniMax signent un accord syndical majeur avec Microsoft → https://cutt.ly/BrnLD47o
+
+» 🇺🇸 [NintendoLife / 30 mai 2025] Yooka-Laylee dev Playtonic is the latest studio hit by layoffs → https://cutt.ly/RrnLIDPo
+
+» 🇺🇸 [Automaton Media / 19 mai 2025] The market for furry games is huge, and the Fuga: Melodies of Steel series was saved by it. Interview with Hiroshi Matsuyama, representative of Fuga: Melodies of Steel series developer CyberConnect 2 → https://cutt.ly/HrnLLEkj
+» 🇫🇷 [Gamekult / 30 mai 2025] La franchise Fuga : Melodies of Steel a été sauvée par... la communauté furry → https://cutt.ly/hrnLKMC8
+
+» 🇫🇷 [Gamekult / 30 mai 2025] Game Informer : tous les magazines sont disponibles gratuitement en ligne → https://cutt.ly/zrnLKDKe
+
+» 🇫🇷 [Gamekult / 30 mai 2025] Marc Andersen : de Joystick à Playmag en passant par Mega Force et Joypad, hommage à un pionnier de la presse jeu vidéo → https://cutt.ly/urnLKQz6
+
+» 🇺🇸 [Before mario / 21 mai 2025] Nintendo playing cards featuring Marilyn Monroe → https://cutt.ly/QrnLKh7f
+» 🇫🇷 [Gamekult / 31 mai 2025] Quand Nintendo jouait la carte de l'érotisme avant de faire du jeu vidéo → https://cutt.ly/xrnLJ5us
+
+» 🇺🇸 [Double Fine / 19 mai 2025] When was Full Throttle released? → https://cutt.ly/nrnLJMZ7
+» 🇫🇷 [Gamekult / 31 mai 2025] 30 ans plus tard, la date de sortie de Full Throttle demeure un mystère → https://cutt.ly/VrnLJaii
+
+» 🇫🇷 [Gamekult / 1er juin 2025] Crytek en a bavé pour faire de Crysis 1 le jeu le plus beau de son temps → https://cutt.ly/0rnLHbcg
+
+» 🇺🇸 [Games Industry / 22 mai 2025] Peter Molyneux recalls how Project Milo, the Kinect game with revolutionary promise, died a death. At Nordic Game 2025, Molyneux shared how tech limitations and changing priorities killed the Xbox game Milo & Kate → https://cutt.ly/TrnLHdzA
+» 🇫🇷 [Gamekult / 1er juin 2025] Peter Molyneux revient sur Project Milo, l'exclu Xbox qui permettait de parler (pour de vrai) avec les personnages → https://cutt.ly/OrnLG95l
+
+» 🇫🇷 [Boursier / 2 juin 2025] Nacon aborde l'exercice 2025-2026 avec confiance → https://cutt.ly/UrnLkCAT
+
+» 🇺🇸 [Gematsu / 1er juin 2025] Shift Up’s Project Witches becomes Project Spirits, now recruiting development staff. The company's next flagship property following Stellar Blade and NIKKE → https://cutt.ly/NrnLd14v
+» 🇫🇷 [ActuGaming / 2 juin 2025] Project Witches : Le prochain jeu de Shift Up (Stellar Blade) change de nom et devient Project Spirits → https://actugaming.net/a-729816
+
+» 🇫🇷 [ActuGaming / 2 juin 2025] Ubisoft semble teaser quelque chose autour de Splinter Cell sur les réseaux sociaux → https://actugaming.net/a-729821
+
+» 🇫🇷 [ActuGaming / 2 juin 2025] People Can Fly (Outriders) annule deux projets, un en réalité virtuelle et un autre en collaboration avec Square Enix → https://actugaming.net/a-729826
+
+» 🇫🇷 [ActuGaming / 2 juin 2025] SEGA Football Club Champions : La simulation de football-gestion SakaTsuku débarque en free-to-play cette année sur PlayStation, PC et mobiles → https://actugaming.net/a-729827
+
+» 🇫🇷 [ActuGaming / 2 juin 2025] Tatsuya Kando, le réalisateur de The World Ends with You, annonce son départ de Square Enix → https://actugaming.net/a-729831
+
+» 🇫🇷 [ActuGaming / 2 juin 2025] Tango Gameworks est de retour avec un nouveau logo et recrute pour un jeu d’action non-annoncé → https://actugaming.net/a-729854
+» 🇺🇸 [Games Industry / 2 juin 2025] Tango Gameworks unveils new branding and confirms it's working on a new action game. "Tango Gameworks is back, and in a brand-new way" → https://cutt.ly/ornLN3na
+
+» 🇺🇸 [Bloomberg / 30 mai 2025] Why EA canceled a new ‘Black Panther’ video game. The project from Cliffhanger Studios would have starred a group of heroes from the comic-book franchise → https://cutt.ly/trnLsrXz
+» 🇫🇷 [ActuGaming / 2 juin 2025] Le jeu Black Panther annulé par EA devait avoir un système Nemesis similaire au jeu L’Ombre du Mordor → https://actugaming.net/a-729864
+
+» 🇫🇷 [ActuGaming / 2 juin 2025] Quantic River : Marco Camiolo répond à nos questions au sujet de son éblouissant jeu d’action cyberpunk en 2D → https://actugaming.net/a-729728
+
+» 🇫🇷 [ActuGaming / 2 juin 2025] Elden Ring Nightreign se met à jour pour faciliter les runs en solo, tandis qu’un mod pour jouer en duo a été créé sur PC → https://actugaming.net/a-729879
+
+» 🇫🇷 [Gamekult / 2 juin 2025] Nintendo Switch 2 : merci de ne pas enlever l'écran de protection préinstallé par Nintendo → https://cutt.ly/wrnLF0xN
+
+» 🇺🇸 [Games Industry / 2 juin 2025] Apple has less than 30 days to comply with the European Commission's DMA or face further penalties. The company claims the EC's decision and "unprecedented fine" is "bad for users" and is appealing the judgment → https://cutt.ly/KrnLNKNj
+
+» 🇫🇷 [Gamekult / 2 juin 2025] 30 ans après, Yoko Shimomura signe une nouvelle musique pour Street Fighter → https://cutt.ly/QrnLFHLS
+
+» 🇺🇸 [GamesBeat / 2 juin 2025] Wizards of the Coast signs publishing agreement with Giant Skull → https://cutt.ly/PrnLr3Q9
+» 🇫🇷 [ActuGaming / 2 juin 2025] L’ancien réalisateur des Star Wars Jedi travaille sur un nouveau jeu Donjons et Dragons à venir sur PC et consoles → https://actugaming.net/a-729888
+
+» 🇫🇷 [ActuGaming / 2 juin 2025] CD Projekt Red va reparler de The Witcher IV à l’occasion d’une présentation du moteur Unreal Engine le 3 juin → https://actugaming.net/a-729903
+
+» 🇫🇷 [ActuGaming / 3 juin 2025] Elden Ring Nightreign dépasse maintenant les 3,5 millions de copies vendues, FromSoftware promet d’intégrer le jeu en duo → https://actugaming.net/a-729971
+
+» 🇫🇷 [ActuGaming / 3 juin 2025] Garfield Kart 2 – All You Can Drift tentera d’apporter un peu de concurrence à Mario Kart World cette année → https://actugaming.net/a-729985
+
+» 🇫🇷 [ActuGaming / 3 juin 2025] Avant la sortie de Shinobi: Art of Vengeance, retour sur la licence culte de SEGA → https://actugaming.net/a-704234
+
+» 🇬🇧 [PC Gamer / 3 juin 2025] RuneScape studio Jagex confirms layoffs 'to reduce complexity, increase agility, and ensure we are fully focused on the areas that matter most'. Jagex said the cuts won't impact ongoing development of its game. → https://cutt.ly/PrnLgdvK
+» 🇺🇸 [Games Industry / 4 juin 2025] Jagex sheds unspecified number of "non-game dev and non-player-facing" roles as it shuts down Project Zanaris → https://cutt.ly/NrnLBBVa
+
+» 🇺🇸 [IGN / 2 juin 2025] Star Wars: Hunters publisher shutters studio founded by Torchlight, Diablo creator before it could announce its new game. Zynga acquired Echtra Games just four years ago. → https://cutt.ly/yrnLqVhc
+» 🇫🇷 [ActuGaming / 3 juin 2025] Seulement quatre ans après le rachat, Zynga ferme Echtra Games, le studio derrière Torchlight 3 → https://actugaming.net/a-730019
+
+» 🇫🇷 [ActuGaming / 3 juin 2025] Dead Take sera le jeu d’horreur de Surgent Studios (Takes of Kenzera: ZAU) en collaboration avec Pocketpair (Palworld) → https://actugaming.net/a-730069
+
+» 🇫🇷 [ActuGaming / 3 juin 2025] The Witcher IV a droit à une nouvelle bande-annonce et à une démonstration technique spectaculaire → https://actugaming.net/a-730105
+
+» 🇫🇷 [ActuGaming / 3 juin 2025] Randomice : Pourquoi vous devez craquer pour ce petit bout de metroidvania procédural made in France → https://actugaming.net/a-729797
+
+» 🇫🇷 [ActuGaming / 3 juin 2025] Nintendo Switch 2 Welcome Tour : une expérience ludique efficace, mais difficile à vendre aux joueurs → https://actugaming.net/a-729916
+
+» 🇫🇷 [ActuGaming / 3 juin 2025] Lost Records: Bloom & Rage va sortir dans une édition physique comprenant quelques bonus → https://actugaming.net/a-730165
+
+» 🇫🇷 [Gamekult / 3 juin 2025] Ce week-end, Roblox a atteint 11 millions de joueurs en simultané → https://cutt.ly/wrnLFIAT
+
+» 🇺🇸 [GamesMarkt / 27 mai 2025] ω-Force director Tomohiko Sho talks about Dynasty Warriors: Origins, Musou games and more → https://cutt.ly/srnLDMtF
+» 🇫🇷 [Gamekult / 3 juin 2025] Dynasty Warriors n'est toujours pas un succès en Occident, selon son producteur → https://cutt.ly/OrnLDTvt
+
+» 🇫🇷 [Gamekult / 3 juin 2025] Des nouvelles de Lighthouse Games, le studio qui veut faire mieux que Forza Horizon. Gavin Raeburn défie sa propre création → https://cutt.ly/4rnLS0zo
+
+» 🇫🇷 [Gamekult / 3 juin 2025] En galère, Hi-Rez (Smite) expulse son président et d'autres cadres → https://cutt.ly/drnLSF3Z
+
+» 🇬🇧 [Eurogamer / 3 juin 2025] MindsEye studio execs depart Build a Rocket Boy, one week before game's debut. Chief Legal Officer and Chief Financial Officer have left. → https://cutt.ly/yrnK7Pbl
+» 🇫🇷 [ActuGaming / 3 juin 2025] MindsEye : Deux cadres de Build a Rocket Boy quittent le studio juste avant le lancement du jeu → https://actugaming.net/a-730204
+
+» 🇫🇷 [ActuGaming / 4 juin 2025] Anima: Gate of Memories I & II Remaster fera revivre la licence d’action-RPG dès la fin de cette année → https://actugaming.net/a-730185
+
+» 🇫🇷 [ActuGaming / 4 juin 2025] Xenoblade Chronicles 3, Super Mario Odyssey… Plusieurs jeux Switch sont mis à jour pour être améliorés sur Switch 2 → https://actugaming.net/a-730217
+
+» 🇺🇸 [Deadline / 3 juin 2025] ‘Phasmophobia’ film in the works: Blumhouse to adapt paranormal horror game → https://cutt.ly/QrnK35nP
+» 🇫🇷 [ActuGaming / 4 juin 2025] Le jeu d’horreur Phasmophobia va lui aussi être adapté en film et sera produit par Blumhouse (Five Nights at Freddy’s) → https://actugaming.net/a-730225
+
+» 🇫🇷 [ActuGaming / 4 juin 2025] JV le mag est en difficulté, mais vous pouvez encore sauver le magazine via une campagne de financement → https://actugaming.net/a-730229
+
+» 🇺🇸 [Games Industry / 4 juin 2025] How Unity developed its first game in 20 years as a Nintendo Switch 2 launch exclusive. Survival Kids is a modern revival of a classic Konami IP that showcases Unity 6 features and the company's commitment to production verification → https://cutt.ly/xrnLNuB4
+
+» 🇺🇸 [Game Developer / 4 juin 2025] The Witcher 4 tech demo highlights the open world credentials of Unreal Engine 5.6. The latest version of the popular engine also includes powerful new animation and rigging features → https://cutt.ly/ornL2y36
+
+» 🇫🇷 [ActuGaming / 4 juin 2025] The Witcher IV : CD Projekt Red insiste sur le fait que la démo technique ne représente pas le jeu en lui-même → https://actugaming.net/a-730243
+
+» 🇫🇷 [ActuGaming / 4 juin 2025] No Man’s Sky se met encore à jour et annonce une édition Switch 2 pour le lancement de la console → https://actugaming.net/a-730250
+
+» 🇫🇷 [ActuGaming / 4 juin 2025] Ubisoft n’organisera pas d’Ubisoft Forward cet été, mais fera malgré tout quelques annonces → https://actugaming.net/a-730256
+
+» 🇺🇸 [Time Extension / 4 juin 2025] Anbernic's PSP Go spiritual successor, the RG Slide, shown running Wii and PS2 games → https://cutt.ly/IrnZah5a
+» 🇫🇷 [Gamekult / 4 juin 2025] Anbernic s'inspire de la PSP Go pour sa nouvelle console : la RG Slide → https://cutt.ly/BrnLSaV5
+
+» 🇫🇷 [Gamekult / 4 juin 2025] Hollow Knight Silksong : une mise à jour Steam ravive les spéculations avant le Summer Game Fest → https://cutt.ly/OrnLAOab
+
+» 🇫🇷 [ActuGaming / 4 juin 2025] Un autre anime dans le style de Cyberpunk Edgerunners pourrait être annoncé en juillet lors de l’Anime Expo → https://actugaming.net/a-730262
+
+» 🇫🇷 [ActuGaming / 4 juin 2025] Civilization VII dévoile ses fonctionnalités sur Nintendo Switch 2 avec une expérience repensée → https://actugaming.net/a-730289
+
+» 🇫🇷 [ActuGaming / 5 juin 2025] Quelle carte microSD faut-il prendre pour la Nintendo Switch 2 ? → https://actugaming.net/a-730267
+
+» 🇫🇷 [ActuGaming / 5 juin 2025] Pragmata : le mystérieux jeu de Capcom donne enfin des nouvelles avec une sortie en 2026 → https://actugaming.net/a-730315
+
+» 🇫🇷 [ActuGaming / 5 juin 2025] Final Fantasy Tactics revient dans un remaster nommé Final Fantasy Tactics: The Ivalice Chronicles → https://actugaming.net/a-730317
+
+» 🇫🇷 [ActuGaming / 5 juin 2025] Silent Hill f envahit le State of Play avec un premier trailer de gameplay et nous annonce sa date de sortie → https://actugaming.net/a-730316
+
+» 🇫🇷 [ActuGaming / 5 juin 2025] Nioh 3 passe en mode ninja et s’annonce pour 2026, avec une démo déjà disponible → https://actugaming.net/a-730354
+
+» 🇫🇷 [ActuGaming / 5 juin 2025] 007 First Light : James Bond se la joue presque fine dans un premier trailer explosif → https://actugaming.net/a-730327
+
+» 🇫🇷 [ActuGaming / 5 juin 2025] Arc System Works fait équipe avec PlayStation sur Marvel Tōkon: Fighting Souls!, un jeu de combat Marvel en 4vs4 → https://actugaming.net/a-730378
+
+» 🇫🇷 [ActuGaming / 5 juin 2025] Suda51 et Grasshopper Manufacture (No More Heroes) sont de retour avec le délirant jeu d’action Romeo is a Dead Man → https://actugaming.net/a-730423
+
+» 🇫🇷 [ActuGaming / 5 juin 2025] State of Play : Le résumé complet des annonces sur PS5 (007, Marvel, Pragmata, Nioh 3…) → https://actugaming.net/a-730311
+
+» 🇫🇷 [ActuGaming / 5 juin 2025] Sword of the Sea : Le successeur spirituel de Journey sortira le 19 août, directement dans le PS Plus Extra et Premium → https://actugaming.net/a-730435
+
+» 🇫🇷 [ActuGaming / 5 juin 2025] Thief VR : Legacy of Shadow : La licence fait son grand retour en réalité virtuelle avec un premier trailer →https://actugaming.net/a-730322
+
+» 🇫🇷 [ActuGaming / 5 juin 2025] Tides of Tomorrow (DigixArt) refait une apparition pendant le State of Play pour une sortie début 2026 → https://actugaming.net/a-730321
+
+» 🇫🇷 [ActuGaming / 5 juin 2025] Astro Bot : De nouveaux niveaux gratuits seront intégrés à partir du 10 juillet et une nouvelle version de la DualSense limitée arrive cette année → https://actugaming.net/a-730502
+
+» 🇫🇷 [ActuGaming / 5 juin 2025] Ghost of Yōtei se montre au dernier State of Play… pour annoncer son propre State of Play fixé pour juillet → https://actugaming.net/a-730527
+
+» 🇫🇷 [ActuGaming / 5 juin 2025] Comment transférer ses données vers la Nintendo Switch 2 (depuis une Switch 1 ou OLED) → https://actugaming.net/a-730308
+
+» 🇫🇷 [ActuGaming / 5 juin 2025] Cairn installera ses pitons le 5 novembre, une démo est disponible aujourd’hui sur PS5 et PC pour tester l’ascension → https://actugaming.net/a-730568
+
+» 🇫🇷 [ActuGaming / 5 juin 2025] Baby Steps nous emmènera dans sa curieuse randonnée pédestre le 8 septembre sur PS5 et PC → https://actugaming.net/a-730625
+
+» 🇫🇷 [ActuGaming / 5 juin 2025] NetEease Games dévoile Sea of Remnants, un RPG free-to-play dans un monde de pirates, prévu pour 2026 sur PC, PS5 et mobile → https://actugaming.net/a-730649
+
+» 🇫🇷 [Gamekult / 5 juin 2025] Mario Kart World : on doit une partie du monde ouvert aux créateurs de Xenoblade → https://cutt.ly/yrnLPJKV
+
+
+
+» 🇺🇸 [Games Industry / 5 juin 2025] Playtika reportedly cuts "as many as 160 jobs" affecting teams in Israel and Poland. Sources suggest those working on Best Fiends and Redecor were "mainly affected" by redundancies → https://cutt.ly/ornLB4rg
+
+» 🇺🇸 [Games Industry / 5 juin 2025] US court denies emergency motion issued by Apple in legal case against Epic Games. Tech giant asked for pause in proceedings as it appeals against injunction prohibiting it from collecting fees from alternative app store payments → https://cutt.ly/3rnLBP9H
+
+» 🇺🇸 [IGN / 5 juin 2025] Nintendo Switch 2 screen punctures ruin launch day for fans due to store receipts stapled into console's box. "It seems like it was packaged without thought." → https://cutt.ly/trnLBxfp
+» 🇺🇸 [Games Industry / 5 juin 2025] Nintendo Switch 2 consoles arrive damaged as retailer staples receipts on outer packaging. "We are investigating the matter and will make customers whole," a GameStop spokesperson said → https://cutt.ly/IrnLBicF
+» 🇺🇸 [Game Developer / 5 juin 2025] Reports of Switch 2 screen punctures raise questions over hardware packaging. A number of Switch 2 owners claim their console was damaged after a receipt was stapled to the box of their device → https://cutt.ly/ErnL12sl
+
+» 🇺🇸 [MobileGamer / 5 juin 2025] Gordon Ramsay, Subway Surfers and Angry Birds studio Outplay cuts 21 staff → https://cutt.ly/ernLVNkF
+» 🇺🇸 [Games Industry / 5 juin 2025] Scottish mobile developer Outplay Entertainment cuts 15% of staff to "align operations with current business realities". "This was not a decision we took lightly," CEO says → https://cutt.ly/yrnLVJuN
+
+» 🇬🇧 [PC Gamer / 5 juin 2025] Russia assures World of Tanks players they won't end up in prison as it takes full control of the studio in charge of it domestically, accusing it of funnelling funds to Ukraine. Based on, charitably, very little evidence. → https://cutt.ly/KrnZgvnP
+
+
+
+» 🇫🇷 [Solidaires Informatique / 20 mai 2025] Ubisoft – Procès des cadres → https://cutt.ly/GrnLTru4
+» 🇺🇸 [Games Industry / 28 mai 2025] Ubisoft denies that CEO is to be summoned to court in Ubisoft harassment trial. Ubisoft "categorically deny" original claims → https://cutt.ly/lrnL1bXH
+
+» 🇫🇷 [Libération / 1er juin 2025] Ubisoft : le procès de l’ancien boys’ club pour harcèlements sexuel et moral et agression sexuelle peut enfin commencer → https://cutt.ly/YrnL35jV
+» 🇫🇷 [L'Humanité / 1er juin 2025] Ubisoft : ce qu’il faut savoir avant le procès de trois ex-cadres de l’entreprise pour harcèlement moral et sexuelTrois ex-cadres dirigeants du fleuron du jeu vidéo français, mais ni le PDG ni la personne morale, seront jugés cette semaine au tribunal correctionnel de Bobigny. Ils doivent répondre de graves accusations de harcèlement sexuel et moral. → https://cutt.ly/BrnLldFo
+» 🇫🇷 [Mediapart / 1er juin 2025] Harcèlement et violences sexuelles et sexistes à Ubisoft : un procès et des grands absents. Trois ex-cadres de la multinationale française de jeux vidéo sont jugés pour harcèlement moral, harcèlement sexuel et agression sexuelle. Mais les parties civiles regrettent l’absence de poursuites envers l’entreprise elle-même et ses RH, qui ne pouvaient pas ignorer certains faits, selon elles. → https://cutt.ly/GrnL9kSr
+» 🇫🇷 [France Info / 1er juin 2025] "Fermer les yeux ou serrer les dents" : derrière le procès de trois ex-cadres d'Ubisoft, une culture du silence enracinée jusqu'au sommet → https://cutt.ly/ornL9IP4
+
+» 🦋 [BlueSky / Clara Laine / 2 juin 2025] 🧵 https://bsky.app/profile/clara-laine.bsky.social/post/3lqmasdky3223
+> Bonjour ! Je me trouve devant le tribunal correctionnel de Bobigny, où vont comparaître à partir de 10 heures trois anciens cadres d’Ubisoft : Serge Hascoët, ex-numéro 2 du groupe, Thomas François (surnommé Tommy), ex-vice président éditorial d’Ubisof et Guillaume Patrux, ancien game director.
+> Ils seront jugés jusqu'à vendredi pour harcèlement moral et sexuel. Tommy François devra également répondre d’une tentative d’agression sexuelle. Tous trois contestent les faits.
+> Après l'émergence du #Metoo dans les jeux vidéos, le silence s’était fissuré en 2020, avec la publication d'une enquête de Libération. Au 6e étage d'un immeuble de Montreuil, repaire du prestigieux service éditorial d'Ubisoft, des pratiques abusives ont été mises en lumière.
+> A l'issue de l'instruction, les enquêteurs ont considéré que le trio a banalisé une culture d'humiliation, de pression constante et de comportements déplacés. Dans cet article, je vous résume les accusations portées par six femmes, trois hommes et deux syndicats : https://cutt.ly/prnL87Q1
+> [...]
+
+» 🇫🇷 [Libération / 2 juin 2025] Au procès Ubisoft : «J’aurais aimé qu’on m’arrête, qu’on me dise que ce que je faisais n’allait pas, qu’on me sanctionne» → https://cutt.ly/3rnL96cj
+» 🇫🇷 [France Info / 2 juin 2025] Harcèlement, menaces, intimidations... Qu'est-il reproché aux trois anciens cadres d'Ubisoft jugés à partir de lundi ? Serge Hascoët, Tommy François et Guillaume Patrux sont accusés de harcèlement sexuel et moral. Tommy François est également poursuivi pour une tentative d'agression sexuelle. → https://cutt.ly/prnL87Q1
+» 🇫🇷 [France Info / 2 juin 2025] "J'ai vu que la violence était OK dans l'open space" : au procès de trois anciens cadres d'Ubisoft, la peur et l'humiliation au cœur des récits des victimes. Thomas François, Serge Hascoët et Guillaume Patrux sont accusés par six femmes, trois hommes et deux syndicats de "harcèlement moral et sexuel". Au premier jour de leur procès, lundi, quatre victimes ont témoigné. → https://cutt.ly/1rnL58M4
+
+» 🦋 [BlueSky / Clara Laine / 3 juin 2025] 🧵 https://bsky.app/profile/clara-laine.bsky.social/post/3lqosgocvkk2u
+> Bonjour à toutes et à tous ! Me voici de retour en direct du tribunal judiciaire de Bobigny pour la deuxième journée du procès de trois anciens cadres d'Ubisoft, poursuivis pour harcèlement moral et sexuel. LT à suivre pour 
+@franceinfo.fr
+> Après l'interrogatoire de Thomas François hier après-midi, ca va être au tour de Serge Hascoët de passer à la barre, à partir de 10 heures. Durant près de vingt ans, il a incarné le pouvoir créatif de l'entreprise française de jeux vidéo.
+> Numéro deux du groupe jusqu'à sa démission en juillet 2020, il est notamment accusé d'avoir instauré au sein du service éditorial un climat "d'insécurité, de mal-être au travail, d'intimidation et d'acceptation de propos ou comportements dégradants", d'après les magistrats instructeurs.
+> Plusieurs de ses anciennes assistantes sont sur les bancs des parties civiles pour en témoigner. Elles décrivent un quotidien où les frontières de leurs missions se sont effacées sous les exigences de leur supérieur, comme je vous le relatais ici : https://cutt.ly/1rnL58M4
+> [...]
+
+» 🇫🇷 [France Info / 3 juin 2025] "Je ne suis pas du genre à humilier les gens" : à leur procès, l'embarras de deux anciens cadres d'Ubisoft accusés de harcèlement. Serge Hascoët et Thomas François, deux des trois prévenus, ont été entendus devant le tribunal correctionnel de Bobigny et ont tenté de justifier le climat "de mal-être au travail" qui a régné au sein du service éditorial de l'entreprise française de jeux vidéo. → https://cutt.ly/CrnL6nsV
+» 🇫🇷 [Le Télégramme / 3 juin 2025] Ubisoft : Serge Hascoët jugé pour harcèlement sexuel et moral, un manager sans limite. Pour la deuxième journée d’audience, le procès d’ex-cadres d’Ubisoft accusés de harcèlement sexuel et moral s’est penché sur le cas du Brestois Serge Hascoët, ancien numéro 2. → https://cutt.ly/brnL3UrN
+
+» 🦋 [BlueSky / Clara Laine / 4 juin 2025] 🧵 https://bsky.app/profile/clara-laine.bsky.social/post/3lqrcjh36ck2r
+> Bonjour ! J'arrive au tribunal judiciaire de Bobigny, où le procès de trois anciens cadres d'Ubisoft se poursuit. Les débats vont reprendre à 10 heures. Comme hier et avant-hier, je les retranscrirai en thread pour @franceinfo.fr
+> Hier, la journée a été consacrée à l'interrogatoire de Serge Hascoët. Thomas François, lui, avait été entendu lundi.
+> Pendant plusieurs heures, ils ont tenté de justifier le climat "de mal-être au travail" qui a régné au sein du service éditorial de l'entreprise française de jeux vidéo : https://cutt.ly/CrnL6nsV
+> Cette après-midi, c'est Guillaume Patrux, le troisième prévenu, qui sera appelé à la barre. La matinée se concentrera sur l'audition de témoins.
+> Nous sommes sept journalistes sur les bancs réservés à la presse. La salle est loin d'être pleine : en-dehors des parties civiles et des prévenus, moins d'une dizaine de personnes constituent le public.
+> [...]
+
+» 🇫🇷 [Le Monde / 4 juin 2025] Au procès des anciens cadres d’Ubisoft pour harcèlement, l’ex-numéro deux qui « pensait que le management était géré par d’autres ». Serge Hascoët a nié avoir été témoin ou auteur de faits de harcèlement moral ou sexuel, plaidant la « maladresse », mardi. Il a en revanche évoqué l’angle mort de la procédure : des accusations de viol sur lesquelles le parquet n’a pas souhaité engager de poursuites. → https://cutt.ly/crnLgAYw
+
+» 🦋 [BlueSky / Clara Laine / 5 juin 2025] 🧵 https://bsky.app/profile/clara-laine.bsky.social/post/3lqtt7fdgos2i
+> Bonjour ! De retour au palais de justice de Bobigny, pour suivre la quatrième journée du procès de trois anciens cadres d’Ubisoft. Serge Hascoët, Tommy François et Guillaume Patrux sont jugés depuis lundi pour "harcèlement moral et sexuel". LT à suivre pour 
+@franceinfo.fr
+> La journée promet d'être bien remplie : plaidoiries des parties civiles, réquisitoire, plaidoiries de la défense, derniers mots des prévenus...
+> Idéalement, la présidente souhaite suspendre les débats dès ce soir pour consacrer la journée de demain au délibéré.
+> Les trois avocats des parties civiles, installés au premier rang de la salle, discutent entre eux pour préparer l'ordre de passage de leurs plaidoiries. Il y a Maude Beckers, qui représente quatre victimes et le syndicat Solidaires informatique.
+> Benjamin Bohbot, lui, représente Bérénice*. Enfin, Sophie Clocher est chargée de représenter les intérêts du SJTV, également partie civile dans le dossier. C'est elle qui va ouvrir le bal.
+> [...]
+
+
+
+» 🇫🇷 [ActuGaming / 6 juin 2025] 
+
+» 🇫🇷 [Gamekult / 6 juin 2025] 
+
+» 🇬🇧 [PC Gamer / 6 juin 2025] 
+
+» 🇺🇸 [Time Extension / 6 juin 2025] 
+
+» 🇺🇸 [Kotaku / 6 juin 2025] 
+
 
 
 
