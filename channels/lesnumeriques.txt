@@ -12915,7 +12915,7 @@ raids : LesNumeriques[+137] + GamekultLive [+20] => (13:37) OrigaTwitch => (15:2
 
 
 --------------------------------------
-2025-06-16
+2025-06-12
 
 » 🇫🇷 [Gamekult] Après un lancement catastrophique, MindsEye veut améliorer ses performances → https://gamekult.com/actualite/-3050864216.html
 » 🇫🇷 [Gamekult] Preview : Pragmata : première prise en main prometteuse → https://www.gamekult.com/jeux/pragmata-3050882343/preview-3050864165.html
@@ -12928,6 +12928,25 @@ raids : LesNumeriques[+137] + GamekultLive [+20] => (13:37) OrigaTwitch => (15:2
 » 🇫🇷 [Gamekult] Preview : Dying Light : The Beast revient aux sources de la licence → https://www.gamekult.com/jeux/dying-light-the-beast-3050887871/preview-3050864183.html
 
 raids : LesNumeriques => (13:36)[+120] JardiStream [Jengo_m=>(13:40)+130] => (14:08)[+08] samueletienne => (14:33)[+2003] lHumanitefr => (16:13)[+670] Marinetteperin (terminé à 18:06)
+
+
+--------------------------------------
+2025-06-13
+
+» [The Verge] Here’s the $2,000 fully AI-generated ad that aired during the NBA Finals. It apparently took just days to make using Google’s new text-to-video generator, Veo 3 → https://theverge.com/news/686474/n
+
+raids : LesNumeriques => (13:49)[+132] DefendIntelligence => (14:11) Hiuuugs (terminé à 15:08)
+
+
+--------------------------------------
+2025-06-16
+
+» 🇫🇷 [Gamekult] Avec FBC : Firebreak, Remedy a perdu le Control, 5/10 par Cael → https://www.gamekult.com/jeux/project-condor-3050884185/test.html
+» 🇫🇷 [Gamekult] Partenariat avec AMD, rétrocompatibilité... La prochaine console Xbox abordée officiellement par Microsoft. Steam sur Xbox, c'est bientôt → https://gamekult.com/actualite/-3050864306.html
+» 🇫🇷 [Gamekult] Marathon : sa sortie est repoussée et tout le monde s'y attendait → https://gamekult.com/actualite/-3050864304.html
+» ▶️ [YouTube / Nintendo France] Donkey Kong Bananza Direct – 18/06/2025 → https://youtu.be/vVxTRNIjUvA
+
+raids : LesNumeriques => (13:24)[+138] kenbogard (>14:00) => (<17:10) lydia__am (>18:00) => (<00:02) pelerine (>00:10)
 
 
 
