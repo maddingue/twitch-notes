@@ -12939,14 +12939,30 @@ raids : LesNumeriques => (13:49)[+132] DefendIntelligence => (14:11) Hiuuugs (te
 
 
 --------------------------------------
-2025-06-16
+2025-06-19
 
 » 🇫🇷 [Gamekult] Avec FBC : Firebreak, Remedy a perdu le Control, 5/10 par Cael → https://www.gamekult.com/jeux/project-condor-3050884185/test.html
 » 🇫🇷 [Gamekult] Partenariat avec AMD, rétrocompatibilité... La prochaine console Xbox abordée officiellement par Microsoft. Steam sur Xbox, c'est bientôt → https://gamekult.com/actualite/-3050864306.html
 » 🇫🇷 [Gamekult] Marathon : sa sortie est repoussée et tout le monde s'y attendait → https://gamekult.com/actualite/-3050864304.html
 » ▶️ [YouTube / Nintendo France] Donkey Kong Bananza Direct – 18/06/2025 → https://youtu.be/vVxTRNIjUvA
 
-raids : LesNumeriques => (13:24)[+138] kenbogard (>14:00) => (<17:10) lydia__am (>18:00) => (<00:02) pelerine (>00:10)
+raids : LesNumeriques => (13:24)[+138] kenbogard (>14:00) => (<17:10) lydia__am (>18:00) => (<00:02) pelerine (>00:10) => (<07:55) Unname_Live => (12:46) GallyP (>14:00) => (<15:26) Amateseru (terminé à 19:35)
+
+
+--------------------------------------
+2025-06-20
+
+» 🇫🇷 [Les Numériques] L'iPhone coûte-t-il vraiment un Smic ? De 2007 à aujourd'hui, on a vérifié → https://lesnumeriques.com/telephone-portable/-a238262.html
+» 🇫🇷 [Les Numériques] Pixel 10 : Google confie sa puce Tensor à TSMC, Samsung se remet en question → https://lesnumeriques.com/telephone-portable/-n238297.html
+» 🇫🇷 [Les Numériques] Bruce Lee et Jackie Chan restaurés par IA : la Chine sort l'artillerie lourde sur l'intelligence artificielle → https://lesnumeriques.com/cine-svod/-n238327.html
+» 🇫🇷 [Les Numériques] “Moins de connexions neuronales” : l’impact inquiétant de ChatGPT sur le cerveau selon le MIT → https://lesnumeriques.com/intelligence-artificielle/-n238288.html
+» [Mashable] Man with human partner and child asks AI to marry him. Two people who have relationships with AIs discussed them on 'CBS Mornings.' → https://mashable.com/video/man-with-human-partner-and-child-asks-ai-to-marry-him
+
+raids : LesNumeriques => (13:36)[+124] MonPetitPC => (16:26)[+159] Clara_l_Exploratrice (16:30) => (<17:53) inforea [BooCreas=>(17:53+28] => (20:09)[+123] KitsuNette_TV (>23:00) => (<00:23) pixx3ll [Ruvon_=>(00:23)+4] [MADevil=>(00:54)+42] (>02:45) => (<13:13) stopiax (>14:15) => (<00:17) YunSef (terminé à 01:05)
+
+https://www.youtube.com/watch?v=WHor-JMZzBI
+https://www.youtube.com/watch?v=jeAfbTKmZng
+https://www.youtube.com/watch?v=LNoklk0NRmQ
 
 
 
