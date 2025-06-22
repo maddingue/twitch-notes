@@ -13954,7 +13954,7 @@ Future Game Show
 » Whispers in the fog, annoncé sur PC ; développé par Pasquale Scionti → https://s.team/a/3716910 | https://whispersinthefog.com/
 » The Seven Deadly Sins: Origin, annoncé sur PlayStation 5, PC et mobiles ; développé par Netmarble → https://s.team/a/3679080 | https://7origin.netmarble.com
 » The Finals — Season 7
-» Herdling, annoncé pour 2025 sur Switch, PlayStation, Xbox et PC / Steam Deck, démo disponible ; édité par Panix, développé par Okomotive, studio derrière FAR: Lone Sails (2018) et FAR: Changing Tides (2022) → https://herdling.game
+» Herdling, annoncé pour 2025 sur Switch, PlayStation, Xbox et PC / Steam Deck, démo disponible ; édité par Panic, développé par Okomotive, studio derrière FAR: Lone Sails (2018) et FAR: Changing Tides (2022) → https://herdling.game | https://s.team/a/3047750
 » Sleep Awake, annoncé sur PlayStation 5, Xbox Series et PC ; édité par Blumhouse, développé par Eyes Out, studio de Cory Davis (Spec Ops: The Line) → https://s.team/a/2446540 | https://blumhouse.com/games/sleep-awake
 » Eriksholm: The Stolen Dream, le 15 juillet 2025 sur PlayStation 5, Xbox Series et PC / Steam Deck, développé par River End Games → https://s.team/a/2377280 | https://eriksholmgame.com
 » The Explorator, en accès anticipé depuis le 7 juin 2025 à 13,80 € sur PC ; développé par Remnant games studio → https://s.team/a/2015440 | https://remnantgamestudio.fr
@@ -14131,9 +14131,156 @@ PC Gaming Show
 » Bernband, annoncé sur PC ; développé par Sokpop Collective → https://s.team/a/2789170 | https://sokpop.co
 » Wanderburg, annoncé pour 2026 sur PC ; développé par Randwerk → https://s.team/a/3624140 | https://wanderburg.com
 
-
-
 🗓️ calendrier des conférences → http://evenements.origami.ng/
+
+
+--------------------------------------
+2025-06-13
+
+# Wishlist
+» Wildgate, le 22 juillet 2025 sur PlayStation 5, Xbox Series et PC / Steam Deck, démo disponible ; développé par Moonshot Games → https://playwildgate.com | https://s.team/a/3504780
+» Mycopunk, le 10 juillet 2025 sur PC / Steam Deck, démo disponible ; édité par Devolver, développé par Pigeons at Play → https://s.team/a/3247750
+» Ninja Gaiden: Ragebound, le 31 juillet 2025 sur Switch, PlayStation, Xbox et PC / Steam Deck ; édité par Dotemu, développé par The Game Kitchen, studio derrière The Last Door 1 & 2 (2014, 2016), Blasphemous 1 & 2 (2019, 2023), The Stone of Madness (2025), All On Board! (2025) ; musiques par Sergio de Prado, avec la participation des compositeurs originaux : Keiji Yamagishi, Kaori Nakabai, Ryuichi Nitta, Hitomitoi → https://s.team/a/2542120
+» Ratatan, le 25 juil. 2025 sur PC / Steam Deck, aussi annoncé sur Switch, PlayStation et Xbox, démo disponible ; développé par TVT Co. et Ratata Arts → https://s.team/a/2949320
+
+excuses de sac :
+- exactement ce que je ne voulais pas faire, et je l'ai fais ! (Hubert)
+
+
+# L'Hebdo #69
+## Actus
+» ▶️ [YouTube / Origami] Procès des ex-cadres d'Origami : le compte rendu d'Héloïse Linossier → https://youtu.be/i2ZVUdXGvE0
+» ▶️ [YouTube / Origami] Super Vieux Jeux - Quand les musiciens font les jeux → https://youtu.be/1OUEU7k3kbA
+
+### La semaine
+» 3,5 m de Switch 2
+Oscar Lemaire
+
+» Capcom : monster
+» Capcom : sf
+
+» no man's sky
+
+» 🇫🇷 [ActuGaming / 11 juin 2025] Embracer Group change de PDG, Lars Wingefors reste tout de même dans l’entreprise malgré un bilan compliqué → https://actugaming.net/a-732965
+
+Tencent Arrowhead
+
+» 🇫🇷 [ActuGaming / 10 juin 2025] Nintendo annonce Splatoon Raiders, un spin-off à destination de la Switch 2 → https://actugaming.net/a-732856/
+
+### Konami
+» 🇫🇷 [ActuGaming / 12 juin 2025] Konami confirme que Bloober Team travaille sur un remake du premier Silent Hill → https://actugaming.net/a-733154/
+
+###
+» 🇺🇸 [IGN / 10 juin 2025] SAG-AFTRA reaches 'tentative agreement' with video game companies over AI protections for performers. "Everyone at SAG-AFTRA is immensely grateful for the sacrifices made by performers throughout these many months." → https://cutt.ly/mrQQiF8f
+» 🇫🇷 [ActuGaming / 10 juin 2025] La grève menée par la SAG-AFTRA dans l’industrie du jeu vidéo pourrait prendre fin, un accord provisoire a été trouvé → https://actugaming.net/a-732871
+» nyt article sur Disney, shrek vs Midjourney
+
+## Jeux
+### Deltarune
+» Deltarune, chapitres 1 à 4, disponible à 24 € sur Switch (1 & 2), PlayStation (4 & 5), Windows, Mac et Steam Deck ; développé par tobyfox → https://deltarune.com
+
+## Summer Game Fest
+le débile de splitgate 2, make fps great again
+
+» Resident Evil 9 Requiem, le 27 févr. 2026 sur PlayStation 5, Xbox Series et PC
+
+» 🇫🇷 [ActuGaming / 7 juin 2025] Voir des Puppets mener des combats de boxe est désormais réel avec Felt that: Boxing annoncé pendant la Summer Game Fest → https://actugaming.net/a-731514
+
+(beaucoup de jeux)
+
+» 🇫🇷 [ActuGaming / 11 juin 2025] Après la polémique au Summer Game Fest, le réalisateur de Splitgate 2 présente ses excuses → https://actugaming.net/a-732961
+» 🇫🇷 [Gamekult / 6 juin 2025] Final Fantasy Tactics : le réalisateur Yasumi Matsuno souligne la nature politique du jeu. Cette fameuse époque sans politique dans le jeu vidéo → https://cutt.ly/PrQWxQg2
+
+## Démos
+» Consume Me, annoncé sur PC ; développé par Jenny Jiao Hsia, AP Thomson, Jie En Lee, Violet W-P, Ken "coda" Snyder → https://s.team/a/2359120
+» The Drifter, le 17 juillet 2025 sur Windows, Mac, Linux et Steam Deck, démo disponible ; développé par Powerhoof, studio derrière Crawl (2017), Regular Human Basketball (2018) → https://s.team/a/1170570
+» BALL x PIT, annoncé sur Windows, Mac et Steam Deck ; édité par Devolver, développé par Kenny Sun → https://s.team/a/2062430
+» Dispatch, annoncé pour 2025 sur PC, démo disponible ; développé par AdHoc Studio → https://s.team/a/2592160
+» Baby Steps, le 8 sept. 2025 sur PC, par les créateurs de Ape Out et Getting over it → https://s.team/a/1281040 | http://babysteps.com
+» Ninja Gaiden: Ragebound, le 31 juillet 2025 sur Switch, PlayStation, Xbox et PC / Steam Deck ; édité par Dotemu, développé par The Game Kitchen, studio derrière The Last Door 1 & 2 (2014, 2016), Blasphemous 1 & 2 (2019, 2023), The Stone of Madness (2025), All On Board! (2025) ; musiques par Sergio de Prado, avec la participation des compositeurs originaux : Keiji Yamagishi, Kaori Nakabai, Ryuichi Nitta, Hitomitoi → https://s.team/a/2542120
+» Bits & Bops, annoncé pour Q3 2025 sur Windows, Mac, Linux et Steam Deck, démo disponible ; développé par Tempo Lab Games → https://s.team/a/1929290
+» Possessor(s), annoncé pour 2025 sur PC / Steam Deck, développé par Heart Machine, studio derrière Hyper Light Breaker (2025), Solar Ash (2022), Hyper Light Drifter (2016) → https://s.team/a/2132890
+» Holstin, annoncé sur PC / Steam Deck ; développé par Sonka → https://S.team/a/2235430
+» Moonlighter 2: The Endless Vault, annoncé pour l'été 2025 sur PC ; édité par 11 bit Studios, développé par Digital Sun, derrière Moonlighter (2018), The Mageseeker (2023), Cataclismo (2025) → https://s.team/a/2350790
+» Absolum, annoncé pour 2025 sur Switch, PlayStation 4 & 5 et PC / Steam Deck ; développé par Guard Crush, Supamonks et Dotemu → https://dotemu.com/games/absolum/ | https://s.team/a/1904480
+
+## Mais pas que
+### Kévin
+» Nolife Zombie → https://twitch.tv/nolife
+
+excuses de sac :
+- en tant que directeur créatif, ce n'est pas mon rôle (Moguri)
+
+raids : OrigaTwitch => (15:51)[+473] JVleMag (>19:00) => (<22:02) JotaroFujo (terminé à 22:35)
+
+
+--------------------------------------
+2025-06-20
+
+# L'Hebdo #70
+## Actus
+» ▶️ [YouTube / Origami] Procès des ex-cadres d'Origami : le compte rendu d'Héloïse Linossier → https://youtu.be/i2ZVUdXGvE0
+» ▶️ [YouTube / Origami] Super Vieux Jeux - Quand les musiciens font les jeux → https://youtu.be/1OUEU7k3kbA
+
+### La semaine
+» Herman Hulst sur les sorties de jeux PlayStaiton
+
+» 🇫🇷 [ActuGaming / 18 juin 2025] Warner Bros Games est fragmenté en quatre divisions centrées sur Harry Potter, Game of Thrones, Mortal Kombat et DC → https://actugaming.net/a-734264
+
+» NBA + Take2
+
+
+» 🇫🇷 [ActuGaming / 18 juin 2025] Bungie décide de repousser Marathon, son futur FPS multijoueur, à une date inconnue → https://www.actugaming.net/bungie-decide-de-repousser-marathon-734214/
+» might & magic uniforezen repoussé
+» Skate
+» The House of the Dead 2:
+» Wordatro
+
+» NexusMod 
+» Steam indication des critèrees d'accessibilité
+
+### Microsoft + AMD
+
+### Fermeture de Studio Camelia
+» 🇺🇸 [Kickstarter / 17 juin 2025] Studio Camelia is shutting down. Our sincerest apologies and an explanation → https://cutt.ly/9rW0s6RL
+» 🇫🇷 [ActuGaming / 17 juin 2025] Alzara Radiant Echoes : Le RPG français ne devrait pas voir le jour, Studio Camelia ferme ses portes → https://actugaming.net/a-734086
+» 🇫🇷 [Gamekult / 17 juin 2025] Alzara Radiant Echoes : le studio Camelia ferme et le projet est (presque) avorté. Le JRPG à la française, ça ne marche pas toujours → https://cutt.ly/6rW0jTkW
+
+### Donkey Kong Bananza
+» 🇫🇷 [ActuGaming / 18 juin 2025] Donkey Kong Bananza : Voici tout ce qu’il fallait retenir du Nintendo Direct (Pauline, amiibo, transformations…) → https://actugaming.net/a-734295
+
+» Donkey Kong Bananza, le 17 juillet 2025 à 70 € sur eShop, 60 € en grande distribution sur Switch 2 ; développé par Nintendo → https://www.nintendo.com/fr-fr/Jeux/Jeux-Nintendo-Switch-2/Donkey-Kong-Bananza-2785804.html
+
+## Jeux
+### Crown Gambit
+» Crown Gambit, le 18 juin 2025 sur Windows, Mac et Steam Deck, démo disponible ; édité par Playdigious Originals, développé par Wild Wits, studio français 🇫🇷 derrière Aetheris (2023) → https://wildwits.games | https://s.team/a/2447980
+
+excuses de sac :
+- mais j'avais pas le choix !! (Héloïse)
+
+### Raidou Remastered: The Mystery of the Soulless Army
+» Raidou Remastered: The Mystery of the Soulless Army, le 19 juin 2025 à 50 € sur Switch, PlayStation, Xbox et PC / Steam Deck ; publié par Sega, développé par Atlus → https://www.sega.com/fr/raidou/raidou-remastered-the-mystery-of-the-soulless-army | https://s.team/a/2288350
+» Shin Megami Tensei II — Devil Summoner: Raidou Kuzunoha vs. the Soulless Army
+» L'ère Taishō a duré de juillet 1912 à décembre 1926
+
+### The Alters
+» The Alters, le 13 juin 2025 à 35 € sur PlayStation 5, Xbox Series (Game Pass) et PC / Steam Deck ; développé par 11 bit Studios → https://altersthegame.com | https://s.team/a/1601570
+
+excuses de sac :
+- je n'ai jamais dis que j'avais le contrôle de cette émission, donc ce n'est pas comme si je l'avais perdu (Padre)
+
+## Mais pas que
+### Héloïse
+» ▶️ [YouTube] chaîne de verilybitchie / Verity Ritchie → https://youtube.com/verilybitchie
+
+» 📷 Instagram de bynannacouture → https://instagram.com/bynannacouture
+
+» ♪ Tik Tok de Mathis Grosos → https://tiktok.com/@mathisgrosos
+» 📷 Instagram de Mathis Grosos → https://instagram.com/mathisgrosos
+
+» ♪ Tik Tok de Blair Imani, smarter in seconds → https://tiktok.com/@blairimani
+
+raids : OrigaTwitch => (16:31)[442] paul_echegoyen => (17:58) JVleMag => Nico_Oni => (20:19)[+173] Farore (>23:00) => (<01:04) BoudinDamour [Myriahlys=>(01;16)+10] (>02:45) => (<13:13) stopiax (>14:15) => (<00:17) YunSef (terminé à 01:05)
 
 
 
