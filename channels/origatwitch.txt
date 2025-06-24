@@ -14245,6 +14245,7 @@ raids : OrigaTwitch => (15:51)[+473] JVleMag (>19:00) => (<22:02) JotaroFujo (te
 » 🇺🇸 [Kickstarter / 17 juin 2025] Studio Camelia is shutting down. Our sincerest apologies and an explanation → https://cutt.ly/9rW0s6RL
 » 🇫🇷 [ActuGaming / 17 juin 2025] Alzara Radiant Echoes : Le RPG français ne devrait pas voir le jour, Studio Camelia ferme ses portes → https://actugaming.net/a-734086
 » 🇫🇷 [Gamekult / 17 juin 2025] Alzara Radiant Echoes : le studio Camelia ferme et le projet est (presque) avorté. Le JRPG à la française, ça ne marche pas toujours → https://cutt.ly/6rW0jTkW
+» 🇺🇸 [Game Developer / 23 juin 2025] Studio Camelia shuts down a year after raising €300,000 on Kickstarter to fund JRPG. The studio's now-shelved title, Alzara Radiant Echoes, became one of the most-backed Kickstarter projects of 2024. → https://cutt.ly/KrE194md
 
 ### Donkey Kong Bananza
 » 🇫🇷 [ActuGaming / 18 juin 2025] Donkey Kong Bananza : Voici tout ce qu’il fallait retenir du Nintendo Direct (Pauline, amiibo, transformations…) → https://actugaming.net/a-734295
@@ -14281,6 +14282,59 @@ excuses de sac :
 » ♪ Tik Tok de Blair Imani, smarter in seconds → https://tiktok.com/@blairimani
 
 raids : OrigaTwitch => (16:31)[442] paul_echegoyen => (17:58) JVleMag => Nico_Oni => (20:19)[+173] Farore (>23:00) => (<01:04) BoudinDamour [Myriahlys=>(01;16)+10] (>02:45) => (<13:13) stopiax (>14:15) => (<00:17) YunSef (terminé à 01:05)
+
+
+--------------------------------------
+2025-06-24
+
+# Mardinale #54
+## Actus
+### Qu'est-il arrivé à MindsEye et Everywhere ?
+» 🇫🇷 [Gamekult / 23 août 2022] Loin de GTA, Everywhere dévoile son concept au petit goût de multivers, et affiche ses ambitions pour 2023 → https://cutt.ly/frE0yX6A
+
+» 🇬🇧 [The Telegraph / 21 sept. 2020] Grand Theft Auto pioneer Leslie Benzies in comeback after £32m funding round.  The former President of Rockstar raised the cash for upcoming video game Everywhere → https://cutt.ly/SrE0ikhW
+» 🇫🇷 [Gamekult / 25 sept. 2020] NetEase investit dans Build a Rocket Boy, le studio de Leslie Benzies → https://cutt.ly/7rE0ekN7
+
+### Une histoire d'hubris et de mauvais management
+» 🇫🇷 [Gamekult / 2 juin 2025] MindsEye : Leslie Benzies (GTA) promet du contenu sur les dix prochaines années, et même une histoire étendue sur 10 000 ans (on y croit) → https://cutt.ly/trE185KW
+
+» 🇺🇸 [Games Industry / 2 nov. 2022] Build A Rocket Boy to open Montpellier studio. The new office will open next year → https://cutt.ly/XrE0tb8T
+» 🇫🇷 [Gamekult / 3 nov. 2022] Leslie Benzies choisit Montpellier pour étendre Build A Rocket Boy. Everywhere sera en partie développé en France → https://cutt.ly/zrE0r8sK
+
+### Fantasme créatif / fantasme investisseurs
+» 🇫🇷 [Gamekult / 22 sept. 2023] Everywhere veut prouver que Ready Player One est possible avec une alpha fermée. Roblox et Fortnite ont fait un bébé → https://cutt.ly/lrE172kq
+» 🇫🇷 [Gamekult / 1er déc. 2023] Everywhere tiendra son alpha fermée du 5 au 18 décembre → https://cutt.ly/erE15ri5
+» 🇫🇷 [Gamekult / 14 jan. 2024] Le métavers Everywhere lève 110 millions de dollars → https://cutt.ly/WrE17cHQ
+
+» 🇺🇸 [Games Industry / 24 août 2022] Everywhere developer has been hiring a blockchain team. Build a Rocket Boy Studio says blockchain job postings were for "research positions," does not rule out using the tech in upcoming game → https://cutt.ly/krE0yhn0
+
+» 🇺🇸 [Games Industry / 26 août 2022] Build a Rocket Boy mishandles blockchain questions. The Everywhere developer made a splash at Gamescom, then flushed some good will down the toilet → https://cutt.ly/TrE0tHMv
+
+### Everywhere comme alternative à Steam ?
+
+### Le flop metaversiel
+» 🇬🇧 [VGC / 29 mai 2025] The future of GTA producer’s Everywhere is in doubt as MindsEye adopts its creation suite. Build a Rocket Boy has confirmed to VGC that Everywhere’s creation platform is now part of MindsEye → https://cutt.ly/TrE18W6I
+» 🇫🇷 [Gamekult / 30 mai 2025] Everywhere : pour le Roblox du producteur de GTA, ce sera plutôt Nowhere. Les outils de création ont trouvé refuge dans MindsEye → https://cutt.ly/rrE18tgB
+
+### MindsEye, bouée de sauvetage percée
+» 🇺🇸 [Games Industry / 16 oct. 2024] Hitman maker IO Interactive will publish the new action thriller by Leslie Benzies’ Build A Rocket Boy. "We're not going to turn into the Volkswagen of publishing overnight" → https://cutt.ly/srE0t89h
+
+» 🇺🇸 [Games Industry / 10 déc. 2024] Build A Rocket Boy acquires PlayFusion. PlayFusion CEO and CTO Mark Gerhard appointed co-CEO at Build A Rocket Boy → https://cutt.ly/ArE15MtO
+» 🇺🇸 [Game Developer / 10 déc. 2024] Build a Rocket Boy acquires PlayFusion. As part of the deal, PlayFusion CEO and CTO Mark Gerhard will serve as Build A Rocket Boy co-CEO next to Benzies. → https://cutt.ly/mrE16eel
+
+» 🇫🇷 [Gamekult / 6 juin 2025] MindsEye : deux hauts responsables quittent le navire juste avant le lancement du jeu → https://cutt.ly/ErE14l5i
+
+» 🇫🇷 [Gamekult / 12 juin 2025] Après un lancement catastrophique, MindsEye veut améliorer ses performances → https://cutt.ly/5rE14UyD
+
+» 🇫🇷 [Gamekult / 13 juin 2025] La catastrophe MindsEye se poursuit, et désormais Sony rembourse les mécontents → https://cutt.ly/UrE169KE
+
+» 🇺🇸 [IGN / 23 juin 2025] MindsEye developer Build A Rocket Boy begins layoff process amid disastrous launch, studio sources say. BARB confirms redundancy process has begun → https://cutt.ly/SrE1uhw6
+» 🇫🇷 [IGN France / 23 juin 2025] Le développeur de MindsEye, Build a Rocket Boy, entame un plan de licenciement suite à un lancement désastreux du jeu. Plus de 100 personnes pourraient être impactées → https://cutt.ly/orE1y4V2
+» 🇺🇸 [Kotaku / 23 juin 2025] MindsEye maker facing mass layoff as players seek refunds. The sci-fi shooter is one of 2025's worst-rated games → https://kotaku.com/n-1851784902
+» 🇫🇷 [ActuGaming / 23 juin 2025] MindsEye : Le studio Build A Rocket Boy serait en train de licencier plus d’une centaine d’employés après le lancement raté → https://actugaming.net/a-734991
+» 🇫🇷 [Gamekult / 23 juin 2025] MindsEye : jusqu'à 100 développeurs pourraient être limogés, selon une enquête. Car ce sont toujours les petites mains qui trinquent → https://cutt.ly/BrE143UL
+» 🇺🇸 [Game Developer / 24 juin 2025] MindsEye developer Build a Rocket Boy confirms layoffs. The cuts could reportedly affect over 100 employees → https://cutt.ly/irE1Ni8D
+
 
 
 
