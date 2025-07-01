@@ -2696,6 +2696,7 @@ traduction :
 
 » 🇫🇷 [ActuGaming / 8 avril 2025] La Quimera : Le nouveau FPS de l’un des studios de 4A Games (Metro) sortira à la fin du mois → https://actugaming.net/a-720694
 
+» 🇺🇸 [Kotaku / 17 juin 2025] Hades 2 gets longest patch notes ever in last major update before 1.0 launch finally arrives later this year. The Unseen Update adds new aspects, story beats, and character art → https://kotaku.com/n-1851784684
 » 🇫🇷 [ActuGaming / 8 avril 2025] Hades 2 : Plongez dans les coulisses de cette suite avec une nouvelle vidéo présentée par Supergiant Games → https://actugaming.net/a-720713
 
 » 🇫🇷 [ActuGaming / 8 avril 2025] Le jeu multijoueur Sonic Rumble déboulera à toute vitesse sur PC et sur mobiles le 8 mai prochain → https://actugaming.net/a-720717
@@ -3726,7 +3727,7 @@ traduction :
 » 🇫🇷 [Steam / 12 mai 2025] Compatibilité SteamOS → https://cutt.ly/TrxVMjME
 » 🇫🇷 [Gamekult / 14 mai 2025] Valve étend son système de vérification de jeux à tout SteamOS → https://cutt.ly/vrxi1Jys
 
-» 🇺🇸 [Variety / 8 mai 2025]  ‘Return to Silent Hill’ set for wide theatrical release from Cineverse, promises to be a ‘faithful adaptation’ of ‘Silent Hill 2’ → https://cutt.ly/orxi2tml
+» 🇺🇸 [Variety / 8 mai 2025] ‘Return to Silent Hill’ set for wide theatrical release from Cineverse, promises to be a ‘faithful adaptation’ of ‘Silent Hill 2’ → https://cutt.ly/orxi2tml
 » 🇫🇷 [Gamekult / 14 mai 2025] Return to Silent Hill vit encore et veut être une "adaptation fidèle" de Silent Hill 2 → https://cutt.ly/trxi157r
 
 » 🇫🇷 [ActuGaming / 14 mai 2025] STALKER: Legends of the Zone Trilogy – Enhanced Edition débarque le 20 mai sur PC, PS5 et Xbox Series → https://actugaming.net/a-727008
@@ -3881,6 +3882,7 @@ traduction :
 » 🇫🇷 [Gamekult / 19 mai 2025] Call of Duty : Warzone Mobile, c'est déjà fini → https://cutt.ly/7rx9rZcC
 
 » 🇺🇸 [Forbes / 17 mai 2025] New ‘Marathon’ info: Bungie morale, launch worries and changing plans → https://cutt.ly/hrx9uaGR
+» 🇺🇸 [Kotaku / 17 juin 2025] Bungie indefinitely delays Marathon to address negative fan feedback. Bungie says it will reveal the upcoming sci-fi extraction shooter's new release date in the fall → https://kotaku.com/n-1851784674
 » 🇫🇷 [Gamekult / 19 mai 2025] Marathon : chez Bungie, le moral n'est pas au beau fixe → https://cutt.ly/orx9yxnT
 » 🇺🇸 [the Game Post / 19 mai 2025] Ex-Bungie dev says Marathon leadership was “extremely toxic and humiliating” to work with: “Bungie leadership needs to be gutted completely” → https://cutt.ly/ArnLRF4o
 
@@ -3951,18 +3953,10 @@ traduction :
 
 » 🇫🇷 [ActuGaming / 28 mai 2025] AG French Direct 2025 → https://actugaming.net/ag-french-direct/
 
-» 🇺🇸 [IGN / 28 mai 2025] EA cancels Black Panther game, closes Cliffhanger Games. This is the third round of layoffs at EA this year. → https://cutt.ly/XrnLmS8d
-» 🇫🇷 [IGN France / 29 mai 2025] EA annule le jeu Black Panther et ferme le studio Cliffhanger Games. Il s’agit de la troisième vague de licenciements chez EA cette année... → https://cutt.ly/9rnLmg1R
-
 » 🇫🇷 [Gamekult / 29 mai 2025] En 10 ans, The Witcher 3 a dépassé les 60 millions de ventes → https://cutt.ly/SrnLZftX
 
 » 🇫🇷 [Frandroid / 29 mai 2025] GeForce Now : le cloud gaming de Nvidia a désormais son application sur Steam Deck et ça change tout → https://cutt.ly/grnLzpbs
 
-» 🇺🇸 [XboxEra / 30 mai 2025] ZeniMax and QA Union reach deal after years of negotiations → https://cutt.ly/RrnLlWqD
-» 🇺🇸 [Games Industry / 2 juin 2025] ZeniMax Workers United reaches tentative agreement with Microsoft. QA developers to receive 13.5% wage increase, new minimum salaries and protections against arbitrary dismissal and grievance procedures → https://cutt.ly/grnLMziy
-» 🇫🇷 [Gamekult / 3 juin 2025] Après des mois de tension, les employés de ZeniMax signent un accord syndical majeur avec Microsoft → https://cutt.ly/BrnLD47o
-
-» 🇺🇸 [NintendoLife / 30 mai 2025] Yooka-Laylee dev Playtonic is the latest studio hit by layoffs → https://cutt.ly/RrnLIDPo
 
 » 🇺🇸 [Automaton Media / 19 mai 2025] The market for furry games is huge, and the Fuga: Melodies of Steel series was saved by it. Interview with Hiroshi Matsuyama, representative of Fuga: Melodies of Steel series developer CyberConnect 2 → https://cutt.ly/HrnLLEkj
 » 🇫🇷 [Gamekult / 30 mai 2025] La franchise Fuga : Melodies of Steel a été sauvée par... la communauté furry → https://cutt.ly/hrnLKMC8
@@ -3998,12 +3992,7 @@ traduction :
 » 🇫🇷 [ActuGaming / 2 juin 2025] Tango Gameworks est de retour avec un nouveau logo et recrute pour un jeu d’action non-annoncé → https://actugaming.net/a-729854
 » 🇺🇸 [Games Industry / 2 juin 2025] Tango Gameworks unveils new branding and confirms it's working on a new action game. "Tango Gameworks is back, and in a brand-new way" → https://cutt.ly/ornLN3na
 
-» 🇺🇸 [Bloomberg / 30 mai 2025] Why EA canceled a new ‘Black Panther’ video game. The project from Cliffhanger Studios would have starred a group of heroes from the comic-book franchise → https://cutt.ly/trnLsrXz
-» 🇫🇷 [ActuGaming / 2 juin 2025] Le jeu Black Panther annulé par EA devait avoir un système Nemesis similaire au jeu L’Ombre du Mordor → https://actugaming.net/a-729864
-
 » 🇫🇷 [ActuGaming / 2 juin 2025] Quantic River : Marco Camiolo répond à nos questions au sujet de son éblouissant jeu d’action cyberpunk en 2D → https://actugaming.net/a-729728
-
-» 🇫🇷 [ActuGaming / 2 juin 2025] Elden Ring Nightreign se met à jour pour faciliter les runs en solo, tandis qu’un mod pour jouer en duo a été créé sur PC → https://actugaming.net/a-729879
 
 » 🇫🇷 [Gamekult / 2 juin 2025] Nintendo Switch 2 : merci de ne pas enlever l'écran de protection préinstallé par Nintendo → https://cutt.ly/wrnLF0xN
 
@@ -4016,17 +4005,12 @@ traduction :
 
 » 🇫🇷 [ActuGaming / 2 juin 2025] CD Projekt Red va reparler de The Witcher IV à l’occasion d’une présentation du moteur Unreal Engine le 3 juin → https://actugaming.net/a-729903
 
-» 🇫🇷 [ActuGaming / 3 juin 2025] Elden Ring Nightreign dépasse maintenant les 3,5 millions de copies vendues, FromSoftware promet d’intégrer le jeu en duo → https://actugaming.net/a-729971
-
 » 🇫🇷 [ActuGaming / 3 juin 2025] Garfield Kart 2 – All You Can Drift tentera d’apporter un peu de concurrence à Mario Kart World cette année → https://actugaming.net/a-729985
 
 » 🇫🇷 [ActuGaming / 3 juin 2025] Avant la sortie de Shinobi: Art of Vengeance, retour sur la licence culte de SEGA → https://actugaming.net/a-704234
 
 » 🇬🇧 [PC Gamer / 3 juin 2025] RuneScape studio Jagex confirms layoffs 'to reduce complexity, increase agility, and ensure we are fully focused on the areas that matter most'. Jagex said the cuts won't impact ongoing development of its game. → https://cutt.ly/PrnLgdvK
 » 🇺🇸 [Games Industry / 4 juin 2025] Jagex sheds unspecified number of "non-game dev and non-player-facing" roles as it shuts down Project Zanaris → https://cutt.ly/NrnLBBVa
-
-» 🇺🇸 [IGN / 2 juin 2025] Star Wars: Hunters publisher shutters studio founded by Torchlight, Diablo creator before it could announce its new game. Zynga acquired Echtra Games just four years ago. → https://cutt.ly/yrnLqVhc
-» 🇫🇷 [ActuGaming / 3 juin 2025] Seulement quatre ans après le rachat, Zynga ferme Echtra Games, le studio derrière Torchlight 3 → https://actugaming.net/a-730019
 
 » 🇫🇷 [ActuGaming / 3 juin 2025] Dead Take sera le jeu d’horreur de Surgent Studios (Takes of Kenzera: ZAU) en collaboration avec Pocketpair (Palworld) → https://actugaming.net/a-730069
 
@@ -4061,13 +4045,9 @@ traduction :
 
 » 🇺🇸 [Games Industry / 4 juin 2025] How Unity developed its first game in 20 years as a Nintendo Switch 2 launch exclusive. Survival Kids is a modern revival of a classic Konami IP that showcases Unity 6 features and the company's commitment to production verification → https://cutt.ly/xrnLNuB4
 
-» 🇺🇸 [Game Developer / 4 juin 2025] The Witcher 4 tech demo highlights the open world credentials of Unreal Engine 5.6. The latest version of the popular engine also includes powerful new animation and rigging features → https://cutt.ly/ornL2y36
-
-» 🇫🇷 [ActuGaming / 4 juin 2025] The Witcher IV : CD Projekt Red insiste sur le fait que la démo technique ne représente pas le jeu en lui-même → https://actugaming.net/a-730243
+» 🇫🇷 [ActuGaming / 4 juin 2025] Le planning complet des conférences de l’été 2025 (Summer Game Fest, Xbox Games Showcase, Wholesome Games…) → https://actugaming.net/a-728532
 
 » 🇫🇷 [ActuGaming / 4 juin 2025] No Man’s Sky se met encore à jour et annonce une édition Switch 2 pour le lancement de la console → https://actugaming.net/a-730250
-
-» 🇫🇷 [ActuGaming / 4 juin 2025] Ubisoft n’organisera pas d’Ubisoft Forward cet été, mais fera malgré tout quelques annonces → https://actugaming.net/a-730256
 
 » 🇺🇸 [Time Extension / 4 juin 2025] Anbernic's PSP Go spiritual successor, the RG Slide, shown running Wii and PS2 games → https://cutt.ly/IrnZah5a
 » 🇫🇷 [Gamekult / 4 juin 2025] Anbernic s'inspire de la PSP Go pour sa nouvelle console : la RG Slide → https://cutt.ly/BrnLSaV5
@@ -4080,25 +4060,7 @@ traduction :
 
 » 🇫🇷 [ActuGaming / 5 juin 2025] Quelle carte microSD faut-il prendre pour la Nintendo Switch 2 ? → https://actugaming.net/a-730267
 
-» 🇫🇷 [ActuGaming / 5 juin 2025] Pragmata : le mystérieux jeu de Capcom donne enfin des nouvelles avec une sortie en 2026 → https://actugaming.net/a-730315
-
-» 🇫🇷 [ActuGaming / 5 juin 2025] Final Fantasy Tactics revient dans un remaster nommé Final Fantasy Tactics: The Ivalice Chronicles → https://actugaming.net/a-730317
-
-» 🇫🇷 [ActuGaming / 5 juin 2025] Silent Hill f envahit le State of Play avec un premier trailer de gameplay et nous annonce sa date de sortie → https://actugaming.net/a-730316
-
-» 🇫🇷 [ActuGaming / 5 juin 2025] Nioh 3 passe en mode ninja et s’annonce pour 2026, avec une démo déjà disponible → https://actugaming.net/a-730354
-
-» 🇫🇷 [ActuGaming / 5 juin 2025] 007 First Light : James Bond se la joue presque fine dans un premier trailer explosif → https://actugaming.net/a-730327
-
-» 🇫🇷 [ActuGaming / 5 juin 2025] Arc System Works fait équipe avec PlayStation sur Marvel Tōkon: Fighting Souls!, un jeu de combat Marvel en 4vs4 → https://actugaming.net/a-730378
-
-» 🇫🇷 [ActuGaming / 5 juin 2025] Suda51 et Grasshopper Manufacture (No More Heroes) sont de retour avec le délirant jeu d’action Romeo is a Dead Man → https://actugaming.net/a-730423
-
-» 🇫🇷 [ActuGaming / 5 juin 2025] State of Play : Le résumé complet des annonces sur PS5 (007, Marvel, Pragmata, Nioh 3…) → https://actugaming.net/a-730311
-
 » 🇫🇷 [ActuGaming / 5 juin 2025] Sword of the Sea : Le successeur spirituel de Journey sortira le 19 août, directement dans le PS Plus Extra et Premium → https://actugaming.net/a-730435
-
-» 🇫🇷 [ActuGaming / 5 juin 2025] Thief VR : Legacy of Shadow : La licence fait son grand retour en réalité virtuelle avec un premier trailer →https://actugaming.net/a-730322
 
 » 🇫🇷 [ActuGaming / 5 juin 2025] Tides of Tomorrow (DigixArt) refait une apparition pendant le State of Play pour une sortie début 2026 → https://actugaming.net/a-730321
 
@@ -4111,8 +4073,6 @@ traduction :
 » 🇫🇷 [ActuGaming / 5 juin 2025] Cairn installera ses pitons le 5 novembre, une démo est disponible aujourd’hui sur PS5 et PC pour tester l’ascension → https://actugaming.net/a-730568
 
 » 🇫🇷 [ActuGaming / 5 juin 2025] Baby Steps nous emmènera dans sa curieuse randonnée pédestre le 8 septembre sur PS5 et PC → https://actugaming.net/a-730625
-
-» 🇫🇷 [ActuGaming / 5 juin 2025] NetEease Games dévoile Sea of Remnants, un RPG free-to-play dans un monde de pirates, prévu pour 2026 sur PC, PS5 et mobile → https://actugaming.net/a-730649
 
 » 🇫🇷 [Gamekult / 5 juin 2025] Mario Kart World : on doit une partie du monde ouvert aux créateurs de Xenoblade → https://cutt.ly/yrnLPJKV
 
@@ -4132,6 +4092,20 @@ traduction :
 » 🇬🇧 [PC Gamer / 5 juin 2025] Russia assures World of Tanks players they won't end up in prison as it takes full control of the studio in charge of it domestically, accusing it of funnelling funds to Ukraine. Based on, charitably, very little evidence. → https://cutt.ly/KrnZgvnP
 
 
+» 🇫🇷 [ActuGaming / 6 juin 2025] Hirogami fait un pli pendant le State of Play pour annoncer sa sortie prochaine sur PS5 et PC avec un nouveau trailer → https://actugaming.net/a-730718
+» 🇫🇷 [Gamekult / 6 juin 2025] Hirogami : sauver le monde grâce à des origamis, c'est possible → https://cutt.ly/xrnN0IYw
+
+» 🇫🇷 [Gamekult / 6 juin 2025] Kingdom Come Deliverance 2 : les créateurs du jeu ouvrent un nouveau studio → https://cutt.ly/RrnVWqmS
+
+» 🇫🇷 [ActuGaming / 6 juin 2025] Black Myth: Wukong sortira sur Xbox Series le 20 août, un an après sa sortie PS5 → https://actugaming.net/a-730877
+
+» 🇫🇷 [ActuGaming / 6 juin 2025] Zenless Zone Zero respire un peu plus avec l’arrivée de sa version 2.0, qui apporte plein de nouveautés → https://actugaming.net/a-730704
+
+» 🇫🇷 [ActuGaming / 6 juin 2025] 
+
+» 🇫🇷 [Gamekult / 6 juin 2025] 
+
+
 
 » 🇫🇷 [Solidaires Informatique / 20 mai 2025] Ubisoft – Procès des cadres → https://cutt.ly/GrnLTru4
 » 🇺🇸 [Games Industry / 28 mai 2025] Ubisoft denies that CEO is to be summoned to court in Ubisoft harassment trial. Ubisoft "categorically deny" original claims → https://cutt.ly/lrnL1bXH
@@ -4148,7 +4122,6 @@ traduction :
 > A l'issue de l'instruction, les enquêteurs ont considéré que le trio a banalisé une culture d'humiliation, de pression constante et de comportements déplacés. Dans cet article, je vous résume les accusations portées par six femmes, trois hommes et deux syndicats : https://cutt.ly/prnL87Q1
 > [...]
 
-» 🇫🇷 [Libération / 2 juin 2025] Au procès Ubisoft : «J’aurais aimé qu’on m’arrête, qu’on me dise que ce que je faisais n’allait pas, qu’on me sanctionne» → https://cutt.ly/3rnL96cj
 » 🇫🇷 [France Info / 2 juin 2025] Harcèlement, menaces, intimidations... Qu'est-il reproché aux trois anciens cadres d'Ubisoft jugés à partir de lundi ? Serge Hascoët, Tommy François et Guillaume Patrux sont accusés de harcèlement sexuel et moral. Tommy François est également poursuivi pour une tentative d'agression sexuelle. → https://cutt.ly/prnL87Q1
 » 🇫🇷 [France Info / 2 juin 2025] "J'ai vu que la violence était OK dans l'open space" : au procès de trois anciens cadres d'Ubisoft, la peur et l'humiliation au cœur des récits des victimes. Thomas François, Serge Hascoët et Guillaume Patrux sont accusés par six femmes, trois hommes et deux syndicats de "harcèlement moral et sexuel". Au premier jour de leur procès, lundi, quatre victimes ont témoigné. → https://cutt.ly/1rnL58M4
 
@@ -4171,6 +4144,7 @@ traduction :
 > Nous sommes sept journalistes sur les bancs réservés à la presse. La salle est loin d'être pleine : en-dehors des parties civiles et des prévenus, moins d'une dizaine de personnes constituent le public.
 > [...]
 
+» 🇫🇷 [Libération / 4 juin 2025] Au procès Ubisoft : «J’aurais aimé qu’on m’arrête, qu’on me dise que ce que je faisais n’allait pas, qu’on me sanctionne» → https://cutt.ly/3rnL96cj
 » 🇫🇷 [Le Monde / 4 juin 2025] Au procès des anciens cadres d’Ubisoft pour harcèlement, l’ex-numéro deux qui « pensait que le management était géré par d’autres ». Serge Hascoët a nié avoir été témoin ou auteur de faits de harcèlement moral ou sexuel, plaidant la « maladresse », mardi. Il a en revanche évoqué l’angle mort de la procédure : des accusations de viol sur lesquelles le parquet n’a pas souhaité engager de poursuites. → https://cutt.ly/crnLgAYw
 
 » 🦋 [BlueSky / Clara Laine / 5 juin 2025] 🧵 https://bsky.app/profile/clara-laine.bsky.social/post/3lqtt7fdgos2i
@@ -4182,17 +4156,438 @@ traduction :
 > Benjamin Bohbot, lui, représente Bérénice*. Enfin, Sophie Clocher est chargée de représenter les intérêts du SJTV, également partie civile dans le dossier. C'est elle qui va ouvrir le bal.
 > [...]
 
+» 🇫🇷 [France Info / 5 juin 2025] Procès d'anciens cadres d'Ubisoft : le procureur requiert jusqu'à trois ans d'emprisonnement avec sursis contre les prévenus. Trois anciens responsables de la société française sont jugés pour harcèlement moral et sexuel → https://cutt.ly/nrQvYySI
+
+» 🇫🇷 [Libération / 6 juin 2025] Au dernier jour du procès Ubisoft : «Des victimes, il n’y en a pas que six» → https://cutt.ly/RrQvEYAz
+» 🇫🇷 [France Info / 6 juin 2025] "On ne peut pas condamner un système, mais on peut juger ceux qui l'ont incarné" : au dernier jour du procès d'anciens cadres d'Ubisoft, un réquisitoire sans appel. Trois anciens responsables du géant français du jeu vidéo étaient jugés depuis lundi pour harcèlement moral et sexuel. A l'issue de quatre jours de procès, le procureur a requis jeudi des peines allant jusqu'à trois ans d'emprisonnement avec sursis contre les trois prévenus. → https://cutt.ly/KrQvYRin
+
+» 🇫🇷 [France Info / 7 juin 2025] "J'ai été SDF pendant quelque temps" : après le harcèlement chez Ubisoft, la double peine pour les victimes confrontées à la précarité → https://cutt.ly/YrQvW4ig
 
 
-» 🇫🇷 [ActuGaming / 6 juin 2025] 
 
-» 🇫🇷 [Gamekult / 6 juin 2025] 
+» 🇺🇸 [The Verge / 12 juin 2025] Microsoft just teased its next-gen Xbox console, and nobody noticed. Microsoft’s Xbox handheld work is an early look at the next Xbox consoles → https://cutt.ly/krEM5Cxo
+» 🇫🇷 [ActuGaming / 13 juin 2025] Xbox pourrait mettre de côté sa propre console portable pour se concentrer sur des machines comme la ROG Xbox Ally → https://actugaming.net/a-733278
+» 🇺🇸 [Kotaku / 17 juin 2025] Microsoft teases multiple gaming devices and next-gen Xbox as it doubles down on Windows. It's working with AMD to ensure backwards compatibility → https://kotaku.com/n-1851784670
+
+
+
+» 🇫🇷 [ActuGaming / 16 juin 2025] Otherskin : Pierrick Ehrhart, le producteur de Game Atelier, nous en dit plus sur ce shooter futuriste caméléon → https://actugaming.net/a-733126
+
+» 🇫🇷 [ActuGaming / 16 juin 2025] The Witcher IV : CD Projekt Red vise le 60 fps sur consoles, sauf sur la Xbox Series S où cela sera plus difficile → https://actugaming.net/a-733613
+
+» 🇫🇷 [ActuGaming / 16 juin 2025] Red Dead Redemption : L’acteur derrière le personnage de John Marston indique qu’une annonce arrive cette semaine → https://actugaming.net/a-733621
+
+» 🇺🇸 [Variety / 17 juin 2025] Summer Game Fest viewership jumps 89% to record 50 million livestreams → https://cutt.ly/3rE1YLkd
+» 🇫🇷 [ActuGaming / 16 juin 2025] L’édition 2025 du Summer Game Fest a été la plus suivie, avec plus de 50 millions de vues → https://actugaming.net/a-733624
+
+» 🇰🇷 [game Donga / 16 juin 2025] 시프트업 ‘스텔라 블레이드’ 폭발적 인기.. 전 플랫폼 누적 판매량 300만장 돌파 → https://game.donga.com/117770/
+» 🇫🇷 [ActuGaming / 16 juin 2025] Stellar Blade dépasse les 3 millions de ventes, dont déjà 1 million sur PC → https://actugaming.net/a-733627
+
+» 🇫🇷 [ActuGaming / 16 juin 2025] Désormais séparé de Focus Entertainment, Streum On Studio (Necromunda: Hired Gun) prévoit d’annoncer son prochain jeu → https://actugaming.net/a-733671
+
+» 🇫🇷 [ActuGaming / 16 juin 2025] Sur Xbox Series, Final Fantasy XVI ne semble pas vraiment attirer les foules → https://actugaming.net/a-733786
+
+» 🇺🇸 [Kotaku / 16 juin 2025] Nintendo's crackdown on Switch 2 piracy has already begun. The Mario Kart World maker is banning some Switch 2 consoles → https://kotaku.com/n-1851784610
+
+
+» 🇫🇷 [ActuGaming / 17 juin 2025] The Lonesome Guild : Notre interview de Luca Cafasso, producteur de Tiny Bull, studio derrière cet adorable action-RPG centré sur la camaraderie → https://actugaming.net/a-733284
+
+» 🇺🇸 [Kotaku / 16 juin 2025] Ubisoft still working on that Prince Of Persia Remake that was announced in 2020. The Prince of Persia: The Sands of Time remake is still happening, the company says → https://kotaku.com/n-1851784617
+» 🇫🇷 [ActuGaming / 17 juin 2025] Prince of Persia Remake donne un signe de vie afin de ne pas se faire oublier → https://actugaming.net/a-733836
+
+» 🇫🇷 [ActuGaming / 17 juin 2025] D’autres mises à jour sont prévues pour Clair Obscur: Expedition 33, ainsi que du contenu supplémentaire → https://actugaming.net/a-733847
+
+» 🇫🇷 [ActuGaming / 17 juin 2025] Crash Team Racing Nitro-Fueled dépasse aujourd’hui les 10 millions de ventes → https://actugaming.net/a-734141
+
+» 🇰🇷 [This is Game / 14 juin 2025] 스텔라 블레이드 '비하인드'와 모드 정책까지, '김형태 디렉터에게' 직접 듣다 → https://cutt.ly/arE1RqRv
+» 🇬🇧 [Eurogamer / 17 juin 2025] Stellar Blade 2 will address first game's lack of story, says director → https://cutt.ly/NrE1EOtJ
+» 🇫🇷 [ActuGaming / 17 juin 2025] Stellar Blade 2 devrait corriger l’un des plus gros défauts du premier épisode → https://actugaming.net/a-734158
+
+» 🇰🇷 [MTN / 17 juin 2025] 펄어비스 '붉은사막' 11월 2일 출시...글로벌 출사표 → https://cutt.ly/krE1WXHQ
+» 🇫🇷 [ActuGaming / 17 juin 2025] L’impressionnant Crimson Desert pourrait sortir durant le mois de novembre après une très longue attente → https://actugaming.net/a-734168
+
+» 🇺🇸 [Kotaku / 17 juin 2025] After what EA did to BioWare, the Battlefield X Mass Effect crossover gives me the ick. Battlefield 2042 is getting Mass Effect cosmetics months after EA gutted its developer → https://kotaku.com/n-1851784693
+
+
+» ▶️ [YouTube / BBC Archive / 13 juin 2025] 1984: BANDERSNATCH, BAILIFFS and the Battle for a HIT GAME → https://youtu.be/buuUZFh_pyk (29 min)
+» 🇬🇧 [VGC / 18 juin 2025] The BBC has re-released a 1984 documentary about the UK computer games industry. Commercial Breaks follows Ocean and Imagine Software, and captures the latter going bust → https://cutt.ly/urTUBH1h
+» ▶️ [YouTube / MVG / 1er juil. 2025] How an Owl ruled the world : The Story of Psygnosis → https://youtu.be/DcQWUXOeoLo (34 min)
+
+» 🇫🇷 [ActuGaming / 18 juin 2025] FBC: Firebreak sort aujourd’hui, mais le shooter coopératif de Remedy ne fait pas l’unanimité → https://actugaming.net/a-734188
+
+» 🇫🇷 [ActuGaming / 18 juin 2025] Bungie décide de repousser Marathon, son futur FPS multijoueur, à une date inconnue → https://actugaming.net/a-734214
+
+» 🇫🇷 [ActuGaming / 18 juin 2025] Hades II reçoit une autre grosse mise à jour et se dirige vers la sortie de sa version 1.0 → https://actugaming.net/a-734202
+
+» 🇺🇸 [Variety / 17 juin 2025] Warner Bros. Games restructures development into ‘Game of Thrones,’ Harry Potter, ‘Mortal Kombat’ and DC Universe divisions → https://cutt.ly/NrE1wxxY
+» 🇫🇷 [ActuGaming / 18 juin 2025] Warner Bros Games est fragmenté en quatre divisions centrées sur Harry Potter, Game of Thrones, Mortal Kombat et DC → https://actugaming.net/a-734264
+
+» 🇰🇷 [PlayForum / 18 juin 2025] 시프트업, '스텔라 블레이드' 스위치2 버전 개발 검토 → https://cutt.ly/OrE1nioI
+» 🇫🇷 [ActuGaming / 18 juin 2025] Stellar Blade : Une version Switch 2 pourrait voir le jour, mais Shift Up ne confirme rien pour l’instant → https://actugaming.net/a-734292
+
+» 🇫🇷 [ActuGaming / 18 juin 2025] Nouvelle console, partenariat avec AMD, intelligence artificielle… Xbox officialise sa prochaine génération en vidéo → https://actugaming.net/a-734224
+
+» 🇫🇷 [ActuGaming / 18 juin 2025] 007 First Light : Nos questions à l’un des créateurs du nouveau jeu James Bond → https://actugaming.net/a-733690
+
+» 🇫🇷 [ActuGaming / 18 juin 2025] Devil May Cry 4, Devil May Cry HD collection et d’autres jeux rejoignent le programme de préservation GOG → https://actugaming.net/a-734319
+
+» 🇺🇸 [Deadline / 18 juin 2025] Cineverse sets U.S. release dates for horror reboots ‘Silent Night, Deadly Night’ & ‘Return To Silent Hill’ → https://cutt.ly/hrE1vcdU
+» 🇫🇷 [ActuGaming / 18 juin 2025] Le film Return to Silent Hill sortira en salles au mois de janvier 2026 → https://actugaming.net/a-734376
+» 🇺🇸 [Kotaku / 18 juin 2025] That Silent Hill 2 movie will hit theaters in January 2026. Oh yeah, right, uh, they made a new Silent Hill movie based on the fan-favorite PS2 sequel → https://kotaku.com/n-1851784778
+
+» 🇫🇷 [ActuGaming / 18 juin 2025] Beat Saber stoppe son support sur PS4 et PS5 et signe la fin des mises à jour sur ces plateformes → https://actugaming.net/a-734385
+
+» 🇫🇷 [ActuGaming / 18 juin 2025] Pokémon Violet & Écarlate : La version Nintendo Switch 2 vaut-elle le coup de se relancer dans l’aventure ? → https://actugaming.net/a-733036
+
+» 🇺🇸 [Gematsu / 18 juin 2025] The House of the Dead 2: Remake launches August 7 for Switch and PC, later for PS5, Xbox Series, PS4, and Xbox One → https://cutt.ly/mrEM63jB
+» 🇫🇷 [ActuGaming / 18 juin 2025] The House of the Dead 2: Remake prend un peu de retard et nous fera trembler en août → https://actugaming.net/a-734415
+
+» 🇺🇸 [Kotaku / 18 juin 2025] Nintendo doesn't worry about Donkey Kong lore and neither should you. Don't take any of this stuff too seriously and just have fun punching rocks → https://kotaku.com/n-1851784745
+
+» 🇺🇸 [Deadline / 29 mai 2025] Alex Garland eyeing reunion with ‘Warfare’ actor Kit Connor for his ‘Elden Ring’ adaptation at A24 & Bandai Namco Entertainment – The Dish → https://cutt.ly/OrE1HB2d
+» 🇺🇸 [Kotaku / 18 juin 2025] Elden Ring movie director explains his secret to getting good at Dark Souls. Alex Garland has played FromSoftware's open-world RPG seven times → https://kotaku.com/n-1851784765
+
+
+
+» 🇫🇷 [ActuGaming / 19 juin 2025] Un Capcom Spotlight viendra nous donner des nouvelles de Resident Evil Requiem et Pragmata le 27 juin prochain → https://actugaming.net/a-734489
+
+» 🇫🇷 [ActuGaming / 19 juin 2025] Sifu : Kung-Fu, Cinéma et Sourcil Blanc, retour sur le précédent jeu de Sloclap → https://actugaming.net/a-720815
+
+» 🇫🇷 [ActuGaming / 19 juin 2025] Dora l’exploratrice reprend l’aventure dans son nouveau jeu, Dora: Sauvetage en Forêt Tropicale → https://actugaming.net/a-734493
+
+» 🇫🇷 [ActuGaming / 19 juin 2025] Fantasy Life i: La Voleuse de temps aura bientôt droit à un mode roguelike en monde ouvert → https://actugaming.net/a-734513
+
+» 🇫🇷 [ActuGaming / 19 juin 2025] Cyberpunk 2077 est le jeu qui s’est le plus vendu sur Switch 2 chez les éditeurs tiers au lancement de la console → https://actugaming.net/a-734519
+
+» 🇫🇷 [ActuGaming / 19 juin 2025] Hogwarts Legacy: L’Héritage de Poudlard – Notre avis sur la version Nintendo Switch 2 du jeu le plus vendu de 2023 → https://actugaming.net/a-733315
+
+» 🇺🇸 [The Game Business / 19 mai 2025] It was the biggest console launch of all time, but was Nintendo Switch 2 a success for third-parties? Plus! We take a look at the Summer Game Fest numbers → https://cutt.ly/srE1fQ3i (1 h)
+» 🇫🇷 [ActuGaming / 19 juin 2025] La licence Little Nightmares sera au centre de son propre showcase, une date en vue pour Little Nightmares III ? → https://actugaming.net/a-734530
+
+
+» 🇫🇷 [ActuGaming / 20 juin 2025] PlayStation veut nous sensibiliser aux réalités climatiques dans Climate Station, disponible gratuitement sur PS5 et PSVR2 → https://actugaming.net/a-734568
+
+» 🇫🇷 [ActuGaming / 20 juin 2025] Palworld : Le crossover avec le jeu Terraria sortira le 25 juin prochain → https://actugaming.net/a-734592
+
+» 🇫🇷 [ActuGaming / 20 juin 2025] Juste après la sortie de son DLC, Lies of P dépasse les 3 millions d’exemplaires → https://actugaming.net/a-734597
+
+» 🇫🇷 [ActuGaming / 20 juin 2025] Epic Games annonce LEGO Fortnite Expeditions, une toute nouvelle expérience PvE déjà disponible → https://actugaming.net/a-734502
+
+» 🇫🇷 [ActuGaming / 20 juin 2025] NetEase dévoile Blood Message, un jeu d’action-aventure AAA solo impressionnant qui sortira sur PC et consoles → https://actugaming.net/a-734601
+
+» 🇫🇷 [ActuGaming / 20 juin 2025] Honkai Star Rail : Tout savoir sur la version 3.4 du jeu (Phaénon, collab Fate Stay Night, buffs…) → https://actugaming.net/a-734629
+
+» 🇫🇷 [ActuGaming / 20 juin 2025] Endless Legend 2 : Notre interview de Jean-Maxime Moris, directeur créatif sur le 4X d’Amplitude Studios → https://actugaming.net/a-734626
+
+» 🇫🇷 [ActuGaming / 20 juin 2025] Dune Awakening cartonne mais le PvP soulève des critiques, Funcom promet de l’équilibrer → https://actugaming.net/a-734686
+
+» 🇫🇷 [ActuGaming / 20 juin 2025] Déjà 1 million de personnes sur Rematch, le jeu de foot rassemble beaucoup de monde → https://actugaming.net/a-734691
+
+
+
+» 🇺🇸 [Game Developer / 23 juin 2025] Still Wakes the Deep developer The Chinese Room is making layoffs. Testimonials from a number of former employees indicate the Sumo Group subsidiary is downsizing → https://cutt.ly/jrE19I8u
+
+» 🇫🇷 [ActuGaming / 23 juin 2025] Persona 4 Revival et Stranger Than Heaven ne sortiront pas avant le 1er avril 2026, au plus tôt → https://actugaming.net/a-734907
+
+» 🇺🇸 [Gematsu / 20 juin 2025] SEGA mistakenly reveals sales numbers for Like a Dragon: Infinite Wealth, Persona 3 Reload, Shin Megami Tensei V, and more → https://cutt.ly/ZrE1oMP9
+» 🇫🇷 [ActuGaming / 23 juin 2025] Metaphor: ReFantazio s’est vendu à 2 millions de copies, Sonic Frontiers en est à 4,5 millions… Sega dévoile ses chiffres → https://actugaming.net/a-734912
+
+» 🇺🇸 [Esquire / 18 juin 2025] Adi Shankar has a plan to save Hollywood. But you might not like it. The outspoken producer of Castlevania and Devil May Cry wants to unleash hell on American animation—and if he gets his way, culture at large. → https://cutt.ly/QrE1ozJT
+» 🇫🇷 [ActuGaming / 23 juin 2025] Après avoir adapté Castlevania et Devil May Cry, Adi Shankar obtient les droits de Duke Nukem → https://actugaming.net/a-734942
+
+» 🇫🇷 [ActuGaming / 23 juin 2025] Sonic Racing: CrossWorlds invite Bob l’Éponge et les Tortues Ninja dans la course → https://actugaming.net/a-734951
+
+» 🇫🇷 [ActuGaming / 23 juin 2025] The Blood of Dawnwalker montre enfin du gameplay et il n’est pas difficile d’y voir l’influence The Witcher → https://actugaming.net/a-734985
+
+» 🇫🇷 [ActuGaming / 23 juin 2025] THQ Nordic nous donne rendez-vous pour son showcase le 1er août, avec quelques surprises en réserve →https://actugaming.net/a-734995
+
+» 🇫🇷 [ActuGaming / 23 juin 2025] Charlie Cox (Daredevil) revient sur son expérience très particulière sur Clair Obscur: Expedition 33 → https://actugaming.net/a-734999
+» 🇺🇸 [Kotaku / 23 juin 2025] Daredevil actor completely flabbergasted by the public response to his Clair Obscur voice work. The Clair Obscur: Expedition 33 hype surprised Charlie Cox → https://kotaku.com/n-1851784940
+
+» 🇫🇷 [ActuGaming / 23 juin 2025] Splitgate 2 ne fonctionne pas comme prévu et 1047 Games annonce des licenciements → https://actugaming.net/a-735011
+
+» 🇫🇷 [ActuGaming / 23 juin 2025] Cyberpunk 2077 : La mise à jour 2.3 devait sortir ce 26 juin mais elle est désormais repoussée → https://actugaming.net/a-735051
+
+» 🇫🇷 [ActuGaming / 23 juin 2025] Midnight, la prochaine grande extension de World of Warcraft, sera présentée à la Gamescom cet été → https://actugaming.net/a-735057
+
+» 🇫🇷 [ActuGaming / 23 juin 2025] Midnight, la prochaine grande extension de World of Warcraft, sera présentée à la Gamescom cet été → https://actugaming.net/a-735057
+
+» 🇺🇸 [Kotaku / 23 juin 2025] The fighter’s stronghold in Oblivion Remastered is yours for the taking, after a small war. If you don’t mind shedding blood, this free, upgradeable fortress could be yours at level two → https://kotaku.com/n-1851784921
+
+» 🇺🇸 [Kotaku / 23 juin 2025] AI translation of Smash Bros. director's comments about AI misses nuance, sparks outrage. Masahiro Sakurai is currently working on a launch-year exclusive for Switch 2 → https://kotaku.com/n-1851784945
+
+» 🇺🇸 [Kotaku / 23 juin 2025] Rematch is a game for people who love soccer and for those who don't. The new third-person action spin on soccer is laser-focused on being fast and fun → https://kotaku.com/n-1851784959
+
+» 🇫🇷 [ActuGaming / 24 juin 2025] Xbox et Bethesda rejoignent Blizzard et confirment leur présence à la Gamescom 2025 → https://actugaming.net/a-735095
+
+» 🇫🇷 [Xbox Wire / 23 juin 2025] Mise à jour Xbox de juin : Copilot for Gaming en test sur mobile, bibliothèque de jeux unifiée et plus encore → https://cutt.ly/trE1riUU
+» 🇫🇷 [ActuGaming / 24 juin 2025] Avec sa nouvelle mise à jour, l’application Xbox sur PC veut afficher vos jeux Steam et ceux d’autres boutiques → https://actugaming.net/a-735084
+
+» 🇫🇷 [ActuGaming / 24 juin 2025] Arc System Works organisera son propre showcase le 27 juin, sans doute sans Marvel Tokon → https://actugaming.net/a-735119
+
+» 🇺🇸 [Gematsu / 23 juin 2025] Dune: Awakening sales top one million. Funcom's fastest selling game ever → https://cutt.ly/ZrE1eQaG
+» 🇫🇷 [ActuGaming / 24 juin 2025] Dune Awakening s’est vendu à 1 million d’exemplaires, le meilleur lancement pour un jeu Funcom → https://actugaming.net/a-735122
+
+» 🇫🇷 [ActuGaming / 24 juin 2025] Xbox se met à la réalité virtuelle et annonce officiellement le Meta Quest 3S Xbox Edition, tous les détails → https://actugaming.net/a-735185
+
+» 🇫🇷 [ActuGaming / 24 juin 2025] Drag x Drive, le jeu de basket en fauteuil roulant, sortira sur Switch 2 en août → https://actugaming.net/a-735200
+
+» 🇫🇷 [ActuGaming / 24 juin 2025] Resident Evil Requiem n’est pas encore sorti mais il est déjà un succès pour Capcom → https://actugaming.net/a-735220
+
+» 🇺🇸 [Bloomberg / 24 juin 2025] Microsoft plans major job cuts at Xbox gaming division. The video-game division’s latest round of layoffs is expected next week → https://cutt.ly/frEMBR1M
+» 🇺🇸 [Game Developer / 24 juin 2025] Microsoft is planning another round of major Xbox layoffs. The company's video game division houses major studios including Bethesda, Obsidian, 343 Industries, and more → https://cutt.ly/PrE12iD3
+» 🇺🇸 [The Verge / 24 juin 2025] Microsoft is laying off more than 6,000 employees. Microsoft employees have faced a series of layoffs over the past year → https://cutt.ly/IrEM96hO
+» 🇫🇷 [ActuGaming / 24 juin 2025] Microsoft serait encore une fois sur le point de licencier massivement au sein de sa division Xbox → https://actugaming.net/a-735225
+» 🇺🇸 [Kotaku / 24 juin 2025] Xbox bracing for another mass layoff. More major cuts are coming just weeks after a big Xbox summer showcase → https://kotaku.com/n-1851784992
+
+» 🇺🇸 [Game Developer / 24 juin 2025] ZeniMax union workers ratify historic contract with Microsoft. 'Going toe-to-toe with one of the largest corporations in the world isn't a small feat.' → https://cutt.ly/QrE12mCm
+
+» 🇺🇸 [Game Developer / 24 juin 2025] Riot shutters Hypixel Studios and cancels Hytale after a decade in development. Hypixel had been hoping to create the 'future of sandbox gaming' but struggled to turn its vision into reality. → https://cutt.ly/TrE19wiE
+
+» 🇫🇷 [ActuGaming / 24 juin 2025] Durée de vie Death Stranding 2: On the Beach : Combien de temps faut-il pour terminer le jeu ? → https://actugaming.net/a-735221
+
+» 🇫🇷 [ActuGaming / 24 juin 2025] Painkiller : La licence marquera son grand retour le 9 octobre sur PC, PS5 et Xbox Series → https://actugaming.net/a-735260
+
+» 🇩🇪 [JPGames / 21 juin 2025] Final Fantasy Tactics: Matsuno erklärt uns die Story-Anpassungen der Neuauflage → https://cutt.ly/ZrEMC9bS
+» 🇬🇧 [VGC / 24 juin 2025] ‘My perceptions have changed’: Final Fantasy Tactics writer explains how his script differs in the remaster. Yasumi Matsuno says the script has been updated for the upcoming remaster, The Ivalice Chronicles → https://cutt.ly/TrEMCn6M
+» 🇫🇷 [ActuGaming / 24 juin 2025] Final Fantasy Tactics : Le remaster changera une bonne partie du script, mais plus sur la forme que sur le fond → https://actugaming.net/a-735287
+
+» 🇺🇸 [Games Industry / 24 juin 2025] Xbox and Meta unveil new VR Meta Quest 3S Xbox Edition headset. "Our goal has been to empower more people to play their favorite games whenever and wherever they want" → https://cutt.ly/VrE1Ma0c
+» 🇺🇸 [The Verge / 24 juin 2025] A week in Xbox VR with Microsoft and Meta’s new $399 headset. The Quest 3S Xbox Edition is a custom colorway VR headset bundled with an Xbox controller → https://cutt.ly/6rE11XaJ
+» 🇺🇸 [Kotaku / 24 juin 2025] Everything's an Xbox including this Meta Quest 3S that costs $100 more and can't play your Xbox games. The device comes with an Xbox controller and Game Pass → https://kotaku.com/n-1851784984
+
+» 🇺🇸 [Kotaku / 24 juin 2025] Jurassic World Evolution 3 devs remove AI-generated art after fans yell at them a lot. The upcoming dino park sim won't include AI-generated portraits of people → https://kotaku.com/n-1851785006
+
+» 🇺🇸 [Kotaku / 24 juin 2025] This Switch 2 accessory is making fans drop their consoles and the manufacturer's response is only making things worse. Dbrand's Killswitch case is a problem for the Joy-Con magnets → https://kotaku.com/n-1851785019
+
+» 🇺🇸 [Kotaku / 24 juin 2025] Norman Reedus looks more like Norman Reedus in Death Stranding 2. Sam has gotten quite a glow-up in Kojima's big new PS5 exclusive → https://kotaku.com/n-1851785026
+
+» 🇺🇸 [Kotaku / 24 juin 2025] Smash Bros. Pro dropped by team after harassing female streamers at Beerio Kart World Cup. Twitch streamer Ludwig says the Melee player won't be invited back → https://kotaku.com/n-1851785025
+
+» 🇺🇸 [Time Extension / 24 juin. 2025] Physical collectors "should plug in" Switch, 3DS and Vita Game Cards "every 5-10 years" to avoid data loss → https://cutt.ly/FrTIq0uI
+
+» 🇺🇸 [IGN / 24 juin 2025] Buying Switch 2 secondhand? Beware Nintendo's anti-piracy solution that has 'bricked' some consoles, fans warn. Demand to see online proof before purchasing → https://cutt.ly/ArRfoE34
+» 🇫🇷 [IGN France / 24 juin 2025] Vous comptez acheter une Switch 2 d'occasion ? Attention à ne pas vous faire avoir par la mesure anti-piratage de Nintendo. Exigez toujours un justificatif d'achat et des preuves de son fonctionnement complet avant de l’acheter → https://cutt.ly/NrRfo7IB
+» 🇺🇸 [GameRant / 24 juin 2025] Switch 2 owners warn against buying the console used due to Nintendo's anti-piracy policy → https://cutt.ly/zrRfpP7D
+» 🇫🇷 [Gamekult / 26 juin 2025] Attention aux Switch 2 d'occasion : des modèles piratés bannis sont en circulation → https://cutt.ly/1rRfiVsf
+
+
+» 🇫🇷 [ActuGaming / 24 juin 2025] Little Nightmares fait son show avec le plein de gameplay, de projets, de dates de sortie, un shadowdrop et des éditions terrifiantes → https://actugaming.net/a-735302
+
+» 🇫🇷 [ActuGaming / 25 juin 2025] Valorant : une nouvelle carte inspirée du Moyen Âge français arrive le 25 juin → https://actugaming.net/a-735307
+
+» 🇫🇷 [ActuGaming / 25 juin 2025] Assassin’s Creed Shadows lance sa mise à jour 1.0.6 avec un nouveau mode de difficulté et un nouvel allié à débloquer → https://actugaming.net/a-735236
+
+» 🇫🇷 [ActuGaming / 25 juin 2025] Outright Games annonce Chicken Run: Commandodu adapté du film d’animation culte → https://actugaming.net/a-735238
+
+» 🇫🇷 [ActuGaming / 25 juin 2025] Suite aux critiques, Jurassic World Evolution 3 se débarrasse de ses images utilisant l’IA générative → https://actugaming.net/a-735372
+
+» 🇫🇷 [ActuGaming / 25 juin 2025] Le tout premier Dying Light va se mettre à jour pour préparer l’arrivée de Dying Light: The Beast → https://actugaming.net/a-735380
+
+» 🇫🇷 [ActuGaming / 25 juin 2025] Senua’s Saga: Hellblade II Enhanced arrivera le 12 août sur PS5, mais pas que → https://actugaming.net/a-735409
+
+» 🇬🇧 [VGC / 25 juin 2025] Nintendo-owned company worked on Death Stranding 2. Nintendo Pictures helped with motion capture for Hideo Kojima’s PS5 exclusive → https://cutt.ly/orRVzpGI
+» 🇫🇷 [ActuGaming / 25 juin 2025] Nintendo a un peu participé au développement de Death Stranding 2 via la motion-capture et son studio Nintendo Pictures → https://actugaming.net/a-735418
+» 🇫🇷 [Gamekult / 28 juin 2025] Death Stranding 2 : Kojima a travaillé avec Nintendo, qui apparait au générique de fin → https://cutt.ly/TrRVR3x8
+
+» 🇫🇷 [ActuGaming / 25 juin 2025] King of Meat : notre interview avec Mike Green et Jonny Hopper du studio Glowmade → https://actugaming.net/a-735180
+
+» 🇫🇷 [ActuGaming / 25 juin 2025] Square Enix a bien noté le succès de Clair Obscur: Expedition 33 et promet de continuer à produire des RPG au tour par tour → https://actugaming.net/a-735422
+
+» 🇺🇸 [Game File / 25 juin 2025] Sony is all-in on PlayStation Plus, says its most expensive tier is thriving. Sony kicks off PS Plus' 15th anniversary by chatting with Game File about the past, present and future of its gaming subscription service: Talking price, catalogue tweaks and where the PS3 games are. → https://cutt.ly/IrRVxlqw
+» 🇫🇷 [ActuGaming / 25 juin 2025] Sony ne veut toujours pas sortir des jeux PlayStation Studios directement sur le PS Plus → https://actugaming.net/a-735432
+
+» ▶️ [YouTube / Accursed Farms / 23 juin 2025] **The end of Stop Killing Games** → <https://youtu.be/HIfRLujXtUo> (1 h)
+» **Stop Killing Games** → <https://stopkillinggames.com>
+» 🗳️ [Union Européenne] **Stop Destroying Videogames (Stop à la destruction des jeux vidéo)** → <https://eci.ec.europa.eu/045/public/>
+» 🇬🇧 [PC Gamer / 24 juin 2025] **The 'Stop Killing Games' initiative is close to its final deadline, and after that, its leader is understandably done: 'Either the frog hops out of the pot, or it's dead'.** "Companies just started taking away your purchases, nobody stopped them, and it slowly got normalised." → <https://cutt.ly/jrRvcMMj>
+» 🇫🇷 [Gamekult / 25 juin 2025] La pétition pour "stopper la destruction des jeux vidéo" est un échec. L'homme derrière l'initiative s'explique → https://cutt.ly/qrRV4MzL
+» 🇫🇷 [Next / 27 juin 2025] Stop Killing Games : la mobilisation entre dans sa dernière ligne droite → https://next.ink/190078
+» ▶️ [YouTube / GamersNexus Consumer Advocacy / 27 juin 2025] You’ll own nothing | Stop Killing Games, ft. Ross of Accursed Farms → https://youtu.be/p9ahH6HrtTc (41 min)
+
+» 🇫🇷 [Gamekult / 26 juin 2025] Hytale : un ex-développeur blâme la direction interne pour l'annulation du projet, et visiblement, Riot n'y est pour rien → https://cutt.ly/FrRV0HHg
+
+» 🇫🇷 [ActuGaming / 26 juin 2025] Death Stranding 2 inaugure son lancement avec un Final Trailer spectaculaire, mais gare aux spoils → https://actugaming.net/a-735490
+
+» 🇫🇷 [ActuGaming / 26 juin 2025] Le jeu mobile Marvel Mystic Mayhem de NetEase Games est maintenant disponible → https://actugaming.net/a-735502
+
+» 🇫🇷 [ActuGaming / 26 juin 2025] Le nouveau patch de Mario Kart World pour les parties en ligne ne plaît pas du tout → https://actugaming.net/a-735517
+» 🇫🇷 [Gamekult / 27 juin 2025] Mario Kart World complique la vie des joueurs après une mise à jour controversée → https://cutt.ly/drRV175R
+
+» 🇫🇷 [Gamekult / 26 juin 2025] Encore des licenciements chez Don't Nod, l'équipe de Lost Records : Bloom & Rage touchée. Dans la guillotine des résultats financiers → https://cutt.ly/CrRVvpi3
+» 🇫🇷 [ActuGaming / 26 juin 2025] Les licenciements continuent chez DON’T NOD après la sortie de Lost Records: Bloom & Rage → https://actugaming.net/a-735524
+
+» 🇫🇷 [ActuGaming / 26 juin 2025] Le RPG Chained Echoes aura droit à un DLC, lancement prévu en août → https://actugaming.net/a-735543
+
+» 🇬🇧 [Eurogamer / 26 juin 2025] Chris Avellone joins former Quantic Dream writer at Republic Games to work on ambitious project inspired by "golden-age of RPGs" → https://cutt.ly/brRVv7JE
+» 🇫🇷 [ActuGaming / 26 juin 2025] Chris Avellone (Star Wars Jedi, Fallout New Vegas) rejoint Republic Games, studio fondé par un ancien de Quantic Dream → https://actugaming.net/a-735552
+» 🇫🇷 [Gamekult / 27 juin 2025] Faire revivre "l'âge d'or des RPG", c'est l'ambition du nouveau jeu de Chris Avellone (Fallout). Un projet piloté par un ex-Quantic Dream → https://cutt.ly/qrRVUbx2
+
+» 🇫🇷 [ActuGaming / 26 juin 2025] Sony est attaqué par une association de consommateurs aux Pays-Bas à propos des tarifs trop hauts sur les jeux numériques → https://actugaming.net/a-735560
+» 🇫🇷 [Gamekult / 26 juin 2025] Plainte collective contre PlayStation : des joueurs dénoncent la “Sony‑tax”. Plusieurs centaines de millions d'euros de remboursement demandés → https://cutt.ly/ErRV01tB
+
+» 🇫🇷 [ActuGaming / 26 juin 2025] Two Point Museum vous fait déterrer des trésors fantastiques dans son nouveau DLC → https://actugaming.net/a-735566
+
+» 🇫🇷 [ActuGaming / 26 juin 2025] Digimon Story: Time Stranger fait le point sur la manière dont il fonctionne avec une grosse vidéo explicative → https://actugaming.net/a-735571
+
+» 🇫🇷 [ActuGaming / 26 juin 2025] POEM EX MACHINA : Notre interview avec Amaury Hyde, créateur solo de ce jeu d’action fortement inspiré de Jet Set Radio → https://actugaming.net/a-735510
+
+» 🇫🇷 [ActuGaming / 26 juin 2025] Death Stranding 2 : Voici ce qu’il se passe au moment de dire « Je refuse » au tout début du jeu → https://actugaming.net/a-735556
+
+» 🇫🇷 [ActuGaming / 27 juin 2025] FBC: Firebreak célèbre son premier million de joueurs, mais dans la douleur → https://actugaming.net/a-735583
+
+» 🇫🇷 [ActuGaming / 27 juin 2025] Resident Evil Requiem : Capcom justifie son choix de se passer de Leon et donne plus de détails sur cet épisode → https://actugaming.net/a-735682
+
+» 🇫🇷 [ActuGaming / 27 juin 2025] Arc System Works annonce 3 nouveaux jeux très différents, avec un jeu d’action, un RPG et un jeu d’aventure émouvant → https://actugaming.net/a-735705
+
+» 🇫🇷 [ActuGaming / 27 juin 2025] Double Dragon Revive sortira aussi sur Switch et nous donne de ses nouvelles en vidéo → https://actugaming.net/a-735763
+
+» 🇫🇷 [ActuGaming / 27 juin 2025] Super Mario Strikers revient sur Switch 2 dans l’abonnement Nintendo Switch Online → https://actugaming.net/a-735774
+
+» 🇺🇸 [Game File / 26 juin 2025] EA CEO’s pay is up, as EA worker median income drops. Behold, the tallest chart in Game File history. PLUS: EA execs were paid (a little) more for boosting generative AI → https://cutt.ly/yrRVQnI9
+» 🇫🇷 [ActuGaming / 27 juin 2025] Pendant que le PDG d’Electronic Arts augmente ses gains, les revenus médians des employés sont en baisse → https://actugaming.net/a-735830
+
+» ▶️ [YouTube / 電ファミ公式チャンネル (Denfaminicogamer)] ひろゆき×レベルファイブ日野晃博氏×スクウェア・エニックス吉田直樹氏が転職ゲーについて語り合ってみた【ファンタジーライフｉ発売記念特別対談】(Hiroyuki, Akihiro Hino de Level-5 et Naoki Yoshida de Square Enix parlent des jeux qui changent le monde du travail [Interview spéciale pour célébrer la sortie de Fantasy Life i]) → https://youtu.be/zAKdDS6N0SE (1 h 50 min)
+» 🇺🇸 [Automaton Media / 27 juin 2025] Fantasy Life i: The Girl Who Steals Time owes its success to critical game design changes made only 1 year before launch, Level-5 CEO says → https://cutt.ly/CrRVWXWR
+» 🇫🇷 [ActuGaming / 27 juin 2025] Fantasy Life i: La Voleuse de temps a été complétement repensé un an avant sa sortie → https://actugaming.net/a-735843
+» 🇫🇷 [Gamekult / 27 juin 2025] Figurez-vous que Fantasy Life i : la voleuse de temps avait une allure bien différente il y a encore un an → https://cutt.ly/1rRVNqnK
+
+
+» 🇯🇵 [Chimolog / 13 juin 2025] Nintendo Switch 2付属ディスプレイの「画質」をレビュー (Reviewing the "image quality" of the Nintendo Switch 2's included display) → https://chimolog.co/switch-2-panel/
+» ▶️ [YouTube / Monitors Unboxed / 24 juin 2025] How slow is the Nintendo Switch 2 display? → https://youtu.be/AB67B8LCorI (19 min)
+» 🇬🇧 [PC Gamer / 25 juin 2025] The Switch 2's super sluggish LCD screen is 10 times slower than a typical gaming monitor and 100 times slower than an OLED panel according to independent testing. Switch 2's IPS display probably isn't using overdrive → https://cutt.ly/irRVMwZL
+» 🇫🇷 [Gamekult / 27 juin 2025] L'écran de la Switch 2 est 100 fois plus lent qu'un écran OLED selon des tests → https://cutt.ly/vrRVNIAb
+
+» 🇺🇸 [Time Extension / 27 juin. 2025] This Buffy The Vampire Slayer Xbox exclusive helped shape God Of War and reboot Killer Instinct. "Jaffe... had everybody sit down and play Buffy" → https://cutt.ly/mrTU6eYw
+
+» 🇫🇷 [Gamekult / 27 juin 2025] Balatro s'incruste dans Dying Light 2, parce que personne n'échappe à Jimbo → https://cutt.ly/nrRVBCrY
+
+» 🇫🇷 [Gamekult / 27 juin 2025] Diablo Immortal touche de l'herbe et dévoile la classe du Druide → https://cutt.ly/GrRVBmCu
+
+» 🇺🇸 [Deadline / 26 juin. 2025] ‘Street Fighter’ movie at Legendary adds Andrew Schulz to cast → https://cutt.ly/1rTU44ZW
+» 🇺🇸 [Kotaku / 27 juin. 2025] Street Fighter movie casts anti-woke online personality as Dan. Podcaster and stand-up performer Andrew Schulz is joining the fighting game adaptation → https://kotaku.com/n-1851785220
+
+» 🇺🇸 [Kotaku / 27 juin. 2025] Magic: The Gathering’s Sonic crossover is running toward my wallet at the speed of sound. The latest Secret Lair drop brings the blue blur to the long-running card game → https://kotaku.com/n-1851785239
+
+» 🇺🇸 [Kotaku / 27 juin. 2025] Let’s talk about why some folks are really unhappy with the Switch 2’s screen. Are there actual problems with Nintendo’s new console, or are people just being too picky? → https://kotaku.com/n-1851785261
+
+» 🇫🇷 [Gamekult / 27 juin 2025] DAMON and BABY : le studio de Guilty Gear se lance dans les jeux d'action à petit budget → https://cutt.ly/drRVIa52
+
+» 🇫🇷 [Gamekult / 27 juin 2025] Inspiré par Contra et Metal Slug, Terminator 2D : No Fate montre son gameplay nerveux → https://cutt.ly/krRVU30y
+
+» 🇫🇷 [Gamekult / 27 juin 2025] Mario Smash Football débarque le mois prochain sur Nintendo Switch 2 → https://cutt.ly/GrRVUZrG
+
+» 🇺🇸 [The Game Business / 26 juin 2025] “We need our studios to believe they can grow again” – Ukie. This week, the UK games industry gets Government support, and we look at key June games, including MindsEye, FBC: Firebreak, Splitgate 2, Rematch, Dune Awakening and Peak → https://cutt.ly/YrRVUkUR
+» 🇫🇷 [Gamekult / 27 juin 2025] MindsEye : des estimations de ventes à l'image du désastre → https://cutt.ly/4rRVY5Xb
+
+» 🇫🇷 [Gamekult / 27 juin 2025] eFootball livre un mode rétro inspiré de la PS1, en hommage aux 30 ans de PES → https://cutt.ly/1rRVYBgW
+
+» 🇫🇷 [Gamekult / 27 juin 2025] inZOI retarde à nouveau le déploiement d'une de ses mises à jour → https://cutt.ly/arRVYI9I
+
+» 🇫🇷 [Gamekult / 28 juin 2025] Mario Kart 64 vient d'être porté sur PC par des fans, avec un éditeur de circuits → https://cutt.ly/zrRVYE0i
+
+» 🇫🇷 [Gamekult / 28 juin 2025] Batman Arkham : de nouvelles images du jeu annulé avec le fils de Bruce Wayne → https://cutt.ly/3rRVYjsF
+
+» 🇫🇷 [Gamekult / 28 juin 2025] Concord : une ancienne version non terminée du jeu se retrouve en ligne → https://cutt.ly/7rRVRPDS
+
+» 🇫🇷 [Gamekult / 28 juin 2025] Super Smash Bros. s'offre une ultime version moddée avec Crash Bandicoot et Sonic. Les fans n'ont aucune limite → https://cutt.ly/OrRVRg7H
+
+» 🇫🇷 [Gamekult / 28 juin 2025] Bubble Bobble Sugar Dungeons : la franchise historique se lance dans le roguelite. Ça va suer des bulles carrées → https://cutt.ly/arRVReRs
+
+
+
+» 🇫🇷 [ActuGaming / 30 juin 2025] Bandai Namco tiendra un Summer Showcase ce mercredi 2 juillet avec l’annonce d’un nouveau jeu My Hero Academia → https://actugaming.net/a-735919
+
+» 🇺🇸 [Kotaku / 30 juin. 2025] Assassin's Creed Black Flag voice actor teases previously reported remake. Evidence continues to mount that suggests Ubisoft is working on an improved version of the 2013 game → https://kotaku.com/n-1851785327
+» 🇫🇷 [ActuGaming / 30 juin 2025] La rumeur autour du remake d’Assassin’s Creed Black Flag est relancée par l’acteur derrière Edward Kenway → https://actugaming.net/a-735939
+
+» ▶️ [YouTube / Laura Fryer / 28 juin 2025] The Future of Xbox → https://youtu.be/lFG7YxFFCnY (13 min)
+» 🇬🇧 [VGC / 29 juin 2025] ‘I think Xbox hardware is dead’, says Microsoft gaming veteran. Founding member of the Xbox team questions Microsoft’s multiplatform games strategy → https://cutt.ly/RrTUQlGI
+» 🇫🇷 [ActuGaming / 30 juin 2025] Pour une ex-cadre Xbox, les consoles Xbox n’ont plus du tout d’avenir chez Microsoft → https://actugaming.net/a-735944
+
+» 🇺🇸 [Ace Combat / 30 juin 2025] To all the fans who continue to support the ACE COMBAT Series → https://cutt.ly/3rTUT6EK
+» 🇫🇷 [ActuGaming / 30 juin 2025] La saga Ace Combat fête ses 30 ans et se prépare pour l’avenir, un nouvel épisode bientôt annoncé ? → https://actugaming.net/a-735947
+
+» 🇫🇷 [ActuGaming / 30 juin 2025] Le MOBA Supervive va mettre fin à sa période d’accès anticipé et sortira en juillet → https://actugaming.net/a-735960
+
+» 🇺🇸 [Kotaku / 30 juin. 2025] Monster Hunter Wilds has three armor variants with subtle, but important differences. With three core options, which is best for your playstyle? → https://kotaku.com/n-1851785351
+
+» 🇫🇷 [ActuGaming / 30 juin 2025] Broken Ranks : The Other Side – Une mise à jour qui nous plonge du côté obscur dès le 1er juillet → https://actugaming.net/a-735989
+
+» 🇺🇸 [Time Extension / 30 juin 2025] 'Nearly complete' prototype of cancelled Animaniacs GBA game surfaces online. 'Animaniacs: Hollywood Hypnotics' was in development in the early 2000s → https://cutt.ly/TrTUX8b7
+
+» 🇫🇷 [ActuGaming / 30 juin 2025] Japan Expo 2025 : Programme, invités, prix, stands, jeux vidéo… Tout savoir sur l’événement → https://actugaming.net/a-735994
+
+» 🇺🇸 [Kotaku / 30 juin. 2025] This Pride Month, Overwatch 2 made good on a years-old promise. Three years in, Blizzard's Pride event feels more vital than ever → https://kotaku.com/n-1851785385
+
+» 🇫🇷 [ActuGaming / 30 juin 2025] The Rogue Prince of Persia devrait également sortir sur Switch, PlayStation 5 et Xbox Series → https://actugaming.net/a-736029
+
+» 🇫🇷 [ActuGaming / 1er juil. 2025] Split Fiction fait quelques sacrifices sur Switch 2 mais reste un monument de jeu coop → https://actugaming.net/a-735142
+
+» 🇺🇸 [Kotaku / 30 juin. 2025] Studio behind The Alters responds to generative AI allegations: 'This was never intended to be part of the final release'. The critically acclaimed sci-fi survival sim used AI for some in-game text and subtitle translations → https://kotaku.com/n-1851785372
+» 🇫🇷 [ActuGaming / 1er juil. 2025] Pris la main dans le sac, 11 bit studios reconnaît l’utilisation d’IA générative dans certains textes de The Alters → https://actugaming.net/a-736091
+
+» 🇯🇵 [IGN Japan / 26 juin 2025] 小島秀夫のゲームにこれまで日本人があまり登場してこなかった理由. 今後は日本を舞台にする可能性も？ (Pourquoi les Japonais n'apparaissent pas beaucoup dans les jeux de Hideo Kojima jusqu'à présent) → https://cutt.ly/wrTIXQ04
+» 🇫🇷 [Gamekult / 30 juin 2025] Death Stranding 2 : Hideo Kojima justifie l’absence d’acteurs japonais dans son casting → https://cutt.ly/jrTIZO36
+
+» 🇺🇸 [Bloomberg / 30 juin. 2025] Amazon misses out on Switch 2 sales after Nintendo pulled products from US site → https://cutt.ly/YrTUXsOx
+» 🇺🇸 [Kotaku / 30 juin. 2025] Nintendo and Amazon deny being in an ongoing Switch 2 feud. Metroid Prime 4 and other games aren't available from the online retailer → https://kotaku.com/n-1851785352
+
+» 🇺🇸 [Nintendo / 30 juin 2025] Nintendo Switch pricing update → https://cutt.ly/XrTUPvHd
+» 🇺🇸 [Kotaku / 30 juin. 2025] Original Switch getting mysterious 'price change' in Canada 8 years after launch as gaming gets more expensive. The Zelda: Breath of the Wild machine never got a price cut → https://kotaku.com/n-1851785360
+» 🇫🇷 [ActuGaming / 1er juil. 2025] La première Nintendo Switch pourrait voir son prix être augmenté au Canada dès cet été → https://actugaming.net/a-736096
+
+» 🇺🇸 [Kotaku / 30 juin. 2025] Halo's future will be revealed...in October, says Xbox. The rumored Halo: Combat Evolved remake might be announced later this year → https://kotaku.com/n-1851785384
+» 🇫🇷 [ActuGaming / 1er juil. 2025] La saga Halo devrait donner de ses nouvelles durant le mois d’octobre → https://actugaming.net/a-736099
+
+» 🇺🇸 [Time Extension / 30 juin. 2025] Evercade EXP-R and VS-R refreshed with a new NES-style colour scheme. "Available for the first time as just the hardware" → https://cutt.ly/ArTU5oyR
+
+» 🇺🇸 [Games Industry / 30 juin 2025] Metacritic co-founder Marc Doyle lifts the veil on how the site works. How are scores calculated? Who qualifies as a critic? And will Metacritic ever allow re-reviews? → https://cutt.ly/IrTII6s9
+
+
+» 🇫🇷 [ActuGaming / 1er juil. 2025] Electronic Arts tease le retour d’un jeu de sport dédié au basketball universitaire américain → https://actugaming.net/a-736100
+
+» 🇺🇸 [Kotaku / 1er juil. 2025] Two of the biggest names in video game acting star in a new psychological horror game. Ben Starr and Neil Newbon star in Dead Take, a new game from the Tales of Kenzera team → https://kotaku.com/n-1851785456
+» 🇫🇷 [ActuGaming / 1er juil. 2025] Dead Take, le jeu d’horreur des créateurs de Tales of Kenzera: ZAU intègrera du live action et présente son casting 5 étoiles → https://actugaming.net/a-736003
+
+» 🇫🇷 [ActuGaming / 1er juil. 2025] Warhammer 40,000 Space Marine 2 va sur sa deuxième année de contenus avec de nouveaux DLC payants et gratuits → https://actugaming.net/a-736123
+
+» 🇺🇸 [Kotaku / 1er juil. 2025] Nintendo finally confirms Mario Odyssey team is making Donkey Kong Bananza but still won't share any actual names. Nintendo's increasingly secretive approach to game credits is weird → https://kotaku.com/n-1851785403
+» 🇫🇷 [ActuGaming / 1er juil. 2025] Donkey Kong Bananza : le jeu est développé par l’équipe de Super Mario Odyssey, confirme Nintendo → https://actugaming.net/a-736125
+
+» 🇺🇸 [Gematsu / 1er juil. 2025] System Shock 2: 25th Anniversary Remaster for PS5, Xbox Series, PS4, Xbox One, and Switch launches July 10 → https://cutt.ly/FrTIOULK
+» 🇫🇷 [ActuGaming / 1er juil. 2025] Reportées à la dernière minute, les versions consoles du remaster de System Shock 2 sortiront le 10 juillet → https://actugaming.net/a-736142
+
+» 🇫🇷 [ActuGaming / 1er juil. 2025] WWE 2K25 nous fera passer par-dessus la troisième corde dès le 23 juillet sur Switch 2 → https://actugaming.net/a-736171
+
+» 🇫🇷 [ActuGaming / 1er juil. 2025] Marvel Rivals lancera sa saison 3 le 11 juillet avec Blade et Jean Grey version Phénix → https://actugaming.net/a-736175
+
+» 🇺🇸 [Kotaku / 1er juil. 2025] Let me tell you about the ‘Subway Slammer’ Persona fans love to hate. Persona 5: The Phantom X's first story arc is hilariously self-serious → https://kotaku.com/n-1851785428
+
+» 🇺🇸 [GamesMarkt / 1er juil. 2025] Ubisoft Hands Over Publishing to Hooded Horse. Ubisoft and the studio Unfrozen have entered into a partnership agreement with Hooded Horse. Although Ubisoft is one of the largest publishers worldwide, Hooded Horse will take over publishing for the French Major, but only for Heroes of Might and Magic: Olden Era. → https://cutt.ly/krTIPrQL
+
+» 🇫🇷 [ActuGaming / 1er juil. 2025] Full Metal Schoolgirl nous demandera de détruire une entreprise malveillante avec une jeune cyborg armée jusqu’aux dents → https://actugaming.net/a-736206
+
+» 🇺🇸 [Kotaku / 1er juil. 2025] Alan Wake devs not giving up on troubled online FPS. FBC: Firebreak hasn't set the world on fire, but Remedy isn't giving up on it → https://kotaku.com/n-1851785449
+
+» 🇺🇸 [Deadline / 1er juil. 2025] David Dastmalchian lands role of villain M. Bison in Legendary’s ‘Street Fighter’ → https://cutt.ly/YrTUF6B0
+» 🇫🇷 [ActuGaming / 1er juil. 2025] Le film Street Fighter continue d’agrandir son casting avec David Dastmalchian, qui jouera… M. Bison → https://actugaming.net/a-736220
+
+» 🇺🇸 [Game Developer / 1er juillet 2025] Former Unity senior client partner Rod Stafford jailed for 22 years over sexual offenses. Stafford represented the engine maker at a number of high-profile industry events such as Reboot Develop, DICE, and Develop: Brighton → https://cutt.ly/FrTISKOV
+
+» 🇺🇸 [Destructoid / 1er juil. 2025] Switch 2 appears to have sold 5 million consoles worldwide in a single month → https://cutt.ly/hrTIOx3B
+
+
+
+» 🇫🇷 [ActuGaming / 1er juil. 2025] 
+
+» 🇫🇷 [Gamekult / 30 juin 2025] 
 
 » 🇬🇧 [PC Gamer / 6 juin 2025] 
 
-» 🇺🇸 [Time Extension / 6 juin 2025] 
+» 🇺🇸 [Time Extension / 1er juil. 2025] 
 
-» 🇺🇸 [Kotaku / 6 juin 2025] 
+» 🇺🇸 [Kotaku / 1er juil. 2025] 
 
 
 
