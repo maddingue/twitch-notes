@@ -4577,17 +4577,95 @@ traduction :
 
 » 🇺🇸 [Destructoid / 1er juil. 2025] Switch 2 appears to have sold 5 million consoles worldwide in a single month → https://cutt.ly/hrTIOx3B
 
+» 🇫🇷 [Gamekult / 2 juil. 2025] Heroes of Might & Magic Olden Era : Hooded Horse (Manor Lords) à la rescousse d'Ubisoft sur l'édition → https://cutt.ly/3rTV5y8v
 
 
-» 🇫🇷 [ActuGaming / 1er juil. 2025] 
 
-» 🇫🇷 [Gamekult / 30 juin 2025] 
+» 🇺🇸 [Krafton / 2 juil. 2025] Krafton announces gaming industry veteran Steve Papoutsis as new CEO of Unknown Worlds → https://cutt.ly/GrTVgqUG
+» 🇫🇷 [ActuGaming / 2 juil. 2025] Avant son lancement en accès anticipé, Subnautica 2 perd ses trois dirigeants, remplacés à la volée par Krafton → https://actugaming.net/a-736276
+» 🇫🇷 [Gamekult / 2 juil. 2025] Subnautica 2 : le jeu perd ses créateurs historiques avant sa sortie. Les fondateurs du studio quittent le navire → https://cutt.ly/QrTV7OnN
+
+» 🇺🇸 [Tom's Guide / 1er juil. 2025] PS5 Pro is getting a big upgrade in 2026 — I asked Mark Cerny what’s coming, and why AMD’s future PC GPUs feel more 'PlayStation' than ever. Sony's Mark Cerny explains how AMD and Project Amethyst contributed to the PS5 Pro's impending 2026 upgrade → https://cutt.ly/NrTVn1CW
+» 🇫🇷 [ActuGaming / 2 juil. 2025] PS6 : Mark Cerny évoque son travail avec AMD, pour une nouvelle génération qui ne sortira pas avant quelques années → https://actugaming.net/a-736280
+
+» 🇫🇷 [ActuGaming / 2 juil. 2025] Granblue Fantasy Relink a dépassé les 2 millions d’exemplaires vendus en un peu plus d’un an → https://actugaming.net/a-736290
+
+» 🇫🇷 [ActuGaming / 2 juil. 2025] Remedy admet que le lancement de FBC: Firebreak n’est pas celui espéré mais promet de tenir le coup → https://actugaming.net/a-736329
+
+» 🇫🇷 [ActuGaming / 2 juil. 2025] Where Winds Meet prépare sa dernière bêta pour fin juillet avant l’arrivée de sa version occidentale → https://actugaming.net/a-736383
+
+» 🇫🇷 [ActuGaming / 2 juil. 2025] Le studio derrière Return to Moria voit son équipe être grandement réduite → https://actugaming.net/a-736438
+
+» 🇺🇸 [Ars Technica / 2 juil. 2025] What’s wrong with AAA games? The development of the next Battlefield has answers. EA insiders describe stress and setbacks in a project that's too big to fail → https://cutt.ly/WrTVjmfu
+» 🇫🇷 [ActuGaming / 2 juil. 2025] Le prochain Battlefield aurait un développement chaotique et des ambitions jamais vues → https://actugaming.net/a-736423
+» 🇫🇷 [Gamekult / 2 juil. 2025] Battlefield 6 : Electronic Arts veut atteindre 100 millions de joueurs. Coulisses d'une superproduction compliquée → https://cutt.ly/prTV8JSL
+
+» 🇫🇷 [Gamekult / 2 juil. 2025] Outriders 2 annulé : Square Enix a coupé les vivres du studio People Can Fly → https://cutt.ly/JrTV4ZuT
+
+» 🇺🇸 [Axios / 2 juil. 2025] G/O Media sells Kotaku to Gizmodo owner Keleops → https://cutt.ly/jrTVj6YJ
+
+» ▶️ [YouTube / Bandai Namco / 2 juil. 2025] Bandai Namco Summer Showcase 2025 → https://youtu.be/fSoTEO-ntF8?t=1533
+
+
+» 🇺🇸 [Bloomberg / 2 juil. 2025] Microsoft Microsoft cuts 9,000 workers in second wave of major layoffs → https://cutt.ly/WrTVzB6R
+» 🇺🇸 [Bloomberg / 2 juil. 2025] Microsoft makes deep job cuts across Xbox Division, cancels games. Hundreds of people were laid off as the company canceled upcoming games such as Perfect Dark and Everwild → https://cutt.ly/DrTVlFwg
+» 🇺🇸 [CNBC / 2 juil. 2025] Microsoft laying off about 9,000 employees in latest round of cuts → https://cutt.ly/SrTVbg64
+» 🇺🇸 [The Seattle Times / 2 juil. 2025] Microsoft to lay off about 9,000 employees in latest round → https://cutt.ly/4rTVCfn6
+» 🇺🇸 [Game File / 2 juil. 2025] Microsoft slashes workforce, as scores of game-makers and major games are cut. An extraordinary news day also saw the conviction of three former top Ubisoft leaders for workplace harassment, though they are unlikely to serve jail time → https://cutt.ly/trTVCKJv
+» 🇺🇸 [The Verge / 2 juil. 2025] Microsoft is laying off as many as 9,000 employees. Microsoft’s latest job cuts come after multiple rounds of layoffs over the past year → https://cutt.ly/HrTVVOQo
+» 🇺🇸 [Kotaku / 2 juil. 2025] Xbox hit with latest mass layoff including multiple game cancelations as Microsoft cuts 9,100 jobs. Call of Duty, Forza Motorsport, and other teams have been impacted → https://kotaku.com/n-1851785492
+» 🇺🇸 [Windows Central / 2 juil. 2025] Microsoft continues Xbox layoffs, with jobs cut at King, Turn 10, ZeniMax Media, and more — read Phil Spencer's note to staff. King and ZeniMax Media, two of the subsidiaries at Microsoft Gaming, are being hit with layoffs → https://cutt.ly/5rTVcEHP
+» 🇫🇷 [Frandroid / 2 juil. 2025] Microsoft en 2 ans : 28 000 personnes virées et 200 milliards de dollars de bénéfice → https://cutt.ly/urTVLLiA
+» 🇫🇷 [ActuGaming / 2 juil. 2025] Microsoft annonce une grosse vague de licenciements chez Xbox, notamment en Europe → https://actugaming.net/a-736347
+» 🇫🇷 [Gamekult / 2 juil. 2025] Licenciements chez Microsoft : plusieurs jeux annulés chez Xbox et Bethesda → https://cutt.ly/KrTV1j9L
+» 🇺🇸 [Game Developer / 2 jui. 2025] Microsoft says Xbox layoffs are being made to 'enhance our efficiency'. The latest wave of redundancies at the company will impact video game workers across a myriad of levels, teams, and geographies. → https://cutt.ly/5rTBwuEw
+» 🇺🇸 [Kotaku / 2 juil. 2025] Xbox Boss 'not retiring anytime soon,' Microsoft promises. The tech giant denies Phil Spencer resignation rumors amid mass layoffs → https://kotaku.com/n-1851785564
+
+» 🇬🇧 [VGC / 2 juil. 2025] Everwild has been cancelled as Xbox layoffs hit Rare. The original IP had been in development in some form for over a decade → https://cutt.ly/8rTVKC0i
+» 🇬🇧 [VGC / 2 juil. 2025] Banjo-Kazooie, Sea of Thieves director leaves Rare after 35 years, following Everwild cancellation. Influential designer Gregg Mayles will leave the company, according to sources → https://cutt.ly/5rTVXM5y
+» 🇺🇸 [Windows Central / 2 juil. 2025] Xbox is cancelling Rare's 'Everwild' and ZeniMax's new MMORPG IP as part of broader cuts — with 'Perfect Dark' impacted as well → https://cutt.ly/KrTVZTjx
+» 🇫🇷 [ActuGaming / 2 juil. 2025] Everwild, le jeu de Rare, aurait été annulé suite aux nouveaux licenciements chez Xbox → https://actugaming.net/a-736352
+» 🇫🇷 [ActuGaming / 2 juil. 2025] Xbox : chez Rare (Sea of Thieves), le projet Everwild annulé après 10 ans de développement → https://cutt.ly/rrTV33Eh
+
+» 🇬🇧 [VGC / 2 juil. 2025] Xbox has cancelled its Perfect Dark reboot and closed its developer. The Initiative will be closed as part of Microsoft layoffs → https://cutt.ly/srTVkx1m
+» 🇺🇸 [Windows Central / 2 juil. 2025] Microsoft is closing down Xbox studio The Initiative, with Perfect Dark killed as well — joining Everwild and ZeniMax's new IP, and other unannounced projects → https://cutt.ly/OrTVXTlW
+» 🇫🇷 [ActuGaming / 2 juil. 2025] Perfect Dark est annulé par Xbox, le studio The Initiative va fermer ses portes → 
+» 🇫🇷 [Gamekult / 2 juil. 2025] Microsoft annule le reboot de Perfect Dark et ferme le studio The Initiative → https://cutt.ly/4rTV1UU3
+
+» 🇬🇧 [VGC / 2 juil. 2025] ZeniMax Online Studios boss confirms departure amidst Xbox project cancellation. Matt Firor served almost 20 years at the Maryland-based developer → https://cutt.ly/7rTVLgBb
+» 🇫🇷 [ActuGaming / 2 juil. 2025] Le prochain MMO de ZeniMax Online Studios (The Elder Scrolls Online) est lui aussi annulé → https://actugaming.net/a-736380
+» 🇫🇷 [Gamekult / 2 juil. 2025] Microsoft annule le prochain MMO des créateurs de The Elder Scrolls Online. La nouvelle franchise était en préparation depuis 2018 → https://cutt.ly/vrTV2Bk1
+
+
+» 🇺🇸 [Mobile Gamer / 2 juil. 2025] Around 200 jobs to be cut at King, says Bloomberg → https://cutt.ly/MrTVXuuC
+» 🇺🇸 [Aftermath / 2 juil. 2025] Microsoft layoffs hit Blizzard, Warcraft Rumble put on life support. No new content for Warcraft Rumble as Blizzard departments like marketing and customer service are also impacted → https://cutt.ly/arTVVutD
+
+» 🇺🇸 [Games Industry / 26 juin 2024] How King is using AI to speed up development of new Candy Crush levels. The firm has made level iteration 50% faster as a result of its playtesting bot → https://cutt.ly/qrTVvees
+
+
+» 🇫🇷 [Libération / 2 juil. 2025] Harcèlement chez Ubisoft : trois anciens cadres condamnés, un signal fort envoyé. Tommy François, Serge Hascoët et Guillaume Patrux ont été condamnés à des peines allant jusqu’à trois ans de prison avec sursis pour harcèlement moral, sexuel et pour une tentative d’agression sexuelle par le tribunal correctionnel de Bobigny, mercredi 2 juillet → https://cutt.ly/UrTVhx8r
+» 🇫🇷 [France Info / 2 juil. 2025] Harcèlement chez Ubisoft : trois anciens cadres du studio de jeux vidéo condamnés à des peines allant jusqu'à trois ans de prison avec sursis. Ils étaient poursuivis pour harcèlement moral, harcèlement sexuel et pour une tentative d'agression sexuelle → https://cutt.ly/nrTVhAOv
+» 🇫🇷 [Le Monde / 2 juil. 2025] Harcèlement chez Ubisoft : trois anciens cadres condamnés à des peines allant jusqu’à trois ans de prison avec sursis. Le procès a mis en lumière une culture d’entreprise toxique chez Ubisoft, tandis que l’absence de poursuites contre la société et sa direction suscite l’indignation des parties civiles. → https://cutt.ly/frTVgEIJ
+» 🇫🇷 [ActuGaming / 2 juil. 2025] Ubisoft : Les peines pour harcèlement chez l’éditeur sont tombées pour trois anciens cadres → https://actugaming.net/a-736372
+» 🇫🇷 [Gamekult / 2 juil. 2025] Harcèlement à Ubisoft : trois anciens cadres condamnés, jusqu'à 3 ans de prison avec sursis. Mais ce n'est pas forcément la fin du feuilleton judiciaire → https://cutt.ly/zrTV8zon
+
+» 🇫🇷 [Gamekult / 2 juil. 2025] En souffrance, Techland annule deux jeux, dont son action-RPG de fantasy en monde ouvert. Le studio de Dying Light change de direction → https://cutt.ly/DrTVkFgI
+
+» 🇫🇷 [ActuGaming / 2 juil. 2025] My Hero Academia All’s Justice viendra conclure l’histoire d’Izuku dans un nouveau jeu de combat → https://actugaming.net/a-736489
+
+» 🇺🇸 [The Wall Street Journal / 2 juil. 2025] Goodbye fancy bar, hello at-home pizza party: young americans cut back. Mix of economic challenges drives decline in spending among Gen Z: ‘We feel rich drinking their free coffee’ → https://cutt.ly/3rTV6J2S
+» 🇺🇸 [Games Industry / 2 juil. 2025] Video games spending by young Americans is dropping sharply, report suggests. Year-over-year spending on games has declined almost 25% among 18-24 year-olds → https://cutt.ly/ZrTV6pJm
+
+
+» 🇫🇷 [ActuGaming / 2 juil. 2025] 
+
+» 🇫🇷 [Gamekult / 2 juil. 2025] 
 
 » 🇬🇧 [PC Gamer / 6 juin 2025] 
 
 » 🇺🇸 [Time Extension / 1er juil. 2025] 
 
-» 🇺🇸 [Kotaku / 1er juil. 2025] 
+» 🇺🇸 [Kotaku / 2 juil. 2025] 
 
 
 
