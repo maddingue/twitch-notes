@@ -3904,8 +3904,6 @@ traduction :
 
 » 🇫🇷 [ActuGaming / 19 mai 2025] Vindictus: Defying Fate, l’action-RPG de Nexon, annonce lancer son alpha test du 8 au 16 juin avec un nouveau trailer → https://actugaming.net/a-727495
 
-» 🇫🇷 [ActuGaming / 19 mai 2025] Selon Hideo Kojima, son futur jeu d’action-espionnage Physint n’arrivera pas avant 5 ou 6 ans → https://actugaming.net/a-727509
-
 » 🇺🇸 [The Game Post / 20 mai 2025] PlayStation’s new first-party studio wants artists with “expertise in using generative AI tools” like Midjourney, ChatGPT, and Stable Diffusion for its AAA game → https://cutt.ly/DrnLUqw6
 
 » 🇬🇧 [VGC / 21 mai 2025] Lies of P is getting difficulty options to make the Soulslike more accessible. The game will offer 3 levels of difficulty for the base game, and the expansion → https://cutt.ly/zrnLUjLo
@@ -4444,6 +4442,8 @@ traduction :
 
 » 🇫🇷 [ActuGaming / 27 juin 2025] Super Mario Strikers revient sur Switch 2 dans l’abonnement Nintendo Switch Online → https://actugaming.net/a-735774
 
+» 🇺🇸 [Business Insider / 27 juin] Microsoft pushes staff to use internal AI tools more, and may consider this in reviews. 'Using AI is no longer optional.' → https://cutt.ly/BrYGoXnO
+
 » 🇺🇸 [Game File / 26 juin 2025] EA CEO’s pay is up, as EA worker median income drops. Behold, the tallest chart in Game File history. PLUS: EA execs were paid (a little) more for boosting generative AI → https://cutt.ly/yrRVQnI9
 » 🇫🇷 [ActuGaming / 27 juin 2025] Pendant que le PDG d’Electronic Arts augmente ses gains, les revenus médians des employés sont en baisse → https://actugaming.net/a-735830
 
@@ -4472,8 +4472,6 @@ traduction :
 » 🇺🇸 [Kotaku / 27 juin. 2025] Let’s talk about why some folks are really unhappy with the Switch 2’s screen. Are there actual problems with Nintendo’s new console, or are people just being too picky? → https://kotaku.com/n-1851785261
 
 » 🇫🇷 [Gamekult / 27 juin 2025] DAMON and BABY : le studio de Guilty Gear se lance dans les jeux d'action à petit budget → https://cutt.ly/drRVIa52
-
-» 🇫🇷 [Gamekult / 27 juin 2025] Inspiré par Contra et Metal Slug, Terminator 2D : No Fate montre son gameplay nerveux → https://cutt.ly/krRVU30y
 
 » 🇫🇷 [Gamekult / 27 juin 2025] Mario Smash Football débarque le mois prochain sur Nintendo Switch 2 → https://cutt.ly/GrRVUZrG
 
@@ -4527,9 +4525,6 @@ traduction :
 » 🇺🇸 [Kotaku / 30 juin. 2025] Studio behind The Alters responds to generative AI allegations: 'This was never intended to be part of the final release'. The critically acclaimed sci-fi survival sim used AI for some in-game text and subtitle translations → https://kotaku.com/n-1851785372
 » 🇫🇷 [ActuGaming / 1er juil. 2025] Pris la main dans le sac, 11 bit studios reconnaît l’utilisation d’IA générative dans certains textes de The Alters → https://actugaming.net/a-736091
 
-» 🇯🇵 [IGN Japan / 26 juin 2025] 小島秀夫のゲームにこれまで日本人があまり登場してこなかった理由. 今後は日本を舞台にする可能性も？ (Pourquoi les Japonais n'apparaissent pas beaucoup dans les jeux de Hideo Kojima jusqu'à présent) → https://cutt.ly/wrTIXQ04
-» 🇫🇷 [Gamekult / 30 juin 2025] Death Stranding 2 : Hideo Kojima justifie l’absence d’acteurs japonais dans son casting → https://cutt.ly/jrTIZO36
-
 » 🇺🇸 [Bloomberg / 30 juin. 2025] Amazon misses out on Switch 2 sales after Nintendo pulled products from US site → https://cutt.ly/YrTUXsOx
 » 🇺🇸 [Kotaku / 30 juin. 2025] Nintendo and Amazon deny being in an ongoing Switch 2 feud. Metroid Prime 4 and other games aren't available from the online retailer → https://kotaku.com/n-1851785352
 
@@ -4549,11 +4544,6 @@ traduction :
 
 » 🇺🇸 [Kotaku / 1er juil. 2025] Two of the biggest names in video game acting star in a new psychological horror game. Ben Starr and Neil Newbon star in Dead Take, a new game from the Tales of Kenzera team → https://kotaku.com/n-1851785456
 » 🇫🇷 [ActuGaming / 1er juil. 2025] Dead Take, le jeu d’horreur des créateurs de Tales of Kenzera: ZAU intègrera du live action et présente son casting 5 étoiles → https://actugaming.net/a-736003
-
-» 🇫🇷 [ActuGaming / 1er juil. 2025] Warhammer 40,000 Space Marine 2 va sur sa deuxième année de contenus avec de nouveaux DLC payants et gratuits → https://actugaming.net/a-736123
-
-» 🇺🇸 [Kotaku / 1er juil. 2025] Nintendo finally confirms Mario Odyssey team is making Donkey Kong Bananza but still won't share any actual names. Nintendo's increasingly secretive approach to game credits is weird → https://kotaku.com/n-1851785403
-» 🇫🇷 [ActuGaming / 1er juil. 2025] Donkey Kong Bananza : le jeu est développé par l’équipe de Super Mario Odyssey, confirme Nintendo → https://actugaming.net/a-736125
 
 » 🇺🇸 [Gematsu / 1er juil. 2025] System Shock 2: 25th Anniversary Remaster for PS5, Xbox Series, PS4, Xbox One, and Switch launches July 10 → https://cutt.ly/FrTIOULK
 » 🇫🇷 [ActuGaming / 1er juil. 2025] Reportées à la dernière minute, les versions consoles du remaster de System Shock 2 sortiront le 10 juillet → https://actugaming.net/a-736142
@@ -4579,12 +4569,6 @@ traduction :
 
 » 🇫🇷 [Gamekult / 2 juil. 2025] Heroes of Might & Magic Olden Era : Hooded Horse (Manor Lords) à la rescousse d'Ubisoft sur l'édition → https://cutt.ly/3rTV5y8v
 
-
-
-» 🇺🇸 [Krafton / 2 juil. 2025] Krafton announces gaming industry veteran Steve Papoutsis as new CEO of Unknown Worlds → https://cutt.ly/GrTVgqUG
-» 🇫🇷 [ActuGaming / 2 juil. 2025] Avant son lancement en accès anticipé, Subnautica 2 perd ses trois dirigeants, remplacés à la volée par Krafton → https://actugaming.net/a-736276
-» 🇫🇷 [Gamekult / 2 juil. 2025] Subnautica 2 : le jeu perd ses créateurs historiques avant sa sortie. Les fondateurs du studio quittent le navire → https://cutt.ly/QrTV7OnN
-
 » 🇺🇸 [Tom's Guide / 1er juil. 2025] PS5 Pro is getting a big upgrade in 2026 — I asked Mark Cerny what’s coming, and why AMD’s future PC GPUs feel more 'PlayStation' than ever. Sony's Mark Cerny explains how AMD and Project Amethyst contributed to the PS5 Pro's impending 2026 upgrade → https://cutt.ly/NrTVn1CW
 » 🇫🇷 [ActuGaming / 2 juil. 2025] PS6 : Mark Cerny évoque son travail avec AMD, pour une nouvelle génération qui ne sortira pas avant quelques années → https://actugaming.net/a-736280
 
@@ -4607,63 +4591,129 @@ traduction :
 » ▶️ [YouTube / Bandai Namco / 2 juil. 2025] Bandai Namco Summer Showcase 2025 → https://youtu.be/fSoTEO-ntF8?t=1533
 
 
-» 🇺🇸 [Bloomberg / 2 juil. 2025] Microsoft Microsoft cuts 9,000 workers in second wave of major layoffs → https://cutt.ly/WrTVzB6R
-» 🇺🇸 [Bloomberg / 2 juil. 2025] Microsoft makes deep job cuts across Xbox Division, cancels games. Hundreds of people were laid off as the company canceled upcoming games such as Perfect Dark and Everwild → https://cutt.ly/DrTVlFwg
-» 🇺🇸 [CNBC / 2 juil. 2025] Microsoft laying off about 9,000 employees in latest round of cuts → https://cutt.ly/SrTVbg64
-» 🇺🇸 [The Seattle Times / 2 juil. 2025] Microsoft to lay off about 9,000 employees in latest round → https://cutt.ly/4rTVCfn6
-» 🇺🇸 [Game File / 2 juil. 2025] Microsoft slashes workforce, as scores of game-makers and major games are cut. An extraordinary news day also saw the conviction of three former top Ubisoft leaders for workplace harassment, though they are unlikely to serve jail time → https://cutt.ly/trTVCKJv
-» 🇺🇸 [The Verge / 2 juil. 2025] Microsoft is laying off as many as 9,000 employees. Microsoft’s latest job cuts come after multiple rounds of layoffs over the past year → https://cutt.ly/HrTVVOQo
-» 🇺🇸 [Kotaku / 2 juil. 2025] Xbox hit with latest mass layoff including multiple game cancelations as Microsoft cuts 9,100 jobs. Call of Duty, Forza Motorsport, and other teams have been impacted → https://kotaku.com/n-1851785492
-» 🇺🇸 [Windows Central / 2 juil. 2025] Microsoft continues Xbox layoffs, with jobs cut at King, Turn 10, ZeniMax Media, and more — read Phil Spencer's note to staff. King and ZeniMax Media, two of the subsidiaries at Microsoft Gaming, are being hit with layoffs → https://cutt.ly/5rTVcEHP
-» 🇫🇷 [Frandroid / 2 juil. 2025] Microsoft en 2 ans : 28 000 personnes virées et 200 milliards de dollars de bénéfice → https://cutt.ly/urTVLLiA
-» 🇫🇷 [ActuGaming / 2 juil. 2025] Microsoft annonce une grosse vague de licenciements chez Xbox, notamment en Europe → https://actugaming.net/a-736347
-» 🇫🇷 [Gamekult / 2 juil. 2025] Licenciements chez Microsoft : plusieurs jeux annulés chez Xbox et Bethesda → https://cutt.ly/KrTV1j9L
-» 🇺🇸 [Game Developer / 2 jui. 2025] Microsoft says Xbox layoffs are being made to 'enhance our efficiency'. The latest wave of redundancies at the company will impact video game workers across a myriad of levels, teams, and geographies. → https://cutt.ly/5rTBwuEw
+
 » 🇺🇸 [Kotaku / 2 juil. 2025] Xbox Boss 'not retiring anytime soon,' Microsoft promises. The tech giant denies Phil Spencer resignation rumors amid mass layoffs → https://kotaku.com/n-1851785564
+» 🇫🇷 [ActuGaming / 2 juil. 2025] Xbox dément les récentes rumeurs autour d’un départ programmé de Phil Spencer → https://actugaming.net/a-736497
 
-» 🇬🇧 [VGC / 2 juil. 2025] Everwild has been cancelled as Xbox layoffs hit Rare. The original IP had been in development in some form for over a decade → https://cutt.ly/8rTVKC0i
-» 🇬🇧 [VGC / 2 juil. 2025] Banjo-Kazooie, Sea of Thieves director leaves Rare after 35 years, following Everwild cancellation. Influential designer Gregg Mayles will leave the company, according to sources → https://cutt.ly/5rTVXM5y
-» 🇺🇸 [Windows Central / 2 juil. 2025] Xbox is cancelling Rare's 'Everwild' and ZeniMax's new MMORPG IP as part of broader cuts — with 'Perfect Dark' impacted as well → https://cutt.ly/KrTVZTjx
-» 🇫🇷 [ActuGaming / 2 juil. 2025] Everwild, le jeu de Rare, aurait été annulé suite aux nouveaux licenciements chez Xbox → https://actugaming.net/a-736352
-» 🇫🇷 [ActuGaming / 2 juil. 2025] Xbox : chez Rare (Sea of Thieves), le projet Everwild annulé après 10 ans de développement → https://cutt.ly/rrTV33Eh
-
-» 🇬🇧 [VGC / 2 juil. 2025] Xbox has cancelled its Perfect Dark reboot and closed its developer. The Initiative will be closed as part of Microsoft layoffs → https://cutt.ly/srTVkx1m
-» 🇺🇸 [Windows Central / 2 juil. 2025] Microsoft is closing down Xbox studio The Initiative, with Perfect Dark killed as well — joining Everwild and ZeniMax's new IP, and other unannounced projects → https://cutt.ly/OrTVXTlW
-» 🇫🇷 [ActuGaming / 2 juil. 2025] Perfect Dark est annulé par Xbox, le studio The Initiative va fermer ses portes → 
-» 🇫🇷 [Gamekult / 2 juil. 2025] Microsoft annule le reboot de Perfect Dark et ferme le studio The Initiative → https://cutt.ly/4rTV1UU3
-
-» 🇬🇧 [VGC / 2 juil. 2025] ZeniMax Online Studios boss confirms departure amidst Xbox project cancellation. Matt Firor served almost 20 years at the Maryland-based developer → https://cutt.ly/7rTVLgBb
-» 🇫🇷 [ActuGaming / 2 juil. 2025] Le prochain MMO de ZeniMax Online Studios (The Elder Scrolls Online) est lui aussi annulé → https://actugaming.net/a-736380
-» 🇫🇷 [Gamekult / 2 juil. 2025] Microsoft annule le prochain MMO des créateurs de The Elder Scrolls Online. La nouvelle franchise était en préparation depuis 2018 → https://cutt.ly/vrTV2Bk1
-
-
-» 🇺🇸 [Mobile Gamer / 2 juil. 2025] Around 200 jobs to be cut at King, says Bloomberg → https://cutt.ly/MrTVXuuC
-» 🇺🇸 [Aftermath / 2 juil. 2025] Microsoft layoffs hit Blizzard, Warcraft Rumble put on life support. No new content for Warcraft Rumble as Blizzard departments like marketing and customer service are also impacted → https://cutt.ly/arTVVutD
 
 » 🇺🇸 [Games Industry / 26 juin 2024] How King is using AI to speed up development of new Candy Crush levels. The firm has made level iteration 50% faster as a result of its playtesting bot → https://cutt.ly/qrTVvees
 
 
-» 🇫🇷 [Libération / 2 juil. 2025] Harcèlement chez Ubisoft : trois anciens cadres condamnés, un signal fort envoyé. Tommy François, Serge Hascoët et Guillaume Patrux ont été condamnés à des peines allant jusqu’à trois ans de prison avec sursis pour harcèlement moral, sexuel et pour une tentative d’agression sexuelle par le tribunal correctionnel de Bobigny, mercredi 2 juillet → https://cutt.ly/UrTVhx8r
-» 🇫🇷 [France Info / 2 juil. 2025] Harcèlement chez Ubisoft : trois anciens cadres du studio de jeux vidéo condamnés à des peines allant jusqu'à trois ans de prison avec sursis. Ils étaient poursuivis pour harcèlement moral, harcèlement sexuel et pour une tentative d'agression sexuelle → https://cutt.ly/nrTVhAOv
-» 🇫🇷 [Le Monde / 2 juil. 2025] Harcèlement chez Ubisoft : trois anciens cadres condamnés à des peines allant jusqu’à trois ans de prison avec sursis. Le procès a mis en lumière une culture d’entreprise toxique chez Ubisoft, tandis que l’absence de poursuites contre la société et sa direction suscite l’indignation des parties civiles. → https://cutt.ly/frTVgEIJ
-» 🇫🇷 [ActuGaming / 2 juil. 2025] Ubisoft : Les peines pour harcèlement chez l’éditeur sont tombées pour trois anciens cadres → https://actugaming.net/a-736372
-» 🇫🇷 [Gamekult / 2 juil. 2025] Harcèlement à Ubisoft : trois anciens cadres condamnés, jusqu'à 3 ans de prison avec sursis. Mais ce n'est pas forcément la fin du feuilleton judiciaire → https://cutt.ly/zrTV8zon
-
+» 🇵🇱 [Puls Biznesu / 2 juil. 2025] Techland z potężną stratą za 2024 r. Jeden z największych krajowych producentów gier, który w 2023 r. trafił pod skrzydła chińskiego Tencentu, zakończył ubiegły rok ze 135 mln zł straty. To pokłosie decyzji o zaniechaniu dalszych prac nad dwoma projektami → https://pb.pl/r-1244492
 » 🇫🇷 [Gamekult / 2 juil. 2025] En souffrance, Techland annule deux jeux, dont son action-RPG de fantasy en monde ouvert. Le studio de Dying Light change de direction → https://cutt.ly/DrTVkFgI
+» 🇫🇷 [ActuGaming / 3 juil. 2025] Techland, qui développe les jeux Dying Light, annule deux de ses projets → https://actugaming.net/a-736501
 
 » 🇫🇷 [ActuGaming / 2 juil. 2025] My Hero Academia All’s Justice viendra conclure l’histoire d’Izuku dans un nouveau jeu de combat → https://actugaming.net/a-736489
 
 » 🇺🇸 [The Wall Street Journal / 2 juil. 2025] Goodbye fancy bar, hello at-home pizza party: young americans cut back. Mix of economic challenges drives decline in spending among Gen Z: ‘We feel rich drinking their free coffee’ → https://cutt.ly/3rTV6J2S
 » 🇺🇸 [Games Industry / 2 juil. 2025] Video games spending by young Americans is dropping sharply, report suggests. Year-over-year spending on games has declined almost 25% among 18-24 year-olds → https://cutt.ly/ZrTV6pJm
+» 🇫🇷 [Gamekult / 6 juil. 2025] Aux USA, les jeunes ne peuvent plus dépenser autant dans le jeu vidéo. Des chiffres qui parlent d'eux-mêmes → https://cutt.ly/GrYGtuT3
+
+» 🇺🇸 [Windows Central / 2 juil. 2025] I made 21 tweaks in Windows 11 to increase gaming performance — and they worked. Increase PC gaming performance on Windows 11 with these system tweaks and optimization features → https://cutt.ly/ZrYGkfq2
 
 
-» 🇫🇷 [ActuGaming / 2 juil. 2025] 
+» 🇫🇷 [ActuGaming / 3 juil. 2025] Neil Druckmann s’éloigne de la série TV The Last of Us pour se consacrer aux projets de Naughty Dog → https://actugaming.net/a-736498
 
-» 🇫🇷 [Gamekult / 2 juil. 2025] 
+» 🇫🇷 [ActuGaming / 3 juil. 2025] Dragon Ball Z: Kakarot – Le DLC centré sur Dragon Ball Daima dévoile de nouvelles images de gameplay → https://actugaming.net/a-736496
 
-» 🇬🇧 [PC Gamer / 6 juin 2025] 
+» 🇫🇷 [ActuGaming / 3 juil. 2025] Digimon Story Time Stranger fait le plein d’infos et de gameplay → https://actugaming.net/a-736510
 
-» 🇺🇸 [Time Extension / 1er juil. 2025] 
+» ▶️ [YouTube / Xbox / 3 juil. 2025] Helldivers 2 - Deploying on Xbox → https://youtu.be/QmoO17UZE48 (1 min)
+» 🇫🇷 [ActuGaming / 3 juil. 2025] Helldivers II sortira aussi sur Xbox Series, le portage est prévu pour la fin du mois d’août → https://actugaming.net/a-736587
+
+» 🇫🇷 [ActuGaming / 3 juil. 2025] Sonic x Shadow Generations : Notre avis sur la version Nintendo Switch 2 de ce concentré de hérisson bleu signé SEGA → https://actugaming.net/a-734580
+
+» 🇺🇸 [IGN / 3 juil. 2025] MindsEye dev's UK workforce of around 300 receive at-risk emails as former GTA lead Leslie Benzies finally addresses staff. Plans to relaunch the game → https://cutt.ly/qrT6Qjwd
+» 🇫🇷 [IGN France / 3 juil. 2025] Les 300 employés britanniques du studio Build A Rocket Boy sont menacés de licenciements suite au lancement désastreux de MindEye. Pendant ce temps, l'ancien directeur de GTA, Leslie Benzies, s'est enfin adressé au personnel et prévoit de relancer le jeu → https://cutt.ly/2rT6QCRf
+» 🇺🇸 [Kotaku / 3 juil. 2025] Ex-GTA producer reportedly blames MindsEye flopping on 'saboteurs' and promises a relaunch. Leslie Benzies isn't the first higher-up connected to the failed game to make these claims → https://kotaku.com/n-1851785617
+» 🇫🇷 [ActuGaming / 3 juil. 2025] Leslie Benzies a l’espoir de relancer MindsEye tout en pensant qu’il y a eu des « saboteurs » en interne et en externe → https://actugaming.net/a-736597
+
+» 🇺🇸 [Game Developer / 3 juil. 2025] 2K mobile studio Cat Daddy Games is making layoffs. The company is best known for working on mobile titles such as NBA 2K Mobile and NFL 2K Playmakers. → https://cutt.ly/frT6LWhn
+
+» 🇺🇸 [Game Developer / 3 juil. 2025] Unity promises strong AI copyright 'guardrails' after employee conjures Mickey Mouse on stream. Unity says it's building a better copyright mousetrap. → https://cutt.ly/JrT6Zwqw
+
+» 🇺🇸 [Aftermath / 2 juil. 2025] Has Xbox considered laying one person off instead of thousands. None of the people being laid off were responsible for the decisions that have led to these layoffs → https://cutt.ly/crT6BI6n
+
+» 🇺🇸 [Seattle Times / 4 juil. 2025] Microsoft to lay off about 9,000 employees in latest round → https://cutt.ly/jrYGfvB6
+
+» 🇺🇸 [Polygon / 3 juil. 2025] Microsoft has never been good at running game studios, which is a problem when it owns them all. The latest Xbox layoffs are about a long history of mismanagement as much as recent overexpansion → https://cutt.ly/zrYGaDUu
+
+» 🇺🇸 [Windows Central / 3 juil. 2025] Why Microsoft's enshittification of Xbox, Surface, and even Windows itself — are all by design. With Microsoft CEO Satya Nadella and CFO Amy Hood placing unrealistic expectations on Xbox, Windows, and others — the damage is becoming increasingly untenable → https://cutt.ly/yrYGk2LY
+
+» 🇺🇸 [Time Extension / 3 juil. 2025] Treasure trove of roughly 300 undumped GBA, DS, DSi and 3DS beta carts is at risk. New fundraiser aims to raise 61k to save these games → https://cutt.ly/nrYGf37Z
+
+» 🇬🇧 [PC Gamer / 3 juil. 2025] 20 foolproof ways to get laid off in the videogame industry. Tired of making games? Just use one of these simple tricks! → https://cutt.ly/lrYGgvWc
+
+» 🇺🇸 [Games Industry / 3 juil. 2025] Microsoft's darkest day in gaming since the last one. The latest round of job cuts smacks of a disordered retreat → https://cutt.ly/urYGsefU
+
+» 🇺🇸 [Kotaku / 3 juil. 2025] Xbox invites developers to AI roundtable the same day it does mass layoffs. Microsoft is asking for feedback at Gamescom 2025 on using AI to make development more efficient → https://kotaku.com/n-1851785609
+» 🇫🇷 [ActuGaming / 4 juil. 2025] En plein milieu des licenciements, Xbox fait la promotion de l’IA générative → https://actugaming.net/a-736642
+
+» 🇺🇸 [Time Extension / 3 juil. 2025] Super Pocket Neo Geo Edition - unlike SNK's original, this handheld won't break the bank. The future is now (in your hand) → https://cutt.ly/JrYqwCtL
+
+» 🇺🇸 [IGN / 4 juil. 2025] Perfect Dark developer says eye-catching 2024 gameplay demo 'had some fakery but quite a lot of it was legit'. "We were rapidly making real design decisions so as to not knowingly lie to players." → https://cutt.ly/OrYGsMUm
+» 🇬🇧 [PC Gamer / 4 juil. 2025] In the wake of Perfect Dark's cancellation, Joanna Dark's voice actor urges fans to help save the series: 'Agent Dark doesn’t give up and neither should any of you'. Alix Wilton Regan told fans to 'speak up if you wanna see Perfect Dark survive.' → https://cutt.ly/qrYGg3mG
+
+» 🇺🇸 [Gameranx / 4 juil. 2025] Reumor: MS is not replacing developers with AI – they’re firing them to pay for their AI investment. If this claim is correct, it means no game could have been good or successful enough. → https://cutt.ly/zrYGdGxn
+
+» 🇫🇷 [ActuGaming / 4 juil. 2025] Crystal Dynamics en « difficulté » sur le prochain Tomb Raider ? Lara Croft apparaît dans un nouveau jeu… mais toujours pas le sien ! → https://actugaming.net/a-736614
+
+» 🇫🇷 [ActuGaming / 4 juil. 2025] Anthem se prépare à tirer sa révérence, le jeu de BioWare coupera ses serveurs début 2026 → https://actugaming.net/a-736628
+
+» 🇫🇷 [ActuGaming / 4 juil. 2025] Destiny: Rising, le spin-off mobile de la saga de Bungie, sera lancé en free-to-play fin août → https://actugaming.net/a-736631
+
+» 🇫🇷 [ActuGaming / 4 juil. 2025] Capcom annonce Resident Evil: Survival Unit, un nouveau de stratégie qui arrivera sur mobiles → https://actugaming.net/a-736636
+
+» 🇫🇷 [ActuGaming / 4 juil. 2025] Zenless Zone Zero : Voici tout ce qu’il faut savoir sur la mise à jour 2.1 (Yuzuha, Alice, nouveaux costumes…) → https://actugaming.net/a-736647
+
+» 🇫🇷 [ActuGaming / 4 juil. 2025] Xbox : Jeux annulés, studios touchés, licenciements, incertitudes… Voici un bilan de la restructuration lancée par Microsoft → https://actugaming.net/a-736676
+
+» 🇬🇧 [PC Gamer / 4 juil. 2025] CWA union derides Microsoft layoffs when ‘the company is prospering’: 'We are living through a moment of profound corporate consolidation and disruption'. The media union once touted a positive relationship with Microsoft, but wave after wave of layoffs has changed its tune. → https://cutt.ly/hrYGpY3t
+
+» 🇺🇸 [Windows Central / 4 juil. 2025] Hideo Kojima's "OD" is still in development with Xbox, at least for today. Microsoft has culled many second-party publishing projects at Xbox, but OD isn't one of them → https://cutt.ly/MrYGoRXK
+» 🇫🇷 [Gamekult / 4 juil. 2025] OD : visiblement, le projet de Kojima pour Xbox n'est pas impacté par les coupes → https://cutt.ly/grYGoeEl
+
+» 🇬🇧 [Eurogamer / 4 juil. 2025] Dying Light studio Techland cancels two in-development games, clarifies no staff reductions → https://cutt.ly/frYGi3y1
+» 🇫🇷 [Gamekult / 4 juil. 2025] Malgré les annulations, pas de licenciements chez Techland (Dying Light) → https://cutt.ly/yrYGiVcG
+
+» ▶️ [YouTube / VGC / 4 juil. 2025] Perfect Dark cancelled during Xbox's worst week ever → https://youtu.be/qitFuPQ_2SU (1 h 23 min)
+» 🇫🇷 [Gamekult / 4 juil. 2025] Xbox voudrait ressusciter la franchise Banjo-Kazooie... mais pas chez Rare (Sea of Thieves) → https://cutt.ly/GrYGiE1r
+
+» ▶️ [YouTube / Canadian Guy Eh / 1er juil. 2025] Crash Team Racing director talks PC port and 10 million Sales → https://youtu.be/ECUqQIBup5s (8 min)
+» 🇫🇷 [Gamekult / 5 juil. 2025] Crash Team Racing n'est jamais sorti sur PC à cause des tricheurs et de Call of Duty → https://cutt.ly/QrYGum3B
+
+» 🇫🇷 [Gamekult / 5 juil. 2025] CD Projekt annonce Cyberpunk : Edgerunners 2 → https://cutt.ly/orYGuzk2
+
+» 🇺🇸 [Automaton Media / 5 juil. 2025] Pokémon TCG Pocket dev requires staff to make “AI prototypes” for every project proposal. DeNA, the developer behind Pokémon TCG Pocket, announced that their staff is required to make AI-assisted prototypes for all their projects → https://cutt.ly/vrYGzuFQ
+
+
+» 🇫🇷 [Frandroid / 5 juil. 2025] « Tout a changé » : comment Microsoft s’est égaré en seulement trois ans. Comment une entreprise peut-elle perdre sa réputation d’être un excellent lieu de travail en seulement trois ans ? L’arrivée de l’intelligence artificielle et la sortie du Covid ont transformé Microsoft. → https://cutt.ly/KrYGkUSb
+
+» 🇺🇸 [Windows Central / 5 juil. 2025] Just days after joining Game Pass, the Xbox PC edition of Call of Duty: WW2 is taken offline for "an issue". In what might be the understatementiest understatement ever, Call of Duty finally acknowledges issues for the PC version of Sledgehammer Games' COD: WWII. → https://cutt.ly/frYGjMFT
+
+» 🇺🇸 [MP1st / 5 juil. 2025] EA Japan president calls out Microsoft for chasing short-term results amid mass layoffs → https://cutt.ly/trYGxwcd
+
+» 🇬🇧 [VGC / 3 juil. 2025] Romero Games now ‘completely closed’ following Microsoft cuts, it’s claimed. The studio’s over 100 staff have lost their jobs, according to an employee → https://cutt.ly/orYGjc2L
+
+» 🇺🇸 [Retro hangover / 3 nov. 2024] Episode 298 — Interview with Victor Ireland → https://cutt.ly/OrYGuycg
+» 🇫🇷 [Gamekult / 6 juil. 2025] Dans les années 90, Sega voulait que certains de ses RPG échouent en occident. Phantasy Star IV en est la preuve → https://cutt.ly/irYGyleX
+
+» 🇫🇷 [Gamekult / 6 juil. 2025] Xbox ne connaît plus sa propre identité, selon l'ancien boss de Blizzard → https://cutt.ly/jrYGtxDJ
+
+» 🇬🇧 [PC Gamer / 6 juin 2025] The game that would become Deus Ex originally starred Jake Shooter, supercop → https://cutt.ly/SrYGrNnb
+» 🇫🇷 [Gamekult / 6 juil. 2025] Deus Ex est né de l'overdose des clichés du jeu vidéo dans les années 90 → https://cutt.ly/VrYGrWKF
+
+» 🇺🇸 [The Game Business / 1er juil. 2025] “Reviving Sega will be the greatest achievement in my career”. Sega president Shuji Utsumi on a resurgent Japan, the risks of nostalgia and why he believes in consoles → https://cutt.ly/UrYGrlvV
+» 🇫🇷 [Gamekult / 6 juil. 2025] Oui, un film Crash Bandicoot a été recalé par Hollywood. Pour éviter le crash, sans doute → https://cutt.ly/JrYGe8Uy
+
+
+» 🇫🇷 [ActuGaming / 6 juil. 2025] 
+
+» 🇫🇷 [Gamekult / 6 juil. 2025] 
+
+» 🇬🇧 [PC Gamer / 6 juil. 2025] 
+
+» 🇺🇸 [Time Extension / 3 juil. 2025] 
 
 » 🇺🇸 [Kotaku / 2 juil. 2025] 
 
