@@ -64,7 +64,7 @@
 
 » 🇬🇧 [PC Gamer / 30 oct. 2024] Microsoft closin Arkane Austin was a 'dumb move', says founder and former president. "It's obvious that Arkane Austin was a very special group of people that have made some cool things and that could pull it off again." → https://cutt.ly/keF34MOf
 » 🇫🇷 [ActuGaming / 31 oct. 2024] Arkane Austin (Redfall, Prey) : Fermer le studio n’était pas « une bonne décision » selon son fondateur Raphaël Colantonio → https://actugaming.net/a-681991
-» 🇫🇷 [Gamekult / 1er nov. 20242] Arkane Austin : le co-fondateur Raphaël Colantonio tacle Microsoft → https://cutt.ly/KeF34JXf
+» 🇫🇷 [Gamekult / 1er nov. 2024] Arkane Austin : le co-fondateur Raphaël Colantonio tacle Microsoft → https://cutt.ly/KeF34JXf
 
 
 » 🇺🇸 [Game Developer / 30 oct. 2024] Nightingale dev Inflexion Games lays off staff as UK office shuts down. Inflexion's UK staff previously indicated the studio's office was being closed, and CEO Aaryn Flynn said the Canada team will also undergo restructuring → https://cutt.ly/qeF3JQfZ
@@ -4653,6 +4653,7 @@ traduction :
 
 » 🇺🇸 [IGN / 4 juil. 2025] Perfect Dark developer says eye-catching 2024 gameplay demo 'had some fakery but quite a lot of it was legit'. "We were rapidly making real design decisions so as to not knowingly lie to players." → https://cutt.ly/OrYGsMUm
 » 🇬🇧 [PC Gamer / 4 juil. 2025] In the wake of Perfect Dark's cancellation, Joanna Dark's voice actor urges fans to help save the series: 'Agent Dark doesn’t give up and neither should any of you'. Alix Wilton Regan told fans to 'speak up if you wanna see Perfect Dark survive.' → https://cutt.ly/qrYGg3mG
+» 🇫🇷 [Gamekult / 7 juil. 2025] Perfect Dark annulé : l'actrice de Joanna Dark veut sauver le jeu malgré Microsoft → https://cutt.ly/DrY8l0LC
 
 » 🇺🇸 [Gameranx / 4 juil. 2025] Reumor: MS is not replacing developers with AI – they’re firing them to pay for their AI investment. If this claim is correct, it means no game could have been good or successful enough. → https://cutt.ly/zrYGdGxn
 
@@ -4676,6 +4677,9 @@ traduction :
 » 🇬🇧 [Eurogamer / 4 juil. 2025] Dying Light studio Techland cancels two in-development games, clarifies no staff reductions → https://cutt.ly/frYGi3y1
 » 🇫🇷 [Gamekult / 4 juil. 2025] Malgré les annulations, pas de licenciements chez Techland (Dying Light) → https://cutt.ly/yrYGiVcG
 
+» 🇫🇷 [Canard PC / 4 juil. 2025] En immersion dans Roblox. À quoi vous jouez, les djeuns ? → https://cutt.ly/zrY3MDfm
+
+
 » ▶️ [YouTube / VGC / 4 juil. 2025] Perfect Dark cancelled during Xbox's worst week ever → https://youtu.be/qitFuPQ_2SU (1 h 23 min)
 » 🇫🇷 [Gamekult / 4 juil. 2025] Xbox voudrait ressusciter la franchise Banjo-Kazooie... mais pas chez Rare (Sea of Thieves) → https://cutt.ly/GrYGiE1r
 
@@ -4683,6 +4687,7 @@ traduction :
 » 🇫🇷 [Gamekult / 5 juil. 2025] Crash Team Racing n'est jamais sorti sur PC à cause des tricheurs et de Call of Duty → https://cutt.ly/QrYGum3B
 
 » 🇫🇷 [Gamekult / 5 juil. 2025] CD Projekt annonce Cyberpunk : Edgerunners 2 → https://cutt.ly/orYGuzk2
+» 🇫🇷 [ActuGaming / 7 juil. 2025] La série Cyberpunk Edgerunners aura bien droit à une saison 2, avec un tout nouveau casting → https://actugaming.net/a-736754
 
 » 🇺🇸 [Automaton Media / 5 juil. 2025] Pokémon TCG Pocket dev requires staff to make “AI prototypes” for every project proposal. DeNA, the developer behind Pokémon TCG Pocket, announced that their staff is required to make AI-assisted prototypes for all their projects → https://cutt.ly/vrYGzuFQ
 
@@ -4707,15 +4712,91 @@ traduction :
 » 🇫🇷 [Gamekult / 6 juil. 2025] Oui, un film Crash Bandicoot a été recalé par Hollywood. Pour éviter le crash, sans doute → https://cutt.ly/JrYGe8Uy
 
 
-» 🇫🇷 [ActuGaming / 6 juil. 2025] 
+» 𝕏 [X / Rafaël Colantonio / 5 juiL. 2025] 🧵 https://xcancel.com/rafcolantonio/status/1941512826687980019
+> I think Gamepass is an unsustainable model that has been increasingly damaging the industry for a decade, subsidized by MS’s “infinite money”, but at some point reality has to hit. I don’t think GP can co-exist with other models, they’ll either kill everyone else, or give up.
+» 🇺🇸 [Polygon / 7 juil. 2025] Developer’s Game Pass critique has set off a firestorm. Game Pass is a great deal for Xbox and PC gamers, but the cost for the gaming industry as a whole is incalculable → https://polygon.com/news/611261/n
+» 🇫🇷 [Gamekult / 7 juil. 2025] Selon Raphaël Colantonio (ex-Arkane Studios), le Game Pass est "un modèle insoutenable" → https://cutt.ly/TrY8zNGN
+» 🇫🇷 [ActuGaming / 7 juil. 2025] Après les licenciements chez Xbox, la viabilité du Xbox Game Pass est à nouveau remise en question → https://actugaming.net/a-736785
 
-» 🇫🇷 [Gamekult / 6 juil. 2025] 
+» 🇺🇸 [VGChartz / 7 juil. 2025] Microsoft says 'Game Pass is profitable' claims does not include first-party costs → https://cutt.ly/UrY8qLeN
 
-» 🇬🇧 [PC Gamer / 6 juil. 2025] 
+» 🇫🇷 [Xboxygen / 7 juil. 2025] Sourires et discours inspirants avant 2000 licenciements : un ex-employé de Blizzard tacle Xbox → https://cutt.ly/XrY8o2EX
 
-» 🇺🇸 [Time Extension / 3 juil. 2025] 
 
-» 🇺🇸 [Kotaku / 2 juil. 2025] 
+» 🦋 [BlueSky / Romero Games] We want to address recent reports regarding the status of Romero Games → https://bsky.app/profile/romerogames.bsky.social/post/3ltfjxsyavs23
+» 🇬🇧 [PC Gamer / 7 juil. 2025] Romero Games reportedly met with Microsoft just a day before the publisher pulled funding for the studio, and there was 'no mention' of the decision that put over 100 people out of work. Romero Games is pursuing alternate sources of funding, but for the time being, it sounds like the dream is dead. → https://cutt.ly/RrY8ugkG
+» 🇺🇸 [Kotaku / 7 juil. 2025] Romero Games says it’s not dead, but looking for a new publisher after Xbox layoffs. The company is exploring options after Microsoft pulled its funding → https://kotaku.com/n-1851785765
+
+» 🇺🇸 [TheGamer / 7 juil. 2025] Xbox was in trouble the second it started painting Phil Spencer as its saviour → https://cutt.ly/hrY30HDJ
+
+» 🇺🇸 [Kotaku / 7 juil. 2025] Xbox failed at the most important part: games. It's not hard to figure out where Microsoft went wrong → https://kotaku.com/n-1851785732
+
+» 🇬🇧 [PC Gamer / 7 juil. 2025] After conquering ChatGPT, Atari 2600 Video Chess destroys Microsoft Copilot: 'The vintage silicon mastermind bested me fair and square' → https://cutt.ly/7rY345wO
+
+
+» 🇬🇧 [PC Gamer / 7 juil. 2025] Chinese FMV game about getting 'revenge on gold diggers' plunges the country into online gender tumult. Pretty much like we do on the anglophone internet all the time → https://cutt.ly/drY8wqCi
+
+
+» 🇺🇸 [ChosunBiz EN / 24 juin 2025] Neople union launches first gaming industry strike amid salary disputes in Korea → https://cutt.ly/ZrY8ueUy
+» 🇺🇸 [Automaton Media / 8 juil. 2025] Developers of multibillion-dollar game Dungeon Fighter Online go on strike, accuse company of slashing bonuses despite record-high revenue. The labor union of Neople - developer of Dungeon Fighter Online and First Berseker: Khazan has been on strike since June 26. → https://cutt.ly/drY8yJSP
+
+» 🇺🇸 [Automaton Media / 8 juil. 2025] Why does Umamusume: Pretty Derby have specific rules against sexual or violent fanart? A look into Cygames' guidelines for Uma Musume: Pretty Derby fanart and why it's important for the game's survival. → https://cutt.ly/XrY3CNsL
+
+» 🇬🇧 [PC Gamer / 7 juil. 2025] Death Stranding 2 players reach "breaking point for hating signs" as devious porters place speed boosts in inconvenient places: "I ran over a quokka because of one of those signs... I was devastated". The logical next step for Dark Souls-style trolling → https://cutt.ly/rrY8pVIY
+
+» 🇺🇸 [Reddit / r/subnautice / 5 juil. 2025] What is a wave but a thousand drops? → https://cutt.ly/mrY8ssMv
+» 🇺🇸 [Rock paper Shotgun / 7 juil. 2025] Subnautica 2 is "ready" for early access says co-founder ousted from studio, but the publishers seem to disagree. It "stings" to have it taken away, he says → https://cutt.ly/wrY8asOh
+» 🇬🇧 [PC Gamer / 7 juil. 2025] Ousted Subnautica studio co-founder says it was a 'shock' to get fired, Subnautica 2 is 'ready' for early access release, and no longer working 'at the company I started stings'. Sounds utterly brutal. → https://cutt.ly/erY8aETt
+» 🇺🇸 [Kotaku / 7 juil. 2025] Subnautica director breaks silence on being removed from the studio before the sequel's release: 'the game is ready' → https://kotaku.com/n-1851785764
+
+» ▶️ [YouTube / Square Enix / 3 juil. 2025] Final Fantasy IX 25th Anniversary Special Movie → https://youtu.be/oFDDlEaUXxw
+» 🇫🇷 [ActuGaming / 7 juil. 2025] Square Enix publie une vidéo commémorative de Final Fantasy IX pour les 25 ans du jeu, sans parler d’un remake → https://actugaming.net/a-736775
+
+» ▶️ [YouTube / IGN / 7 juil. 2025] Mafia: The Old Country – 9 minutes of exclusive gameplay → https://youtu.be/c9sqrkte-QQ
+» 🇫🇷 [ActuGaming / 7 juil. 2025] Un mois avant sa sortie, Mafia: The Old Country se dévoile avec 9 minutes de gameplay → https://actugaming.net/a-736790
+
+» 🇺🇸 [WCCF Tech / 4 juil. 2025] Nintendo Switch 2 Q&A with Virtuos: ‘I think we will see it surpass the predecessor' → https://cutt.ly/mrY8hndD
+» 🇫🇷 [ActuGaming / 7 juil. 2025] Réaliser des portages de jeux Xbox Series S sur Switch 2 serait facile selon le studio Virtuos → https://actugaming.net/a-736794
+» 🇫🇷 [Gamekult / 7 juil. 2025] "Les jeux qui tournent à 60 FPS sur Xbox Series S" seraient simples à porter sur Switch 2 → https://cutt.ly/5rY8zFbP
+
+» 🇫🇷 [ActuGaming / 7 juil. 2025] Square Enix investit dans BetaDwarf, le studio derrière l’action-RPG Vaultbreakers → https://actugaming.net/a-736813
+
+» 🇫🇷 [Gamekult / 7 juil. 2025] Stop Killing Games : sans surprise, les gros éditeurs s'élèvent contre la pétition → https://cutt.ly/QrY8xdjP
+» 🇫🇷 [ActuGaming / 7 juil. 2025] Stop Killing Games : Selon un lobby regroupant plusieurs éditeurs, les demandes du mouvement sont trop couteuses → https://actugaming.net/a-736807
+» 🇺🇸 [Kotaku / 7 juil. 2025] 'Stop Killing Games' comes roaring back after YouTube drama and now industry lobbying groups are pushing back. The fervor started with The Crew going offline but can it actually change the law? → https://kotaku.com/n-1851785707
+
+» 🇫🇷 [Gamekult / 7 juil. 2025] Silent Hill f fuite : la séquence d’introduction du jeu d’horreur circule en ligne → https://cutt.ly/WrY8zzIx
+
+» 🇫🇷 [Gamekult / 7 juil. 2025] John Carpenter's Toxic Commando réapparaît par le biais de screenshots en cavale → https://cutt.ly/irY8lDgU
+
+» 🇫🇷 [Gamekult / 7 juil. 2025] Free Range Games (The Lord of The Rings : Return to Moria) licencie pour la seconde fois de l'année → https://cutt.ly/8rY8lnT4
+
+» 🇫🇷 [Gamekult / 7 juil. 2025] Adorable Adventures : voici ce qu'il reste de Wild, l'arlésienne de la PS4 → https://cutt.ly/2rY8loyY
+
+» 🇫🇷 [Gamekult / 7 juil. 2025] World of Tanks accueille Tomb Raider et Duke Nukem pour un événement temporaire → https://cutt.ly/grY8jdoC
+
+» 🇺🇸 [Nintendo / 27 juin 2025 (4 juil. 2025)] The 85th annual general meeting of shareholders — Q&A summary (English translation of Japanese original) → https://cutt.ly/9rY8vxYO
+» 🇺🇸 [Game Developer / 7 juil. 2025] 'The true value of entertainment lies in its uniqueness:' Nintendo is well aware that rising development costs are very bad news. The company is exploring how to shorten development cycles without stifling creativity. → https://cutt.ly/frY8cld7
+
+» 🇬🇧 [Eurogamer / 7 juil. 2025] Apple appeals EU's €500m fine for App Store anti-steering practices, calls it "far beyond what the law requires". Says EU is "forcing business terms which are confusing for developers and bad for users." → https://cutt.ly/GrY8Tr8H
+
+» 🇺🇸 [Games Industry / 7 juil. 2025] Brazilian antitrust body recommends action against Apple for anticompetitive conduct. The recommendation comes after an investigation into the restriction of third-party payment systems on iOS → https://cutt.ly/BrY8R1Un
+
+» 🇬🇧 [VGC / 7 juil. 2025] Despite no new Mega Man in 7 years, Capcom says it’s ‘one of our most important IPs’. Capcom is “continuously considering” ways to develop new Mega Man games → https://cutt.ly/GrY8YDau
+
+» 🇺🇸 [Time Extension / 7 juil. 2025] Sir Clive Sinclair's nephew has created a gift card-sized gaming system. GamerCard is powered by a Raspberry Pi chipset → https://cutt.ly/QrY8U3J4
+
+
+
+» 🇫🇷 [ActuGaming / 7 juil. 2025] 
+
+» 🇫🇷 [Gamekult / 7 juil. 2025] 
+
+» 🇬🇧 [PC Gamer / 7 juil. 2025] 
+
+» 🇺🇸 [Time Extension / 7 juil. 2025] 
+
+» 🇺🇸 [Kotaku / 7 juil. 2025] 
 
 
 
