@@ -4580,10 +4580,6 @@ traduction :
 
 » 🇫🇷 [ActuGaming / 2 juil. 2025] Le studio derrière Return to Moria voit son équipe être grandement réduite → https://actugaming.net/a-736438
 
-» 🇺🇸 [Ars Technica / 2 juil. 2025] What’s wrong with AAA games? The development of the next Battlefield has answers. EA insiders describe stress and setbacks in a project that's too big to fail → https://cutt.ly/WrTVjmfu
-» 🇫🇷 [ActuGaming / 2 juil. 2025] Le prochain Battlefield aurait un développement chaotique et des ambitions jamais vues → https://actugaming.net/a-736423
-» 🇫🇷 [Gamekult / 2 juil. 2025] Battlefield 6 : Electronic Arts veut atteindre 100 millions de joueurs. Coulisses d'une superproduction compliquée → https://cutt.ly/prTV8JSL
-
 » 🇫🇷 [Gamekult / 2 juil. 2025] Outriders 2 annulé : Square Enix a coupé les vivres du studio People Can Fly → https://cutt.ly/JrTV4ZuT
 
 » 🇺🇸 [Axios / 2 juil. 2025] G/O Media sells Kotaku to Gizmodo owner Keleops → https://cutt.ly/jrTVj6YJ
@@ -4659,8 +4655,6 @@ traduction :
 
 » 🇫🇷 [ActuGaming / 4 juil. 2025] Crystal Dynamics en « difficulté » sur le prochain Tomb Raider ? Lara Croft apparaît dans un nouveau jeu… mais toujours pas le sien ! → https://actugaming.net/a-736614
 
-» 🇫🇷 [ActuGaming / 4 juil. 2025] Anthem se prépare à tirer sa révérence, le jeu de BioWare coupera ses serveurs début 2026 → https://actugaming.net/a-736628
-
 » 🇫🇷 [ActuGaming / 4 juil. 2025] Destiny: Rising, le spin-off mobile de la saga de Bungie, sera lancé en free-to-play fin août → https://actugaming.net/a-736631
 
 » 🇫🇷 [ActuGaming / 4 juil. 2025] Capcom annonce Resident Evil: Survival Unit, un nouveau de stratégie qui arrivera sur mobiles → https://actugaming.net/a-736636
@@ -4673,9 +4667,6 @@ traduction :
 
 » 🇺🇸 [Windows Central / 4 juil. 2025] Hideo Kojima's "OD" is still in development with Xbox, at least for today. Microsoft has culled many second-party publishing projects at Xbox, but OD isn't one of them → https://cutt.ly/MrYGoRXK
 » 🇫🇷 [Gamekult / 4 juil. 2025] OD : visiblement, le projet de Kojima pour Xbox n'est pas impacté par les coupes → https://cutt.ly/grYGoeEl
-
-» 🇬🇧 [Eurogamer / 4 juil. 2025] Dying Light studio Techland cancels two in-development games, clarifies no staff reductions → https://cutt.ly/frYGi3y1
-» 🇫🇷 [Gamekult / 4 juil. 2025] Malgré les annulations, pas de licenciements chez Techland (Dying Light) → https://cutt.ly/yrYGiVcG
 
 » 🇫🇷 [Canard PC / 4 juil. 2025] En immersion dans Roblox. À quoi vous jouez, les djeuns ? → https://cutt.ly/zrY3MDfm
 
@@ -4698,7 +4689,6 @@ traduction :
 
 » 🇺🇸 [MP1st / 5 juil. 2025] EA Japan president calls out Microsoft for chasing short-term results amid mass layoffs → https://cutt.ly/trYGxwcd
 
-» 🇬🇧 [VGC / 3 juil. 2025] Romero Games now ‘completely closed’ following Microsoft cuts, it’s claimed. The studio’s over 100 staff have lost their jobs, according to an employee → https://cutt.ly/orYGjc2L
 
 » 🇺🇸 [Retro hangover / 3 nov. 2024] Episode 298 — Interview with Victor Ireland → https://cutt.ly/OrYGuycg
 » 🇫🇷 [Gamekult / 6 juil. 2025] Dans les années 90, Sega voulait que certains de ses RPG échouent en occident. Phantasy Star IV en est la preuve → https://cutt.ly/irYGyleX
@@ -4709,6 +4699,7 @@ traduction :
 » 🇫🇷 [Gamekult / 6 juil. 2025] Deus Ex est né de l'overdose des clichés du jeu vidéo dans les années 90 → https://cutt.ly/VrYGrWKF
 
 » 🇺🇸 [The Game Business / 1er juil. 2025] “Reviving Sega will be the greatest achievement in my career”. Sega president Shuji Utsumi on a resurgent Japan, the risks of nostalgia and why he believes in consoles → https://cutt.ly/UrYGrlvV
+» ▶️ [YouTube / Bloomberg / 5 juil. 2025] How the success of Sonic the Hedgehog is reviving Japan's Sega → https://youtu.be/g5fYU3dimWg (10 min)
 » 🇫🇷 [Gamekult / 6 juil. 2025] Oui, un film Crash Bandicoot a été recalé par Hollywood. Pour éviter le crash, sans doute → https://cutt.ly/JrYGe8Uy
 
 
@@ -4722,10 +4713,6 @@ traduction :
 
 » 🇫🇷 [Xboxygen / 7 juil. 2025] Sourires et discours inspirants avant 2000 licenciements : un ex-employé de Blizzard tacle Xbox → https://cutt.ly/XrY8o2EX
 
-
-» 🦋 [BlueSky / Romero Games] We want to address recent reports regarding the status of Romero Games → https://bsky.app/profile/romerogames.bsky.social/post/3ltfjxsyavs23
-» 🇬🇧 [PC Gamer / 7 juil. 2025] Romero Games reportedly met with Microsoft just a day before the publisher pulled funding for the studio, and there was 'no mention' of the decision that put over 100 people out of work. Romero Games is pursuing alternate sources of funding, but for the time being, it sounds like the dream is dead. → https://cutt.ly/RrY8ugkG
-» 🇺🇸 [Kotaku / 7 juil. 2025] Romero Games says it’s not dead, but looking for a new publisher after Xbox layoffs. The company is exploring options after Microsoft pulled its funding → https://kotaku.com/n-1851785765
 
 » 🇺🇸 [TheGamer / 7 juil. 2025] Xbox was in trouble the second it started painting Phil Spencer as its saviour → https://cutt.ly/hrY30HDJ
 
@@ -4771,32 +4758,62 @@ traduction :
 
 » 🇫🇷 [Gamekult / 7 juil. 2025] Free Range Games (The Lord of The Rings : Return to Moria) licencie pour la seconde fois de l'année → https://cutt.ly/8rY8lnT4
 
-» 🇫🇷 [Gamekult / 7 juil. 2025] Adorable Adventures : voici ce qu'il reste de Wild, l'arlésienne de la PS4 → https://cutt.ly/2rY8loyY
-
 » 🇫🇷 [Gamekult / 7 juil. 2025] World of Tanks accueille Tomb Raider et Duke Nukem pour un événement temporaire → https://cutt.ly/grY8jdoC
 
 » 🇺🇸 [Nintendo / 27 juin 2025 (4 juil. 2025)] The 85th annual general meeting of shareholders — Q&A summary (English translation of Japanese original) → https://cutt.ly/9rY8vxYO
 » 🇺🇸 [Game Developer / 7 juil. 2025] 'The true value of entertainment lies in its uniqueness:' Nintendo is well aware that rising development costs are very bad news. The company is exploring how to shorten development cycles without stifling creativity. → https://cutt.ly/frY8cld7
+» 🇫🇷 [Gamekult / 8 juil. 2025] Nintendo veut réduire les temps de développement de ses jeux pour mitiger des coûts grandissants → https://cutt.ly/grUdeE99
 
 » 🇬🇧 [Eurogamer / 7 juil. 2025] Apple appeals EU's €500m fine for App Store anti-steering practices, calls it "far beyond what the law requires". Says EU is "forcing business terms which are confusing for developers and bad for users." → https://cutt.ly/GrY8Tr8H
 
 » 🇺🇸 [Games Industry / 7 juil. 2025] Brazilian antitrust body recommends action against Apple for anticompetitive conduct. The recommendation comes after an investigation into the restriction of third-party payment systems on iOS → https://cutt.ly/BrY8R1Un
 
 » 🇬🇧 [VGC / 7 juil. 2025] Despite no new Mega Man in 7 years, Capcom says it’s ‘one of our most important IPs’. Capcom is “continuously considering” ways to develop new Mega Man games → https://cutt.ly/GrY8YDau
+» 🇫🇷 [ActuGaming / 8 juil. 2025] Capcom réaffirme l’importance de Mega Man malgré 7 ans sans nouveau jeu → https://actugaming.net/a-736876
 
 » 🇺🇸 [Time Extension / 7 juil. 2025] Sir Clive Sinclair's nephew has created a gift card-sized gaming system. GamerCard is powered by a Raspberry Pi chipset → https://cutt.ly/QrY8U3J4
 
 
+» 🇫🇷 [ActuGaming / 8 juil. 2025] Clair Obscur: Expedition 33 impressionne Neil Druckmann, le co-créateur de The Last of Us → https://actugaming.net/a-736861
 
-» 🇫🇷 [ActuGaming / 7 juil. 2025] 
+» 🇺🇸 [Automaton Media / 7 juil. 2025] Capcom cancels lecture about Monster Hunter Wilds’ optimization as devs face threats and harassment. Capcom's engineers were supposed to hold a CEDEC presentation on Monster Hunter Wilds on July 24, but this has been cancelled → https://cutt.ly/vrUs6ZVB
+» 🇫🇷 [ActuGaming / 8 juil. 2025] Capcom annule une conférence Monster Hunter, probablement suite à des menaces visant ses développeurs → https://actugaming.net/a-736895
 
-» 🇫🇷 [Gamekult / 7 juil. 2025] 
+» 🇫🇷 [ActuGaming / 8 juil. 2025] Tokyo Game Show 2025 : Voici la liste des exposants pour le salon japonais (Sony, Square Enix, SEGA…) → https://actugaming.net/a-736919
 
-» 🇬🇧 [PC Gamer / 7 juil. 2025] 
+» 🇫🇷 [ActuGaming / 8 juil. 2025] La licence BlazBlue n’est peut-être pas tout à fait morte, mais aucun nouvel épisode n’est prévu pour le moment → https://actugaming.net/a-736925
 
-» 🇺🇸 [Time Extension / 7 juil. 2025] 
+» 🇫🇷 [PlayStation Blog / 8 juil. 2025] Regardez la présentation du gameplay de Ghost  of  Yōtei pendant le State  of  Play le 10 juillet. Préparez-vous à découvrir plus en profondeur la prochaine aventure en monde ouvert de Sucker Punch, qui sortira le 2 octobre → https://cutt.ly/PrUdweq5
+» 🇫🇷 [ActuGaming / 8 juil. 2025] Ghost of Yōtei sera au cœur de son propre State of Play ce jeudi 10 juillet → https://actugaming.net/a-736957
 
-» 🇺🇸 [Kotaku / 7 juil. 2025] 
+» 🇫🇷 [PlayStation Blog / 8 juil. 2025] Découvrez The Last of Us Part II Remastered dans une expérience chronologique. Cette mise à jour gratuite, qui sort aujourd'hui sur PS5 et PC, comporte de nouveaux skins et trophées à débloquer → https://cutt.ly/LrUdwbnT
+» 🇫🇷 [ActuGaming / 8 juil. 2025] The Last of Us Part II Remastered se met à jour et vous permet de rejouer l’histoire, cette fois-ci de manière chronologique → https://actugaming.net/a-736966
+
+» 🇺🇸 [How to maket games / 3 juin 2025] Most people who buy your game won’t play it → https://cutt.ly/RrUdrjZc
+» 🇬🇧 [PC Gamer / 8 juil. 2025] 'Knowing Steam players are hoarders explains why you give Valve that 30%,' analyst tells devs: 'You get access to a bunch of drunken sailors who spend money irresponsibly'. "More than likely the person buying your game is not going to play it." → https://cutt.ly/9rUdl3X9
+» 🇫🇷 [Gamekult / 8 juil. 2025] "La plupart des gens qui achètent vos jeux n'y jouent pas" selon un analyste → https://cutt.ly/SrUde2WD
+
+» 🇫🇷 [Gamekult / 8 juil. 2025] Licenciements chez Xbox : un cadre d'EA Japon critique la stratégie de Microsoft → https://cutt.ly/VrUduihU
+
+» 🇺🇸 [Kotaku / 8 juil. 2025] I played the horse girl gacha game that's taking the internet by storm, and I get it. Umamusume: Pretty Derby is taking over the internet, but is it actually any good? → https://kotaku.com/a-1851785849
+
+» 🇺🇸 [Kotaku / 8 juil. 2025] The Nintendo Switch 2 is finally available on Amazon, but there's a catch. The $500 Mario Kart World Switch 2 bundle is available, too → https://kotaku.com/n-1851785835
+
+» 🇫🇷 [Gamekult / 9 juil. 2025] Tony Hawk's Pro Skater 3+4 a fait un énorme ménage dans sa bande-son. Et si on faisait un remake de Final Fantasy VI sans la musique d'Uematsu ? → https://cutt.ly/arUhLLeW
+
+» 🇫🇷 [Gamekult / 9 juil. 2025] Nintendo travaille toujours activement sur de la réalité augmentée/virtuelle. Un simple gadget ou une tentative réelle sur le marché ? → https://cutt.ly/arUhC1S4
+
+
+
+» 🇫🇷 [ActuGaming / 9 juil. 2025] 
+
+» 🇫🇷 [Gamekult / 9 juil. 2025] 
+
+» 🇬🇧 [PC Gamer / 8 juil. 2025] 
+
+» 🇺🇸 [Time Extension / 8 juil. 2025] 
+
+» 🇺🇸 [Kotaku / 8 juil. 2025] 
 
 
 
