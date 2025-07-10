@@ -4799,9 +4799,45 @@ traduction :
 
 » 🇺🇸 [Kotaku / 8 juil. 2025] The Nintendo Switch 2 is finally available on Amazon, but there's a catch. The $500 Mario Kart World Switch 2 bundle is available, too → https://kotaku.com/n-1851785835
 
+» 🇬🇧 [VGC / 9 juil. 2025] Less than 20% of Tony Hawk’s Pro Skater 3 + 4’s soundtrack is made up of songs from the original games. Other songs from artists featured in THPS 3 + 4 have been included in some cases → https://cutt.ly/9rUEDcw7
 » 🇫🇷 [Gamekult / 9 juil. 2025] Tony Hawk's Pro Skater 3+4 a fait un énorme ménage dans sa bande-son. Et si on faisait un remake de Final Fantasy VI sans la musique d'Uematsu ? → https://cutt.ly/arUhLLeW
+» 🇫🇷 [ActuGaming / 9 juil. 2025] Tony Hawk’s Pro Skater 3+4 épure une grosse partie de sa bande-son, seuls 10 anciens morceaux sont conservés → https://actugaming.net/a-737016
 
 » 🇫🇷 [Gamekult / 9 juil. 2025] Nintendo travaille toujours activement sur de la réalité augmentée/virtuelle. Un simple gadget ou une tentative réelle sur le marché ? → https://cutt.ly/arUhC1S4
+
+
+» 🇺🇸 [IGN / 8 juil. 2025] Tom Clancy, Star Trek: Bridge Crew studio Ubisoft Red Storm lays off 19, citing 'global cost-saving efforts'. No other studios were affected, per Ubisoft → https://cutt.ly/ArUEAYOW
+» 🇫🇷 [IGN France / 9 juil. 2025] Red Storm, le studio fondé par Tom Clancy chez Ubisoft licencie 19 personnes, sous pretexte "d'efforts de réduction des coûts à l'échelle mondiale". Aucun autre studio n'a été touché, selon Ubisoft → https://cutt.ly/jrUEAKYK
+» 🇫🇷 [ActuGaming / 9 juil. 2025] Ubisoft licencie au sein de son studio Red Storm (Tom Clancy, Star Trek: Bridge Crew…) → https://actugaming.net/a-736991
+
+» 🇫🇷 [Steam / Steel Hunters / 8 juil. 2025] Fin de Steel Hunters. Un adieu à Steel Hunters : dernières MAJ, déblocage complet, et nos remerciements à la communauté → https://cutt.ly/KrUESdDI
+» 🇫🇷 [ActuGaming / 9 juil. 2025] Steel Hunters rend déjà les armes, le jeu service de Wargaming fermera bientôt ses serveurs → https://actugaming.net/a-736994
+
+» 🇫🇷 [ActuGaming / 9 juil. 2025] Le jeu d’horreur Routine refait une nouvelle fois surface et est toujours en développement → https://actugaming.net/a-736997
+
+» 🇫🇷 [ActuGaming / 9 juil. 2025] Genshin Impact met en avant les divinités du monde de Teyvat dans un court-métrage inédit → https://actugaming.net/a-737004
+
+» 🇬🇧 [Eurogamer / 9 juil. 2025] Former Uncharted and The Last of Us game designer starting new studio. Following TLOU online multiplayer cancellation → https://cutt.ly/UrUES6VU
+» 🇫🇷 [ActuGaming / 9 juil. 2025] Le réalisateur du jeu multijoueur The Last of Us annulé s’en va créer son propre studio, et au Japon → https://actugaming.net/a-737013
+
+» 🇫🇷 [ActuGaming / 9 juil. 2025] MAJJAM : Voici les premières images du premier jeu d’aventure multijoueur du studio français Opus Major → https://actugaming.net/a-737021
+
+» 🇫🇷 [ActuGaming / 9 juil. 2025] STALKER 2: Heart of Chornobyl prépare sa version PS5, le portage sortira avant la fin de l’année → https://actugaming.net/a-737029
+
+» 🇫🇷 [ActuGaming / 9 juil. 2025] NBA 2K26 met à l’honneur Shai Gilgeous-Alexander sur sa jaquette et dévoile ses différentes éditions → https://actugaming.net/a-737035
+
+
+» 🇺🇸 [Bloomberg / 9 juil. 2025] Krafton delays ‘Subnautica 2’ game ahead of $250 million payout. The South Korean publisher announced last week that the CEO and founders of ‘Subnautica’ studio Unknown Worlds were departing, but didn’t say why → https://cutt.ly/arUEF8p1
+» 🇫🇷 [Gamekult / 9 juil. 2025] Subnautica 2 est repoussé à 2026 et c'est pour une sale histoire de gros sous. Krafton aurait retardé la sortie du jeu pour ne pas payer un gros bonus → https://cutt.ly/ZrUEFmSO
+
+» 🇫🇷 [Gamekult / 9 juil. 2025] JCC Pokémon Pocket : le studio impose d'utilisation de l'IA à ses employés → https://cutt.ly/4rUEGmnV
+
+» 🇫🇷 [Gamekult / 9 juil. 2025] Les anciens d’Annapurna Interactive se réunissent pour fonder Fictions. La seconde chance de Private Division → https://cutt.ly/nrUEGA3f
+
+» 🇬🇧 [PC Gamer / 9 juil. 2025] Ready or Not's review bomb campaign may have been short-lived, as player count subsequently doubles on Steam and it tops PlayStation's pre-order list. It looks like the censorship wasn't all that bad. → https://cutt.ly/krUEKzrX
+
+» 🇬🇧 [PC Gamer / 9 juil. 2025] Modder behind the 'Swiss army knife of PC gaming' deletes their 20 year-old Steam account with anti-Valve manifesto: 'By the end of my bitter dealings with Valve… there was zero hope'. "You no longer have the liberty of buying a game from wherever you want." → https://cutt.ly/9rUEG4Wa
+
 
 
 
@@ -4809,7 +4845,7 @@ traduction :
 
 » 🇫🇷 [Gamekult / 9 juil. 2025] 
 
-» 🇬🇧 [PC Gamer / 8 juil. 2025] 
+» 🇬🇧 [PC Gamer / 9 juil. 2025] 
 
 » 🇺🇸 [Time Extension / 8 juil. 2025] 
 
