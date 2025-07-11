@@ -4889,6 +4889,7 @@ traduction :
 » 🇺🇸 [IGN / 10 juil. 2025] Our big bananas interview with the developers of Donkey Kong Bananza. The game’s producer and director answer a barrel full of questions → https://cutt.ly/ErUJvBNh
 » 🇺🇸 [Kotaku / 10 juil. 2025] Nintendo has the best reason for why Pauline is in Donkey Kong Bananza. The lead developers say it all started with a Zebra transformation → https://kotaku.com/n-1851786019
 » 🇫🇷 [ActuGaming / 10 juil. 2025] Donkey Kong Bananza a démarré comme un jeu Switch avant de basculer sur la Switch 2 → https://actugaming.net/a-737087
+» 🇫🇷 [Gamekult / 11 juil. 2025] Donkey Kong Bananza était d'abord prévu sur Switch 1, comme Mario Kart World → https://cutt.ly/NrUVBmoH
 
 » 🇫🇷 [ActuGaming / 10 juil. 2025] Le Monster Hunter-like de Koei Tecmo, Wild Hearts S, s’offre une démo sur l’eShop → https://actugaming.net/a-737092
 
@@ -4907,6 +4908,7 @@ traduction :
 » 🇺🇸 [Kotaku / 10 juil. 2025] Astro Bot's new update finally adds a character fans have been waiting for. New levels mean new Special Bots, including one that the game has been missing since launch → https://kotaku.com/n-1851786027
 
 » 🇺🇸 [Kotaku / 10 juil. 2025] Major Nintendo Switch piracy website seized by FBI. Nsw2u was a popular place for illegally downloading Switch ROMs → https://kotaku.com/n-1851786034
+» 🇬🇧 [Eurogamer / 11 juil. 2025] Nintendo Switch ROM site seized by FBI, as company's crackdown against piracy continues. Dutch agency also involved → https://cutt.ly/PrUV697b
 
 » 🇺🇸 [Kotaku / 10 juil. 2025] One of Pokémon’s most prominent voice actors has died at 71. James Carter Cathcart voiced Gary in the original anime, then went on to voice mainstays like Professor Oak and Meowth → https://kotaku.com/n-1851786041
 
@@ -4914,19 +4916,77 @@ traduction :
 » 🇺🇸 [Kotaku / 10 juil. 2025] Subnautica 2 publisher blames ousted founders for delays as fans rebel: 'Subnautica's soul has just been ripped out'. Krafton says negative playtest feedback is to blame for the delay → https://kotaku.com/n-1851786060
 
 » 🇺🇸 [IGN / 10 juil. 2025] Subnautica 2 publisher Krafton blames leads for delay in statement, saying they 'abandoned responsibilities'. Per Krafton, the three removed executives allegedly would have been eligible for 90% of the $250 million bonus promised to staff. → https://cutt.ly/srUJDa1S
+» 🇫🇷 [ActuGaming / 11 juil. 2025] Subnautica 2 : Krafton accuse les anciens leaders du studio d’avoir entraîné le report du jeu → https://actugaming.net/a-737131
+» 🇫🇷 [Gamekult / 11 juil. 2025] Subnautica 2 : Krafton tire à boulets rouges sur les anciens dirigeants d'Unknown Worlds, qui intentent une action en justice. Votre nouveau feuilleton de l'été → https://cutt.ly/drU0jlAK
+» 🇺🇸 [Kotaku / 11 juil. 2025] The Subnautica 2 saga just keeps getting messier amid new lawsuit and alleged leaks. Ousted founders say they've filed a lawsuit against Krafton → https://kotaku.com/n-1851786101
 
 » 🇺🇸 [Game Developer / 10 juil. 2025] Codev specialist Side partners with Savvy Games Group to open Riyadh studio. Savvy is wholly owned by Saudi Arabia's state-backed Public Investment Fund, which is chaired by Prince Mohammed bin Salman → https://cutt.ly/urUJHviU
+
+» 🇺🇸 [Games Industry / 10 juil. 2025] Develop:Star Awards 2025 winners. Remedy Entertainment’s Sam Lake was also awarded for his contributions to the video game industry → https://cutt.ly/4rUV1EHT
+
+
+» 🇫🇷 [ActuGaming / 11 juil. 2025] Ghost of Yōtei : Gameplay, exploration, PS5 et DualSense édition limitée, voici ce qu’il fallait retenir de son State of Play dédié → https://actugaming.net/a-737101
+» 🇺🇸 [Kotaku / 11 juil. 2025] Ghost of Yōtei State Of Play reveals a stunning open-world of revenge. The follow-up to 2020's Ghost of Tsushima has shown 20 minutes of in-game footage → https://kotaku.com/n-1851786081
+
+
+» 🇫🇷 [ActuGaming / 11 juil. 2025] Capcom dévoile les premières images de Resident Evil: Survival Unit, son nouveau jeu de stratégie mobile → https://actugaming.net/a-737135
+
+» 🇺🇸 [Anime News Network / 9 juil. 2025] Final Fantasy XVI producer on the series's future → https://cutt.ly/GrUVZ7ma
+» 🇫🇷 [ActuGaming / 11 juil. 2025] Final Fantasy XVII doit-il revenir au tour par tour ? Pour Naoki Yoshida, la question ne doit pas se limiter qu’à cela → https://actugaming.net/a-737158
+
+» 🇫🇷 [ActuGaming / 11 juil. 2025] Borderlands 4 présente Vex la Sirène, l’une des protagonistes de ce nouvel épisode → https://actugaming.net/a-737161
+
+» 🇺🇸 [Games Industry / 11 juil. 2025] With Lumines Arise, a PSP puzzle classic is getting the extravagant Tetris Effect treatment it deserves. Enhance's Takashi Ishihara and Mark MacDonald on taking the long-lasting puzzle series to the next level → https://cutt.ly/HrUV0AWW
+
+» 🇫🇷 [Gamekult / 11 juil. 2025] Helldivers 2 : les obligations Groupe Témoin livrent des armes expérimentales. Le fil vert sur le bouton vert... → https://cutt.ly/NrUVBVjK
+
+» 🇫🇷 [Gamekult / 11 juil. 2025] Après l'échec de Callisto Protocol, Striking Distance annule Project Titan, son jeu multijoueur AAA. Titan'ge parti trop tôt → https://cutt.ly/ArUVNMlj
+
+» 🇫🇷 [ActuGaming / 11 juil. 2025] La trilogie Atelier Ryza revient dans un pack complet, qui sortira aussi sur Switch 2 → https://actugaming.net/a-737174
+
+» 🇫🇷 [ActuGaming / 11 juil. 2025] Copa City, le jeu de gestion autour du football, sortira le 26 mars 2026 → https://actugaming.net/a-737180
+
+» 🇺🇸 [MP1st / 10 juil. 2025] “Battlefield 6 open beta” code added to BF Labs latest build → https://cutt.ly/QrU0gpP0
+» 🇫🇷 [ActuGaming / 11 juil. 2025] Le prochain Battlefield devrait avoir droit à une bêta ouverte avant sa sortie → https://actugaming.net/a-737184
+
+» 🇫🇷 [ActuGaming / 11 juil. 2025] En attendant Hollow Knight Silksong, replongez dans le premier épisode avec un nouvel ouvrage chez Third Editions → https://actugaming.net/a-737187
+
+» 🇫🇷 [Gamekult / 11 juil. 2025] Atelier Ryza Secret Trilogy Deluxe Pack : une compilation améliorée pour la fin 2025 → https://cutt.ly/6rU0hCJn
+
+
+» 🇫🇷 [Gamekult / 11 juil. 2025] Resident Evil Survival Unit nous embarquera dans son monde parallèle en 2025. En attendant Resident Evil Requiem → https://cutt.ly/arU0k34a
+
+» 🇫🇷 [Gamekult / 11 juil. 2025] Sea of Thieves : les serveurs customisés arrivent en 2026 → https://cutt.ly/crU0loAJ
+
+» 🇺🇸 [Time Extension / 11 juil. 2025] Remute is celebrating Amiga's 40th with an album composed on (you guessed it) the Amiga. "Composed and designed to run on actual Amiga computers" → https://cutt.ly/erU0mNUQ
+» 💿 Remute², 27 € sur Bandcamp → https://cutt.ly/WrU0EqWr
+
+» 🇫🇷 [Gamekult / 11 juil. 2025] De Marvel à Guilty Gear, retour sur 37 ans d'existence d'Arc System Works. Bagarre, beat 'em up et OVNIs expérimentaux → https://cutt.ly/jrU2TKIC
+
+» 🇺🇸 [Bloomberg / 11 juil. 2025] Roblox game-buying frenzy is turning teens into millionaires. Game service spawns a busy after market for the most-popular titles → https://cutt.ly/frU3azv1
+
+» 🇺🇸 [Games Industry / 11 juil. 2025] Why do games end up in development hell? Microsoft's cancellation of projects almost a decade in development has raised eyebrows across the industry – but having nothing to show for so much work is sadly far from unusual → https://cutt.ly/irU3z0e0
+
+» 🇺🇸 [Kotaku / 11 juil. 2025] Cowboy Bebop Director's Lo-Fi Beats Mode For Ghost of Yōtei Sounds Perfect And Acknowledges The Way People Actually Play Games. The chill music is a great match for cleaning up open-world map icons → https://kotaku.com/n-1851786114
+
+» ▶️ [YouTube / iFixIt / 10 juil. 2025] Switch 2 Pro Controller: built to break? full teardown → https://youtu.be/awEY5OGvIXE (6 min)
+» 🇺🇸 [Kotaku / 11 juil. 2025] Repair experts call Switch 2 pro controller 'piss-poor' in scathing review. iFixit calls Nintendo's latest Pro controller an $85 'cash grab' → https://kotaku.com/n-1851786109
+
+» 🇺🇸 [Kotaku / 11 juil. 2025] Final Fantasy doesn't need turn-based combat back, it needs better stories. The next entry shouldn't take the wrong lessons from Clair Obscur: Expedition 33 → https://kotaku.com/n-1851786128
+
+» 🇺🇸 [Kotaku / 11 juil. 2025] Anthem was a mistake, but it didn't deserve to die like this. BioWare is shutting down its ill-fated loot shooter, and all that will be left is a crater where the studio’s legacy once was → https://kotaku.com/n-1851786136
+
 
 
 » 🇫🇷 [ActuGaming / 11 juil. 2025] 
 
-» 🇫🇷 [Gamekult / 10 juil. 2025] 
+» 🇫🇷 [Gamekult / 11 juil. 2025] 
 
 » 🇬🇧 [PC Gamer / 9 juil. 2025] 
 
-» 🇺🇸 [Time Extension / 8 juil. 2025] 
+» 🇺🇸 [Time Extension / 11 juil. 2025] 
 
-» 🇺🇸 [Kotaku / 10 juil. 2025] 
+» 🇺🇸 [Kotaku / 11 juil. 2025] 
 
 
 
