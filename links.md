@@ -4771,7 +4771,10 @@ traduction :
 » 🇬🇧 [VGC / 7 juil. 2025] Despite no new Mega Man in 7 years, Capcom says it’s ‘one of our most important IPs’. Capcom is “continuously considering” ways to develop new Mega Man games → https://cutt.ly/GrY8YDau
 » 🇫🇷 [ActuGaming / 8 juil. 2025] Capcom réaffirme l’importance de Mega Man malgré 7 ans sans nouveau jeu → https://actugaming.net/a-736876
 
+» 🛍️ [Grant Sinclair] GamerCard, 125 £ → https://grantsinclair.com/gamercard
+» ▶️ [YouTube / Grant Sinclaur Futurist / 2 juil. 2025] GamerCard - Grab & go Raspberry Pi gaming → https://youtu.be/Xy7Mppyn_FE (50 s)
 » 🇺🇸 [Time Extension / 7 juil. 2025] Sir Clive Sinclair's nephew has created a gift card-sized gaming system. GamerCard is powered by a Raspberry Pi chipset → https://cutt.ly/QrY8U3J4
+» 🇫🇷 [Gamekult / 10 juil. 2025] Découvrez la GamerCard, une console ultra fine alimentée par Raspberry Pi. Ne pas confondre avec la Game Key Card : la GamerCard est bien réelle → https://cutt.ly/QrUOM8ZS
 
 
 » 🇫🇷 [ActuGaming / 8 juil. 2025] Clair Obscur: Expedition 33 impressionne Neil Druckmann, le co-créateur de The Last of Us → https://actugaming.net/a-736861
@@ -4799,6 +4802,10 @@ traduction :
 
 » 🇺🇸 [Kotaku / 8 juil. 2025] The Nintendo Switch 2 is finally available on Amazon, but there's a catch. The $500 Mario Kart World Switch 2 bundle is available, too → https://kotaku.com/n-1851785835
 
+» 🇺🇸 [The Verge / 7 juil. 2025] Epic reaches mystery settlement with Samsung days before new Galaxy phones. Epic isn’t saying what it got out of Samsung → https://cutt.ly/OrUOFXwm
+» 🇺🇸 [Game Developer / 8 juil. 2025] Epic Games and Samsung settle app-blocking lawsuit. The settlement took place days before the Samsung Unpacked event, during which the company is announcing its new phone slate → https://cutt.ly/PrUOFa97
+
+
 » 🇬🇧 [VGC / 9 juil. 2025] Less than 20% of Tony Hawk’s Pro Skater 3 + 4’s soundtrack is made up of songs from the original games. Other songs from artists featured in THPS 3 + 4 have been included in some cases → https://cutt.ly/9rUEDcw7
 » 🇫🇷 [Gamekult / 9 juil. 2025] Tony Hawk's Pro Skater 3+4 a fait un énorme ménage dans sa bande-son. Et si on faisait un remake de Final Fantasy VI sans la musique d'Uematsu ? → https://cutt.ly/arUhLLeW
 » 🇫🇷 [ActuGaming / 9 juil. 2025] Tony Hawk’s Pro Skater 3+4 épure une grosse partie de sa bande-son, seuls 10 anciens morceaux sont conservés → https://actugaming.net/a-737016
@@ -4808,6 +4815,7 @@ traduction :
 
 » 🇺🇸 [IGN / 8 juil. 2025] Tom Clancy, Star Trek: Bridge Crew studio Ubisoft Red Storm lays off 19, citing 'global cost-saving efforts'. No other studios were affected, per Ubisoft → https://cutt.ly/ArUEAYOW
 » 🇫🇷 [IGN France / 9 juil. 2025] Red Storm, le studio fondé par Tom Clancy chez Ubisoft licencie 19 personnes, sous pretexte "d'efforts de réduction des coûts à l'échelle mondiale". Aucun autre studio n'a été touché, selon Ubisoft → https://cutt.ly/jrUEAKYK
+» 🇺🇸 [Game Developer / 9 juil. 2025] Ubisoft is still making layoffs after securing $1.25 billion Tencent investment. The French publisher has confirmed 19 people were recently made redundant at Ubisoft Red Storm. → https://cutt.ly/grUODE3I
 » 🇫🇷 [ActuGaming / 9 juil. 2025] Ubisoft licencie au sein de son studio Red Storm (Tom Clancy, Star Trek: Bridge Crew…) → https://actugaming.net/a-736991
 
 » 🇫🇷 [Steam / Steel Hunters / 8 juil. 2025] Fin de Steel Hunters. Un adieu à Steel Hunters : dernières MAJ, déblocage complet, et nos remerciements à la communauté → https://cutt.ly/KrUESdDI
@@ -4829,6 +4837,8 @@ traduction :
 
 » 🇺🇸 [Bloomberg / 9 juil. 2025] Krafton delays ‘Subnautica 2’ game ahead of $250 million payout. The South Korean publisher announced last week that the CEO and founders of ‘Subnautica’ studio Unknown Worlds were departing, but didn’t say why → https://cutt.ly/arUEF8p1
 » 🇫🇷 [Gamekult / 9 juil. 2025] Subnautica 2 est repoussé à 2026 et c'est pour une sale histoire de gros sous. Krafton aurait retardé la sortie du jeu pour ne pas payer un gros bonus → https://cutt.ly/ZrUEFmSO
+» 🇫🇷 [ActuGaming / 10 juil. 2025] Subnautica 2 repoussé à 2026 : un report pour éviter un bonus de 250 millions de dollars ? → https://actugaming.net/a-737044
+» 🇫🇷 [Gamekult / 10 juil. 2025] Subnautica 2 est repoussé à 2026 et c'est pour une sale histoire de gros sous. Krafton aurait retardé la sortie du jeu pour ne pas payer un gros bonus → https://cutt.ly/WrUOMSzw
 
 » 🇫🇷 [Gamekult / 9 juil. 2025] JCC Pokémon Pocket : le studio impose d'utilisation de l'IA à ses employés → https://cutt.ly/4rUEGmnV
 
@@ -4838,18 +4848,85 @@ traduction :
 
 » 🇬🇧 [PC Gamer / 9 juil. 2025] Modder behind the 'Swiss army knife of PC gaming' deletes their 20 year-old Steam account with anti-Valve manifesto: 'By the end of my bitter dealings with Valve… there was zero hope'. "You no longer have the liberty of buying a game from wherever you want." → https://cutt.ly/9rUEG4Wa
 
+» 🇬🇧 [VGC / 9 juil. 2025] Astro Bot’s award winning soundtrack is coming soon to vinyl, and it’s available for pre-order now. The 2LP collection includes new art from Team Asobi → https://cutt.ly/frUPpcjI
 
 
+» 🇺🇸 [Game Developer / 10 juil. 2025] UK minister forms UK Video Games Council to drive 'pro-games growth agenda'. 'We want to make the UK the best place globally to invest in creativity and innovation.' https://cutt.ly/qrUOhKOL
+» 🇫🇷 [Gamekult / 10 juil. 2025] Une nouvelle commission créée pour faire du Royaume-Uni "le meilleur endroit pour investir dans le jeu vidéo" → https://cutt.ly/2rUJnfhR
 
-» 🇫🇷 [ActuGaming / 9 juil. 2025] 
 
-» 🇫🇷 [Gamekult / 9 juil. 2025] 
+» ▶️ [YouTube / Nightdive Studios / 7 juil. 2025] Ken Levine on System Shock 2, Ghost Story Games, and Judas → https://youtu.be/njzERtlBcB0 (56 min)
+» 🇬🇧 [GamesRadar+ / 9 juil. 2025] BioShock creator says "audiences reward" single-player games that don't have "other methods of monetization," like Baldur's Gate 3, Kingdom Come: Deliverance 2, and Clair Obscur: Expedition 33. "I'm just grateful that we're allowed to not do that because that just frees us to purely design the game for the player's experience" → https://cutt.ly/MrUOzgY3
+» 🇫🇷 [ActuGaming / 10 juil. 2025] Ken Levine fait l’éloge des jeux solo sans DLC payant comme Clair Obscur: Expedition 33 et promet que Judas fera de même → https://actugaming.net/a-737056
+
+» 🇺🇸 [Time Extension / 9 juil. 2025] Metal Gear guidebook containing scans of Hideo Kojima's brain has been scanned for your viewing pleasure → https://cutt.ly/drUJJ2kS
+» 📓 [Internet Archive] Metal Gear Solid: The Twin Skakes ‑ Survival guide: in the darkness of Shadow Moses → https://archive.org/details/mgs-the-twin-snakes-survival-guide
+» 📓 [Internet Archive] Metal Gear Solid: The Twin Skakes ‑ Survival guide: in the darkness of Shadow Moses — Interview translation → https://archive.org/details/mgs-the-twin-snakes-survival-guide-interview-translation_202506
+
+» 🇺🇸 [Polygon / 9 juil. 2025] Peak went from a canceled game that couldn’t get funding to selling millions on Steam. The slapstick survival co-op game is the result of a killer collaboration between Aggro Crab and Landfall Games → https://cutt.ly/LrUOveaI
+» 🇫🇷 [ActuGaming / 10 juil. 2025] Peak : Le jeu phénomène qui s’est vendu à 4,5 millions d’exemplaires est né après un dur échec pour son studio → https://actugaming.net/a-737059
+
+» 🇺🇸 [SAG-AFTRA / 9 juil. 2025] SAG-AFTRA members approve 2025 video game agreement. New contract with Activision Productions Inc., Blindlight LLC, Disney Character Voices Inc., Electronic Arts Productions Inc., Formosa Interactive LLC, Insomniac Games Inc., Llama Productions LLC, Take 2 Productions Inc. and WB Games Inc. goes into effect immediately → https://cutt.ly/orUOUhBR
+» 🇺🇸 [Game Developer / 10 juil. 2025] SAG-AFTRA members ratify new interactive media contract. SAG-AFTRA has successfully negotiated pay raises, AI protections, and better safety practices for voice actors and performance capture artists → https://cutt.ly/vrUOTvKe
+» 🇫🇷 [ActuGaming / 10 juil. 2025] La grève de la SAG-AFTRA dans le jeu vidéo prend officiellement fin après presque un an de mobilisation → https://actugaming.net/a-737066
+
+» 🇺🇸 [Game Developer / 10 juil. 2025] Trump funding cuts 'devastate' video game research and development. 'By limiting research in this industry, it is limiting science as a whole.' → https://cutt.ly/RrUOGcUq
+» 🇫🇷 [Gamekult / 10 juil. 2025] USA : les coupes budgétaires de Donald Trump affectent déjà massivement le milieu du jeu vidéo → https://cutt.ly/WrUJnOJj
+
+» 🇫🇷 [Gamekult / 10 juil. 2025] Le légendaire Motoi Sakuraba rejoint le label des compositeurs de FF Tactics, Koudelka, Bayonetta → https://cutt.ly/prUO6x4M
+
+» ▶️ [YouTube / IGN / 8 juil. 2025] Ninja Gaiden: Ragebound – New stage and boss fight gameplay → https://youtu.be/hTBQo4RqtEc (14 min)
+» 🇫🇷 [Gamekult / 10 juil. 2025] Ninja Gaiden : Ragebound s'offre 14 minutes de gameplay en vidéo → https://cutt.ly/jrUONkMS
+
+» 🇫🇷 [Gamekult / 10 juil. 2025] Old School Rally dérapera sur consoles à la fin de l'année → https://cutt.ly/brUONrfH
+
+» 🇫🇷 [Gamekult / 10 juil. 2025] Twisted Metal fait péter le budget explosion dans la saison 2 → https://cutt.ly/BrUOBB2p
+
+» 🇫🇷 [Nintendo / 10 juil. 2025] FAQ des bons pour jeux Nintendo Switch → https://cutt.ly/2rUPqPMT
+» 🇫🇷 [Gamekult / 10 juil. 2025] Finies les économies : Nintendo annonce l'arrêt des bons pour jeux Switch → https://cutt.ly/ArUO6NEb
+» 🇺🇸 [Kotaku / 10 juil. 2025] Nintendo is killing the best deal on Switch but not before you can use it to save on Pokémon Legends: Z-A. Switch vouchers are going away in 2026 but will still work for new games → https://kotaku.com/n-1851785969
+
+» 🇺🇸 [IGN / 10 juil. 2025] Our big bananas interview with the developers of Donkey Kong Bananza. The game’s producer and director answer a barrel full of questions → https://cutt.ly/ErUJvBNh
+» 🇺🇸 [Kotaku / 10 juil. 2025] Nintendo has the best reason for why Pauline is in Donkey Kong Bananza. The lead developers say it all started with a Zebra transformation → https://kotaku.com/n-1851786019
+» 🇫🇷 [ActuGaming / 10 juil. 2025] Donkey Kong Bananza a démarré comme un jeu Switch avant de basculer sur la Switch 2 → https://actugaming.net/a-737087
+
+» 🇫🇷 [ActuGaming / 10 juil. 2025] Le Monster Hunter-like de Koei Tecmo, Wild Hearts S, s’offre une démo sur l’eShop → https://actugaming.net/a-737092
+
+» 🇫🇷 [Gamekult / 10 juil. 2025] Inti Creates (Mega Man Zero) prépare son 30ème anniversaire avec Majogami : The Witch of Luludidea. D'origamis à orig-ennemis → https://cutt.ly/ArUJbFJz
+
+» 🇫🇷 [Gamekult / 10 juil. 2025] Need for Speed Rivals : bientôt la fermeture des serveurs → https://cutt.ly/jrUJb0xb
+
+» 🇫🇷 [Gamekult / 10 juil. 2025] Hotel Barcelona : la sortie du roguelike de Swery et Suda se précise. Combien d'étoiles, cet établissement ? → https://cutt.ly/PrUJQ0x8
+
+» 🇫🇷 [Gamekult / 10 juil. 2025] Stop Killing Games : notre interview de Ross Scott, fondateur du mouvement → https://cutt.ly/mrUJWy18
+
+» 🇫🇷 [Gamekult / 10 juil. 2025] Les Sims 4 : le dernier patch déclenche un bug très handicapant.  Tous enceints ! → https://cutt.ly/2rUJUPQ1
+
+» 🇺🇸 [Kotaku / 10 juil. 2025] Astro Bot now has over 90 levels after getting more free ones today. Sony's popular platformer keeps getting bigger and better nearly a year after launch → https://kotaku.com/n-1851786014
+
+» 🇺🇸 [Kotaku / 10 juil. 2025] Astro Bot's new update finally adds a character fans have been waiting for. New levels mean new Special Bots, including one that the game has been missing since launch → https://kotaku.com/n-1851786027
+
+» 🇺🇸 [Kotaku / 10 juil. 2025] Major Nintendo Switch piracy website seized by FBI. Nsw2u was a popular place for illegally downloading Switch ROMs → https://kotaku.com/n-1851786034
+
+» 🇺🇸 [Kotaku / 10 juil. 2025] One of Pokémon’s most prominent voice actors has died at 71. James Carter Cathcart voiced Gary in the original anime, then went on to voice mainstays like Professor Oak and Meowth → https://kotaku.com/n-1851786041
+
+» 🇺🇸 [IGN / 10 juil. 2025] More drama in the murky world of Subnautica 2 as official delay confirmation comes hot on the heels of damaging report into now unlikely $250M bonus → https://cutt.ly/CrUJAezC
+» 🇺🇸 [Kotaku / 10 juil. 2025] Subnautica 2 publisher blames ousted founders for delays as fans rebel: 'Subnautica's soul has just been ripped out'. Krafton says negative playtest feedback is to blame for the delay → https://kotaku.com/n-1851786060
+
+» 🇺🇸 [IGN / 10 juil. 2025] Subnautica 2 publisher Krafton blames leads for delay in statement, saying they 'abandoned responsibilities'. Per Krafton, the three removed executives allegedly would have been eligible for 90% of the $250 million bonus promised to staff. → https://cutt.ly/srUJDa1S
+
+» 🇺🇸 [Game Developer / 10 juil. 2025] Codev specialist Side partners with Savvy Games Group to open Riyadh studio. Savvy is wholly owned by Saudi Arabia's state-backed Public Investment Fund, which is chaired by Prince Mohammed bin Salman → https://cutt.ly/urUJHviU
+
+
+» 🇫🇷 [ActuGaming / 11 juil. 2025] 
+
+» 🇫🇷 [Gamekult / 10 juil. 2025] 
 
 » 🇬🇧 [PC Gamer / 9 juil. 2025] 
 
 » 🇺🇸 [Time Extension / 8 juil. 2025] 
 
-» 🇺🇸 [Kotaku / 8 juil. 2025] 
+» 🇺🇸 [Kotaku / 10 juil. 2025] 
 
 
 
