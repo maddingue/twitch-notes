@@ -4797,6 +4797,7 @@ traduction :
 
 
 » 🇫🇷 [ActuGaming / 8 juil. 2025] Clair Obscur: Expedition 33 impressionne Neil Druckmann, le co-créateur de The Last of Us → https://actugaming.net/a-736861
+» 🇫🇷 [Gamekult / 13 juil. 2025] Clair Obscur a aussi mis des étoiles dans les yeux de Neil Druckmann (The Last of Us) → https://cutt.ly/TrIk7ZGi
 
 » 🇺🇸 [Automaton Media / 7 juil. 2025] Capcom cancels lecture about Monster Hunter Wilds’ optimization as devs face threats and harassment. Capcom's engineers were supposed to hold a CEDEC presentation on Monster Hunter Wilds on July 24, but this has been cancelled → https://cutt.ly/vrUs6ZVB
 » 🇫🇷 [ActuGaming / 8 juil. 2025] Capcom annule une conférence Monster Hunter, probablement suite à des menaces visant ses développeurs → https://actugaming.net/a-736895
@@ -5033,16 +5034,29 @@ traduction :
 » 🇬🇧 [PC Gamer / 12 juil. 2025] Rockstar support sites let slip that we might be getting current(ish) gen versions of GTA4 and Red Dead Redemption 2—but they probably won't be anything to write home about on PC → https://cutt.ly/1rIpsOIP
 
 
+» 🇺🇸 [VideoGamer / 8 juil. 2025] Goat Simulator devs reflect on how they “accidentally ragdolled into gaming history” with the rise of meme games, and they’re not done “milking goat sim” for all its worth → https://cutt.ly/yrIk4CjL
+» 🇫🇷 [Gamekult / 13 juil. 2025] Goat Simulator est un succès accidentel et ses développeurs l'assument complètement → https://cutt.ly/3rIk4e9h
 
-» 🇫🇷 [ActuGaming / 12 juil. 2025] 
+» 🇫🇷 [Gamekult / 13 juil. 2025] À peine arrivé dans le Game Pass, Call of Duty WW2 se fait pirater et mettre hors-ligne → https://cutt.ly/4rIk8Ilz
 
-» 🇫🇷 [Gamekult / 12 juil. 2025] 
 
-» 🇬🇧 [PC Gamer / 12 juil. 2025] 
+» 🇺🇸 [Time Extension / 9 juil. 2025] 30 years on, DOOM's "Super FX 3" upgrade gives SNES players a more polished way to rip and tear. Hands-on with Limited Run's new port and Retro-Bit's rumble pad → https://cutt.ly/mrIk3v0g
+» 🇺🇸 [Time Extension / 9 juil. 2025] Developer of SNES DOOM defends the tech behind Limited Run's 2025 update. "The game does NOT run entirely on the Raspberry Pi" → https://cutt.ly/UrIk37Ir
+» 🇫🇷 [Gamekult / 13 juil. 2025] DOOM revient sur SNES avec une cartouche et une manette collector → https://cutt.ly/nrIk5pMC
+» 🛍️ [Limited Run Games] Doom (SNES), 100 US$ → https://cutt.ly/ArIlpJOU
+» 🛍️ [Limited Run Games] Doom Collector's Edition (SNES), 180 US$ → https://cutt.ly/VrIlaeLW
 
-» 🇺🇸 [Time Extension / 12 juil. 2025] 
 
-» 🇺🇸 [Kotaku / 12 juil. 2025] 
+
+» 🇫🇷 [ActuGaming / 13 juil. 2025] 
+
+» 🇫🇷 [Gamekult / 13 juil. 2025] 
+
+» 🇬🇧 [PC Gamer / 13 juil. 2025] 
+
+» 🇺🇸 [Time Extension / 13 juil. 2025] 
+
+» 🇺🇸 [Kotaku / 13 juil. 2025] 
 
 
 
