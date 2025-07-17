@@ -4905,6 +4905,9 @@ traduction :
 
 » 🇫🇷 [Gamekult / 10 juil. 2025] Twisted Metal fait péter le budget explosion dans la saison 2 → https://cutt.ly/BrUOBB2p
 
+» 🇯🇵 [GameBiz / 9 juil. 2025] コーエーテクモHD、25年3月期の研究開発費は38.7％増の110億円…「KATANA ENGINE」と新作ゲーム開発に投下 → https://gamebiz.jp/news/408842
+» 🇺🇸 [Automaton Media / 10 juil. 2025] Koei Tecmo made significant investments in further development of its in-house game engine, the Katana Engine. Koei Tecmo is committed to developing its own Katana Engine, as opposed to relying on third-party engines like Unity or Unreal Engine → https://cutt.ly/UrOpiWQD
+
 » 🇫🇷 [Nintendo / 10 juil. 2025] FAQ des bons pour jeux Nintendo Switch → https://cutt.ly/2rUPqPMT
 » 🇫🇷 [Gamekult / 10 juil. 2025] Finies les économies : Nintendo annonce l'arrêt des bons pour jeux Switch → https://cutt.ly/ArUO6NEb
 » 🇺🇸 [Kotaku / 10 juil. 2025] Nintendo is killing the best deal on Switch but not before you can use it to save on Pokémon Legends: Z-A. Switch vouchers are going away in 2026 but will still work for new games → https://kotaku.com/n-1851785969
@@ -5047,16 +5050,230 @@ traduction :
 » 🛍️ [Limited Run Games] Doom Collector's Edition (SNES), 180 US$ → https://cutt.ly/VrIlaeLW
 
 
+» 🇺🇸 [The Local / 14 juil. 2025] 'Awesome people get pushed away': What's happening in the Swedish gaming industry? In the past few months, a number of Swedish gaming companies have gone bankrupt or laid off staff amid struggles to find funding. Why is this happening, and how is it affecting foreigners in the industry? → https://cutt.ly/zrOilcGe
 
-» 🇫🇷 [ActuGaming / 13 juil. 2025] 
+» 🇫🇷 [Gamekult / 14 juil. 2025] Le studio de Tenchu et Octopath Traveler signe avec un éditeur émirati pour trois jeux. https://cutt.ly/ErOil7Fv
+» 🇫🇷 [ActuGaming / 14 juil. 2025] Acquire, le studio derrière Octopath Traveler, s’associe avec Red Dunes Games pour trois nouveaux jeux → https://actugaming.net/a-737332
 
-» 🇫🇷 [Gamekult / 13 juil. 2025] 
+» Plan B: Terraform, en accès anticipé sur Steam depuis le 15 févr. 2023, version 1.0 le 29 août ; développé par Gaddy Games, studio français 🇫🇷 derrière Dig or Die (2018) → https://s.team/a/1894430 | https://gaddygames.com
 
-» 🇬🇧 [PC Gamer / 13 juil. 2025] 
+» 🇫🇷 [Gamekult / 14 juil. 2025] Escape from Tarkov : le PDG de Battestate Games s'énerve encore contre les joueurs → https://cutt.ly/7rOpcXiA
 
-» 🇺🇸 [Time Extension / 13 juil. 2025] 
+» 🇺🇸 [FBI / 10 juil. 2025] FBI Atlanta seizes major video game piracy websites → https://cutt.ly/mrOiOnWu
+» 🇬🇧 [Eurogamer / 14 juil. 2025] FBI says it's now seized "multiple" ROM piracy sites, claims downloads resulted in $170m losses in just three months → https://cutt.ly/yrOiILZr
+» 🇫🇷 [Gamekult / 15 juil. 2025] Nintendo : le FBI fait fermer l'un des plus gros sites de piratage de jeux Switch → https://cutt.ly/ArOpR4og
 
-» 🇺🇸 [Kotaku / 13 juil. 2025] 
+» 🇫🇷 [Gamekult / 14 juil. 2025] L'édition estivale de Games Done Quick récolte 2,4 millions de dollars → https://cutt.ly/WrOpvfra
+
+» 🇺🇸 [Automaton Media / 14 juil. 2025] Mobile game development costs in Japan have risen by 4.7 times in the past decade, study finds. According to official study conducted by JOGA, mobile game development costs reached approximately 3.3 million USD per game → https://cutt.ly/SrOiPrk3
+
+» 🇫🇷 [Gamekult / 14 juil. 2025] Créateur d'Altered Beast et Golden Axe, Makoto Uchida a quitté Sega, après 38 années de fidélité → https://cutt.ly/7rOpbWSA
+
+» 🇺🇸 [Automaton Media / 14 juil. 2025] The House in Fata Morgana studio Novect is “flirting with debt” as it works on its next ambitious project. The creators of The House in Fata Morgana have "burned through their funds and are flirting with debt" as they work on Project Code M → https://cutt.ly/rrOiPZbM
+
+» 🇺🇸 [Automaton Media / 14 juil. 2025] Chrono Trigger and Xenogears writer says he used to “hate video games” before encountering Dragon Quest. Prolific game developer Masato Kato recently spoke about his early creative influences - which video games were not a part of → https://cutt.ly/HrOiAeVt
+
+» 🇺🇸 [IGN / 14 juil. 2025] ZeniMax union responds to Microsoft canceling unannounced MMO: 'a future has been stolen from us'. "The fact is: we have not yet been laid off." → https://cutt.ly/XrOiDyYN
+» 🇫🇷 [IGN France / 15 juil. 2025] "On nous a volé notre avenir" : le syndicat ZeniMax Union prend la parole après l'annulation par Microsoft d'un MMO encore non annoncé. "Le fait est que nous n’avons pas encore été licenciés". → https://cutt.ly/YrOiShr4
+
+» 🇬🇧 [PC Gamer / 14 juil. 2025] Epic publicly humiliates 2 more Fortnite cheaters by forcing them to say sorry and promise to never, ever do it again. I'm starting to think this might be a good strategy. → https://cutt.ly/1rOiDXrW
+
+» 🇺🇸 [Rock Paper Shotgun / 14 juil. 2025] European Parliament vice president throws his support behind Stop Killing Games campaign. Romanian MEP Nicolae Ștefănuță says he's signed the initative's petition to EU lawmakers → https://cutt.ly/LrOiFRpA
+
+» 🇺🇸 [GameingBlot / 14 juil. 2025] Bend Studio reportedly has “multiple” cancelled and unannounced projects. The Days Gone developer made headlines earlier this year after Sony cancelled its open-world live-service multiplayer title → https://cutt.ly/srOiGegy
+
+» 🇺🇸 [Games Industry / 14 juil. 2025] "It would have killed the franchise." Insights into the scrapped 2014 version of Dead Island 2. In a Develop talk on product/market fit, former Deep Silver head of communications Martin Wein described a time when the product disastrously failed to fit the market → https://cutt.ly/prOiGKvF
+» 🇫🇷 [ActuGaming / 16 juil. 2025] La première version de Dead Island 2 était tellement mauvaise qu’elle aurait pu tuer la licence → https://actugaming.net/a-737484
+
+» 🇬🇧 [PC Gamer / 14 juil. 2025] One problem with making an Assassin's Creed game in Ancient Greece, says Ubisoft, is that there just weren't enough tall buildings for a 'climbing frame game'. "That's kind of where some of the ideation came from when it came to building some of the big statues that we put around Greece." → https://cutt.ly/jrOiHY21
+
+» 🇫🇷 [Instagram / STJV / 4 juil. 2025] Kyloton : pas d'argent pour les employés, mais 1000 balles pour assigner le STVJ ! → https://cutt.ly/8rOiKGf2
+
+» 🇺🇸 [MobileGamer / 14 juil. 2025] Laid off King staff set to be replaced by the AI tools they helped build, say sources → https://cutt.ly/7rOiLDtS
+» 🇫🇷 [Gamekult / 15 juil. 2025] Chez King (Candy Crush Saga), Microsoft remplace 200 employés par l'IA → https://cutt.ly/SrOiLwhs
+» 🇫🇷 [ActuGaming / 15 juil. 2025] Les employés licenciés chez King seraient remplacés par des outils IA qu’ils ont eux-mêmes aidé à construire → https://actugaming.net/a-737433
+
+» 🇫🇷 [ActuGaming / 14 juil. 2025] Ken de Street Fighter vient se frotter au casting de Fatal Fury: City of the Wolves → https://actugaming.net/a-737288
+
+» 🇺🇸 [MP1st / 12 juil. 2025] Square Enix developing Dragon Quest VII Remake, planned for release in 2026 → https://cutt.ly/4rOofHTm
+» 🇫🇷 [ActuGaming / 14 juil. 2025] Un remake de Dragon Quest VII pourrait être en développement chez Square Enix → https://actugaming.net/a-737293
+
+» 🇺🇸 [U.S. Copyright Office Public Records System / 6 juin 2025] Untitled Donkey Kong project motion picture → https://cutt.ly/RrOogCx9
+» 🇫🇷 [ActuGaming / 14 juil. 2025] Nintendo et Universal viennent de déposer les droits pour un film Donkey Kong → https://actugaming.net/a-737298
+» 🇫🇷 [Gamekult / 14 juil. 2025] Après Mario et The Legend of Zelda, un film Donkey Kong se profile → https://cutt.ly/MrOpb2tH
+
+» 🇫🇷 [ActuGaming / 14 juil. 2025] Le jeu Edens Zero s’offre déjà un crossover avec le manga Fairy Tail → https://actugaming.net/a-737302
+
+» 🇫🇷 [ActuGaming / 14 juil. 2025] Débrief’ : Ghost of Yōtei, Subnautica 2, STALKER 2 PS5, Resident Evil Survival Unit et Donkey Kong Bananza → https://actugaming.net/a-737248
+
+
+
+» 🇪🇸 [3D Juegos / 13 juiL. 2025] Despejada la mayor incógnita de las dos versiones de ROG Xbox Ally. Se han filtrado los precios por error. La tienda de ASUS ha filtrado accidentalmente los precios de las dos versiones de ROG Xbox Ally → https://cutt.ly/grOpEKn1
+» 🇫🇷 [Gamekult / 15 juil. 2025] ROG Xbox Ally : le prix des prochaines consoles portables de Microsoft et ASUS fuite par erreur → https://cutt.ly/drOpW991
+
+» 🇫🇷 [Gamekult / 15 juil. 2025] Au Japon, Nintendo veut savoir ce que pensent les joueurs des Game Key Cards. Grogne potentielle ou résignation populaire ? → https://cutt.ly/yrOpRYyJ
+
+» 🇫🇷 [Gamekult / 15 juil. 2025] Avec la RG 477M, Anbernic s'en prend directement à GoRetroid. GameCube et PS2 au programme → https://cutt.ly/QrOpUOHs
+
+» 🇫🇷 [Gamekult / 15 juil. 2025] Space Adventure Cobra - The Awakening montre son gameplay run 'n gun. Comment dit-on "weeb" en langue boomer ? → https://cutt.ly/JrOpACDU
+
+» 🇫🇷 [Gamekult / 15 juil. 2025] Le gros JRPG de Tabata (Final Fantasy 15) inspiré des Mille et Une Nuits est déjà à l'arrêt → https://cutt.ly/UrOsx3bP
+
+» 🇫🇷 [Gamekult / 15 juil. 2025] Netflix publie Rebel Moon : Blood Line, un hack 'n slash signé Zack Snyder → https://cutt.ly/6rOsciI1
+
+» 🇫🇷 [Steamworks] Documentation Steamworks — Processus d'inscription → https://cutt.ly/urOsWGh7
+» 🇺🇸 [Automaton Media / 15 juil. 2025] Steam rules updated to prohibit content that violates rules set forth by payment processors and banks. Valve's rules regarding what developers "shouldn't publish on Steam" have a new clause regarding standards set forth by payment processors → https://cutt.ly/DrOiL7Bp
+» 🇫🇷 [Gamekult / 17 juil. 2025] Steam : les banques serrent la vis aux contenus pornographiques. Cachez ce sein que je ne saurais voir → https://cutt.ly/ErOsWvJ3
+
+» 🇫🇷 [Gamekult / 15 juil. 2025] Cyberpunk 2077 arrivera sur Mac dès demain, le 17 juillet → https://cutt.ly/brOiZBoM
+
+» 🇫🇷 [ActuGaming / 15 juil. 2025] Le prochain jeu de Cory Barlog de Santa Monica Studios (God of War) n’est pas une nouvelle licence → https://actugaming.net/a-737355
+
+» 🇫🇷 [ActuGaming / 15 juil. 2025] EA Sports FC 26 met à l’honneur Zlatan Ibrahimović et nous donne rendez-vous pour le 16 juillet → https://actugaming.net/a-737357
+
+» 🇫🇷 [ActuGaming / 15 juil. 2025] Un responsable chez Xbox publie une offre d’emploi avec une image (moche) générée par IA, après tous les licenciements → https://actugaming.net/a-737367
+
+» 🇫🇷 [ActuGaming / 15 juil. 2025] Activision nous en dira plus à propos de Call of Duty: Black Ops 7 durant la cérémonie d’ouverture de la Gamescom → https://actugaming.net/a-737372
+
+» 🇫🇷 [ActuGaming / 15 juil. 2025] Invincible VS : Rex Splode nous montre ce qu’il a dans le ventre dans une nouvelle vidéo de gameplay → https://actugaming.net/a-737376
+
+» 🇫🇷 [ActuGaming / 15 juil. 2025] Le jeu John Wick Hex va bientôt être retiré de la vente, sans aucune raison donnée par l’éditeur → https://actugaming.net/a-737383
+
+» 🇺🇸 [The Game Business / 15 juil. 2025] ‘Star Wars Hunters was no failure’ – The Big Zynga Interview. Zynga CEO Frank Gibeau talks console games on mobile, competing with TikTok, “profound” App Store changes, and more → https://cutt.ly/irOozbJH
+» 🇫🇷 [ActuGaming / 15 juil. 2025] Le PDG de Zynga revient sur l’échec de Star Wars Hunters, qu’il ne qualifie pas vraiment en tant que tel → https://actugaming.net/a-737417
+
+» 🇫🇷 [ActuGaming / 15 juil. 2025] Toute la saga Life is Strange va ressortir dans une compilation sur PS5 → https://actugaming.net/a-737425
+
+
+
+» 🇺🇸 [Totally Human Media / 13 juil. 2025] The NEW Surprising Number of Steam Games that Use GenAI → https://cutt.ly/nrOsvc4M
+» 🇫🇷 [Gamekult / 16 juil. 2025] Selon un rapport, près de 20% des nouveaux jeux Steam utilisent l'IA générative → https://cutt.ly/VrOsvwLZ
+
+» 🇫🇷 [Gamekult / 16 juil. 2025] Et si Kingdoms of Amalur avait droit à une suite ? → https://cutt.ly/XrOsvRcF
+
+» 🇫🇷 [Gamekult / 16 juil. 2025] Dragon Quest I & II HD-2D Remake ne proposera pas de mise à niveau Switch 2 → https://cutt.ly/erOsbhZx
+
+
+
+» 🇫🇷 [Gamekult / 16 juil. 2025] Brancher ses vieilles manettes GameCube à la Switch 2 : c'est désormais possible → https://cutt.ly/yrOsbBvb
+
+» 🇫🇷 [Gamekult / 16 juil. 2025] Analogue 3D : après un an de retard, bientôt la fin des embrouilles ? → https://cutt.ly/5rOsmTKQ
+
+» 🇫🇷 [Gamekult / 16 juil. 2025] GTA : Rockstar débranche sa plateforme Rockstar Games Social Club → https://cutt.ly/RrOsmSNA
+
+» 🦋 [BlueSky / Gautoz / 16 juil. 2025] 🧵 https://bsky.app/profile/gautoz.cool/post/3lu3ntewdrk2t
+> INFO : des licenciements de masse sont est cours chez Virtuos, studio derrière Oblivion Remastered et le futur Metal Gear Solid Δ.
+> 300 postes (7% de l'effectif) sont à risque chez ce spécialiste de la sous-traitance implanté en Asie, aux USA et en Europe, dont trois antennes en France.
+> Selon plusieurs sources, ces suppressions viseront d'abord la Chine (200 personnes) mais toucheront de nombreux pôles, dont les studios français, porteurs du récent succès TES IV Oblivion Remastered.
+> Mot d'ordre de l'annonce faite aux équipes il y a quelques semaines : "compétitivité".
+> [...]
+» 🇺🇸 [Virtuos / 17 juil. 2025] Adapting for the future of game development → https://cutt.ly/brOiCuyS
+» 🇺🇸 [IGN / 17 juil. 2025] Despite laying off 270 staff, development studio Virtuos remains 'fully committed' to The Elder Scrolls IV: Oblivion Remastered, Cyberpunk 2077, and Metal Gear Solid Delta: Snake Eater. "A rebalancing of roles across our studios and geographies." → https://cutt.ly/HrOi0pRO
+» 🇫🇷 [Gamekult / 17 juil. 2025] 300 licenciements sont prévus chez Virtuos (Oblivion Remastered, MGS 3 Delta) → https://cutt.ly/irOsQTVG
+
+» 🦋 [BlueSky / Chloé Woitier / 16 juil. 2025] 🧵 https://bsky.app/profile/chloew.bsky.social/post/3lu3t4vx2gk2b
+> Ubisoft nomme Charlie Guillemot et Christophe Derennes co-CEO de la fameuse "nouvelle filiale"
+
+» 🇫🇷 [Boursorama / 16 juil. 2025] Pullup Entertainment euphorique au premier trimestre → https://cutt.ly/IrOiVFad
+
+» 🇺🇸 [Bloomberg / 15 juil. 2025] Krafton extends ‘Subnautica 2’ bonus period, is sued by founders. The former leadership group of game developer Unknown Worlds is suing parent company Krafton for breach of contract → https://cutt.ly/CrOsboD0
+» 🇫🇷 [Gamekult / 16 juil. 2025] Subnautica 2 : finalement, les développeurs ne seront pas lésés par le report du jeu. Krafton va prolonger le calendrier de paiement du bonus → https://cutt.ly/UrOsvAXj
+» 🇺🇸 [Bloomberg / 16 juil. 2025] ‘Subnautica 2’ leaders say Krafton sabotaged game over payout. In a newly unsealed complaint, the ousted leadership group accused the South Korean video-game publisher of firing them without cause to seize control of the company → https://cutt.ly/8rOiNMgS
+» 🇺🇸 [Aftermath / 16 juil. 2025] Unknown worlds lawsuit claims Krafton intentionally delayed Subnautica 2 to avoid $250M payout. Lawsuit details the 'months-long campaign to delay Subnautica 2's release' → https://cutt.ly/2rOoq1Zi
+» 🇺🇸 [IGN / 16 juil. 2025] Former Subnautica 2 leaders accuse Krafton of hindering game's release, firing them to avoid paying $250 million bonus. The founders claim all was well until revenue targets were better than expected. → https://cutt.ly/BrOorcRl
+» 🇫🇷 [IGN France / 17 juil. 2025] Les anciens boss de Subnautica 2 accusent Krafton d'entraver la sortie du jeu, et de les avoir virés pour éviter de payer 250 millions de dollars de bonus. Les fondateurs affirment que tout allait bien jusqu'à ce que les objectifs de revenus soient plus élevés que prévu → https://cutt.ly/nrOowHJr
+» 🇫🇷 [ActuGaming / 17 juil. 2025] Subnautica 2 : L’ancienne direction du studio Unknown Worlds accuse l’éditeur Krafton d’avoir voulu saboter le jeu → https://actugaming.net/a-737664
+» 🇫🇷 [Gamekult / 17 juil. 2025] Subnautica 2 : les fondateurs poursuivent Krafton pour licenciement abusif dans un litige à 250 millions de dollars. Voici comment les relations se sont détériorées → https://cutt.ly/5rOoeV2P
+
+» 🦋 [BlueSky / GameDiscoverCo / 16 juil. 2025] 🧵 https://bsky.app/profile/gamediscoverco.bsky.social/post/3lu3ztsbsls2a
+> Great news for Steam devs: not only is the back-end wishlist logging back after their 'brief' Steam Summer Sale downtime (haha), Valve has taken advantage of the break to make them, wait for it.. realtime! (They update every hour now in the 'today' section of the Steam sales dashboard.)
+
+» 🇫🇷 [ActuGaming / 16 juil. 2025] Guild Wars 2 est toujours bien vivant et prépare le terrain pour sa nouvelle extension, Visions of Eternity → https://actugaming.net/a-737429
+
+» 🇫🇷 [ActuGaming / 16 juil. 2025] Zenless Zone Zero passe en version 2.1 et célèbre l’été en sortant les maillots de bain → https://actugaming.net/a-737474
+
+» 🇫🇷 [ActuGaming / 16 juil. 2025] Drag x Drive sera jouable sur Switch 2 du 9 au 10 août le temps de quelques sessions gratuites → https://actugaming.net/a-737495
+
+» 🇫🇷 [ActuGaming / 16 juil. 2025] Frosthaven : L’adaptation du jeu de plateau démarrera son accès anticipé à la toute fin du mois → https://actugaming.net/a-737513
+
+» 🇫🇷 [ActuGaming / 16 juil. 2025] Le film The Legend of Zelda de Nintendo vient de trouver ses deux interprètes principaux dans les rôles de Link et Zelda → https://actugaming.net/a-737524
+» 🇫🇷 [Gamekult / 16 juil. 2025] The Legend of Zelda : le film live dévoile les acteurs de Link et Zelda → https://cutt.ly/LrOsbcqg
+
+» 🇫🇷 [ActuGaming / 16 juil. 2025] Donkey Kong Bananza : voici l’actrice française qui double Pauline dans le jeu → https://actugaming.net/a-737533
+
+» 🇫🇷 [ActuGaming / 16 juil. 2025] Pokémon TCG Pocket va enfin apporter des modifications au système d’échange de cartes dès la fin juillet → https://actugaming.net/a-737542
+
+» 🇺🇸 [Variety / 15 juil. 2025] HBO Max boss Casey Bloys on ‘The Penguin’ season 2, what’s next for ‘The Last of Us’ and if he’d ride a plane piloted by Nathan Fielder → https://cutt.ly/brOobN7e
+» 🇬🇧 [Eurogamer / 16 juil. 2025] HBO boss not worried about The Last of Us without Neil Druckmann, as season three gets 2027 release window. "He's given us a good blueprint." → https://cutt.ly/0rOobPQe
+» 🇫🇷 [ActuGaming / 16 juil. 2025] The Last of Us : HBO n’est pas inquiété par le départ de Neil Druckmann et prévoit une saison 3 pour 2027 → https://actugaming.net/a-737545
+» 🇫🇷 [Gamekult / 16 juil. 2025] The Last of Us : la saison 3 sortira en 2027 et pourrait être la dernière saison → https://cutt.ly/SrOsbOtA
+
+» 🇺🇸 [Variety / 16 juil. 2025] Ubisoft names co-CEOs of Spinoff: Christophe Derennes, Charlie Guillemot talk plans for ‘Assassin’s Creed,’ ‘Rainbow Six’ and ‘Far Cry’ → https://cutt.ly/IrOome8x
+» 🇺🇸 [Aftermath / 16 juil. 2025] Don’t worry about me being a nepo baby, says nepo baby → https://cutt.ly/3rOoEGgN
+» 🇫🇷 [ActuGaming / 16 juil. 2025] Ubisoft nomme Charlie Guillemot et Christophe Derennes à la tête de sa nouvelle filiale stratégique → https://actugaming.net/a-737583
+» 🇫🇷 [ActuGaming / 17 juil. 2025] Ubisoft : Yves Guillemot nomme son fils et son cousin à la tête de la nouvelle société. « Ce qui compte aujourd'hui, ce n'est pas mon nom » → https://cutt.ly/orOomKU7
+» 🇫🇷 [Courrier International / 1er sept. 2020] Ubisoft retire une vidéo anti-Black Lives Matter de son jeu “Elite Squad”. La séquence d’introduction du dernier titre de la série des Tom Clancy’s a été fortement critiquée, notamment aux États-Unis, pour avoir assimilé le mouvement social antiraciste Black Lives Matter à une organisation terroriste. Ubisoft tente de rectifier le tir. → https://cutt.ly/BrOoWSlF
+
+» 🇫🇷 [ActuGaming / 16 juil. 2025] Cyberpunk 2077 : la mise à jour 2.3 introduit la conduite autonome, de nouveaux véhicules et de nombreuses améliorations → https://actugaming.net/a-737587
+
+
+
+» 🇺🇸 [Variety / 17 juil. 2025] ‘Assassin’s Creed’ Live-Action Series Ordered at Netflix → https://cutt.ly/YrOiNirB
+
+» 🇫🇷 [STJV / 17 juil. 2025] Stop Killing Games : préservons les fruits de notre labeur ! → https://cutt.ly/trOiJBQX
+
+» 🇺🇸 [IGN / 17 juil. 2025] Roblox's new safety features include an AI that will guess your age based on a video selfie. The company claims new features will help keep teens on platform, where conversations can be moderated → Link limit exceeded
+
+» 🇫🇷 [Sega / 16 juil. 2025] Foire aux questions de Sonic Racing: Crossworlds sur la Nintendo Switch 2 → https://cutt.ly/JrOi3z8w
+» 🇫🇷 [ActuGaming / 16 juil. 2025] Sonic Racing: CrossWorlds détaille la personnalisation des véhicules et sa version Nintendo Switch 2 → https://actugaming.net/a-737592
+» 🇺🇸 [IGN / 17 juil. 2025] Sega addresses concerns Sonic Racing: CrossWorlds will be sold as a Game-Key Card on Nintendo Switch 2, confirms the 'full base game' will be included on the 64GB cartridge → https://cutt.ly/UrOi9xep
+» 🇫🇷 [IGN France / 17 juil. 2025] Sega rassure les fans de Sonic Racing: CrossWorlds : le 'jeu de base complet' sera sur la cartouche 64 Go → https://cutt.ly/ErOi3VU1
+» 🇫🇷 [Gamekult / 17 juil. 2025] Pour Sonic Racing : CrossWorlds sur Switch 2, Sega fait le choix de la cartouche physique complète → https://cutt.ly/xrOoYBN8
+
+» 🇺🇸 [Nada Holdings / 17 juil. 2025] Nada Holdings and Dragami Games launch new IP development for Lollipop Chainsaw → https://cutt.ly/GrOoIn03
+» 🇫🇷 [ActuGaming / 17 juil. 2025] La licence Lollipop Chainsaw va continuer d’une manière ou d’une autre avec plusieurs projets en préparation → https://actugaming.net/a-737669
+
+» 🇫🇷 [ActuGaming / 17 juil. 2025] Dead Take : Le jeu d’horreur nous fera plonger dans les traumas d’acteurs dès le 31 juillet → https://actugaming.net/a-737733
+
+» 🇫🇷 [ActuGaming / 17 juil. 2025] La série live-action Assassin’s Creed de Netflix avance enfin et trouve ses deux showrunners → https://actugaming.net/a-737751
+
+» 🇯🇵 [Famitsu / 15 juil. 2025] 外山圭一郎氏の次回作が開発中！「スタジオの総力を挙げて立ち向かう」。『野狗子』コンセプトアート展リポート。展示の模様や、開発陣へのインタビューもお届け → https://cutt.ly/lrOoP4KX
+» 🇺🇸 [Automaton Media / 17 juil. 2025] Silent Hill creator Keiichiro Toyama is already working on his next game, and it’s not a Slitterhead sequel. In a recent interview, Silent Hill and Slitterhead creator Keiichiro Toyama reveals his studio is working on a brand-new title → https://cutt.ly/TrOoPoP6
+» 🇫🇷 [ActuGaming / 17 juil. 2025] Le créateur de Silent Hill travaille sur un nouveau jeu, qui ne sera pas Slitterhead 2 → https://actugaming.net/a-737756
+» 🇫🇷 [Gamekult / 17 juil. 2025] Slitterhead ne s'est pas bien vendu, mais Keiichiro Toyama (Silent Hill) travaille sur son prochain jeu → https://cutt.ly/8rOsWdLz
+
+» 🇫🇷 [ActuGaming / 17 juil. 2025] Le jeu d’action Echoes of the End, très inspiré par God of War, trouve sa date de sortie → https://actugaming.net/a-737762
+
+» 🇺🇸 [Automaton Media / 17 juil. 2025] Japanese political party wants video games and anime to be put under state authority to make sure they’re “wholesome,” and people are angry. A Japanese populist party participating in upcoming collections is receiving backlash for its stance on games, anime and manga → https://cutt.ly/rrOoFAsE
+» ▶️ [YouTube / TLDR News / 2 juil. 2025] Why the far right is on the rise in Japan → https://youtu.be/cOHQhKaZLYk (9 min)
+
+» 🇯🇵 [Denfaminicogamer / 17 juil. 2025] 『ICO』、『ワンダと巨像』の上田文人氏は、高橋慶太氏の新作『to a T』をどう捉えたのか？　「ビデオゲームはもっと自由でいい」とふたりが語る、ゲームの”いま”とこれから → https://cutt.ly/1rOpukRV
+» 🇺🇸 [Automaton Media / 17 juil. 2025] ICO, Shadow of The Colossus director praises Katamari Damacy creator’s new game for not being mechanics-based. “The age of gameplay mechanics has already passed“. Fumito Ueda praised Keita Takahashi's To a T for not relying on mechanics, stating that the age of coming up with new mechanics is long over → https://cutt.ly/yrOpyAXt
+
+» 🇫🇷 [ActuGaming / 17 juil. 2025] Johnny Cage enchaîne les cascades dans la première bande-annonce du film Mortal Kombat 2 → https://actugaming.net/a-737768
+
+» 🇺🇸 [Insider Gaming / 17 juil. 2025] Job listing shows Contraband is still in development → https://cutt.ly/HrOpxf0f
+» 🇫🇷 [ActuGaming / 17 juil. 2025] Contraband serait toujours en développement, puisque Avalanche Studios continue de recruter → https://actugaming.net/a-737790
+» 🇫🇷 [Gamekult / 17 juil. 2025] Contraband : l'exclusivité Xbox toujours en développement, c'est un jeu-service → https://cutt.ly/TrOsQ69e
+
+» 🇫🇷 [Gamekult / 17 juil. 2025] Splitgate 2 aurait misé 400 000 dollars uniquement sur les créateurs de contenu → https://cutt.ly/yrOsQHQG
+
+» 🇫🇷 [Gamekult / 17 juil. 2025] Escape from Tarkov rétropédale face à la colère des joueurs → https://cutt.ly/wrOsWubl
+
+
+
+
+» 🇫🇷 [ActuGaming / 17 juil. 2025] 
+
+» 🇫🇷 [Gamekult / 14 juil. 2025] 
+
+» 🇬🇧 [PC Gamer / 14 juil. 2025] 
+
+» 🇺🇸 [Automaton Media / 17 juil. 2025] 
+
+» 🇺🇸 [Kotaku / 14 juil. 2025] 
+
+» 🇺🇸 [Time Extension / 14 juil. 2025] 
 
 
 
