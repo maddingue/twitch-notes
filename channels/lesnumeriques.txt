@@ -13147,6 +13147,123 @@ raids entrants :
 raids : LesNumeriques => (13:34)[+200] PolochSansGene => (17:05)[+42] SciencesALaCarte (>19:00) => (00:12) MiaMakesMusic (>04:20) => (<10:34) CookSuxAlwaysOn [CookSux=>(10:34)+532] (samedi) (dimanche) (>02:00)
 
 
+--------------------------------------
+2025-08-28
+
+» 🇫🇷 [Les Numériques] La Quotidienne sur Twitch et en direct de Beaugrenelle pour Les Jours Les Plus Tech → https://lesnumeriques.com/societe-numerique/-n241575.html
+» 🇫🇷 [20 minutes] Tout juste lancée en France, on a testé la traduction simultanée sur Google Meet. Google lance en France la traduction simultanée et bouleverse les rendez-vous en visio dans Google Meet → https://www.20minutes.fr/high-tech/4169773-20250828-tout-juste-lancee-france-teste-traduction-simultanee-google-meet
+» 🇫🇷 [Les Numériques] On y est enfin : Starship décolle et amerrit comme prévu ! → https://lesnumeriques.com/astronomie-conquete-spatiale/-n241528.html
+» 🇫🇷 [Les Numériques] Pollution spatiale : l’alerte des scientifiques face aux méga-constellations comme Starlink → https://lesnumeriques.com/spatial/-n241359.html
+» 🇫🇷 [Les Numériques] Il y a tout juste 10 ans, la France faisait de l’obsolescence programmée un délit. En vain ? → https://lesnumeriques.com/societe-numerique/-n240906.html
+» 🇫🇷 [Les Numériques] C’est une première mondiale : Samsung promet 7 ans de mises à jour à ses appareils électroménagers, tous désormais unifiés sous One UI → https://lesnumeriques.com/divers-electromenager/-n241445.html
+» 🇫🇷 [Les Numériques] Ce PC portable est le seul qui puisse passer d'une Radeon à une GeForce en un clin d'oeil → https://lesnumeriques.com/ordinateur-portable/-n241508.html
+» 🇫🇷 [Les Numériques] Pixel Watch : Google prouve enfin qu’une smartwatch peut être réparable → https://lesnumeriques.com/montre-connectee/-n241279.html
+» 🇫🇷 [Les Numériques] Keynote Apple : voici la date de présentation des iPhone 17 ! → https://lesnumeriques.com/telephone-portable/-n241510.html
+» 🇫🇷 [Les Numériques] Avec les Pixel 10 Pro et Pro XL, Google voit toujours plus grand : nos premières impressions → https://lesnumeriques.com/telephone-portable/-n241180.html
+» 🇫🇷 [Les Numériques] "Premier ransomware par IA" : ce logiciel pirate boosté par GPT est capable du pire, ce n'est que le début → https://lesnumeriques.com/intelligence-artificielle/-n241573.html
+» 🇫🇷 [Les Numériques] Une IA piège les plus grands médias américains en se faisant passer pour une journaliste → https://lesnumeriques.com/intelligence-artificielle/-n241356.html
+» [Notebook Check] $100 would be a fair GTA 6 price according to a third of Brazilian gamers surveyed → https://notebookcheck.net/n.1097974.0.html
+
+raids entrants :
+- CaballeroFatal à 12:25 +12
+
+raids : LesNumeriques => (13:39)[+197] LamHua => (16:48)[+386] Modiiie (>17:00) => (<20:20) Jarm0u (vendredi) => (00:36)[+77] nalalath (>00:55) => (<09:08) StromBlooper (terminé à 01:52)
+
+
+--------------------------------------
+2025-08-29
+
+» 🇫🇷 [Les Numériques] La Quotidienne sur Twitch et en direct de Beaugrenelle pour Les Jours Les Plus Tech → https://lesnumeriques.com/societe-numerique/-n241575.html
+» 🇫🇷 [Gamekult] Game Pass : bientôt plus besoin d'être abonné Ultimate pour profiter du Xbox Cloud Gaming → https://gamekult.com/actualite/-3050865492.html
+» 🇫🇷 [Les Numériques] ROG Xbox Ally : comment Microsoft veut faire de Windows 11 la meilleure console de jeu → https://lesnumeriques.com/console-jeu-portable/-n241340.html
+» 🇫🇷 [Gamekult] Preview : Est-ce que tous les chemins de Sonic Racing : CrossWorlds mènent au chrome ? → https://www.gamekult.com/jeux/sonic-racing-crossworlds-3050888105/preview-3050863997.html
+» 🇫🇷 [Gamekult] Preview : Onimusha Way of the Sword, ou l'art de la découpe → https://www.gamekult.com/jeux/onimusha-way-of-the-sword-3050888102/preview-3050865476.html
+» 🇫🇷 [Gamekult] Preview : Pragmata : première prise en main prometteuse → https://www.gamekult.com/jeux/pragmata-3050882343/preview-3050864165.html
+» 🇫🇷 [Gamekult] Preview : Turok : Origins essaie de ressusciter une espèce disparue, ça tourne mal → https://www.gamekult.com/jeux/turok-origins-3050888106/preview-3050865376.html
+» 🇫🇷 [Gamekult] Space Adventure Cobra - The Awakening montre son gameplay run 'n gun → https://gamekult.com/actualite/-3050864781.html
+» 🇫🇷 [Gamekult] Preview : Where Winds Meet : juste un free-to-play de plus ? → https://www.gamekult.com/jeux/where-winds-meet-3050886055/preview-3050865427.html
+» 🇫🇷 [Gamekult] Preview : Et si Screamer était le jeu de la Gamescom 2025 ? → https://www.gamekult.com/jeux/screamer-3050888090/preview-3050865365.html
+» 🇫🇷 [Gamekult] Denshattack! : l’ovni arcade où les trains font des tricks est annoncé pour 2026 → https://gamekult.com/actualite/-3050865400.html
+» 🇫🇷 [Gamekult] Preview : Resident Evil Requiem : touché par la Grace ? → https://www.gamekult.com/jeux/resident-evil-9-requiem-3050888583/preview-3050865403.html
+» 🇫🇷 [Gamekult] Preview : Marvel's Deadpool VR injecte (beaucoup) de sang neuf dans la réalité virtuelle → https://www.gamekult.com/jeux/deadpool-vr-3050888580/preview-3050865374.html
+» 🇫🇷 [Gamekult] Preview : Cinder City, le TPS qui imite The Division pour mieux régner → https://www.gamekult.com/jeux/project-lll-3050886337/preview-3050865316.html
+» 🇫🇷 [Gamekult] Preview : Black State, le missile turc qui finit en pétard mouillé → https://www.gamekult.com/jeux/black-state-3050888719/preview-3050865317.html
+» 🇫🇷 [Gamekult] Preview : Borderlands 4 renoue avec les racines de la franchise (et ça fait du bien) → https://www.gamekult.com/jeux/borderlands-4-3050887869/preview-3050865323.html
+» 🇫🇷 [Gamekult] Avec 47,1 millions de joueurs simultanés, Roblox seul bat le record absolu de Steam → https://gamekult.com/actualite/-3050865496.html
+» 🇫🇷 [Gamekult] Star Citizen : Squadron 42 veut être "aussi gros" que GTA 6, selon Chris Roberts → https://gamekult.com/actualite/-3050865478.html
+» 🇫🇷 [Gamekult] No Man’s Sky transforme les vaisseaux en véritables maisons avec sa dernière mise à jour → https://gamekult.com/actualite/-3050865497.html
+» 🇫🇷 [Gamekult] Call of Duty : Black Ops 7 ne conservera pas vos cosmétiques de Black Ops 6 → https://gamekult.com/actualite/-3050865475.html
+» 🇫🇷 [Gamekult] Test : Metal Gear Solid Delta n'est pas forcément le remake que MGS 3 méritait ; 7/10 par Max Cagnard → https://www.gamekult.com/jeux/metal-gear-solid-delta-snake-eater-3050886834/test.html
+» 🇫🇷 [Gamekult] Test : Avec Shinobi : Art of Vengeance, Sega dépoussière les années 90 ; 7/10 par Cael → https://www.gamekult.com/jeux/shinobi-2024-3050887283/test.html
+» 🇫🇷 [Gamekult] Kirby et le monde oublié + Le pays des étoiles filantes brille de mille feux → https://gamekult.com/actualite/-3050865451.html
+
+LesNumeriques => (13:33)[+131] CabriDIY => (14:36)[+226] Protsky [Kalyoz=>(14:53)+85] (>15:20) => (17:57) JVleMag [OsmosisCoop=>(18:14)+79] [DollyWood_=>(18:23)+88] => (18:43)[+90] jotarofujo (terminé à 19:19)
+
+
+--------------------------------------
+2025-09-04
+
+» No, I'm not a Human ; édité par Critical Reflex, développé par Trioskaz → https://s.team/a/3180070
+» 007 First Light, le 26 mars 2026 sur Switch 2, PlayStation 5, Xbox Series et PC ; développé par IO Interactive → https://s.team/a/3768760 | https://ioi.dk/007firstlightgame
+» 🇫🇷 [Gamekult] Hollow Knight : Silksong est autant fascinant qu'énervant → https://gamekult.com/actualite/-3050865532.html
+» 🇫🇷 [Gamekult] Call of Duty 2 s'offre une nouvelle jeunesse grâce au RTX Remix de Nvidia → https://gamekult.com/actualite/-3050865431.html
+» 🇫🇷 [Gamekult] Tomb Raider : l'adaptation en série a trouvé sa Lara Croft → https://gamekult.com/actualite/-3050865610.html
+» 🇫🇷 [Gamekult] C’est officiel, Stellar Blade 2 est bien en cours de développement → https://gamekult.com/actualite/-3050865609.html
+» 🇫🇷 [Gamekult] Clair Obscur : Expedition 33 s'offre une tournée de concerts officiels en France et dans le monde → https://gamekult.com/actualite/-3050865602.html
+» 🇫🇷 [Gamekult] Perfect Dark : le jeu annulé par Microsoft a failli rebondir chez Take-Two → https://gamekult.com/actualite/-3050865590.html
+» 🇫🇷 [Gamekult] World of Warcraft : Blizzard s'attaque aux serveurs privés des joueurs → https://gamekult.com/actualite/-3050865595.html
+» 🇫🇷 [Gamekult] L'organisateur de l'Evo appartient désormais à l'Arabie saoudite → https://gamekult.com/actualite/-3050865586.html
+» 🇫🇷 [Gamekult] Dragon Ball : Gekishin Squadra réunira les boules de cristal le 9 septembre → https://gamekult.com/actualite/-3050865582.html
+» 🇫🇷 [Gamekult] Mike Booth se lance dans un nouveau jeu coopératif à la Left 4 Dead → https://gamekult.com/actualite/-3050865587.html
+» 🇫🇷 [Gamekult] Arena Breakout : Infinite sortira d'accès anticipé le 15 septembre → https://gamekult.com/actualite/-3050865581.html
+» 🇫🇷 [Gamekult] Tekken 8 : ceci est un important communiqué mammaire de Katsuhiro Harada → https://gamekult.com/actualite/-3050865573.html
+» 🇫🇷 [Gamekult] Atari : le PDG veut remasteriser des classiques de Sega, Kojima et Square Enix → https://gamekult.com/actualite/-3050865578.html
+» 🇫🇷 [Gamekult] Sorties Xbox Game Pass septembre 2025 : Hollow Knight Silksong ouvre la marche → https://gamekult.com/actualite/-3050865580.html
+» 🇫🇷 [Gamekult] Rocksteady (Batman Arkham) veut tourner la page Suicide Squad avec un vétéran d’Assassin’s Creed → https://gamekult.com/actualite/-3050865574.html
+» 🇫🇷 [Gamekult] Rayman a 30 ans : Ubisoft confirme un nouveau projet pour sa mascotte iconique → https://gamekult.com/actualite/-3050865571.html
+» 🇫🇷 [Gamekult] Capcom attribue les ventes en berne de Monster Hunter Wilds… au prix de la PS5 → https://gamekult.com/actualite/-3050865568.html
+» 🇫🇷 [Gamekult] Lego x Pokémon : la collaboration pourrait donner naissance à l'un des plus gros sets jamais sortis → https://gamekult.com/actualite/-3050865565.html
+» 🇫🇷 [Gamekult] Pragmata : le gameplay n'a été déterminé qu'en 2023 selon son producteur → https://gamekult.com/actualite/-3050865548.html
+» 🇫🇷 [Gamekult] Preview : Silent Hill f, un retour rigide, mais plein de fraîcheur → https://www.gamekult.com/jeux/silent-hill-f-3050886271/preview-3050865355.html
+» 🇫🇷 [Gamekult] Borderlands 4 dévoile un programme end-game et post-lancement bien chargé → https://gamekult.com/actualite/-3050865543.html
+» 🇫🇷 [Gamekult] Mortal Kombat 2 : le film de Karl Urban est repoussé à 2026 → https://gamekult.com/actualite/-3050865539.html
+» 🇫🇷 [Gamekult] Fairgames : après Jade Raymond, le jeu-service de Sony perd son réalisateur → https://gamekult.com/actualite/-3050865541.html
+» 🇫🇷 [Gamekult] Test : Cronos : The New Dawn est le travail du cœur de Bloober Team ; 7/10 par Kelma → https://www.gamekult.com/jeux/cronos-the-new-dawn-3050887999/test.html
+» 🇫🇷 [Gamekult] Test : Sword of the Sea est un excellent jeu de surf qui s'ignore ; 8/10 par Kelma → https://www.gamekult.com/jeux/sword-of-the-sea-3050886844/test.html
+» 🇫🇷 [Gamekult] Test : Herdling mène son troupeau avec difficulté ; 6/10 par Kelma → https://www.gamekult.com/jeux/herdling-3050887873/test.html
+» 🇫🇷 [Gamekult] Test : Hell is Us est coupable de non-assistance à personne en danger ; 8/10 par Jarod → https://www.gamekult.com/jeux/hell-is-us-3050885335/test.html
+» 🇫🇷 [Gamekult] Test : Time Flies, une ode pleine de justesse au temps qui passe ; 8/10 par Kelma → https://www.gamekult.com/jeux/time-flies-3050885629/test.html
+
+raids entrants :
+- Coffee à 13:13 +153
+
+raids : LesNumeriques => (13:41)[+220] Lapetitepotiere [family_bear_travel=>(13:43)+26] => (14:34)[+208] Pantoufl (terminé à 17:30)
+
+
+--------------------------------------
+2025-09-05
+
+» 🇫🇷 [Les Numériques] Le nouveau smartphone tri-fold de Huawei est plus puissant (et plus cher) que jamais → https://lesnumeriques.com/telephone-portable/-n242021.html
+» 🇫🇷 [Numerama] Qui est le « chroniqueur IA » de Cyril Hanouna sur W9 ? → https://www.numerama.com/tech/2063829-x.html
+» 🇫🇷 [Les Numériques] Superman 2 : James Gunn dévoile le titre officiel de la suite et sa date de sortie → https://lesnumeriques.com/film/-n241987.html
+» 🇫🇷 [Les Numériques] Pornographie en ligne : la fausse promesse d’anonymat → https://lesnumeriques.com/cine-svod/-n242047.html
+» 🇫🇷 [Les Numériques] Lenovo Legion Go 2 : la nouvelle console portable aux manettes détachables enfin officialisée avec la puce Z2 Extreme → https://lesnumeriques.com/console-jeu-portable/-n242005.html
+» 🇫🇷 [Les Numériques] Soundcore Sleep A30 : des écouteurs de sommeil qui détectent et neutralisent les ronflements → https://lesnumeriques.com/ecouteurs-sans-fil/-n241903.html
+» 🇫🇷 [Les Numériques] Mini-prix et de l'IA : Motorola bouscule l'entrée de gamme avec ses derniers Moto G → https://lesnumeriques.com/telephone-portable/-n241939.html
+» 🇫🇷 [Les Numériques] Les Nums, l'Update : Épisode #35 → https://lesnumeriques.com/emission/-em242035.html
+» 🇫🇷 [Les Numériques] 
+» 🇫🇷 [Les Numériques] 
+
+raids entrants :
+- DazJDM à 12:57 +352
+
+recommandations de raids : OrigaTwitch (Hubert est en train de tester des jeux pour le prochain Wishlist), Modiiie, 🌿 JardiStream 🌿, MonPetitPC, LamHua
+
+raids : LesNumeriques => (13:35)[+242] MonPetitPC => (17:17) [+162] Clara_l_Exploratrice (samedi) [David_Kyden=>(00:24)+160] [JessBond=>(01:20)+76] [Petitours=>(01:33]+51] [Fallanem=>(01:42)+3] [twowiki=>(02:02)+19] (>16:00) => (18:57)[+63] Did0us [SenshiHira=>(19:33)+19] (dimanche) => (00:58)[+118] Recalbox [Codes_Rousseau=>(20:05)+44] (lundi) (>01:20) => (01:37) Aishuu [Terada=>(01:59)+168] (terminé à 02:30)
+
+
+
+
 » ▶️ [YouTube] 
 » 🐦 [Twitter] 
 » [𝕏 (ex Twitter)]  🧵
