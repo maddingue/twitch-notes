@@ -13661,7 +13661,23 @@ raids : OrigaTwitch => (15:05)[+488] JVleMag [LamHua=>(16:xx)] => (18:16)[+153] 
 ## Switch 2
 » Switch 2, sortie le 5 juin 2025, à 470 € seule, à 510 € avec Mario Kart World
 
+### Jeux
+
+### Nintendo Switch 2: Welcome Tour
+- sorti le 5 juin 2025 sur Switch 2
+- développé par Nintendo EPD
+
+🎮 10 € sur Switch 2 (<https://cutt.ly/grIoJWWR>)
+
+### Mario Kart World
 » Mario Kart World, sorti le 5 juin 2025 à 80 € sur Switch 2 → https://cutt.ly/7rn23PON
+
+- sorti le 5 juin 2025 sur Switch 2
+- développé par Nintendo EPD et Monolith Soft
+- réalisé par Kenta Sato, Masaaki Ishikawa et Shintaro Jikumaru, programmation dirigée par Kenta Sato, direction artistique par Masaaki Ishikawa, musiques par Atsuko Asahi, Maasa Miyoshi, Takuhiro Honda, Yutaro Takakuwa
+
+🎮 80 € sur Switch 2 (<https://cutt.ly/7rn23PON>)
+🎮 à partir de 70 € en grande distribution
 
 ## Mais pas que
 ### Kévin
@@ -14273,6 +14289,14 @@ excuses de sac :
 ### The Alters
 » The Alters, le 13 juin 2025 à 35 € sur PlayStation 5, Xbox Series (Game Pass) et PC / Steam Deck ; développé par 11 bit Studios → https://altersthegame.com | https://s.team/a/1601570
 
+- sorti le 13 juin 2025 à 35 € sur PlayStation 5, Xbox Series (Game Pass) et PC / Steam Deck
+- développé par 11 bit Studios, studio polonais 🇵🇱 derrière la série de jeux _Anomaly_ (2011-2014), _This War of Mine_ (2014), _Frostpunk_ (2018), _Frostpunk 2_ (2024) → <https://altersthegame.com>
+- réalisation et direction artistique par Tomasz Kisilewicz, conception par Rafał Włosek, musiques par Piotr Musiał
+
+🎮 35 € sur PlayStation (<https://cutt.ly/FrIoU4PC>)
+🎮 35 € ou inclus dans le Game Pass sur Xbox (<https://cutt.ly/ZrIoIiGP>)
+💻️ 35 € sur Steam (<https://s.team/a/1601570>)
+
 excuses de sac :
 - je n'ai jamais dis que j'avais le contrôle de cette émission, donc ce n'est pas comme si je l'avais perdu (Padre)
 
@@ -14792,6 +14816,38 @@ raids : OrigaTwitch => (15:42) OscarLemaire => (18:02)[+128] Ponce [Meyvi_la_lut
 » 🇺🇸 [GamesPress / 4 juil. 2025] Black Salt Games announces new studio and next projects → https://cutt.ly/rrUdaopS
 
 
+--------------------------------------
+2025-07-11
+
+
+# L'Hebdo #73
+## Actus
+### Origami
+» ▶️ [YouTube / 8 juil. 2025] La Mardinale — Battlefield 6, dans les coulisses d'un projet sous pression → https://youtu.be/IkgRp7YvA1Y (28 min)
+» ▶️ [YouTube / 10 juil. 2025] Super Vieux Jeux — L’Amstrad CPC de A à Z, le crocodile dandy 🕹️ → https://youtu.be/rtJ5H5b3CIU (3 h 13 min)
+» 🎧 [Patreon / 9 juil. 2025] Conf’ 2 Rédac’ — Piscine verticale → https://patreon.com/posts/133677290 (40 min)
+
+
+--------------------------------------
+2025-09-05
+
+» Gigasword, le 2 oct. 2025 sur Switch, PlayStation, Xbox et PC / Steam Deck, démo disponible ; développé par Jack Breen / Studio Hybrid → https://s.team/a/1885930 | https://hybridgamesofficial.com
+
+» Escape Simulator 2, le 27 oct. 2025 sur PC / Steam Deck ; développé par Pine Studio, derrière Escape Simulator (2021), SEUM: Speedrunners from Hell (2016), les jeux Farawy → https://pinestudio.com/games/escape-simulator-2/ | https://s.team/a/2879840
+
+excuses de sac :
+- je crois que j'ai la flemme (Hubert)
+
+» Angry Video Game Nerd 8-bit, annoncé pour oct. 2025 sur Switch, PlayStation, Xbox et PC / Steam Deck, démo disponible ; édité par Retroware, développé par Mega Cat Studios et Programancer → https://avgn8bit.com | https://s.team/a/3445490
+
+excuses de sac :
+- c'est le genre de jeu à apprendre par cœur, et vous voyez qu'aujourd'hui, ça a du mal à rentrer (Hubert)
+
+» Hollow Knight: Silksong, sorti le 4 sept. 2025 à 20 € sur Switch, PlayStation, Xbox, Windows, Mac, Linux et Steam Deck ; développé par Team Cherry, studio australien derrière Hollow Knight (2017) → http://hollowknightsilksong.com | https://s.team/a/1030300
+
+raids : OrigaTwitch => (14:55)[+203] Zenibuka => (18:38)[+11] SweetBerry21 (>19:00) => (<23:53) DamDamLive (>23:50) => (<01:52) Shisheyu (>03:00) => (<14:04) Trinity  (>19:20) => (<20:35) LittleBigWhale [Kliceo=>(02:32)+6] (>03:30) => (<09:41) Sratuke (>10;08) => (12:01)[+1625] JennyyL (>22:00) => (01:02) ZeratoR (terminé à 01:55)
+
+
 
 
 » 💬
@@ -14853,3 +14909,4 @@ les copains :
 🦊 Seldell → 📰 https://indiemag.fr | 📡 https://twitch.tv/Seldell | ▶️ https://YouTube.com/@Seldell
 🩸 DollyWood_ → 📡 https://twitch.tv/dollywood_ | ▶️ https://youtube.com/@DollyWoodYT
 📰 Gâchette Gauche, le rendez-vous de la presse JV, tous les derniers lundis du mois ou presque, sur la chaîne Twitch de Silence on joue → https://twitch.tv/silenceonjoue
+🟠 Sumimasen Turbo → ▶️ https://youtube.com/@sumimasenturbo
