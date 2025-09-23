@@ -5296,9 +5296,6 @@ traduction :
 » 🇺🇸 [IGN / 27 août. 2025] Crystal Dynamics lays off more following Perfect Dark cancelation. It's unclear how many were impacted. → https://cutt.ly/QrBLqRjm
 » 🇫🇷 [IGN France / 28 août 2025] Crystal Dynamics licencie de nouvelles personnes après l'annulation de Perfect Dark. On ne sait pas exactement combien de personnes ont été touchées. → https://cutt.ly/crBLqMoK
 
-» 🇺🇸 [IGN / 28 août. 2025] Diablo developers vote to unionize at Blizzard. Another Blizzard wall-to-wall union → https://cutt.ly/crBK62nv
-» 🇫🇷 [IGN France / 29 août 2025] Les développeurs de Diablo votent pour une syndicalisation chez Blizzard → https://cutt.ly/PrBK6IdL
-
 » 🇺🇸 [Games Industry / 1er sept. 2025] Atari head Wade Rosen explains why he bought Thunderful – and what he plans to do with it. The Atari CEO on the importance of having a base in Europe, Atari's evolution beyond retro, and why he's tired of overly long, overly similar video games → https://cutt.ly/GrBZNDFC
 
 » 🇺🇸 [IGN / 2 sept. 2025] Perfect Dark was nearly saved By Take-Two, but the deal fell through. Studio leadership spent two months looking for a new partner. → https://cutt.ly/BrBK7Bho
@@ -5318,9 +5315,6 @@ traduction :
 » 🇺🇸 [Games Industry / 9 sept. 2025] Over 50% of games industry layoffs have taken place in California. According to Amir Satvat "overall employment in the industry has actually increased", but over 70% of redundancies have affected people in the US → https://cutt.ly/hrBZVxLC
 
 » 🇺🇸 [RPG Site / 10 sept. 2025] Warframe is in the works for Nintendo Switch 2, Digital Extremes now has devkits → https://rpgsite.net/news/18384-n
-
-» 🇫🇷 [Le Parisien / 10 sept. 2025] « C’est une trahison » : quand l’IA vole la voix française d’Angelina Jolie pour « Tomb Raider ». Françoise Cadol, qui double Lara Croft, Angelina Jolie et Sandra Bullock, a mis en demeure l’éditeur des jeux vidéo « Tomb Raider » qui a utilisé sa voix avec une intelligence artificielle sans son accord. Elle se confie au Parisien. → https://cutt.ly/brBLRjKO
-» 🇫🇷 [Frandroid / 12 sept. 2025] La voix française de Lara Croft aurait été volée par l’IA → https://cutt.ly/vrBLFmI9
 
 » 🇺🇸 [Game File / 10 sept. 2025] Ubisoft’s curiously low-key Assassin’s Creed announcement in Saudi Arabia. What the company's CEO recently revealed about AC Mirage in Riyadh, internal pushback earlier this year from Ubisoft workers over Saudi ties, and Ubisoft dodges the funding question again → https://cutt.ly/SrBLUCH0
 » 🇺🇸 [IGN / 11 sept. 2025] Ubisoft staff reportedly raised concerns about Saudi Arabia deal for Assassin's Creed Mirage DLC, as company insists it maintains creative control. Add-on "made possible thanks to the support of local and international organisations." → https://cutt.ly/YrBLTIsq
@@ -5414,8 +5408,6 @@ traduction :
 
 » 🇺🇸 [Game Developer / 19 sept. 2025] Game professionals form coalition to 'push against the dehumanization of Palestinians'. Palestinian Voices in Games has broken cover to support and amplify the voices of Palestinian game developers. → https://cutt.ly/3rBZD0A0
 
-» 🇫🇷 [ActuGaming / 19 sept. 2025] Skate effectue un joli lancement, mais reste sous le feu de nombreuses critiques → https://actugaming.net/a-751016
-
 » 🇫🇷 [ActuGaming / 19 sept. 2025] Capcom fera étonnamment l’impasse sur Resident Evil Requiem dans son showcase du Tokyo Game Show → https://actugaming.net/a-751022
 
 » 🇫🇷 [ActuGaming / 19 sept. 2025] Absolum : Le prochain beat’em up de Dotemu est décortiqué dans une grosse vidéo de gameplay → https://actugaming.net/a-751033
@@ -5423,11 +5415,6 @@ traduction :
 » 🇫🇷 [ActuGaming / 19 sept. 2025] Hyperfunk : Découvrez le nouveau jeu du studio derrière Bomb Rush Cyberfunk, toujours inspiré par Jet Set Radio → https://actugaming.net/a-751044
 
 » 🇺🇸 [IGN / 19 sept. 2025] Nintendo customer support concern following outsourcing decision ahead of Switch 2's first holiday season. Nintendo Customer Support Concern Following Outsourcing Decision Ahead of Switch 2's First Holiday Season → https://cutt.ly/KrBK0f5n
-
-» 🇺🇸 [Game Developer / 19 sept. 2025] Xbox Series X price rises to $650 in US due to 'macroeconomic conditions'. Microsoft is raising the price of Xbox Series X and Series S consoles 'due to changes in the macroeconomic environment.' → https://cutt.ly/frBZSthY
-» 🇺🇸 [IGN / 19 sept. 2025] Xbox console prices are going up in the U.S…again. Series S goes up by $20, and Series X prices rise by $50 → https://cutt.ly/7rBKMtRf
-» 🇫🇷 [IGN France / 19 sept. 2025] Le prix des consoles Xbox augmentent aux USA… Une fois de plus. Les prix de la série S augmentent de 20 dollars et ceux de la série X de 50 dollars → https://cutt.ly/DrBKMFBS
-» 🇫🇷 [ActuGaming / 20 sept. 2025] Xbox augmente une nouvelle fois le prix de ses consoles dans cette région du globe → https://actugaming.net/a-751120
 
 » 🇺🇸 [Kotaku / 19 sept. 2025] _Ready Or Not Community_ manager fired for responding to Charlie Kirk assassination with ‘nothing of value was lost’. Void Interactive says it is focused on 'fostering a respectful and professional community' → https://kotaku.com/n-2000627182
 
@@ -5466,6 +5453,7 @@ traduction :
 
 » 🇬🇧 [Eurogamer / 22 sept. 2025] "It was really hard to publish on Xbox. It was our job to make it easier" - inside Xbox's increasingly vital indie publishing operation. How Xbox chooses its indies, and what it means for the devs. → https://cutt.ly/lrNtbf3g
 » 🇺🇸 [Games Industry / 22 sept. 2025] Xbox has made its "largest investment in Game Pass" to date this year, says ID@Xbox boss. "We remain focused on delivering the most exciting and diverse catalogue in gaming," says Chris Charla → https://cutt.ly/hrNtbec3
+» 🇫🇷 [Gamekult / 23 sept. 2025] Xbox double la mise sur le Game Pass malgré les critiques → https://cutt.ly/QrNzi5Dl
 
 » 🇺🇸 [Games Industry / 22 sept. 2025] Roblox appoints Vlad Loktev as chief creator ecosystem officer to "strengthen relationships with the creator community". "Vlad will play a key role in supporting the community making it all possible" → https://cutt.ly/trNtv1pC
 
@@ -5473,24 +5461,72 @@ traduction :
 
 » 🇫🇷 [Gamekult / 22 sept. 2025] Subnautica 2 : rebondissement inattendu dans le procès contre Krafton. Personne n’y comprend rien → https://cutt.ly/krNtQyng
 
-» 🇫🇷 [Gamekult / 22 sept. 2025] Tomb Raider : Aspyr supprime la voix IA de Lara Croft après la plainte de la doubleuse Françoise Cadol → https://cutt.ly/HrNtQjDP
-
 » 🇫🇷 [Gamekult / 22 sept. 2025] Arctic Awakening : après deux ans de reports, le Firewatch arctique sort enfin → https://cutt.ly/JrNtQWiC
 
 » 🇺🇸 [Kotaku / 22 sept. 2025] Fortnite reveals Daft Punk event, bluntly states the duo is not getting back together. The electronic duo will soon be fighting Goku, Hatsune Miku, John Cena, and Spider-Man in Epic's battle royale → https://kotaku.com/n-2000627563
 
 » 🇺🇸 [Kotaku / 22 sept. 2025] Borderlands 4′s super jump glitch is wild and won’t be fixed…for now. Cricket Jumping in Gearbox's new FPS requires a specific legendary gun and some perfect timing → https://kotaku.com/n-2000627659
 
+» 🇺🇸 [TheGamer / 22 sept. 2025] Costco quietly removes the Xbox section from its US and UK websites → https://cutt.ly/XrNzQLh7
 
-» 🇫🇷 [ActuGaming / 22 sept. 2025] 
+» 🇺🇸 [PlayStation Blog / 23 sept. 2025] Ghost of Tsushima players can now unlock special Ghost Rewards merchandise for purchase. Franchise Rewards launches with commemorative merchandise celebrating your in-game achievements → https://cutt.ly/crNlcVg8
+» 🇫🇷 [PlayStation Blog / 23 sept. 2025] Les joueurs de Ghost of Tsushima pourront désormais débloquer des produits dérivés Ghost Rewards spéciaux à acheter. Franchise Rewards débarque avec des produits dérivés commémoratifs pour célébrer vos succès en jeu → https://cutt.ly/9rNlvieF
+» 🇫🇷 [ActuGaming / 23 sept. 2025] PlayStation dévoile un programme de récompense pour l’obtention de trophées… en vous laissant payer des objets exclusifs → https://actugaming.net/a-752169
 
-» 🇫🇷 [Gamekult / 22 sept. 2025] 
+» 🇫🇷 [PlayStation Blog / 23 sept. 2025] State of Play revient le mercredi 24 septembre. Assistez aux festivités pour plus de 35 minutes de mises à jour et de reveals issus tout droit de PlayStation Studios et de partenaires aux quatre coins du monde → https://cutt.ly/rrNlvUAZ
+» 🇫🇷 [ActuGaming / 23 sept. 2025] Sony annonce la diffusion d’un nouveau State of Play, voici ce qu’il faut en attendre → https://actugaming.net/a-752170
+
+» 🇺🇸 [IGN / 23 sept. 2025] Fans want Pokémon to sue after Department of Homeland Security video uses Ash Ketchum to promote ICE — but the company's former legal boss says he 'wouldn't touch this'. "This will blow over in a couple of days and they'll be happy to let it." → https://cutt.ly/DrNlW6dO
+» 🇺🇸 [Kotaku / 23 sept. 2025] Department of Homeland Security uses Pokémon song to promote kidnapping. The video includes mock-ups of Pokémon cards using people’s mugshots as the art → https://kotaku.com/n-2000627900
+
+» 🇺🇸 [IGN / 23 sept. 2025] Avatar: Frontiers of Pandora – From the Ashes DLC Announced; Release Timed With Fire and Ash Movie. The HOTTEST (heh) new content for Ubisoft's first-person shooter → https://cutt.ly/ErNlbnI7
+» 🇫🇷 [IGN France / 23 sept. 2025] Le DLC From the Ashes de Avatar : Frontiers of Pandora sortira en parallèle du film Du feu et des Cendres. Du nouveau contenu brûlant pour le jeu d'Ubisoft → https://cutt.ly/9rNlbNbn
+» 🇫🇷 [ActuGaming / 23 sept. 2025] Avatar: Frontiers of Pandora annonce une nouvelle extension surprise à l’occasion de la sortie du troisième film de la saga → https://actugaming.net/a-752257
+
+» 🇺🇸 [Games Industry / 23 sept. 2025] ProbablyMonsters fires employee for violating "social media policy" with Charlie Kirk comments. "Respect is one of our core values," says the Storm Lancers developer → https://cutt.ly/8rNlFGJO
+» 🇺🇸 [Game Developer / 23 sept. 2025] ProbablyMonsters is the latest studio to fire someone for posting about Charlie Kirk. The studio said an unnamed worker was ousted because their comments violated its social media policy → https://cutt.ly/GrNzavp9
+
+» 🇺🇸 [Games Industry / 23 sept. 2025] Sonic musician's rights lawsuit against Sega dismissed, song remains in "limbo". "The reason for the dismissal was based on time, not ownership," says Crush 40's Johnny Gioeli → https://cutt.ly/7rNlF8CO
+
+» 🇺🇸 [Games Industry / 23 sept. 2025] Tetris Company CEO Maya Rogers on why we need more women in the games industry. "There's so many women playing games, and we're still having mostly men designing games," says Rogers. "That doesn't make any sense at all." → https://cutt.ly/TrNlMhDK
+
+» 🇫🇷 [ActuGaming / 23 sept. 2025] Palworld se la joue aussi Animal Crossing avec un spin-off, Palworld: Palfarm → https://actugaming.net/a-752048
+
+» 🇫🇷 [ActuGaming / 23 sept. 2025] ARC Raiders : Le shooter sera jouable gratuitement quelques jours avant sa sortie → https://actugaming.net/a-752060
+
+» 🇫🇷 [ActuGaming / 23 sept. 2025] Ananta : Le gacha aux allures de GTA-like façon anime dévoile de nouvelles images → https://actugaming.net/a-752159
+» 🇫🇷 [Gamekult / 23 sept. 2025] Ananta : le free-to-play délirant et ambitieux qui part dans tous les sens → https://cutt.ly/VrNzoEgr
+
+» 🇫🇷 [ActuGaming / 23 sept. 2025] 2XKO : Le jeu de combat League of Legends sortira en accès anticipé début octobre → https://actugaming.net/a-752260
+
+» 🇫🇷 [Gamekult / 23 sept. 2025] Hollow Knight Silksong : vous ne perdrez plus vos perles à cause d’un cocon mal placé → https://cutt.ly/urNzo2Eq
+
+» 🇺🇸 [Kotaku / 23 sept. 2025] 
+
+» 🇺🇸 [Kotaku / 23 sept. 2025] 
+
+» 🇺🇸 [ScreenRant / 23 sept. 2025] Watch Dogs movie gets interesting tease from star: “it’s not the game” → https://cutt.ly/1rNzcr2V
+» 🇺🇸 [Kotaku / 23 sept. 2025] Watch Dogs movie still exists, is ‘not the game,’ says star. According to lead actor Tom Blyth, this movie is 'very film' → https://kotaku.com/n-2000627949
+
+» 🇺🇸 [Kotaku / 23 sept. 2025] This player just won Steam after buying more games than anyone else ever. Valve just gave SonixLegend an achievement for owning over 40,000 Steam games → https://kotaku.com/n-2000628009
+
+» ▶️ [YouTube / Bologna Nerd / 22 sept. 2025] Lost Media Ritrovato: Heavy Weight Champ della SEGA! → https://youtu.be/FuAXHr72XHk (1 h 13 min)
+» 🇺🇸 [Time Extension / 23 sept. 2025] Italian museum uncovers blueprints to historic lost Sega game from the 1970s. Heavyweight Champ was released by Sega in 1976 → https://cutt.ly/JrNzUPZz
+
+» 🇯🇵 [Famitsu / 23 sept. 2025] 『ドンキーコング バナンザ』ボクセル技術を使った新作は手探りすぎて「どうやって作ったらいいかわかりません」からのスタート。破壊されて喜ぶ！ワレルヤやポリーンの設定も訊く！ → https://famitsu.com/article/202509/50508
+» 🇺🇸 [Automaton Media / 23 sept. 2025] Nintendo devs won’t elaborate on whether adult Pauline and kid Pauline are the same person. Donkey Kong Bananza producer Kenta Motokura shares insights about Pauline's inclusion in the game, but leaves one big question unanswered → https://cutt.ly/UrNzSukb
+
+
+
+» 🇫🇷 [ActuGaming / 23 sept. 2025] 
+
+» 🇫🇷 [Gamekult / 23 sept. 2025] 
 
 » 🇬🇧 [PC Gamer / 14 sept. 2025] 
 
-» 🇺🇸 [Automaton Media / 17 sept. 2025] 
+» 🇺🇸 [Automaton Media / 23 sept. 2025] 
 
-» 🇺🇸 [Kotaku / 22 sept. 2025] 
+» 🇺🇸 [Kotaku / 23 sept. 2025] 
 
 » 🇺🇸 [Time Extension / 14 sept. 2025] 
 
