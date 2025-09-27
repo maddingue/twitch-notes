@@ -4354,10 +4354,6 @@ traduction :
 
 » 🇫🇷 [ActuGaming / 24 juin 2025] Painkiller : La licence marquera son grand retour le 9 octobre sur PC, PS5 et Xbox Series → https://actugaming.net/a-735260
 
-» 🇩🇪 [JPGames / 21 juin 2025] Final Fantasy Tactics: Matsuno erklärt uns die Story-Anpassungen der Neuauflage → https://cutt.ly/ZrEMC9bS
-» 🇬🇧 [VGC / 24 juin 2025] ‘My perceptions have changed’: Final Fantasy Tactics writer explains how his script differs in the remaster. Yasumi Matsuno says the script has been updated for the upcoming remaster, The Ivalice Chronicles → https://cutt.ly/TrEMCn6M
-» 🇫🇷 [ActuGaming / 24 juin 2025] Final Fantasy Tactics : Le remaster changera une bonne partie du script, mais plus sur la forme que sur le fond → https://actugaming.net/a-735287
-
 » 🇺🇸 [Games Industry / 24 juin 2025] Xbox and Meta unveil new VR Meta Quest 3S Xbox Edition headset. "Our goal has been to empower more people to play their favorite games whenever and wherever they want" → https://cutt.ly/VrE1Ma0c
 » 🇺🇸 [The Verge / 24 juin 2025] A week in Xbox VR with Microsoft and Meta’s new $399 headset. The Quest 3S Xbox Edition is a custom colorway VR headset bundled with an Xbox controller → https://cutt.ly/6rE11XaJ
 » 🇺🇸 [Kotaku / 24 juin 2025] Everything's an Xbox including this Meta Quest 3S that costs $100 more and can't play your Xbox games. The device comes with an Xbox controller and Game Pass → https://kotaku.com/n-1851784984
@@ -5382,6 +5378,9 @@ traduction :
 
 » 🇫🇷 [ActuGaming / 18 sept. 2025] Borderlands 4 : Gearbox promet que des patchs pour la version PC arrivent, ainsi qu’un ajout de taille sur consoles → https://actugaming.net/a-750921
 
+» ▶️ [YouTube / TBS News Dig / 10 sept. 2025] 【「仕事×ゲーム」でモチベUP】作業者は楽しく＆データも取れる仕組み　世界的ゲーム「フォートナイト」の運営に直接相談…“業務用ゲーム”、その実力は → https://youtu.be/4xvZGTZDGFo (8 min)
+» 🇺🇸 [Automaton Media / 18 sept. 2025] Fortnite developer Epic Games helped a Japanese company gamify manual factory work to increase productivity. Real Focus Synergy is a software designed to make manual work less boring - and it was made using advice from Fortnite developers → https://cutt.ly/rrMxxASx
+
 » 🇺🇸 [Kotaku / 16 sept. 2025] Don’t expect _Hollow Knight: Silksong_ to nerf any more bosses just yet. The second patch focuses mostly on bug cleanup → https://kotaku.com/n-2000626007
 » 🇺🇸 [Kotaku / 18 sept. 2025] _Silksong_ devs talk about why the game feels harder. There are shades of _Elden Ring_ in how Team Cherry talks about the _Hollow Knight_ sequel → https://kotaku.com/n-2000626850
 » 🇫🇷 [ActuGaming / 18 sept. 2025] Team Cherry explique pourquoi Hollow Knight Silksong propose une difficulté accrue par rapport au premier jeu → https://actugaming.net/a-750931
@@ -5468,6 +5467,9 @@ traduction :
 » 🇺🇸 [Kotaku / 22 sept. 2025] Borderlands 4′s super jump glitch is wild and won’t be fixed…for now. Cricket Jumping in Gearbox's new FPS requires a specific legendary gun and some perfect timing → https://kotaku.com/n-2000627659
 
 » 🇺🇸 [TheGamer / 22 sept. 2025] Costco quietly removes the Xbox section from its US and UK websites → https://cutt.ly/XrNzQLh7
+» 🇺🇸 [Games Industry / 25 sept. 2025] Costco stops selling Xbox consoles in UK and US. "We don't actually have the Xbox anymore," a UK Costco store told GamesIndustry.biz → https://cutt.ly/krN0xkKt
+» 🇫🇷 [Gamekult / 26 sept. 2025] Un géant américain de la distribution a cessé de distribuer les produits Xbox. Costco a confirmé avoir rayé la marque de ses plans → https://cutt.ly/QrMzDgbK
+» 🇺🇸 [Games Industry / 26 sept. 2025] Retailers were always going to drop Xbox over Game Pass. Losing retailer support is never a positive, but as Microsoft's strategy focused increasingly on Game Pass, it became an acceptable trade-off → https://cutt.ly/drMxR9PH
 
 » 🇺🇸 [PlayStation Blog / 23 sept. 2025] Ghost of Tsushima players can now unlock special Ghost Rewards merchandise for purchase. Franchise Rewards launches with commemorative merchandise celebrating your in-game achievements → https://cutt.ly/crNlcVg8
 » 🇫🇷 [PlayStation Blog / 23 sept. 2025] Les joueurs de Ghost of Tsushima pourront désormais débloquer des produits dérivés Ghost Rewards spéciaux à acheter. Franchise Rewards débarque avec des produits dérivés commémoratifs pour célébrer vos succès en jeu → https://cutt.ly/9rNlvieF
@@ -5477,7 +5479,10 @@ traduction :
 » 🇫🇷 [ActuGaming / 23 sept. 2025] Sony annonce la diffusion d’un nouveau State of Play, voici ce qu’il faut en attendre → https://actugaming.net/a-752170
 
 » 🇺🇸 [IGN / 23 sept. 2025] Fans want Pokémon to sue after Department of Homeland Security video uses Ash Ketchum to promote ICE — but the company's former legal boss says he 'wouldn't touch this'. "This will blow over in a couple of days and they'll be happy to let it." → https://cutt.ly/DrNlW6dO
+» 🇫🇷 [IGN France / 24 sept. 2025] L'ancien boss juridique de Pokémon réagit au spot de propagande de l'administration Trump qui compare des immigrés à des Pokémon. → https://cutt.ly/XrN0Ewv8
+"Ça va se calmer dans quelques jours et ils seront ravis de laisser faire."
 » 🇺🇸 [Kotaku / 23 sept. 2025] Department of Homeland Security uses Pokémon song to promote kidnapping. The video includes mock-ups of Pokémon cards using people’s mugshots as the art → https://kotaku.com/n-2000627900
+» 🇺🇸 [Kotaku / 25 sept. 2025] Pokémon responds to DHS video using the original anime’s theme.  The Pokémon Company says 'permission was not granted' to use the song or clips from the show → https://kotaku.com/n-2000628222
 
 » 🇺🇸 [IGN / 23 sept. 2025] Avatar: Frontiers of Pandora – From the Ashes DLC Announced; Release Timed With Fire and Ash Movie. The HOTTEST (heh) new content for Ubisoft's first-person shooter → https://cutt.ly/ErNlbnI7
 » 🇫🇷 [IGN France / 23 sept. 2025] Le DLC From the Ashes de Avatar : Frontiers of Pandora sortira en parallèle du film Du feu et des Cendres. Du nouveau contenu brûlant pour le jeu d'Ubisoft → https://cutt.ly/9rNlbNbn
@@ -5501,10 +5506,6 @@ traduction :
 
 » 🇫🇷 [Gamekult / 23 sept. 2025] Hollow Knight Silksong : vous ne perdrez plus vos perles à cause d’un cocon mal placé → https://cutt.ly/urNzo2Eq
 
-» 🇺🇸 [Kotaku / 23 sept. 2025] 
-
-» 🇺🇸 [Kotaku / 23 sept. 2025] 
-
 » 🇺🇸 [ScreenRant / 23 sept. 2025] Watch Dogs movie gets interesting tease from star: “it’s not the game” → https://cutt.ly/1rNzcr2V
 » 🇺🇸 [Kotaku / 23 sept. 2025] Watch Dogs movie still exists, is ‘not the game,’ says star. According to lead actor Tom Blyth, this movie is 'very film' → https://kotaku.com/n-2000627949
 
@@ -5517,18 +5518,116 @@ traduction :
 » 🇺🇸 [Automaton Media / 23 sept. 2025] Nintendo devs won’t elaborate on whether adult Pauline and kid Pauline are the same person. Donkey Kong Bananza producer Kenta Motokura shares insights about Pauline's inclusion in the game, but leaves one big question unanswered → https://cutt.ly/UrNzSukb
 
 
+» 🇺🇸 [Automaton Media / 25 sept. 2025] Final Fantasy 7 Remake director understands qualms about Switch 2 Game-Key Cards, but for AAA devs, they’re a way to overcome loading speed limitations. Final Fantasy VII Remake director Naoki Hamaguchi shares views on Switch 2 game-key cards from a developer's perspective → https://cutt.ly/HrN18WZV
+» 🇫🇷 [ActuGaming / 25 sept. 2025] Le réalisateur de Final Fantasy VII Rebirth s’exprime sur les ventes du jeu et l’état de sa suite, ainsi que sur les game-key cards → https://actugaming.net/a-753492
 
-» 🇫🇷 [ActuGaming / 23 sept. 2025] 
+» 🇫🇷 [Gamekult / 25 sept. 2025] En attendant GTA 6, Rockstar apporte son soutien officiel à l'équipe derrière GTA RP → https://cutt.ly/3rN0dcSC
 
-» 🇫🇷 [Gamekult / 23 sept. 2025] 
+» 🇫🇷 [Gamekult / 25 sept. 2025] Gran Turismo 7 accueillera deux nouveaux circuits en décembre avec la mise à jour Spec III, et la franchise a dépassé les 100 millions de jeux vendus → https://cutt.ly/YrN14TCh
 
-» 🇬🇧 [PC Gamer / 14 sept. 2025] 
+» 🇺🇸 [Games Industry / 25 sept. 2025] Splash Damage breaks away from Tencent. The UK studio, best known for its expertise in multiplayer shooters, has been acquired by private-equity investors → https://cutt.ly/LrN143vy
 
-» 🇺🇸 [Automaton Media / 23 sept. 2025] 
+» 🇺🇸 [Microsoft Blog / 25 sept. 2025] Update on ongoing Microsoft review → https://cutt.ly/grN0lHrN
+» 🇺🇸 [Game Developer / 25 sept. 2025] Microsoft has 'ceased and disabled' Azure services to the Israeli Ministry of Defense. The move comes as the tech giant investigates recent allegations that Azure technology is being used by the Israeli government to surveil Gazan citizens → https://cutt.ly/5rN0lB0N
+» 🇺🇸 [The Verge / 25 sept. 2025] Microsoft blocks the Israeli military from some cloud and AI services. The Guardian revealed last month that Microsoft’s services were being used for mass surveillance of Palestinians → https://cutt.ly/trN0bf5j
+» 🇺🇸 [Kotaku / 25 sept. 2025] Microsoft will no longer allow Israel to use its tech for mass surveillance in Palestine. The Xbox company has disabled the Israeli government’s use of its cloud storage and AI services → https://kotaku.com/n-2000628764
+» 🇫🇷 [Frandroid / 26 sept. 2025] « Nous avons trouvé des preuves » : Microsoft coupe l’accès de l’armée israélienne à ses services → https://cutt.ly/mrN4Wbed
 
-» 🇺🇸 [Kotaku / 23 sept. 2025] 
+» 🇺🇸 [Rascal / 25 sept. 2025] Game designers are experiencing persistent payout issues from itch.io. The indie platform’s payout delays are a symptom of a bigger issue → https://cutt.ly/GrN15SYg
+» 🇺🇸 [Game Developer / 25 sept. 2025] Developers report delayed payouts from itch.io. Itch.io may be struggling to pay devs after enduring pressure from payment processors over adult content on its marketplace → https://cutt.ly/9rN1528Y
+» 🇺🇸 [Games Industry / 25 sept. 2025] Developers report lengthy payment delays on itch.io. "If you’re considering selling your game on itch.io, think twice" → https://cutt.ly/xrN15r2d
 
-» 🇺🇸 [Time Extension / 14 sept. 2025] 
+» 🇫🇷 [ActuGaming / 25 sept. 2025] Chronoscript: The Endless End, un charmant titre d’action-aventure 2D, écrira son histoire en 2026 sur PS5 et PC → https://actugaming.net/a-753171
+
+» 🇫🇷 [ActuGaming / 25 sept. 2025] Dynasty Warriors 3: Complete Edition Remastered signera le retour le 19 mars 2026 d’un opus charnière → https://actugaming.net/a-753210
+
+» 🇫🇷 [ActuGaming / 25 sept. 2025] HoYoverse (Genshin Impact) se paye son propre Animal Crossing avec Petit Planet, annoncé en vidéo → https://actugaming.net/a-753322
+
+» 🇺🇸 [Kotaku / 25 sept. 2025] Everything we saw at today’s Xbox Tokyo Game Show 2025 event. Microsoft showed a ton of brand new game footage, and pushed the Xbox Ally handheld as well → https://kotaku.com/n-2000628659
+» 🇫🇷 [ActuGaming / 25 sept. 2025] Xbox : Voici toutes les annonces du showcase spécial Tokyo Game Show 2025 (Forza Horizon 6, Gungrave…) → https://actugaming.net/a-753347
+
+» 🇫🇷 [ActuGaming / 25 sept. 2025] Code Vein II sortira le 30 janvier 2026 et montre de nouvelles images de gameplay → https://actugaming.net/a-753169
+» 🇫🇷 [ActuGaming / 25 sept. 2025] Code Vein II a droit à une grosse présentation de gameplay pour le Souls-like, en plus d’une édition collector massive → https://actugaming.net/a-753435
+
+» 🇫🇷 [ActuGaming / 25 sept. 2025] Pokémon TCG Pocket va sortir sa première extension limitée dans le temps avec une garantie de carte rare à chaque paquet → https://actugaming.net/a-753456
+
+» 🇫🇷 [ActuGaming / 25 sept. 2025] Gungrave G.O.R.E : Blood Heat offre une refonte totale du jeu de 2022 avec l’Unreal Engine 5 → https://actugaming.net/a-753459
+
+» 🇫🇷 [ActuGaming / 25 sept. 2025] La version physique de Crimson Desert se dévoile avec une édition Deluxe classique et un collector plutôt cher → https://actugaming.net/a-753502
+
+» 🇫🇷 [ActuGaming / 25 sept. 2025] Borderlands 4 : la mise à jour du 25 septembre est disponible, voici tout ce qui change → https://actugaming.net/a-753542
+
+» 🇫🇷 [ActuGaming / 25 sept. 2025] Hades II : La version 1.0 du rogue-like est disponible, le jeu fait un carton auprès des critiques → https://actugaming.net/a-753565
+
+» 🇬🇧 [GamesRadar+ / 25 sept. 2025] Arrowhead boss wants Helldivers 2 to be a "forever game" like RuneScape that can keep improving, with "no plans" for a sequel. Helldivers 3? Not while Helldivers 2 is still chugging → https://cutt.ly/vrN0RLva
+» 🇺🇸 [IGN / 25 sept. 2025] 'Think RuneScape' — Arrowhead CEO rules out Helldivers 3, will keep updating Helldivers 2 'for as long as it can go'. So stop bugging them about it → https://cutt.ly/XrN0RQ9h
+» 🇫🇷 [IGN France / 25 sept. 2025] Le boss d'Arrowhead ne veut pas entendre parler d'Helldivers 3 et veut continuer à mettre à jour Helldivers 2 "aussi longtemps que possible". Alors arrêtez de les saouler avec ça → https://cutt.ly/orN0Rg9J
+» 🇫🇷 [ActuGaming / 26 sept. 2025] Helldivers 3 n’est pas du tout dans les plans d’Arrowhead, du moins tant que Helldivers 2 cartonne → https://actugaming.net/a-753981
+
+» 🇺🇸 [Kotaku / 25 sept. 2025] Silent Hill f, as told by Steam reviews. Not everyone loves the changes this new survival horror sequel makes, but plenty of fans still found it scary and great → https://kotaku.com/n-2000628759
+
+» 🇺🇸 [Kotaku / 25 sept. 2025] Fans can’t decide if the new Wolverine game actually makes Logan a short king. Hugh Jackman has tricked millions of fans into thinking Wolverine is six feet tall → https://kotaku.com/n-2000628829
+
+» 🇬🇧 [Eurogamer / 25 septy. 2025] Nintendo's first-ever UK pop-up store is coming to London so you can buy merchandise typically only available in Japan → https://cutt.ly/hrMz6EeK
+
+» 🇺🇸 [Kotaku / 25 sept. 2025] Borderlands 4 just got FOV sliders on console and some other nice fixes. Gearbox's looter shooter should run better and crash less after its latest big update → https://kotaku.com/n-2000628823
+
+
+» 🇫🇷 [ActuGaming / 26 sept. 2025] Project Spectrum : un mélange d’horreur et d’action signé par l’équipe derrière Call of Duty Mobile → https://actugaming.net/a-751791
+
+» 🇫🇷 [ActuGaming / 26 sept. 2025] Possessor(s) : Le prochain jeu de Heart Machine (Hyper Light Drifter) arrivera en novembre sur PC et PS5 → https://actugaming.net/a-753866
+
+» 🇫🇷 [ActuGaming / 26 sept. 2025] The Witcher 3 : Le patch pour le support des mods sur consoles est retardé à 2026 → https://actugaming.net/a-753978
+
+» 🇫🇷 [ActuGaming / 26 sept. 2025] EA Sports FC 26 dévoile la première équipe de l’événement Cornerstones → https://actugaming.net/a-754024
+
+» 🇫🇷 [ActuGaming / 26 sept. 2025] Resident Evil Requiem est en précommande, voici où le trouver au meilleur prix → https://actugaming.net/a-754129
+
+» 🇫🇷 [ActuGaming / 26 sept. 2025] Electronic Arts pourrait être racheté et sortir de la Bourse, en partie par l’Arabie saoudite et des sociétés d’investissement → https://actugaming.net/a-754171
+
+» 🇺🇸 [The Wall Street Journal / 26 juil. 2025] Videogame giant Electronic Arts nears roughly $50 billion deal to go private. Investors including Silver Lake eyeing deal that would likely be the largest leveraged buyout ever → https://cutt.ly/frMzRpq9
+» 🇺🇸 [Reuters / 26 juil. 2025] Videogame maker EA in advanced talks to go private at roughly $50 billion valuation → https://cutt.ly/srMzR73c
+» 🇺🇸 [CNBC / 26 sept. 2025] Electronic Arts stock closes up 15% on report company near $50 billion deal to go private → https://cutt.ly/7rMzGKk1
+» 🇺🇸 [Kotaku / 26 sept. 2025] Saudi Arabia and other investors nearing $50 billion deal to buy EA. The massive deal might be announced officially as soon as next week according to sources with knowledge of the situation → https://kotaku.com/n-2000629291
+» 🇫🇷 [ActuGaming / 26 sept. 2025] Romeo is a Dead Man, le prochain jeu de Suda51, se montre dans une vidéo aussi colorée que sanglante → https://actugaming.net/a-754174
+» 🇫🇷 [Gamekult / 26 sept. 2025] Electronic Arts vers une privatisation à 50 milliards de dollars ? → https://cutt.ly/yrMzDWVo
+
+» 🇬🇧 [Eurogamer / 26 septy. 2025] Worried about Black Ops series fatigue? So is Treyarch, as senior developer admits back-to-back Call of Duty releases could impact player interest. "We'd all be dead lying if we said we weren't worried about that." → https://cutt.ly/7rMz6bA1
+
+» 🇬🇧 [Eurogamer / 26 septy. 2025] The campaign against predatory in-game practices takes a step forward in Brazil, as President Lula bans loot boxes targeted at under-18s → https://cutt.ly/xrMzYJBq
+
+» 🇺🇸 [Kotaku / 26 sept. 2025] Xbox’s handheld finally has a price, and it costs more than an Xbox. The ROG Xbox Ally is now available to pre-order, but it'll cost you → https://kotaku.com/n-2000629161
+
+» 🇺🇸 [Kotaku / 26 sept. 2025] $2.6 million Kickstarter cozy game wipes its websites, ghosts its backers. _PuffPals: Island Skies_ went from cuteness to horror as the lies piled up → https://kotaku.com/n-2000629155
+
+» 🇬🇧 [PC Gamer / 26 sept. 2025] Tired of shader compilation screens? Microsoft is rolling out its own solution, but we won't feel the benefits immediately. We're probably in for a long wait before it's available on Steam, GOG, and other online stores → https://cutt.ly/UrMxua9P
+» 🇺🇸 [Kotaku / 26 sept. 2025] Microsoft’s solution for PC gaming’s most annoying headache is finally happening. Advanced Shader Delivery will hopefully one day get rid of shader compilation loading bars on PC → https://kotaku.com/n-2000629200
+» 🇫🇷 [Frandroid / 26 sept. 2025] Comment Microsoft compte résoudre le plus gros souci des jeux PC modernes → https://cutt.ly/KrMxow08
+
+» 🇺🇸 [Kotaku / 26 sept. 2025] Nintendo of America’s new CEO seems like a fun guy. Satoru Shibata isn't afraid to dance, sing, or hype his handheld collection → https://kotaku.com/n-2000629269
+
+» 🇬🇧 [GamesRadar+ / 26 sept. 2025] Arrowhead CEO blames Helldivers 2 performance issues on tech debt accumulated thanks to goalposts being "moved a few times" during development: "The foundations of this big tower were made for a little bungalow". "Tech debt is like a garage filled with stuff you just chucked in. We really need to put up shelves in the back to get organized" → https://cutt.ly/MrMz65X2
+» 🇺🇸 [Kotaku / 26 sept. 2025] Helldivers 2 could have ended up as a free-to-play game. It was also a much smaller game at one point before growing in scope and becoming the hit game we know today → https://kotaku.com/n-2000629256
+
+
+» 🇫🇷 [Gamekult / 27 sept. 2025] Mythique salon du jeu vidéo, la GDC change (légèrement) de nom et s'ouvre davantage → https://cutt.ly/ArMzDJ89
+
+» 🇯🇵 [Nikkei / 25 sept. 2025] ゲーム業界の平均年収723万円　開発にAI活用5割 → https://cutt.ly/UrMxd6SL
+» 🇺🇸 [Automaton Media / 27 sept. 2025] Over 50% of Japanese game companies use AI in development, according to Tokyo Game Show organizer. According to the 2025 CESA Video Game Industry Report, 51% percent of domestic companies use AI in game development → https://cutt.ly/SrMxdHDt
+» 🇬🇧 [PC Gamer / 27 sept. 2025] Over half of Japanese game companies are using AI in development according to a new survey, including Level-5 and Capcom. A survey of Japanese game companies showed that AI use has reached a tipping point → https://cutt.ly/XrMxdYzA
+
+
+» 🇫🇷 [ActuGaming / 26 sept. 2025] 
+
+» 🇫🇷 [Gamekult / 26 sept. 2025] 
+
+» 🇬🇧 [PC Gamer / 27 sept. 2025] 
+
+» 🇺🇸 [Automaton Media / 27 sept. 2025] 
+
+» 🇺🇸 [Kotaku / 26 sept. 2025] 
+
+» 🇺🇸 [Time Extension / 25 sept. 2025] 
 
 
 
