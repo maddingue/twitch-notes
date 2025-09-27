@@ -4896,7 +4896,7 @@ L'Hebdo #28
 
 ### La semaine
 » Aikyam, annoncé sur PlayStation 5, Xbox Series et PC / Steam Deck ; développé par Thousand Stars, studio canadien 🇨🇦 d'une dizaine de personnes → https://aikyamgame.com | https://s.team/a/2363840
-» Hotel Barcelona, annoncé sur PlayStation 5, Xbox Series et PC / Steam Deck ; développé par White Owls, studio japonais 🇯🇵 de Swery65 derrière les jeux Deadly Premonition 2 (2020), The Good Life (20021) → https://s.team/a/2286600 | https://whiteowls.co.jp
+» Hotel Barcelona, annoncé sur PlayStation 5, Xbox Series et PC / Steam Deck ; développé par White Owls, studio japonais 🇯🇵 de Swery65 derrière les jeux Deadly Premonition 2 (2020), The Good Life (2021) → https://s.team/a/2286600 | https://whiteowls.co.jp
 » Grapple Dogs: Cosmic Canines, annoncé sur Switch, Xbox Series et PC / Steam Deck ; développé par Medallion Games 🇬🇧 → https://s.team/a/2278790 | https://www.medalliongames.com/copy-of-grapple-dog/ | https://s.team/a/2278790
 » 🇺🇸 [Games Industry / 28 mai 2024] Square Enix shutting down two Dragon Quest mobile games. Dragon Quest Champions and Keshi Keshi will cease operations by the end of July → https://cutt.ly/QeuUSZfq
 » 🇫🇷 [ActuGaming / 27 mai 2024] Le remake de Dragon Quest III en HD-2D va bientôt refaire parler de lui et sortira sur PC, Switch, PS5 et Xbox Series → https://actugaming.net/a-646453
@@ -14028,7 +14028,7 @@ Future Game Show
 » Ritual Tides, annoncé pour Q3 2025 sur PC, par la suite sur consoles ; développé par Vertpaint → https://ritualtides.com
 
 excuses de sac :
-- chais pas où est ma souris !!! (héloïse)
+- chais pas où est ma souris !!! (Héloïse)
 - j'ai les doigts trop gros (Sylvain)
 
 raids : OrigaTwitch => (23:49)[+363] FastandFabs (terminé à 00:42)
@@ -14655,7 +14655,7 @@ raids : OrigaTwitch => (15:12)[+174] Llaudem => (16:02) Ultia (>19:00) => (21:49
 
 
 --------------------------------------
-2025-06-04
+2025-07-04
 
 # Wishlist
 » Wander Stars, le 1er août 2025 à 25 € sur Switch et PC / Steam Deck, démo disponible ; développé par Paper Castle Games, studio espagnol 🇪🇸 derrière Underhero (2018) → https://papercastlegames.com/wanderstars/ | https://s.team/a/1575810
@@ -14685,7 +14685,7 @@ raids entrants :
 » 🎧 [Patreon / 3 juil. 2025] Catalogue Arrière — To a T avec Héloïse → https://patreon.com/posts/133226739
 
 ### La semaine
-» 🇺🇸 [1er juil. 2025] Donkey Kong Bananza is being made by the Super Mario Odyssey team. Nintendo reveals devs behind the next big Switch 2 game → https://cutt.ly/qrYFtYhz
+» 🇺🇸 [Polygon / 1er juil. 2025] Donkey Kong Bananza is being made by the Super Mario Odyssey team. Nintendo reveals devs behind the next big Switch 2 game → https://cutt.ly/qrYFtYhz
 » 🇺🇸 [Kotaku / 1er juil. 2025] Nintendo finally confirms Mario Odyssey team is making Donkey Kong Bananza but still won't share any actual names. Nintendo's increasingly secretive approach to game credits is weird → https://kotaku.com/n-1851785403
 » 🇫🇷 [ActuGaming / 1er juil. 2025] Donkey Kong Bananza : le jeu est développé par l’équipe de Super Mario Odyssey, confirme Nintendo → https://actugaming.net/a-736125
 
@@ -15128,6 +15128,145 @@ raids : OrigaTwitch => (17:13)[+81] JVleMag => (17:35)[+51] DollyWood_ => (19:06
 » 🗳️ [Change.org] Pour un doublage créé par des humains pour des humains #TouchePasMaVF → https://cutt.ly/YrNl2dbB
 
 
+--------------------------------------
+2025-09-26
+
+# L'Hebdo #75
+## Actus
+### La semaine
+» ▶️ [YouTube / PlayStation / 24 sept. 2025] **State of Play** → https://youtu.be/0QcEoGC51ZY (40 min)
+» 🇺🇸 [Kotaku / 25 sept. 2025] Everything we saw at today’s PlayStation State Of Play Showcase. The 35-minute presentation included looks at Housemarque's Saros and Insomniac's Wolverine → https://kotaku.com/n-2000628258
+» 🇫🇷 [ActuGaming / 25 sept. 2025] State of Play : Le résumé complet des annonces de l’émission du 24 septembre (Nioh 3, Saros, Wolverine, Flight Simulator) → https://actugaming.net/a-753064
+- 🇫🇷 [ActuGaming / 25 sept. 2025] Microsoft Flight Simulator 2024 est annoncé sur PS5 pour cet hiver, le support du PSVR2 est prévu pour 2026 → https://actugaming.net/a-753066
+- 🇫🇷 [ActuGaming / 25 sept. 2025] Pour les 20 ans de la série God of War, PlayStation va sortir… une nouvelle manette → https://actugaming.net/a-753178
+- 🇫🇷 [ActuGaming / 25 sept. 2025] Marvel’s Wolverine ressort les griffes dans une vidéo très sanglante, la sortie est prévue pour l’automne 2026 → https://actugaming.net/a-753114
+- 🇫🇷 [ActuGaming / 25 sept. 2025] Saros annonce sa sortie au 20 mars 2026 en dévoilant cinq minutes de gameplay ultra nerveux → https://actugaming.net/a-753065
+- 🇺🇸 [Kotaku / 25 sept. 2025] Saros actor explains how he went from working in a game store to starring in Sony’s next blockbuster. Rahul Kohli has been in video games before, but he says this gig is ‘a dream come true’ → https://kotaku.com/n-2000628800
+
+» 🇫🇷 [ActuGaming / 20 sept. 2025] Les créateurs de Disco Elysium présentent Zero Parades For Fake Radicals, leur nouveau RPG → https://cutt.ly/XrN6n8qe
+
+» 🇫🇷 [ActuGaming / 25 sept. 2025] Deus Ex s’offre une seconde jeunesse avec un remaster, qui a été confié à Aspyr → https://actugaming.net/a-753195
+» 🇺🇸 [Kotaku / 25 sept. 2025] The new Deus Ex Remaster is a reminder that better isn’t always better. Just because you increase the resolution and add new effects doesn't mean you've improved the game → https://kotaku.com/n-2000628799
+
+» pour les infos sur Kojima, _cf._ la Mardinale
+
+» - 🇫🇷 [ActuGaming / 24 sept. 2025] Yakuza Kiwami 3 est désormais officiel, et cette version embarquera du contenu inédit avec une toute nouvelle aventure → https://actugaming.net/a-752546
+» - 🇫🇷 [ActuGaming / 24 sept. 2025] Yakuza 0 Director’s Cut, Kiwami et Kiwami 2 arrivent bientôt sur PS5 et Xbox Series → https://actugaming.net/a-752571
+
+» 🇫🇷 [ActuGaming / 25 sept. 2025] Sans surprise, le prochain jeu Professeur Layton ne sortira pas cette année et vise l’année 2026 → https://actugaming.net/a-753317
+
+» 🇫🇷 [ActuGaming / 25 sept. 2025] 35 ans après sa sortie, le jeu City Hunter revient dans une version traduite sur les consoles modernes → https://actugaming.net/a-753418
+
+» 🇫🇷 [ActuGaming / 25 sept. 2025] Fire Emblem Shadows : un jeu mobile façon Among Us disponible dès maintenant, on l’a brièvement testé pour vous → https://actugaming.net/a-753226
+
+» The Lift: Supernatural Handyman Simulator, annoncé pour 2026 sur PC / Steam Deck ; édité par tinyBuild, développé par Fantastic Signals → https://s.team/a/3283240
+
+### Doug Bowser va quitter ses fonctions de Nintendo of America
+» 🇺🇸 [BusinessWire / 25 sept. 2025] Doug Bowser bids farewell to the Mushroom Kingdom. Nintendo Of America President and COO to retire, company names Devon Pritchard successor → https://cutt.ly/qrN0qhww
+» 🇺🇸 [Game Developer / 25 sept. 2025] Nintendo of America president Doug Bowser retires. Nintendo now only has one Bowser → https://cutt.ly/QrN0zseX
+» 🇫🇷 [ActuGaming / 25 sept. 2025] Doug Bowser quittera ses fonctions de Président de Nintendo of America à la fin de l’année et on connait déjà son successeur → https://actugaming.net/a-753718
+
+### Capcom
+» 🇫🇷 [ActuGaming / 25 sept. 2025] Monster Hunter Wilds détaille sa grande mise à jour 3 et sa collaboration avec Final Fantasy XIV → https://actugaming.net/a-752705
+
+» 🇫🇷 [ActuGaming / 24 sept. 2025] C. Viper électrisera le ring de Street Fighter 6 dès le 15 octobre prochain → https://actugaming.net/a-752717/
+
+» 🇫🇷 [ActuGaming / 25 sept. 2025] Pragmata : l’intriguante nouvelle licence de Capcom en dit plus sur son système de combat avec de nouvelles images de gameplay → https://actugaming.net/a-752808
+
+» 🇫🇷 [ActuGaming / 25 sept. 2025] Onimusha: Way of the Sword en montre un peu plus sur l’histoire de Musashi dans une nouvelle vidéo → https://actugaming.net/a-752803
+
+» 🇫🇷 [ActuGaming / 25 sept. 2025] Monster Hunter Stories 3 annoncé sur Xbox Series, les deux premiers jeux arrivent en novembre → https://actugaming.net/a-753425
+
+» 🇫🇷 [Capcom / 15 sept. 2025] Mega Man Star Force Legacy Collection viendra renforcer l’héritage du petit robot bleu en 2026 ! → https://cutt.ly/OrMzrnNC
+» 🇫🇷 [Gamekult / 15 sept. 2025] Mega Man Star Force Legacy Collection : encore une compile Capcom ? Oui, mais pas sans intérêt → https://cutt.ly/drMze4Gb
+
+### Virtua Fighter 6
+» 🇫🇷 [Gamekult / 26 sept. 2025] Virtua Fighter 6 explique ses mécaniques de combat → https://cutt.ly/xrMztws1
+
+### Xbox
+» ▶️ [YouTube / Xbox / 25 sept. 2025] Xbox Tokyo Game Show 2025 Broadcast → https://youtu.be/8NlWzg73kHw
+» 🇺🇸 [The Verge / 25 sept. 2025] Forza Horizon 6 is set in Japan and arrives in 2026. Forza Horizon 6 debuts first on Xbox and PC, with a PS5 version arriving post-launch → https://cutt.ly/JrN14q7q
+» 🇫🇷 [Gamekult / 25 sept. 2025] C'est officiel, Forza Horizon 6 se déroulera au Japon → https://cutt.ly/QrN0sgE3
+» 🇫🇷 [ActuGaming / 25 sept. 2025] Xbox annonce Forza Horizon 6, direction le Japon pour ce nouvel épisode qui sortira aussi sur PS5 → https://actugaming.net/a-753351
+» 🇬🇧 [GamesRadar+ / 25 sept. 2025] Forza Horizon 6's Japan is even bigger than Forza Horizon 5's map, which itself was double the size of FH4, but the new setting is "also dense" with "always something around the corner". Tokyo City is also the series' largest urban area to date → https://cutt.ly/yrN0x2Nv
+
+## Jeux
+
+### Herdling
+» Herdling, sorti le 21 août 2025 à 24 € sur Switch, PlayStation 5, Xbox Series (Game Pass) et PC / Steam Deck, démo disponible ; édité par Panic, développé par Okomotive, studio suisse derrière FAR: Lone Sails (2018) et FAR: Changing Tides (2022) → https://herdling.game | https://s.team/a/3047750
+- sorti le 21 août 2025 sur Switch, PlayStation, Xbox et PC / Steam Deck
+- édité par Panic, développé par Okomotive, studio suisse derrière FAR: Lone Sails (2018) et FAR: Changing Tides (2022) → <https://herdling.game>
+- réalisé par Don Schmocker, direction artistique par Tim Bürge, Samuel Flores et Don Schmocker, audio par Fabio Baumgartner, musiques par Joel Schoch
+
+🎮 24 € sur Switch (<https://cutt.ly/orN5P2Z3>) et PlayStation (<https://cutt.ly/XrN5SrS1>)
+🎮 24 € ou inclus dans le Game Pass sur Xbox (<https://cutt.ly/IrN5DaKz>)
+💻️ 24 € sur Steam (<https://s.team/a/3047750>), démo disponible
+
+### No I'm Not A Human
+» No I'm Not A Human, sorti le 15 sept. 2025, en promo à 13,31 € sur PC / Steam Deck ; édité par Critical Reflex, développé par Trioskaz , studio derrière Violent Horror Stories: anthology (2024) → https://s.team/a/3180070
+- sorti le 15 sept. 2025 sur PC / Steam Deck
+- édité par Critical Reflex, développé par Trioskaz, studio russe derrière Violent Horror Stories: anthology (2024)
+
+💻️ 14,80 € sur Steam (<https://s.team/a/3180070>)
+
+» 🇺🇸 [Steam / No I'm Not A Human / 19 sept. 2025] 100k copies sold – What’s next? → https://cutt.ly/OrN6ykho
+
+> L’expressionnisme est un courant artistique figuratif apparu au début du XXe siècle, en Europe du Nord, particulièrement en Allemagne. L'expressionnisme a touché de multiples domaines artistiques : la peinture, l'architecture, la littérature, le théâtre, le cinéma, la musique, la danse, etc. L'expressionnisme fut condamné par le régime nazi qui le considérait comme un « art dégénéré ».
+» 📄 <https://fr.wikipedia.org/wiki/Expressionnisme>
+
+» 🎦 **Nosferatu le vampire** / **Nosferatu, eine Symphonie des Grauens** (1922), 94 min, film cinéma réalisé par Friedrich Wilhelm Murnau, scénario par Henrik Galeen, adapté du roman _Dracula_ de Bram Stoker
+» 🎦 **Le Cabinet du docteur Caligari** / **Das Cabinet des Dr. Caligari** (1920), 71 min, film cinéma réalisé par Robert Wiene
+
+### Final Fantasy Tactics - The Ivalice Chronicles
+» Final Fantasy Tactics - The Ivalice Chronicles, le 30 sept. 2025 à 60 € sur Switch 1 & 2, PlayStation 4 & 5, Xbox Series, à 50 € sur PC / Steam Deck → https://finalfantasytactics.com
+- sorti le 30 sept. 2025 sur Switch 1 & 2, PlayStation 4 & 5, Xbox Series, PC / Steam Deck
+- édité et développé par Square Enix
+- remake réalisé par Kazutoyo Maehiro, écriture par Yasumi Matsuno, direction artistique par Hiroshi Minagawa
+- originellement sorti en 1997 🇯🇵 / 1998 🇺🇸 sur PlayStation, écrit et réalisé par Yasumi Matsuno, direction artistique par Hiroshi Minagawa, Akihiko Yoshida et Hideo Minaba, chara design par Akihiko Yoshida, musiques par Hitoshi Sakimoto et Masaharu Iwata
+
+🎮 60 € sur Switch (<https://cutt.ly/XrN5U283>), PlayStation (<https://cutt.ly/YrN5IZLA>) et Xbox (<https://cutt.ly/HrN5OQd6>)
+💻️ 50 € sur Steam (<https://s.team/a/1004640>)
+
+» 🇫🇷 [Gamekult / 6 juin. 2025] Final Fantasy Tactics : le réalisateur Yasumi Matsuno souligne la nature politique du jeu. Cette fameuse époque sans politique dans le jeu vidéo → https://cutt.ly/SrN6BAoL
+
+» 🇩🇪 [JPGames / 21 juin 2025] Final Fantasy Tactics: Matsuno erklärt uns die Story-Anpassungen der Neuauflage → https://cutt.ly/ZrEMC9bS
+» 🇬🇧 [VGC / 24 juin 2025] ‘My perceptions have changed’: Final Fantasy Tactics writer explains how his script differs in the remaster. Yasumi Matsuno says the script has been updated for the upcoming remaster, The Ivalice Chronicles → https://cutt.ly/TrEMCn6M
+» 🇫🇷 [ActuGaming / 24 juin 2025] Final Fantasy Tactics : Le remaster changera une bonne partie du script, mais plus sur la forme que sur le fond → https://actugaming.net/a-735287
+
+» 🇬🇧 [VGC / 26 juin 2025] Final Fantasy Tactics writer says its political message is still relevant because the world hasn’t improved in 30 years. The 1997 original was released “during a time of serious economic and political turmoil” → https://cutt.ly/XrMzn6nD
+
+» 🇬🇧 [Eurogamer / 24 sept. 2025] Final Fantasy Tactics: The Ivalice Chronicles review - a historical great re-written and retold → https://cutt.ly/yrN6CzQp
+
+## Mais pas que
+### Kévin
+» **Paira**, duo musical brésilien, édité par Balaclava Records
+- écoutable sur Bandcamp
+  - 🎶 **EP01**, 4 USD → <https://balaclavarecords.bandcamp.com/album/ep01>
+  - 🎶 **EP02**, 5 USD → <https://balaclavarecords.bandcamp.com/album/ep02>
+- écoutable sur YouTube
+  - **EP01** :
+    - ▶️ **EP01** → <https://youtu.be/jWlXzlgx5G4>
+    - ▶️ **Música Lenta** → <https://youtu.be/7WNn5BtyOYI>
+    - ▶️ **O Fio ft. Adieu** → <https://youtu.be/LcsRx3HovfA>
+    - ▶️ **Como um Rio** → <https://youtu.be/sU87hskhiVw>
+  - **EP02** :
+    - ▶️ **Sua Casa** → <https://youtu.be/m1kV5meVNnw>
+    - ▶️ **Pra Sonhar** → <https://youtu.be/bkU3nKwhTQI>
+    - ▶️ **Confissão** → <https://youtu.be/jShESZNfV3w>
+  - autre :
+    - ▶️ **Preciso ir** → <https://youtu.be/ZjPnkDri3Nw>
+    - ▶️ **Ao vivo no Cais** → <https://youtu.be/E3saub7DS4E>
+
+- 🇧🇪 [RTBF / 16 jan. 2025] **Qui est Paira ? Le duo brésilien qui séduit avec “Preciso Ir”** → <https://cutt.ly/yrMlKNQu>
+
+excuses de sac :
+- désolée… j'étais en train de… zoner (LaLinosse / FFT)
+
+raids entrants :
+- Modiiie à 15:00 +195
+
+raids : OrigaTwitch => (15:26)[+661] JVleMag => (17:37)[+141] Nico_Oni => (21:27)[+118] Seldell (samedi) (terminé à 00:27)
+
 
 
 » 💬
@@ -15174,16 +15313,16 @@ raids : OrigaTwitch => (17:13)[+81] JVleMag => (17:35)[+51] DollyWood_ => (19:06
 » écrivez aux 🌐 Internet Exploreuses ✨ par courriel ✉️ internetexploreuses@gmail.com ou par Instagram 📷 https://instagram.com/internetexploreuses
 
 
-» Gautoz / Gauthier Andres → 🦋 https://bsky.app/profile/gautoz.cool | 𝕏 https://twitter.com/gautoz 
-» Padre / Florian Velter → 🦋 https://bsky.app/profile/leperefidalbion.bsky.social | 𝕏 https://twitter.com/LePereFidalbion
-» Hoopy / Sylvain Tastet → 🦋 https://bsky.app/profile/hoopyjv.bsky.social | 𝕏 https://twitter.com/_Hoopy
-» Moguri / Kevin Cicurel → 🦋 https://bsky.app/profile/elmogurito.bsky.social | 𝕏 https://twitter.com/El_Mogurito
-» LaLinosse / Héloïse Linossier → 🦋 https://bsky.app/profile/hlinossier.bsky.social | 𝕏 https://twitter.com/HLinossier
-» Hubert Petit → 🦋 https://bsky.app/profile/hubertpetit.bsky.social | 𝕏 https://twitter.com/snakenhub
-» Medoc / Medhi Camprasse → 🦋 https://bsky.app/profile/medoc.bsky.social | 𝕏 https://twitter.com/Elmedoc 
-» Cassim Montilla → 🦋 https://bsky.app/profile/cassim.montilla.fr | 𝕏 https://twitter.com/NotCassim | https://montilla.fr
-» Lucie Ronfaut → 🌐 https://LucieRonfaut.com | 🦋 https://bsky.app/profile/lucieronfaut.bsky.social | 𝕏 https://twitter.com/LucieRonfaut
-» Yamukass / Marion Bargiacchi → 🦋 https://bsky.app/profile/yamukass.bsky.social | 𝕏 https://twitter.com/S_Yamukass
+» Gautoz / Gauthier Andres → 🦋 https://bsky.app/profile/gautoz.cool
+» Padre / Florian Velter → 🦋 https://bsky.app/profile/leperefidalbion.bsky.social
+» Hoopy / Sylvain Tastet → 🦋 https://bsky.app/profile/hoopyjv.bsky.social
+» Moguri / Kevin Cicurel → 🦋 https://bsky.app/profile/elmogurito.bsky.social
+» LaLinosse / Héloïse Linossier → 🦋 https://bsky.app/profile/hlinossier.bsky.social
+» Hubert Petit → 🦋 https://bsky.app/profile/hubertpetit.bsky.social
+» Medoc / Medhi Camprasse → 🦋 https://bsky.app/profile/medoc.bsky.social
+» Cassim Montilla → 🦋 https://bsky.app/profile/cassim.montilla.fr
+» Lucie Ronfaut → 🌐 https://LucieRonfaut.com | 🦋 https://bsky.app/profile/lucieronfaut.bsky.social
+» Yamukass / Marion Bargiacchi → 🦋 https://bsky.app/profile/yamukass.bsky.social
 
 les copains :
 🦊 Seldell → 📰 https://indiemag.fr | 📡 https://twitch.tv/Seldell | ▶️ https://YouTube.com/@Seldell
