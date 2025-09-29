@@ -5615,19 +5615,116 @@ traduction :
 » 🇯🇵 [Nikkei / 25 sept. 2025] ゲーム業界の平均年収723万円　開発にAI活用5割 → https://cutt.ly/UrMxd6SL
 » 🇺🇸 [Automaton Media / 27 sept. 2025] Over 50% of Japanese game companies use AI in development, according to Tokyo Game Show organizer. According to the 2025 CESA Video Game Industry Report, 51% percent of domestic companies use AI in game development → https://cutt.ly/SrMxdHDt
 » 🇬🇧 [PC Gamer / 27 sept. 2025] Over half of Japanese game companies are using AI in development according to a new survey, including Level-5 and Capcom. A survey of Japanese game companies showed that AI use has reached a tipping point → https://cutt.ly/XrMxdYzA
+» 🇫🇷 [ActuGaming / 29 sept. 2025] Plus de la moitié des studios japonais utiliseraient de l’IA générative durant le développement de leurs jeux → https://actugaming.net/a-755052
 
 
-» 🇫🇷 [ActuGaming / 26 sept. 2025] 
+» 🇫🇷 [Gamekult / 28 sept. 2025] La PSP a aidé Manchester United à devenir meilleur → https://cutt.ly/trMB2Mox
 
-» 🇫🇷 [Gamekult / 26 sept. 2025] 
+» ▶️ [YouTube / Conquerax / 28 sept. 2025] La déchéance de Guitar Hero → https://youtu.be/9voS7Rqrf_g (1 h)
 
-» 🇬🇧 [PC Gamer / 27 sept. 2025] 
 
-» 🇺🇸 [Automaton Media / 27 sept. 2025] 
+» 🇺🇸 [Games Industry / 29 sept. 2025] Newzoo: Since 2021, nearly half of single-player AAA games released within a three-month window. The analysis firm found that publishers' "reliance on traditional release windows" risks reducing profitability and visibility → https://cutt.ly/BrMBDtXh
 
-» 🇺🇸 [Kotaku / 26 sept. 2025] 
+» 🇬🇧 [Eurogamer / 29 sept. 2025] The campaign against predatory in-game practices takes a step forward in Brazil, as President Lula bans loot boxes targeted at under-18s → https://cutt.ly/drMBD5ho
+» 🇺🇸 [Games Industry / 29 sept. 2025] 92.7% of gaming content creators work independently, says new study. Research finds majority of influencers work part-time, creating content alongside full-time responsibilities → https://cutt.ly/3rMBDbCw
 
-» 🇺🇸 [Time Extension / 25 sept. 2025] 
+» 🇺🇸 [Games Industry / 29 sept. 2025] Brazil bans the sale of loot boxes to minors. The ban is part of a larger safety law that aims to protect children and adolescents online → https://cutt.ly/PrMBDH3e
+
+» 🇺🇸 [Gematsu / 29 sept. 2025] Brotato post-launch development moved to Evil Empire. First full update due out in October → https://cutt.ly/BrMV3LEK
+
+» 🇺🇸 [Kotaku / 29 sept. 2025] NBA 2K26 players are making bloody Charlie Kirk characters and taking them online. The character creator has neck tattoo options that you can turn blood red, and one thing led to another → https://kotaku.com/n-2000629891
+
+» 🇺🇸 [Kotaku / 29 sept. 2025] Scalpers are already trying to flip the Xbox Ally X for twice the price and it’s not even sold out yet. It’s hard enough to find a compelling reason to spend $1,000 on one of these → https://kotaku.com/n-2000629892
+
+» 🇫🇷 [PlayStation Blog / 29 sept. 2025] Célébrons les 30 premières années de PlayStation. Un voyage visuel dans l'histoire du jeu vidéo → https://cutt.ly/TrMBHG6L
+» 🇺🇸 [Kotaku / 29 sept. 2025] This book is a beautiful way to memorialize 30 years of PlayStation. If you go home with somebody, and they don’t have books chronicling video game history… → https://kotaku.com/n-2000629906
+» 🇫🇷 [ActuGaming / 29 sept. 2025] PlayStation fête ses 30 ans avec un ouvrage qui plonge dans l’histoire de la marque → https://actugaming.net/a-755258
+
+» 🇺🇸 [Kotaku / 29 sept. 2025] New Battlefield 6 trailer is a direct attack against Call Of Duty. EA goes after Activision's long-running shooter series with a commercial briefly starring celebrities → https://kotaku.com/n-2000629910
+
+» 🇬🇧 [Reef Entertainment / 29 sept. 2025] Terminator 2D: No Fate release date moved to November 26, 2025 → https://cutt.ly/IrMBKu1A
+» 🇺🇸 [Kotaku / 29 sept. 2025] Cool-looking Terminator game suffers another delay due to Trump’s tariffs. The upcoming retro-inspired action-platformer was originally set to come out in September → https://kotaku.com/n-2000629932
+
+» 🇫🇷 [ActuGaming / 29 sept. 2025] Le joli RPG Threads of Time se dévoile un peu plus dans une nouvelle vidéo pour le Tokyo Game Show → https://actugaming.net/a-755018
+
+» 🇫🇷 [ActuGaming / 29 sept. 2025] Outward 2 : La suite du RPG verra le jour à l’été 2026 sur Steam → https://actugaming.net/a-755022
+
+» 🇫🇷 [ActuGaming / 29 sept. 2025] Parasite Mutant est un nouveau RPG de science-fiction et d’horreur qui s’inspire très fortement de Parasite Eve → https://actugaming.net/a-755032
+
+» 🇯🇵 [Konami / 29 sept. 2025] 日本を舞台としたサイコロジカルホラー『SILENT HILL f』 全世界累計出荷本数100万本突破！ → https://cutt.ly/TrMBPiXs
+» 🇺🇸 [Game Developer / 29 sept. 2025] Silent Hill f has sold 1 million copies worldwide. Konami said the milestone reinforces Silent Hill's status as an 'iconic horror franchise.' → https://cutt.ly/4rMBFV3T
+» 🇫🇷 [Gamekult / 29 sept. 2025] Silent Hill f passe la barre du million de ventes plus vite que Silent Hill 2 → https://cutt.ly/qrMB2dsQ
+» 🇫🇷 [ActuGaming / 29 sept. 2025] Silent Hill f dépasse déjà le million d’exemplaires distribués et fait mieux que Silent Hill 2 Remake en son temps → https://actugaming.net/a-755049
+
+» 🇺🇸 [Insider Gaming / 29 srpt. 2025] Bully 2 never happened because of “bandwidth issues” says Dan Houser → https://cutt.ly/orMBP3Cy
+» 🇫🇷 [ActuGaming / 29 sept. 2025] Dan Houser, co-fondateur de Rockstar, revient sur la raison pour laquelle Bully 2 n’a jamais vu le jour → https://actugaming.net/a-755056
+
+» 🇺🇸 [TheGamer / 29 sept. 2025] “Hopefully it contextualises how we’re approaching the game’s story” - Resident Evil Requiem director reveals that the hooded figure is a new character → https://cutt.ly/MrMBADGJ
+» 🇫🇷 [ActuGaming / 29 sept. 2025] Le producteur de Resident Evil Requiem revient sur les rumeurs qui entourent le jeu et de la frustration qu’elles engendrent → https://actugaming.net/a-755068
+
+» 🇫🇷 [ActuGaming / 29 sept. 2025] Zenless Zone Zero : Tout ce qu’il faut savoir sur la version 2.3 du jeu (Lucia, Yidhari, skin pour Viviane, futurs personnages…) → https://actugaming.net/a-755074
+
+» 🇫🇷 [ActuGaming / 29 sept. 2025] Avec sa dernière bande-annonce mettant en scène Zac Efron, Battlefield 6 se paye la tête de Call of Duty → https://actugaming.net/a-755179
+
+» 🇫🇷 [ActuGaming / 29 sept. 2025] Borderlands 4 : Le prochain personnage jouable du jeu sortira début 2026 et se nomme C4SH → https://actugaming.net/a-755229
+
+» 🇫🇷 [ActuGaming / 29 sept. 2025] 2XKO : Le jeu de combat complète son casting de base avec le mignon mais redoutable Teemo → https://actugaming.net/a-755315
+
+» 🇫🇷 [Gamekult / 29 sept. 2025] Il y a 30 ans, Rayman devenait la mascotte du jeune Ubi Soft → https://cutt.ly/9rMB2Js8
+
+» 🇫🇷 [Gamekult / 29 sept. 2025] Switch 2 : cinq portages de jeux LEGO fuitent à cause de... Nintendo → https://cutt.ly/krMB06tE
+
+» ▶️ [YouTube / NoClip / 27 août 2025] The origins of MachineGames (Riddick, The Darkness) → https://youtu.be/SAEdFG7_X_w (32 min)
+» ▶️ [YouTube / NoClip / 5 sept. 2025] The making of Wolfenstein → https://youtu.be/E189QG28rnE (44 min)
+» ▶️ [YouTube / NoClip / 29 sept. 2025] The Making of Indiana Jones and the Great Circle → https://youtu.be/FsxTQvo5QhM (55 min)
+
+» 🇬🇧 [PC Gamer / 29 sept. 2025] Monster Hunter Wilds is the latest game to announce an 'End of support notice for Windows 10', as developers prepare for the final days of the soon-to-be-dead operating system → https://cutt.ly/7rMBMHO9
+
+» 🇺🇸 [Automaton Media / 29 sept. 2025] Tales of Remastered Project’s unusual release order has to do with behind-the-scenes complications like missing source data, producer says. Tales of IP general producer Yusuke Tomizawa talks about his priorities in the Tales Remastered Project amidst technical difficulties → https://cutt.ly/urMBVDw8
+
+» 🇯🇵 [Famitsu / 28 sept. 2025] 『龍が如く 極3 / 龍が如く3外伝 Dark Ties』インタビュー。勇気を持って変えるとこはかなり変えた『極3』。峯のカラオケ『ばかみたい』の写真はツッコミパートだった → https://famitsu.com/article/202509/53863
+» 🇺🇸 [Automaton Media / 29 sept. 2025] Yakuza Dark Ties was originally supposed to be just a viewable movie, but RGG Studio couldn’t miss out on its last opportunity to make Mine playable. Yakuza Kiwami 3 & Dark Ties director Ryosuke Horii on why RGG Studio decided to develop Mine's side story into a full game → https://cutt.ly/6rMBN8qt
+
+» 🇺🇸 [Automaton Media / 29 sept. 2025] Suda51-inspired hitman game Tokyo Underground Killer is a sleeper hit from an eccentric Japan-based studio. Interview with Phoenix Game Productions, the Japan-based studio that worked on Resident Evil 4 (2023) and just released its first original title → https://cutt.ly/0rMBNBvl
+
+» 🇯🇵 [Famitsu / 28 sept. 2025] 『バイオハザード レクイエム』にはこれまでとは違う動きをするゾンビが!? グレースはアリッサからゾンビに対してのアドバイスをもらっているわけではない？ 開発陣にいろいろ訊いた → https://famitsu.com/article/202509/53825
+» 🇺🇸 [Automaton Media / 29 sept. 2025] Resident Evil Requiem devs say optimizing for Switch 2 was a smooth ride. “We accounted for scalability from the start, it wasn’t a forceful downgrade” → https://cutt.ly/ZrMBB0rQ
+
+» 🇺🇸 [BusinessWire / 29 sept. 2025] EA Announces Agreement to be Acquired by PIF, Silver Lake, and Affinity Partners for $55 Billion → https://cutt.ly/nrMV944R
+» 🇺🇸 [Game File / 29 sept. 2025] One of the world’s biggest video game companies plans to sell to some of the world’s most powerful people. EA confirms deal to sell to Saudis and other investors for $55 billion, going private → https://cutt.ly/1rMV3gYB
+» 🇺🇸 [The Wall Street Journal / 29 sept. 2025] Videogame giant Electronic Arts nears roughly $50 billion deal to go private. Investors including Silver Lake eyeing deal that would likely be the largest leveraged buyout ever → https://cutt.ly/BrMV7l7A
+» 🇺🇸 [IGN / 29 sept. 2025] EA goes private in $55 billion deal with PIF, Silver Lake, and Affinity Partners, Andrew Wilson to remain as CEO. "I am more energized than ever about the future we are building." → https://cutt.ly/srMV54HI
+» 🇫🇷 [IGN France / 29 sept. 2025] C'est officiel, EA est racheté dans le cadre d'un accord de 55 milliards de dollars. "Je suis plus enthousiaste que jamais quant à l'avenir que nous sommes en train de construire". → https://cutt.ly/6rMV5pYA
+» 🇺🇸 [Reuters / 29 sept. 2025] Videogame maker EA in advanced talks to go private at roughly $50 billion valuation → https://cutt.ly/yrMBIW39
+» 🇬🇧 [Financial Times / 29 sept. 2025] Video games maker Electronic Arts strikes $55bn deal to go private → https://cutt.ly/XrMV3R9x
+» 🇫🇷 [Gamekult / 29 sept. 2025] Electronic Arts accepte d'être vendu à des investisseurs saoudiens et américains pour 55 milliards de dollars → https://cutt.ly/yrMV8i71
+» 🇫🇷 [ActuGaming / 29 sept. 2025] Electronic Arts annonce son rachat par Silver Lake, Affinity Partners et le fonds d’Arabie saoudite → https://actugaming.net/a-755097
+» 🇺🇸 [Kotaku / 29 sept. 2025] EA boss congratulates employees on $55 billion leveraged buyout by private equity. CEO Andrew Wilson is about to make a lot of money → https://kotaku.com/n-2000629912
+» 🇺🇸 [Kotaku / 29 sept. 2025] EA goes private, then what? Industry analysts weigh in on how Saudi Arabia's leveraged buyout will impact one of gaming's biggest publishers → https://kotaku.com/n-2000629947
+» 🇺🇸 [Games Industry / 29 sept. 2025] EA to be acquired by Public Investment Fund, Silver Lake, and Affinity Partners for $55bn. Transaction is expected to close in Q1 FY27, Andrew Wilson to remain as CEO → https://cutt.ly/NrMV4dJD
+» 🇺🇸 [Games Industry / 29 sept. 2025] Who bought EA? Here's what you need to know about PIF, Silver Lake, and Affinity Partners → https://cutt.ly/wrMBFl7L
+
+» 🇬🇧 [PC Gamer / 29 sept. 2025] Former BioWare lead writer reads the runes on EA-Saudi deal and speculates that 'guns and football' are in, 'gay stuff' is out, and the venerable RPG studio may be for the chop. Who knows, maybe the Crown Prince is a big Femshep fan → https://cutt.ly/3rMBXwk3
+
+» 🇺🇸 [IGN / 30 avril 2025] EA cuts around 300 roles, including roughly 100 at Respawn, reportedly cancels Titanfall game. Wider EA cuts largely impacted the Experiences team → https://cutt.ly/YrMBVaMw
+» 🇫🇷 [IGN France / 30 avril 2025] EA supprime environ 300 postes, dont 100 chez Respawn. Les réductions générales de l'EA ont un impact important sur l'équipe Experiences → https://cutt.ly/0rMBVz8u
+» 🇺🇸 [Bloomberg / 29 avril 2025] Electronic Arts lays off hundreds, cancels ‘Titanfall’ game. The video-game publisher cuts between 300 and 400 jobs → https://cutt.ly/frMBX0nC
+» 🇺🇸 [GameSpot / 29 avril 2025] Titanfall game reportedly canceled at Respawn amid wider EA shakeup. Ahead of EA's next investor briefing, the company is making major changes → https://cutt.ly/srMBXvPt
+
+
+
+
+» 🇫🇷 [ActuGaming / 29 sept. 2025] 
+
+» 🇫🇷 [Gamekult / 29 sept. 2025] 
+
+» 🇬🇧 [PC Gamer / 29 sept. 2025] 
+
+» 🇺🇸 [Automaton Media / 29 sept. 2025] 
+
+» 🇺🇸 [Kotaku / 29 sept. 2025] 
+
+» 🇺🇸 [Time Extension / 29 sept. 2025] 
 
 
 
