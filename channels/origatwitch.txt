@@ -15267,6 +15267,82 @@ raids entrants :
 raids : OrigaTwitch => (15:26)[+661] JVleMag => (17:37)[+141] Nico_Oni => (21:27)[+118] Seldell (samedi) (terminé à 00:27)
 
 
+--------------------------------------
+2025-09-30
+
+# Mardinale #58
+## Actus
+### Un consortium américano-saoudien achète Electronic Arts
+» 🇺🇸 [Electronic Arts / 29 sept. 2025] EA announces agreement to be acquired by PIF, Silver Lake, and Affinity partners for $55 billion → https://cutt.ly/Zr1tdcft
+» 🇺🇸 [BusinessWire / 29 sept. 2025] EA Announces Agreement to be Acquired by PIF, Silver Lake, and Affinity Partners for $55 Billion → https://cutt.ly/nrMV944R
+» 🇺🇸 [Reuters / 29 sept. 2025] Videogame maker EA in advanced talks to go private at roughly $50 billion valuation → https://cutt.ly/yrMBIW39
+
+» 🇺🇸 [Game File / 29 sept. 2025] One of the world’s biggest video game companies plans to sell to some of the world’s most powerful people. EA confirms deal to sell to Saudis and other investors for $55 billion, going private → https://cutt.ly/1rMV3gYB
+» 🇺🇸 [The Wall Street Journal / 29 sept. 2025] Videogame giant Electronic Arts nears roughly $50 billion deal to go private. Investors including Silver Lake eyeing deal that would likely be the largest leveraged buyout ever → https://cutt.ly/BrMV7l7A
+» 🇺🇸 [IGN / 29 sept. 2025] EA goes private in $55 billion deal with PIF, Silver Lake, and Affinity Partners, Andrew Wilson to remain as CEO. "I am more energized than ever about the future we are building." → https://cutt.ly/srMV54HI
+» 🇫🇷 [IGN France / 29 sept. 2025] C'est officiel, EA est racheté dans le cadre d'un accord de 55 milliards de dollars. "Je suis plus enthousiaste que jamais quant à l'avenir que nous sommes en train de construire". → https://cutt.ly/6rMV5pYA
+» 🇬🇧 [Financial Times / 29 sept. 2025] Video games maker Electronic Arts strikes $55bn deal to go private → https://cutt.ly/XrMV3R9x
+
+» 🇬🇧 [Eurogamer / 29 sept. 2025] EA privately acquired in $55bn deal by group of investors, including Saudi Arabia's investment fund and Donald Trump's son-in-law. "We will create transformative experiences to inspire generations to come." → https://cutt.ly/yr1toSJv
+» 🇫🇷 [Gamekult / 29 sept. 2025] Electronic Arts accepte d'être vendu à des investisseurs saoudiens et américains pour 55 milliards de dollars → https://cutt.ly/yrMV8i71
+» 🇫🇷 [ActuGaming / 29 sept. 2025] Electronic Arts annonce son rachat par Silver Lake, Affinity Partners et le fonds d’Arabie saoudite → https://actugaming.net/a-755097
+» 🇺🇸 [Kotaku / 29 sept. 2025] EA boss congratulates employees on $55 billion leveraged buyout by private equity. CEO Andrew Wilson is about to make a lot of money → https://kotaku.com/n-2000629912
+» 🇺🇸 [Games Industry / 29 sept. 2025] EA to be acquired by Public Investment Fund, Silver Lake, and Affinity Partners for $55bn. Transaction is expected to close in Q1 FY27, Andrew Wilson to remain as CEO → https://cutt.ly/NrMV4dJD
+
+### Chez EA, l'endettement qui mène au massacre
+» 🇺🇸 [TechPowerUp / 29 sept. 2025] EA's new owner plans AI pivot 'to significantly cut operating costs' → https://techpowerup.com/341464
+» 🇺🇸 [Kotaku / 29 sept. 2025] EA goes private, then what? Industry analysts weigh in on how Saudi Arabia's leveraged buyout will impact one of gaming's biggest publishers → https://kotaku.com/n-2000629947
+
+» 🦋 [BlueSky / Mat Piscatella / 30 sept. 2025] 🧵 https://bsky.app/profile/matpiscatella.bsky.social/post/3lzyd46jolc2o
+> $20,000,000,000 of debt financing is a shockingly large number to have to service, while also transitioning from a public to private organization and all the implications that has on the people that work in it.
+> We've obviously never seen anything like this at this scale in the industry before.
+
+Données fiscale d'Electronic Arts pour l'année écoulée :
+- revenus : 7,46 milliards
+- bénéfices avant intérêts et impôts (_opérating income_) : 1,52 milliads
+- revenus nets (_net income_) : 1,12 milliards
+- actifs (_total assets_) : 12,4 milliards
+- capitaux propres (_total equity_) : 6,39 milliards
+- valeur sur le marché (avant les annonces) : environ 42 milliards
+  - depuis les annonces, l'action a fait un bond de 170 USD à 202 USD, et donc la valeur d'EA a dépassé les 50 milliards
+
+» 📄 <https://en.wikipedia.org/wiki/Electronic_Arts>
+» 📄 <https://finance.yahoo.com/quote/EA/>
+
+Donc cette dette va représenter la moitié de la valeur estimée de l'entreprise sur le marché, deux fois ce qu'elle possède en actifs, 18 ans d'exercice.
+
+### Qui possèdera quoi ?
+» 🇺🇸 [Games Industry / 29 sept. 2025] Who bought EA? Here's what you need to know about PIF, Silver Lake, and Affinity Partners → https://cutt.ly/wrMBFl7L
+» 🇬🇧 [Financial Times / 29 sept. 2025] How Jared Kushner brokered the $55bn takeover of Electronic Arts → https://cutt.ly/fr1tpOsl
+» 🇺🇸 [Aftermath / 29 sept. 2025] The EA sale is bad news for everyone. Except--you'll never believe it--the guys who already have the money → https://cutt.ly/sr1tGLb0
+
+Les racheteurs d'Electronics Arts, par niveau d'investissements dans le monde :
+- PIF, le fond de l'Arabie Saoudite : 925 milliards de USD
+- Silver Lake : 104 milliards de USD
+- Affinity Partners, le fond de Jared Kushner : 5 milliards de USD
+
+### Un feu d'artifice politique se prépare
+» Saudi Vision 2030 → https://vision2030.gov.sa/en
+
+» 🇺🇸 [Axios / 20 jan. 2024] Senate Democrats launch investigation into Jared Kushner's business → https://cutt.ly/vr1tk4Mb
+» 🇺🇸 [USA Committe on Finance / 25 sept. 2024] Wyden investigation of Kushner firm continues; new letter outlines Affinity Partners’ fee structure, lack of return to investors, questionable deals with foreign governments. Amid ongoing investigation, finance chair questions whether Kushner firm is designed as a workaround for foreign governments to pay Trump officials without disclosure → https://cutt.ly/Yr1tkOhW
+» 🇺🇸 [MSNBC / 28 sept. 2024] We need to talk about Jared Kushner's sketchy Saudi-backed fund. Why is Donald Trump's son-in-law raking in millions in fees from investors but not delivering them money? → https://cutt.ly/jr1tlXPr
+
+» 🇺🇸 [SuperJoost / 29 sept. 2025] Electronic Arts' $55B buyout doesn't add up. Power and prestige over profits → https://cutt.ly/or1tpyJs
+
+### Les jeux EA risquent-ils une censure ?
+» 🇬🇧 [PC Gamer / 29 sept. 2025] Former BioWare lead writer reads the runes on EA-Saudi deal and speculates that 'guns and football' are in, 'gay stuff' is out, and the venerable RPG studio may be for the chop. Who knows, maybe the Crown Prince is a big Femshep fan → https://cutt.ly/3rMBXwk3
+» 🇺🇸 [TheGamer / 30 sept. 2025] The Sims, Dragon Age, and Mass Effect fans fear that queer content will be censored after EA's buyout → https://cutt.ly/rr1tF1Dt
+
+### CR7 partout, justice nulle part
+» 🇺🇸 [TheGamer / 30 sept. 2025] Expert says EA acquisition won't be blocked by regulators while the president's son-in-law is involved → https://cutt.ly/3r1t0oim
+
+» 🇺🇸 [Kotaku / 29 sept. 2025] New Battlefield 6 trailer is a direct attack against Call Of Duty. EA goes after Activision's long-running shooter series with a commercial briefly starring celebrities → https://kotaku.com/n-2000629910
+» 🇫🇷 [ActuGaming / 29 sept. 2025] Avec sa dernière bande-annonce mettant en scène Zac Efron, Battlefield 6 se paye la tête de Call of Duty → https://actugaming.net/a-755179
+» 🇺🇸 [TechPowerUp / 30 sept. 2025] Battlefield 6 free season 1 update roadmap reveals new weapons, maps, and game modes → https://techpowerup.com/341510
+
+
+
 
 » 💬
 » 📄 
