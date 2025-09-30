@@ -5631,6 +5631,7 @@ traduction :
 » 🇺🇸 [Games Industry / 29 sept. 2025] Brazil bans the sale of loot boxes to minors. The ban is part of a larger safety law that aims to protect children and adolescents online → https://cutt.ly/PrMBDH3e
 
 » 🇺🇸 [Gematsu / 29 sept. 2025] Brotato post-launch development moved to Evil Empire. First full update due out in October → https://cutt.ly/BrMV3LEK
+» 🇫🇷 [Gamekult / 30 sept. 2025] Brotato : Evil Empire prend le relais du développement → https://cutt.ly/Fr1tWGQT
 
 » 🇺🇸 [Kotaku / 29 sept. 2025] NBA 2K26 players are making bloody Charlie Kirk characters and taking them online. The character creator has neck tattoo options that you can turn blood red, and one thing led to another → https://kotaku.com/n-2000629891
 
@@ -5640,10 +5641,9 @@ traduction :
 » 🇺🇸 [Kotaku / 29 sept. 2025] This book is a beautiful way to memorialize 30 years of PlayStation. If you go home with somebody, and they don’t have books chronicling video game history… → https://kotaku.com/n-2000629906
 » 🇫🇷 [ActuGaming / 29 sept. 2025] PlayStation fête ses 30 ans avec un ouvrage qui plonge dans l’histoire de la marque → https://actugaming.net/a-755258
 
-» 🇺🇸 [Kotaku / 29 sept. 2025] New Battlefield 6 trailer is a direct attack against Call Of Duty. EA goes after Activision's long-running shooter series with a commercial briefly starring celebrities → https://kotaku.com/n-2000629910
-
 » 🇬🇧 [Reef Entertainment / 29 sept. 2025] Terminator 2D: No Fate release date moved to November 26, 2025 → https://cutt.ly/IrMBKu1A
 » 🇺🇸 [Kotaku / 29 sept. 2025] Cool-looking Terminator game suffers another delay due to Trump’s tariffs. The upcoming retro-inspired action-platformer was originally set to come out in September → https://kotaku.com/n-2000629932
+» 🇫🇷 [Gamekult / 30 sept. 2025] Terminator 2D : No Fate attendra fin novembre (et c'est la faute de Trump ?) → https://cutt.ly/Fr1tEUQB
 
 » 🇫🇷 [ActuGaming / 29 sept. 2025] Le joli RPG Threads of Time se dévoile un peu plus dans une nouvelle vidéo pour le Tokyo Game Show → https://actugaming.net/a-755018
 
@@ -5663,8 +5663,6 @@ traduction :
 » 🇫🇷 [ActuGaming / 29 sept. 2025] Le producteur de Resident Evil Requiem revient sur les rumeurs qui entourent le jeu et de la frustration qu’elles engendrent → https://actugaming.net/a-755068
 
 » 🇫🇷 [ActuGaming / 29 sept. 2025] Zenless Zone Zero : Tout ce qu’il faut savoir sur la version 2.3 du jeu (Lucia, Yidhari, skin pour Viviane, futurs personnages…) → https://actugaming.net/a-755074
-
-» 🇫🇷 [ActuGaming / 29 sept. 2025] Avec sa dernière bande-annonce mettant en scène Zac Efron, Battlefield 6 se paye la tête de Call of Duty → https://actugaming.net/a-755179
 
 » 🇫🇷 [ActuGaming / 29 sept. 2025] Borderlands 4 : Le prochain personnage jouable du jeu sortira début 2026 et se nomme C4SH → https://actugaming.net/a-755229
 
@@ -5690,21 +5688,6 @@ traduction :
 » 🇯🇵 [Famitsu / 28 sept. 2025] 『バイオハザード レクイエム』にはこれまでとは違う動きをするゾンビが!? グレースはアリッサからゾンビに対してのアドバイスをもらっているわけではない？ 開発陣にいろいろ訊いた → https://famitsu.com/article/202509/53825
 » 🇺🇸 [Automaton Media / 29 sept. 2025] Resident Evil Requiem devs say optimizing for Switch 2 was a smooth ride. “We accounted for scalability from the start, it wasn’t a forceful downgrade” → https://cutt.ly/ZrMBB0rQ
 
-» 🇺🇸 [BusinessWire / 29 sept. 2025] EA Announces Agreement to be Acquired by PIF, Silver Lake, and Affinity Partners for $55 Billion → https://cutt.ly/nrMV944R
-» 🇺🇸 [Game File / 29 sept. 2025] One of the world’s biggest video game companies plans to sell to some of the world’s most powerful people. EA confirms deal to sell to Saudis and other investors for $55 billion, going private → https://cutt.ly/1rMV3gYB
-» 🇺🇸 [The Wall Street Journal / 29 sept. 2025] Videogame giant Electronic Arts nears roughly $50 billion deal to go private. Investors including Silver Lake eyeing deal that would likely be the largest leveraged buyout ever → https://cutt.ly/BrMV7l7A
-» 🇺🇸 [IGN / 29 sept. 2025] EA goes private in $55 billion deal with PIF, Silver Lake, and Affinity Partners, Andrew Wilson to remain as CEO. "I am more energized than ever about the future we are building." → https://cutt.ly/srMV54HI
-» 🇫🇷 [IGN France / 29 sept. 2025] C'est officiel, EA est racheté dans le cadre d'un accord de 55 milliards de dollars. "Je suis plus enthousiaste que jamais quant à l'avenir que nous sommes en train de construire". → https://cutt.ly/6rMV5pYA
-» 🇺🇸 [Reuters / 29 sept. 2025] Videogame maker EA in advanced talks to go private at roughly $50 billion valuation → https://cutt.ly/yrMBIW39
-» 🇬🇧 [Financial Times / 29 sept. 2025] Video games maker Electronic Arts strikes $55bn deal to go private → https://cutt.ly/XrMV3R9x
-» 🇫🇷 [Gamekult / 29 sept. 2025] Electronic Arts accepte d'être vendu à des investisseurs saoudiens et américains pour 55 milliards de dollars → https://cutt.ly/yrMV8i71
-» 🇫🇷 [ActuGaming / 29 sept. 2025] Electronic Arts annonce son rachat par Silver Lake, Affinity Partners et le fonds d’Arabie saoudite → https://actugaming.net/a-755097
-» 🇺🇸 [Kotaku / 29 sept. 2025] EA boss congratulates employees on $55 billion leveraged buyout by private equity. CEO Andrew Wilson is about to make a lot of money → https://kotaku.com/n-2000629912
-» 🇺🇸 [Kotaku / 29 sept. 2025] EA goes private, then what? Industry analysts weigh in on how Saudi Arabia's leveraged buyout will impact one of gaming's biggest publishers → https://kotaku.com/n-2000629947
-» 🇺🇸 [Games Industry / 29 sept. 2025] EA to be acquired by Public Investment Fund, Silver Lake, and Affinity Partners for $55bn. Transaction is expected to close in Q1 FY27, Andrew Wilson to remain as CEO → https://cutt.ly/NrMV4dJD
-» 🇺🇸 [Games Industry / 29 sept. 2025] Who bought EA? Here's what you need to know about PIF, Silver Lake, and Affinity Partners → https://cutt.ly/wrMBFl7L
-
-» 🇬🇧 [PC Gamer / 29 sept. 2025] Former BioWare lead writer reads the runes on EA-Saudi deal and speculates that 'guns and football' are in, 'gay stuff' is out, and the venerable RPG studio may be for the chop. Who knows, maybe the Crown Prince is a big Femshep fan → https://cutt.ly/3rMBXwk3
 
 » 🇺🇸 [IGN / 30 avril 2025] EA cuts around 300 roles, including roughly 100 at Respawn, reportedly cancels Titanfall game. Wider EA cuts largely impacted the Experiences team → https://cutt.ly/YrMBVaMw
 » 🇫🇷 [IGN France / 30 avril 2025] EA supprime environ 300 postes, dont 100 chez Respawn. Les réductions générales de l'EA ont un impact important sur l'équipe Experiences → https://cutt.ly/0rMBVz8u
@@ -5712,15 +5695,41 @@ traduction :
 » 🇺🇸 [GameSpot / 29 avril 2025] Titanfall game reportedly canceled at Respawn amid wider EA shakeup. Ahead of EA's next investor briefing, the company is making major changes → https://cutt.ly/srMBXvPt
 
 
+» 🇺🇸 [Unseen Japan / 30 sept. 2025] Everyone knew about Kagawa Teruyuki. The more we learn about the ongoing Kagawa Teruyuki scandal, the worse it gets → https://cutt.ly/3r1tukTx
+
+» 🇺🇸 [Avalanche Studios / 30 sept. 2025] A studio update from Avalanche Studios Group → https://cutt.ly/Gr1tyb17
+» 🇺🇸 [TechPowerUp / 30 sept. 2025] Avalanche Studios closes branch and lays off unknown number of staff following Contraband cancellation → https://techpowerup.com/341507
+» 🇺🇸 [Probably dance / 30 sept. 2025] Avalanche Studios NYC retrospective – An ambitious company ruined by bad development practices → https://cutt.ly/ur1thD8s
+» 🇺🇸 [Kotaku / 30 sept. 2025] Just Cause devs announce UK studio closure and layoffs. Developer Avalanche Studios announced that its studio located in Liverpool is shutting down → https://kotaku.com/n-2000630245
+
+» 🦋 [BlueSky / The Game bakers / 30 sept. 2025] 🧵 https://bsky.app/profile/thegamebakers.com/post/3m22oyr4sms27
+> Cairn launching Q1 2026. Demo update out soon to make the wait a little easier
+
+» 🇫🇷 [Gamekult / 30 sept. 2025] Après Taiwan, Nintendo s'installe à Singapour → https://cutt.ly/fr1tE3U1
+
+» 🇺🇸 [Automaton Media / 30 sept. 2025] 
+
+» 🇺🇸 [Automaton Media / 30 sept. 2025] Sonic Racing: CrossWorlds’s cross-play was incredibly difficult and time-consuming to pull off, but the devs considered it a must for fair matchmaking → https://cutt.ly/hr1t1Ot3
+
+» 🇯🇵 [Famitsu / 29 sept. 2025] Cygamesの木村唯人氏が専務取締役の辞任を発表。体調の不調が続き、プロデューサー業を全うするのが難しくなったため → https://famitsu.com/article/202509/54123
+» 🇺🇸 [Automaton Media / 30 sept. 2025] Cygames executive director and former Granblue Fantasy producer steps down due to health concerns. Yuito Kimura has served as producer on several titles including Rage of Bahamut, Granblue Fantasy, the Granblue Fantasy: Versus games, and Shadowverse: Worlds Beyond → https://cutt.ly/cr1tXrdA
+
+» 🇺🇸 [Automaton Media / 1er oct. 2025] Future Silent Hill games won’t necessarily follow Silent Hill f formula, producer says. “We want to keep experimenting with each new title”. Amidst Silent Hill f's success, series producer Motoi Okamoto talks about what players should expect from future entries → https://cutt.ly/Ar1tZZEw
+
+» 🇺🇸 [Automaton Media / 1er oct. 2025] Square Enix’s Emberstoria pushes Live2D animation to its limits to achieve a hand-drawn feel 3D models can’t replicate. Joint interview with Square Enix, Orange Cube, CRI Middleware and Live2D about the technology behind Emberstoria’s animation → https://cutt.ly/pr1tXBvV
+
+» 🇯🇵 [Famitsu / 28 sept. 2025] 「じつは新川宗平と喜多山浪漫は同一人物だったんだよ！」「なんだってー！」元日本一ソフトウェア・新川氏が突然のカミングアウトで前田佳織里さんもコメントも大混乱 → https://famitsu.com/article/202509/53959
+» 🇺🇸 [Automaton Media / 1er oct. 2025] Former Nippon Ichi Software president reveals secret author persona he’s been using ever since he resigned. Turns out he’s both the writer and producer of his new game. Former Nippon Ichi Software president Sohei Niikawa revealed as the true identity of undercover author Roman Kitayama → https://cutt.ly/qr1tL8yT
+
 
 
 » 🇫🇷 [ActuGaming / 29 sept. 2025] 
 
-» 🇫🇷 [Gamekult / 29 sept. 2025] 
+» 🇫🇷 [Gamekult / 30 sept. 2025] 
 
 » 🇬🇧 [PC Gamer / 29 sept. 2025] 
 
-» 🇺🇸 [Automaton Media / 29 sept. 2025] 
+» 🇺🇸 [Automaton Media / 30 sept. 2025] 
 
 » 🇺🇸 [Kotaku / 29 sept. 2025] 
 
