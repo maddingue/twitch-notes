@@ -5956,29 +5956,95 @@ traduction :
 
 » 🇺🇸 [Sam Altman / 4 oct. 2025] Sora update #1 → https://cutt.ly/Hr0z3L2R
 » 🇯🇵 [Famitsu / 4 oct. 2025] 動画生成AI『Sora2』OpenAI CEOのアルトマン氏が今後の著作権に関する方針について言及。「日本のコンテンツ」への配慮を示す言葉も → https://famitsu.com/article/202510/54481
+» 🇺🇸 [Kotaku / 6 oct. 2025] OpenAI is already backtracking after flood of video game slop including Sam Altman eating Pikachu. Sora 2 is getting some more guardrails after an apparent frenzy of copyright infringement → https://kotaku.com/n-2000632089
 
 » 🇺🇸 [Bloomberg / 3 oct. 2025] Xbox’s hike on Game Pass shows cost of lost ‘Call of Duty’ sales → https://cutt.ly/2r0z7y8M
 » 🇺🇸 [Kotaku / 4 oct. 2025] Call of Duty: Black Ops 6 on Game Pass cost Microsoft $300 million in lost sales. Game Pass price hikes come amid the subscription platform's apparent stalled growth → https://kotaku.com/n-2000631659
 » 🇫🇷 [Xboxygen / 4 oct. 2025] La vérité derrière la hausse du Xbox Game Pass : le monstre Call of Duty → https://cutt.ly/Tr0z7WYl
+» 🇫🇷 [ActuGaming / 6 oct. 2025] L’augmentation du prix Xbox Game Pass pourrait être liée en partie à la perte d’argent sur la licence Call of Duty → https://actugaming.net/a-757980
 
 » 🇯🇵 [Famitsu / 5 oct. 2025] 任天堂「生成AIに関連して日本政府に働きかけをしている事実はない」と声明。生成AIの有無に関わらずIPの侵害には適切な対応をとる方針 → https://famitsu.com/article/202510/54512
 » 🇬🇧 [Eurogamer / 5 oct. 2025] Nintendo denies lobbying over genAI, but stresses it will continue fighting IP infringement "whether AI is involved or not" → https://cutt.ly/Cr0Pcp9J
+» 🇫🇷 [ActuGaming / 6 oct. 2025] Nintendo ne discute pas avec le gouvernement japonais sur la question de l’IA, mais il protège ses licences → https://actugaming.net/a-758005
 
 » 🇫🇷 [Gamekult / 5 oct. 2025] Conçu par le créateur de Pac-Man, le tout premier jeu vidéo de Namco revient → https://cutt.ly/cr0PvQHc
 
+» 𝕏 [X / Daniel Camilo / 5 oct. 2025] 🧵 https://xcancel.com/DanielOlimac/status/1974907947768787276
+> Director of Sales Operations for PlayStation China posted today a peculiar message celebrating 2 million copies sold by Ghost of Yotei. 
+> The message and image used are "peculiar" to say the least, but the sales number seem to align/confirm current sayings.
+
+» 🦋 [BlueSky / Tacht Club Games / 6 oct. 2025] 🧵 https://bsky.app/profile/yachtclubgames.bsky.social/post/3m2kgkkglvc2c
+> This week, our team made a tough decision: we decided to delay Mina the Hollower. The entire crew has been working tirelessly day and night to finish development for release on Oct 31st, but we’re just not quite there yet.
+> Read the full announcement here ➡️ https://ycgurl.com/delayextravaganza
+
+» 🇪🇸 [AS / 6 oct. 2025] Los españoles Pendulo Studios, creadores de Runaway y Hollywood Monsters, echaron el cierre hace meses: “Quisieron esconderlo debajo de la alfombra”. La compañía detuvo todas sus operaciones a finales de marzo de 2025, según un exempleado → https://cutt.ly/Tr01wVLk
+
+» 🇺🇸 [Games Industry / 6 oct. 2025] Funcom is closing Metal Hellsinger studio The Outsiders. "Change is always tough and right now we are all hurting" → https://cutt.ly/7r01rvt1
+» 🇺🇸 [Game Developer / 6 oct. 2025] Funcom is closing Metal: Hellsinger developer The Outsiders. It's unclear how many people will lose their jobs as a result of the shutdown → https://cutt.ly/2r01eRAr
+
+» 🇫🇷 [ActuGaming / 6 oct. 2025] Ranger’s Path: National Park Simulator nous apprend le quotidien d’un garde forestier dans une vidéo de gameplay → https://actugaming.net/a-757931
+
+» 🇺🇸 [Windows Central / 6 oct. 2025] Microsoft assures gamers: Xbox hardware plans remain strong amid latest rumors. Xbox isn’t going all-cloud — next-gen consoles are still coming, and rumors of Xbox’s console demise have been greatly exaggerated. → https://cutt.ly/ir01t2HY
+» 🇺🇸 [Kotaku / 6 oct. 2025] Xbox still swears it’s not giving up on consoles as fan morale craters. Microsoft refuted rumors that it was getting out of the hardware business anytime soon → https://kotaku.com/n-2000632026
+» 🇫🇷 [ActuGaming / 6 oct. 2025] Xbox dément les récentes rumeurs concernant la fin du développement de ses nouvelles consoles → https://actugaming.net/a-757976
+
+» 🇫🇷 [ActuGaming / 6 oct. 2025] Ninja Gaiden 4 aura droit à un premier DLC début 2026 centré sur ses deux héros → https://actugaming.net/a-757983
+
+» 🇫🇷 [ActuGaming / 6 oct. 2025] Control : L’ultime mise à jour arrive sur PS5 et Xbox Series pour rendre le jeu plus fluide que jamais sur consoles → https://actugaming.net/a-757998
+
+» 🇫🇷 [ActuGaming / 6 oct. 2025] Kingmakers, le jeu médiéval avec des armes à feu et des voitures, est repoussé à une date indéterminée → https://actugaming.net/a-758001
+
+» 🇫🇷 [ActuGaming / 6 oct. 2025] SEGA s’associe à nouveau avec le Comité International Olympique, bientôt un retour de Sonic aux Jeux Olympiques ? → https://actugaming.net/a-758013
+
+» 🇺🇸 [Automaton Media / 3 oct. 2025] “Getting rid of gacha is beneficial for developers too.” Duet Night Abyss producer says keeping players satisfied is key for stable monetization. In an interview with AUTOMATON, Duet Night Abyss producer Deca Bear told us more about his studio's decision to ditch gacha monetization. → https://cutt.ly/Rr01uH3d
+» 🇫🇷 [ActuGaming / 6 oct. 2025] Duet Night Abyss : Le producteur du jeu explique pourquoi il n’y aura pas de gacha dans ce free-to-play → https://actugaming.net/a-758048
+
+» 🇫🇷 [ActuGaming / 6 oct. 2025] 2XKO : Une nouvelle cinématique vient fêter le lancement de l’accès anticipé du jeu, et révèle un nouveau champion → https://actugaming.net/a-758052
+
+» 🇫🇷 [ActuGaming / 6 oct. 2025] Assassin’s Creed Mirage : Ubisoft dévoile le nouveau DLC gratuit, Valley of Memory → https://actugaming.net/a-758057
+
+» 🇫🇷 [ActuGaming / 6 oct. 2025] PlayStation Plus : Présentation des jeux PS Plus Essentials du mois d’Octobre 2025 → https://actugaming.net/a-758063
+
+» 🇺🇸 [Kotaku / 6 oct. 2025] Pokémon and Magic are at risk of losing an entire generation of players. Short-term profits from scalper-driven markets and quick-cash tie-ins do not invest in the future → https://kotaku.com/n-2000632017
+
+» 🇺🇸 [Kotaku / 6 oct. 2025] GameStop’s disastrous Shiny Pokémon giveaway somehow got even worse. The Shiny Miraidon and Koraidon distribution is a victim of artificial scarcity → https://kotaku.com/n-2000632061
+
+» 🇺🇸 [Kotaku / 6 oct. 2025] Black Ops 7’s beta has players complaining about matchmaking and doors. Last weekend’s beta saw players putting the newest Call of Duty to the test → https://kotaku.com/n-2000632082
+
+» 🇬🇧 [VGC / 6 oct. 2025] PlayStation quietly cancels remaining ‘PlayStation: The Concert’ 2025 tour dates in the US. Organisers confirm remaining 2025 North America tour dates for PlayStation: The Concert have been cancelled → https://cutt.ly/sr01au7C
+» 🇺🇸 [Kotaku / 6 oct. 2025] PlayStation cancels most of its concert series without explanation. The live show was set to begin its US tour this week → https://kotaku.com/n-2000632085
+
+» 🇺🇸 [My Nintendo News / 5 oct. 2025] Nintendo is requesting $4,500,000 in damages from a Switch piracy Reddit mod → https://cutt.ly/qr01sdBS
+» 🇺🇸 [Kotaku / 6 oct. 2025] Nintendo demands $4.5 million from Switch piracy Reddit mod. After being ignored by Archbox, Nintendo is pushing for a default ruling → https://kotaku.com/n-2000631966
+
+» 🇺🇸 [Kotaku / 6 oct. 2025] Your ‘WTF happened?’ guide to all of Xbox’s Game Pass changes. One of the best deals in gaming ain’t so hot anymore → https://kotaku.com/n-2000632122
+
+» 🇬🇧 [Eurogamer / 6 oct. 2025] You can't type "Arc Raiders" into Call of Duty: Black Ops 7 beta's in-game chat, but you are allowed to talk about Battlefield 6 → https://cutt.ly/ar01dlW4
+» 🇺🇸 [Kotaku / 6 oct. 2025] Call Of Duty: Black Ops 7 quietly patches out censorship of Arc Raiders’ name. The military shooter’s beta doesn’t want you saying the name of one of its competitors → https://kotaku.com/n-2000632129
+
+» 🇺🇸 [IGN / 6 oct. 2025] Aliens: Fireteam Elite 2 pops up on ESRB website → https://cutt.ly/ur01dZ8Q
+
+» 🇺🇸 [Automaton Media / 6 oct. 2025] 
+
+» ▶️ [YouTube / 宮迫ですッ! / 1er oct. 2025] 『龍が如く』最新作に出演します。 → https://youtu.be/vQn8Te0_N_k (18 min)
+» 🇺🇸 [Automaton Media / 6 oct. 2025] Like a Dragon “goes through 10 to 20 times more legal and ethical checks” than a typical game, RGG Studio chief says. RGG Studio director and Like a Dragon series executive director Masayoshi Yokoyama talks about the strict procedure each Yakuza game faces → https://cutt.ly/5r01gO7B
+
+» 🛍️ [ebten] 『龍が如く８外伝 Pirates in Hawaii』　フィギュア　キャプテン真島（真島吾朗）　 限定特典付き | 22,000円 → https://ebten.jp/p/7015026093901
+» 🇯🇵 [Famitsu / 6 oct. 2025] 『龍が如く8外伝』キャプテン真島が1/7スケールフィギュア化。セガストアオンライン特典はゴロー海賊団のセリフアクスタ＆手配書ポスター → https://famitsu.com/article/202510/54293
 
 
-» 🇫🇷 [ActuGaming / 4 oct. 2025] 
+
+» 🇫🇷 [ActuGaming / 6 oct. 2025] 
 
 » 🇫🇷 [Gamekult / 5 oct. 2025] 
 
 » 🇬🇧 [PC Gamer / 3 oct. 2025] 
 
-» 🇺🇸 [Automaton Media / 3 oct. 2025] 
+» 🇺🇸 [Automaton Media / 6 oct. 2025] 
 
-» 🇺🇸 [IGN / 2 oct. 2025] 
+» 🇺🇸 [IGN / 6 oct. 2025] 
 
-» 🇺🇸 [Kotaku / 4 oct. 2025] 
+» 🇺🇸 [Kotaku / 6 oct. 2025] 
 
 » 🇺🇸 [Time Extension / 29 sept. 2025] 
 
