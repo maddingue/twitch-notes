@@ -6170,6 +6170,8 @@ traduction :
 » 🇺🇸 [Gematsu / 8 oct. 2025] Fallout Day 2025 broadcast set for October 23. Latest news about existing games and more → https://cutt.ly/Qr2TQIez
 » 🇫🇷 [ActuGaming / 8 oct. 2025] Bethesda nous donne rendez-vous pour le Fallout Day, qui aura lieu le 23 octobre → https://actugaming.net/a-759249
 
+» 🇺🇸 [MobileGamer / 8 oct. 2025] Griffin acquires Playdigious from Fragbite for $12.2m → https://cutt.ly/5r9FmhCA
+
 » 🇺🇸 [Gematsu / 8 oct. 2025] Former The Elder Scrolls Online and Project Blackbird developers establish Sackbird Studios. Currently developing original project for consoles and PC → https://cutt.ly/5r2TQ6JS
 » 🇫🇷 [ActuGaming / 9 oct. 2025] Après l’annulation de Project Blackbird chez ZeniMax, des anciens de The Elder Scrolls Online fondent leur propre studio → https://actugaming.net/a-759599
 
@@ -6221,6 +6223,7 @@ traduction :
 » 🇺🇸 [LinkedIn / Greg Street / 9 oct. 2025] I wanted to share the news that Fantastic Pixel Castle’s time as a first party studio within NetEase Games is coming to an end. […] https://cutt.ly/Mr2XddUo
 » 🇺🇸 [Game Developer / 10 oct. 2025] Fantastic Pixel Castle at risk of closure after being ousted by NetEase. The studio was formed by NetEase in 2023 but has been kicked to the curb by its parent company → https://cutt.ly/Or9p7tLF
 » 🇫🇷 [ActuGaming / 10 oct. 2025] NetEase lâche un autre studio, Fantastic Pixel Castle, qui travaillait sur un nouveau MMO → https://actugaming.net/a-760176
+» 🇺🇸 [Games Industry / 13 oct. 2025] NetEase divests Fantastic Pixel Castle as studio hunts for new publisher to avoid closure. "If we're unable to find a publisher soon, the studio would likely close, and the entire team would be affected." → https://cutt.ly/2r9FzuU3
 
 » 🇺🇸 [Kotaku / 9 oct. 2025] Nintendo Switch Online adds Mario game never seen before outside Japan. Alongside Fatal Fury: Special and the first Bubsy, Mario & Wario makes its worldwide debut → https://kotaku.com/n-2000633627
 
@@ -6228,6 +6231,7 @@ traduction :
 
 » 🇺🇸 [Kotaku / 9 oct. 2025] Nintendo’s short films feel like they could be the start of something much bigger. The Switch maker claims its Pikmin baby videos were just for fun → https://kotaku.com/n-2000633651
 
+» 🇺🇸 [MobileGamer / 9 oct. 2025] French hybridcasual studio 8SEC is closing → https://cutt.ly/hr9FmSlP
 
 » 🇺🇸 [Kotaku / 9 oct. 2025] Black Ops 7 finally bails on a contentious multiplayer matchmaking fight. The latest Call of Duty stands to prove whether SBMM is more likely to make a match fun or miserable → https://kotaku.com/n-2000633695
 
@@ -6246,7 +6250,9 @@ traduction :
 » 🇺🇸 [IWGB / 10 oct. 2025] Open letter to the executive leadership at Build A Rocket Boy → https://cutt.ly/2r9pCaN4
 » 🇺🇸 [Kotaku / 10 oct. 2025] MindsEye devs blast former GTA producer and studio leadership over forced crunch and botched layoffs. Nearly 100 current and former staff have signed an open letter calling for change → https://kotaku.com/n-2000633983
 » 🇺🇸 [Game Developer / 10 oct. 2025] 'CEOs need to take a backseat:' MindsEye devs accuse studio execs of fumbling layoffs and mandating crunch. Almost 100 current and former Build A Rocket Boy employees have signed an open letter containing allegations of debilitating mismanagement–and some workers are even filing legal claims → https://cutt.ly/Zr9p4LKn
+» 🇺🇸 [Aftermath / 10 oct. 2025] MindsEye workers condemn leadership’s ‘disrespect and mistreatment’ in open letter. The Independent Workers' Union of Great Britain is also filing legal action → https://cutt.ly/qr9Fc1vk
 » 🇫🇷 [ActuGaming / 10 oct. 2025] MindsEye : Presque une centaine d’employés signent une lettre accusant Leslie Benzies et son entourage d’avoir mal géré le projet → https://actugaming.net/a-760220
+» 🇺🇸 [Games Industry / 13 oct. 2025] Union members announce legal action against Build A Rocket Boy over layoffs. An open letter to the studio's leadership alleges systemic mistreatment, mismanagement, and mishandling of the redundancy process → https://cutt.ly/Jr9FjiuE
 
 » 🇺🇸 [Remedy Games / 10 oct. 2025] Remedy Entertainment Plc: Inside information, profit warning: Remedy Entertainment Plc lowers operating profit (EBIT) outlook for 2025 and publishes preliminary Q3 key financial figures → https://cutt.ly/lr9p5hTu
 » 🇬🇧 [PC Gamer / 10 oct. 2025] Remedy issues 'profit warning' after FBC: Firebreak's big overhaul fails to turn things around: 'Despite improved player and sales metrics after the update, sales have not reached Remedy’s internal targets'. This could be the end. → https://cutt.ly/Jr9pVWF6
@@ -6273,6 +6279,7 @@ traduction :
 » 🇺🇸 [Kotaku / 10 oct. 2025] Borderlands 4 player kills 3,000 bosses to discover disappointingly low legendary drop rate. A Reddit user decided to science the heck out of loot RNG → https://kotaku.com/n-2000634114
 
 » 🇺🇸 [Kotaku / 10 oct. 2025] Assassin’s Creed Shadows for Switch 2 accidently leaks into the wild. It's the second big blockbuster Ubisoft has ported to Nintendo's new console → https://kotaku.com/n-2000634141
+» 🇫🇷 [ActuGaming / 13 oct. 2025] Une version Nintendo Switch 2 d’Assassin’s Creed Shadows apparait chez Auchan → https://actugaming.net/a-761390
 
 » 🇫🇷 [ActuGaming / 10 oct. 2025] Invincible VS ajoute Cecil à son casting, et organisera une alpha fermée d’ici la fin de l’année → https://actugaming.net/a-760057
 
@@ -6326,18 +6333,81 @@ traduction :
 » 🇫🇷 [Gamekult / 12 oct. 2025] PlayStation : Sony a failli racheter Bullfrog, le studio de Peter Molyneux (Populous, Syndicate) → https://cutt.ly/sr9bAQfD
 
 
-» 🇫🇷 [ActuGaming / 10 oct. 2025] 
 
-» 🇫🇷 [Gamekult / 9 oct. 2025] 
+» 🇫🇷 [ActuGaming / 13 oct. 2025] Dragon Ball FighterZ revient d’entre les morts avec un nouveau DLC, Goku Super Saiyan 4 version Dragon Ball Daima → https://actugaming.net/a-761370
+
+» 🇫🇷 [ActuGaming / 13 oct. 2025] Un jeu de combat Avatar: Le Dernier Maître de l’Air va voir le jour en 2026 sur consoles et PC → https://actugaming.net/a-761375
+
+» 🇫🇷 [ActuGaming / 13 oct. 2025] Tekken 8 : Le personnage de Miary Zo viendra conclure le deuxième Season Pass en décembre → https://actugaming.net/a-761393
+
+» 🇺🇸 [Deadline / 11 oct. 2025] New Line eyeing ‘Mortal Kombat III’ with Jeremy Slater returning as screenwriter → https://cutt.ly/0r9Fpi1M
+» 🇫🇷 [ActuGaming / 13 oct. 2025] Un troisième film Mortal Kombat est d’ores et déjà annoncé, avant même la sortie du deuxième → https://actugaming.net/a-761398
+
+» 🇺🇸 [Insider Gaming / 11 oct. 2025] FBC: Firebreak still underperforming despite overhaul, confirms Remedy → https://cutt.ly/or9FpCQh
+» 🇺🇸 [Games Industry / 13 oct. 2025] Remedy adjusts FY25 outlook following "weak sales" of FBC: Firebreak. Developer recognises non-cash impairment of €14.9 million, representing the game's development costs alongside publishing and distribution rights → https://cutt.ly/Tr9FlBvB
+» 🇫🇷 [ActuGaming / 13 oct. 2025] Malgré sa mise à jour majeure, FBC: Firebreak est toujours à la peine et même Remedy l’admet → https://actugaming.net/a-761403
+
+» 🇫🇷 [ActuGaming / 13 oct. 2025] Meg sortira les crocs dans Granblue Fantasy Versus: Rising dès le 15 octobre → https://actugaming.net/a-761411
+
+» 🇫🇷 [ActuGaming / 13 oct. 2025] Just Dance 2026 : Voici la liste complète des 40 musiques → https://actugaming.net/a-761452
+
+» 🇫🇷 [ActuGaming / 13 oct. 2025] Black Myth Wukong refait parler de lui avec une énorme mise à jour de plus de 90 Go sur PS5 → https://actugaming.net/a-761544
+
+» 🇺🇸 [Windows Central / 12 oct. 2025] No, Target and Walmart are not removing Xbox products from their stores — as Xbox misinformation reaches new levels. One thing after another, Microsoft is forced to respond time and time again to ongoing rumors that it's leaving the hardware space → https://cutt.ly/ir9Fa9Za
+» 🇺🇸 [Games Industry / 13 oct. 2025] Microsoft denies U.S. retailers like Target and Walmart have removed Xbox products from stores. The megacorp said the retailers "remain committed partners for Xbox consoles, accessories, and games" → https://cutt.ly/Wr9FzJgV
+» 🇺🇸 [ResetEra / 12 oct. 2025] Xbox situation at MediaMarkt → https://cutt.ly/mr9FsZBq
+» 🇫🇷 [Gamekult / 13 oct. 2025] Xbox Series X/S : les rumeurs sur la fin de commercialisation des consoles vont bon train en Europe et aux USA → https://cutt.ly/0r9FRODV
+» 🇬🇧 [PC Gamer / 13 oct. 2025] Despite declining sales and the latest 'Xbox' being a handheld PC, Microsoft says it's still making a next-gen console: 'We are actively investing in our future first-party consoles and devices'. Everything is an Xbox, but some devices will still be even more Xbox → https://cutt.ly/Cr9FIyRR
+
+» 🇺🇸 [Bloomberg / 12 oct. 2025] Warner Bros. is said to rebuff Paramount takeover approach → https://cutt.ly/Gr9FfdsW
+» 🇺🇸 [Kotaku / 13 oct. 2025] Holy monopoly, Batman: Warner Bros. reportedly reject a buyout bid from Paramount. The Arkham and Hogwarts' Legacy company is still looking to sell → https://kotaku.com/n-2000634581
+
+» 🇺🇸 [Games Industry / 13 oct. 2025] "Usually, we're not on the map." How a new initiative is platforming Palestinian developers. The creators of Dreams on a Pillow and Pomegranates reflect on the help they've received from the newly formed industry initiative Palestinian Voices in Games → https://cutt.ly/hr9FgliN
+
+» 🇺🇸 [Games Industry / 13 oct. 2025] Handhelds are in vogue – but they’re still a commercial minefield. Once thought destroyed by smartphones, handheld gaming devices are now a hot sector; but nobody whose name isn’t Nintendo is actually selling many → https://cutt.ly/Sr9FjBTv
+
+» 🇺🇸 [Games Industry / 13 oct. 2025] Battlefield 6 is already the biggest game of the franchise by Steam concurrent user count. EA's shooter is now the fourteenth biggest Steam game ever according to SteamDB's Most Played chart → https://cutt.ly/Kr9FzTRC
+» 🇫🇷 [Gamekult / 13 oct. 2025] Battlefield 6 signe un démarrage colossal sur Steam, un record pour Electronic Arts → https://cutt.ly/ir9FRdiJ
+
+» 🇯🇵 [Famitsu / 12 oct. 2025] 『サイレントヒルf』主人公・深水雛子役 加藤小夏さんインタビュー「あんな世界に入ってしまったら、 私は1秒で消えてなくなりたいです」 (Interview with Konatsu Kato, who plays the protagonist Hinako Fukami in "Silent Hill F": "If I were to enter that world, I would want to disappear in a second.") → https://famitsu.com/article/202510/54714
+
+» 🇺🇸 [IGN / 13 oct. 2025] A year on from the Teraleak, hackers release Pokémon Legends: Z-A files, including gameplay videos showing cut content and early builds, and claims surrounding Gen 10 → https://cutt.ly/Or9Fca11
+» 🇬🇧 [Eurogamer / 13 oct. 2025] Pokémon Legends: Z-A spoilers are out in the wild ahead of its release this week → https://cutt.ly/or9FIYwj
+
+» 🇺🇸 [Aftermath / 9 oct. 2025] GameZone, a website dating back to 1994, has had its archives wiped. 31 years of games writing, up in smoke → https://cutt.ly/wr9FvaMP
+
+» Sustainable Games Standard → https://sustainablegamesalliance.org/standard/
+» 🇺🇸 [Aftermath / 9 oct. 2025] Eco-focused nonprofit releases standard to make games ‘the most sustainable form of entertainment’. It's publicly available and for use by the entire games industry → https://cutt.ly/ar9Fbqf8
+
+» 🇺🇸 [PocketGamer / 13 oct. 2025] Netflix allows subscribers to play games directly on smart TVs. The feature has been in development since early 2023 → https://cutt.ly/Wr9FQ9Qw
+
+» 🇫🇷 [Gamekult / 13 oct. 2025] Xbox cherche des cerveaux de la finance pour remettre de l’ordre dans sa tirelire → https://www.gamekult.com/actualite/xbox-cherche-des-cerveaux-de-la-finance-pour-remettre-de-l-ordre-dans-sa-tirelire-3050866224.html
+
+» 🇫🇷 [Gamekult / 13 oct. 2025] Borderlands 4 : déjà 90 euros de DLC narratifs sur la feuille de route. Un programme chargé jusqu'en septembre 2026 → https://cutt.ly/br9FE6nZ
+
+» 🇺🇸 [IGN / 10 oct. 2025] 'We wanted it To feel like A playable episode' — Robert Kirman and the developers of Invincible VS talk about its mysterious story mode and making Cecil work in a fighting game → https://cutt.ly/br9FECfF
+» 🇫🇷 [Gamekult / 13 oct. 2025] Invincible VS sera comme un « épisode spécial » de la série animée, selon Robert Kirkman → https://cutt.ly/Sr9FEiqe
+
+» 🇬🇧 [Eurogamer / 13 oct. 2025] 
+
+» 🇬🇧 [Eurogamer / 13 oct. 2025] First screenshots of Rare's ill-fated Everwild emerge thanks to artist's portfolio website → https://cutt.ly/sr9FI0CK
+
+» 🇬🇧 [PC Gamer / 13 oct. 2025] RPG vet Josh Sawyer keeps things like Fallout and D&D grounded in history because 'Once things get too magical… it's impossible to bring it back down to Earth'. Which is also why Deadfire is the best CRPG of at least the last decade, just saying → https://cutt.ly/7r9FYDwo
+
+
+
+» 🇫🇷 [ActuGaming / 13 oct. 2025] 
+
+» 🇫🇷 [Gamekult / 13 oct. 2025] 
 
 » 🇬🇧 [PC Gamer / 11 oct. 2025] 
 
 » 🇺🇸 [Automaton Media / 10 oct. 2025] 
 
-» 🇺🇸 [IGN / 10 oct. 2025] 
-» 🇫🇷 [IGN France / 10 oct. 2025] 
+» 🇺🇸 [IGN / 13 oct. 2025] 
+» 🇫🇷 [IGN France / 13 oct. 2025] 
 
-» 🇺🇸 [Kotaku / 10 oct. 2025] 
+» 🇺🇸 [Kotaku / 13 oct. 2025] 
 
 » 🇺🇸 [Time Extension / 7 oct. 2025] 
 
