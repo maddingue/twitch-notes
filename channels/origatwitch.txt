@@ -14874,7 +14874,7 @@ raids : OrigaTwitch => (17:13)[+81] JVleMag => (17:35)[+51] DollyWood_ => (19:06
 **Les sorties**
 » **Donkey Kong Bananza**, sorti le 17 juillet 2025 à 70 € sur eShop, 60 € en grande distribution sur Switch 2
 
-» **Shinobi: Art of Vengeance**, sorti le 29 août 2025 à 30 € sur Switch, PlayStation, Xbox et PC / Steam Steam ; édité par Sega, développé par Lizardcube, studio français derrière _Wonder Boy: The Dragon's Trap_ (2017), _Streets of Rage 4_ (2020) → https://shinobi.sega.com | https://s.team/a/2361770
+» **Shinobi: Art of Vengeance**, sorti le 29 août 2025 à 30 € sur Switch, PlayStation, Xbox et PC / Steam Deck ; édité par Sega, développé par Lizardcube, studio français derrière _Wonder Boy: The Dragon's Trap_ (2017), _Streets of Rage 4_ (2020) → https://shinobi.sega.com | https://s.team/a/2361770
 
 » **Hollow Knight: Silksong**, sorti le 4 sept. 2025 à 20 € sur Switch, PlayStation, Xbox, Windows, Mac, Linux et Steam Deck ; développé par Team Cherry, studio australien derrière _Hollow Knight_ (2017) → http://hollowknightsilksong.com | https://s.team/a/1030300
 
@@ -15699,6 +15699,50 @@ raids : OrigaTwitch => (15:10)[+321] Modiiie (>17:00) => (<18:25) DamDamLive (>1
 - ▶️ [YouTube / Le Cargo / 23 nov. 2010] #225 Bertrand Belin - La Chaleur → https://youtu.be/zcH38AwgWqY (4 min)
 
 OrigaTwitch => (15:24)[+500] DollyWood_ [mamapaprika => (15:51)+87] (terminé à 19:05)
+
+
+--------------------------------------
+2025-10-14
+
+# Mardinale #60
+## Actus
+### Battlefield 6 pète tous les records
+» 🇺🇸 [Games Industry / 13 oct. 2025] Battlefield 6 is already the biggest game of the franchise by Steam concurrent user count. EA's shooter is now the fourteenth biggest Steam game ever according to SteamDB's Most Played chart → https://cutt.ly/Kr9FzTRC
+» 🇫🇷 [Gamekult / 13 oct. 2025] Battlefield 6 signe un démarrage colossal sur Steam, un record pour Electronic Arts → https://cutt.ly/ir9FRdiJ
+
+### Ubisoft a annulé un Assassin's Creed, jugé trop politique
+» 🇺🇸 [GameFile / 8 oct. 2025] Ubisoft cancelled a post-Civil War Assassin’s Creed last year. Company leadership deemed the project too controversial for the moment, sources tell Game File → https://cutt.ly/5r2TR1FI
+» 🇺🇸 [Kotaku / 8 oct. 2025] Ubisoft canceled an Assassin’s Creed where you played a former slave after the Civil War. The project was reportedly deemed ‘too political in a country too unstable’ → https://kotaku.com/n-2000633318
+» 🇺🇸 [Aftermath / 8 oct. 2025] Ubisoft could not have handled a reconstruction era Assassin’s Creed. The developers? Sure! Management? No. → https://cutt.ly/Kr2T4wj9
+» 🇫🇷 [Gamekult / 9 oct. 2025] Assassin's Creed : Jugé trop risqué politiquement, Ubisoft aurait annulé un jeu sur la guerre de Sécession. Yasuke laisse des traces → https://cutt.ly/1r2YnoBG
+» 🇫🇷 [ActuGaming / 9 oct. 2025] Ubisoft aurait annulé un jeu Assassin’s Creed se déroulant après Guerre de Sécession aux États-Unis, jugé trop « politique » → https://actugaming.net/a-759591
+
+» **dossier Electronics Arts**, _cf._ la Mardinale 💬 https://discord.com/channels/962415700197142648/1422544869108482121
+
+### Dans les coulisses d'AC Scarlett
+» 🇺🇸 [Insider Gaming / 8 oct. 2025] Canceled Assassin’s Creed game was set after the Civil War → https://cutt.ly/Pr92r3De
+» 🇫🇷 [Écran Large / 9 oct. 2025] Assassin’s Creed : Ubisoft a annulé un jeu trop « dangereux », apparemment → https://cutt.ly/Hr92tHGG
+» 🇫🇷 [Courrier international / 10 oct. 2025] Ubisoft aurait annulé un jeu “Assassin’s Creed” se déroulant aux débuts du Ku Klux Klan. L’éditeur français aurait planché sur un volet de sa populaire franchise “Assassin’s Creed” qui se serait déroulé aux États-Unis à l’époque de la Reconstruction, juste après la guerre de Sécession. Compte tenu du climat politique américain tendu, le jeu aurait été annulé à l’été 2024. La presse spécialisée vidéoludique a vivement réagi à ce scoop récent. → https://cutt.ly/Pr92tx9s
+» 🇫🇷 [GamerGen / 14 oct. 2025] Rumeur sur Assassin's Creed Scarlet : un jeu qui aurait pu faire sécession annulé par Ubisoft, Yasuke et la politique en cause → https://cutt.ly/3r92ySg3
+
+### Assassin's Creed : le point sur les jeux en dev
+» ▶️ [YouTube / Origami / 1er avr. 2025] La Mardinale #47 — Comprendre l'alliance Ubisoft x Tencent - Ouvrez Les Guillemots → https://youtu.be/vzYOjuiWwxE | 💬 https://discord.com/channels/962415700197142648/1356577953961480212
+
+### Mindseye : le studio BARB aurait licencié illégalement
+» 🇺🇸 [IWGB / 10 oct. 2025] Open letter to the executive leadership at Build A Rocket Boy → https://cutt.ly/2r9pCaN4
+» 🇺🇸 [Kotaku / 10 oct. 2025] MindsEye devs blast former GTA producer and studio leadership over forced crunch and botched layoffs. Nearly 100 current and former staff have signed an open letter calling for change → https://kotaku.com/n-2000633983
+» 🇺🇸 [Game Developer / 10 oct. 2025] 'CEOs need to take a backseat:' MindsEye devs accuse studio execs of fumbling layoffs and mandating crunch. Almost 100 current and former Build A Rocket Boy employees have signed an open letter containing allegations of debilitating mismanagement–and some workers are even filing legal claims → https://cutt.ly/Zr9p4LKn
+» 🇺🇸 [Aftermath / 10 oct. 2025] MindsEye workers condemn leadership’s ‘disrespect and mistreatment’ in open letter. The Independent Workers' Union of Great Britain is also filing legal action → https://cutt.ly/qr9Fc1vk
+» 🇫🇷 [ActuGaming / 10 oct. 2025] MindsEye : Presque une centaine d’employés signent une lettre accusant Leslie Benzies et son entourage d’avoir mal géré le projet → https://actugaming.net/a-760220
+» 🇺🇸 [Games Industry / 13 oct. 2025] Union members announce legal action against Build A Rocket Boy over layoffs. An open letter to the studio's leadership alleges systemic mistreatment, mismanagement, and mishandling of the redundancy process → https://cutt.ly/Jr9FjiuE
+
+### GameOne cherche un sauveur
+» 🇫🇷 [BFM TV / 8 oct. 2025] La chaîne Game One va fermer ses portes fin novembre, plus de 25 ans après sa création → https://cutt.ly/cr2TQt5X
+» 🇫🇷 [ActuGaming / 8 oct. 2025] La chaîne Game One devrait fermer ses portes dès la fin du mois de novembre → https://actugaming.net/a-759268
+» 🇫🇷 [Gamekult / 8 oct. 2025] Après 27 ans d'activité, la chaîne Game One va rendre l'antenne. Victime ordinaire d'un capitalisme devenu fou → https://cutt.ly/yr2YQpnM
+
+» ▶️ [YouTube / MarcusZeBoulet / 11 oct. 2025] Les explications de Marcus sur la fermeture potentielle de Game One → https://youtu.be/7Iujv8-Qm6U (32 min)
+» 💰 [HelloAsso] Numériser les 350 bandes pro pour les partager sur le site web → https://cutt.ly/Ur907jOa
 
 
 
