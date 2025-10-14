@@ -6175,12 +6175,6 @@ traduction :
 » 🇺🇸 [Gematsu / 8 oct. 2025] Former The Elder Scrolls Online and Project Blackbird developers establish Sackbird Studios. Currently developing original project for consoles and PC → https://cutt.ly/5r2TQ6JS
 » 🇫🇷 [ActuGaming / 9 oct. 2025] Après l’annulation de Project Blackbird chez ZeniMax, des anciens de The Elder Scrolls Online fondent leur propre studio → https://actugaming.net/a-759599
 
-» 🇺🇸 [GameFile / 8 oct. 2025] Ubisoft cancelled a post-Civil War Assassin’s Creed last year. Company leadership deemed the project too controversial for the moment, sources tell Game File → https://cutt.ly/5r2TR1FI
-» 🇺🇸 [Kotaku / 8 oct. 2025] Ubisoft canceled an Assassin’s Creed where you played a former slave after the Civil War. The project was reportedly deemed ‘too political in a country too unstable’ → https://kotaku.com/n-2000633318
-» 🇺🇸 [Aftermath / 8 oct. 2025] Ubisoft could not have handled a reconstruction era Assassin’s Creed. The developers? Sure! Management? No. → https://cutt.ly/Kr2T4wj9
-» 🇫🇷 [Gamekult / 9 oct. 2025] Assassin's Creed : Jugé trop risqué politiquement, Ubisoft aurait annulé un jeu sur la guerre de Sécession. Yasuke laisse des traces → https://cutt.ly/1r2YnoBG
-» 🇫🇷 [ActuGaming / 9 oct. 2025] Ubisoft aurait annulé un jeu Assassin’s Creed se déroulant après Guerre de Sécession aux États-Unis, jugé trop « politique » → https://actugaming.net/a-759591
-
 » 🇺🇸 [Owen Mahoney / 7 oct. 2025] Derek Zoolander, Videogame Exec. A unified theory of moronic hype cycles → https://cutt.ly/3r2YNTdW
 » 🇺🇸 [Game Developer / 9 oct. 2025] Former Nexon CEO criticizes fad-obsessed industry executives. Owen Mahoney, former CEO of South Korean publisher Nexon, says the game industry suffers from 'mass delusions' that drive empty hype cycles → https://cutt.ly/tr2YBDTj
 
@@ -6246,13 +6240,6 @@ traduction :
 
 » 🇯🇵 [GameBiz / 9 oct. 2025] ゲオHD、ゲームソフト9月月間売上ランキングを発表…『SILENT HILL f』が新品1位、中古は『ポケットモンスター スカーレット』が1位に → https://gamebiz.jp/news/413936
 » 🇺🇸 [Automaton Media / 9 oct. 2025] Silent Hill f tops Japanese retailer’s best-seller ranking for September, based on data from 1,000 physical stores. According to data from 1,000 GEO video game stores across Japan, Silent Hill f was the top selling title in September → https://cutt.ly/br9hkjRF
-
-» 🇺🇸 [IWGB / 10 oct. 2025] Open letter to the executive leadership at Build A Rocket Boy → https://cutt.ly/2r9pCaN4
-» 🇺🇸 [Kotaku / 10 oct. 2025] MindsEye devs blast former GTA producer and studio leadership over forced crunch and botched layoffs. Nearly 100 current and former staff have signed an open letter calling for change → https://kotaku.com/n-2000633983
-» 🇺🇸 [Game Developer / 10 oct. 2025] 'CEOs need to take a backseat:' MindsEye devs accuse studio execs of fumbling layoffs and mandating crunch. Almost 100 current and former Build A Rocket Boy employees have signed an open letter containing allegations of debilitating mismanagement–and some workers are even filing legal claims → https://cutt.ly/Zr9p4LKn
-» 🇺🇸 [Aftermath / 10 oct. 2025] MindsEye workers condemn leadership’s ‘disrespect and mistreatment’ in open letter. The Independent Workers' Union of Great Britain is also filing legal action → https://cutt.ly/qr9Fc1vk
-» 🇫🇷 [ActuGaming / 10 oct. 2025] MindsEye : Presque une centaine d’employés signent une lettre accusant Leslie Benzies et son entourage d’avoir mal géré le projet → https://actugaming.net/a-760220
-» 🇺🇸 [Games Industry / 13 oct. 2025] Union members announce legal action against Build A Rocket Boy over layoffs. An open letter to the studio's leadership alleges systemic mistreatment, mismanagement, and mishandling of the redundancy process → https://cutt.ly/Jr9FjiuE
 
 » 🇺🇸 [Remedy Games / 10 oct. 2025] Remedy Entertainment Plc: Inside information, profit warning: Remedy Entertainment Plc lowers operating profit (EBIT) outlook for 2025 and publishes preliminary Q3 key financial figures → https://cutt.ly/lr9p5hTu
 » 🇬🇧 [PC Gamer / 10 oct. 2025] Remedy issues 'profit warning' after FBC: Firebreak's big overhaul fails to turn things around: 'Despite improved player and sales metrics after the update, sales have not reached Remedy’s internal targets'. This could be the end. → https://cutt.ly/Jr9pVWF6
@@ -6366,13 +6353,15 @@ traduction :
 
 » 🇺🇸 [Games Industry / 13 oct. 2025] Handhelds are in vogue – but they’re still a commercial minefield. Once thought destroyed by smartphones, handheld gaming devices are now a hot sector; but nobody whose name isn’t Nintendo is actually selling many → https://cutt.ly/Sr9FjBTv
 
-» 🇺🇸 [Games Industry / 13 oct. 2025] Battlefield 6 is already the biggest game of the franchise by Steam concurrent user count. EA's shooter is now the fourteenth biggest Steam game ever according to SteamDB's Most Played chart → https://cutt.ly/Kr9FzTRC
-» 🇫🇷 [Gamekult / 13 oct. 2025] Battlefield 6 signe un démarrage colossal sur Steam, un record pour Electronic Arts → https://cutt.ly/ir9FRdiJ
-
 » 🇯🇵 [Famitsu / 12 oct. 2025] 『サイレントヒルf』主人公・深水雛子役 加藤小夏さんインタビュー「あんな世界に入ってしまったら、 私は1秒で消えてなくなりたいです」 (Interview with Konatsu Kato, who plays the protagonist Hinako Fukami in "Silent Hill F": "If I were to enter that world, I would want to disappear in a second.") → https://famitsu.com/article/202510/54714
 
 » 🇺🇸 [IGN / 13 oct. 2025] A year on from the Teraleak, hackers release Pokémon Legends: Z-A files, including gameplay videos showing cut content and early builds, and claims surrounding Gen 10 → https://cutt.ly/Or9Fca11
 » 🇬🇧 [Eurogamer / 13 oct. 2025] Pokémon Legends: Z-A spoilers are out in the wild ahead of its release this week → https://cutt.ly/or9FIYwj
+» 🇺🇸 [Kotaku / 14 oct. 2025] Another massive Pokémon leak has revealed the next five years of games. Pokémon Legends: Z-A is a few days away, but now fans have an idea of what to expect in the coming years → https://kotaku.com/n-2000635337
+» 🇫🇷 [ActuGaming / 14 oct. 2025] Pokémon : Une gigantesque fuite dévoile tous les plans des futurs jeux jusqu’en 2030 → https://actugaming.net/a-761892
+» 🇫🇷 [Gamekult / 14 oct. 2025] Pokémon : une fuite massive annonce une nouvelle ère pour la série. Les budgets de développement des jeux dévoilés → https://cutt.ly/4r90Vv5y
+» 🇺🇸 [Kotaku / 14 oct. 2025] Scrapped Pokémon projects and Game Freak drama: 8 things we learned from the colossal Teraleak. Yeah, we got a glimpse into Pokémon’s future, but there were a few other interesting nuggets to be found → https://kotaku.com/n-2000635371
+» 🇺🇸 [Polygon / 14 oct. 2025] Massive Pokémon leak purportedly covers next-gen games, scrapped ideas, and more. Leakers claim Pokémon Wind and Waves will be procedurally generated, expand endlessly, and focus on survival elements → https://cutt.ly/Tr92UzNG
 
 » 🇺🇸 [Aftermath / 9 oct. 2025] GameZone, a website dating back to 1994, has had its archives wiped. 31 years of games writing, up in smoke → https://cutt.ly/wr9FvaMP
 
@@ -6388,26 +6377,90 @@ traduction :
 » 🇺🇸 [IGN / 10 oct. 2025] 'We wanted it To feel like A playable episode' — Robert Kirman and the developers of Invincible VS talk about its mysterious story mode and making Cecil work in a fighting game → https://cutt.ly/br9FECfF
 » 🇫🇷 [Gamekult / 13 oct. 2025] Invincible VS sera comme un « épisode spécial » de la série animée, selon Robert Kirkman → https://cutt.ly/Sr9FEiqe
 
-» 🇬🇧 [Eurogamer / 13 oct. 2025] 
-
 » 🇬🇧 [Eurogamer / 13 oct. 2025] First screenshots of Rare's ill-fated Everwild emerge thanks to artist's portfolio website → https://cutt.ly/sr9FI0CK
 
 » 🇬🇧 [PC Gamer / 13 oct. 2025] RPG vet Josh Sawyer keeps things like Fallout and D&D grounded in history because 'Once things get too magical… it's impossible to bring it back down to Earth'. Which is also why Deadfire is the best CRPG of at least the last decade, just saying → https://cutt.ly/7r9FYDwo
 
 
+» 🇫🇷 [ActuGaming / 14 oct. 2025] Bluepoint Studio recrute pour un jeu d’action à la troisième personne, après son jeu service God of War annulé → https://actugaming.net/a-761896
+» 🇫🇷 [Gamekult / 14 oct. 2025] Après l’annulation du jeu service God of War, Bluepoint développe un jeu d’action à la troisième personne. Et tout le monde espère Bloodborne → https://cutt.ly/fr90XDdW
 
-» 🇫🇷 [ActuGaming / 13 oct. 2025] 
+» 🇫🇷 [ActuGaming / 14 oct. 2025] Crimson Desert se dévoile un peu plus avec un combat contre un impressionant dragon mécanique → https://actugaming.net/a-761902
 
-» 🇫🇷 [Gamekult / 13 oct. 2025] 
+» 🇫🇷 [ActuGaming / 14 oct. 2025] Splinter Cell Deathwatch : La série est maintenant disponible sur Netflix → https://actugaming.net/a-761931
+
+» 🇫🇷 [ActuGaming / 14 oct. 2025] Dissidia Duellum Final Fantasy, un nouveau spin-off dans un Tokyo moderne, arrive sur mobiles → https://actugaming.net/a-761955
+
+» 🇬🇧 [VGC / 14 oct. 2025] Sucker Punch will remain a single-project studio after Ghost of Yotei, boss suggests. “If we were good at juggling four projects, yeah, we’d have a remaster… But we only get to do one thing” → https://cutt.ly/9r90huRq
+» 🇫🇷 [ActuGaming / 14 oct. 2025] Sucker Punch évoque la possibilité de continuer la saga Ghost, de revenir à Sly, ou de partir sur autre chose → https://actugaming.net/a-762014
+
+» 🇫🇷 [ActuGaming / 14 oct. 2025] Assassin’s Creed Shadows pourrait être disponible sur Nintendo Switch 2 dès le mois de décembre → https://actugaming.net/a-762052
+
+» 🇬🇧 [GamesRadar+ / 12 oct. 2025] 007 First Light might have its own James Bond, but the Hitman studio is borrowing from "the Daniel Craig era" in one major way: his physicality. But it isn't a "one-to-one" comparison for IOI, either → https://cutt.ly/Mr90kwKL
+» 🇫🇷 [ActuGaming / 14 oct. 2025] 007 First Light : IO Interactive explique comment les films de Daniel Craig ont influencé le jeu → https://actugaming.net/a-762061
+
+» 🦋 [BlueSky / Gautoz / 14 oct. 2025] 🧵 https://bsky.app/profile/gautoz.cool/post/3m35ywbut5c26
+> INFO : Marc-Alexis Côté, producteur exécutif et VP de la licence Assassin’s Creed, quittera bientôt Ubisoft après 20 ans de maison.
+> Son poste semble parti pour déménager de Québec à Paris, au plus près du corps décisionnaire d'Ubi Vantage et son co-dirigeant Charlie Guillemot.
+» 🇺🇸 [IGN / 14 oct. 2025] Assassin's Creed franchise boss departs Ubisoft, as brand becomes operated by Tencent-funded subsidiary → https://cutt.ly/6r90zNAc
+» 🇫🇷 [IGN France / 14 oct. 2025] Le boss de la franchise Assassin's Creed quitte Ubisoft ! Quelques jours seulement après que l'entreprise passe sous la houlette d'une filiale financée par Tencent → https://cutt.ly/Cr90xZM1
+» 🇫🇷 [ActuGaming / 14 oct. 2025] Marc-Alexis Côté, qui gérait la licence Assassin’s Creed, quitte Ubisoft suite à la formation de Vantage Studios → https://actugaming.net/a-762064
+» 🇫🇷 [Gamekult / 14 oct. 2025] Après 20 ans chez Ubisoft, le capitaine de la licence Assassin’s Creed quitte le navire → https://cutt.ly/Br90PeNR
+
+» 🇺🇸 [Games Industry / 14 oct. 2025] "AI was an expensive mistake": Charles Cecil on innovation, insolvency, and Broken Sword. Plus, why Broken Sword 6 might be a long way off → https://cutt.ly/Or90cTL6
+
+» 🇺🇸 [TMZ / 14 oct. 2025] Grammy-winning icon D'Angelo dead at 51, following pancreatic cancer battle → https://cutt.ly/Hr90EDZL
+
+» ▶️ [YouTube / Moore's Law is Dead] AMD Magnus APU full leak: RDNA 5, Zen 6, 110 TOPS NPU = XBOX next-gen console → https://youtu.be/X_pjrZQDerw
+» 🇺🇸 [Kotaku / 14 oct. 2025] More power, higher prices: the next-gen rumor mill for PS6 and Xbox hardware is in full swing. Both new consoles are expected as early as 2027 → https://kotaku.com/n-2000635303
+
+» 🇺🇸 [GQ / 13 oct. 2025] Battlefield 6 might just save the military shooter. Amid an explosion of noughties nostalgia, Battlefield 6 shows the cinematic first-person shooter still has life in the Fortnite era → https://cutt.ly/Tr90UURe
+» 🇺🇸 [IGN / 13 oct. 2025] 'The only reason Call of Duty exists is because EA were dicks,' Battlefield Boss Vince Zampella says → https://cutt.ly/Yr90OPTI
+» 🇫🇷 [IGN France / 13 oct. 2025] "Call of Duty existe uniquement parce que EA ont été des salauds" déclare Vince Zampella, patron de Battlefield → https://cutt.ly/Kr90IUYp
+» 🇺🇸 [Kotaku / 14 oct. 2025] ‘EA were dicks’: Battlefield boss explains the origins of Call Of Duty. EA didn’t know how good it had it with Medal of Honor, it seems → https://kotaku.com/n-2000635321
+
+» 🇺🇸 [Kotaku / 14 oct. 2025] The most outstanding cosplay from Dragon Con 2025. From Silent Hill to Expedition 33 and Elden Ring to Spy Kids, check out the best fits from this year's event → https://kotaku.com/n-2000635305
+
+» 🇺🇸 [Kotaku / 14 oct. 2025] It only took Pokémon TCG Pocket a whole year to let players give each other cards. And even then, it's happening in the worst, most frustrating way possible → https://kotaku.com/n-2000635338
+
+» 🇫🇷 [Gamekult / 14 oct. 2025] Netflix récupère Tetris Time Warp, LEGO Party! et d'autres party games → https://cutt.ly/lr90VeXZ
+
+» 🇫🇷 [Gamekult / 14 oct. 2025] Crusader Kings 3 : All Under Heaven veut conquérir l'Asie à coups de tableaux Excel → https://cutt.ly/1r90C2nv
+
+» 🇫🇷 [Gamekult / 14 oct. 2025] Surprise : Splinter Cell Pandora Tomorrow de retour sur Steam après des mois d'absence → https://cutt.ly/kr90CoyS
+
+» 🇺🇸 [Game Developer / 14 oct. 2025] Majority of mobile devs believe industry won't survive without alternative app stores. New study also finds almost half of developers are "struggling with discoverability and saturation on major platforms" → https://cutt.ly/or90BJz2
+
+» 🇺🇸 [Bloomberg / 12 oct. 2025] Tencent’s ‘Delta Force’ success shifts focus to shooting games → https://cutt.ly/Br900ysi
+» 🇺🇸 [PocketGamer / 14 oct. 2025] Tencent eyes global shooter dominance after Delta Force success. The shooter genre represents around 9% of the $189bn games industry → https://cutt.ly/er901WSr
+
+» 🇬🇧 [ukie / 10 oct. 2025] Press start on growth – open letter to the Secretary of State for DCMS → https://cutt.ly/9r903vwn
+» 🇺🇸 [Game Developer / 14 oct. 2025] UK trade bodies call for new "growth" tax relief to scale-up studios "that will drive our industry for years to come". Modelling by Ukie and TIGA suggests the relief would deliver a return of up to £482m to the UK economy → https://cutt.ly/vr909X3R
+
+» 🇯🇵 [Famitsu / 12 oct. 2025] 『サイレントヒルf』主人公・深水雛子役 加藤小夏さんインタビュー「あんな世界に入ってしまったら、 私は1秒で消えてなくなりたいです」 → https://famitsu.com/article/202510/54714
+» 🇺🇸 [Automaton Media / 15 oct. 2025] Silent Hill f actress opens up about losing her grip on reality in Hinako’s role. “I only remember fragments”. Japanese actress Konatsu Kato talks about the struggles she experienced in the role of Silent Hill f protagonist Hinako Shimizu → https://cutt.ly/Xr92qOiE
+
+» 🇯🇵 [ITMedia / 10 oct. 2025] 日本政府、OpenAIに「著作権侵害行為」を行わないよう要請　Sora 2での“アニメ風動画”問題を受け → https://cutt.ly/1r92W9Y7
+» 🇺🇸 [IGN / 14 oct. 2025] Japanese government calls on Sora 2 maker OpenAI to refrain from copyright infringement, says characters from manga and anime are 'irreplaceable treasures' that Japan boasts to the world. "We are a country that has captivated the world with the creative power of anime, games, and music." → https://cutt.ly/7r92Eugt
+
+» 🇬🇧 [Eurogamer / 14 oct. 2025] Skyrim's lead designer "eternally shocked" at game's popularity, but its open world is like nothing else → https://cutt.ly/or92Sbaj
+
+» 🇺🇸 [80level / 14 oct. 2025] Playdead co-founder Dino Patti on Playdead's lawsuit against him → https://cutt.ly/Ar92FpJ1
+
+
+
+» 🇫🇷 [ActuGaming / 14 oct. 2025] 
+
+» 🇫🇷 [Gamekult / 14 oct. 2025] 
 
 » 🇬🇧 [PC Gamer / 11 oct. 2025] 
 
-» 🇺🇸 [Automaton Media / 10 oct. 2025] 
+» 🇺🇸 [Automaton Media / 15 oct. 2025] 
 
 » 🇺🇸 [IGN / 13 oct. 2025] 
 » 🇫🇷 [IGN France / 13 oct. 2025] 
 
-» 🇺🇸 [Kotaku / 13 oct. 2025] 
+» 🇺🇸 [Kotaku / 14 oct. 2025] 
 
 » 🇺🇸 [Time Extension / 7 oct. 2025] 
 
