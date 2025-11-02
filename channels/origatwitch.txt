@@ -15987,6 +15987,7 @@ raids : OrigaTwitch => (00:06)[+95] RufusxShinra => (01:15)[+31] MrRaashi => (01
 » 🇺🇸 [IGN / 28 oct. 2025] **Microsoft remains quiet after Trump AI Master Chief image and Homeland Security uses Halo to promote ICE** → <https://cutt.ly/nr7RrQua>
 » 🇺🇸 [Game File / 28 oct. 2025] **Halo co-creator says ICE’s Halo-themed recruitment ad “makes me sick”.** Another Halo maker says ad "ought to offend every Halo fan, regardless of political orientation." Also: A developer whose game just launched on Xbox slams Microsoft’s silence → <https://cutt.ly/lr7E6Yq0>
 » 🇺🇸 [Kotaku / 28 oct. 2025] **Former Halo devs call ICE meme despicable: ‘A call to destroy people because of their immigration status goes way too far’.** The DHS post likened immigrants to evil parasites → <https://kotaku.com/--2000639666>
+» 🇫🇷 [ActuGaming / 29 oct. 2025] **Le co-créateur de Halo trouve « abominable » l’utilisation de l’image de la licence dans un message de recrutement pour ICE** → <https://actugaming.net/--767423>
 » fil de discussion 💬
 
 » 🇺🇸 [CNN / 22 oct. 2025] **Why Trump’s sudden East Wing demolition is extraordinary — and dicey** → <https://cutt.ly/Gr7RIpwf>
@@ -16009,6 +16010,7 @@ raids : OrigaTwitch => (00:06)[+95] RufusxShinra => (01:15)[+31] MrRaashi => (01
 » 🇫🇷 [ActuGaming / 28 oct. 2025] **Amazon licencie plus de 14 000 personnes, en coupant de nombreux postes dans sa division jeu vidéo** → <https://actugaming.net/--767161>
 » 🇫🇷 [Gamekult / 28 oct. 2025] **Amazon licencie 30 000 personnes, dont des salariés dédiés à la section jeux vidéo.** 2% des effectifs totaux, 10% des employés de bureau → <https://cutt.ly/Fr7RZshW>
 » 🇺🇸 [Kotaku / 28 oct. 2025] **Amazon’s once massively popular MMO is going on life support.** New World at one point had over a million concurrent players on Steam, but will no longer get new content updates in 2026 → <https://kotaku.com/--2000639761>
+» 🇫🇷 [ActuGaming / 29 oct. 2025] **C’est la fin pour le MMO New World, qui a reçu sa dernière mise à jour de contenu** → <https://actugaming.net/--767407>
 » 🇺🇸 [Games Industry / 28 oct. 2025] **Amazon to shed 14,000 jobs "to be organized more leanly" despite acknowledging it "is performing well".** Sources suggest cuts will impact its gaming division → <https://cutt.ly/mr7Rb1ZT>
 » fil de discussion 💬
 
@@ -16026,6 +16028,7 @@ raids : OrigaTwitch => (00:06)[+95] RufusxShinra => (01:15)[+31] MrRaashi => (01
 ### Chez Take-Two, l'IA va « créer des emplois »
 » 🇺🇸 [Game Developer / 23 oct. 2025] **Take-Two CEO predicts genAI will create jobs, not kill them.** 'The reason [AI] is so extraordinary right now is because what we have is a combination of metadata with a parlor trick; we're all going to get used to it.' → <https://cutt.ly/Or4pIBSV>
 » 🇬🇧 [PC Gamer / 23 oct. 2025] **AI is 'a combination of metadata with a parlor trick,' Take-Two boss says: 'A great thing' for business, but it's not creative and never will be.** Strauss Zelnick shared his thoughts on the impact of AI on game development at today's Paley International Council Summit → <https://cutt.ly/9r4p4JNJ>
+» 🇫🇷 [ActuGaming / 29 oct. 2025] **Pas convaincu par l’IA, Strauss Zelnick estime que l’outil ne peut pas même créer un plan marketing comme celui de GTA** → <https://actugaming.net/--767561>
 
 ### Partenariat entre Stability AI et Electronic Arts
 » 🇺🇸 [Electronic Arts / 23 oct. 2025] **EA and Stability AI partner to empower artists, designers, and developers.** The partnership will help unlock faster iteration, accelerate workflows, and expand creative possibilities → <https://cutt.ly/Ur4oXUAR>
@@ -16055,6 +16058,112 @@ raids : OrigaTwitch => (00:06)[+95] RufusxShinra => (01:15)[+31] MrRaashi => (01
 » 🇺🇸 [Kotaku / 28 oct. 2025] **Battlefield 6‘s biggest update and its free battle royale mode are now live.** Redsec as well as BF6's Rogue Ops update are both out today on PS5, Xbox, and PC → <https://kotaku.com/--2000639598>
 » 🇫🇷 [Gamekult / 28 oct. 2025] **Avec Battlefield REDSEC, la licence fait le choix du stand-alone et du free-to-play pour le battle royale** → <https://cutt.ly/Vr7RLXd2>
 » 🇺🇸 [Kotaku / 28 oct. 2025] **Battlefield 6‘s new map is very bad.** Season one's Blackwell Fields is tiny, boring, empty, and just not any good → <https://kotaku.com/--2000639647>
+
+
+--------------------------------------
+2025-10-31
+
+# L'Hebdo #80
+## Actus
+### Origami
+» ✉️ [Origami] Gardez le pli grâce à notre nouvelle infolettre ! → https://www.origami.ng/infolettre/
+» 🎧 [Patreon] Conf' 2 Redac' — Pense à un œuf → https://patreon.com/posts/141645937
+» ▶️ [YouTube] La Mardinale — Halo Remake sur PS5 ; l'IA-gen va créer des emplois si si promis → https://youtu.be/5Ail_sxD3A0
+» ▶️ [YouTube] Super Vieux Jeux — C'est quoi le retrogaming ? → https://youtu.be/f0JYpeSdTvA
+» ▶️ [Patreon] Wishlist — Novembre 2025 → https://patreon.com/posts/142404947
+» 🎧 [Patreon] Catalogue Arrière — Ale & Tale Tavern, avec Prune → https://patreon.com/posts/142173233
+
+### La semaine
+» 🇺🇸 [Kotaku / 22 oct. 2025] The Marvel beat-em-up I’ve been waiting for all year finally has a release date. Marvel Cosmic Invasion arrives just before the end of 2025 → https://kotaku.com/--2000638215
+» 🇫🇷 [ActuGaming / 22 oct. 2025] Marvel Cosmic Invasion trouve enfin une date de sortie, et ajoute deux derniers super-héros à son gros casting → https://actugaming.net/--766026
+
+» 🇫🇷 [Gamekult / 29 oct. 2025] Vampire Survivors : la coop en ligne débarque avec une dose de Balatro → https://cutt.ly/yr5VMhSu
+
+» Darkwood 2, annoncé sur PC / Steam Deck ; édité par Hooded horse, développé par Ice-Pick Lodge, studio russe 🇷🇺 derrière les jeux _Pathologic_ → https://darkwoodgame.com | https://s.team/a/3708010
+» 🇫🇷 [Gamekult / 29 oct. 2025] Darkwood 2 quitte la forêt pour un nouveau cauchemar sous la mer, signé par les créateurs de Pathologic. On change de studio mais pas d'ambiance → https://cutt.ly/Zr5V1eHm
+
+» Dead Static Drive, annoncé sur PlayStation, Xbox (Game Pass) et PC / Steam Deck ; développé par Reuben Games, studio australien 🇦🇺 → https://deadstaticdrive.com | https://s.team/a/1166940
+
+» Routine, le 4 déc. 2025 sur Xbox Series et PC ; édité par Raw Fury, développé par Lunar Software, studio britannique 🇬🇧 → https://routinegame.com | https://s.team/a/606160
+» 🇫🇷 [ActuGaming / 9 juil. 2025] Le jeu d’horreur Routine refait une nouvelle fois surface et est toujours en développement → https://actugaming.net/a-736997
+
+» Amazon, cf. la Mardinale
+
+» 🇺🇸 [Kotaku / 29 oct. 2025] Angry fans are review-bombing Amazon’s now abandoned MMO: ‘F*** corporate greed’. The company is sunsetting New World: Aeternum amid 14,000 layoffs → https://kotaku.com/--2000639860
+
+» 🇬🇧 [VGC / 1er oct. 2025] Amazon has ‘completely redesigned’ Luna with party games including an AI Snoop Dogg courtroom title. Luna’s new GameNight service will focus on multiplayer games → https://cutt.ly/kr1bLXYM
+» 🇫🇷 [ActuGaming / 2 oct. 2025] Amazon modifie complètement son service de cloud gaming Luna et mise gros sur l’IA, avec même un Snoop Dogg virtuel → https://actugaming.net/a-756512
+» 🇫🇷 [Gamekult / 2 oct. 2025] Amazon Luna annonce une refonte majeure du service de cloud gaming → https://cutt.ly/Br1KYk33
+» 🇬🇧 [VGC / 23 oct. 2025] Amazon’s redesigned Luna launches with GameNight, its party library with a AI Snoop Dogg courtroom game. 29 streaming games are available on GameNight, all playable with an Amazon Prime subscription → https://cutt.ly/1r4pkCdG
+
+» 🇺🇸 [Kotaku / 30 oct. 2025] Did Amazon Just Kill Its Lord Of The Rings MMO? Also: bad news for Resident Evil fans on Switch 2 → https://kotaku.com/--2000640104
+» 🇺🇸 [Kotaku / 30 oct. 2025] Amazon is abandoning one of its biggest games, but not before the devs got to say goodbye. New World: Aeternum has received its final update after Amazon put the game on life support → https://kotaku.com/--2000640173
+» 🇫🇷 [ActuGaming / 30 oct. 2025] Le MMO Seigneur des Anneaux développé par Amazon serait annulé suite aux renvois au sein du groupe → https://actugaming.net/--767649
+
+» 🇫🇷 [Don't Nod / 28 oct. 2025] Résultats du 1er semestre 2025 → https://cutt.ly/Ur70Q57r
+» 🇫🇷 [ActuGaming / 29 oct. 2025] Pour se refaire une santé, DON’T NOD signe un accord pour produire un jeu narratif basé sur une licence Netflix → https://actugaming.net/--767410
+» 🇫🇷 [Gamekult / 29 oct. 2025] Surprise : Don't Nod va réaliser un jeu narratif sur une « franchise majeure » de Netflix, alors que même Lost Records s'est planté → https://cutt.ly/3r5VNcCq
+» 🇺🇸 [Games Industry / 31 oct. 2025] Don't Nod H1 revenues rise to €7m, announces partnership with Netflix. Lost Records: Bloom & Rage "remained under expectations", leading to write-down of €13.1 million → https://cutt.ly/kr5VhcYL
+
+» Aphelion, annoncé pour 2026 sur PlayStation 5, Xbox Series et PC ; développé par Dont't Nod → https://s.team/a/1966410 | https://dont-nod.com/fr/games/aphelion-fr/
+» 🇫🇷 [Gamekult / 9 juin 2025] Don't Nod s'essaye à la science-fiction avec Aphelion → https://cutt.ly/0r541JmG
+
+» 🇺🇸 [Kotaku / 28 oct. 2025] Newly revealed action-RPG Loulan: The Cursed Sand looks sick. Loulan: The Cursed Sand has some impressive-looking environments and baddies → https://kotaku.com/--2000639711
+» 🇫🇷 [ActuGaming / 28 oct. 2025] Avec Loulan: The Cursed Sand, le PlayStation China Hero Project accouche d’un nouveau projet à suivre de près → https://actugaming.net/--767070
+» 🇫🇷 [Gamekult / 2 nov. 2025] La Chine ne s'arrête pas : voici Loulan, un jeu d'action inspiré par God of War qui a vraiment de la gueule → https://cutt.ly/Hr54vI4n
+
+### Animal Crossing: New Horizons
+» 🇺🇸 [Kotaku / 30 oct. 2025] Animal Crossing: New Horizons is getting a Switch 2 upgrade and massive free update. The 3.0 update will be available for all players regardless of system → https://kotaku.com/--2000640118
+» 🇫🇷 [ActuGaming / 30 oct. 2025] Animal Crossing: New Horizons va recevoir une version Switch 2 avec des nouveautés, en marge d’une mise à jour gratuite → https://actugaming.net/--767690
+» 🇺🇸 [Kotaku / 30 oct. 2025] The Animal Crossing community just woke up like a sleeper agent. The Switch 2 edition and 3.0 update have given Animal Crossing fans something to look forward to again → https://kotaku.com/--2000640140
+» 🇺🇸 [Kotaku / 30 oct. 2025] Retro games are coming to Animal Crossing: New Horizons but you have to pay to play them. A callback to the GameCube game gets an unfortunate paywall → https://kotaku.com/--2000640223
+
+### Annulation des jeux olympiques e-sports
+» 🇺🇸 [International Olympic Commitee / 30 oct. 2025] IOC Statement on the Olympic Esports Games → https://cutt.ly/br5cfO91
+» 🇫🇷 [Gamekult / 31 oct. 2025] Le Comité Olympique rompt son partenariat avec l’Arabie saoudite sur les Jeux olympiques d’e-sport → https://cutt.ly/cr5VZ1Cg
+» 🇫🇷 [Gamekult / 22 mai 2025] Face à la pression populaire, le tournoi EWC de GeoGuessr ne prendra pas place en Arabie Saoudite → https://cutt.ly/6rnLPscV
+
+### Little Samson
+» 🇺🇸 [Time Extension / 27 oct. 2025] "Daunting" - Limited Run explains how it resurrected one of the most expensive NES games of all time. "We learned about this through our partners at Tatsujin" → https://cutt.ly/Wr5cxkfH
+» 🇺🇸 [Gematsu / 29 oct. 2025] Little Samson coming to PS5, Switch, and PC in 2026, running on the Carbon Engine → https://cutt.ly/Mr5ckIxi
+» 🇫🇷 [Gamekult / 31 oct. 2025] Little Samson, un des jeux les plus rares de la NES, va revenir sur les consoles modernes. De l'archéologie de fin gourmet → https://cutt.ly/Kr5cclB7
+
+
+## Jeux
+
+### Digimon Story : Time Stranger
+» Digimon Story : Time Stranger, sorti le 3 oct. 2025 à 70 € sur PlayStation 5, Xbox Series et PC / Steam Deck, démo disponible ; édité par Bandai Namco, développé par Media. Vision → https://digimonstory-ts.bn-ent.net | https://fr.bandainamcoent.eu/digimon/digimon-story-time-stranger
+
+- sorti le 3 oct. 2025 sur PlayStation 5, Xbox Series et PC / Steam Deck, démo disponible
+- édité par Bandai Namco, développé par Media Vision, studio japonais 🇯🇵 derrière la série de jeux _Wild Arms_, la série de jeux _Chaos Rings_, _Valkyria Chronicles III_ (2011), _Digimon Story: Cyber Sleuth_ (2015), _Valkyria Revolution_ (2017), _Digimon Story: Cyber Sleuth – Hacker's Memory_ (2017), _Valkyria Chronicles 4_ (2018) → https://digimonstory-ts.bn-ent.net | https://fr.bandainamcoent.eu/digimon/digimon-story-time-stranger
+
+🎮 70 € sur PlayStation (<https://cutt.ly/er5BkfYV>) et Xbox (<https://cutt.ly/Gr5BkIpj>)
+💻️ 70 € sur Steam (<https://s.team/a/1984270>)
+
+### Légendes Pokémon : Z-A
+» Légendes Pokémon : Z-A, sorti le 16 oct. 2025 à 60 € sur Switch 1, à 70 € sur Switch 2, à partir de 45 € en grande distribution ; édité par Nintendo, développé par Game Freak → https://legends.pokemon.com/fr-fr
+
+- sorti le 16 oct. 2025 sur Switch 1 & 2
+- édité par Nintendo, développé par Game Freak, studio japonais 🇯🇵 derrière la majeure partie des jeux _Pokémon_, ainsi que _Tembo the Badass Elephant_ (2015), _Giga Wrecker_ (2017), _Little Town Hero_ (2019) → https://legends.pokemon.com/fr-fr
+
+🎮 60 € sur Switch 1 (<https://cutt.ly/Rr5BluoO>)
+🎮 70 € sur Switch 2 (<https://cutt.ly/wr5Blkma>)
+🎮 à partir de 45 € en grande distribution
+
+## Stunfest 2025
+» Sunfest, du 24 au 26 oct. 2025 à Rennes → https://stunfest.com
+- ▶️ chaîne YouTube : https://youtube.com/@asso3hitcombo
+- 📡 chaîne Twitch : https://twitch.tv/3hitcombo | https://twitch.tv/stunfest
+
+excuses de sac :
+- s'il y a des choses incohérentes qui sont dites dans cette émission, c'est la faute à pas de machine à café (Hoopy, pré-générique)
+- t'as vu c'qui s'passe dans ma tête au moment où je prononce un truc ? comment tu veux que je déroule un fil, déjà je suis en train de me perdre (Padre, actus)
+
+raids entrants :
+- DazJDM à 13:11 +211
+- DamDamLive à 14:33 +523
+
+raids : OrigaTwitch => (15:25)[+638] DollyWood_ => (17:58)[+131] JVleMag => (19:09)[+45] mamapaprika (terminé à 22:20)
 
 
 
