@@ -3913,8 +3913,6 @@ traduction :
 
 » 🇺🇸 [Embracer / 22 mai 2025] Embracer to spin off Coffee Stain Group – remaining business to be renamed Fellowship Entertainment → https://cutt.ly/RrnLI52Y
 
-» 🇫🇷 [Gamekult / 22 mai 2025] Face à la pression populaire, le tournoi EWC de GeoGuessr ne prendra pas place en Arabie Saoudite → https://cutt.ly/6rnLPscV
-
 » 🇺🇸 [Games Industry / 22 mai 2025] NetEase games segment revenue grows 12.1% to $3.3bn in Q1. Firm attributed rise to success of its online games including the successful launch of Where Winds Meet last December → https://cutt.ly/YrnLOTCz
 
 » 🇺🇸 [Game File / 23 mai 2025] Take Two removes praise for its LGBTQ efforts from its annual report, scrubs diversity references. Game File combed the latest annual reports from Take Two and EA, finding numerous fine-print changes. Some serious, some not, some seemingly in reaction to Donald Trump. → https://cutt.ly/xrnLONmV
@@ -4837,8 +4835,6 @@ traduction :
 
 » 🇫🇷 [Steam / Steel Hunters / 8 juil. 2025] Fin de Steel Hunters. Un adieu à Steel Hunters : dernières MAJ, déblocage complet, et nos remerciements à la communauté → https://cutt.ly/KrUESdDI
 » 🇫🇷 [ActuGaming / 9 juil. 2025] Steel Hunters rend déjà les armes, le jeu service de Wargaming fermera bientôt ses serveurs → https://actugaming.net/a-736994
-
-» 🇫🇷 [ActuGaming / 9 juil. 2025] Le jeu d’horreur Routine refait une nouvelle fois surface et est toujours en développement → https://actugaming.net/a-736997
 
 » 🇫🇷 [ActuGaming / 9 juil. 2025] Genshin Impact met en avant les divinités du monde de Teyvat dans un court-métrage inédit → https://actugaming.net/a-737004
 
@@ -5798,10 +5794,6 @@ traduction :
 
 » 🇺🇸 [Games Industry / 1er oct. 2025] Dune: Awakening developer Funcom announces redundancies. The Tencent-owned studio says it needs to "restructure our teams and focus our resources" → https://cutt.ly/fr1bLj4V
 » 🇫🇷 [ActuGaming / 1er oct. 2025] Malgré le succès de Dune Awakening, Funcom annonce des licenciements → https://actugaming.net/a-756192
-
-» 🇬🇧 [VGC / 1er oct. 2025] Amazon has ‘completely redesigned’ Luna with party games including an AI Snoop Dogg courtroom title. Luna’s new GameNight service will focus on multiplayer games → https://cutt.ly/kr1bLXYM
-» 🇫🇷 [ActuGaming / 2 oct. 2025] Amazon modifie complètement son service de cloud gaming Luna et mise gros sur l’IA, avec même un Snoop Dogg virtuel → https://actugaming.net/a-756512
-» 🇫🇷 [Gamekult / 2 oct. 2025] Amazon Luna annonce une refonte majeure du service de cloud gaming → https://cutt.ly/Br1KYk33
 
 » 🇺🇸 [Gematsu / 1er oct. 2025] FIFA Heroes announced for PlayStation, Xbox, Switch, iOS, and Android → https://cutt.ly/Er1bBq6Z
 
@@ -6872,9 +6864,6 @@ https://cutt.ly/fr89LC70Warner Bros. Discovery envisage plusieurs offres de rach
 » 🇫🇷 [ActuGaming / 22 oct. 2025] Remedy (Alan Wake, Control) perd son PDG, Tero Virtala est remplacé après avoir passé 9 ans à ce poste → https://actugaming.net/--765830
 » 🇫🇷 [Gamekult / 22 oct. 2025] Remedy change de PDG : Tero Virtala paye l'échec de FBC Firebreak → https://cutt.ly/Lr89C7k5
 
-» 🇺🇸 [Kotaku / 22 oct. 2025] The Marvel beat-em-up I’ve been waiting for all year finally has a release date. Marvel Cosmic Invasion arrives just before the end of 2025 → https://kotaku.com/--2000638215
-» 🇫🇷 [ActuGaming / 22 oct. 2025] Marvel Cosmic Invasion trouve enfin une date de sortie, et ajoute deux derniers super-héros à son gros casting → https://actugaming.net/--766026
-
 » 🇺🇸 [Gematsu / 22 oct. 2025] Escape from Duckov sales top one million. Milestone achieved just five days after release → https://cutt.ly/gr89kUg6
 » 🇫🇷 [ActuGaming / 23 oct. 2025] Escape from Duckov, le shooter avec des canards, fait sensation et dépasse le million de ventes → https://actugaming.net/--766154
 » 🇺🇸 [Kotaku / 23 oct. 2025] There’s a damned good reason Escape From Duckov has sold a million copies in a week. The duck-themed extraction shooter isn't a gag, but rather a compelling and in-depth experience → https://kotaku.com/--2000638588
@@ -6960,8 +6949,6 @@ https://cutt.ly/fr89LC70Warner Bros. Discovery envisage plusieurs offres de rach
 » 🇬🇧 [VGC / 23 oct. 2025] ‘I’ve thrown everything I have into this’: Sakurai says Kirby Air Riders won’t get DLC or a sequel. A demo Global Test Ride will take place next month → https://cutt.ly/Dr4pj42o
 » 🇫🇷 [ActuGaming / 23 oct. 2025] Kirby Air Riders fait le plein de nouveaux modes et sera jouable via une démo limitée en ligne → https://actugaming.net/--766540
 
-» 🇬🇧 [VGC / 23 oct. 2025] Amazon’s redesigned Luna launches with GameNight, its party library with a AI Snoop Dogg courtroom game. 29 streaming games are available on GameNight, all playable with an Amazon Prime subscription → https://cutt.ly/1r4pkCdG
-
 » 🇺🇸 [Games Industry / 23 oct. 2025] GDC organisers reveal details of new "GDC Festival of Gaming". Ticket price reduced for access to sessions and expo floor, premium pass for executives and studio leadership, full week of content planned → https://cutt.ly/7r4pQEyL
 » 🇺🇸 [Game Developer / 23 oct. 2025] GDC lowers ticket prices, streamlines pass types in Festival of Gaming 'reimagination'. GDC's new structure is a major format overhaul for the 37-year-old event → https://cutt.ly/ar4pDshB
 » 🇬🇧 [VGC / 23 oct. 2025] GDC says companies that don’t attend ‘send a message they don’t care about developers’. GDC will undergo a revamp in 2026 as a ‘Festival of Gaming’ → https://cutt.ly/9r4pnyRd
@@ -7008,6 +6995,7 @@ https://cutt.ly/fr89LC70Warner Bros. Discovery envisage plusieurs offres de rach
 
 » 🇯🇵 [新潟県立津南中等教育学校 / 22 oct. 2025] ホラーゲームで英会話？―5年生英語授業【５年生】10月22日（水） → https://cutt.ly/Yr4o4m7R
 » 🇺🇸 [Automaton Media / 23 oct. 2025] Japanese secondary school students learn English by playing Hideo Kojima’s P.T. demo. Hideo Kojima's demo for the unreleased "Silent Hills" still lives - as educational material in Japanese schools → https://cutt.ly/vr4oB6RU
+» 🇫🇷 [Gamekult / 1er nov. 2025] Silent Hill : une école japonaise s'est servie de P.T. pour apprendre l'anglais à ses élèves → https://cutt.ly/Kr5VI3Ab
 
 » 🇺🇸 [Gematsu / 23 oct. 2025] Pokémon Legends: Z-A sales top 5.8 million in one week. Latest Pokémon game launches to huge sales → https://cutt.ly/hr7sgyGx
 » 🇫🇷 [ActuGaming / 23 oct. 2025] Légendes Pokémon Z-A s’est vendu à 5,8 millions d’exemplaires en une semaine → https://actugaming.net/--766633
@@ -7069,6 +7057,7 @@ https://cutt.ly/fr89LC70Warner Bros. Discovery envisage plusieurs offres de rach
 
 » 🇺🇸 [The Ringer / 24 oct. 2025] Why can’t Sony make more multiplayer hits? How the PlayStation maker lost—but still survived—gaming’s live-service struggle → https://cutt.ly/jr7svl8p
 » 🇫🇷 [ActuGaming / 27 oct. 2025] Pour l’ex‑boss de PlayStation Shawn Layden, les jeux live‑service ne sont pas de vrais jeux → https://actugaming.net/--766972
+» 🇫🇷 [Gamekult / 2 nov. 2025] Comment Halo et Call of Duty ont influencé le multijoueur d'Uncharted 2 → https://cutt.ly/ir54WFxO
 
 » 🇺🇸 [Kotaku / 27 oct. 2025] Emiru Calls assault investigation a ‘huge mess’ as Twitch admits ‘We failed’. The fallout from TwitchCon 2025 hasn't ended → https://kotaku.com/--2000639234
 
@@ -7080,6 +7069,11 @@ https://cutt.ly/fr89LC70Warner Bros. Discovery envisage plusieurs offres de rach
 » 🇺🇸 [Kotaku / 27 oct. 2025] Here’s why Fortnite, Roblox and more of the internet stopped working last week. Also: Battlefield 6's next patch sounds great, Forza Motorsport isn't dead, God of War leaks, and a vampire game bites the dust → https://kotaku.com/--2000639249
 
 » 🇺🇸 [Windows Central / 27 oct. 2025] Microsoft's ambitious new Xbox: Your entire Xbox console library, the full power of Windows PC gaming, and no multiplayer paywall. The new Xbox platform is said to be a "premium" experience, and now we have some details on what it'll look like → https://cutt.ly/mr7skO29
+
+» 🇯🇵 [Denfaminicogamer / 27 oct. 2025] プログラムの中に息づくリアリティ“体験が物語になる”瞬間を求めて──上田文人氏に聞く『ワンダと巨像』20周年 (In search of the moment when the experience becomes a story, breathing reality into the program - Interview with Fumito Ueda on the 20th anniversary of Shadow of the Colossus) → https://cutt.ly/5r6weR6r
+» 🇺🇸 [Twisted Voxel / 27 oct. 2025] Shadow Of The Colossus was originally conceived as an online game → https://cutt.ly/rr6wuU5W
+» 🇺🇸 [Automaton Media / 28 oct. 2025] Shadow of the Colossus creator Fumito Ueda says Battlefield 1942 inspired him to pursue an online co-op design initially. Fumito Ueda looks back on the development of Shadow of the Colossus and its origins as an online co-op game → https://cutt.ly/Sr6wiP0F
+» 🇫🇷 [Gamekult / 27 oct. 2025] Il y a 20 ans sortait Shadow of the Colossus, l'autre chef d'œuvre de Fumito Ueda → https://cutt.ly/6r6wrBgD
 
 
 » 🇺🇸 [Time Extension / 27 oct. 2025] "They were big fans of Kojima" - The Wachowskis once asked the Metal Gear creator to make a Matrix video game. "We did still get to enjoy the Matrix Japanese premiere and afterparty" → https://cutt.ly/tr7s6h5d
@@ -7097,8 +7091,6 @@ https://cutt.ly/fr89LC70Warner Bros. Discovery envisage plusieurs offres de rach
 
 » 🇫🇷 [ActuGaming / 28 oct. 2025] Le Battle Royale Vampire The Masquerade – Bloodhunt va fermer ses serveurs en avril prochain → https://actugaming.net/--767067
 
-» 🇫🇷 [ActuGaming / 28 oct. 2025] Avec Loulan: The Cursed Sand, le PlayStation China Hero Project accouche d’un nouveau projet à suivre de près → https://actugaming.net/--767070
-
 » 🇫🇷 [ActuGaming / 28 oct. 2025] Dragon Ball Xenoverse 2 continue d’être mis à jour avec un nouveau DLC prévu pour le 30 octobre → https://actugaming.net/--767148
 
 » 🇫🇷 [ActuGaming / 28 oct. 2025] Duet Night Abyss : Le free-to-play sans gacha pour ses personnages se lance aujourd’hui avec quelques codes cadeaux → https://actugaming.net/--767168
@@ -7106,6 +7098,7 @@ https://cutt.ly/fr89LC70Warner Bros. Discovery envisage plusieurs offres de rach
 » 💰 [Kickstarter] What the Stars Forgot - Retro horror management sim. Manage a research vessel and a crew of hundreds on a dangerous voyage. Discover the source of a strange signal coming from deep space → https://cutt.ly/hr7E7ouz
 » 🇺🇸 [Games Industry / 28 oct. 2025] Former MultiVersus devs "try something different" with indie studio, Airlock Games, moving away from "horrific" AAA space. "Rather than turn ourselves over to our next future severance granters, we're trying something different" → https://cutt.ly/Nr7RjftM
 » 🇫🇷 [ActuGaming / 28 oct. 2025] Des anciens dirigeants de MultiVersus fondent un nouveau studio et se lancent dans un genre complètement différent → https://actugaming.net/--767174
+» 🇫🇷 [Gamekult / 30 oct. 2025] Après le fiasco Multiversus, les créateurs du jeu abandonnent la baston pour l’horreur 16 bits → https://cutt.ly/qr5VV7hv
 
 » 🇺🇸 [Kotaku / 28 oct. 2025] White House claims Trump is ‘hugely popular’ with gamers despite sky-high console prices. The revisionist history just gets more stupid with each passing day → https://kotaku.com/--2000639566
 
@@ -7117,11 +7110,15 @@ https://cutt.ly/fr89LC70Warner Bros. Discovery envisage plusieurs offres de rach
 
 » 🇺🇸 [Kotaku / 28 oct. 2025] I don’t know if I like Dispatch yet, but I’m glad it exists. AdHoc Studio is bringing back the Telltale formula…mostly → https://kotaku.com/--2000639678
 
-» 🇺🇸 [Kotaku / 28 oct. 2025] Newly revealed action-RPG Loulan: The Cursed Sand looks sick. Loulan: The Cursed Sand has some impressive-looking environments and baddies → https://kotaku.com/--2000639711
-
 » 🇺🇸 [Kotaku / 28 oct. 2025] Microsoft boss explains Xbox’s controversial new approach to gaming. CEO Satya Nadella defended controversial moves around exclusivity and higher profit margins → https://kotaku.com/--2000639721
+» 🇫🇷 [ActuGaming / 29 oct. 2025] « Nous allons être partout, sur toutes les plateformes » : Satya Nadella commente la stratégie de Xbox, ou plutôt Windows → https://actugaming.net/--767418
+» 🇫🇷 [Gamekult / 30 oct. 2025] Xbox : quand Satya Nadella (PDG de Microsoft) parle d’innovation, on entend surtout "marges" → https://cutt.ly/rr5VB0DL
 
 » 🇺🇸 [Kotaku / 28 oct. 2025] One of the coolest survival horror games this year is a lo-fi revenge quest through hell. Labyrinth of the Demon King is a double dose of nostalgia and grungy graphical dread → https://kotaku.com/--2000639739
+
+» 🇺🇸 [MobileGamer / 28 oct. 2025] Saudi outfit Sandsoft is closing, say sources, after its owners ‘pulled the plug’ → https://cutt.ly/Lr5VHkG3
+
+» 🇺🇸 [MobileGamer / 28 oct. 2025] EA mobile posts slight decline with $275m revenue last quarter → https://cutt.ly/xr5VHQBR
 
 » 🇺🇸 [Steam / Escape from Duckov / 28 oct. 2025] 2 Million Ducklings in Duckov - THANK YOU! → https://cutt.ly/Ar7R2uwo
 » 🇯🇵 [GameBiz / 28 oct. 2025] bilibili Game、『エスケープ フロム ダッコフ』が累計販売200万本突破と発表…同時接続数も30万人超え → https://gamebiz.jp/news/415086
@@ -7133,22 +7130,310 @@ https://cutt.ly/fr89LC70Warner Bros. Discovery envisage plusieurs offres de rach
 
 » 🇺🇸 [Automaton Media / 29 oct. 2025] Like a Dragon event offers fans wedding ceremony with their favorite character for $980. Complete with faux marriage and divorce papers. Commemorating Like a Dragon's 20th anniversary, the Four Ceremonies of Life Exhibition will let fans marry characters like Kiryu and Majima → https://cutt.ly/fr7R5scY
 
+» 🇯🇵 [Dengenki Online / 25 oct. 2025] 【サガVSグラブル!?】伊藤賢治と成田勤が6年ぶりの対バン“FACE to FACE”で再び激突。互いにしのぎを削るステージへの想いと独自の音楽哲学とは → https://dengekionline.com/article/202510/55786
+» 🇺🇸 [Automaton Media / 29 oct. 2025] SaGa series composer Kenji Ito had a difficult time getting recognized as the author of his own work. “It won’t happen if you just wait”. SaGa series composer Kenji Ito talks about the struggle game musicians face in gaining recognition for their own work → https://cutt.ly/4r7PPOV9
+
+» 🇺🇸 [Automaton Media / 29 oct. 2025] Hideo Kojima never even heard about Konami being offered a Matrix game. “No one told me in all these 26 years”. Shockingly, it seems no one at Konami remembered to tell Hideo Kojima that the Wachowskis offered him a Matrix game → https://cutt.ly/yr7PAV1l
+
+» 🇺🇸 [Automaton Media / 29 oct. 2025] Rune Factory 4 director is making a new fantasy farming sim RPG in which you can keep living forever. Farnia Village Kickstarter campaign live now. Developers behind Rune Factory 3 and 4 launched a Kickstarter campaign for their upcoming fantasy farming sim Farnia Village → https://cutt.ly/1r7PFrf3
+
+» 🇺🇸 [Google / 29 oct. 2025] An update regarding Google Play's policies for developers serving users in the US → https://cutt.ly/Vr5VJYCy
+» 🇺🇸 [MobileGamer / 29 oct. 2025] Another Epic win as Google opens up the US Play store → https://cutt.ly/Qr5VJwgT
+» 🇺🇸 [PocketGamer / 29 oct. 2025] US Google Play store opens up to alternative payments in boost for DTC. Injunction will run until November 1st, 2027 → https://cutt.ly/6r5VVyuC
+» 🇺🇸 [PocketGamer / 30 oct. 2025] Google Play injunction can "transform Android game economics". Tech giant forced to allow alternative payment systems in the US until 2027 under court ruling in Epic Games case → https://cutt.ly/ir5VCBlo
+
+» 🇦🇺 [twiv / 29 oct. 2025] Stop Killing Games has verified almost half of its EU signatures → https://cutt.ly/qr70bUiO
+» 🇫🇷 [Gamekult / 31 oct. 2025] Le mouvement Stop Killing Games se porte bien : l'immense majorité des voix de la pétition sera bien validée. 3% de votes irrecevables seulement → https://cutt.ly/ur5VXBzc
+
+» 🇫🇷 [Gamekult / 29 oct. 2025] Splinter Cell, Tomb Raider, Hitman... 16 jeux cultes sauvés de l’oubli par GOG → https://cutt.ly/Br70bXrB
+
+» 🇬🇧 [VGC / 29 oct. 2025] ‘We’re still figuring it out’: John Romero hasn’t given up on his axed Xbox shooter. The Doom designer claims “a lot of companies” are interested in reviving his game → https://cutt.ly/Xr70nrGi
+
+» 🇺🇸 [Gematsu / 29 oct. 2025] Neon Doctrine to merge into Raw Fury. Neon Doctrine's published titles to transfer to Raw Fury → https://cutt.ly/Sr70nzkY
+
+» 🇺🇸 [Minecraft / 29 oct. 2025] Removing obfuscation in Java Edition. What this means for our modding community → https://cutt.ly/jr70nA1v
+» 🇺🇸 [GamingOnLinux / 29 oct. 2025] Minecraft Java modding is about to get a lot easier and more interesting → https://cutt.ly/fr70nZjz
+
+» 🇺🇸 [Gematsu / 29 oct. 2025] Resident Evil Requiem pre-orders now available. Switch 2 Pro Controller and amiibo also announced → https://cutt.ly/ir70n7JE
+
+» 🇫🇷 [ActuGaming / 29 oct. 2025] Invincible VS continue de remplir son casting avec Robot et Monster Girl, et lancera son alpha fermée le mois prochain → https://actugaming.net/--767402
+
+» 🇫🇷 [ActuGaming / 29 oct. 2025] Avatar Legends: The Fighting Game sera bientôt jouable via une alpha fermée → https://actugaming.net/--767414
+
+» 🇺🇸 [PushSquare / 29 oct. 2025] Monster Hunter Wilds doing so badly that's it's been outsold by MH Rise, Devil May Cry 5. Q2 sales results have MH Wilds at rock bottom → https://cutt.ly/Ur70RU6a
+» 🇺🇸 [Games Industry / 29 oct. 2025] Capcom H1 2025 sales and profits up YoY thanks to Monster Hunter Wilds and "anticipation" for Resident Evil Requiem. Net sales, operating profit, and net income were up by 53.7%, 90.8%, and 72.8%, respectively → https://cutt.ly/7r70Sazw
+» 🇫🇷 [ActuGaming / 29 oct. 2025] Malgré son énorme démarrage, Monster Hunter Wilds ne se vend plus très bien aujourd’hui → https://actugaming.net/--767539
+» 🇫🇷 [Gamekult / 30 oct. 2025] Capcom annonce des résultats en forte hausse, mais Monster Hunter Wilds est au point mort. Street Fighter 6 se rapproche des 6 millions → https://cutt.ly/Rr5VNqol
+
+» 🇫🇷 [ActuGaming / 29 oct. 2025] Le jeu de basket The Run: Got Next change de direction et de nom, place à NBA THE RUN, qui sortira en 2026 → https://actugaming.net/--767543
+
+» 🇺🇸 [Variety / 29 oct. 2025] ‘Legend of Zelda: Breath of the Wild’ soundtrack to release on vinyl in U.S. as Nintendo test physical media appetite outside Japan → https://cutt.ly/Br70TP84
+» 🇺🇸 [Kotaku / 29 oct. 2025] Breath Of The Wild‘s $180+ vinyl box set is a test to see if fans want physical Nintendo soundtracks. Also: Resident Evil 2 continues to be a massive hit for Capcom, Apple is on the Game Awards advisory board, Nintendo is updating Mario 3D All-Stars again, and more → https://kotaku.com/--2000639847
+» 🇫🇷 [ActuGaming / 29 oct. 2025] La bande-son de The Legend of Zelda: Breath of the Wild arrive dans un coffret vinyle → https://actugaming.net/--767551
+
+» 🇫🇷 [ActuGaming / 29 oct. 2025] EA Sports FC 26 dévoile la septième Team Of The Week → https://actugaming.net/--767568
+
+» 🇫🇷 [ActuGaming / 29 oct. 2025] Xbox : Une panne géante du service Azure empêche de se connecter et de jouer en ligne, ou d’acheter des jeux → https://actugaming.net/--767575
+
+» 🇬🇧 [GamesRadar+ / 29 oct. 2025] Final Fantasy 7 Rebirth director knows there's a debate around yellow paint in games, but says "there is definitely a need for that kind of thing" and the only real question is "about how it's done". Take it from Naoki Hamaguchi: "I get there is a debate about that ... That's fine, but I think there is definitely a need" → https://cutt.ly/Kr70OVM6
+» 🇺🇸 [Kotaku / 29 oct. 2025] Final Fantasy VII Rebirth director says there are times when yellow paint is ‘definitely needed’. The eyesores are sometimes necessary, he argues → https://kotaku.com/--2000639876
+
+» 🇺🇸 [Kotaku / 29 oct. 2025] Microsoft outage temporarily derails Outer Worlds 2 launch. The developers ask for patience as fans struggle to download the latest Game Pass release → https://kotaku.com/--2000639920
+
+» 🇺🇸 [Games Industry / 29 oct. 2025] EA reports decreases in sales and revenue during Q2. Firm pauses earnings calls following buyout, will no longer provide forward-looking guidance → https://cutt.ly/Ir70APrP
+
+» 🇫🇷 [Gamekult / 29 oct. 2025] Routine : après 13 ans d’attente, le jeu d’horreur lunaire tient enfin sa date de sortie → https://cutt.ly/6r5V8vHE
+
+» 🇺🇸 [Games Industry / 29 oct. 2025] Neon Doctrine to merge into Raw Fury. Publisher's co-founders Iain Garner and Vlad Tsõpljak announce departure → https://cutt.ly/ur70AJ4J
+
+» 🇺🇸 [Games Industry / 29 oct. 2025] Justin Davis promoted to VP, Editorial and Commerce at IGN Entertainment. New role created as part of content restructuring at parent of GamesIndustry.biz → https://cutt.ly/Cr70Stzs
+
+» 🇬🇧 [PC Gamer / 29 oct. 2025] Twitch heard you wanted more vtubers so it signed a deal with the most popular vtuber agency in the world. Hololive vtubers are officially coming to Twitch → https://cutt.ly/rr70XEEH
+
+» 🇬🇧 [PC Gamer / 29 oct. 2025] Nvidia is the world's first $5 trillion company, but CEO Jensen Huang's nifty narrative about accelerated computing and the remarkable foresight that led to today's AI revolution doesn't quite add up. Nvidia has done incredible things, but a lot of luck was involved, too. → https://cutt.ly/Qr70Z0rw
+
+» ▶️ [YouTube / Axios / 24 oct. 2025] Sen. Sanders on AOC, AIPAC and the AI revolution → https://youtu.be/vhCParR8DUU (24 min)
+» 🇬🇧 [PC Gamer / 29 oct. 2025] Senator Bernie Sanders thinks OpenAI should be broken up, and worries about the onslaught of AI: 'It's like a meteor coming to this planet. We gotta be prepared to deal with it in all of its complexity'. "I worry about that. How we continue community, how we relate to each other as human beings." → https://cutt.ly/Vr70L79e
+
+» 🇬🇧 [PC Gamer / 29 oct. 2025] When Irrational picked a new writer for BioShock Infinite, it didn't realise he was in the next room, already working at the studio → https://cutt.ly/sr70LB5T
+
+» 🇺🇸 [Aftermath / 29 oct. 2025] We have never been more 12 years old. In the same week government agencies coopted Halo, now we've also got JD Vance weighing on in CollarGate → https://cutt.ly/dr5VvDxg
+
+» 🇺🇸 [Games Industry / 29 oct. 2025] CWA calls on FTC and CFIUS to "scrutinize" EA buyout and protect workers, consumers, and "the future of the game industry". Union "raise alarms" over $55 billion buyout → https://cutt.ly/Nr70SK4e
+» 🇺🇸 [Game Developer / 29 oct. 2025] CWA president implores U.S. regulators to scrutinize EA buyout to address national security and labor concerns. 'This deal is not about innovation or growth for the U.S. economy: it's about handing control to a small group of powerful investors and putting thousands of jobs and sensitive consumer data at risk.' → https://cutt.ly/pr70DdHB
+
+» 🇺🇸 [Game Developer / 29 oct. 2025] DHS will continue using game and pop culture iconography in messaging. The US Department of Homeland Security says it will continue using pop culture imagery, including from video games, to 'bring awareness' to unproven claims of widespread crime by undocumented immigrants → https://cutt.ly/Hr70DE5A
+» 🇬🇧 [PC Gamer / 29 oct. 2025] US Department of Homeland Security says it won't stop using videogame memes to stoke anti-immigrant sentiment: 'We aren't slowing down'. So far the agency has used Pokémon and Halo to promote immigrant crackdowns on social media, and there's likely more to come. → https://cutt.ly/Jr70K14F
 
 
-» 🇫🇷 [ActuGaming / 28 oct. 2025] 
+» 🇺🇸 [Kotaku / 30 oct. 2025] Nintendo was just dealt a big blow in its battle against Palworld. The patents on which Nintendo is relying aren't looking too solid → https://kotaku.com/--2000640115
 
-» 🇫🇷 [Gamekult / 23 oct. 2025] 
+» 🇺🇸 [Kotaku / 30 oct. 2025] Trump take candy. Halloween candy hauls will shrink as prices soar → https://kotaku.com/--2000640156
 
-» 🇬🇧 [PC Gamer / 23 oct. 2025] 
+» 🇺🇸 [Supercell / 30 oct. 2025] Squad Busters development is ending, final update in December 2025 → https://cutt.ly/zr5VFhYb
+» 🇺🇸 [MobileGamer / 30 oct. 2025] Supercell is killing Squad Busters → https://cutt.ly/5r5VJ3lP
+» 🇫🇷 [Gamekult / 31 oct. 2025] Après 18 mois, Supercell (Clash of Clans) abandonne Squad Busters → https://cutt.ly/vr5VDV3p
 
-» 🇺🇸 [Automaton Media / 29 oct. 2025] 
+» 🇺🇸 [MobileGamer / 30 oct. 2025] EA dismisses concerns over layoffs and debt as $55bn go-private deal looms → https://cutt.ly/lr5VKOvK
+
+» 🇺🇸 [Deadline / 30 oct. 2025] Taylor Sheridan And Peter Berg Team On Paramount And Activision’s ‘Call Of Duty’ Movie → https://cutt.ly/mr5C78XX
+» 🇺🇸 [Kotaku / 30 oct. 2025] Friday Night Lights creator is making the Call Of Duty movie. Perter Berg is teaming up with Yellowstone creator Taylor Sheridan to make Paramount's live-action adaption of the hit FPS series → https://kotaku.com/--2000640211
+
+» 🇺🇸 [Kotaku / 30 oct. 2025] Arc Raiders joins Battlefield 6 in the war against goofy skins. Don't expect to be dressing up as cartoon characters or festive figures in the recently released extraction shooter → https://kotaku.com/--2000640251
+
+» 🇺🇸 [Kotaku / 30 oct. 2025] Guy who streamed pirated Switch games and told Nintendo ‘capitalism is cancer’ must now pay it $17,500. The player of pirated games like Mario & Luigi: Brothership lost the lawsuit → https://kotaku.com/--2000640438
+
+» 🇫🇷 [ActuGaming / 30 oct. 2025] Resident Evil Requiem ouvre ses précommandes et dévoile ses éditions, avec une manette Pro Switch 2 et un amiibo ¬ https://actugaming.net/--767619
+
+https://microsoft.gcs-web.com/static-files/b0a66351-38cf-4147-a907-191d774531bb
+» 🇺🇸 [Microsoft / 29 oct. 2025] Press release & webcast — Earnings release FY26 Q1. Microsoft cloud and AI strength drives first quarter results → https://cutt.ly/nr5VfS1r
+» 🇺🇸 [Game Developer / 30 oct. 2025] Xbox hardware revenue declined by 29 percent during Q1. Q1 financials for FY26 show a 2 percent decrease in gaming revenue, which amounts to $113 million → https://cutt.ly/Tr5VdMzm
+» 🇫🇷 [ActuGaming / 30 oct. 2025] Chez Microsoft, les revenus liés au gaming sont en baisse de 2%, surtout à cause des faibles ventes de consoles Xbox → https://actugaming.net/-767624
+» 🇫🇷 [Gamekult / 31 oct. 2025] Xbox : les consoles et les contenus first party tirent les résultats vers le bas. Une nouvelle chute de 29% pour le hardware → https://cutt.ly/dr5VAtxw
+
+» 🇫🇷 [IGN France / 29 oct. 2025] Battlefield REDSEC : les premiers avis sont tombés sur Steam, et c'est pas terrible. "Je n'ai pas acheté Battlefield 6 pour ça". → https://fr.ign.com/battlefield-6/82154
+» 🇫🇷 [ActuGaming / 30 oct. 2025] Pour son lancement, Battlefield REDSEC est la cible de nombreuses critiques sur Steam, surtout liées à Battlefield 6 lui-même → https://actugaming.net/--767627
+
+» 🇫🇷 [ActuGaming / 30 oct. 2025] Avec ses deux nouveaux épisodes, le jeu Dispatch montre que le bouche-à-oreille a bien fonctionné → https://actugaming.net/--767631
+
+» 🇺🇸 [Gematsu / 29 oct. 2025] Shantae 7 now in development. "We won't have anything to share in a while." → https://www.gematsu.com/2025/10/shantae-7-now-in-development
+» 🇫🇷 [ActuGaming / 30 oct. 2025] Un Shantae 7 est en développement, la série de jeux de plateformes sera bientôt de retour → https://actugaming.net/--767634
+
+» 🇫🇷 [ActuGaming / 30 oct. 2025] Un brevet déposé par Nintendo pour la capture de créatures a été refusé au Japon, ce qui pourrait profiter à Palworld → https://actugaming.net/--767695
+
+» 🇫🇷 [ActuGaming / 30 oct. 2025] ARC Raiders est désormais disponible, et comme tous les shooters populaires, les serveurs peinent à tenir le choc → https://actugaming.net/--767698
+» 🇫🇷 [Gamekult / 31 oct. 2025] ARC Raiders réalise un départ canon, pendant qu'Embark planche déjà sur deux autres projets → https://cutt.ly/nr5VPSFA
+
+» 🇫🇷 [ActuGaming / 30 oct. 2025] Echoes of the End lance déjà son « Enhanced Edition », qui vient grandement améliorer l’expérience → https://actugaming.net/--767701
+
+» 🇯🇵 [Famitsu / 30 oct. 2025] 『テイルズ オブ エクシリア リマスター』富澤祐介氏「新作に関するアナウンスはもうしばらく……」リマスタープロジェクトについて語る。キャスト（代永翼さん、沢城みゆきさん）やオリジナル版開発陣のコメントも到着 → https://famitsu.com/article/202510/56302
+» 🇺🇸 [Automaton Media / 30 oct. 2025] Tales of series producer says over 70% of players come from overseas, but luckily, JRPG fans want the same things regardless of where they’re from. Tales of producer Yusuke Tomizawa talks about the remastered project's reception and his team's stance on changing player demographics → https://cutt.ly/Pr5VbPjD
+
+» 🇺🇸 [Automaton Media / 30 oct. 2025] Despite being a Western IP, Wizardry’s biggest following is still in Japan. We talk to Wizardry Variants Daphne devs about the shift. We asked Wizardry Variants Daphne director Keisuke Kanayama about the history and legacy of the Wizardry IP → https://cutt.ly/Pr5VmqMo
+
+» 🇫🇷 [Gamekult / 30 oct. 2025] Retroid suspend les préventes de sa Pocket 6 après moult retours peu élogieux sur son design → https://cutt.ly/ur5VBw6M
+» 🇺🇸 [Time Extension / 31 oct. 2025] "Thank you all for your feedback" - New Retroid Pocket 6 design unveiled following online backlash. Pre-orders will open up again "soon" → https://cutt.ly/Ar5V4mws
+
+» 🇺🇸 [Time Extension / 31 oct. 2025] Castlevania is being ported to the (checks notes) Atari 2600. Well, the first stage is, at least → https://cutt.ly/Hr5V48cC
+
+» 🇫🇷 [Gamekult / 30 oct. 2025] The Florist : dans ce survival-horror, c'est les fleurs qui veulent votre peau → https://cutt.ly/Lr5VV0Ae
+
+» 🇺🇸 [Game Developer / 30 oct. 2025] Possessor(s) dev Heart Machine lays off more staff two weeks before the game's launch. Following a wave of layoffs at the beginning of October, multiple devs have reportedly been laid off this week, with seemingly more to follow once Possessor(s) launches on November 11 → https://cutt.ly/ur5VsPX1
+» 🇺🇸 [Games Industry / 30 oct. 2025] Heart Machine lays off more staff for the second time this month, two weeks before launch. "Heart Machine has just laid off a bunch more people, effective immediately" → https://cutt.ly/8r5Vdslp
+» 🇫🇷 [ActuGaming / 30 oct. 2025] L’hécatombe continue chez Heart Machine, juste avant le lancement de son prochain jeu Possessor(s) → https://actugaming.net/--767731
+» 🇫🇷 [Gamekult / 30 oct. 2025] À deux semaines de Possessor(s), le studio Heart Machine continue de se désintégrer → https://cutt.ly/or5VVONI
+
+» 🇬🇧 [PC Gamer / 30 oct. 2025] The latest Steam beta adds 'a suspicious chat warning' when you receive a potentially malicious message, something it probably should have done years ago. It's a bit late, but very welcome → https://cutt.ly/Tr5BsWVK
+
+» 🇺🇸 [Game Developer / 30 oct. 2025] Fall Guys veterans establish new studio Panic Stations. Panic Stations is part of a new studio collective called Skeleton Crew → https://cutt.ly/cr5VgsYl
+» 🇫🇷 [ActuGaming / 31 oct. 2025] Après avoir travaillé sur Fall Guys, des développeurs s’associent pour créer Panic Stations, studio spécialisé dans les jeux coop → https://actugaming.net/--767822
+
+» 🇺🇸 [CODA / 28 oct. 2025] CODA Issues Written Request to OpenAI Regarding Sora 2 → https://coda-cj.jp/en/news/817/
+» 🇺🇸 [Automaton Media / 30 oct. 2025] Sony’s Aniplex, Bandai Namco and other Japanese publishers demand end to unauthorized training of OpenAI’s Sora 2 through CODA. Major Japanese anime, game and manga publishers have lodged a written request to OpenAI regarding the use of their content for machine learning → https://cutt.ly/Rr5ViReX
+» 🇺🇸 [IGN / 31 oct. 2025] Japanese organization representing the likes of Bandai Namco, Square Enix, and Studio Ghibli demands OpenAI ceases unauthorized training of Sora 2 on their IPs. What next for Sam Altman's "interactive fan fiction?" → https://cutt.ly/Jr5VozI6
+
+» 🇺🇸 [Deadline / 30 oct. 2025] Taylor Sheridan And Peter Berg Team On Paramount And Activision’s ‘Call Of Duty’ Movie → https://deadline.com/2025/10/--1236602997/
+» 🇫🇷 [ActuGaming / 31 oct. 2025] Le film Call of Duty a trouvé ses scénaristes et son réalisateur, avec le créateur de la série Yellowstone → https://actugaming.net/--767800
+» 🇫🇷 [Gamekult / 31 oct. 2025] Call of Duty, le film : le créateur de Yellowstone aux commandes avec le réalisateur de Battleship → https://cutt.ly/Pr5VZa0S
+
+» 🇺🇸 [TheGamer / 30 oct. 2025] Lae’zel actor says Baldur’s Gate 3 was the first time she realised video games had “proper storytelling” → https://cutt.ly/yr5BuD1v
+
+» 🇺🇸 [Esports Advocate / 30 oct. 2025] Esports breakup: why the IOC backed out of Saudi esports deal. What was fine with former IOC President Thomas Bach did not sit well with new President Kirsty Coventry, according to our sources → https://cutt.ly/Xr6qg3qQ
+
+
+» 🇺🇸 [Kotaku / 31 oct. 2025] Looks like Xbox is finally getting the Silent Hill 2 remake. Plus: Fortnite gets pets, Turok 2 gets some new ports, and more layoffs hit the industry → https://kotaku.com/--2000640457
+» 🇫🇷 [ActuGaming / 31 oct. 2025] Silent Hill 2 Remake pourrait prochainement débarquer sur Xbox Series selon l’ESRB → https://actugaming.net/--767806/
+
+» 🇫🇷 [ActuGaming / 31 oct. 2025] Le remaster de Turok 2: Seeds of Evil est encore une fois de retour, cette fois-ci sur PS5 et Xbox Series → https://actugaming.net/--767810
+
+» 🇫🇷 [ActuGaming / 31 oct. 2025] Transport Fever 3 : le célèbre jeu de gestion de transports s’offre un premier trailer de gameplay → https://actugaming.net/--767812
+
+» 🇺🇸 [Kotaku / 31 oct. 2025] Here’s the Clair Obscur X Final Fantasy crossover you didn’t know you needed. The artists for both RPGs reimagined each other’s characters in their style → https://kotaku.com/--2000640447
+
+» 🇫🇷 [ActuGaming / 31 oct. 2025] Arknights: Endfield entamera sa deuxième bêta à la fin du mois, un test technique est aussi prévu sur PS5 → https://actugaming.net/--767815
+
+» 🇫🇷 [ActuGaming / 31 oct. 2025] La nouvelle génération de ce MMORPG mythique débarque enfin en Europe avec une bêta fermée → https://actugaming.net/--767004
+
+» 🇺🇸 [Kotaku / 31 oct. 2025] Borderlands 4‘s infamous crit knife is back, bugged, and badder than ever. The boss-deleting device keeps getting reworked → https://kotaku.com/--2000640456
+
+» 🇺🇸 [Kotaku / 31 oct. 2025] Betting markets have decided Silksong doesn’t have a chance in hell of winning game of the year. Polymarket gambling on The Game Awards 2025 has begun → https://kotaku.com/--2000640468
+
+» ▶️ [YouTube / 승리의 여신: 니케 - 3주년 기념 신규 업데이트 / 25 oct. 2025] 3주년 기념 개발팀 스페셜 코멘터리 (Full Ver.) | 승리의 여신: 니케 → https://youtu.be/dYEX1ND8HrI (50 min)
+» 🇰🇷 [This is Game / 25 oct. 2025] 승리의 여신: 니케, '혐오 표현 용납 못한다'. 승리의 여신: 니케, 개발팀이 전하는 3주년. 그리고 앞으로의 게임에 대해 → https://www.thisisgame.com/articles/405545
+» 🇺🇸 [Automaton Media / 31 oct. 2025] Shift Up says it “doesn’t tolerate any expressions of hate” in NIKKE following backlash over alleged “small genital” gesture. Following backlash over an offensive hand gesture allegedly inserted into Goddess of Victory: Nikke, Shift Up has made a statement → https://cutt.ly/Zr5VwLCP
+» 🇺🇸 [Kotaku / 31 oct. 2025] Stellar Blade dev weighs in on controversy about mocking small penises. Stellar Blade Dev Weighs In On Controversy About Mocking Small Penises → https://kotaku.com/--2000640487
+
+» 🇺🇸 [Automaton Media / 31 oct. 2025] Silent Hill f writer Ryukishi07’s doujin circle tease upcoming livestream of themselves playing the game. On their official X account, Ryukishi07-led doujin circle 07th Expansion shared their plans to livestream a playthrough of Silent Hill f → https://cutt.ly/Fr5VWs2g
+
+» 🇺🇸 [Automaton Media / 31 oct. 2025] LoveR Kiss Endless Memories PC version to release on GOG and DLsite following Steam delisting. Due to its Steam version being cancelled, LoveR Kiss Endless Memories' PC edition will be releasing on GOG and DLSite instead → https://cutt.ly/tr5VWY73
+
+» 🇯🇵 [IT Media News / 30 oct. 2025] 「アニメ療法」実証実験　生きづらい若者を、キャラ介してカウンセリング　DNPと横浜市立大 → https://cutt.ly/Nr5VRicA
+» 🇺🇸 [Automaton Media / 31 oct. 2025] Japanese psychologists are conducting “Anime Therapy” trials for young people struggling with mental health problems. Yokohama City University's psychologists are trying out a new counseling service which blends therapy with anime content → https://cutt.ly/xr5VEwwP
+
+» 🇺🇸 [Automaton Media / 31 oct. 2025] Horror mockumentary game about a cancelled 90s bishojo title not coming to Steam. It would require “too many content revisions”. H9, a horror faux-documentary style game about a cancelled bishoujo game, will not be coming to Steam after all → https://cutt.ly/Dr5VR2yD
+
+» 🇺🇸 [Automaton Media / 31 oct. 2025] Wizardry Variants Daphne is not open world because it was made with JRPG fans in mind. “The gameplay experience is uniquely Japanese,” says director. Wizardry Variants Daphne director Keisuke Kaneyama on what makes the latest series installment feel so distinctly Japanese → https://cutt.ly/Rr5VTIjv
+
+» 🇺🇸 [IGN / 31 oct. 2025] Netflix 'actively' exploring bid for Warner Bros. Discovery, new report claims → https://cutt.ly/Wr5VuK7g
+» 🇫🇷 [IGN France / 31 oct. 2025] Netflix étudie "activement" la possibilité de faire une offre pour acheter Warner Bros. Discovery → https://cutt.ly/Vr5Vu6Ps
+» 🇫🇷 [ActuGaming / 31 oct. 2025] Netflix serait en lice pour racheter le groupe Warner Bros Discovery → https://actugaming.net/--767828
+
+» 🇫🇷 [ActuGaming / 31 oct. 2025] Plants vs. Zombies : Replanted est disponible dès maintenant sur PC et consoles → https://actugaming.net/--767839
+
+» 🇫🇷 [ActuGaming / 31 oct. 2025] The Witch’s Bakery : La sorcière-pâtissière parisienne sera aussi présente sur PS5 et Xbox Series en 2026 → https://actugaming.net/--767837
+
+» 🇺🇸 [Bloomberg / 31 oct. 2025] ‘Grand Theft Auto’ studio accused of union busting after firings. Union says between 30 and 40 people were terminated. Rockstar Games’ parent company cites ‘gross misconduct’ → https://cutt.ly/Tr5CvpCt
+» 🇺🇸 [Kotaku / 31 oct. 2025] GTA 6 denies union busting after firing dozens of developers. Rockstar Games says they were fired for 'gross misconduct' → https://kotaku.com/--2000640525
+» 🇫🇷 [ActuGaming / 1er nov. 2025] GTA 6 : Rockstar aurait viré 30 à 40 personnes qui cherchaient à se syndiquer, le studio parle quand à lui de « faute grave » → https://actugaming.net/--767990
+» 🇬🇧 [PC Gamer / 1er nov. 2025] Rockstar accused of 'the most ruthless act of union busting in the history of the UK games industry' after firing dozens of employees who were allegedly attempting to form a union. Rockstar parent Take-Two Interactive says all the employees in question were fired for "gross misconduct." → https://cutt.ly/Er5BqNjt
+
+» 🇺🇸 [IGN / 31 oct. 2025] Love and Deepspace devs respond to player complaints that their dark-skinned custom characters are invisible in cutscenes. The problem has existed since the game came out → https://cutt.ly/5r5VyElI
+» 🇺🇸 [Kotaku / 31 oct. 2025] One of the biggest games in the world responds to criticism that its dark-skinned characters are ‘invisible’. Love and Deepspace’s lighting is clearly not optimized for every skin tone → https://kotaku.com/--2000640537
+
+» 🇫🇷 [ActuGaming / 31 oct. 2025] Capcom fait le point sur Monster Hunter Stories 3: Twisted Reflection et ouvre les précommandes du jeu → https://actugaming.net/--767843
+
+» 🇫🇷 [ActuGaming / 31 oct. 2025] EA Sports FC 26 dévoile la deuxième équipe de l’événement Ultimate Scream → https://actugaming.net/--767920
+
+» 🇫🇷 [ActuGaming / 31 oct. 2025] Fortnite x Les Simpson : Un événement spécial prévu à 16h pour lancer cette mini-saison inédite → https://actugaming.net/--767856
+
+» 🇫🇷 [Gamekult / 31 oct. 2025] Anbernic RG DS : on comprend désormais pourquoi elle sera disponible pour un si bas prix → https://cutt.ly/hr5VLAPY
+
+» 🇫🇷 [Gamekult / 31 oct. 2025] Thief VR : Legacy of Shadow s'infiltrera sur nos consoles le 4 décembre → https://cutt.ly/lr5VDYlr
+
+» 🇫🇷 [MO5 / 31 oct. 2025] Notre Musée National du Jeu Vidéo ouvre ses portes à Arcueil en décembre → https://cutt.ly/ir5VAbcN
+» 🇫🇷 [Gamekult / 31 oct. 2025] Rétrogaming : l'association MO5.com ouvre un musée à Arcueil (Île-de-France) → https://cutt.ly/8r5VAEs8
+
+» 🇫🇷 [Gamekult / 31 oct. 2025] Fear Effect 2 : Retro Helix – le classique PlayStation revient sur consoles modernes en 2026. Des versions physiques prévue pour PS5 et Switch → https://cutt.ly/Lr5VP8Qg
+
+» 🇫🇷 [Gamekult / 31 oct. 2025] Avec Masters of Albion, Peter Molyneux veut regagner la confiance des joueurs (ce n'est pas gagné) → https://cutt.ly/Jr5VPy4J
+
+» 🇺🇸 [TheGamer / 31 oct. 2025] One of the most underrated horror games ever made has just been delisted from Steam and Xbox → https://cutt.ly/Fr5BrLGH
+» 🇬🇧 [PC Gamer / 31 oct. 2025] Condemned: Criminal Origins, the best game about beating people to death with a lead pipe I've ever played, has been delisted from Steam and Xbox, and fans are hoping that means a remaster is on the way. Monolith's classic brain-smasher was delisted on Halloween, and yeah, that might be a coincidence but I sure hope not → https://cutt.ly/or5BwfHB
+» ▶️ [YouTube / Nightdive Studios / 24 oct. 2025] Jace Hall on Blood and Monolith Productions → https://youtu.be/oMtRin0mnt4 (1 h 13 min)
+
+» 🇺🇸 [Games Industry / 31 oct. 2025] Roblox records "better than expected" Q3 results. Revenue up 48% to $1.35 billion, while bookings jump 70% to $1.92 billion → https://cutt.ly/Hr5VhAzx
+
+» 🇺🇸 [Games Industry / 31 oct. 2025] Another tech giant’s gaming ambitions bite the dust. The gutting of Amazon Games is tragic, but arguably a long time coming; like many tech giants, the company critically underestimated the complexity of succeeding in this market → https://cutt.ly/Ar5Vh3cV
+
+» 🇺🇸 [Games Industry / 31 oct. 2025] Which marketing channel provides the best return on investment for small publishers? Indie publisher insights on expos, community showcases, sponsored streams and paid ads → https://cutt.ly/Ur5Vjd5V
+
+» 🇺🇸 [Games Industry / 31 oct. 2025] Roblox has already paid out a billion dollars to creators in 2025. Roblox has already paid out a billion dollars to creators in 2025 → https://cutt.ly/ar5VjIcg
+
+
+» 🇫🇷 [ActuGaming / 1er nov. 2025] Lost in Random: The Eternal Die se met à jour gratuitement pour fêter Halloween → https://actugaming.net/--767854
+
+» 🇫🇷 [ActuGaming / 1er nov. 2025] Fatal Fury: City of the Wolves se prépare à accueillir Chun-Li de Street Fighter avec un DLC prévu pour cet hiver → https://actugaming.net/--767985
+
+» 🇫🇷 [ActuGaming / 1er nov. 2025] Fortnite : Les mascottes débarquent dès ce 1er novembre avec la saison dédiée aux Simpson → https://actugaming.net/--768066
+
+» 🇫🇷 [Gamekult / 1er nov. 2025] Spider-Man : la musique du film de Sam Raimi a servi à présenter Shadow of the Colossus à Sony → https://cutt.ly/Er5VOeHc
+
+» 🇫🇷 [Gamekult / 1er nov. 2025] Frostpunk : un jeu de rôle grandeur nature organisé en Pologne, pour survivre dans le vrai froid → https://cutt.ly/6r5VIH28
+
+» 🇫🇷 [Gamekult / 1er nov. 2025] Egging On, le jeu vous demande de faire un échapper un œuf de son poulailler → https://cutt.ly/mr5VIrYs
+
+» 🇫🇷 [Gamekult / 1er nov. 2025] Rockstar ne fera peut-être jamais Bully 2, mais les fans viennent de faire Bully Online. On n'est jamais mieux servi que par soi-même → https://cutt.ly/Yr5VUCiB
+» 🇬🇧 [PC Gamer / 1er nov. 2025] This wildly ambitious Bully mod adds online multiplayer, racing minigames and even a rat-based deathmatch, but the modders' demand for lunch money has fans worried about Rockstar's response. Available to the mod's Ko-Fi subscribers from December → https://cutt.ly/1r5BqjcK
+
+» 🇺🇸 [TheGamer / 1er nov. 2025] Mortal Kombat Legacy Kollection slammed with negative reviews for "embarassing" input delay and disappointing multiplayer → https://cutt.ly/jr5Ba4QV
+
+» 🇺🇸 [Automaton Media / 1er nov. 2025] “The glasses stay on.” Bayonetta’s most iconic design feature was in danger of being removed by publishers, but Hideki Kamiya refused to compromise. Celebrating the series' 16th anniversary, Hideki Kamiya shared the story of how he was dead-set on keeping Bayonetta's iconic glasses → https://cutt.ly/br5VYegO
+
+» 🇺🇸 [Automaton Media / 1er nov. 2025] Level-5 fans who won “day-one” free copies of game delayed into oblivion finally get to redeem it after 7 years. People who won free copies Inazuma Eleven; VIctory road back when it was slated for release in 2018 have been contacted by Level-5 → https://cutt.ly/7r5VYx7B
+
+» 🇺🇸 [Automaton Media / 1er nov. 2025] Resident Evil 7: Biohazard sells over 1 million units for eight consecutive years. According to Capcom, the game sold 1.14 million units just in the 6 months from April to September 2025 → https://cutt.ly/ir5VYFVF
+
+» 🇬🇧 [PC Gamer / 1er nov. 2025] The Dwarf Fortress of survival gaming has been in continual development for 33 years, and its creator doesn't think he'll ever stop updating it: 'When I accomplish one feature, I always have two more waiting'. UnReal World has been in development since 1992 → https://cutt.ly/Ir5BpaFX
+
+» 🇬🇧 [PC Gamer / 1er nov. 2025] Brendan Greene's open-world survival roguelike hikes into early access later this month, and it'll actually let you save your run through its brutal wilderness. The launch version also brings extra game modes and a map editor → https://cutt.ly/Or5BqQ46
+
+» 🇬🇧 [PC Gamer / 1er nov. 2025] GOG's preservation program now includes Splinter Cell, Resident Evil HD and, er, Spore, while you can also get 95% off XCOM 2 in its Autumn Sale. The Witcher 3 is also going cheap, as ever → https://cutt.ly/ir5BqiJf
+
+» 🇬🇧 [PC Gamer / 1er nov. 2025] Beloved boomer shooter Dusk celebrates coming to Xbox with new 'Dusk Gulch' level riffing on Halo's best multiplayer map → https://cutt.ly/Sr5V670i
+
+» 🇬🇧 [GamesRadar+ / 1er nov. 2025] The Witcher author has an "excellent" deal with The Witcher 4 devs, but it's "rare" for CD Projekt to ask him for advice anymore. "Let's hope it stays that way" → https://cutt.ly/Ur5V5G7K
+» 🇬🇧 [PC Gamer / 1er nov. 2025] Andrzej Sapkowski say these days 'it's so rare' for CD Projekt Red to ask him about Witcher lore. They haven't been quizzing him during development of The Witcher 4. → https://cutt.ly/cr5V5Xg5
+
+» 🛍️ [ebten] 『龍が如く８外伝 Pirates in Hawaii』　フィギュア　キャプテン真島（真島吾朗）　 限定特典付き | 22,000円 → https://ebten.jp/p/7015026093901
+» 🇯🇵 [Famitsu / 1er nov. 2025] 『龍が如く8外伝』1/7スケールのキャプテン真島フィギュア予約受付中。セガストアオンラインでは「ゴロー海賊団！」のセリフアクスタと手配書ポスターも付いてくる (Now accepting pre-orders for the 1/7 scale Captain Majima figure from “Ryu ga Gotoku 8 Gaiden”. The Sega Store Online also comes with a line axta from "Goro Pirates!" and a wanted poster.) → https://famitsu.com/article/202510/56639
+
+» 🇯🇵 [Famitsu / 1er nov. 2025] 『ドラクエ1＆2』堀井雄二氏×早坂P対談をお届け。HD-2D版の追加要素で新たな“ロト三部作”の結末はどうなる？ ローラ姫イベントにロンダルキアへの洞窟は？ 気になるポイントを語りつくす【ドラゴンクエストI＆II】 ("Dragon Quest 1 & 2" Yuji Horii x P Hayasaka talk. What will be the ending of the new “Lotto Trilogy” with the additional elements of the HD-2D version? Is there a cave to Rondalkia in the Princess Laura event? Discussing all the important points) → https://famitsu.com/article/202511/56367
+
+
+» TimeSplitters Rewind → https://timesplittersrewind.com
+» 🇫🇷 [FactorNews / 31 oct. 2025] TimeSplitters : Earth, Rewind & Fire → https://cutt.ly/3r54nKnw
+» 🇫🇷 [Gamekult / 2 nov. 2025] Les trois TimeSplitters reviennent dans ce projet fanmade gratuit et imminent → https://cutt.ly/Zr54bybF
+
+» ▶️ [YouTube / Babymetal / 2 nov. 2025] Babymetal x Resident Evil 30th anniversary → https://youtu.be/zXfr3dCHeks
+» 🇯🇵 [Famitsu / 2 nov. 2025] 『BABYMETAL』と『バイオハザード』のコラボグッズの製作が決定。『バイオハザード ヴィレッジ』のドミトレスク夫人がYouTube動画で発表。『バイオ』30周年記念 → https://famitsu.com/article/202511/56741
+
+» 🇬🇧 [PC Gamer / 2 nov. 2025] Reliably good puzzle game-maker Draknek and Friends just released a spooky new game. Draknek just doesn't really fail us, do they? → https://cutt.ly/2r6wsMof
+
+» 🇬🇧 [PC Gamer / 2 nov. 2025] Doom designer Sandy Petersen alleges former Xbox boss Don Mattrick killed Ensemble Studios and its Halo MMO to protect his personal stock bonus: 'Don started as an EA hatchet man so what would you expect?' → https://cutt.ly/2r6wskt2
+
+» 🇬🇧 [PC Gamer / 2 nov. 2025] Remedy is 'not satisfied' with its Q3 results after FBC: Firebreak's flop, and has 'moved development resources' to other games in production. The Finnish studio is running at an operating loss of €16.4 million → https://cutt.ly/sr6wsyYU
+
+» 🇬🇧 [PC Gamer / 2 nov. 2025] Arc Raiders players stuck in login queues and long matchmaking times as it blows past its Steam player peak of 330,000. The servers are struggling to keep up as players flood in → https://cutt.ly/hr6wa9fa
+
+» 🇬🇧 [PC Gamer / 2 nov. 2025] Mortal Kombat: Legacy Kollection launches to mixed reviews on Steam. The Mortal Kombat kommunity has a lot of komplaints → https://cutt.ly/Br6waLsX
+
+
+
+
+» 🇫🇷 [ActuGaming / 3 nov. 2025] 
+
+» 🇫🇷 [Gamekult / 3 nov. 2025] 
+
+» 🇬🇧 [PC Gamer / 2 nov. 2025] 
+
+» 🇺🇸 [Automaton Media / 1er nov. 2025] 
 
 » 🇺🇸 [IGN / 28 oct. 2025] 
 » 🇫🇷 [IGN France / 28 oct. 2025] 
 
-» 🇺🇸 [Kotaku / 28 oct. 2025] 
+» 🇺🇸 [Kotaku / 29 oct. 2025] 
 
-» 🇺🇸 [Time Extension / 27 oct. 2025] 
+» 🇺🇸 [Time Extension / 31 oct. 2025] 
 
 
 
@@ -7171,6 +7456,7 @@ https://cutt.ly/fr89LC70Warner Bros. Discovery envisage plusieurs offres de rach
 » 🇬🇧 [VGC / xxx] 
 » 🇬🇧 [Eurogamer / xxx] 
 » 🇬🇧 [PC Gamer / xxx] 
+» 🇦🇺 [twiv / xxx] 
 » 🇺🇸 [IGN / xxx] 
 » 🇺🇸 [Gematsu / xxx] 
 » 🇺🇸 [Games Industry / xxx] 
