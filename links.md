@@ -7177,6 +7177,7 @@ https://cutt.ly/fr89LC70Warner Bros. Discovery envisage plusieurs offres de rach
 
 » 🇬🇧 [GamesRadar+ / 29 oct. 2025] Final Fantasy 7 Rebirth director knows there's a debate around yellow paint in games, but says "there is definitely a need for that kind of thing" and the only real question is "about how it's done". Take it from Naoki Hamaguchi: "I get there is a debate about that ... That's fine, but I think there is definitely a need" → https://cutt.ly/Kr70OVM6
 » 🇺🇸 [Kotaku / 29 oct. 2025] Final Fantasy VII Rebirth director says there are times when yellow paint is ‘definitely needed’. The eyesores are sometimes necessary, he argues → https://kotaku.com/--2000639876
+» 🇫🇷 [ActuGaming / 3 nov. 2025] Le réalisateur de Final Fantasy VII Rebirth ne serait pas contre produire un jeu AA à l’échelle de Clair Obscur: Expedition 33 → https://actugaming.net/--768660
 
 » 🇺🇸 [Kotaku / 29 oct. 2025] Microsoft outage temporarily derails Outer Worlds 2 launch. The developers ask for patience as fans struggle to download the latest Game Pass release → https://kotaku.com/--2000639920
 
@@ -7271,6 +7272,7 @@ https://microsoft.gcs-web.com/static-files/b0a66351-38cf-4147-a907-191d774531bb
 » 🇺🇸 [CODA / 28 oct. 2025] CODA Issues Written Request to OpenAI Regarding Sora 2 → https://coda-cj.jp/en/news/817/
 » 🇺🇸 [Automaton Media / 30 oct. 2025] Sony’s Aniplex, Bandai Namco and other Japanese publishers demand end to unauthorized training of OpenAI’s Sora 2 through CODA. Major Japanese anime, game and manga publishers have lodged a written request to OpenAI regarding the use of their content for machine learning → https://cutt.ly/Rr5ViReX
 » 🇺🇸 [IGN / 31 oct. 2025] Japanese organization representing the likes of Bandai Namco, Square Enix, and Studio Ghibli demands OpenAI ceases unauthorized training of Sora 2 on their IPs. What next for Sam Altman's "interactive fan fiction?" → https://cutt.ly/Jr5VozI6
+» 🇫🇷 [ActuGaming / 3 nov. 2025] Bandai Namco, Square Enix et d’autres studios japonais s’associent pour lutter contre l’utilisation de leurs licences par l’IA → https://actugaming.net/--768665
 
 » 🇺🇸 [Deadline / 30 oct. 2025] Taylor Sheridan And Peter Berg Team On Paramount And Activision’s ‘Call Of Duty’ Movie → https://deadline.com/2025/10/--1236602997/
 » 🇫🇷 [ActuGaming / 31 oct. 2025] Le film Call of Duty a trouvé ses scénaristes et son réalisateur, avec le créateur de la série Yellowstone → https://actugaming.net/--767800
@@ -7326,6 +7328,7 @@ https://microsoft.gcs-web.com/static-files/b0a66351-38cf-4147-a907-191d774531bb
 » 🇺🇸 [Kotaku / 31 oct. 2025] GTA 6 denies union busting after firing dozens of developers. Rockstar Games says they were fired for 'gross misconduct' → https://kotaku.com/--2000640525
 » 🇫🇷 [ActuGaming / 1er nov. 2025] GTA 6 : Rockstar aurait viré 30 à 40 personnes qui cherchaient à se syndiquer, le studio parle quand à lui de « faute grave » → https://actugaming.net/--767990
 » 🇬🇧 [PC Gamer / 1er nov. 2025] Rockstar accused of 'the most ruthless act of union busting in the history of the UK games industry' after firing dozens of employees who were allegedly attempting to form a union. Rockstar parent Take-Two Interactive says all the employees in question were fired for "gross misconduct." → https://cutt.ly/Er5BqNjt
+» 🇫🇷 [Gamekult / 3 nov. 2025] Presque 6 mois avant GTA 6, Rockstar est accusé d'avoir licencié plus d'une trentaine d'employés pour leur activité syndicale → https://cutt.ly/Xr6luPRL
 
 » 🇺🇸 [IGN / 31 oct. 2025] Love and Deepspace devs respond to player complaints that their dark-skinned custom characters are invisible in cutscenes. The problem has existed since the game came out → https://cutt.ly/5r5VyElI
 » 🇺🇸 [Kotaku / 31 oct. 2025] One of the biggest games in the world responds to criticism that its dark-skinned characters are ‘invisible’. Love and Deepspace’s lighting is clearly not optimized for every skin tone → https://kotaku.com/--2000640537
@@ -7418,20 +7421,66 @@ https://microsoft.gcs-web.com/static-files/b0a66351-38cf-4147-a907-191d774531bb
 » 🇬🇧 [PC Gamer / 2 nov. 2025] Mortal Kombat: Legacy Kollection launches to mixed reviews on Steam. The Mortal Kombat kommunity has a lot of komplaints → https://cutt.ly/Br6waLsX
 
 
+» 🇫🇷 [ActuGaming / 3 nov. 2025] ARC Raiders : Après un lancement réussi, voici ce que le jeu proposera dans les semaines à venir → https://actugaming.net/--768656
+
+» ▶️ [YouTube / Canonical Ubuntu / 23 oct. 2025] Ubuntu Summit 25.10 | Day One → https://youtu.be/bEEamxJ60aI?t=2746
+» 🇺🇸 [Futurism / 31 oct. 2025] Hacker gets “Doom” running on satellite in outer space. "The point was to break the curse of being too risk-averse with multi-million-dollar spacecraft." → https://cutt.ly/Nr6kYy5r
+» 🇺🇸 [tom's horware / 1er nov. 2025] Programmer installed and ran Doom on an orbiting European Space Agency satellite → https://cutt.ly/sr6kWktE
+» 🇺🇸 [Kotaku / 3 nov. 2025] Some super clever folks got Doom running on a goddamn satellite. It’s so much cooler than the Voyager Golden Record → https://kotaku.com/--2000640805
+» 🇫🇷 [Numerama / 3 nov. 2025] Oui, Doom est aussi jouable sur un satellite en orbite → https://cutt.ly/vr6kYQc0
+
+» 🇺🇸 [Kotaku / 3 nov. 2025] A surprise departure shows the problem with the Game Pass ‘backlog’.  S.T.A.L.K.E.R. 2: Heart of Chornobyl is leaving just a year after launch → https://kotaku.com/--2000640806
+
+» 🇺🇸 [Kotaku / 3 nov. 2025] Pokémon Legends: Z-A fans have discovered one of the most elaborate shiny-hunting exploits I’ve Ever Seen. Players found a way to shiny hunt six Alpha Pokémon at once → https://kotaku.com/--2000640814
+
+» 🇺🇸 [Kotaku / 3 nov. 2025] Battlefield 6 data reveals how small its maps are compared to past games. One person ran the numbers and figured out that EA's latest shooter has some of the smallest maps in the series → https://kotaku.com/--2000640803
+» 🇺🇸 [Kotaku / 3 nov. 2025] Why Battlefield 6 maps feel so dang tiny. Despite the maps in EA's new shooter being about the same size as those in BF1, the scale of the two feels drastically different → https://kotaku.com/--2000640832
+
+» 🇺🇸 [TheGamer / 2 nov. 2025] Arc Raiders has unique way to counter cheaters and unfair play → https://cutt.ly/Ur6kIQSF
+» 🇺🇸 [Kotaku / 3 nov. 2025] Arc Raiders devs are refunding loot lost to cheaters. You should still pack carefully, but rest assured encountering a hacker won’t be a total loss → https://kotaku.com/--2000640831
+
+» 🇺🇸 [IGN / 3 nov. 2025] 'Contact me' — Cyberpunk creator Mike Pondsmith tells Keanu Reeves he has ways to bring Johnny Silverhand back from the dead for Cyberpunk 2 → https://cutt.ly/8r6kPaOb
+» 🇫🇷 [IGN France / 3 nov. 2025] "Contacte-moi" — Mike Pondsmith, le créateur de Cyberpunk, assure à Keanu Reeves qu’il a des moyens de faire revenir Johnny Silverhand d’entre les morts pour Cyberpunk 2 → https://cutt.ly/vr6kPTZp
+» 🇺🇸 [Kotaku / 3 nov. 2025] Cyberpunk creator tells Keanu Reeves to ‘contact’ him about bringing his character back. Johnny Silverhand’s story was pretty much done, no matter what you did in 2077 → https://kotaku.com/--2000640870
+
+» ▶️ [YouTube / Obsidian Entertainement / 3 nov. 2025] Pillars of Eternity – Turn-based mode beta announcement trailer → https://youtu.be/_Mj6HObhD_8 (3 min)
+» 🇺🇸 [Kotaku / 3 nov. 2025] Turn-based combat is finally coming to this 10-year-old RPG. Pillars of Eternity will start testing the new mode soon → https://kotaku.com/--2000640875
+
+» 🇺🇸 [FRVR / 3 nov. 2025] The Sims designer says that the series’ diversity is “critical, especially at times like now” as the games must recognise “the fundamental truths of our humanity” to stay successful → https://cutt.ly/1r6lrjzD
+» 🇺🇸 [Kotaku / 3 nov. 2025] Ex-Sims director says that same-sex relationships must remain in the series after Saudi Arabia acquisition. Fans are worried about the series’ future after EA’s $55 billion acquisition by Saudi Arabia and Trump’s son-in-law → https://kotaku.com/--2000640899
+
+» 🇺🇸 [Game File / 3 nov. 2025] EA says it will retain “creative control,” should it sell to Saudi-backed consortium. A month after announcing the pending $55 billion debt-financed sale, EA offers some updates and clarifications → https://cutt.ly/0r6ltUwC
+» 🇺🇸 [Games Industry / 3 nov. 2025] EA insists it will "maintain creative control" and "creative freedom" if sale to consortium goes ahead. "The Consortium believes in our vision, our leadership and our focus on creating games" → https://cutt.ly/1r6lyqme
+
+» 🇺🇸 [Kotaku / 3 nov. 2025] MLB Slugfest 2003 jokes rejected by MLB are now available online. The Video Game History Foundation has archived some unused audio lines from the arcade baseball game → https://kotaku.com/--2000640898
+
+» 🇬🇧 [VGC / 3 nov. 2025] The original Saints Row’s design director says he’s been ‘asked to create a pitch’ for a potential prequel. Chris Stockman previously said the Saints Row reboot was “a terrible idea” → https://cutt.ly/wr6kxZJ0
+» 🇺🇸 [PCGamesN / 1er nov. 2025] A Saints Row prequel going "back to its roots" might actually happen, as its original director works on a pitch "to get the band back together". Original Saints Row director Chris Stockman tells us he wants to take the GTA rival back to the start, as he works on a prequel pitch → https://cutt.ly/or6kcUw7
+» 🇫🇷 [ActuGaming / 3 nov. 2025] L’ancien design director du premier Saints Row aurait été sollicité pour produire un pitch concernant un nouvel épisode → https://actugaming.net/--768688
+
+» 🇫🇷 [PlayStation Blog / 3 nov. 2025] La campagne « Ça se passe sur PS5 » met à l’honneur les moments inattendus et inoubliables que la PS5 a à offrir. La nouvelle publicité internationale commence cette semaine → https://cutt.ly/br6kvuS6
+» 🇫🇷 [ActuGaming / 3 nov. 2025] Pour ses fêter ses 5 ans, la PS5 a droit à une nouvelle campagne publicitaire → https://actugaming.net/--768697
+
+» ▶️ [YouTube / Lex Fridman / 31 oct. 2025] Dan Houser: GTA, Red Dead Redemption, Rockstar, Absurd & Future of Gaming → https://youtu.be/o3gbXDjNWyI (2 h 45 min)
+» 🇬🇧 [VGC / 3 nov. 2025] ‘I don’t think it works’: GTA writer Dan Houser says Rockstar’s Agent never happened because spy games don’t suit open-world. Houser says he went through five iterations of Agent before giving up → https://cutt.ly/Wr6kbjjJ
+» 🇫🇷 [ActuGaming / 3 nov. 2025] Agent : Voici pourquoi le jeu d’espionnage de Rockstar n’a jamais vu le jour selon Dan Houser → https://actugaming.net/--768743
+
+» 🇬🇧 [PC Gamer / 3 nov. 2025] As players debate whether to purchase Possessor(s) after Heart Machine lays off staff a week before launch, its creators and publisher respond: 'As a developer who is slated for lay off—please buy this game!' "IF no one does this…I really just wasted 3 damn years of my life." → https://cutt.ly/9r6loDFo
+
 
 
 » 🇫🇷 [ActuGaming / 3 nov. 2025] 
 
 » 🇫🇷 [Gamekult / 3 nov. 2025] 
 
-» 🇬🇧 [PC Gamer / 2 nov. 2025] 
+» 🇬🇧 [PC Gamer / 3 nov. 2025] 
 
 » 🇺🇸 [Automaton Media / 1er nov. 2025] 
 
-» 🇺🇸 [IGN / 28 oct. 2025] 
-» 🇫🇷 [IGN France / 28 oct. 2025] 
+» 🇺🇸 [IGN / 3 nov. 2025] 
+» 🇫🇷 [IGN France / 3 nov. 2025] 
 
-» 🇺🇸 [Kotaku / 29 oct. 2025] 
+» 🇺🇸 [Kotaku / 3 nov. 2025] 
 
 » 🇺🇸 [Time Extension / 31 oct. 2025] 
 
