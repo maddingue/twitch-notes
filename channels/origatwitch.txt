@@ -15957,6 +15957,7 @@ raids : OrigaTwitch => (00:06)[+95] RufusxShinra => (01:15)[+31] MrRaashi => (01
 » 🇫🇷 [Mediapart / 18 oct. 2025] Quantic Dream perd en cassation contre un ancien cadre. Plus de huit ans après les faits, l’ancien chef du service informatique du célèbre studio français de jeu vidéo a obtenu gain de cause auprès de la Cour de cassation. Il avait quitté précipitamment l’entreprise après la révélation de montages orduriers, dont certains le représentaient. → https://cutt.ly/Rr3XWePK
 
 
+
 --------------------------------------
 2025-10-28
 
@@ -16164,6 +16165,88 @@ raids entrants :
 - DamDamLive à 14:33 +523
 
 raids : OrigaTwitch => (15:25)[+638] DollyWood_ => (17:58)[+131] JVleMag => (19:09)[+45] mamapaprika (terminé à 22:20)
+
+
+--------------------------------------
+2025-11-03
+
+excuses de sac :
+- mais y a pas une délai de bâtard sur les coups qu'on met là ? (Moguri, Lethal League Blaze)
+- j'ai jamais joué à c'jeu, j'en ai aucune idée (Hoopy, Lethal League Blaze)
+- ah j'ai pas fait exprès (Moguri, Lethal League Blaze)
+- j'oublie à chaque fois qu'il passe dans le mur (Padre, Lethal League Blaze)
+- je ne vais pas pouvoir fournir ce genre de spectacle (Gautoz, Lethal League Blaze)
+- je ne sais pas pourquoi ça fait ça, je ne touche à rien (Gautoz, Lethal League Blaze)
+- je comprends rien à ce jeu (LaLinosse, Lethal League Blaze)
+- ils ont expliqué tout à l'heure, j'avais pas trop envie de comprendre (Padre, Heavenly Bodies)
+- de toute façon cette station spatiale j'ai pas tout compris (Moguri, Heavenly Bodies)
+- j'ai pas pensé à ça !!! (Hoopy, Heavenly Bodies)
+- mais je voulais aider !! (Gautoz, Heavenly Bodies)
+
+raids entrants :
+- tpk_live à 22:13 +269
+- Modiiie à 22:51 +326
+
+
+
+--------------------------------------
+2025-11-04
+
+# Mardinale #63
+## Actus
+### Paris Games Week 2025 : le retour du retour du retour
+» 🇫🇷 [ActuGaming / 29 avril 2025] Paris Games Week 2025 : le salon du jeu vidéo français se donne un nouveau souffle avec une organisation repensée → https://actugaming.net/a-724440
+» 🇫🇷 [France Info / 31 oct. 2025] E-sport : "Chez les 18-30 ans, ça surpasse l’audience de bien des sports", s'enthousiasme le directeur de la Paris Games Week. De jeudi à dimanche, la Paris Games Week s'établit porte de Versailles pour laisser place au plus grand salon du jeu vidéo en France → https://cutt.ly/2r6DwnXI
+» 🇫🇷 [France Inter / 31 oct. 2025] James Rebours : "Le jeu vidéo a de très belles couleurs en 2025". James Rebours, président du SELL, le Syndicat des éditeurs de logiciels de loisirs, à l'occasion de l'ouverture de la Paris Games Week, plus grand salon du jeu vidéo en France → https://cutt.ly/Dr6Dw7rV
+» 🇫🇷 [France Inter / 1er nov. 2025] Paris Games Week 2023 : "Le jeu vidéo est au moins aussi légitime que la musique et le cinéma". Pour le directeur général du salon du jeu vidéo français, qui lance ce mercredi sa douzième édition, les Français continuent à plébisciter le média. Même si le marché de la production de jeu vidéo connaît, comme partout dans le monde, des difficultés, particulièrement pour ses acteurs plus modestes. → https://cutt.ly/Fr6DeUog
+» 🇫🇷 [Les Échos / 3 nov. 2025] Paris Games Week : premier événement réussi pour le tandem GL Events - Fimalac. La Paris Games Week a attiré près de 161.000 visiteurs pour sa 14e édition, coproduite par ces poids lourds des salons et du divertissement. L'événement, étendu et enrichi, a marqué un tournant pour ce salon historique du jeu vidéo → https://cutt.ly/Cr6S5r6t
+
+### PGW : Jeux Made In France devient Game France (et ça change quoi ?)
+» 🇫🇷 [Paris Games Week] Pavillon Games France — Découvrez le meilleur des jeux vidéos français → https://cutt.ly/Ar6DyUQD
+» Gamearly → https://gamearly.com
+
+### MO5 va ouvrir un Musée National du Jeu Vidéo
+» 🇫🇷 [MO5 / 31 oct. 2025] Notre Musée National du Jeu Vidéo ouvre ses portes à Arcueil en décembre → https://cutt.ly/ir5VAbcN
+» 🇫🇷 [Gamekult / 31 oct. 2025] Rétrogaming : l'association MO5.com ouvre un musée à Arcueil (Île-de-France) → https://cutt.ly/8r5VAEs8
+
+» ▶️ [YouTube / Origami / 3 nov. 2025] Stunfest 2025 : rencontre avec les orgas pour parler du retour → https://youtu.be/ac5jU-hPyLQ (7 min)
+
+### Faut-il acheter Possessor(s) : Heart Machine licencie encore
+» 🇺🇸 [Game Developer / 30 oct. 2025] Possessor(s) dev Heart Machine lays off more staff two weeks before the game's launch. Following a wave of layoffs at the beginning of October, multiple devs have reportedly been laid off this week, with seemingly more to follow once Possessor(s) launches on November 11 → https://cutt.ly/ur5VsPX1
+» 🇺🇸 [Games Industry / 30 oct. 2025] Heart Machine lays off more staff for the second time this month, two weeks before launch. "Heart Machine has just laid off a bunch more people, effective immediately" → https://cutt.ly/8r5Vdslp
+» 🇫🇷 [ActuGaming / 30 oct. 2025] L’hécatombe continue chez Heart Machine, juste avant le lancement de son prochain jeu Possessor(s) → https://actugaming.net/--767731
+» 🇫🇷 [Gamekult / 30 oct. 2025] À deux semaines de Possessor(s), le studio Heart Machine continue de se désintégrer → https://cutt.ly/or5VVONI
+
+» 🇬🇧 [PC Gamer / 3 nov. 2025] As players debate whether to purchase Possessor(s) after Heart Machine lays off staff a week before launch, its creators and publisher respond: 'As a developer who is slated for lay off—please buy this game!' "IF no one does this…I really just wasted 3 damn years of my life." → https://cutt.ly/9r6loDFo
+
+» 💬 serveur Discord de Heart Machine → https://discord.gg/heartmachine
+
+» fil de discussion 💬
+
+### Rockstar aurait licencié des aspirants syndicalistes à ce seul motif
+» 🇺🇸 [Bloomberg / 31 oct. 2025] **‘Grand Theft Auto’ studio accused of union busting after firings.** Union says between 30 and 40 people were terminated. Rockstar Games’ parent company cites ‘gross misconduct’ → <https://cutt.ly/Tr5CvpCt>
+» 🇬🇧 [IWGB / 31 oct. 2025] **Staff at Grand Theft Auto VI developer Rockstar fired en masse in “calculated attack on workers”** → <https://cutt.ly/0r6SXl8Y>
+» 🇺🇸 [Kotaku / 31 oct. 2025] **GTA 6 denies union busting after firing dozens of developers.** Rockstar Games says they were fired for 'gross misconduct' → <https://kotaku.com/--2000640525>
+» 🇫🇷 [ActuGaming / 1er nov. 2025] **GTA 6 : Rockstar aurait viré 30 à 40 personnes qui cherchaient à se syndiquer, le studio parle quand à lui de « faute grave »** → <https://actugaming.net/--767990>
+» 🇬🇧 [PC Gamer / 1er nov. 2025] **Rockstar accused of 'the most ruthless act of union busting in the history of the UK games industry' after firing dozens of employees who were allegedly attempting to form a union.** Rockstar parent Take-Two Interactive says all the employees in question were fired for "gross misconduct." → <https://cutt.ly/Er5BqNjt>
+» 🇫🇷 [Gamekult / 3 nov. 2025] **Presque 6 mois avant GTA 6, Rockstar est accusé d'avoir licencié plus d'une trentaine d'employés pour leur activité syndicale** → <https://cutt.ly/Xr6luPRL>
+» 🇺🇸 [Instagram / SAG-AFTRA / 3 nov. 2025] <https://instagram.com/p/DQnUrjQjFvJ/>
+> SAG-AFTRA stands in solidarity with the IWGB Game Workers Union exercising their right to organize following reports of union-busting at Rockstar. Our members’ union performances on Rockstar games are an integral part of the success and legacy of games like Grand Theft Auto. All Rockstar workers deserve the same. We are in this fight together.
+
+» 🇫🇷 [France Culture / 1er nov. 2025] **Jeux vidéo, lutte des classes en studio** → <https://cutt.ly/1r6SZWS7>
+- 📗 _Consoles, contrôle, classe_, 240 p., par Jamie Woodcock, traduction par Julien Guazzini, paru le 17 oct. 2025 aux éditions Sans Soleil, 19 € en édition papier (ISBN 9782957950089)
+
+### Dispatch et Arc Raiders démarrent fort
+» 🇫🇷 [ActuGaming / 4 nov. 2025] Dispatch : Le jeu narratif séduit et célèbre déjà son premier million d’exemplaires vendus → https://actugaming.net/--768776
+
+» 🇫🇷 [ActuGaming / 30 oct. 2025] ARC Raiders est désormais disponible, et comme tous les shooters populaires, les serveurs peinent à tenir le choc → https://actugaming.net/--767698
+» 🇫🇷 [Gamekult / 31 oct. 2025] ARC Raiders réalise un départ canon, pendant qu'Embark planche déjà sur deux autres projets → https://cutt.ly/nr5VPSFA
+» 🇬🇧 [PC Gamer / 2 nov. 2025] Arc Raiders players stuck in login queues and long matchmaking times as it blows past its Steam player peak of 330,000. The servers are struggling to keep up as players flood in → https://cutt.ly/hr6wa9fa
+» 🇫🇷 [ActuGaming / 3 nov. 2025] ARC Raiders : Après un lancement réussi, voici ce que le jeu proposera dans les semaines à venir → https://actugaming.net/--768656
+
+### Une série photo exquise à découvrir
+» 📷 [Niccolò Rastrelli] They don't look like me → https://niccolorastrelli.com/they-dont-look-like-me
+
 
 
 
