@@ -7404,7 +7404,7 @@ https://microsoft.gcs-web.com/static-files/b0a66351-38cf-4147-a907-191d774531bb
 
 » ▶️ [YouTube / Canonical Ubuntu / 23 oct. 2025] Ubuntu Summit 25.10 | Day One → https://youtu.be/bEEamxJ60aI?t=2746
 » 🇺🇸 [Futurism / 31 oct. 2025] Hacker gets “Doom” running on satellite in outer space. "The point was to break the curse of being too risk-averse with multi-million-dollar spacecraft." → https://cutt.ly/Nr6kYy5r
-» 🇺🇸 [tom's horware / 1er nov. 2025] Programmer installed and ran Doom on an orbiting European Space Agency satellite → https://cutt.ly/sr6kWktE
+» 🇺🇸 [tom's hardware / 1er nov. 2025] Programmer installed and ran Doom on an orbiting European Space Agency satellite → https://cutt.ly/sr6kWktE
 » 🇺🇸 [Kotaku / 3 nov. 2025] Some super clever folks got Doom running on a goddamn satellite. It’s so much cooler than the Voyager Golden Record → https://kotaku.com/--2000640805
 » 🇫🇷 [Numerama / 3 nov. 2025] Oui, Doom est aussi jouable sur un satellite en orbite → https://cutt.ly/vr6kYQc0
 
@@ -7681,6 +7681,7 @@ https://microsoft.gcs-web.com/static-files/b0a66351-38cf-4147-a907-191d774531bb
 
 » 🇺🇸 [Game Developer / 6 nov. 2025] The Game Awards' Future Class program remains on ice. Has Geoff Keighley made Future Class a thing of the past? → https://cutt.ly/WtqsiKwI
 » 🇺🇸 [Kotaku / 6 nov. 2025] The Game Awards Deletes Its Future Class. A program promoting rising stars in the video game industry has been quietly erased → https://kotaku.com/--2000641757
+» 🇬🇧 [The Guardian / 11 nov. 2025] ‘We were effectively props’: young stars of game development feel let down by the ‘gaming Oscars’. Announced in 2020 by the Game Awards as an inclusive programme for the industry’s next generation, the Future Class initiative has now been discontinued. Inductees describe clashes with organisers and a lack of support from the beginning → https://cutt.ly/gtwlCe1J
 
 
 » 🇯🇵 [Marvelous / 31 oct. 2025] 2026年3月期 第2四半期（中間期） — 決算説明資料 → https://cutt.ly/jtqsJMYY
@@ -7807,7 +7808,10 @@ https://microsoft.gcs-web.com/static-files/b0a66351-38cf-4147-a907-191d774531bb
 
 » 🇺🇸 [GQ / 10 nov. 2025] Todd Howard on 10 years of Fallout 4 and The Elder Scrolls 6: 'We needed a creative reset'. A decade on from its Game of the Year-winning triumph, Todd Howard reminisces on how Fallout 4 changed Bethesda Game Studios, its TV show adaptation and playtesting The Elder Scrolls 6 → https://cutt.ly/ItwibZVS
 » 🇺🇸 [Kotaku / 10 nov. 2025] Bethesda says Oblivion Remaster shadow dropping was a successful ‘test run’. Fallout 4 game director Todd Howard says Elder Scrolls 6 is still a long way off → https://kotaku.com/--2000642434
+» 🇺🇸 [IGN / 10 nov. 2025] Todd Howard reveals why he thinks Fallout 4's divisive dialogue system 'really did not resonate' → https://cutt.ly/otwvyxQX
+» 🇫🇷 [IGN France / 10 nov. 2025] Todd Howard explique pourquoi le système de dialogues controversé de Fallout 4 "n'a pas vraiment trouvé son public" → https://cutt.ly/ItwvyYfy
 » 🇫🇷 [ActuGaming / 10 nov. 2025] The Elder Scrolls VI est encore loin d’être terminé, et c’est Todd Howard qui l’avoue → https://actugaming.net/--769410
+» 🇫🇷 [Gamekult / 11 nov. 2025] The Elder Scrolls 6 est « encore très loin » de voir le jour, confirme Todd Howard → https://cutt.ly/dtwjroOm
 
 » 🇫🇷 [ActuGaming / 10 nov. 2025] Ghost of Yotei est en tête des ventes sur le PS Store au Japon en octobre, mais en Occident, Battlefield 6 est devant → https://actugaming.net/--769441
 
@@ -7833,6 +7837,8 @@ https://microsoft.gcs-web.com/static-files/b0a66351-38cf-4147-a907-191d774531bb
 » 🇺🇸 [Kotaku / 10 nov. 2025] Your first look at Yoshi in the Mario Galaxy movie comes from a box of cookie dough. Mario’s dinosaur steed was teased in the first movie’s post-credits scene → https://kotaku.com/--2000642406
 
 » 🇺🇸 [Kotaku / 10 nov. 2025] Arc Raiders just leapfrogged Helldivers 2’s all-time Steam record. The call of ‘get in, shoot things, collect trash, get out’ is proving irresistible for many → https://kotaku.com/--2000642410
+» 🇺🇸 [Gematsu / 11 nov. 2025] ARC Raiders sales top four million. Over 700,000 concurrent players this past weekend → https://cutt.ly/dtws7gWQ
+» 🇫🇷 [ActuGaming / 11 nov. 2025] ARC Raiders continue sur sa bonne lancée et dépasse les 4 millions d’exemplaires → https://actugaming.net/--769469
 
 » 🇺🇸 [Kotaku / 10 nov. 2025] Nintendo reveals its Black Friday deals and they aren’t great. It's slim pickings for those hoping to snag a great deal from the Switch 2 maker this holiday season → https://kotaku.com/--2000642413
 
@@ -7854,11 +7860,15 @@ https://microsoft.gcs-web.com/static-files/b0a66351-38cf-4147-a907-191d774531bb
 
 » 🇺🇸 [Kotaku / 10 nov. 2025] This game tests if people know how much porn characters have on the internet, and they’re failing. Rule34dle is exactly what it sounds like, and it’s terrifying → https://kotaku.com/--2000642575
 
+» 🇺🇸 [Kotaku / 10 nov. 2025] Diablo 4 in China censored, blood and skeletons removed. A large skeleton boss found in Blizzard's action RPG is made out of rocks in the upcoming Chinese version → https://kotaku.com/--2000642581
+» 🇫🇷 [Gamekult / 11 nov. 2025] Diablo 4 en Chine, oui, mais pas sans censure → https://cutt.ly/ptwxSAy5
+
 » 🇬🇧 [PC Gamer / 10 nov. 2025] Larian publishing director says Steam is dominant because 'It isn't providing a s*** service defined by public shareholder KPIs,' but concedes 'A post-Gabe world is a terrifying one' → https://cutt.ly/8twoiWsp
 
 » 🇺🇸 [UniCourt / 8 nov. 2024] Marks Capital, Inc., a Delaware Corporation vs Harry Strauss Zelnick → https://cutt.ly/Etwoaem0
 » 🇫🇷 [Rockstar Mag' / 10 nov. 2025] Take Two Interactive | Le PDG Strauss Zelnick serait visé par une plainte pour harcèlement sexuel, fraude et abus de pouvoir → https://cutt.ly/XtwopJZC
 » 🇫🇷 [IGN France / 10 nov. 2025] Strauss Zelnick, le boss de Take Two Interactive serait visé par une plainte pour harcèlement sexuel, fraude et abus de pouvoir. La sauce continue pour Take Two et semble prendre une dimension bien plus grave → https://cutt.ly/WtwopPNy
+» 🇫🇷 [FactorNews / 11 nov. 2025] Take-two : Strauss Zelnick visé par une plainte pour harcèlement sexuel et fraude → https://cutt.ly/jtwjtOsx
 
 » 🇬🇧 [PC Gamer / 10 nov. 2025] Grand Theft Auto 5 has now sold an incredible 220 million copies, with roughly 20 million in the last year alone → https://cutt.ly/ytwot626
 
@@ -7872,22 +7882,140 @@ https://microsoft.gcs-web.com/static-files/b0a66351-38cf-4147-a907-191d774531bb
 
 » 🇯🇵 [ITMedia / 10 oct. 2025] DeNA中間決算、ポケポケ効果継続で大幅増益　「AIにオールイン」の進捗具合は？ → https://cutt.ly/gtwozLzd
 
+» 🇺🇸 [Sony / 11 nov. 2025] Supplemental information for the consolidated financial results for the second quarter ended September 30, 2025 | 2025年度第２四半期連結業績補足資料 → https://cutt.ly/stws4Z7G
+» 🇺🇸 [Gematsu / 10 nov. 2025] PS5 shipments top 84.2 million; Ghost of Yotei sales top 3.3 million. 3.9 million units shipped during three months ended September 30, 2025 → https://cutt.ly/Gtws82dE
+» 🇺🇸 [Games Industry / 11 nov. 2025] PlayStation experiences H1 sales increase, PS5 reaches 84m in lifetime sales. Sony increases full-year forecast for games revenue, Ghost of Yōtei sells 3.3 million copies in launch month → https://cutt.ly/LtwjuToV
+» 🇺🇸 [Game Developer / 11 nov. 2025] Sony says Destiny 2 has underperformed since it acquired Bungie. Bungie was purchased by Sony for $3.6 billion in 2022 but it seems that bet has yet to pay off → https://cutt.ly/WtwjffyZ
+» 🇦🇺 [twiv / 11 nov. 2205] Destiny 2 hasn't reached Sony's expectations for Bungie acquisition, says CFO → https://cutt.ly/ptwh6KBa
+» 🇫🇷 [ActuGaming / 11 nov. 2025] Destiny 2 n’a pas atteint les niveaux espérés par Sony depuis le rachat de Bungie, Marathon devrait sortir avant mars 2026 → https://actugaming.net/--769491
+» 🇫🇷 [Gamekult / 11 nov. 2025] Sony annonce (encore) d'excellents résultats, la PS5 ne faiblit pas, mais Bungie gâche la fête → https://cutt.ly/vtwl4zYv
+» 🇫🇷 [ActuGaming / 11 nov. 2025] La PS5 n’est encore qu’à la moitié de son cycle de vie pour Sony → https://actugaming.net/--769555
+
+
+» 🇫🇷 [ActuGaming / 11 nov. 2025] Nintendo dégaine un nouveau Nintendo Direct, mais uniquement autour du film Super Mario Galaxy → https://actugaming.net/--769454
+
+» 🇫🇷 [ActuGaming / 11 nov. 2025] La PS5 dépasse les 84 millions de ventes, et Ghost of Yotei s’est vendu à 3,3 millions d’exemplaires en un mois → https://actugaming.net/--769458
+» 🇫🇷 [Gamekult / 11 nov. 2025] Nintendo déploie la mise à jour 21.0.0 pour faciliter un peu plus la transition de la Switch vers la Switch 2. Quelques fonctions pratiques attendues depuis longtemps font leur arrivée → https://cutt.ly/6twjeDCv
+
+» 🇫🇷 [ActuGaming / 11 nov. 2025] La Nintendo Switch et la Switch 2 se mettent à jour avec la version 21.0, voici ce qu’elle apporte → https://actugaming.net/--769463
+
+» 🇫🇷 [ActuGaming / 11 nov. 2025] Pour fêter les 5 ans d’Ubisoft Connect, l’éditeur vous offre Immortals Fenyx Rising sur PC → https://actugaming.net/--769466
+
+» 🇫🇷 [ActuGaming / 11 nov. 2025] Le road-trip musical Mixtape prend un peu de retard et n’arrivera qu’en 2026 → https://actugaming.net/--769476
+
+
+» 🇬🇧 [Eurogamer / 10 nov. 2025] CD Projekt bolsters The Witcher 4 team with key Kingdom Come: Deliverance 2 talent → https://cutt.ly/OtwjFiZJ
+» 🇫🇷 [Gamekult / 11 nov. 2025] The Witcher 4 recrute un pilier de Kingdom Come : Deliverance 2 → https://cutt.ly/QtwjRoye
+» 🇬🇧 [PC Gamer / 11 nov. 2025] CD Projekt Red just bagged one of Kingdom Come: Deliverance 2's lead designers for The Witcher 4 and suddenly I'm far more interested in Ciri's upcoming adventure → https://cutt.ly/ntwjQ5dr
+
+» 🇺🇸 [TechRadar / 15 nov. 2025] Sony senior manager overseeing the PlayStation Portal says the handheld is now 'the most widely used device' for the PS5 Remote Play, surpassing PC, PS4, PS5, and mobile. PS Portal engagement is looking good → https://cutt.ly/etwjoYOa
+» 🇺🇸 [Games Industry / 11 nov. 2025] PlayStation Portal becomes "most widely used device for PS5 Remote Play". Sony exec says community response to handheld accessory has been "overwhelming" → https://cutt.ly/otwjiCJS
+
+» 🇬🇧 [PC Gamer / 11 nov. 2025] CD Projekt joint CEO Adam Badowski made everyone's life miserable when he pointed out if the The Witcher 3 had water, they had to add swimming and create completely new underwater locations → https://cutt.ly/btwjkggA
+» 🇬🇧 [PC Gamer / 11 nov. 2025] CD Projekt struggled to sell partners on The Witcher 3 because its gameplay was 'pretty standard' and they didn't believe it could combine storytelling with a cinematic open world → https://cutt.ly/MtwjlNaU
+» 🇬🇧 [PC Gamer / 11 nov. 2025] CD Projekt's co-CEO says The Witcher 2's momentous midgame choice was an 'experiment' and now regards it as a 'waste of resources' → https://cutt.ly/Ltwjzzeb
+» 🇬🇧 [PC Gamer / 11 nov. 2025] CD Projekt was worried people wouldn't really 'get' dark fantasy as a concept, and then Game of Thrones became the biggest franchise on Earth → https://cutt.ly/DtwxO1lf
+
+» 🇺🇸 [Kotaku / 11 nov. 2025] The Super Mario Galaxy movie direct will probably reveal if Yoshi talks or not. Nintendo is promising the 2026 release's first trailer → https://kotaku.com/--2000642905
+
+» 🇺🇸 [Games Industry / 11 nov. 2025] Epic's Tim Sweeney wades into the Arc Raiders AI row. "This technology increases human productivity in some areas by integer multiples" → https://cutt.ly/XtwjFBZ0
+
+» 🛍️ Digiphile → https://digiphile.co
+» 🇺🇸 [Games Industry / 11 nov. 2025] "We want to get people playing games, not just buying them": new bundle site Digiphile goes back to basics. Platform from ex-Humble Bundle team promises focus, community, indie promotion and "no algorithms" → https://cutt.ly/ntwjCHPZ
+» 🇺🇸 [Game Developer / 11 nov. 2025] Digiphile is a new charitable discovery platform from a group of Humble Bundle veterans. The platform is being pitched as an intentionally curated storefront 'driven by people, not algorithms.' → https://cutt.ly/Otwc0IxG
+
+» 🇺🇸 [Kotaku / 11 nov. 2025] Even Nintendo’s next Pokémon game will be on a game-key card. Pokémon Pokopia's controversial key-only cart makes a mockery of games preservationPokémon Pokopia's controversial key-only cart makes a mockery of games preservation → https://kotaku.com/--2000642940
+» 🇫🇷 [Gamekult / 11 nov. 2025] Pokémon Pokopia : la date d'ouverture des travaux, ce sera en mars prochain, et oui, ce sera une game key card → https://cutt.ly/gtwl8i7W
+» 🇫🇷 [ActuGaming / 11 nov. 2025] Pokémon Pokopia sortira en mars 2026 sur Switch 2, et sur une Game-Key Card → https://www.actugaming.net/--769547/
+
+» 🇺🇸 [Boeing / 6 nov. 2025] Boeing pioneering next-generation training tools with launch of virtual airplane → https://cutt.ly/itwl70w4
+» 🇫🇷 [Gamekult / 11 nov. 2025] Microsoft Flight Simulator signe un partenariat avec Boeing pour former les futurs pilotes → https://cutt.ly/Ptwl8zUp
+
+» 🇺🇸 [The Game Business / 11 nov. 2025] We interview Reggie Fils-Aimé about Nintendo Switch 2, leadership and the console war. “I’m surprised that Xbox has not yet fully embraced the Switch 2” → https://cutt.ly/FtwzqoXT (45 min)
+» 🇫🇷 [ActuGaming / 11 nov. 2025] L’ancien président de Nintendo of America se dit surpris de ne pas voir davantage de jeux Xbox sur Switch 2 → https://actugaming.net/--769552
+
+» 🇺🇸 [Kotaku / 11 nov. 2025] People are selling shiny Pokémon for real money in the Legends: Z-A black market. Shiny hunting is easier than ever, but it’s still not as easy as swiping a credit card → https://kotaku.com/--2000642982
+
+» 🇯🇵 [Yuke's / 10 nov. 2025] 『NINJA GAIDEN 4』の開発にユークスが協力いたしました → https://yukes.co.jp/news/16591/
+» 🇺🇸 [Automaton Media / 11 nov. 2025] WWE 2K developer Yuke’s reveals involvement in Ninja Gaiden 4’s development. Yuke's, the Japanese studio behind WWE 2K and Full Metal Schoolgirl, co-developed Ninja Gaiden 4 alongside Team Ninja and PlatinumGames → https://cutt.ly/ltwzgfYg
+
+» 🇯🇵 [Game\*Spark / 10 nov. 2025] 「ゲーム会社は“ゲーム”で語るべき」――『ARC Raiders』も快調なNexonのCEO イ・ジョンホン氏に直撃取材。リリースを控える期待作や日本のゲーマーに向けた戦略を訊いた → https://cutt.ly/ntwzjqiw
+» 🇺🇸 [Automaton Media / 11 nov. 2025] “It’s important to assume every game company is now using AI.” Nexon CEO comments on role of human creativity as AI tools become the norm. In an interview following the launch of ARC Raiders, the CEO of Embark Studios' parent company Nexon shares his views on AI → https://cutt.ly/ → https://kotaku.com/--20006429800twzhw2w
+» 🇬🇧 [PC Gamer / 11 nov. 2025] 'Every game company is now using AI': Nexon's CEO defends the use of generative AI in game development in the wake of Arc Raiders' controversy. If every game company jumped off a cliff, would you? → https://cutt.ly/mtwxPSs6
+
+» 🇯🇵 [Game\*Spark / 11 nov. 2025] “音・映像・触覚が溶け合う、“究極の気持ちよさ”を求めて―光と音のパズル『Lumines Arise』開発者インタビュー！ → https://cutt.ly/btwzZHmn
+» 🇺🇸 [Game Developer / 11 nov. 2025] Lumines Arise developer Enhance is forever chasing God. Lumines Arise developer Enhance is forever chasing God → https://cutt.ly/ntwvo2ds
+
+» 🇺🇸 [Kotaku / 11 nov. 2025] Fortnite opens the loot box flood gates in its race with Roblox. The controversial microtransactions are being called 'paid random items'
+
+» ▶️ [YouTube / People Make Games / 11 nov. 2025] The Rockstar workers fired before they could finish GTA 6 → https://youtu.be/c9nOwjeznjI (19 min)
+» 🇺🇸 [Kotaku / 11 nov. 2025] Fired GTA 6 devs aren’t done fighting: ‘We want to finish what we were working on’. Rockstar has been accused of union-busting after firing dozens of workers → https://kotaku.com/--2000643030
+
+» 🇺🇸 [80lv / 11 nov. 2025] Why the studio with the Call of Duty pedigree died without a game. Deviation Games’ Louis Castle details lessons learned from the studio closure → https://cutt.ly/Gtwvlpei
+
+» 🇺🇸 [Kotaku / 11 nov. 2025] Arc Raiders’ hidden bunker mystery might not be so mysterious. Players are convinced a series of computer downloads will unlock something → https://kotaku.com/--2000642994
+
+» 🇺🇸 [Kotaku / 11 nov. 2025] One year later, I’ve forgotten I even own a PS5 Pro. Sony's pricey and powerful PlayStation 5 Pro probably ain't worth buying in 2025 → https://kotaku.com/--2000642988
+
+» 🇫🇷 [ActuGaming / 11 nov. 2025] Marvel Rivals vous invite au mariage de Rogue et Gambit, les deux nouveaux personnages de la saison 5 → https://actugaming.net/--769560
+
+» 🇺🇸 [MiniMap / 6 nov. 2025] Interview with Shuhei Yoshida: What Korean games need in an era of endless competition → https://cutt.ly/ytwxAz4q
+
+» 💰 [Gamers Nexus] The AI surveillance dystopia: spying, data trafficking, & corruption → https://store.gamersnexus.net/ai-dystopia
+» ▶️ [YouTube / Gamers Nexus / 11 nov. 2025] Contacted by the US Secret Service & the AI surveillance center dystopia → https://youtu.be/qG4ektofzkI (18 min)
+
+» 🇬🇧 [PC Gamer / 11 nov. 2025] Marvel Rivals is adding a 'non-combat map' where players can 'hang out, dance, watch videos, read books, and let your imagination run wild'. Marvel Rivals season 5 is shaping up to be a big one → https://cutt.ly/itwcVyn3
+
+» 🇺🇸 [WarGamer / 10 nov. 2025] This Mega Gengar Pokémon card has already sold for $800 on eBay and it isn't even out yet → https://cutt.ly/DtwcMbpJ
+» 🇬🇧 [PC Gamer / 11 nov. 2025] We've reached unprecedented levels of cooked: The Mega Gengar Pokémon TCG is selling for $800 even though it doesn't actually exist yet. The Mega Gengar isn't that cool → https://cutt.ly/utwcNNi6
+» 🇺🇸 [Kotaku / 11 nov. 2025] People are selling a non-existent Pokémon TCG card for $800. The scalping situation has become so bad that cards from the future are being hawked → https://kotaku.com/--2000642999
+
+» 🇺🇸 [Kotaku / 11 nov. 2025] Proceeds from Battlefield 6′s veterans day pack don’t directly benefit vets. EA instead claims it is making an independent donation to a group that supports Army Rangers and their families → https://kotaku.com/--2000643014
+
+» 🇺🇸 [Kotaku / 11 nov. 2025] Hades II isn’t a story—it’s maintenance. Supergiant's roguelike sequel confuses repetition for revelation → https://kotaku.com/--2000642943
+
+» 🇺🇸 [IGN / 11 nov. 2025] 'Is there anything more grimdark than to die offscreen?' — Games Workshop just killed two Space Marine 2 characters via a brief lore update post and Warhammer 40,000 fans are in tatters → https://cutt.ly/ttwc27VR
+
+» 🇺🇸 [tom's hardware / 11 nov. 2025] J.P. Morgan calls out AI spend, says $650 billion in annual revenue required to deliver mere 10% return on AI buildout — equivalent to $35 payment from every iPhone user, or $180 from every Netflix subscriber 'in perpetuity'. It's going to be a rollercoaster ride → https://cutt.ly/ktwvzrzx
+
+» 🇺🇸 [Games Industry / 11 nov. 2025] Unity reports modest gains in revenue for Q3 2025 as Unity 6 approaches 10 million downloads. Results "meaningfully exceeded expectations on revenue powered by Unity Vector AI and Create" → https://cutt.ly/vtwc1Md9
+
+» 🇺🇸 [Game Developer / 11 nov. 2025] Sketchfab to require mandatory AI disclosure, Epic Games accounts for users. Starting December 11, every AI-generated model will require the "CreatedWithAI" label → https://cutt.ly/Ptwc2wkL
+
+» 🇫🇷 [ActuGaming / 12 nov. 2025] Dragon Quest VII Reimagined dévoile nouveau trailer pour le State of Play Japan → https://actugaming.net/--769566
+
+» 🇫🇷 [ActuGaming / 12 nov. 2025] Fatal Frame II: Crimson Butterfly Remake (Project Zero 2) annonce sa sortie au 12 mars 2026 → https://actugaming.net/--769567
+
+» 🇺🇸 [Kotaku / 11 nov. 2025] Everything we saw at PlayStation’s Japan-centric State Of Play. PlayStation hosted a 40-minute presentation showcasing upcoming PS5 games → https://kotaku.com/--2000643049
+» 🇫🇷 [ActuGaming / 12 nov. 2025] State of Play Japan : Le résumé complet de la conférence (Marvel Tōkon, Elden Ring Nightreign, Fatal Frame II…) → https://actugaming.net/--769565
+
+» 🇺🇸 [Kotaku / 11 nov. 2025] Elden Ring Nightreign finally reveals DLC fans have been begging for and it includes a beloved Dark Souls boss. The Forsaken Hollows arrives in December → https://kotaku.com/--2000643101
+» 🇫🇷 [ActuGaming / 12 nov. 2025] Elden Ring Nightreign : Son prochain DLC s’intitule « The Forsaken Hollows » et il sera disponible le 4 décembre → https://actugaming.net/--769579
+
+» 🇺🇸 [Kotaku / 11 nov. 2025] Sony announces cheaper PS5 that’s only for Japan. It'll be the first region-locked PlayStation console since the PS2 → https://kotaku.com/--2000643085
+
+» 🇫🇷 [ActuGaming / 12 nov. 2025] Marvel Tōkon: Fighting Souls aura droit à une nouvelle bêta, cette fois-ci avec Spider-Man et Ghost Rider → https://actugaming.net/--769617
+
+» 🇫🇷 [ActuGaming / 12 nov. 2025] Dynasty Warriors: Origins – le DLC « Visions de quatre héros » débarque le 22 janvier prochain → https://actugaming.net/--769573
+
+» 🇫🇷 [ActuGaming / 12 nov. 2025] Sonic Racing : CrossWorlds – le DLC Bob l’éponge débarque le 19 novembre, de nouveaux personnages gratuits sont également annoncés → https://actugaming.net/--769628
 
 
 
 
-» 🇫🇷 [ActuGaming / 10 nov. 2025] 
 
-» 🇫🇷 [Gamekult / 8 nov. 2025] 
+» 🇫🇷 [ActuGaming / 12 nov. 2025] 
 
-» 🇬🇧 [PC Gamer / 10 nov. 2025] 
+» 🇫🇷 [Gamekult / 11 nov. 2025] 
 
-» 🇺🇸 [Automaton Media / 10 nov. 2025] 
+» 🇬🇧 [PC Gamer / 11 nov. 2025] 
 
-» 🇺🇸 [IGN / 7 nov. 2025] 
-» 🇫🇷 [IGN France / 7 nov. 2025] 
+» 🇺🇸 [Automaton Media / 11 nov. 2025] 
 
-» 🇺🇸 [Kotaku / 10 nov. 2025] 
+» 🇺🇸 [IGN / 11 nov. 2025] 
+» 🇫🇷 [IGN France / 11 nov. 2025] 
+
+» 🇺🇸 [Kotaku / 11 nov. 2025] 
 
 » 🇺🇸 [Time Extension / 31 oct. 2025] 
 
