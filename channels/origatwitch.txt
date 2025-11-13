@@ -16414,6 +16414,80 @@ raids entrants :
 
 
 
+--------------------------------------
+2025-11-13
+
+# Mardinale #64
+## Actus
+### Valve dévoile trois nouveaux appareils dont un PC-console
+» ▶️ [YouTube / Valve / 12 nov. 2025] Steam hardware announcement → https://youtu.be/OmKrKTwtukE (6 min)
+
+» 🇺🇸 [Game Developer / 12 nov. 2025] Valve goes all-in on hardware with Steam Machine, Controller, and new VR device. Valve is releasing a new Steam Controller, a console-like Steam PC, and a new VR headset → https://cutt.ly/wtwDKoiN
+» 🇫🇷 [ActuGaming / 12 nov. 2025] Valve crée la surprise et dévoile sa propre console de salon, la Steam Machine, avec un nouveau casque VR et une manette → https://actugaming.net/--769690
+» 🇫🇷 [Gamekult / 12 nov. 2025] Valve dévoile son PC Steam Machine et sa nouvelle manette Steam Controller → https://cutt.ly/stwHL3ne
+» 🇫🇷 [ActuGaming / 13 nov. 2025] Phil Spencer réagit à l’annonce de la Steam Machine, la nouvelle console de Valve → https://actugaming.net/--769733
+
+### La Steam Machine, c'est quoi ?
+» Steam Machine → https://store.steampowered.com/sale/steammachine
+
+» 🇺🇸 [IGN / 12 nov. 2025] Steam Machine hands-on: first impressions of Valve’s new console-like gaming PC. Valve’s newest hardware aims to further bridge the gap between gaming PCs and consoles → https://cutt.ly/utwDD6sU
+» 🇺🇸 [IGN / 12 nov. 2025] Valve's next-gen Steam Machine and Steam Controller — the Big Interview. "It felt like it was the right time." → https://cutt.ly/XtwH9qDT
+» 🇬🇧 [Eurogamer / 12 nov. 2025] Steam Machine preview: a powerful, customisable mini PC for couch gaming. This six-inch cube is six times more powerful than Steam Deck, bringing into the same realm as PS5 and Xbox Series X → https://cutt.ly/ytwDFja0
+» 🇺🇸 [The Verge / 12 nov. 2025] Valve enters the console wars. Valve is rebooting its failed Steam Machine initiative — and this time, it’s building the living room console itself → https://cutt.ly/RtwDFSvN
+» 🇺🇸 [The Verge / 12 nov. 2025] Our first look at the Steam Machine, Valve’s ambitious new game console. Can Valve’s tiny box take on Microsoft and Sony? → https://cutt.ly/ctwDF1Ow
+» 🇬🇧 [PC Gamer / 12 nov. 2025] Valve's new Steam Machine is a SteamOS-powered mini PC over six times faster than a Steam Deck. "We finally have all the software and the hardware bits to make the original vision a reality." → https://cutt.ly/btw0qcVe
+» ▶️ [YouTube / Digital Foundry / 12 nov. 2025] Hands-on with Steam Machine: Valve's beautiful PC/console - Specs, impressions and more → https://youtu.be/2rv83LgXiN0 (51 min)
+
+### Un nouveau Steam Controller MASSIF
+» Steam Controller → https://store.steampowered.com/sale/steamcontroller
+
+» 🇬🇧 [PC Gamer / 12 nov. 2025] Valve announces the Steam Controller and it's genuinely good: 'we knew we needed to make this controller'. The new Steam Controller is a smart way to play PC games on the sofa, stealing the Steam Deck's clever controls → https://cutt.ly/2tw15NXk
+» 🇬🇧 [PC Gamer / 12 nov. 2025] How gyro support was added to the new Steam Controller is a 'typical Valve story' involving a passionate employee moving desks. One Valve employee essentially made it happen → https://cutt.ly/Btw158yM
+
+### Steam Frame, le casque VR qui veut tout changer
+» Steam Frame → https://store.steampowered.com/sale/steamframe
+
+» ▶️ [YouTube / Dave2D / 12 nov. 2025] The new Steam hardware is amazing → https://youtu.be/356rZ8IBCps (19 min)
+» 🇺🇸 [IGN / 12 nov. 2025] Steam Frame preview – Hands-on with Valve's state-of-the-art VR headset. A smartly designed VR headset I wish came sooner → https://cutt.ly/btw161Qd
+» 🇬🇧 [Eurogamer / 12 nov. 2025] Steam Frame preview: a long-awaited standalone VR headset that runs Steam games on ARM. Plus: Foveated Streaming could be the next big thing in VR → https://cutt.ly/Mtw0aXIg
+» 🇺🇸 [The Verge / 12 nov. 2025] The Steam Frame is a surprising new twist on VR. This is what Valve’s new headset is all about → https://cutt.ly/WtwDF6jH
+» 🇫🇷 [Gamekult / 12 nov. 2025] Steam Frame : Valve retente le coup de la réalité virtuelle avec un nouveau casque → https://cutt.ly/EtwHZafN
+
+» 🇺🇸 [The Verge / 12 nov. 2025] Valve is welcoming Android games into Steam. The Steam Frame is the start — but it could be tip of the iceberg → https://cutt.ly/1twDKDGe
+» 🇺🇸 [Game Developer / 12 nov. 2025] Valve will soon support Android games on Steam. This move lets VR developers quickly bring Android-based VR games to Steam → https://cutt.ly/etwDKhNp
+
+### La nouvelle famille Steam
+» ▶️ [YouTube / Gamers Nexus / 12 nov. 2025] Valve Steam Machine, desktop SteamOS, Steam Frame VR, & Controller | ft. Engineering Discussion → https://youtu.be/bWUxObt1efQ (45 min)
+
+» 🇺🇸 [Rock Paper Shotgun / 12 nov. 2025] Valve announce a new Steam Machine, Steam Controller, and the Steam Frame VR headset – and I’ve played them. Dispatches from a three-pronged hardware assault → https://cutt.ly/itwDFoPG
+» 🇺🇸 [TechPowerUp / 12 nov. 2025] Valve announces Steam Machine, Steam Frame, and Steam Controller → https://techpowerup.com/342866
+
+### The Elder Scrolls 6 est encore "très loin" de sortir
+» 🇺🇸 [GQ / 10 nov. 2025] Todd Howard on 10 years of Fallout 4 and The Elder Scrolls 6: 'We needed a creative reset'. A decade on from its Game of the Year-winning triumph, Todd Howard reminisces on how Fallout 4 changed Bethesda Game Studios, its TV show adaptation and playtesting The Elder Scrolls 6 → https://cutt.ly/ItwibZVS
+» 🇺🇸 [Kotaku / 10 nov. 2025] Bethesda says Oblivion Remaster shadow dropping was a successful ‘test run’. Fallout 4 game director Todd Howard says Elder Scrolls 6 is still a long way off → https://kotaku.com/--2000642434
+» 🇺🇸 [IGN / 10 nov. 2025] Todd Howard reveals why he thinks Fallout 4's divisive dialogue system 'really did not resonate' → https://cutt.ly/otwvyxQX
+» 🇫🇷 [IGN France / 10 nov. 2025] Todd Howard explique pourquoi le système de dialogues controversé de Fallout 4 "n'a pas vraiment trouvé son public" → https://cutt.ly/ItwvyYfy
+» 🇫🇷 [ActuGaming / 10 nov. 2025] The Elder Scrolls VI est encore loin d’être terminé, et c’est Todd Howard qui l’avoue → https://actugaming.net/--769410
+» 🇫🇷 [Gamekult / 11 nov. 2025] The Elder Scrolls 6 est « encore très loin » de voir le jour, confirme Todd Howard → https://cutt.ly/dtwjroOm
+
+### NetEase lâche Jackalyptic et son MMO Warhammer
+» 🇺🇸 [LinkedIn / Jackalyptic Games / 8 nov. 2025] I’m here to share a note that after nearly three and a half years working with NetEase Games as a first party studio, our partnership will be coming to an end. […] → https://cutt.ly/6twinQYl
+» 🇫🇷 [Gamekult / 10 nov. 2025] Et ça continue : NetEase abandonne Jackalyptic Games, qui travaillait sur un MMO Warhammer. Le studio se vide de son effectif → https://cutt.ly/dtwi5LiA
+» 🇫🇷 [ActuGaming / 10 nov. 2025] Jackalyptic Games, le studio qui travaillait sur un MMO Warhammer, est abandonné par NetEase → https://actugaming.net/--769447
+
+### Les Game Awards abandonnent la jeune garde du jeu vidéo
+» 🇺🇸 [Game Developer / 6 nov. 2025] The Game Awards' Future Class program remains on ice. Has Geoff Keighley made Future Class a thing of the past? → https://cutt.ly/WtqsiKwI
+» 🇺🇸 [Kotaku / 6 nov. 2025] The Game Awards Deletes Its Future Class. A program promoting rising stars in the video game industry has been quietly erased → https://kotaku.com/--2000641757
+» 🇬🇧 [The Guardian / 11 nov. 2025] ‘We were effectively props’: young stars of game development feel let down by the ‘gaming Oscars’. Announced in 2020 by the Game Awards as an inclusive programme for the industry’s next generation, the Future Class initiative has now been discontinued. Inductees describe clashes with organisers and a lack of support from the beginning → https://cutt.ly/gtwlCe1J
+
+### Caisse de soutien aux victimes des licenciements chez Spiders
+» 💰 [Hello Asso] Caisse de soutien aux victimes des licenciements chez Spiders → https://cutt.ly/4twXmDVJ
+
+raids : OrigaTwitch => (13:46)[+531] Modiiie => (18:38)[+286] lydia__am => (<20:20) Ultia (vendredi) (>00:00)
+
+
+
+
 
 
 » 💬
