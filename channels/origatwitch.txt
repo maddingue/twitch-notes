@@ -16305,7 +16305,7 @@ raids : OrigaTwitch => (14:24)[+180] DamDamLive => (17:58)[+658] Sarahlechatpric
 » 🇫🇷 [ActuGaming / 4 nov. 2025] Nintendo a vendu plus 10 millions de Switch 2, tandis que la première Switch dépasse les 154 millions de ventes → https://actugaming.net/--768769
 » 🇫🇷 [Gamekult / 4 nov. 2025] Déjà plus de 10 millions de Switch 2 vendues dans le monde, Nintendo rehausse ses objectifs. Pendant que la Switch rejoint la Nintendo DS → https://cutt.ly/4tqTb3U3
 » 🇫🇷 [Gamekult / 5 nov. 2025] 84 % des acheteurs de Switch 2 ont possédé une Switch. Nintendo dévoile le profil des premiers acheteurs de Switch 2 → https://cutt.ly/rtqTnsiI
-» file de discussion 💬
+» fil de discussion 💬
 
 » 🇺🇸 [Kotaku / 30 oct. 2025] Nintendo was just dealt a big blow in its battle against Palworld. The patents on which Nintendo is relying aren't looking too solid → https://kotaku.com/--2000640115
 » 🇫🇷 [ActuGaming / 30 oct. 2025] Un brevet déposé par Nintendo pour la capture de créatures a été refusé au Japon, ce qui pourrait profiter à Palworld → https://actugaming.net/--767695
@@ -16332,7 +16332,7 @@ raids : OrigaTwitch => (14:24)[+180] DamDamLive => (17:58)[+658] Sarahlechatpric
 » 🇫🇷 [ActuGaming / 7 nov. 2025] Les ventes de Borderlands 4 sont plus faibles que prévu, tandis que Mafia: The Old Country dépasse les prévisions → https://actugaming.net/--769245
 » 🇺🇸 [Games Industry / 6 nov. 2025] Strauss Zelnick "not in the least" bit worried about GTA 6 delay: "We're feeling really good about it". Take-Two CEO talks upending the industry's 2026 plans, being 50% mobile and not rushing into TV → https://cutt.ly/qtqlp1cr
 » 🇫🇷 [ActuGaming / 7 nov. 2025] GTA 6 : Strauss Zelnick, PDG de Take-Two, n’est pas du tout inquiet concernant le report du jeu → https://actugaming.net/--769253
-» file de discussion 💬
+» fil de discussion 💬
 
 ### Game Changers
 » Game Changers, le rendez-vous professionnel du jeu vidéo inclusif, le 29 nov. 2025 à Digital Village Paris → https://afrogameuses.com/game-changers/
@@ -16455,6 +16455,7 @@ raids entrants :
 
 » 🇺🇸 [The Verge / 12 nov. 2025] Valve is welcoming Android games into Steam. The Steam Frame is the start — but it could be tip of the iceberg → https://cutt.ly/1twDKDGe
 » 🇺🇸 [Game Developer / 12 nov. 2025] Valve will soon support Android games on Steam. This move lets VR developers quickly bring Android-based VR games to Steam → https://cutt.ly/etwDKhNp
+» 🇫🇷 [Gamekult / 14 nov. 2025] Steam accueillera bientôt des jeux Android, selon Valve. D'abord la réalité virtuelle, ensuite le monde → https://cutt.ly/jteOHlyj
 
 ### La nouvelle famille Steam
 » ▶️ [YouTube / Gamers Nexus / 12 nov. 2025] Valve Steam Machine, desktop SteamOS, Steam Frame VR, & Controller | ft. Engineering Discussion → https://youtu.be/bWUxObt1efQ (45 min)
@@ -16483,14 +16484,182 @@ raids entrants :
 ### Caisse de soutien aux victimes des licenciements chez Spiders
 » 💰 [Hello Asso] Caisse de soutien aux victimes des licenciements chez Spiders → https://cutt.ly/4twXmDVJ
 
-raids : OrigaTwitch => (13:46)[+531] Modiiie => (18:38)[+286] lydia__am => (<20:20) Ultia (vendredi) (>00:00)
+raids : OrigaTwitch => (13:46)[+531] Modiiie => (18:38)[+286] lydia__am => (<20:20) Ultia (vendredi) (terminé à 00:20)
 
 
 
+--------------------------------------
+2025-11-14
+
+# Wishlist
+
+» Kingdom of Night, le 2 déc. 2025 sur PC / Steam Deck, démo disponible ; édité par Dangen, développé par Friends of Safety → https://kingdomofnight.dangenentertainment.com | https://s.team/a/1094600
+:: résultats du sondage : 46% direct dans ma liste / 46% pas mon type de jeu, 8% dans Wishlist
+
+» Retrace the Light, le 12 nov. 2025 sur PC / Steam Deck ; développé par Xiaming Game, studio chinois 🇨🇳 → https://s.team/a/2179370
+
+excuses de sac
+- apparemment, j'ai appuyé sur quitter (Hubert)
+
+» Skate Story, le 8 déc. 2025 sur PlayStation 5 et PC / Steam Deck, démo disponible sur Steam, par la suite sur Switch 2 ; édité par Devolver, développé par Sam Eng, musiques par Blood Cultures et John Fio → https://skatestory.com/ | https://s.team/a/1263240
+:: résultats du sondage : 50% (13) dans Wishlist & ma liste / 38% (10) dans Wishlist / 12% (3) pas mon type de jeu
+
+raids entrants :
+- GuillaumeVende à 11:53 +16
+
+# L'Hebdo #82
+## Actus
+### Origami
+» ✉️ [Origami] Gardez le pli grâce à notre nouvelle infolettre ! → https://www.origami.ng/infolettre/
+» ▶️ [YouTube] Super Vieux Jeux — Quoi de vieux ? 🕹️ Virtual Boy Classics, Super Pocket NeoGeo et He-Man → https://youtu.be/u-J_u9zWS5M
+» ▶️ [Patreon] Internet Exploreuses — Le web a tué la langue française → https://patreon.com/posts/143417609
+» 🎧 [Patreon] Catalogue Arrière — Theatrhythm Final Bar Line, avec Florian → https://patreon.com/posts/143417819
+» ▶️ [YouTube] La Mardinale — Valve annonce sa Machine de salon (et un nouveau casque VR) → https://youtu.be/2OgvPKupQP8
+
+### La semaine
+» 🇺🇸 [Kotaku / 7 nov. 2025] Halo Infinite‘s next update is its last as devs tease multiple games. Halo Studios will focus its efforts on multiple 'new experiences' currently being worked on → https://kotaku.com/--2000642195
+» 🇺🇸 [Game Developer / 10 nov. 2025] Halo Infinite to receive final major update after four years. Halo Studios is now focused on crafting new titles including Halo: Campaign Evolved → https://cutt.ly/ZtwimyAW
+» 🇫🇷 [ActuGaming / 10 nov. 2025] Halo Infinite aura droit à sa dernière mise à jour majeure le 18 novembre, Halo Studios passe définitivement à autre chose → https://actugaming.net/--769372
+
+» 🇺🇸 [Kotaku / 10 nov. 2025] Arc Raiders just leapfrogged Helldivers 2’s all-time Steam record. The call of ‘get in, shoot things, collect trash, get out’ is proving irresistible for many → https://kotaku.com/--2000642410
+» 🇺🇸 [Gematsu / 11 nov. 2025] ARC Raiders sales top four million. Over 700,000 concurrent players this past weekend → https://cutt.ly/dtws7gWQ
+» 🇫🇷 [ActuGaming / 11 nov. 2025] ARC Raiders continue sur sa bonne lancée et dépasse les 4 millions d’exemplaires → https://actugaming.net/--769469
+
+» 🇫🇷 [ActuGaming / 6 nov. 2025] Sonic Racing CrossWorlds : Ichiban Kasuga (Like a Dragon) est disponible, la version Switch 2 sortira le 4 décembre → https://actugaming.net/--769186
+» 🇫🇷 [ActuGaming / 12 nov. 2025] Sonic Racing : CrossWorlds – le DLC Bob l’éponge débarque le 19 novembre, de nouveaux personnages gratuits sont également annoncés → https://actugaming.net/--769628
+
+» 🇫🇷 [ActuGaming / 11 nov. 2025] La PS5 dépasse les 84 millions de ventes, et Ghost of Yotei s’est vendu à 3,3 millions d’exemplaires en un mois → https://actugaming.net/--769458
+
+» 🇫🇷 [ActuGaming / 12 nov. 2025] State of Play Japan : Le résumé complet de la conférence (Marvel Tōkon, Elden Ring Nightreign, Fatal Frame II…) → https://actugaming.net/--769565
+- 🇫🇷 [ActuGaming / 12 nov. 2025] Dragon Quest VII Reimagined dévoile nouveau trailer pour le State of Play Japan → https://actugaming.net/--769566
+- 🇫🇷 [ActuGaming / 12 nov. 2025] Marvel Tōkon: Fighting Souls aura droit à une nouvelle bêta, cette fois-ci avec Spider-Man et Ghost Rider → https://actugaming.net/--769617
+- 🇺🇸 [Kotaku / 11 nov. 2025] Elden Ring Nightreign finally reveals DLC fans have been begging for and it includes a beloved Dark Souls boss. The Forsaken Hollows arrives in December → https://kotaku.com/--2000643101
+- 🇫🇷 [ActuGaming / 12 nov. 2025] Elden Ring Nightreign : Son prochain DLC s’intitule « The Forsaken Hollows » et il sera disponible le 4 décembre → https://actugaming.net/--769579
+- 🇫🇷 [ActuGaming / 12 nov. 2025] Fatal Frame II: Crimson Butterfly Remake (Project Zero 2) annonce sa sortie au 12 mars 2026 → https://actugaming.net/--769567
+- Coffee Talk Tokyo, le 5 mars 2026 sur Switch, PlayStation 5, Xbox Series et PC / Steam Deck, démo disponible sur Steam ; édité par Chorus Worldwide, développé par Toge Productions → https://s.team/a/3161220
+- 🇺🇸 [Automaton Media / 13 nov. 2025] BlazBlue main series writers confirm involvement in Entropy Effect X’s scenario. Mako Komao and Akihito Kumagawa, who have worked on mainline BlazBlue titles and novels announced their involvement in BlazBlue Entropy Effect X → https://cutt.ly/Btw0eLTH
+- 🇫🇷 [Gamekult / 14 nov. 2025] La PS5 va baisser de prix au Japon grâce à un modèle exclusif → https://cutt.ly/HteewYLh
+- 🇫🇷 [GamerGan / 12 nov. 2025] Sony drague un peu plus les joueurs PC avec ce nouveau produit. Lors du PlayStation State of Play Japan, le constructeur a dévoilé un périphérique pour les joueurs PS5, mais surtout destiné aux joueurs PC → https://cutt.ly/KteeeIp1
+
+» 🇺🇸 [Kotaku / 12 nov. 2025] New Ratchet & Clank game announced, but it’s a mobile shooter thing. Ratchet & Clank: Ranger Rumble is a free-to-play 'multiplayer platformer arena shooter' → https://kotaku.com/--2000643517
+» 🇫🇷 [ActuGaming / 12 nov. 2025] Un nouveau jeu Ratchet & Clank vient d’être annoncé… en free-to-play sur mobiles → https://actugaming.net/--769674
+
+» 🇺🇸 [Kotaku / 12 nov. 2025] Sony reveals secret Horizon MMO that looks like Monster Hunter but isn’t coming to PS5. Horizon Steel Frontiers will be the first game in the series not playable on PlayStation → https://kotaku.com/--2000643663
+» 🇫🇷 [ActuGaming / 13 nov. 2025] Sony s’associe à NCSoft pour produire un MMO Horizon, découvrez Horizon Steel Frontiers → https://actugaming.net/--769709
+
+» annonces matériel Steam, cf. la Mardinale
+» fil de discussion 💬
+
+
+### Krafton et l'IA
+» annonce _AI first_, cf. la Mardinale #62
+
+» 🇺🇸 [Business Korea / 12 nov. 2025] Krafton launches voluntary resignation program amid record performance → https://cutt.ly/ktwXz6sQ
+» 🇺🇸 [Automaton Media / 13 nov. 2025] Krafton launches voluntary resignation program for employees as it transforms into an “AI first company”. Following its decision to became an "AI first" game company, Krafton is soliciting voluntary resignations from its employees → https://cutt.ly/EtwXp48Z
+» 🇺🇸 [Game Developer / 13 nov. 2025] Krafton initiates voluntary resignation program after 'record high' quarterly revenue. The company is also freezing hiring in areas outside AI and organizations developing original IP → https://cutt.ly/ptw333Ac
+» 🇺🇸 [Kotaku / 13 nov. 2025] Subnautica 2 publisher encourages voluntary layoffs as it goes ‘AI first’. Also: 220 GTA 6 devs blast Rockstar for alleged union busting → https://kotaku.com/--2000644024
+» 🇫🇷 [Gamekult / 13 nov. 2025] Vous êtes humain ? Krafton (PUBG) aimerait que vous dégagiez → https://cutt.ly/KtwNavVX
+» 🇫🇷 [ActuGaming / 13 nov. 2025] Krafton lance un plan de départ volontaire, pendant qu’il accélère sa transformation en entreprise basée sur l’IA → https://actugaming.net/--769764
+
+### Trails in the Sky 2nd Chapter
+» 🇺🇸 [Gematsu / 12 nov. 2025] Trails in the Sky 2nd Chapter to launch by September 2026. Platforms yet to be officially announced → https://cutt.ly/3twDG7mh
+» 🇫🇷 [ActuGaming / 12 nov. 2025] Trails in the Sky 2nd Chapter devrait sortir dans moins d’un an selon Falcom → https://actugaming.net/--769643
+
+### Ys X: Proud Nordics
+» 🇫🇷 [ActuGaming / 21 août. 2025] Ys X: Proud Nordics, la version améliorée du RPG, sortira chez nous début 2026 sur PC et Switch 2 → https://actugaming.net/--743538/
+
+### Dragon Quest VII Reimagined
+» 🇺🇸 [Game Informer / 4 nov. 2025] Dragon Quest VII Reimagined will have a new never-before-seen conclusion → https://cutt.ly/pr68UUhm
+» 🇫🇷 [ActuGaming / 5 nov. 2025] Dragon Quest VII Reimagined aura droit à une toute nouvelle conclusion, en plus des autres changements → https://actugaming.net/--769013
+
+### Ubisoft suspend sa cotation en bourse et reporte l'annonce de ses résultats financiers
+» 🇺🇸 [Ubisoft / 13 nov. 2025] Postponement of H1 FY2025-26 results announcement → https://cutt.ly/Rtw0vGn6
+
+» 🦋 [BlueSky / Chloé Woitier / 13 nov. 2025] 🧵 https://bsky.app/profile/chloew.bsky.social/post/3m5jnkuyybs2e
+> "Ubisoft a demandé à Euronext de suspendre la cotation de ses actions à compter de l'ouverture des marchés le 14 novembre 2025 et jusqu’à la diffusion de ses résultats pour le premier semestre 2025-26 dans les prochains jours.
+> Ubisoft tiendra le marché informé de la date de reprise de la cotation"
+> HUMMMM
+> (la publication des résultats pour le premier semestre devait avoir lieu à l'heure actuelle)
+> Ce n'est JAMAIS une bonne nouvelle quand la cotation est suspendue, on peut s'attendre à tout désormais
+
+» 🇺🇸 [Games Industry / 13 nov. 2025] Ubisoft delays H1 FY25-26 results and halts trading of shares. Delayed results will be issued "in the coming days" → https://www.gamesindustry.biz/ubisoft-delays-h1-fy25-26-results-and-halts-trading-of-shares
+» 🇺🇸 [Kotaku / 13 nov. 2025] This is Ubisoft’s weirdest delay yet. The Assassin's Creed maker has halted trading of its stock → https://kotaku.com/--2000644091
+» 🇫🇷 [ActuGaming / 13 nov. 2025] Ubisoft repousse au dernier moment la publication de ses derniers résultats et met en pause son action à la Bourse → https://actugaming.net/--769794
+» 🇫🇷 [Gamekult / 14 nov. 2025] Sans prévenir, Ubisoft suspend la cotation de son action et reporte ses résultats financiers → https://cutt.ly/ctw3VLHG
+
+
+## Jeux
+
+### Hyrule Warriors : Les Chroniques du Sceau / Hyrule Warriors: Age of Imprisonment
+» Hyrule Warriors : Les Chroniques du Sceau, sorti le 6 nov. 2025 à 60 € sur Switch 2 ; édité par Nintendo, développé par Koei Tecmo AAA Games Studio
+
+- sorti le 6 nov. 2025 sur Switch 2
+- édité par Nintendo, développé par Koei Tecmo AAA Games Studio, studio japonais 🇯🇵 dont c'est le premier jeu
+- réalisé par Koki Aoyanagi, direction artistique par Yuta Nagai, écriture par Yuki Ikeno, Mari Okamoto et Kaho Takahashi, musiques par Keiichi Okabe, Ryuichi Takada, Kuniyuki Takahashi, Oliver Good, Keita Inoue, Taichi Joraku
+
+🎮 à partir de 60 € en grande distribution
+🎮 70 € sur Switch 2 (<https://cutt.ly/Ntw0Ill1>)
+
+### ARC Raiders
+» ARC Raiders, sorti le 30 oct. 2025 à 40 € sur PlayStation 5, Xbox Series et PC / Steam Deck ; développé par Embark Studios → https://arcraiders.com | https://s.team/a/1808500
+
+- sorti le 30 oct. 2025 sur PlayStation 5, Xbox Series et PC / Steam Deck
+- développé par Embark Studios, studio suédois 🇸🇪 basé à Stockholm, derrière _The Finals_ (2023) → <https://arcraiders.com> | <https://embark-studios.com>
+
+🎮 40 € sur PlayStation (<https://cutt.ly/ttw0UVt1>) et Xbox (<https://cutt.ly/Ktw0U0hg>)
+💻️ 40 € sur Steam (<https://s.team/a/1808500>)
+
+» 🇯🇵 [Game\*Spark / 10 nov. 2025] 「ゲーム会社は“ゲーム”で語るべき」――『ARC Raiders』も快調なNexonのCEO イ・ジョンホン氏に直撃取材。リリースを控える期待作や日本のゲーマーに向けた戦略を訊いた → https://cutt.ly/ntwzjqiw
+» 🇺🇸 [Automaton Media / 11 nov. 2025] “It’s important to assume every game company is now using AI.” Nexon CEO comments on role of human creativity as AI tools become the norm. In an interview following the launch of ARC Raiders, the CEO of Embark Studios' parent company Nexon shares his views on AI → https://cutt.ly/twzhw2w
+» 🇬🇧 [PC Gamer / 11 nov. 2025] 'Every game company is now using AI': Nexon's CEO defends the use of generative AI in game development in the wake of Arc Raiders' controversy. If every game company jumped off a cliff, would you? → https://cutt.ly/mtwxPSs6
+» 🇺🇸 [Kotaku / 12 nov. 2025] Arc Raiders publisher defends generative AI and says you should assume everyone’s using it. Nexon doubles down on AI as others balk → https://kotaku.com/--2000643436
+» 🇫🇷 [ActuGaming / 12 nov. 2025] Pour Nexon, il faut désormais partir du principe « que toutes les entreprises de jeu vidéo utilisent l’IA » dans leurs projets → https://actugaming.net/--769651
+» 🇫🇷 [Gamekult / 12 nov. 2025] IA dans Arc Raiders : "Tout le monde utilise déjà l’IA" dans le jeu vidéo, selon le patron de Nexon → https://cutt.ly/XtwHKPmh
+
+» 🇺🇸 [Games Industry / 11 nov. 2025] Epic's Tim Sweeney wades into the Arc Raiders AI row. "This technology increases human productivity in some areas by integer multiples" → https://cutt.ly/XtwjFBZ0
+» 🇫🇷 [Gamekult / 12 nov. 2025] IA dans Arc Raiders : selon le patron d'Epic, l’IA, c'est oui, les critiques, c'est non → https://cutt.ly/ltwHJzvI
+
+### Dispatch
+» Dispatch, sorti le 22 oct. 2025 à 35 € sur PlayStation 5, à 29 € sur PC / Steam Deck, démo disponible ; développé par AdHoc Studio → https://adhocla.com | https://s.team/a/2592160
+
+- sorti le 22 oct. 2025 sur PlayStation 5 et PC / Steam Deck, démo disponible
+- développé par AdHoc Studio, studio états-unien 🇺🇸 créé par d'anciens des studios Telltale, Ubisoft et Night School Studio → <https://adhocla.com>
+- réalisé par Nick Herman, Dennis Lenart et Chris Rebbert, direction artistique par Derek Stratton, écriture par Pierre Shorette, Suzee Matson et Ashley Jeffalone, musiques par Andrew Arcadi
+- animation par Igloo Studio, studio thaïlandais 🇹🇭 derrière _My Daemon_ (2023) → <https://igloostudio.com>
+
+🎮 35 € sur PlayStation (<https://cutt.ly/7r55qg2e>)
+💻️ 29 € sur Steam (<https://s.team/a/2592160>)
+
+» 🇺🇸 [Inverse / 12 nov. 2025] Dispatch’s writer didn’t expect players to be so ‘ravenous’ for the game’s romances → https://cutt.ly/TtwKde1E
+» 🇺🇸 [Kotaku / 12 nov. 2025] Devs behind this year’s big superhero game regret cutting sex scenes. Romances weren't the main focus of Dispatch, so the devs were surprised by the fan reaction → https://kotaku.com/--2000643646
+» 🇫🇷 [Gamekult / 14 nov. 2025] Dispatch : oui, des scènes de sexe ont été coupées au montage → https://cutt.ly/hteOFJv7
+
+» ▶️ [YouTube / Skill Up / 8 nov. 2025] These Rockstar firings don't look good | Friends Per Second Ep #82 → https://youtu.be/aPqU5hSVA78 (2 h 33 min)
+» 🇫🇷 [ActuGaming / 10 nov. 2025] Dispatch : Une saison 2 n’est pas encore prévue, mais la question se pose sérieusement chez AdHoc Studios → https://actugaming.net/--769403
+
+» 🇺🇸 [Game Developer / 13 nov. 2025] Dispatch's episodic format - alongside sharp storytelling - is key to its success. AdHoc Studio reflects on Dispatch's episodic format as the last episodes debut → https://cutt.ly/Ztw33wgB
+
+## Mais pas que
+### Gauthier
+» 🎦 Frankenstein (2025), 152 min, film écrit et réalisé par Guillermo del Toro, musiques par Alexandre Desplat, avec Oscar Isaac, Jacob Elordi, Mia Goth, Felix Kammerer, Christoph Waltz
+- disponible sur Netflix (<https://netflix.com/title/81507921>)
+
+» 🇬🇧 [The Guardian / 17 jan. 2025] ‘Not second screen enough’: is Netflix deliberately dumbing down TV so people can watch while scrolling? → https://cutt.ly/XteqjoKW
+» 🇺🇸 [The Conversation / 17 fév. 2025] Too distracted to watch? Netflix has the perfect ‘second-screen’ show for you → https://theconversation.com/--249012
+
+### Héloïse
+» ▶️ [Arte] Espagne, une guerre sans fin (1/2), 53 min → https://www.arte.tv/fr/videos/118255-001-A
+» ▶️ [Arte] Espagne, une guerre sans fin (2/2), 52 min → https://www.arte.tv/fr/videos/118255-002-A
+» ▶️ [Arte] Espagne, de la dictature à la démocratie, 54 min → https://arte.tv/fr/videos/118254-000-A
+
+» 🎦 Madres paralelas (2021), 120 min, écrit et réalisé par Pedro Almodóvar, musiques par Alberto Iglesias, avec Penélope Cruz, Milena Smit, Aitana Sánchez-Gijón, Israel Elejalde
+
+» 🇫🇷 [Télérama / 9 nov. 2025] “Espagne, une guerre sans fin” révèle les cicatrices toujours vives de la société espagnole. Bien après la guerre civile, les traumas et les non-dits continuent de fracturer l’Espagne. Ce film illustré de riches archives donne la parole aux descendants de franquistes et de républicains → https://cutt.ly/tteqdu5c
+» 🇫🇷 [Ouest France / 11 nov. 2025] « Espagne, une guerre sans fin », sur Arte : les fantômes de la guerre civile sont encore bien vivaces. Dans un documentaire en deux parties diffusé mardi 11 novembre sur Arte, la guerre d’Espagne et la dictature franquiste qui lui a succédé sont auscultées avec brio. Oscillant entre témoignages d’héritiers républicains ou franquistes et images d’archives fascinantes, le récit ausculte les affres de ce conflit aux réminiscences toujours d’actualité. → https://cutt.ly/5teqd5cx
 
 
 
-» 💬
+» fil de discussion 💬
 » 📄 
 » 🇺🇸 
 » 🇫🇷 
