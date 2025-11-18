@@ -16659,6 +16659,92 @@ raids entrants :
 
 
 
+--------------------------------------
+2025-11-18
+
+# Mardinale #65
+## Actus
+### Black Ops 7 : IA slop en pagaille et lancement contrarié
+**AI, AI, AI**
+» 🇺🇸 [Kotaku / 14 nov. 2025] Activision responds to Call Of Duty: Black Ops 7‘s AI-generated artwork. Fans quickly spotted some bland looking art that features six-fingered hands and other telltale AI-generated traits → https://kotaku.com/--2000644397
+
+» 🇺🇸 [Kotaku / 17 nov. 2025] Call Of Duty: Black Ops 7 is getting a brutal kicking from players over its use of AI. The brazen AI-generated art in the shooter is pissing off just about everyone → https://kotaku.com/--2000644734
+» 🇫🇷 [Gamekult / 17 nov. 2025] Call of Duty : Black Ops 7 (encore) épinglé à cause de l'IA générative. J'entends le bruit des bots → https://cutt.ly/tteXTHdz
+
+» 🇺🇸 [Kotaku / 17 nov. 2025] Call Of Duty’s art slop leads US congressman to demand AI regulation. The discovery of AI art in Black Ops 7 is forcing a broader discussion of the issues, and some very dumb responses → https://kotaku.com/--2000644735
+
+**Réception désastreuse**
+» 🇬🇧 [Eurogamer / 17 nov. 2025] Call of Duty: Black Ops 7 underperforms on Steam during launch weekend, but does that mean the game's sold badly? → https://cutt.ly/Gte4oQmj
+» 🇺🇸 [80 Level / 17 nov. 2025] Call of Duty: Black Ops 7 becomes The worst-rated CoD installment in history. The game's review scores and player numbers on Steam make BO7 look like one of Activision's most disastrous launches ever → https://cutt.ly/ate4peZg
+
+**Fausse campagne solo**
+» 🇬🇧 [Eurogamer / 14 nov. 2025] Call of Duty: Black Ops 7 campaign cannot be paused by solo players, has no checkpoints, and requires an online connection at all times → https://cutt.ly/pteRC0Hi
+» 🇺🇸 [Kotaku / 14 nov. 2025] Surprise: Call Of Duty: Black Ops 7′s campaign is multiplayer-only and doesn’t let you pause. Drag a friend into this warzone, you’re going to need them → https://kotaku.com/--2000644358
+» 🇫🇷 [ActuGaming / 14 nov. 2025] Call of Duty Black Ops 7 : La campagne solo ne vous laisse pas mettre en pause et demande une connexion permanente → https://actugaming.net/--769923
+
+### Anno : Ubisoft laisse filer un peu d'IAgen dans le jeu
+» 🇺🇸 [TheGamer / 14 nov. 2025] Fans are accusing Ubisoft of using "incredibly disappointing" AI art in Anno 117 → https://cutt.ly/utelT8Tt
+» 🇺🇸 [Kotaku / 14 nov. 2025] Ubisoft says AI generated Anno art ‘slipped through’ its review process. The strategy game is the first Ubisoft release to have an AI disclaimer on Steam → https://kotaku.com/--2000644399
+» 🇬🇧 [Eurogamer / 16 nov. 2025] Ubisoft admits AI-generated loading screen "slipped through" into final build of Anno 117: Pax Romana. Players also accuse the developer of using AI to translate the game, too → https://cutt.ly/ste4reZu
+» 🇫🇷 [Gamekult / 17 nov. 2025] Ubisoft s'excuse pour l'IA générative dans Anno 117 : Pax Romana → https://cutt.ly/IteXT26S
+
+### Cotation boursière : chez Ubisoft, le cliffhanger demeure
+» sujet sur l'arrêt de la cotation boursière d'Ubisoft, _cf._ l'Hebdo
+
+» 🇫🇷 [Gamekult / 18 nov. 2025] Ubisoft UK blâme le statu quo de l'industrie et l'appétence pour le live service pour ses mauvaises performances → https://cutt.ly/Vte4fK6Z
+
+### Immortals Fenyx Rising gratuit
+» 🇫🇷 [ActuGaming / 11 nov. 2025] Pour fêter les 5 ans d’Ubisoft Connect, l’éditeur vous offre Immortals Fenyx Rising sur PC → https://actugaming.net/--769466
+
+### DLC gratuit pour Assassin’s Creed Mirage
+» 🇫🇷 [ActuGaming / 18 nov. 2025] Assassin’s Creed Mirage sort aujourd’hui son DLC gratuit, qui se montre dans une nouvelle vidéo → https://actugaming.net/--770118
+
+### HYTALE sauvé, Hypixels redevient indépendant
+» 🇺🇸 [Hytale / 17 nov. 2025] Hytale is saved! → https://cutt.ly/vteXxQjh
+» 🇫🇷 [Gamekult / 18 nov. 2025] Hytale : le studio d'origine rachète le projet à Riot et relance pleinement le développement → https://cutt.ly/yte4kaIK
+» 🇫🇷 [ActuGaming / 18 nov. 2025] Hytale est de retour, le studio à l’origine du projet rachète les droits du jeu auprès de Riot Games → https://actugaming.net/--770126
+
+### Cities Skylines 2 : Paradox confisque le projet à ses devs
+» 🇺🇸 [Paradox Forum / 17 nov. 2025] An update on Cities: Skylines II → https://cutt.ly/jteXzvf3
+» 🇫🇷 [ActuGaming / 17 nov. 2025] Cities Skylines change de studio, la licence passe aux mains d’Iceflake Studios, Colossal Order s’en va → https://actugaming.net/--770085
+
+### Affaire Subnautica 2 : Krafton a-t-il conspiré ?
+» 🇺🇸 [Game Developer / 17 nov. 2025] Krafton CEO accused of forming secret task force 'Project X' to seize control of Unknown Worlds. In a new pre-trial brief, the earnout tied to the early access launch of Subnautica 2 is described as a 'threat' to the job of CEO Changhan 'CH' Kim → https://cutt.ly/5teXxhRY
+» 🇺🇸 [Games Industry / 17 nov. 2025] Explosive Unknown Worlds lawsuit filing claims Krafton created secret task force to "execute a takeover". Filing includes Slack messages purportedly between Krafton CEO and CFO planning a potential takeover → https://cutt.ly/gte80vHm
+» 🇺🇸 [Kotaku / 17 nov. 2025] Subnautica 2 publisher allegedly asked ChatGPT to find a way out of paying cofounders. New filings accuse Krafton of engineering an illegal takeover to save money → https://kotaku.com/--2000644792
+» 🇫🇷 [ActuGaming / 18 nov. 2025] Subnautica 2 : À fond dans l’IA, le PDG de Krafton aurait demandé à ChatGPT comment éviter de payer les bonus des employés → https://actugaming.net/--770122
+
+» 🇫🇷 [ActuGaming / 14 nov. 2025] Hi-Fi Rush se met à jour, les droits du jeu sont transférés à Krafton, nouveau propriétaire de Tango Gameworks → https://actugaming.net/--769862
+
+### Hommage à Rebecca Heineman, décédée hier
+» 💰 [GoFundMe] Help Rebecca Ann Heineman fight aggressive cancer → https://cutt.ly/Ste4qA9L
+» 🇺🇸 [Time Extension / 17 nov. 2025] "Odd seeing eulogies before I expire" - Tributes pour in as Rebecca Heineman says she's losing her fight with cancer → https://cutt.ly/ZteXxZ7j
+» 🇺🇸 [Stevivor / 18 nov. 2025] Trailblazer Rebecca Heineman has lost her battle with cancer. The transgender icon and co-founder of Interplay will be greatly missed → https://cutt.ly/9teXxTNW
+» 🇺🇸 [Games Industry / 18 nov. 2025] "Trailblazing" Interplay co-founder Rebecca Heineman dies aged 62. "She was one of the most brilliant programmers around" → https://cutt.ly/Zte7tkFR
+» 🇫🇷 [Gamekult / 18 nov. 2025] Rebecca “Heck-Becky” Heineman s’est éteinte : la pionnière qui a marqué l'histoire du jeu vidéo. Elle a été la confondatrice d'Interplay → https://cutt.ly/Ste4vph1
+» ▶️ [YouTube / Stop Skeletons From Fighting / 28 jan. 2023] Doom’s Worst Port Was Made in Ten Weeks | 3DO Console Doom | Past Mortem → https://youtu.be/yxF1_wg2d_Q (32 min)
+» ▶️ [YouTube / Vintage Computer Federation / 14 sept. 2022] VCF West: DOOM 3DO: or how I survived Hell — Burger Becky → https://youtu.be/y_do6lL7ueQ (59 min)
+
+### Rockstar North se mobilise pour ses employés licenciés
+» 🇫🇷 [STJV / 6 nov. 2025] Répression syndicale à Rockstar : une attaque contre un·e est une attaque contre toustes → https://cutt.ly/ste4m5cd
+
+» ▶️ [YouTube / People Make Games / 11 nov. 2025] The Rockstar workers fired before they could finish GTA 6 → https://youtu.be/c9nOwjeznjI (19 min)
+» 🇺🇸 [Kotaku / 11 nov. 2025] Fired GTA 6 devs aren’t done fighting: ‘We want to finish what we were working on’. Rockstar has been accused of union-busting after firing dozens of workers → https://kotaku.com/--2000643030
+» 🇺🇸 [Game Developer / 12 nov. 2025] Rockstar hit with legal claims by IWGB over firing of unionizing workers. The IWGB is taking Rockstar to court for 'victimization and collective dismissal linked to trade union activity.' → https://cutt.ly/GtwDJ6Yf
+» 🇺🇸 [Kotaku / 12 nov. 2025] Union goes to court after Rockstar refuses to discuss GTA 6 firings. The IWGB is moving forward with legal claims over allegations of union-busting → https://kotaku.com/--2000643478
+» 🇫🇷 [Gamekult / 13 nov. 2025] Rockstar est désormais poursuivi en justice pour licenciement abusif lié à des activités syndicales → https://cutt.ly/KtwKc6Wb
+» 🇫🇷 [ActuGaming / 13 nov. 2025] GTA 6 : Un syndicat britannique dépose une plainte au Royaume-Uni contre Rockstar suite aux derniers licenciements → https://actugaming.net/--769789
+
+» 🇬🇧 [IWGB Game Workers / 13 nov. 2025] Over 200 Rockstar staff write to management in support of unfairly fired union members → https://cutt.ly/KtelOqQR
+» 🇺🇸 [Game Developer / 14 nov. 2025] Rockstar staff demand the company reverse alleged union-busting, reinstate fired workers. Over 200 Rockstar staffers signed letters to management demanding the 31 employees fired on November 2 be reinstated → https://cutt.ly/etelY9n6
+» 🇺🇸 [Games Industry / 14 nov. 2025] Over 200 Rockstar North staff sign letter demanding "immediate reinstatement" of fired colleagues. Independent Workers' Union of Great Britain says letter has been handed to senior management at developer → https://cutt.ly/ItelIld5
+» 🇫🇷 [Gamekult / 14 nov. 2025] Après les soupçons de licenciements abusifs, Rockstar (GTA) se retrouve face au Parlement britannique → https://cutt.ly/8teOZoM3
+
+» 🇺🇸 [Game Developer / 17 nov. 2025] 'Our solidarity will always emerge stronger:' Protests against Rockstar continue in London, Edinburgh, and Paris. 'Unions have always faced repression, the last resort of the weak to try to delay what is bound to happen.' → https://cutt.ly/DteXEjiZ
+
+
+
+
 » fil de discussion 💬
 » 📄 
 » 🇺🇸 
