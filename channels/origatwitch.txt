@@ -16895,6 +16895,85 @@ raids : OrigaTwitch => (15:35)[+341] DollyWood_ => (18:56)[+104] AuPoste_fr => (
 
 
 
+--------------------------------------
+2025-11-25
+
+# Mardinale #66
+## Actus
+### En fait Ubisoft ça va, merci
+» 🇫🇷 [Ubisoft / 21 nov. 2025] Ubisoft annonce ses resultats pour le premier semestre 2025-26 → https://cutt.ly/ctrRsO8F
+» 🇫🇷 [Le Figaro / 21 nov. 2025] Ubisoft : la cotation du géant français des jeux vidéo reprend ce matin, l’investissement de Tencent est imminent. L’action du géant français du jeu vidéo était suspendue depuis une semaine à sa demande pour un problème purement comptable. L’investissement de 1,16 milliard d’euros du géant chinois a reçu tous les feux verts. → https://cutt.ly/5trRfKjK
+» 🇫🇷 [Boursorama / 21 nov. 2025] Ubisoft-Net bookings au-dessus des attentes au T2, reprise de la cotation → https://cutt.ly/KtrRa16O
+» 🇫🇷 [Gamekult / 21 nov. 2025] Ubisoft rassure et confirme la finalisation imminente de son accord avec Tencent. La comptabilité, c'est compliqué → https://cutt.ly/9trUx6FU
+» 🇫🇷 [ActuGaming / 21 nov. 2025] Après un retard, Ubisoft publie ses résultats semestriels sans l’ombre d’un rachat en vue → https://actugaming.net/--770768
+» 🇫🇷 [ActuGaming / 21 nov. 2025] Le remake de Prince of Persia: Les Sables du Temps est toujours prévu pour sortir avant fin mars 2026 → https://actugaming.net/--770774
+» 🇺🇸 [Reuters / 21 nov. 2025] Ubisoft flags strong Q2 bookings in a report delayed by debt covenant breach → https://cutt.ly/6tttsvOn
+» 🇺🇸 [Kotaku / 21 nov. 2025] Ubisoft’s mysterious delay explained: Assassin’s Creed: Black Flag, AI, and debt accounting. The publisher silences speculation with a very normal earnings call → https://kotaku.com/--2000646161
+
+» 🦋 [BlueSky / Chloé Woitier / 21 nov. 2025] 🧵 https://bsky.app/profile/chloew.bsky.social/post/3m64s65fkjk27
+> Ubisoft reprend ce matin sa cotation en Bourse, l’investissement de Tencent est imminent, le problème était bien purement comptable et technique https://cutt.ly/5trRfKjK
+
+» 🦋 [BlueSky / Gautoz / 21 nov. 2025] 🧵 https://bsky.app/profile/gautoz.cool/post/3m64sds2i2p6b
+> Ubisoft relance ce matin sa cotation boursière sans aucune annonce de rachat ou de prise de contrôle.
+> C’était bel et bien un fourbi comptable, lié à l’injection imminente de cash par Tencent.
+> (Ne croyez pas les insiders à coche bleue sur X, épisode 16537)
+
+### … mais ça liencie quand même
+» 🇺🇸 [Ubisoft RedLynx / 22 oct. 2025] Ubisoft RedLynx proposes strategic refocus on small screens → https://cutt.ly/Vr8CWhWb
+» 🇺🇸 [Games Industry / 22 oct. 2025] Ubisoft announces "restructuring proposal" for RedLynx, 60 jobs may be at risk. RedLynx to hold collective negotiations with staff before decision whether to enact proposal is made → https://cutt.ly/br89Qnlg
+» 🇫🇷 [ActuGaming / 22 oct. 2025] Ubisoft lance un plan de restructuration chez Ubisoft Massive (The Division, Star Wars Outlaws) et chez RedLynx (Trials) → https://actugaming.net/--766023
+» 🇫🇷 [Gamekult / 22 oct. 2025] Ubisoft RedLynx (Trials, Star Wars Outlaws) se prépare à une restructuration : jusqu'à 60 emplois menacés. Le studio finlandais se concentrera sur le mobile → https://cutt.ly/Rr89VLw8
+
+» 🇫🇷 [Le Figaro / 22 oct. 2025] Les réductions d’effectifs chez Ubisoft touchent le studio derrière le jeu vidéo «Star Wars Outlaws» → https://cutt.ly/Xr89lsvN
+» 🇺🇸 [Kotaku / 22 oct. 2025] Ubisoft asks devs at Star Wars Outlaws studio to lay themselves off. Massive gets downsized → https://kotaku.com/--2000638264
+» 🇫🇷 [Gamekult / 22 oct. 2025] Ubisoft : un plan de départs volontaires chez Massive (The Division, Avatar, Star Wars) → https://cutt.ly/Tr89BaDr
+
+### Tencent nom nom Ubisoft
+» sur le sujet de l'alliance entre Ubisoft et Tencent, cf. la Mardinale https://discord.com/channels/962415700197142648/1356577953961480212
+
+### Une série Far Cry dévoile son équipe de prod
+» 🇺🇸 [Variety / 24 nov. 2025] ‘Far Cry’ TV series set at FX from Noah Hawley and Rob Mac → https://cutt.ly/nttAgsBm
+» 🇺🇸 [Kotaku / 25 oct. 2025] A Far Cry TV show from the creator of _Alien: Earth_ is really happening. _It's Always Sunny_'s Rob Mac is also developing the show based on Ubisoft's long-running franchise → https://kotaku.com/--2000647139
+» 🇫🇷 [ActuGaming / 25 nov. 2025] La série TV Far Cry est confirmée, avec Noah Hawley (Alien: Earth) et Rob McElhenney (Mythic Quest) aux commandes → https://actugaming.net/--771032
+
+### Rockstar VS IGWB : la faute grave expliqué par PMG
+» ▶️ [YouTube / People Make Games / 24 nov. 2025] The messages Rockstar saw before firing 34 union members → https://youtu.be/8TvWNFBBwuY (16 min)
+» 🇺🇸 [Kotaku / 24 nov. 2025] GTA 6 dev firings started with a crackdown in Slack. We now know more about why Rockstar fired several union members in October → https://kotaku.com/--2000646881
+» 🇫🇷 [Gamekult / 24 nov. 2025] GTA 6 : voici les messages Discord qui seraient derrière le licenciement de 34 syndicalistes → https://cutt.ly/1ttxQRAz
+
+### 👉 Le problème 💢 des emojis 😱
+» 🇺🇸 [Fortune / 29 févr. 2024] Vice execs abruptly lay off workers, end town hall after downpour of thumbs-down emojis → https://cutt.ly/vttA4hdg
+
+### L'acteur Udo Kier est décédé, Red Alert perd son Yuri
+» 🇺🇸 [Variety / 23 nov. 2025] Udo Kier, German actor who appeared in ‘My Own Private Idaho,’ ‘Andy Warhol’s Frankenstein,’ dies at 81 → https://cutt.ly/kttz5v8w
+» 🇺🇸 [Kotaku / 24 nov. 2025] Tragically, Udo Kier dies before completing his role for next Kojima game. The cult actor, best known for Command & Conquer, died aged 81 → https://kotaku.com/--2000646813
+» 🇫🇷 [ActuGaming / 24 nov. 2025] L’acteur Udo Kier, qui devait apparaitre dans le jeu OD de Kojima, est décédé à l’âge de 81 ans → https://actugaming.net/--770922
+
+» 𝕏 [X / Hideo Kojima / 24 nov. 2025] 🧵 https://xcancel.com/HIDEO_KOJIMA_EN/status/1992785286712209409
+> I’m at a loss for words. It all happened far too suddenly.
+> Because of the strike, we weren’t able to shoot “OD” for a long time, and we were forced to reschedule to next year. Even during that time, Udo and I exchanged emails frequently. We stayed in close contact. When we met in Milan at the end of September, he told me how much he was looking forward to the shoot starting up again next year. He was full of energy then too, making me laugh with his usual “Udo-isms.” 
+> I still can’t believe this.
+> Udo wasn’t just an actor. He was truly an “icon” of his time. We’ve lost a great “icon.” There will never be another like him.
+> Udo, rest in peace. I will never forget you.
+
+### Inkle annonce le jeu d'enquête TR-49
+» TR-49, annoncé pour jan. 2026 sur Windows, Mac et PC / Steam Deck ; développé par inkle, studio britannique 🇬🇧 derrière _80 Days_ (2015), _Sorcery_ (2016), _Heaven's Vault_ (2019), _Pendragon: Narrative Tactics_ (2020), _Overboard!_ (2021), _A Highland Song_ (2023), _Expelled!_ (2025) → https://s.team/a/3838370 | https://inklestudios.com/tr-49/
+
+### Chez Ubisoft, l'IAgen "comparable au saut entre 2D et 3D"
+» 🇺🇸 [Games Industry / 21 nov. 2025] Ubisoft's AI NPC project can now deliver sarcastic GMs, helpful team-mates and hidden lore – and is being playtested now. A tour of duty with the "Teammates" concept, built on in-house middleware that connects external models to internal engines → https://cutt.ly/yttyfOlR
+» 🇺🇸 [Game Developer / 21 nov. 2025] Ubisoft's first playable generative AI experience is an R&D experiment called 'Teammates'. The Assassin's Creed publisher has demonstrated how generative AI could materialize within its video games → https://cutt.ly/Mttyx1g9
+» 🇺🇸 [Kotaku / 21 nov. 2025] Ubisoft shows off new AI-powered FPS and hopes you’ve forgotten about its failed NFTs. Teammates is a first-person shooter designed around AI-powered squad mates that the publisher sees as the future → https://kotaku.com/--2000646251
+» 🇫🇷 [ActuGaming / 24 nov. 2025] Ubisoft continue d’investir dans l’IA avec « Teammates » censé donner vie à des PNJ qui vous accompagnent → https://actugaming.net/--770926
+» 🇬🇧 [Eurogamer / 21 nov. 2025] Ubisoft boss believes generative AI is as big a revolution for games as the shift to 3D, as tech is embraced company-wide → https://cutt.ly/tttAXPCE
+» 🇫🇷 [Le Figaro / 21 nov. 2025] «Nous avons toutes les cartes en main pour être leader» : Ubisoft dévoile ses avancées dans les jeux vidéo dopés à l’IA → https://cutt.ly/XttAX3QA
+
+### La Xbox 360 fête ses 20 ans
+» 🇫🇷 [Gamekult / 25 nov. 2025] Avec la Xbox 360, Microsoft a accompli l'exploit d'une génération face à Sony. Ils ne savaient pas que c'était impossible, alors ils l'ont fait → https://cutt.ly/kttSt9N2
+
+### SpeeDons
+» SpeeDons, du 7 au 10 mai 2026, au Palais des Congrès de Lyon, au profit de Médecins du Monde → https://speedons.fr
+
+
 
 
 » fil de discussion 💬
