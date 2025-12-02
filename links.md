@@ -8440,9 +8440,11 @@ https://microsoft.gcs-web.com/static-files/b0a66351-38cf-4147-a907-191d774531bb
 
 » 🇫🇷 [Gamekult / 24 nov. 2025] Le FSR4 arrive sur Proton et pourrait impacter directement les performances des Steam Machines. Bonne nouvelle potentielle pour le Steam Deck également → https://cutt.ly/Pttxbl9F
 
+» ▶️ [YouTube] Dan Houser interview Sunday Brunch → https://youtu.be/taaJ8EIebQ8 (9 min)
 » 🇬🇧 [Eurogamer / 24 nov. 2025] Rockstar Games co-founder is dabbling with AI for his next game, but admits it's "not as useful as some of the companies would have you believe yet". "It's not going to solve all of the problems." → https://cutt.ly/gttxfkE6
 » 🇺🇸 [PCGamesN / 24 nov. 2025] GTA veteran's new studio is "dabbling in AI," but it's not as great as "companies would have you believe". Now leading Absurd Ventures, Rockstar co-founder Dan Houser says AI is "not going to solve all of the problems" in game development → https://cutt.ly/BttxinxG
 » 🇺🇸 [Kotaku / 24 nov. 2025] Former GTA boss isn’t buying all of the AI hype. GTAV and RDR2’s writer Dan Houser notes that AI isn’t capable of genuine creative work → https://kotaku.com/--2000646935
+» 🇫🇷 [ActuGaming / 1er déc. 2025] Dan Houser, l’ancien vice-président de Rockstar Games, critique l’essor de l’IA : « Ceux qui la poussent ne sont pas les plus humains ou créatifs » → https://actugaming.net/--771466
 
 » 🇫🇷 [ActuGaming / 24 nov. 2025] Charlie Cox revient avec humilité sur sa nomination aux Game Awards pour Clair Obscur: Expedition 33 → https://actugaming.net/--770935
 » 🇫🇷 [Gamekult / 25 nov. 2025] Clair Obscur : nommé aux Game Awards, Charlie Cox (Gustave) préfère rendre hommage à un autre acteur. Le Français Maxence Cazorla dans la Lumière → https://cutt.ly/httHrK6F
@@ -8649,10 +8651,17 @@ https://microsoft.gcs-web.com/static-files/b0a66351-38cf-4147-a907-191d774531bb
 » 🇺🇸 [Video Games Industry Memo / 27 nov. 2025] How Steam censors LGBTQ+ content on behalf of the Russian Government, 27/11/2025. When Roskomnadzor calls, Valve answers → https://cutt.ly/KtyNLqVl
 » 🇺🇸 [Games Industry / 28 nov. 2025] Valve accused of pulling LGBTQ+ game from Steam at request of Russian government. Steam allegedly the only platform to capitulate, while Apple and Google simply ignored the request → https://cutt.ly/gtyNKABN
 
-» 🇺🇸 [Games Industry / 28 nov. 2025] 
 
-» 🇺🇸 [Games Industry / 28 nov. 2025] 
+» 🇺🇸 [The Game Business / 28 nov. 2025] Tekken’s Katsuhiro Harada: As a producer, maybe I’m a failure. The Tekken team on budgets, events and potential new revenue streams → https://cutt.ly/hturq2RA (35 min)
+» 🇺🇸 [Automaton Media / 28 nov. 2025] Tekken producer Katsuhiro Harada denies rumors about wanting to monetize official tournament streams. Alongside Harada, Tekken senior producer Naoya Yasuda has also explicitly stated that tournaments will never adopt a pay-per-view model → https://cutt.ly/Iturqkfj
 
+» 🇯🇵 [Dengenki Online / 27 nov. 2025] 『サイレントヒルf』岡本プロデューサー×Al Yangディレクター×竜騎士07インタビュー。雛子さんや狐面の男のミーム化など、発売後の反響を受けた感想は？（ネタバレあり） → https://dengekionline.com/article/202511/57863
+» 🇺🇸 [Automaton Media / 28 nov. 2025] Silent Hill f’s success was helped greatly by memes, fanart and theories it inspired, devs say. A new approach to writing characters unlocked potential for virality. Silent Hill f director Motoi Okamoto and writer Ryukishi07 talk about how the game's character-driven narrative helped attract a large fan community → https://cutt.ly/dtureqIr
+
+» 🇯🇵 [GameWatch / 27 nov. 2025] 「龍が如く 冠婚葬祭展」横山昌義氏インタビュー。「シリーズの今後は『極3/3外伝』にヒントがある」 → https://cutt.ly/OturrCzL
+» 🇺🇸 [Automaton Media / 28 nov. 2025] Yakuza Kiwami 3 and Dark Ties include major hints about where the Like a Dragon series is headed, RGG Studio lead says. Like a Dragon series executive producer Yokoyama Masayoshi says the upcoming release will tell players a lot about the series' future → https://cutt.ly/Vturrl3a
+
+» 🇺🇸 [Time Extension / 28 nov. 2025] Did you spot this NES-related blunder in Stranger Things season 5? The Duffer Brothers give Nintendo's console too much credit → https://cutt.ly/Ptue9OaF
 
 
 » ▶️ [YouTube / View Monst2 / 27 nov. 2025] Mr. House cut romance quest lines → https://youtu.be/Y8QGYqdNF98 (3 min)
@@ -8670,23 +8679,95 @@ https://microsoft.gcs-web.com/static-files/b0a66351-38cf-4147-a907-191d774531bb
 » 🇬🇧 [PC Gamer / 30 nov. 2025] After 13 years, Euro Truck Simulator 2 smashes its all-time concurrent player peak on Steam by dropping two DLCs with, let me check my notes here, more Europe and more trucks → https://cutt.ly/CtyMwZka
 
 
+» 🇺🇸 [Kotaku / 1er déc. 2025] Fortnite has been dragged into the AI slop wars. Season 7 is already facing questions of what's gen AI and what's not → https://kotaku.com/--2000649103
+
+» 🇺🇸 [MP1ST / 28 nov. 2025] New Dead Rising game In development, now set in Hollywood → https://cutt.ly/oturRTMF
+» 🇫🇷 [Gamekult / 1er déc. 2025] Le prochain Dead Rising serait en développement, Frank West fait son cinéma. Les zombies sont nos amis pour la vie → https://cutt.ly/UturRdn7
+
+» 🇺🇸 [Kotaku / 1er déc. 2025] The Game Awards is hyping a satanic statue that randomly appeared in the desert. It sure is neat lookin', but it's still not quite clear what game the statue is for → https://kotaku.com/--2000649133
+
+» 🇫🇷 [Gamekult / 1er déc. 2025] Where Winds Meet fête ses 9 millions de joueurs avec une date sur mobile → https://cutt.ly/HturROYz
+
+» 🇫🇷 [ActuGaming / 1er déc. 2025] Cross The Ages : Arise fait le show, retour sur le Hero Festival 2025 → https://actugaming.net/--769332
+
+» 🇺🇸 [Kotaku / 1er déc. 2025] There’s a scene in Zootopia 2 that convinced me Disney read the abortion comic. Zootopia 2 denies Nick and Judy shippers the catharsis they’ve waited a decade for → https://kotaku.com/--2000649147
+
+» 🇫🇷 [ActuGaming / 1er déc. 2025] GTA VI : des animations du monde ouvert repérées dans la bande démo d’un ancien animateur de Rockstar Games → https://actugaming.net/--771408
+
+» 🇺🇸 [Polygon / 1er déc. 2025] Arc Raiders fansite puts bounties on nasty players (including streamers) → https://cutt.ly/xtueNx1e
+» 🇺🇸 [Kotaku / 1er déc. 2025] Arc Raiders fans have a new tool for revenge against assholes. Ready to do some bounty hunting? → https://kotaku.com/--2000649163
+» 🇺🇸 [Kotaku / 1er déc. 2025] Extraction shooter player puts down guns and starts selling fruit instead. Don’t shoot! I have fruit! → https://kotaku.com/--2000649233
+
+» 🇺🇸 [Bloomberg / 28 nov. 2025] The makers of ‘Silksong’ aren’t done just yet. The developers at Team Cherry tell us they’re working on new content for their popular action game → https://cutt.ly/DtueYWWh
+» 🇫🇷 [ActuGaming / 1er déc. 2025] Hollow Knight: Silksong – Team Cherry doute de sa victoire face à Clair Obscur: Expedition 33 aux Game Awards → https://actugaming.net/--771458
+
+» 🇫🇷 [Gamekult / 1er déc. 2025] Splinter Cell : le remake retrouve son premier réalisateur → https://cutt.ly/uturTr3Y
+
+» 🇺🇸 [Kotaku / 1er déc. 2025] Stranger Things season 5 made a retro gaming mistake most people would never notice. Why is the Netflix show plugging in an NES if it’s not going to use footage from it? → https://kotaku.com/--2000649178
+
+» 🇫🇷 [Gamekult / 1er déc. 2025] Yakuza Kiwami 3 & Dark Ties : deux nouvelles vidéos entre orphelinat et maison close → https://cutt.ly/MturTaAM
+
+» 🇺🇸 [Gematsu / 1er déc. 2025] Styx: Blades of Greed delayed to February 19, 2026. No longer due out this fall → https://cutt.ly/FtueIxpd
+
+» 🇺🇸 [Ars Technica / 1er déc. 2025] After 40 years of adventure games, Ron Gilbert pivots to outrunning Death → https://cutt.ly/8turoJhx
+» 🇬🇧 [Eurogamer / 1er déc. 2025] Monkey Island creator Ron Gilbert cancels 2D pixel art Zelda-like RPG after struggling to secure funding. "The deals that publishers were offering were just horrible." → https://cutt.ly/btuross1
+
+» 🇺🇸 [Kotaku / 1er déc. 2025] Ubisoft’s becoming the king of Switch 2 ports. Assassin's Creed Shadows looks phenomenal and (mostly) runs well on the portable console hybrid → https://kotaku.com/--2000649204
+
+» 🇫🇷 [new game+ / 1er déc. 2025] Le quasi-monopole de Steam menace les jeux indépendants → https://cutt.ly/Atue5NM1
+
+» 🇬🇧 [FutureLab / 1er déc. 2025] “Remarkably satisfying” - One month of PowerWash Simulator 2 → https://cutt.ly/JtueOUHU
+
+» 🇬🇧 [Eurogamer / 1er déc. 2025] Battlefield 6 was cheater-free in roughly 98% of games after launch → https://cutt.ly/atue5P8u
+
+» 🇺🇸 [Kotaku / 1er déc. 2025] Nightreign‘s deadliest field boss is not who I expected. Bell Bearing Hunter's placement is raising questions → https://kotaku.com/--2000649218
+
+» 🇺🇸 [Deadline / 1er déc. 2025] ‘God Of War’: Frederick E.O. Toye set to direct as pre-production & casting are underway on Amazon Series with 2-season order → https://cutt.ly/ftueO4jl
+
+» 🇺🇸 [Kotaku / 1er déc. 2025] A Sonic spin-off movie is officially in the works, coming in 2028. Please let it be about Keanu Reeves’ Shadow → https://kotaku.com/--2000649220
+
+» 🇺🇸 [Time Extension / 1er déc. 2025] Tommy Tallarico got bodied so badly he's now using a fake name. Say hello to 'Sammy Salazar' → https://cutt.ly/Qtue8Tf2
+
+» 🇯🇵 [GameMakers / 18 nov. 2025] フォントサービス「フォントワークス LETS」「Monotype LETS」のゲーム組込オプション、11/28（金）に提供終了 → https://gamemakers.jp/article/2025_11_18_123775/
+» 🇯🇵 [Game\*Spark / 1er déc. 2025] 年6万円が年320万円以上に…1人で使うなら年間費用「53倍以上」の衝撃、有名フォントの商用ゲーム組み込み向けライセンス更新終了に大きな波紋―見慣れたゲームの見た目変わるかも → https://cutt.ly/htury22V
+» 🇺🇸 [Automaton Media / 1er déc. 2025] Japanese game developers face ridiculously high font license fees following US acquisition of major domestic provider. Live-service games to take the biggest blow. A change in license plans has made it up to 50 times more expensive for Japanese game developers to use commercial fonts in their games and apps → https://cutt.ly/mturtRpl
+
+» 🇯🇵 [Famitsu / 28 nov. 2025] 『サイレントヒルf』小説刊行記念対談。岡本P×黒史郎氏「まだ明かされていない部分に光を当てる取り組みも検討中です」即完売で異例の大重版に → https://famitsu.com/article/202511/58311
+» 🇺🇸 [Automaton Media / 1er déc. 2025] The Silent Hill series is like good-old soy sauce ramen, producer says. Adding Ryukishi07’s rich and dramatic writing to it required immense care. Silent Hill producer Motoi Okamoto talks about the challenges he faced when incorporating Ryukishi07's writing in the latest series title → https://cutt.ly/Ituru8Dp
+
+» ▶️ [YouTube / Plot Coalition / 29 nov. 2025] For Liberty! A Helldivers film → https://youtu.be/M7nXj34kwIg (52 min)
+
+» 🇺🇸 [Game World Observer / 1er déc. 2025] In 2025, India’s gaming market revenue will exceed one billion dollars. This is the fastest-growing gaming market among the countries of Asia, the Middle East, and North Africa, reports the analytics company Niko Partners → https://cutt.ly/iturkO4R
+
+» 🇺🇸 [Hollywood Reporter / 13 nov. 2025] Justin Lin to direct ‘Helldivers’ video game movie. Gary Dauberman, the scribe behind the 'It' and 'Annabelle' horror movies, wrote the script for the Sony Pictures/PlayStation Productions project → https://cutt.ly/PturU2h2
+» 🇺🇸 [Kotaku / 1er déc. 2025] The Helldivers movie just found the perfect director. Justin Lin, the director behind multiple Fast & Furious movies, is set to helm the video game adaptation → https://kotaku.com/--2000649269
+
+
+» 🇫🇷 [Gamekult / 2 déc. 2025] Pour éviter l'effet Cyberpunk 2077, The Witcher 4 ne sortira pas en 2026. En revanche, on nous annonce beaucoup d'épisodes en peu de temps par la suite → https://cutt.ly/ztuuCm41
+
+» 🇯🇵 [Real Sound / 28 nov. 2025] 過去作への敬意と現代のプレイヤーに適応した進化……コナミデジタルエンタテインメント・岡村憲明＆是角有二に聞く、新体制で生み出した『MGSΔ』の背景 → https://realsound.jp/tech/2025/11/post-2232566.html
+» 🇫🇷 [Gamekult / 2 déc. 2025] Metal Gear Solid : après Delta, Konami hésite encore sur le chemin à emprunter pour la suite → https://cutt.ly/BtuuCCQQ
+
+» 🇺🇸 [Automaton Media / 2 déc. 2025] Hideo Kojima to make cameo in Zootopia 2’s Japanese version, at director’s personal request. Kojima will be playing the role of Officer Paul Moledebrandt in the upcoming Japanese version of Zootopia 2. → https://cutt.ly/KtuuMiuT
 
 
 
-» 🇫🇷 [ActuGaming / 28 nov. 2025] 
 
-» 🇫🇷 [Gamekult / 28 nov. 2025] 
 
-» 🇬🇧 [PC Gamer / 30 nov. 2025] 
+» 🇫🇷 [ActuGaming / 2 déc. 2025] 
 
-» 🇺🇸 [Automaton Media / 27 nov. 2025] 
+» 🇫🇷 [Gamekult / 2 déc. 2025] 
 
-» 🇺🇸 [IGN / 27 nov. 2025] 
-» 🇫🇷 [IGN France / 27 nov. 2025] 
+» 🇺🇸 [Kotaku / 2 déc. 2025] 
 
-» 🇺🇸 [Kotaku / 27 nov. 2025] 
+» 🇬🇧 [PC Gamer / 1er déc. 2025] 
 
-» 🇺🇸 [Time Extension / 29 nov. 2025] 
+» 🇺🇸 [IGN / 2 déc. 2025] 
+» 🇫🇷 [IGN France / 2 déc. 2025] 
+
+» 🇺🇸 [Automaton Media / 2 déc. 2025] 
+
+» 🇺🇸 [Time Extension / 2 déc. 2025] 
 
 
 
