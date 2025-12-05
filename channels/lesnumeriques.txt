@@ -13592,6 +13592,47 @@ raids : LesNumeriques => (13:49)[+95] NotPatrick (terminé à 15:20)
 raids : LesNumeriques => (13:27)[+109] MonPetitPC (>15:00) => (<17:34) inforea [DouDream=>(18:23)+14] (>18:30) => AmadeOurs => LittleBigWhale => (<23:50) Wisethug
 
 
+--------------------------------------
+2025-12-04
+
+» 🇫🇷 [Gamekult / 4 déc. 2025] Micron, un des trois géant de la RAM, abandonne le marché des particuliers pour nourrir des data centers d'IA → https://cutt.ly/XtuLJH5N
+» 🇫🇷 [Les Numériques] Coup dur pour votre PC : Micron sacrifie Crucial en pleine crise de la mémoire → https://lesnumeriques.com/ram-memoire-vive/-n247535.html
+
+» 🇫🇷 [Gamekult] Judas fait enfin les présentations pour son personnage principal → https://gamekult.com/actualite/-3050867276.html
+» 🇫🇷 [Gamekult / 3 déc. 2025] Helldivers 2 remercie Nixxes pour le régime : l'installation du jeu sur PC va baisser de 131 Go → https://cutt.ly/EtuLOSwa
+» 🇫🇷 [Gamekult / 3 déc. 2025] « Quitter Sega a été une chose très saine » : Mark Cerny se confie sur ses années Sonic → https://cutt.ly/AtuLUW3F
+» 🇫🇷 [Gamekult / 2 déc. 2025] Le papa de Monkey Island voulait faire un Zelda-Like mais personne n'a voulu le financer → https://cutt.ly/WtuLWyFP
+» 🇫🇷 [Gamekult] Sacred revient en pixel art avec Sacred: Last Pixel of Ancaria, ode aux belles heures du 16-bit → https://gamekult.com/actualite/-3050867267.html
+» 🇫🇷 [Gamekult] Electronic Arts : si le rachat se confirme, l'Arabie Saoudite détiendra plus de 93% de l'éditeur → https://gamekult.com/actualite/-3050867264.html
+» 🇫🇷 [Gamekult / 2 déc. 2025] « Ça passe ou ça casse » : pourquoi Mina the Hollower n'a pas le droit à l'échec. Yacht Club Games est à un tournant de son histoire → https://cutt.ly/wtuLbMeB
+» 🇫🇷 [Gamekult] Clair Obscur : Expedition 33 part en tournée de concerts, la billetterie est ouverte. Paris, Toulouse, Lille, Nantes, Bordeaux, Reims, Strasbourg... → https://gamekult.com/actualite/-3050867105.html
+» 🇫🇷 [Gamekult] Square Enix annonce un grand concert mondial, les billets sont en vente. « The Music of Square Enix » s'arrêtera à Paris et à Lyon → https://gamekult.com/actualite/-3050867255.html
+» 🇫🇷 [Gamekult / 2 déc. 2025] Pour le film Helldivers, Sony fait le pire choix et embauche le réalisateur de Fast & Furious. Le type a 5 Fast & Furious au compteur → https://cutt.ly/RtuLumx1
+» 🇫🇷 [Gamekult / 2 déc. 2025] God of War : après le bazar créatif, la série Amazon s'offre le réalisateur de Shōgun pour sauver Kratos, et c'est plutôt rassurant, on l'avoue → https://cutt.ly/WtuLjcAj
+» 🇫🇷 [Gamekult / 1er déc. 2025] Splinter Cell : le remake retrouve son premier réalisateur → https://cutt.ly/uturTr3Y
+» 🇫🇷 [Gamekult] Mindseye tente encore de faire oublier sa sortie désastreuse avec un "pack de lancement gratuit" → https://gamekult.com/actualite/-3050867217.html
+» 🇫🇷 [Gamekult] Cyberpunk 2077 vient d'atteindre les 35 millions de ventes, Cyberpunk 2 se renforce. Encore plus vite que The Witcher 3 → https://gamekult.com/actualite/-3050867132.html
+» 🇫🇷 [Gamekult / 2 déc. 2025] Pour éviter l'effet Cyberpunk 2077, The Witcher 4 ne sortira pas en 2026. En revanche, on nous annonce beaucoup d'épisodes en peu de temps par la suite → https://cutt.ly/ztuuCm41
+» 🇫🇷 [Gamekult] Titre improbable : les vétérans de GoldenEye et TimeSplitters annoncent un Scrabble en roguelike → https://gamekult.com/actualite/-3050867152.html
+» 🇫🇷 [Gamekult] Hello Games privilégie toujours No Man's Sky à son nouveau projet, Light No Fire → https://gamekult.com/actualite/-3050867141.html
+
+» 🇫🇷 [Gamekult] Appelez-moi le directeur : l'abonnement spécial 25 ans est dispo et les GK Awards sont de retour → https://gamekult.com/actualite/-3050866671.html
+
+» 🇫🇷 [Gamekult] « J'ai relu ton test. T'es sûr de ton 8 ? ». Quand Raggal régale → https://gamekult.com/actualite/-3050865876.html
+» 🇫🇷 [Gamekult] C'est 7 ? Non, pas vraiment… De « la juste note » à « l'ajuste note », il n'y avait qu'un pas pour Mike → https://gamekult.com/actualite/-3050865835.html
+» 🇫🇷 [Gamekult] Plug_In_Baby n'a pas oublié pourquoi il faut jouer à Wolfenstein → https://gamekult.com/actualite/-3050865911.html
+
+» 🇫🇷 [Gamekult] Test : Marvel Cosmic Invasion : le beat'em up Marvel visait les étoiles et a manqué sa cible, 5/10 par Kyujilo → https://gamekult.com/jeux/marvel-cosmic-invasion-3050888367/test.html
+» 🇫🇷 [Gamekult] Test : Metroid Prime 4 n'est pas à son prime, 6/10 par Kelma → https://gamekult.com/jeux/metroid-prime-4-3050876091/test.html
+» 🇫🇷 [Gamekult] Test : Octopath Traveler 0 n'a de zéro que son nom, 8/10 par DocSavage → https://gamekult.com/jeux/octopath-traveler-0-3050888690/test.html
+» 🇫🇷 [Gamekult] Test : Routine, l'horreur cosmique qui transcende l'ordinaire, 9/10 par Cael → https://gamekult.com/jeux/routine-3050053150/test.html
+
+suggestions de raids : OrigaTwitch (Gautoz fait la Jeudinale) | NotPatrick (le RDV Jeux) | JardiStream 🌱 | Lilynia (crochet 🧶) | kotodama___ (gravure sur bois) | LamHua et lydia__am (Arc Raiders) | Bytell2 | inforea
+
+raids : LesNumeriques => (13:39)[+153] OrigaTwitch => (14:00)[+529] NotPatrick (terminé à 14:41)
+
+
+
 
 » ▶️ [YouTube] 
 » 🐦 [Twitter] 
