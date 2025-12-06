@@ -13632,6 +13632,28 @@ suggestions de raids : OrigaTwitch (Gautoz fait la Jeudinale) | NotPatrick (le R
 raids : LesNumeriques => (13:39)[+153] OrigaTwitch => (14:00)[+529] NotPatrick (terminé à 14:41)
 
 
+--------------------------------------
+2025-12-05
+
+» 🇫🇷 [Les Numériques] Internet paralysé ce matin : Cloudflare retombe en panne et entraîne des millions de sites avec lui → https://lesnumeriques.com/societe-numerique/-n247631.html
+» 🇫🇷 [Les Numériques] 3 nouveaux MacBook début 2026 : Apple a-t-il de bonnes raisons de vous faire patienter ? → https://lesnumeriques.com/ordinateur-portable/-n247332.html
+» 🇫🇷 [Les Numériques] Intel Arc : la marque passe enfin un cap modeste, mais rassurant sur le marché des GPU → https://lesnumeriques.com/carte-graphique/-n247410.html
+» 🇫🇷 [Les Numériques] Nvidia corrige le bug PhysX des GeForce RTX 50 : voici les jeux qui redeviennent jouables (et les oubliés) → https://lesnumeriques.com/carte-graphique/-n247586.html
+» 🇫🇷 [Les Numériques] LDLC condamné pour “pratiques commerciales trompeuses” sur sa garantie 5 ans → https://lesnumeriques.com/societe-numerique/-n247589.html
+» 🇫🇷 [Hardware & co] Asetek sur le point d'être racheté par une société chinoise ? → https://hardwareand.co/actualites/breves/asetek-sur-le-point-d-etre-rachete-par-une-societe-chinoise
+» 🇫🇷 [Les Numériques] Windows 11 : vous ne rêvez pas, un bug cache le bouton de connexion par mot de passe → https://lesnumeriques.com/appli-logiciel/-n247309.html
+» 🇫🇷 [Les Numériques] Microsoft n'en peut plus des moqueries : les écrans bleus de la mort Windows n'apparaîtront plus en public → https://lesnumeriques.com/informatique/-n247357.html
+» 🇫🇷 [Les Numériques] Windows 11 : désactiver cette fonction rend l'Explorateur de fichiers deux fois plus rapide → https://lesnumeriques.com/informatique/-n247618.html
+» 🇫🇷 [Les Numériques] Windows 11 : Microsoft change les règles sur les processeurs compatibles, personne n'y comprend plus rien → https://lesnumeriques.com/cpu-processeur/-n247559.html
+» [The Verge] Microsoft finally has a better looking Run dialog for Windows 11. The modern Run prompt looks like more of a launcher in the latest preview builds of Windows 11 → https://theverge.com/news/838798/-
+» 🇫🇷 [Les Numériques] Fin de Windows 10 : cette ville française refuse de jeter ses PC, passe à Linux et économise 69 300 € → https://lesnumeriques.com/informatique/-n247520.html
+» 🇫🇷 [Les Numériques] Puces Apple Silicon : vers un retournement historique au profit d'Intel dès 2027 ? → https://lesnumeriques.com/cpu-processeur/-n247063.html
+» 🇫🇷 [Hardware & co] NVIDIA chaud patate sur l'A16 de TSMC → https://hardwareand.co/actualites/breves/nvidia-chaud-patate-sur-l-a16-de-tsmc
+» 🇫🇷 [Les Numériques] Le Ryzen 7 9800X3D déjà dépassé ? AMD dévoile par erreur son successeur → https://lesnumeriques.com/cpu-processeur/-n247374.html
+» 🇫🇷 [Les Numériques] Test Acer Predator Triton 14 AI ⭐⭐⭐ un bijou de finesse taillé pour le jeu nomade → https://www.lesnumeriques.com/ordinateur-portable/acer-predator-triton-14-ai-p76650/test.html
+
+raids : LesNumeriques => (13:44)[+120] CabriDIY => (14:15)[+263] Protsky => (17:54) TiTavion => (18:42)[+193] adyboo => (19:09)[+83] Malganyr (terminé à 21:33)
+
 
 
 » ▶️ [YouTube] 
