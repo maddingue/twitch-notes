@@ -17125,6 +17125,519 @@ raids : OrigaTwitch => (15:12)[+435] Theo_Sacha (>15:30)
 
 
 
+--------------------------------------
+2025-12-04
+
+# Mardinale #67
+## Actus
+### HORSES banni par Steam, rappel des faits
+» Horses, disponible à 5 € sur GOG (https://gog.com/game/horses) et itch (https://santaragione.itch.io/horses)
+
+» _cf._ Hebdo
+» fil de discussion 💬
+
+### Epic a également banni HORSES
+» 🇺🇸 [IGN / 2 déc. 2025] Horses, the upsetting horror game previously banned on Steam, gets last minute ban from Epic Games Store too. Epic says neigh → https://cutt.ly/WtuP2sMr
+» 🇫🇷 [IGN France / 2 déc. 2025] Horses, ce jeu d'horreur  plutôt dérangeant a été banni de Steam ET de l'Epic Games Store. Steam et Epic ont dit non → https://cutt.ly/EtuP2Iip
+» 🇫🇷 [ActuGaming / 3 déc. 2025] Horses : Déjà banni de Steam, le jeu a été retiré de l’Epic Games Store à la toute dernière minute → https://actugaming.net/--771622
+
+### Banni sans possibilité d'appel
+
+### Humble suspend (puis remet en rayons) HORSES
+» 🇺🇸 [Aftermath / 3 déc. 2025] Humble delists then relists Horses → https://cutt.ly/0tu3ucjZ
+
+### ORIGAMI, Patreon et le calendrier de l'Avent
+» ▶️ [Patreon] 🗓️ Opération Calendrami·e, c'est parti ! → https://patreon.com/posts/144822199
+» ▶️ [Patreon] 🗓️ Calendrami·e #2 : C'est Medoc, c'est Moguri, c'est Medoguri → https://patreon.com/posts/144890738
+» 📄 [Patreon] 🗓️ Calendrami·e #3 : une réunion pas comme les autres → https://patreon.com/posts/144973882
+» ▶️ [YouTube] On a testé Marvel Cosmic Invasion, le beat'em galactique des devs de TMNT Shredder's Revenge → https://youtu.be/fPcsBVrtjNA
+
+### Embracer rompt avec deux filiales (Cryptic et Arc Games)
+» 🇺🇸 [Games Industry / 26 nov. 2025] Embracer sells off Arc Games and Cryptic Studios. Company continues to downsize following previous acquisition spree, Neverwinter and Star Trek Online developer bought by management team → https://cutt.ly/Vtt0SrLj
+» 🇬🇧 [Eurogamer / 26 nov. 2025] Embracer sells yet more studios, as its restructuring programme limps on. Star Trek Online and Neverwinter developers divested → https://cutt.ly/ztt0mAHT
+» 🇺🇸 [Kotaku / 26 nov. 2025] The slow collapse of Embracer continues as it sells more studios. Also: Nintendo Classics gets some great new retro games, Black Ops 7's best mode is improved, and NBA Jam's announcer reveals what he was paid → https://kotaku.com/--2000647577
+» 🇫🇷 [ActuGaming / 26 nov. 2025] Embracer Group revend Arc Games (éditeur de Remnant) et Cryptic Studios (Neverwinter) → https://actugaming.net/--771105
+» 🇫🇷 [Gamekult / 26 nov. 2025] Embracer vend Arc Games et Cryptic Studios mais garde la franchise Remnant. L'interminable opération dégraissage → https://cutt.ly/wtt0FMhg
+
+» 🇺🇸 [IGN / 27 août. 2025] Crystal Dynamics lays off more following Perfect Dark cancelation. It's unclear how many were impacted. → https://cutt.ly/QrBLqRjm
+» 🇫🇷 [IGN France / 28 août 2025] Crystal Dynamics licencie de nouvelles personnes après l'annulation de Perfect Dark. On ne sait pas exactement combien de personnes ont été touchées. → https://cutt.ly/crBLqMoK
+
+» 🇺🇸 [LinkedIn / Crystal Dynamics / 12 nov. 2025] Today we've made the difficult but necessary decision to reorganize Crystal Dynamics' studios and teams. As a result, we've parted ways with just under 30 team members […] → https://cutt.ly/9tw0wXIR
+» 🇺🇸 [Kotaku / 13 nov. 2025] Tomb Raider studio faces ‘painful’ layoffs to ‘optimize’ development. We still haven't seen anything of the Amazon Games sequel → https://kotaku.com/--2000644117
+» 🇺🇸 [Games Industry / 14 nov. 2025] Crystal Dynamics announces third round of layoffs this year, 30 workers affected. Decision made to "optimise the continued development" of Tomb Raider and future projects "as the realities of the industry continue to evolve" → https://cutt.ly/mtelIeNf
+» 🇫🇷 [ActuGaming / 14 nov. 2025] Crystal Dynamics continue de licencier, le studio derrière le prochain Tomb Raider se sépare d’environ 30 personnes → https://actugaming.net/--769859
+» 🇫🇷 [Gamekult / 14 nov. 2025] L'hémorragie continue chez Crystal Dynamics (Tomb Raider) avec une nouvelle vague de licenciements. Le studio se vide à vue d’œil → https://cutt.ly/1teOLjpd
+
+### Eidot Montréal licencie encore, Deus Ex et Soul Reaver annulés ?
+» 🇺🇸 [Insider Gaming / 2 déc. 2025] Eidos-Montreal lets go more staff with more layoffs planned → https://cutt.ly/TtuAq3w5
+» 🇫🇷 [ActuGaming / 3 déc. 2025] Eidos Montréal subit encore des licenciements et ne travaillerait que sur Grounded 2 et Fable → https://actugaming.net/--771681
+» 🇫🇷 [Gamekult / 3 déc. 2025] Eidos-Montréal (Deus Ex) encore et toujours pris dans le tourbillon des licenciements. Pas de Deus Ex Machina → https://cutt.ly/mtuXizAK
+
+### L'Arabe Saoudite possèdera bientôt 93% d'EA
+» 🇺🇸 [The Wall Street Journal / 2 déc. 2025] Saudi fund to own almost all of Electronic Arts after buyout. Filing suggests the country’s Public Investment Fund needs to stump up about $29 billion → https://cutt.ly/XtuP1TV0
+» 🇺🇸 [Game Developer / 3 déc. 2025] Saudi Arabia will own 93.4 percent of EA after buyout. Fellow consortium members Silver Lake and Affinity Parters will own 5.5 percent and 1.1 percent, respectively → https://cutt.ly/ltuAzU86
+» 🇺🇸 [Kotaku / 2 déc. 2025] Surprise! Saudi Arabia will own 93 percent of EA when the deal is done. The Battlefield publisher is set to change hands in the summer of next year → https://kotaku.com/--2000649726
+» 🇫🇷 [ActuGaming / 3 déc. 2025] L’Arabie saoudite sera bien le propriétaire majeur d’Electronic Arts après son rachat → https://actugaming.net/--771619
+» 🇫🇷 [Gamekult] Electronic Arts : si le rachat se confirme, l'Arabie Saoudite détiendra plus de 93% de l'éditeur → https://cutt.ly/8tuZdRjv
+
+raids entrants :
+- DollyWood_ à 12:40 +91
+- LesNumeriques à 13:39 +153
+
+raids : OrigaTwitch => (14:00)[+529] NotPatrick (terminé à 14:41)
+
+
+
+--------------------------------------
+2025-12-05
+
+# L'Hebdo #85
+## Actus
+### Origami
+» ✉️ [Origami] Gardez le pli grâce à notre nouvelle infolettre ! → https://www.origami.ng/infolettre/
+» 🎧 [Patreon] Conf' 2 Redac' — Papi Tuto → https://patreon.com/posts/144811470
+» ▶️ [YouTube] La Mardinale — Epic imite Valve et censure Horses → https://youtu.be/ARh24l7AJpg
+» ▶️ [YouTube] On a testé Marvel Cosmic Invasion, le beat'em galactique des devs de TMNT Shredder's Revenge → https://youtu.be/fPcsBVrtjNA
+» ▶️ [Patreon] 🗓️ Opération Calendrami·e, c'est parti ! → https://patreon.com/posts/144822199
+» ▶️ [Patreon] 🗓️ Calendrami·e #2 : c'est Medoc, c'est Moguri, c'est Medoguri → https://patreon.com/posts/144890738
+» 📄 [Patreon] 🗓️ Calendrami·e #3 : une réunion pas comme les autres → https://patreon.com/posts/144973882
+» 📄 [Patreon] 🗓️ Calendrami·e #4 : bingo ! → https://patreon.com/posts/145041958
+
+### La semaine
+» 🇺🇸 [Bloomberg / 2 déc. 2025] Creator of hit game Shovel Knight is at a ‘make or break’ moment. Yacht Club Games needs its next title, Mina the Hollower, to be a success → https://cutt.ly/0tuLQrRc
+» 🇫🇷 [Gamekult / 2 déc. 2025] « Ça passe ou ça casse » : pourquoi Mina the Hollower n'a pas le droit à l'échec. Yacht Club Games est à un tournant de son histoire → https://cutt.ly/wtuLbMeB
+
+» 🇺🇸 [Gematsu / 1er déc. 2025] Styx: Blades of Greed delayed to February 19, 2026. No longer due out this fall → https://cutt.ly/FtueIxpd
+» 🇫🇷 [ActuGaming / 2 déc. 2025] Styx: Blades of Greed prendra finalement un peu de retard et ne sortira qu’en février prochain → https://actugaming.net/--771506
+
+» 🇫🇷 [ActuGaming / 2 déc. 2025] Ball X Pit dépasse déjà le million d’exemplaires vendus, et pour fêter ça, de nombreuses mises à jour sont prévues → https://actugaming.net/--771605
+
+» ▶️ [YouTube / JorRaptor / 26 nov. 2025] Assassin's Creed Shadows interview with post launch director Simon... (AC Shadows DLC) → https://youtu.be/5Iijrbz8XBc
+» 🇺🇸 [IGN / 27 nov. 2025] Ubisoft no longer plans to release a second Assassin's Creed Shadows expansion → https://cutt.ly/HtypylOk
+» 🇫🇷 [IGN France / 27 nov. 2025] Ubisoft ne prévoit plus de sortir une deuxième extension pour Assassin's Creed Shadows → https://cutt.ly/StypyT4K
+» 🇫🇷 [ActuGaming / 28 nov. 2025] Ubisoft ne prévoit pas de sortir de nouveau gros DLC pour Assassin’s Creed Shadows → https://actugaming.net/--771196
+
+» 🇺🇸 [The Verge / 24 nov. 2025] Indie game developers have a new sales pitch: being ‘AI free’. Indie devs are using anti-gen-AI statements to make their games stand out → https://cutt.ly/ltyNFzFo
+» 🇫🇷 [ActuGaming / 28 nov. 2025] Let It Die: Inferno aura bien recours à l’IA générative pour certains éléments, et pas qu’un peu → https://actugaming.net/--771232
+» 🇫🇷 [Gamekult / 28 nov. 2025] Let it Die Inferno révèle son utilisation de l'IA générative, mais Tim Sweeney pense que « ça n'a aucun sens ». Alors qu'un label « garanti sans IA » fait son apparition → https://cutt.ly/TtyNDNec
+
+» Flotsam, version finale le 4 déc. 2025 sur PC / Steam Deck, après plus de 6 ans d'accès anticipé ; édité par Stray Fawn Studio, développé par Pajama Llama Games, studio belge 🇧🇪 → https://pajamallama.be | https://s.team/a/821250
+
+» Being and Becoming, annoncé sans date sur PC / Steam Deck ; édité par Critical Reflex, développé par Ichthys, ùusiques par Holland Albright → https://beingandbecominggame.com
+
+### PC Gaming Show
+» ▶️ [YouTube / PC Gamer / 4 déc. 2025] PC Gaming Show: Most Wanted 2025 → https://s.team/a/b9DJ0eynbX4
+https://store.steampowered.com/sale/pcgamingshowmostwanted2025
+
+» ???
+» Animal kind
+» Ex Sanguis
+» (studio de Eogue Legacy)
+» 🇫🇷 [Gamekult / 5 déc. 2025] Darkest Dungeon version Tactical RPG : voilà Neath, par les créateurs de Rogue Legacy → https://cutt.ly/RtiwGSyw
+» (jeu de peche)
+» Inkblood
+» (suite de Space warrior organ trading simulator)
+» Hello Sunshine → https://s.team/a/3245140
+» 🇫🇷 [Gamekult / 5 déc. 2025] Dawn of War 4 : une bande-annonce épique, des Blood Ravens et des Dark Angels, pour faire oublier le troisième opus → https://cutt.ly/JtiwVVbW
+
+» Dungeons of DUSK
+
+### 
+» 🇺🇸 [Total War / 4 déc. 2025] Welcome to Total War: Medieval III → https://cutt.ly/stu3rv0E
+» 🇫🇷 [ActuGaming / 4 déc. 2025] Total War: Medieval III est annoncé, tout comme le DLC Lords of the End Times pour Total War: Warhammer III → https://actugaming.net/--771804
+» 🇫🇷 [Gamekult / 5 déc. 2025] The Creative Assembly revient au Moyen-Âge avec Total War : Medieval 3 → https://cutt.ly/5tiwNhTy
+
+### 
+» Mother Encore → https://motherencore.com/
+https://mother4ever.net/mother-direct/
+
+## Freak of the month
+» ▶️ [YouTube] Zeph & Ramo → https://youtube.com/@ZephRamo
+» 🥚 **Egg**, sorti en févr. 1998 sur PlayStation ; édité par Toshiba EMI, développé par Beyond Interactive, réalisé par MACOTO, direction artistique par Keiichi Tada
+
+## Machinima
+### invitée et intervenant⋅s⋅
+» Isabelle Arvers → https://isabellearvers.com | ▶️ https://youtube.com/@zabarvers
+» Clara Kiméra, musicienne, chanteuse d'Agar Agar → https://instagram.com/clarakimera/ | https://open.spotify.com/intl-fr/artist/4sQzCc8XZTTmnuSH770IBr
+
+» Machinima, mot-valise formé à partir de « machine » et « cinéma », inventé par Anthony Bailey et Hugh Hancock en 1999. Ce terme désigne un genre cinématographique et une technique de production de film qui utilise des séquences vidéos capturées à l’intérieur d’espaces virtuels en temps réel, le plus souvent dans un moteur graphique de jeu vidéo mais pas exclusivement.
+- 📄 <https://fr.wikipedia.org/wiki/Machinima>
+- 📄 <https://en.wikipedia.org/wiki/Machinima>
+
+» ▶️ [YouTube] Ozymandias → https://youtu.be/30DsJ8eOmKA (2 min)
+» ▶️ [YouTube] 
+» ▶️ [YouTube] The French Democracy → https://youtu.be/stu31sz5ivk (13 min)
+» ▶️ [YouTube] Clara Kimera - eye 2 eye → https://youtu.be/1SioNRbOFlY (2 min)
+» ▶️ [Arte] La vraie vie, série créée et réalisée par Ekiem Barbier et Guilhem Causse → https://arte.tv/digitalproductions/la-vraie-vie/
+» ▶️ [YouTube] Bella Goth: Reborn (Sims 4 Machinima) → https://youtu.be/uC7mqMCDZDY (1 h 31 min)
+» ▶️ [YouTube] (trouble)
+» ▶️ [YouTube] Liquid forest in baobabs → https://youtu.be/bLiepGLnfFU (8 min)
+» ▶️ [YouTube] 
+
+» Finding Fanon Part 1 (2015), Part 2 (2015) & Part 3 (2017), réalisé par David Blandy et Larry Achiampong → https://davidblandy.co.uk/finding-fanon-trilogy-video-links
+» Aux Futurs Ancestraux, de l’art numérique aux jeux vidéo → https://www.espacemultimediagantner.cg90.net/fr/exposition/aux-futurs-ancestraux-de-lart-numerique-aux-jeux-video/
+
+» 🇺🇸 [Kotaku / 20 nov. 2025] Fortnite’s about to get its weirdest crossover ever: a missing chapter from Kill Bill. Chapter 7 seems like it will be recreating Tarantino's scripted Yuki's Revenge, cut from Kill Bill Vol. 1 → https://kotaku.com/--2000645687
+
+## Jeux
+### Sektori
+» Sektori, sorti le 18 nov. 2025 à 15 € sur PlayStation 5, Xbox Series et PC / Steam Deck ; développé par Kimmo Lahtinen → https://www.gimblll.com | https://s.team/a/2105620
+
+- sorti le 18 nov. 2025 sur PlayStation 5, Xbox Series et PC / Steam Deck
+- développé par Kimmo Factor Oy, derrière Trigonarium (2015), Barbearian (2018), Day Repeat Day (2021) → https://www.gimblll.com
+- réalisé par Kimmo Lahtinen, musiques par Tommy Baynen
+
+🎮 15 € sur PlayStation (<https://cutt.ly/1tirWyqd>) et Xbox (<https://cutt.ly/jtiwLMMZ>)
+💻️ 14,80 € sur Steam (<https://s.team/a/2105620>)
+
+## Mais pas que
+### Héloïse
+» Clara Kiméra - I Pray 42 → https://open.spotify.com/intl-fr/album/1ErC0UwTyHcklE9ZYJcfOa
+
+### Isabelle
+https://nyamakop.co.za/relooted/
+https://www.20minutes.fr/arts-stars/culture/4160807-20250627-relooted-jeu-video-braque-musees-occidentaux-recuperer-artefacts-africains
+
+### Kévin
+» 📗 Fabienne, 120 p., par Anouk Ricard, paru le 7 nov. 2025 chez Exemplaire Éditions, 18 € en édition physique (ISBN 9782492926808) → https://www.exemplaire-editions.fr/exemplaire/librairie/livre/fabienne
+» 📕 Animan, 80 p., par Anouk Ricard, paru le 24 sept. 2022 chez Exemplaire Éditions, 21 € en édition physique (ISBN 9782492926075) → https://www.exemplaire-editions.fr/exemplaire/librairie/livre/animan
+
+https://www.youtube.com/@ThisSpartanLife/videos
+» ▶️ [YouTube] This Spartan Life → https://www.youtube.com/playlist?list=PL8qg4rgqBK3jpz3VMv_ZxGTTfyTJSkPo9
+» ▶️ [Vimeo] Molotov Alva and His Search for the Creator - Episode 1 → https://vimeo.com/2089408
+
+
+
+--------------------------------------
+2025-12-08
+
+» 🎧 [Patreon] Conf' 2 Redac' / Calendrami·e #8 — Fan2Vous → https://patreon.com/posts/145350842
+
+avez-vous compris les règles ? peut-être 56% (32) / pas du tout 44% (25)
+
+rappel des règles : les trois en plateau ne voient pas l'image que nous voyons, et iels doivent deviner quel personnage c'est en posant des questions
+
+excuses de sac :
+- j'ai un peu plus de mal que prévu ? (Gautoz)
+- je ne sais pas ce que j'ai fait de mal (Gautoz)
+- j'ai un problème de copier-coller (Gautoz)
+- soyez indulgents, je les ai écrits en deux deux (Gautoz)
+- encore un problème de cadrage avec Héloïse (Gautoz)
+
+personnages :
+- Sylvain en Batman, deviné par Héloïse
+- Héloïse en Megara (Hades)
+- Kévin en Toad 
+- Florian en Megaman, déviné par Sylvain (qui était seul à jouer suite à la bourde de Gautoz)
+- Sylvain en Radahn (Elden Ring), déviné par Kévin
+- Héloïse en l'oie (Untitled Goose Game)
+- Kévin en Zangief (Street Fighter)
+- Florian en petit sœur (BioShock)
+- Sylvain en Guybrush Threepwood (Secret of the Monkey Island), déviné par Moguri
+- Héloïse en Karlach (Baldur's Gate 3), honteusement trouvé par Kévin d'une manière scandaleuse
+- Kévin en Dante (Devil May Cry), trouvé par Florian
+- Florian en Little Gray (Metal Gear Solid 4), non trouvé
+
+raids entrants :
+- Gilles_Stella à 20:42 +136
+- Nico_Oni à 20:44 +256
+- Gokaido à 21:32 +117
+
+
+
+--------------------------------------
+2025-12-11
+
+# Mardinale #68
+## Actus
+### Rachat de Warner : que dit le bras de fer Netflix VS Paramount ?
+» 🇺🇸 [The New York Times / 5 déc. 2025] Netflix to buy Warner Bros. in $83 billion deal to create a streaming giant. The deal to acquire the Hollywood behemoth’s television and film studios as well as HBO Max will bulk up the world’s biggest paid streaming service → https://cutt.ly/Wti9lAge
+» 🇺🇸 [Netflix / 5 déc. 2025] Netflix to acquire Warner Bros. following the separation of Discovery Global for a total enterprise value of $82.7 billion (equity value of $72.0 billion) → https://cutt.ly/bti9l2R8
+» 🇺🇸 [Gematsu / 5 déc. 2025] Netflix to acquire Warner Bros. Acquisition to occur following the separation of Discovery Global → https://cutt.ly/4ti9zr4U
+» 🇺🇸 [Game Developer / 5 déc. 2025] Yes, Netflix is acquiring Warner Bros. Games. A Warner Bros. spokesperson has confirmed the video game division will be acquired by Netflix alongside its wider streaming and television business → https://cutt.ly/0ti9zj0V
+» 🇺🇸 [Bloomberg / 5 déc. 2025] Netflix to buy Warner Bros. in historic $72 billion deal → https://cutt.ly/pti9zIa2
+» 🇺🇸 [Investor's Business Daily / 5 déc. 2025] Paramount considering hostile takeover of Warner Bros → https://cutt.ly/9ti9z2Sb
+» 🇺🇸 [The Wrap / 5 déc. 2025] Netflix wins the Warner Bros. Discovery bidding war with $82.7 billion offer, enters exclusive deal talks. The streaming giant has an exclusive window to negotiate a final deal → https://cutt.ly/etokU1w1
+» 🇺🇸 [Kotaku / 5 déc. 2025] Netflix is about to buy HBO, Warner, and Batman himself for $83 billion. If the deal goes through, Netflix could be the most powerful player in Hollywood → https://kotaku.com/--2000650875
+» 🇺🇸 [Kotaku / 5 déc. 2025] Netflix says it’s not destroying Hollywood: ‘we’re saving’ it. Netflix aims to grow even larger with its impending purchase of Warner Bros → https://kotaku.com/--2000651036
+» 🇫🇷 [ActuGaming / 5 déc. 2025] Netflix annonce le rachat de Warner Bros après d’ultimes négociations, pour 82,7 milliards de dollars → https://actugaming.net/--771905
+
+» 🇬🇧 [Financial Times / 8 déc. 2025] Paramount gatecrashes Warner Bros-Netflix deal with $108bn hostile bid → https://cutt.ly/wti9xEwo
+» 🇺🇸 [Hollywood Reporter / 8 déc. 2025] It’s a bidding war: Paramount attempts hostile offer for Warner Bros. David Ellison calls Netflix's $82.7 billion deal value an "inferior proposal" and tells Warners shareholders that his coalition (which includes Middle Eastern sovereign wealth funds) promises $18 billion more in cash → https://cutt.ly/Lti9XGRo
+» 🇺🇸 [Hollywood Reporter / 8 déc. 2025] Feelings don’t matter: how the Ellison era is transforming Paramount. It’s a brand-new day at the legacy studio, where prestige films are out, testosterone-heavy tentpoles are in and Brett Ratner is back on the call sheet → https://cutt.ly/Hti9CEEL
+» 🇺🇸 [Kotaku / 8 déc. 2025] Paramount ready to spend $108 billion on hostile takeover of Warner Bros. to stop Netflix from having it. The left-at-the-altar corporation makes a last-ditch attempt to woo Warner away from the streamer → https://kotaku.com/--2000651372
+» 🇨🇦 [Radio Canada / 8 déc. 2025] Trump va se pencher sur le rachat par Netflix de divisions de Warner Bros → https://cutt.ly/DtpRTxl4
+» 🇫🇷 [Le Monde / 8 déc. 2025] Donald Trump exprime des doutes sur le rachat de Warner par Netflix et prévoit de « s’impliquer » dans le dossier. Le président américain estime que cette acquisition « pourrait être un problème » alors que le géant du streaming a déjà « une très grosse part de marché ». → https://cutt.ly/Pti9xtYK
+» 🇺🇸 [Axios / 8 déc. 2025] Jared Kushner is part of Paramount's hostile bid for Warner Bros. Discovery → https://cutt.ly/mti9xCQD
+» 🇫🇷 [Gamekult / 8 déc. 2025] Rachat de Warner Bros. : Paramount veut passer en force et propose plus de 108 milliards de dollars. Pendant ce temps, les développeurs assistent au spectacle → https://cutt.ly/7ti9cwML
+» 🇫🇷 [ActuGaming / 8 déc. 2025] Paramount se lance dans une OPA hostile pour racheter Warner Bros Discovery, sous le nez de Netflix → https://actugaming.net/--772080
+» 🇫🇷 [Les Échos / 8 déc. 2025] Paramount Skydance lance sa contre-attaque pour arracher Warner Bros Discovery à Netflix. Le studio dirigé par David Ellison propose 30 dollars par action de Warner Bros Discovery, valorisant l'ensemble à 108 milliards de dollars. Alors que la Maison-Blanche suit de près le dossier, Paramount espère empêcher Netflix de mettre la main sur le groupe, après l'annonce d'un accord vendredi → https://cutt.ly/ato9L8Uw
+» 🇫🇷 [La Tribune / 9 déc. 2025] Rachat de Warner Bros Discovery : Netflix dévoile sa stratégie. Face à la riposte de son rival Paramount Skydance, qui a lancé une OPA hostile sur Warner Bros Discovery, et aux critiques d'Hollywood qui craint des effets délétères de ce rachat pour la création et la concurrence, Netflix a dévoilé ses intentions concernant l'avenir du studio centenaire et de ses joyaux HBO et HBO Max → https://cutt.ly/Qto9Z2wi
+» 🇫🇷 [BFM Bourse / 9 déc. 2025] Comment Paramount compte financer le rachat de Warner (Harry Potter, Batman) et quels arguments possède-t-il face à Netflix pour l'emporter ? → https://cutt.ly/mtoGvg7W
+» 🇺🇸 [CNN / 10 déc. 2025] Trump enters Warner Bros. fight, says it’s ‘imperative that CNN be sold’ → https://cutt.ly/StpRxuR8
+» 🇨🇦 [Radio Canada / 12 déc. 2025] La Maison-Blanche durcit ses attaques contre CNN → https://cutt.ly/1tpRb4ne
+
+### Qui fait la peste, qui fait le choléra ?
+» 🇺🇸 [Kotaku / 5 déc. 2025] Mortal Kombat, Hogwarts Legacy, and Batman: Arkham are going to a company that closed its only AAA game studio. What will Netflix do with Warner Bros. Games? → https://kotaku.com/--2000650918
+» 🇺🇸 [Seeking Alpha / 8 déc. 2025] Netflix, Inc. (NFLX) presents at UBS Global Media and Communications Conference 2025 transcript → https://seekingalpha.com/article/4851311
+» 🇺🇸 [Pocket Gamer / 9 déc. 2025] Netflix didn’t attribute any value to Warner Bros. Games business in $83bn mega deal. “We think that there’s definitely an opportunity there. But just to be clear, we haven’t built that into our deal model” → https://cutt.ly/btpuz75K
+» 🇺🇸 [Kotaku / 9 déc. 2025] Netflix considers Warner Bros. Games to be pretty much worthless. The entire gaming division behind Hogwarts Legacy and the Arkham franchise wasn't even factored into the price of Netflix's bid → https://kotaku.com/--2000651695
+» 🇫🇷 [ActuGaming / 10 déc. 2025] Même s’il rachète Warner Bros, Netflix se fiche pas mal de Warner Bros Games, qui est décrit comme peu important → https://actugaming.net/--772286
+
+### Katsuhiro Harada quitte Bandai-Namco
+» 🇺🇸 [Automaton Media / 3 déc. 2025] Tekken lead Katsuhiro Harada to leave Bandai Namco at the end of 2025. Longtime Tekken series producer Katsuhiro Harada has announced that he will be leaving Bandai Namco at the end of the year → https://cutt.ly/ntpRaqIX
+» 🇺🇸 [Kotaku / 8 déc. 2025] Tekken director Katsuhiro Harada is leaving Bandai Namco after 31 years. The fighting game veteran announced that he is leaving the company after decades leading the series → https://kotaku.com/--2000651368
+» 🇫🇷 [ActuGaming / 8 déc. 2025] Katsuhiro Harada, pilier de la série Tekken, quittera Bandai Namco à la fin de l’année → https://actugaming.net/--772044
+
+» ▶️ [YouTube / merugezu / 13 mars 2018] Katsuhiro Harada | La Biobiotheque #13 → https://youtu.be/JkUnt2P4NCM (20 min)
+» ▶️ [YouTube / Kayane / 8 déc. 2025] Harada-san quitte Bandai Namco - Quel avenir pour Tekken et Soul Calibur ? (Trop d'émotions...) → https://youtu.be/MZQMhb9rHBk (15 min)
+
+### Accidental Queens (Normal Lost Phone) raccroche
+» 🇺🇸 [Steam / A Normal Lost Phone / 8 déc. 2025] Removal of A Normal Lost Phone from Steam → https://cutt.ly/Hti9bQPa
+» 🇫🇷 [Gamekult / 9 déc. 2025] Le studio français Accidental Queens ferme ses portes mais tout "va très bien" → https://cutt.ly/ItpbdbW9
+
+» ▶️ [YouTube / Origami / 15 janv. 2025] Head Shot #04 — L'écriture d'un jeu vidéo est collective, entretien avec Emmanuel Corno (Foretales, Les Mondes d'Aria) → https://youtu.be/eAjn4TNRC3g (31 min)
+
+### Le STJV renforce sa coopération internationale
+» 🇫🇷 [STJV / 9 déc. 2025] Une industrie, une lutte – Un front uni de syndicats du jeu vidéo en Europe de l’Ouest → https://cutt.ly/7tpRrNTK
+» 🇬🇧 [IWGB Game Workers / 9 déc. 2025] One industry, one fight — Video game unions present a united front across Western Europe → https://cutt.ly/OtpRys1H
+» 🇫🇷 [Gamekult / 10 déc. 2025] IA, licenciements, crunch… Les syndicats européens s’unissent pour faire entendre leur voix → https://cutt.ly/utpReMCp
+
+» ▶️ [YouTube / UK Parliament / 10 déc. 2025] PMQs LIVE: Prime Minister's Questions - 10 December 2025 → https://youtu.be/5dg5n49OudY?t=1638 (32 min, lien au début de la question sur Rockstar)
+» 🇺🇸 [Game Developer / 10 déc. 2025] UK Prime Minister promises to 'look into' Rockstar's firing of workers. PM Keir Starmer describes Rockstar's dismissal of 31 union members as "deeply concerning." → https://cutt.ly/dtpiqOze
+» 🇺🇸 [Kotaku / 10 déc. 2025] UK Prime Minister calls Rockstar’s firing of GTA 6 devs ‘deeply concerning’. The topic of alleged Rockstar union busting reaches the Houses of Parliament → https://kotaku.com/--2000652135
+
+### Grève chez Shiro : la machine Wartales épuise
+» 🦋 [BlueSky / STJV / 8 déc. 2025] 🧵 https://bsky.app/profile/stjv.fr/post/3m7hxf6v5yk23
+> ✊ Grève à Shiro Games (Evoland, Northgard, Wartales, Dune: Spice Wars) : soutien à l’équipe de Wartales mise sous pression stop aux crises récurrentes !
+> Plus de 40% de taux de participation aujourd'hui
+> Chaque Décembre, alors que les calendriers irréalistes causent une accumulation de retards, les équipes sont forcées de sortir leurs DLC dans la précipitation, avec un contenu amputé et des tests trop courts. Cette gestion calamiteuse sape le moral des équipes et la confiance du public.
+> Recrudescence des burnouts, délais absurdes, et un refus du dialogue social : les employé·es réclament que leurs conditions de travail soient enfin prises en compte, et que leur employeur respecte ses engagements de « flexibilité ».
+> Pour 2026, alors que le studio annonce la sortie de 2 nouveaux jeux et que l’épuisement s’accumule, les salarié·es demandent à ce que le calendrier soit revu. Pour ne plus mettre leur santé en danger, et pour que leurs jeux sortent dans un état correct.
+
+### Perfect Dark : après l'annulation, les cadres rebondissent chez 2K
+» 🇺🇸 [Kotaku / 9 déc. 2025] Perfect Dark reboot bosses building a new studio with 2K Games. Also: Stranger Things comes to Flight Sim, Resident Evil 2's director reveals why it included no returning characters, and Nightreign DLC is doing well → https://kotaku.com/--2000651677
+» 🇫🇷 [ActuGaming / 9 déc. 2025] Take-Two fonde un nouveau studio avec les directeurs de Perfect Dark, annulé plus tôt cette année par Microsoft → https://actugaming.net/--772116
+» 🇫🇷 [Gamekult / 9 déc. 2025] Les responsables du reboot annulé de Perfect Dark rebondissent chez 2K avec un nouveau studio → https://cutt.ly/ztpRin89
+
+### Black Ops 7 en échec selon Activision
+» 🇺🇸 [Kotaku / 9 déc. 2025] Call Of Duty in crisis as Activision admits it’s not good enough. The series will no longer release back-to-back Modern Warfare or Black Ops entries, after Black Ops 7 falters → https://kotaku.com/--2000652111
+» 🇫🇷 [ActuGaming / 10 déc. 2025] Call of Duty : fini les sorties de Modern Warfare et Black Ops à la suite, la franchise promet une vraie rupture → https://actugaming.net/--772262
+» 🇫🇷 [Gamekult / 10 déc. 2025] Call of Duty Black Ops 7 : un communiqué en forme d'échec et de remise en question. Activision admet ne pas avoir « entièrement répondu à vos attentes » → https://cutt.ly/rtpRiKw0
+
+### Le dircréa de Sable lance un petit média JV
+» 🦋 [BlueSky / Gregorios Kythreotis / 4 déc. 2025] 🧵 https://bsky.app/profile/eteogreg.bsky.social/post/3m76t2waxzs2x
+> Introducing Eteos Games https://youtu.be/6GIpSKHo9Y4
+> I'm really excited to announce my new studio, Eteo Games. We'll have more to share in the future but for now, you can check out our new Newsletter at eteogames.com
+
+» Eteo & Archetypes → https://eteogames.com/
+
+» 🇨🇦 [Gamer Social Club / 5 déc. 2025] Sable developer forms new studio, Eteo, with funding from Outersloth → https://cutt.ly/htpRIocq
+» 🇺🇸 [Games Industry / 5 déc. 2025] Sable creative director forms new studio Eteo. Shedworks co-founders go separate ways, working on individual projects as Gregorios Kythreotis forms new studio → https://cutt.ly/4tpRPcbD
+
+raids entrants :
+- DollyWood_ à 12:11 +64
+
+# Internet Exploreuses #20
+## invitée
+» Mathilde Saliou, journaliste et autrice, travaille pour des publications généralistes (the Guardian, 20 Minutes, Slate, etc) et spécialisées (Next.ink, Numerama)
+- site web : https://mathildesaliou.com
+- réseaux sociaux : 🦋 https://bsky.app/profile/mathildesaliou.com | 🐘 https://piaille.fr/@mathildesaliou | 📷 https://instagram.com/mathildsl | 🏢 https://linkedin.com/in/mathildesaliou/
+- 📘 Technoféminisme — Comment le numérique aggrave les inégalités, 304 p., publié le 15 févr. 2023 chez Grasset, 22 € en édition physique, 16 € en édition numérique → https://www.grasset.fr/livre/technofeminisme-9782246828822/
+- 📗 L'envers de la tech — Ce que le numérique fait au monde, 256 p., publié le 3 oct. 2025 aux éditions Les Pérégrines, 20 € en édition physique → https://editionslesperegrines.fr/fr/books/lenvers-de-la-tech
+https://expertes.fr/expertes/73794-mathilde-saliou/
+
+## compte privé
+» [Next / 28 oct. 2025] Elon Musk lance Grokipedia, le concurrent raciste et désinformateur de Wikipédia → https://next.ink/206294
+» [Next / 23 juin. 2025] Transphobie : ces désinformateurs français qui s’appuient sur des réseaux internationaux → https://next.ink/189442
+» [Next / 24 nov. 2025] Candace Owens et Pavel Durov relaient des thèses complotistes sur le couple Macron → https://next.ink/210416
+» (musiques)
+» 📷 [Instagram / balanceton_ia / 21 nov. 2025] Parce que nous sommes pleins à vivre ça chaque fois que nous sommes confrontés à une image où un visage désormais. 🤡 → https://instagram.com/p/DRUMmIvjLqO/
+» ✉️ Stoop → https://stoopinbox.com
+» ▶️ [YouTube] Good Night Ojosama → youtu.be/DHWNmQv9-j4
+
+## capture d'écran : Peut-on critiquer l’IA sans faire la morale ?
+### invités
+» Martin Lafréchoux, journaliste et traducteur → https://pro.nologos.net/a-propos.html
+
+» 🇺🇸 [Wall Street Journal / 17 nov. 2025] The most joyless tech revolution ever: AI is making us rich and unhappy. Discomfort around artificial intelligence helps explain the disconnect between a solid economy and an anxious public → https://cutt.ly/wtoH48j5
+» 🇫🇷 [Dans les algorithmes / 18 nov. 2025] Intelligence artificielle générale : le délire complotiste de la tech. « Le mythe de l’intelligence artificielle générale ressemble beaucoup à une théorie du complot et c’est peut-être la plus importante de notre époque » → https://cutt.ly/5toH6Y7c
+
+» 𝕏 [X / Margaret Mitchell / 31 oct. 2024] 🧵 https://x.com/mmitchell_ai/status/1984317222161170513
+> Anyway, hi @X, I'm back. Was in Bsky but its moderation is (currently) so poorly managed that a mass amt of people I respect have me blocked as an "AI bro" & there's nothing I can do about it & they will never know. Talking to a void is nice, but talking to people? Also nice.
+
+» 𝕏 [X / Giada Pistilli / 4 nov. 2025] 🧵 https://x.com/GiadaPistilli/status/1985651289095631353
+> I wrote the same thing there, and apparently the information was picked up by a journalist. I wasn't making a big deal out of it at all, but it's funny to see the absurd number of users who wanted to share with me the fact that I'm a nobody and they don't care -- thank you! In Italian, there's a saying that goes, "don't confuse shit with chocolate", but at this point, the confusion between social media platforms is at its peak lol
+> > 𝕏 [X / Giada Pistilli / 3 nov. 2025] 🧵 
+> > I really wanted 🦋 to work, but it looks like I’m on the worst block lists out there. Oh, well.
+
+» [Next / 1er déc. 2025] Superintelligence, accélérationisme, doomers, AI slop… de quoi on parle ? → https://next.ink/210698
+
+» The Shame Machine — Who Profits in the New Age of Humiliation, par Cathy O'Neil, paru en mars 2022 chez Penguin, ISBN 9781802060324 → https://penguin.co.uk/books/448585
+
+» Framasoft → https://framasoft.org
+» FramaIA — Comprendre l'IA pour la démystifier → https://framamia.org
+
+» ✉️  ABSOLUMENT TOUT — une newsletter à propos des choses qui m'intéressent → https://absolument-tout.net/
+» À quoi servent les IA génératives ? — Un atelier pour tout comprendre → https://pro.nologos.net/ia/
+
+» 🇺🇸 [MIT] Your Brain on ChatGPT → https://www.media.mit.edu/projects/your-brain-on-chatgpt/overview/
+» Your Brain on ChatGPT: accumulation of cognitive debt when using an AI assistant for essay writing task → https://www.brainonllm.com/
+» 🇺🇸 [arXiv / 10 juin 2025] Your brain on ChatGPT: accumulation of cognitive debt when using an AI assistant for essay writing task → https://arxiv.org/abs/2506.08872
+
+## mode lent
+» 🇺🇸 [NBC News / 28 oct/ 2205] How NDAs keep AI data center details hidden from Americans. Big Tech companies use secrecy agreements with local governments to keep communities from knowing who is building in their backyards → https://cutt.ly/itoJDzbG
+
+## mèmesplique-moi
+
+## ChatBNG
+» question 4 : fais la tier-list des textures
+- Héloïse : basse : polystyrène 
+- Mathilde : silicone (basse), scratch (moyen), 
+- Lucie : 
+
+» question 
+- Héloïse : la guerre des émeus de 1932 en Australie
+- Mathilde : 
+- Lucie : l'eau tonique est fluorescente
+
+raids entrant 
+- NotPatrick à 14:26 +53
+
+
+
+--------------------------------------
+2025-12-12
+
+# Wishlist
+
+» 🐸 Big Hops, le 12 jan. 2026 sur Switch, PlayStation 5, PC / Steam Deck, démo disponible ; développé par Luckshot Games, studio de Chris Wade, derrière Sausage Sports Club (2019), aussi en support sur Battle Chef Brigade (2017), Manifold Garden (2019), Vacation Simulator (2019) → https://luckshotgames.com | https://s.team/a/1221480
+
+raids entrants :
+- Mediapart à 12:00 +377
+
+# L'Hebdo #86
+## Actus
+### Origami
+» ✉️ [Origami] Gardez le pli grâce à notre nouvelle infolettre ! → https://www.origami.ng/infolettre/
+» ▶️ [YouTube] La Mardinale — Qui va dévorer Warner ? Netflix et Paramount entament le bras de fer → https://youtu.be/KEVCQM0rY8w
+» ▶️ [Patreon] Internet Exploreuses — Peut-on critiquer l’IA sans faire la morale ? → https://patreon.com/posts/145611581
+» ▶️ [Patreon] Super Vieux jeux — Pan-Pan ! Outlaws dégaine plus vite que son ombre → https://patreon.com/posts/145523309
+» 🗓️ [Patreon] Calendrami·e 2025 → https://patreon.com/collection/1865089
+- ▶️ [Patreon] 🗓️ Calendrami·e #5 : Super Vieux, Mais Pas Que → https://patreon.com/posts/145062081
+- ▶️ [Patreon] 🗓️ Calendrami·e #6 : MogurIt Yourself - Bien faire fonctionner son micro en stream → https://patreon.com/posts/145062485
+- ▶️ [Patreon] 🗓️ Calendrami·e #7 : un autre genre de maison hantée → https://patreon.com/posts/145062762
+- 🎧 [Patreon] Conf' 2 Redac' / Calendrami·e #8 — Fan2Vous → https://patreon.com/posts/145350842 | https://youtu.be/ciIahI-D3JE
+- ▶️ [Patreon] 🗓️ Calendrami·e #9 : Medoguri - Born où ? → https://patreon.com/posts/145429872
+- ▶️ [Patreon] 🗓️ Calendrami·e #10 : Yes, coach ! → https://patreon.com/posts/145511574
+- ▶️ [Patreon] 🗓️ Calendrami·e #11 : Le retour de Hatsune Miku (et d’exaheva) → https://patreon.com/posts/145511837
+
+### La semaine
+» départ de Katsuhiro Harada, cf. la Jeudinale
+
+» ▶️ [YouTube / Timothy Cain / 5 déc. 2025] Cain On Games update → https://youtu.be/kCVWRZqyroA (6 min)
+» 🇺🇸 [Kotaku / 5 déc. 2025] Legendary Fallout developer Tim Cain returns to Obsidian. The former lead on The Outer Worlds returns to his RPG home → https://kotaku.com/--2000650898
+
+» 🇫🇷 [ActuGaming / 9 déc. 2025] Le remake d’Assassin’s Creed IV: Black Flag apparait chez l’organisme PEGI, l’annonce ne devrait plus tarder → https://actugaming.net/--772174
+
+» 🇺🇸 [MP1ST / 9 déc. 2025] TGA statue mystery solved – New Divinity trademark uncovered as new icon matches statue → https://cutt.ly/BtoSHR4W
+» 🇫🇷 [ActuGaming / 10 déc. 2025] The Game Awards : le mystère de la statue serait enfin résolu et Larian Studios (Baldur’s Gate 3) serait derrière tout ça → https://actugaming.net/--772272
+
+» Queen's Domain, annoncé sur PC / Steam Deck ; édité par Future Friends Games, développé par Freshly Baked Games, derrière The New Flesh (2025) → https://s.team/a/1799840
+» 🇫🇷 [Gamekult / 5 déc. 2025] Queen's Domain, c'est King's Field sans moustache → https://cutt.ly/6tpTRt4S
+
+» 🇺🇸 [Steam / Age of Empires / 9 déc. 2025] What’s Coming in 2026 for Age of Empires and Age of Mythology → https://cutt.ly/dtpbaAId
+» 🇫🇷 [Gamekult / 10 déc. 2025] Age of Empires : voilà le programme 2026, et il est chargé → https://cutt.ly/rtpbAOPm
+
+» 🇺🇸 [Steam / A Normal Lost Phone / 8 déc. 2025] Removal of A Normal Lost Phone from Steam → https://cutt.ly/Hti9bQPa
+» 🇫🇷 [Gamekult / 9 déc. 2025] Le studio français Accidental Queens ferme ses portes mais tout "va très bien" → https://cutt.ly/ItpbdbW9
+
+» rachat de Warner Bros, cf. La Jeudinale
+
+### Game Awards 2025
+» 🇫🇷 [Gamekult / 12 déc. 2025] Divinity : après Baldur's Gate 3, Larian reviendra à ses origines. Un trailer bien sanglant comme il faut → https://cutt.ly/Oto5cLHh
+» 🇫🇷 [Gamekult / 12 déc. 2025] Control Resonant : après Jesse Faden, c'est son frère Dylan qui va sauver New York → https://cutt.ly/ato5bnBn
+» 🇫🇷 [Gamekult / 12 déc. 2025] Tomb Raider : Catalyst écrira l'avenir de Lara Croft en 2027 → https://cutt.ly/Ato5mRvw
+» 🇫🇷 [Gamekult / 12 déc. 2025] Tomb Raider : Legacy of Atlantis, le remake qui revient aux racines de Lara Croft → https://cutt.ly/fto5Ww1v
+» 🇫🇷 [Gamekult / 12 déc. 2025] Star Wars : Fate of The Old Republic ramène Casey Hudson (Mass Effect, KOTOR) au sabre jedi → https://cutt.ly/Yto5Rqaz
+» 🇫🇷 [Gamekult / 12 déc. 2025] Puisque la mode est au jeu de course, c'est l'heure de Star Wars : Galactic Racer → https://cutt.ly/Mto5RYyM
+» 🇫🇷 [Gamekult / 10 déc. 2025] Capcom met désormais Mega Man, Ace Attorney et Devil May Cry au cœur de sa stratégie d'avenir → https://cutt.ly/9to5U9UO
+» 🇫🇷 [Actugaming / 12 déc. 2025] Mega Man: Dual Override – Mega Man signe enfin son grand retour avec un nouvel épisode prévu pour 2027 → https://actugaming.net/--772862/
+» 🇫🇷 [Actugaming / 12 déc. 2025] Les créateurs de Soma présentent ONTOS, leur nouveau thriller de science-fiction → https://actugaming.net/--772710
+» 🇫🇷 [Gamekult / 12 déc. 2025] Bandai Namco dévoile enfin Ace Combat 8 : Wings of Theve → https://cutt.ly/Eto5Pjk6
+» 🇫🇷 [Actugaming / 12 déc. 2025] Après Yakuza, Toshihiro Nagoshi dévoile son nouveau projet très similaire, Gang of Dragon → https://actugaming.net/--772881
+» 🇫🇷 [Gamekult / 12 déc. 2025] Total War : Warhammer 40,000 - Creative Assembly sort le bolter lourd pour fêter les 25 ans de la licence → https://cutt.ly/Dto5Duvy
+
+» 🗓️ dates de sorties :
+- Saros, le 30 avril 2026 sur PlayStation 5
+- Pragmata, le 24 avril 2026 sur Switch 2, PlayStation 5, Xbox Series et PC / Steam Deck
+- Phantom Blade Zero, le 9 sept. 2026 sur PlayStation 5 et PC
+- Exodus, début 2027 sur PlayStation 5, Xbox Series et PC
+- LEGO Batman: Legacy of the Dark Knight, le 29 mai 2025 sur Switch 2, PlayStation 5, Xbox Series et PC / Steam Deck
+- Invincible VS, le 30 avril 2026 sur PlayStation 5, Xbox Series et PC
+- Diablo IV — Lord of Hatred, le 28 avril 2025 sur PlayStation 4 & 5, Xbox One & Series et PC / Steam Deck
+
+» Coven of the Chicken Foot, annoncé sur PC / Steam Deck ; développé par Wildflower Interactive → https://s.team/a/3041680
+
+» Virtue and a Sledgehammer, annoncé sur PC / Steam Deck ; développé par Deconstruteam → https://s.team/a/3743260
+» 🇫🇷 [Gamekult / 11 déc. 2025] Virtue and a Sledgehammer : quand Deconstructeam fait de la thérapie à coups de grosse massue → https://cutt.ly/otpbKiGS
+
+## Jeux
+
+### Terminator 2D: No Fate
+» Terminator 2D: No Fate, le 12 déc. 2025 à 30 € sur Switch, PlayStation 4 & 5, Xbox One & Series, et PC / Steam Deck ; développé par Bitmap Bureau, studio britannique d'une quinzaine de personnes derrière _Final Vandetta_ (2022), _Battle Axe_ (2021), _Xeno Crisis_ (2019), _Ninja Showdown_ (2017), _88 Heroes_ (2017) → https://terminator2d.com | https://bitmapbureau.com
+
+- sorti le 12 déc. 2025 sur Switch, PlayStation 4 & 5, Xbox One & Series, et PC / Steam Deck
+- édité par Reef Entertainment, développé par Bitmap Bureau, studio britannique d'une quinzaine de personnes derrière _Final Vandetta_ (2022), _Battle Axe_ (2021), _Xeno Crisis_ (2019), _Ninja Showdown_ (2017), _88 Heroes_ (2017) → https://terminator2d.com | https://bitmapbureau.com
+- réalisé par Mike Tucker et Quang Nguyen, direction artistique par Henk Nieborg, écriture par Dylan Fernandez, musiques par Featurecast
+
+🎮 30 € sur Switch (<https://cutt.ly/KtpPJf3d>), PlayStation (<https://cutt.ly/2tpPJIas>) et Xbox (<https://cutt.ly/VtpPJKeS>)
+💻️ 30 € sur Steam (<https://s.team/a/1718460>)
+
+### Skate Story
+» Skate Story, le 8 déc. 2025 à 20 € sur Switch 2, PlayStation 5, Windows, Mac et Steam Deck, démo disponible sur Steam, par la suite sur Switch 2 ; édité par Devolver, développé par Sam Eng, musiques par Blood Cultures et John Fio → https://skatestory.com/ | https://s.team/a/1263240
+
+- sorti le 8 déc. 2025 sur Switch 2, PlayStation 5, Windows, Mac et Steam Deck
+- édité par Devolver, développé par Sam Eng, musiques par Blood Cultures et John Fio → https://skatestory.com
+
+🎮 20 € sur Switch (<https://cutt.ly/8tpTpCvG>) et PlayStation (<https://cutt.ly/DtpTsXjM>)
+💻️ 20 € sur Steam (<https://s.team/a/1263240>)
+
+### News Tower
+» News Tower, sorti le 18 nov. 2025 à 25 € sur Windows, Mac et Steam Deck, démo disponible ; édité par Twin Sails Interactive, développé par Sparrow Night, studio néerlandais 🇳🇱 → https://sparrownight.com | https://s.team/a/1649950
+en accès anticipé depuis le 13 févr. 2024
+
+- sorti le 18 nov. 2025 sur Windows, Mac et Steam Deck
+- édité par Twin Sails Interactive, développé par Sparrow Night, studio néerlandais 🇳🇱 de six personnes dont c'est le premier jeu → https://sparrownight.com
+
+💻️ 25 € sur Steam (<https://s.team/a/1649950>), démo disponible
+
+### Metroid Prime 4: Beyond
+» Metroid Prime 4: Beyond, sorti le 4 déc. 2025 à 60 € sur Switch 1 & 2 ; édité par Nintendo, développé par Retro Studio
+
+- sorti le 4 déc. 2025 sur Switch 1 & 2
+- édité par Nintendo, développé par Retro Studio, studio états-unien 🇺🇸 derrière la série de jeux _Metroid Prime_ (2002 à 2007), _Donkey Kong Country Returns_ (2010), _mario kart 7_ (2011), _Donkey Kong Country: Tropical Freeze_ (2014, 2018) → <https://retrostudios.com>
+- réalisé par Bill Vandervoort, direction artistique par Jhony Ljungstedt, écriture par Jesse Lee Keeter, Tracy Nicoletti et Megan Fausti, musiques par Kenji Yamamoto et Minako Hamano
+
+🎮 à partir de 41 € en grande distribution
+🎮 60 € sur Switch (<https://cutt.ly/RtpToRkB>)
+🎮 70 € sur Switch 2 (<https://cutt.ly/QtpTo1mH>)
+
+## Mais pas que
+### Héloïse
+» 📕 Les vigilantes — Surveillées et surveillantes, ces femmes au cœur de l'extrême droite, 336 p., par Léane Alestra, paru le 9 avril 2025 chez JC Lattès, 21 € en édition physique, 15 € en édition numérique → https://www.editions-jclattes.fr/livre/les-vigilantes-9782709672528/
+
+### Florian
+» 🎦 Le Seigneur des anneaux : La Guerre des Rohirrim (2024), 134 min, réalisé par Kenji Kamiyama, scénario par Phoebe Gittins, Arty Papageorgiou, Jeffrey Addiss, Will Matthews, musiques par Stephen Gallagher
+
+raids entrants :
+- LesNumeriques à 13:47 +79
+- kenbogard à 13:58 +722
+
+raids : OrigaTwitch => (15:42)[+534] mamapaprika => (16:05) nalahri => (16:23)[+232] Pinde [SEROTHS=>(18:28)+200] (samedi) (terminé à 00:22)
+
+
+
 
 » fil de discussion 💬
 » 📄 
