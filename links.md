@@ -9034,11 +9034,9 @@ https://microsoft.gcs-web.com/static-files/b0a66351-38cf-4147-a907-191d774531bb
 
 » 🇺🇸 [Kotaku / 10 déc. 2025] Marvel Rivals fans are terrified of Rogue, and she’s not even out yet. The hero shooter’s next Vanguard has the kind of kit fans usually make up → https://kotaku.com/--2000652174
 
-» 🇺🇸 [Automaton Media / 10 déc. 2025] 
+» 🇺🇸 [Automaton Media / 10 déc. 2025] Major developer of women’s games in Japan announces “omegaverse” title, and people can’t figure out who’s getting pregnant. Idea Factory's otome game label has announced "Otomate Verse Project," featuring a new take on omegaverse tropes → https://cutt.ly/ytp4ZzB6
 
-» 🇺🇸 [Automaton Media / 10 déc. 2025] 
-
-» 🇺🇸 [Automaton Media / 10 déc. 2025] 
+» 🇺🇸 [Automaton Media / 10 déc. 2025] Game font provider who replaced $380 annual license plan with $20,500 plan reconsiders move following countless inquiries from Japanese game developers. Following an uproar among Japanese game developers, Monotype has extended its renewal period for Fontworks LETS licenses and is reconsidering future moves → https://cutt.ly/ltp4Xq0X
 
 
 » 🇫🇷 [ActuGaming / 11 déc. 2025] Dans Virtue and a Sledgehammer, la meilleure thérapie, c’est de tout casser à la masse → https://actugaming.net/--772357
@@ -9073,6 +9071,19 @@ https://microsoft.gcs-web.com/static-files/b0a66351-38cf-4147-a907-191d774531bb
 » 🇺🇸 [Kotaku / 11 déc. 2025] You won’t believe how cheap it was to make Clair Obscur: Expedition 33. Sandfall Interactive made a GOTY contender for a fraction of what most companies spend → https://kotaku.com/--2000652590
 » 🇫🇷 [ActuGaming / 11 déc. 2025] Clair Obscur: Expedition 33 aurait coûté environ 10 millions de dollars à produire → https://actugaming.net/--772564
 
+» 🇺🇸 [Automaton Media / 11 déc. 2025] Installing two Steam games with the same name can cause the other to get overwritten, users report. The bug was discovered upon a Reddit user's attempt to install Synergy (Half-Life 2 mod) after Synergy (Town-building game) → https://cutt.ly/7tp4XUiJ
+
+» 🇺🇸 [Automaton Media / 11 déc. 2025] PETA uses gory Umamusume: Pretty Derby image to raise awareness about horse racing, sparking outrage among fans. Umamusume: Pretty Derby fans suspect PETA's recent X post is in violation of several Cygames guidelines related to derivative works → https://cutt.ly/htp4CYCV
+
+
+» 🇺🇸 [Automaton Media / 12 déc. 2025] Ukrainian fantasy RPG blows up in Japan for having a designated “pets” feature showcasing the devs’ animal companions. Fantasy dungeon crawler RPG from Ukrainian developer goes viral in Japan for its "cute" main menu section → https://cutt.ly/Jtp4C9HP
+
+» 🇺🇸 [Automaton Media / 12 déc. 2025] Devil May Cry and Dragon’s Dogma producer’s new fast-paced action RPG Stupid Never Dies announced for Steam and PS5. GPTRACK50, the new studio of Capcom veteran Hiroyuki Kobayashi, just announced Stupid Never Dies → https://cutt.ly/ttp4VuVV
+» 🇫🇷 [Gamekult / 15 déc. 2025] Stupid Never Dies : le producteur de Devil May Cry revient avec un nouveau beat 'em up → https://cutt.ly/Stp4H5wC
+
+» 🇺🇸 [Automaton Media / 12 déc. 2025] Kirby Air Riders development team will disband soon, says Masahiro Sakurai. Aiming for “definitive balance” after one more update. Masahiro Sakurai revealed that the development team behind Kirby Air Riders will be disbanding in the near future → https://cutt.ly/ktp4VCeM
+
+» 🇺🇸 [Automaton Media / 12 déc. 2025] Capcom gave Pragmata an early Steam demo to make sure the full release runs smoothly across a wide range of PCs. We ask the developers about their optimization efforts. Capcom gave Pragmata an early Steam demo to make sure the full release runs smoothly across a wide range of PCs. We ask the developers about their optimization efforts → https://cutt.ly/Htp4V8W7
 
 » 🇫🇷 [ActuGaming / 12 déc. 2025] Pragmata : une démo jouable sur PC, une version Switch 2 et une date de sortie dévoilée → https://actugaming.net/--772669
 
@@ -9154,6 +9165,7 @@ https://microsoft.gcs-web.com/static-files/b0a66351-38cf-4147-a907-191d774531bb
 
 » 🇺🇸 [Variety / 11 déc. 2025] Xbox Game Studios boss on Taylor Sheridan’s ‘Call of Duty’ movie, launching ‘South of Midnight’ for PS5 and Switch 2, and big plans for dev direct in January → https://cutt.ly/UtpbXi9V
 » 🇺🇸 [Games Industry / 12 déc. 2025] Xbox to continue evaluating its approach to game pricing, after walking back $80 RRP for Outer Worlds 2. "Monetisation just happens in so many different ways right now. So we’re going to continue to listen to the feedback from fans" → https://cutt.ly/vtpbZuXN
+» 🇺🇸 [Kotaku / 15 déc. 2025] Xbox gets philosophical about trying to raise the price of games. Microsoft talks about retreating from making The Outer Worlds 2 cost $80 → https://kotaku.com/--2000653442
 
 » 🇺🇸 [Knowledge / 12 déc. 2025] Knowledge — the videogame industry newsletter → https://cutt.ly/EtpbXcTY
 » 🇺🇸 [Games Industry / 12 déc. 2025] Co-CEO of Lies of P maker Neowiz says Korea's government is helping indie boom. But the executive says that securing funding has become harder for studios in the region → https://cutt.ly/dtpbZEDS
@@ -9181,26 +9193,91 @@ https://microsoft.gcs-web.com/static-files/b0a66351-38cf-4147-a907-191d774531bb
 
 » 🇯🇵 [Famitsu / 12 déc. 2025] 『バイオハザード レクイエム』「レオンは過去イチで追い詰められ、限界に挑む」。バイオ史上最怖がりのグレースと最強のレオン、ふたりのパートが生む新体験【バイオ9開発インタビュー】 → https://famitsu.com/article/202512/60614
 » 🇫🇷 [ActuGaming / 13 déc. 2025] Resident Evil Requiem : Les directeur et producteur du jeu abordent la dualité Leon/Grace dans une interview → https://actugaming.net/--773062
+» 🇺🇸 [Kotaku / 15 déc. 2025] Not everyone is excited that Leon is back in Resident Evil Requiem. After months of focusing on Grace, Capcom has revealed that she'll be sharing the spotlight → https://kotaku.com/--2000653406
+
+» 🇫🇷 [Gamekult / 13 déc. 2025] Mewgenics : "Je me fous complètement de ce que les gens pensent de moi" - Edmund McMillen, le punk du Tactical RPG. Notre interview avec McMillen et Tyler Glaiel → https://cutt.ly/ktp4Huj0
+
+» 🇫🇷 [Gamekult / 13 déc. 2025] Draconis, exclu PlayStation annulée, refait surface avec deux vidéos de gameplay → https://cutt.ly/Ltp4HhSZ
 
 » 🇫🇷 [Le Monde / 13 déc. 2025] A Arcueil, la plus grande collection de jeux vidéo d’Europe a désormais son musée → https://cutt.ly/ntpbulGP
 
 » 🇬🇧 [GamesRadar+ / 13 déc. 2025] "I wish I had the Katamari Damacy IP": To a T was meant to counter the "downer" vibes of 2019 America, but Keita Takahashi says it "didn't sell well" and fears it "just wasn't a good fit". To a T is a wonderful, joyful story about not fitting in – but it also illustrates why it's "definitely getting harder" to create experimental games → https://cutt.ly/itpRsFQG
+» 🇫🇷 [Gamekult / 15 déc. 2025] L'échec de To a T pourrait bien avoir raison du créateur de Katamari Damacy → https://cutt.ly/Ktp4KN9h
+
+
+» 🇫🇷 [ActuGaming / 15 déc. 2025] La saga Tales of fête ses 30 ans d’existence avec une vidéo anniversaire → https://actugaming.net/--773217
+
+» 🇫🇷 [Gamekult / 15 déc. 2025] Rockstar persiste et signe : les employés licenciés ne l'ont pas été parce qu'ils ont tenté de se syndiquer. "ils ont partagé des informations confidentielles" → https://cutt.ly/qtp4HZGC
+
+» 🇺🇸 [Kotaku / 15 déc. 2025] The state of Xbox and Game Pass in 2025. Xbox had great games in 2025, but everything else is bad, bad, bad, bad → https://kotaku.com/--2000651807
+
+» 🇫🇷 [ActuGaming / 15 déc. 2025] Akaza revient en DLC cette semaine dans Demon Slayer: Kimetsu no Yaiba – The Hinokami Chronicles 2 → https://actugaming.net/--773222
+
+» 🇺🇸 [Kotaku / 15 déc. 2025] The 10 worst games of 2025 according to Metacritic. The worst-reviewed games this year include Glover, Fast & Furious, and MindsEye → https://kotaku.com/--2000653114
+» 🇫🇷 [ActuGaming / 15 déc. 2025] Voici les 10 jeux les moins bien notés de 2025 sur Metacritic → https://actugaming.net/--773232
+
+» 🇫🇷 [ActuGaming / 15 déc. 2025] Une nouvelle démo de Nioh 3 sera disponible juste avant la sortie du jeu → https://actugaming.net/--773255
+
+» 🇺🇸 [Insider Gaming / 12 déc. 2025] A new Alien game is back in development → https://cutt.ly/9tp4JBmT
+» 🇫🇷 [Gamekult / 15 déc. 2025] Un jeu Alien à la Shadow of the Tomb Raider serait en développement chez Eidos-Montréal → https://cutt.ly/ktp4JuFl
+
+» 🇫🇷 [ActuGaming / 15 déc. 2025] Phantom Blade Zero sera une exclusivité console PS5 pendant au moins un an → https://actugaming.net/--773286
+
+» 🇫🇷 [Gamekult / 15 déc. 2025] Solasta 2 : le C-RPG français dévoile son casting et la date de son accès anticipé. C'est un elfe, un gnome et un nain qui rentrent dans un bar… → https://cutt.ly/atp4Kxj3
+
+» 🇫🇷 [ActuGaming / 15 déc. 2025] Le deuxième DLC Dragon Ball Daima pour Dragon Ball Z: Kakarot sortira au premier trimestre 2026 → https://actugaming.net/--773321
+
+» 🇫🇷 [Gamekult / 15 déc. 2025] Après Silent Hill, Christophe Gans travaille sur un film Fatal Frame / Project Zero → https://cutt.ly/4tp4Llju
+
+» 🇺🇸 [Kotaku / 15 déc. 2025] Tomb Raider devs explain why they’re making two games at once. Crystal Dynamics announced two new Lara Croft games, and they’re part of something bigger than themselves → https://kotaku.com/--2000653453
+» 🇫🇷 [Gamekult / 15 déc. 2025] Tomb Raider : retour sur la double annonce des Game Awards avec quelques détails en plus. Crystal Dynamics répond à quelques questions → https://cutt.ly/Rtp4LiCK
+» 🇫🇷 [ActuGaming / 15 déc. 2025] L’avenir de Tomb Raider : ambitions, Unreal Engine 5 et héritage, les développeurs de Crystal Dynamics nous en disent plus sur la suite de la saga → https://actugaming.net/--773175
+
+» 🇫🇷 [PlayStation Blog / 15 déc. 2025] S.T.A.L.K.E.R. 2 sort une mise à jour gratuite contenant nouvelle histoire et contenu supplémentaire le 16 décembre. De nouvelles quêtes, zones, personnages et fonctionnalités arrivent → https://cutt.ly/Rtp4Pc4y
+» 🇫🇷 [ActuGaming / 15 déc. 2025] STALKER 2: Heart of Chornobyl va recevoir une mise à jour gratuite avec de nouvelles quêtes et des zones inédites à explorer → https://actugaming.net/--773351
+
+» 🇺🇸 [Gematsu / 15 déc. 2025] Divinity: Original Sin II – Definitive Edition now available for PS5, Xbox Series, and Switch 2. A free upgrade from the previous generation versions → https://cutt.ly/7tp4xtkP
+» 🇺🇸 [Kotaku / 15 déc. 2025] Baldur’s Gate 3 dev’s previous massive RPG is now officially out for modern consoles. The epic game can now be bought for Xbox Series X, PS5 and Switch 2 → https://kotaku.com/--2000653450
+» 🇫🇷 [ActuGaming / 15 déc. 2025] Des versions PS5, Xbox Series et Switch 2 de Divinity: Original Sin 2 sont maintenant disponibles → https://actugaming.net/--773363
+
+» 🇫🇷 [Gamekult / 15 déc. 2025] Alone in the Dark : Uwe Boll menace de revenir avec un nouveau film (et ce n'est pas une blague) → https://cutt.ly/dtp4LC2w
+
+» 🇫🇷 [ActuGaming / 15 déc. 2025] ARC Raiders se met à l’heure hivernale avec un événement qui va modifier les maps et apporter un grand coup de froid → https://actugaming.net/--773383
+
+» 🇺🇸 [GOG / 15 déc. 2025] Introducing GOG Patrons – an optional way to support game preservation → https://cutt.ly/7tp4zJgR
+
+» 🇨🇦 [La Presse / 15 déc. 2025] Ubisoft acquiert le studio d’Amazon Games à Montréal. Le studio d’Amazon Games à Montréal n’est plus. Selon toute vraisemblance, tous ses employés passent du côté d’Ubisoft, qui a annoncé lundi matin l’acquisition des droits du jeu March of Giants auprès d’Amazon. Établie à Montréal, l’équipe à l’origine de ce jeu d’arène de bataille en ligne multijoueur comprend les deux vétérans montréalais Xavier Marquis et Alexandre Parizeau → https://cutt.ly/utp4xN5B
+» 🇫🇷 [ActuGaming / 15 déc. 2025] Ubisoft rachète le jeu March of Giants, un MOBA qui était en développement chez Amazon Game Studios → https://actugaming.net/--773389
+
+» 🇺🇸 [Kotaku / 15 déc. 2025] Lords Of The Fallen 2 dev promises sexy women but fans just want better Soulslike gameplay. The action-RPG debuted a new trailer at The Game Awards → https://kotaku.com/--2000653471
+
+» 🇺🇸 [Gematsu / 15 déc. 2025] Marathon launches in March 2026, priced at $40 → https://cutt.ly/Btp4cjih
+» 🇺🇸 [Kotaku / 15 déc. 2025] Bungie’s Marathon resurfaces with $40 price tag and a March 2026 release date. A lot is riding on the Destiny studio's latest sci-fi experiment → https://kotaku.com/--2000653472
+
+» 🇺🇸 [Games Industry / 15 déc. 2025] Dino Patti on making multiplayer easy, Stop Killing Games, and ongoing legal wrangles with Playdead. "When people make games, they use two to five years of their life, plus they sacrifice a lot of other things. You don't want to base your technology on something you can't trust" → https://cutt.ly/ltp4Ng5q
+
+» 🇺🇸 [CrossPlay / 15 déc. 2025] What it's like to make a Bluey video game. Bluey is the biggest thing in the world for most children. Halfbrick was tasked with turning the beloved television show into a video game. No pressure, right? → https://cutt.ly/mtp4cZl4
+
+» 🇺🇸 [Games Industry / 15 déc. 2025] Former BioWare general manager Casey Hudson sets up new Canadian game studio Arcanaut Studios → https://cutt.ly/6tp4BPYz
+
+» 🇺🇸 [Automaton Media / 15 déc. 2025] Kadokawa actively recruiting experienced game production staff for adaptations of its anime and manga IPs. Kadokawa is looking to go "beyond a traditional publisher," handling everything from IP creation to game adaptations in house → https://cutt.ly/Xtp4Bfh0
 
 
 
 
-» 🇫🇷 [ActuGaming / 13 déc. 2025] 
 
-» 🇫🇷 [Gamekult / 4 déc. 2025] 
+» 🇫🇷 [ActuGaming / 15 déc. 2025] 
 
-» 🇺🇸 [Kotaku / 12 déc. 2025] 
+» 🇫🇷 [Gamekult / 15 déc. 2025] 
+
+» 🇺🇸 [Kotaku / 15 déc. 2025] 
 
 » 🇬🇧 [PC Gamer / 1er déc. 2025] 
 
 » 🇺🇸 [IGN / 12 déc. 2025] 
 » 🇫🇷 [IGN France / 12 déc. 2025] 
 
-» 🇺🇸 [Automaton Media / 5 déc. 2025] 
+» 🇺🇸 [Automaton Media / 15 déc. 2025] 
 
 » 🇺🇸 [Time Extension / 2 déc. 2025] 
 
