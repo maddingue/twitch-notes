@@ -9286,6 +9286,9 @@ https://microsoft.gcs-web.com/static-files/b0a66351-38cf-4147-a907-191d774531bb
 
 » 🇯🇵 [Famitsu / 16 déc. 2025] 野村哲也氏による『FF7』クラウド×『ドラクエ7』主人公コラボイラスト公開。ふたりの『VII』主人公がチョコボに乗る (Tetsuya Nomura's collaborative illustration featuring Cloud from FF7 and the protagonist from Dragon Quest 7 has been released. The two protagonists from VII are riding chocobos.) → https://famitsu.com/article/202512/60932
 
+» ▶️ [YouTube / The Video Game History Foundation / 15 déc. 2025] Don't Just Watch TV: The secrets of Sega Channel → https://youtu.be/CWCUmTTVjMY (58 min)
+» 🇺🇸 [Time Extension / 16 déc. 2025] The Video Game History Foundation has just recovered a treasure trove of previously undumped Sega Channel games. Including The Flinstones & Garfield Caught In The Act: The Lost Levels → https://cutt.ly/xtaI6KiQ
+
 » 🇬🇧 [The Guardian / 12 déc. 2025] ‘If we build it, they will come’: Skövde, the tiny town powering up Sweden’s video game boom. It started with a goat. Now – via a degree for developers and an incubator for startups – the tiny city is churning out world-famous video game hits. What is the secret of its success? → https://cutt.ly/CtagBYcj
 
 » 🇺🇸 [FRVR / 15 déc. 2025] Fallout New Vegas modders are restoring cut content and beta ideas following Xbox 360 dev kit discovery → https://cutt.ly/jtahPSZt
@@ -9294,24 +9297,113 @@ https://microsoft.gcs-web.com/static-files/b0a66351-38cf-4147-a907-191d774531bb
 » 🇺🇸 [Bloomberg / 5 déc. 2025] ‘Baldur’s Gate 3’ maker promises ‘Divinity’ will be ‘next level’. ‘I think this one is going to be way better’ than ‘Baldur’s Gate 3,’ Larian CEO Vincke says → https://cutt.ly/itagcXKd 
 » 🇺🇸 [Kotaku / 16 déc. 2025] Larian boss confirms Divinity is a turn-based RPG, thinks it’ll be ‘way better’ than Baldur’s Gate 3. Swen Vincke isn't shying away from big promises → https://kotaku.com/--2000653845
 » 🇫🇷 [ActuGaming / 16 déc. 2025] Baldur’s Gate 3 s’est vendu à au moins 20 millions d’exemplaires → https://actugaming.net/--773464
+» 🇫🇷 [Gamekult / 17 déc. 2025] Divinity : Larian précise ses intentions et promet un RPG plus ambitieux que Baldur’s Gate 3 → https://cutt.ly/ntaIFXPf
 » 🇺🇸 [Kotaku / 16 déc. 2025] Larian Studios leaning into generative AI despite internal pushback: ‘Everyone at the company is more or less OK with the way we’re using it’. The RPG powerhouse promises no genAI in the finished game → https://kotaku.com/--2000653850
 » 🇺🇸 [Kotaku / 16 déc. 2025] The head of Larian responds to gen AI backlash: ‘Holy fuck guys we’re not pushing hard for or replacing concept artists with AI’. The Baldur's Gate 3 studio promises its not using AI to cut corners → https://kotaku.com/--2000653912
 » 🇺🇸 [Kotaku / 16 déc. 2025] Larian’s AI use has even Baldur’s Gate 3 diehards speaking out. Fans and ex-Larian devs are not thrilled to hear the Divinity dev is implementing AI into its workflow → https://kotaku.com/--2000653934
+» 🇫🇷 [ActuGaming / 17 déc. 2025] Divinity : Après avoir déclenché une polémique, le PDG de Larian clarifie les choses sur l’utilisation de l’IA au sein du studio → https://actugaming.net/--773505
+» 🇫🇷 [Gamekult / 17 déc. 2025] Pour Divinity, Larian admet employer de l'IA et se mange une polémique quelque peu exagérée → https://cutt.ly/HtaIGcp7
 
 » 🇬🇧 [GamesRadar+ / 16 déc. 2025] Bethesda director Todd Howard says Elder Scrolls 6 is "progressing really well" and "the majority of the studio" is working on the Skyrim successor: "We have long pre-productions on things so that we feel good about them" → https://cutt.ly/4tahPgtm
 
 » 🇺🇸 [Games Industry / 16 déc. 2025] Loot Box State of Play 2025: a ban in Brazil, non-compliance in Australia, a worrying wait for UK legislation and more. Researcher Leon Y. Xiao delivers his annual rundown on lootbox legislation around the world, and how developers and publishers should respond → https://cutt.ly/NtagGBla
 
+» 🇺🇸 [Aftermath / 16 déc. 2025] I don't think Larian's CEO understands how art is made → https://cutt.ly/WtaOo7HA
+
+
+» 🇫🇷 [ActuGaming / 17 déc. 2025] Reanimal passe gold, le jeu de Tarsier Studios arrivera donc bien à temps → https://actugaming.net/--773498
+
+» 🇫🇷 [ActuGaming / 17 déc. 2025] One Piece [OP14-EB04] met en avant les Sept Grands Corsaires sur la mer d’Azur et réduit son retard avec le Japon → https://actugaming.net/--773170
+
+» 🇫🇷 [Gamekult / 17 déc. 2025] Il est désormais possible d'émuler des jeux Xbox 360 sur Android. N'attendez pas des performances parfaites néanmoins → https://cutt.ly/2taIGL0Q
+
+» 🇺🇸 [Game Informer / 17 déc. 2025] Bethesda gives us an update on The Elder Scrolls VI development → https://cutt.ly/ltaIIQZE
+» 🇫🇷 [ActuGaming / 17 déc. 2025] Bethesda fait le point sur l’avancée de The Elder Scrolls VI, qui demandera encore du temps → https://actugaming.net/--773510
+
+» 🇫🇷 [Gamekult / 17 déc. 2025] STALKER 2 repart à la chasse avec une grosse mise à jour de contenu → https://cutt.ly/QtaIHFLr
+
+» 🇫🇷 [ActuGaming / 17 déc. 2025] Tout savoir sur la fréquence, la latence et la capacité de RAM pour le gaming → https://actugaming.net/--773402
+
+» 🇺🇸 [PCGamesN / 17 déc. 2025] Painkiller's creator "disagreed with every single thing" the reboot does, says it "wasted" the IP. People Can Fly and Astronauts founder Adrian Chmielarz created Painkiller, so I asked him what he thinks of the 2025 reboot → https://www.pcgamesn.com/painkiller/creator-remake-interview
+» 🇫🇷 [Gamekult / 17 déc. 2025] Painkiller « gâché » : le créateur de la franchise parle du reboot → https://cutt.ly/5taIJECW
+
+» 🇬🇧 [Eurogamer / 17 déc. 2025] "We had a publisher who dropped us halfway through" - How AdHoc rode Dispatch rejection all the way to huge success. And about that cut Saja Boy-like Z-team member… → https://cutt.ly/ztaIOP08
+» 🇫🇷 [ActuGaming / 17 déc. 2025] Dispatch : AdHoc Studio évoque les difficultés autour d’une éventuelle saison 2 → https://actugaming.net/--773525
+
+» 🇫🇷 [ActuGaming / 17 déc. 2025] Le MOBA SUPERVIVE tire déjà sa révérence, quelques mois seulement après sa sortie → https://actugaming.net/--773531
+
+» 🇦🇺 [Vooks / 17 déc. 2025] Dispatch is coming to Switch and Switch 2 early 2026 → https://cutt.ly/9taIPJUi
+» 🇺🇸 [Gematsu / 17 déc. 2025] Dispatch coming to Switch 2, Switch on January 28, 2026 → https://cutt.ly/3taUKIUr
+» 🇫🇷 [ActuGaming / 17 déc. 2025] Dispatch devrait sortir sur les deux consoles Nintendo Switch à la fin du mois de janvier → https://actugaming.net/--773540
+
+» 🇺🇸 [Kotaku / 17 déc. 2025] It’s horrifying just how little time Steam users spend playing new games. 84 percent of the time spent playing on Steam this year was with games released before 2025 → https://kotaku.com/--2000654158
+» 🇫🇷 [ActuGaming / 17 déc. 2025] Le bilan de votre année passée sur Steam est disponible, quels sont les jeux auxquels vous avez le plus joué cette année ? → https://actugaming.net/--773544
+
+» 🇺🇸 [Forza / 16 déc. 2025] 2025 Forza year in review → https://cutt.ly/ZtaULasM
+» 🇫🇷 [ActuGaming / 17 déc. 2025] Forza Motorsport : Turn 10 Studios stoppe le suivi post-lancement de son jeu de course pour se focaliser sur Forza Horizon 6 → https://actugaming.net/--773532
+» 🇫🇷 [Gamekult / 17 déc. 2025] Malgré les promesses d'Xbox, Forza Motorsport n'aura plus de mises à jour de contenu → https://cutt.ly/DtaIJylP
+
+» 🇫🇷 [ActuGaming / 17 déc. 2025] Un autre jeu FIFA va bientôt voir le jour, cette fois-ci en collaboration avec Netflix → https://actugaming.net/--773574
+
+» 🇺🇸 [IGN / 17 déc. 2025] Video game physical software and hardware sales just had the worst November in the U.S. since 1995 → https://cutt.ly/xtaISVpM
+» 🇺🇸 [Kotaku / 17 déc. 2025] Video game console sales just flatlined ahead of the holidays as prices soar. Even with the Switch 2, November was a terrible month for new hardware → https://kotaku.com/--2000654196
+» 🇫🇷 [ActuGaming / 17 déc. 2025] Aux États-Unis, les ventes de consoles ont atteint un point historiquement bas en novembre → https://actugaming.net/--773582
+
+» 🇺🇸 [The Game Business / 16 déc. 2025] Interview: How Todd Howard and Bethesda are capitalising on the Fallout TV show → https://cutt.ly/ntaI1YKe
+» 🇫🇷 [ActuGaming / 17 déc. 2025] Fallout 5 prendra en compte les événements de la série TV diffusée sur Prime Video → https://actugaming.net/--773589
+
+» 🇺🇸 [Kotaku / 17 déc. 2025] These game devs want to know how many dudes it would take to fight 100 toddlers. With a demo out now, we've spoken to the team at Butterscotch Shenanigans about their new roguelite game → https://kotaku.com/--2000652567
+
+» 🇺🇸 [Kotaku / 17 déc. 2025] Clair Obscur’s free DLC is curb stomping even its best players. The ‘Thank You Update’ has some devastating boss fights that are putting players through the wringer → https://kotaku.com/--2000654227
+
+» 🇺🇸 [Kotaku / 17 déc. 2025] Twitch’s controversial, gambling-heavy rival just got an app on Xbox. Kick, the controversial streaming platform, announced a partnership with Xbox → https://kotaku.com/--2000654234
+
+» 🇺🇸 [Kotaku / 17 déc. 2025] Everything you need to know about Animal Crossing: New Horizons’ big free update. New updates—a Nintendo Switch 2 version and a 3.0 content drop—will be released in January → https://kotaku.com/--2000654252
+
+» 🇺🇸 [Kotaku / 17 déc. 2025] Arc Raiders’ Cold Snap update really juiced the blueprint economy. The extraction shooter has increased the drop rate for the highly sought-after item → https://kotaku.com/--2000654257
+
+» 🇺🇸 [Kotaku / 17 déc. 2025] Fans are worried the ‘sexiest man alive’ is no longer in Final Fantasy XIV. Jonathan Bailey has also become the year's top-grossing actor after Wicked and Jurassic World → https://kotaku.com/--2000654279
+
+» 🇺🇸 [Bloomberg / 17 déc. 2025] Hasbro hires video-game boss as ‘Exodus’ studio head steps down. Blizzard veteran Paul Della Bitta will take over the video-game division → https://cutt.ly/4taIYMcy
+» 🇺🇸 [Kotaku / 17 déc. 2025] ‘Godfather of BioWare design’ steps down at the studio making an ambitious successor to Mass Effect. Hasbro is shuffling its video game division after a big splash at The Game Awards → https://kotaku.com/--2000654313
+
+» 🇺🇸 [Games Industry / 17 déc. 2025] A decade on from Gamergate, how has the games industry changed for women? Some of gaming's most influential women share their experiences, along with what still needs to be done → https://cutt.ly/ftaILTk8
+
+» 🇺🇸 [MobileGamer / 17 déc. 2025] Unity risks fresh backlash with new fee demands: “This feels like blackmail” → https://cutt.ly/NtaIZu69
+» 🇺🇸 [Games Industry / 17 déc. 2025] Unity reportedly introduces $250K+ "minimum contribution" for its biggest customers. This minimum commitment amount is determined based on your gross revenue from the previous 12 months → https://cutt.ly/3taILN4U
+
+» 🇺🇸 [Warner Bros Discovery / 17 déc. 2025] Warner Bros. Discovery board of directors unanimously recommends shareholders reject Paramount tender offer → https://cutt.ly/ZtaIVUcG
+» 🇺🇸 [Games Industry / 17 déc. 2025] Warner Bros. Discovery advises shareholders to reject Paramount Skydance takeover bid. "The terms of the Netflix merger are superior," the board says → https://cutt.ly/8taIC9TO
+
+» 🇺🇸 [The Game Post / 14 déc. 2025] Court dismisses ex-Marathon director Chris Barrett’s $200M lawsuit against Bungie and Sony → https://cutt.ly/mtaIV0WO
+» 🇺🇸 [Games Industry / 17 déc. 2025] Former Bungie director's lawsuit against Bungie and Sony dismissed "for lack of jurisdiction" over monetary damages. The former director may now escalated to the Superior Court → https://cutt.ly/utaIVSDY
+
+» 🇺🇸 [IGN / 17 déc. 2025] Disney won't work with Roblox due To its child safety concerns, report states → https://cutt.ly/ttaOy96m
+
+» 🇺🇸 [Bardehle Pagenberg / 16 déc. 2025] Nintendo wins damages lawsuit with Bardehle Pagenberg: BigBen to pay nearly 7 million € → https://cutt.ly/AtaINemk
+» 🇺🇸 [Games Industry / 17 déc. 2025] Nintendo wins $8m in 15-year-old lawsuit over Wii controller patent. Nacon has been instructed to pay €4m, plus €3m in interest and legal costs → https://cutt.ly/htaIBtBW
+
+» 🇺🇸 [Automaton Media / 17 déc. 2025] “They burned millions but got nothing.” Japanese game font provider’s aggressive price hike could be result of parent company’s alleged AI failure and financial struggle. After it replaced a domestic $380 annual license plan for game fonts with a $20,500 plan, Monotype has come under scrutiny → https://cutt.ly/YtaI2kcl
+
+» 🇯🇵 [Harf Way / 17 déc. 2025] 『みんなで空気読み。』から『G-MODEアーカイブス+ 探偵・癸生川凌介事件譚』まで。DL販売全盛期にジー・モードがパッケージでゲームを出す理由とは【前編】 → https://cutt.ly/dtaI8cEm
+» 🇺🇸 [Automaton Media / 15 déc. 2025] Japanese publisher dedicated to digitally reviving obsolete feature phone games announces first physical edition. “There was a strong demand”. G-Mode's physical edition of The Detective Kibukawa Ryosuke Case Tale series will be coming to Nintendo Switch in January next year → https://cutt.ly/vtaI9CoZ
+
+» 🇯🇵 [Nikkei Cross Trend / 16 déc. 2025] 小島秀夫氏1万字インタビュー　『デススト2』で伝えたかったこと → https://cutt.ly/dtaI5JXJ
+» 🇺🇸 [Automaton Media / 18 déc. 2025] Death Stranding 2: On the Beach doesn’t have “extreme player dropout points” like its predecessor, Kojima says. Hideo Kojima talks about the extra care Kojima Productions put into balancing difficulty in Death Stranding 2: On the Beach → https://cutt.ly/mtaI5lKn
+
+» 🇺🇸 [Time Extension / 17 déc. 2025] MicroProse is partnering with Geoff Crammond to bring back his Formula One Grand Prix Series. Now called "Geoff Crammond Racing" → https://cutt.ly/htaI6w1y
+
+» 🇺🇸 [IGN / 17 déc. 2025] Horses sells over 18k copies, pays back loans and royalties despite removal from Steam and Epic. But it's not enough to fund a new project → https://cutt.ly/BtaOrPmn
 
 
 
 
 
-» 🇫🇷 [ActuGaming / 16 déc. 2025] 
+» 🇫🇷 [ActuGaming / 17 déc. 2025] 
 
-» 🇫🇷 [Gamekult / 16 déc. 2025] 
+» 🇫🇷 [Gamekult / 17 déc. 2025] 
 
-» 🇺🇸 [Kotaku / 16 déc. 2025] 
+» 🇺🇸 [Kotaku / 17 déc. 2025] 
 
 » 🇬🇧 [PC Gamer / 1er déc. 2025] 
 
@@ -9320,7 +9412,7 @@ https://microsoft.gcs-web.com/static-files/b0a66351-38cf-4147-a907-191d774531bb
 
 » 🇺🇸 [Automaton Media / 15 déc. 2025] 
 
-» 🇺🇸 [Time Extension / 2 déc. 2025] 
+» 🇺🇸 [Time Extension / 17 déc. 2025] 
 
 
 
