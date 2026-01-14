@@ -9954,6 +9954,7 @@ https://microsoft.gcs-web.com/static-files/b0a66351-38cf-4147-a907-191d774531bb
 » 🇯🇵 [GameBiz / 9 jan. 2026] Cygames、AIを活用したサービスやツールの開発・提供を行う子会社Cygames AI Studio（AIスタジオ）を設立 → https://gamebiz.jp/news/418910
 » 🇯🇵 [Famitsu / 9 jan. 2026] 『ウマ娘』『グラブル』などを手掛けるCygamesが子会社“Cygames AI Studio”を設立。自社モデルの研究開発から制作現場向けのサービス・ツールを提供し、ゲーム業界のさらなる発展を目指す → https://famitsu.com/article/202601/62843
 » 🇺🇸 [Automaton Media / 9 jan. 2026] Umamusume developer Cygames establishes dedicated AI studio for creating “safe and secure” in-house models. Umamusume: Pretty Derby and Granblue Fantasy developer Cygames recently announced that they have established their new Cygames AI Studio → https://cutt.ly/etjGY3Fp
+» 🇫🇷 [Gamekult / 13 jan. 2026] Cygames (Granblue Fantasy Versus, Umamusume) lance un studio 100% dédié à l'IA → https://cutt.ly/Ltkz4sbx
 
 » 🇰🇷 [GameMeca / 8 jan. 2026] [신년특집] 생성형 AI와의 공존 ③ 넥슨게임즈 김용하 본부장 → https://cutt.ly/etjGOONZ
 » 🇺🇸 [Automaton Media / 9 jan. 2026] Blue Archive producer says the creative industry is facing an “AI slop” problem, linking to consumer distrust. “Of course they’re going to react negatively”. Recently, Blue Archive producer Yongha Kim addressed some gamers' worries regarding the recent rise in generative AI use among developers → https://cutt.ly/ztjGUB6a
@@ -9999,10 +10000,13 @@ https://microsoft.gcs-web.com/static-files/b0a66351-38cf-4147-a907-191d774531bb
 
 » 🇺🇸 [Games Industry / 12 jan. 2026] The new owner of GOG discusses taking on Steam, the devil of DRM, and following in Nightdive's footsteps. "We see DRM as something which can make the life of a legal customer more difficult," says Michał Kiciński, "so there is no reason to keep it alive." → https://cutt.ly/6tkqDvUo
 » 🇬🇧 [PC Gamer / 12 jan. 2026] 'Steam is winning with its ease of use,' GOG's new owner says, but he's not interested in picking a fight: 'I think much can be done in GOG without losing its core values and the way it operates'. CD Projekt sold GOG to co-founder Michal Kiciński at the end of 2025, and he sees room for improvement but isn't planning any major changes → https://cutt.ly/htkwtcMj
+» 🇺🇸 [Kotaku / 13 jan. 2026] GOG’s new (old) boss reaffirms anti-DRM commitment, even if it costs sales. 'Most corporate people, they make plain stupid decisions' → https://kotaku.com/--2000659280
 
 » 🇯🇵 [Kyoto Shimbun / 9 jan. 2026] 任天堂社長に聞く「スイッチ2」の普及戦略　供給体制は「結果が徐々に出てくる」 → https://cutt.ly/ltkqH10R
 » 🇬🇧 [VGC / 12 jan. 2026] Nintendo is monitoring high RAM prices and tariff impacts very closely, president Shuntaro Furukawa says. He doesn’t comment on potential price increases, calling it “hypothetical” → https://cutt.ly/EtkqJwEA
 » 🇺🇸 [Kotaku / 12 jan. 2026] Nintendo asked about spiraling RAM costs as fans worry about a Switch 2 price increase. Nintendo isn't ready to comment on hypotheticals → https://kotaku.com/--2000658946
+» 🇫🇷 [Gamekult / 13 jan. 2026] Entre la RAM hors de prix et les tensions commerciales, Nintendo avance prudemment avec la Switch 2 → https://cutt.ly/Utkz8HWu
+» 🇫🇷 [ActuGaming / 13 jan. 2026] Nintendo ne peut pas encore dire si la Switch 2 va voir son prix augmenter à cause d’un marché très tendu → https://actugaming.net/--775457
 
 » 🇫🇷 [ActuGaming / 12 jan. 2026] Dragon Ball Z: Kakarot dépasse les 10 millions de ventes juste avant la sortie de son deuxième DLC Dragon Ball Daima → https://actugaming.net/--775379
 
@@ -10010,6 +10014,7 @@ https://microsoft.gcs-web.com/static-files/b0a66351-38cf-4147-a907-191d774531bb
 
 » 🇬🇧 [Eurogamer / 12 jan. 2026] Following its cancellation by Riot, Hytale devs anticipate over a million players in Early Access alone → https://cutt.ly/atkqCrSW
 » 🇬🇧 [Eurogamer / 12 jan. 2026] Minecraft-like Hytale has already sold enough to fund the next two years of development, and it's not even out yet. "We are looking very strong for the future". → https://cutt.ly/btkqCdvM
+» 🇫🇷 [Gamekult / 13 jan. 2026] Hytale se lance aujourd'hui en accès anticipé, et deux années de développement ont été déjà été financées → https://cutt.ly/otkz47Lk
 
 » 🇺🇸 [Games Industry / 12 jan. 2026] Paramount sues Warner Bros. Discovery for details of its deal with Netflix. "WBD has provided increasingly novel reasons for avoiding a transaction with Paramount," said Paramount CEO → https://cutt.ly/EtkqD6yL
 
@@ -10018,6 +10023,7 @@ https://microsoft.gcs-web.com/static-files/b0a66351-38cf-4147-a907-191d774531bb
 » 🇫🇷 [ActuGaming / 12 jan. 2026] Anthem tire sa révérence aujourd’hui avec la fin des serveurs et l’impossibilité d’accéder au jeu → https://actugaming.net/--775384
 
 » 🇬🇧 [Eurogamer / 12 jan. 2026] Why don't we see male V in post-launch Cyberpunk 2077 marketing? The Cyberpunk 2 creative director has a very simple explanation → https://cutt.ly/wtkqXjM7
+» 🇫🇷 [Gamekult / 13 jan. 2026] De Cyberpunk 2077 à Phantom Liberty, CD Projekt a changé de V dans un devoir de parité → https://cutt.ly/wtkz6QDx
 
 » 🇺🇸 [PCGamesN / 11 jan. 2026] Arc Raiders has flourished despite AI backlash, but Embark says it won't now "open the floodgates for all types of AI". Embark Studios' position on AI usage remains the same, Arc Raiders' design directors tells me, but it's "not deaf to the concerns." → https://cutt.ly/otkqFGft
 » 🇺🇸 [Games Industry / 12 jan. 2026] Embark Studios doesn't want to "open the floodgates" on AI, but the recent backlash hasn't "changed its outlook," either. "We're not deaf to the concerns that are out there for it" → https://cutt.ly/GtkqFl5o
@@ -10029,6 +10035,8 @@ https://microsoft.gcs-web.com/static-files/b0a66351-38cf-4147-a907-191d774531bb
 » 🇬🇧 [PC Gamer / 12 jan. 2026] Epic Games CEO Tim Sweeney argues banning Twitter over its ability to AI-generate pornographic images of minors is just 'gatekeepers' attempting to 'censor all of their political opponents'. Not the hill I'd die on, but I'm not a billionaire → https://cutt.ly/etkq1fcp
 
 » 🇬🇧 [PC Gamer / 12 jan. 2026] Anthem is finally, officially dead. It died as it lived: As a game with pretty fun flying → https://cutt.ly/rtkwtVTo
+» 🇺🇸 [Kotaku / 13 jan. 2026] EA kills Anthem: a BioWare fan’s five stages of grief. After a canceled revamp and a server shutdown, BioWare fans mourn the loot shooter’s potential → https://kotaku.com/--2000659367
+» 🇫🇷 [Gamekult / 13 jan. 2026] Anthem est mort et enterré, mais BioWare ne va pas mieux → https://cutt.ly/utkz8ghR
 
 » 🇺🇸 [EA / 9 jan. 2025] New year, new updates: four things to know now about the future of The Sims → https://cutt.ly/ItkqIqpU
 » 🇺🇸 [Games Industry / 12 jan. 2026] Maxis stresses "values have not changed" following $55bn EA acquisition. Developer provides update on Sims franchise, maintaining "single-player PC and console experiences will always be a part of its future" → https://cutt.ly/ltkqOT0V
@@ -10039,6 +10047,8 @@ https://microsoft.gcs-web.com/static-files/b0a66351-38cf-4147-a907-191d774531bb
 
 » ▶️ [YouTube / Rand al Thor 19 / 2 janv. 2026] Xbox Two #393 — Next Gen Xbox & PS6 console launches delayed?! | RAM and GPU prices explode → https://youtu.be/KPhoHILH4Wo (2 h 21 min)
 » 🇺🇸 [The Gamer / 12 jan. 2026] Xbox insider claims Ninja Theory's Project Mara has been cancelled, studio now focusing on Hellblade 3 → https://cutt.ly/7tkqVFdW
+» 🇺🇸 [IGN / 13 jan. 2026] New Hellblade that's more of a 'game' reportedly in the Works, Ninja Theory no longer working on Project Mara → https://cutt.ly/0tkzM059
+» 🇫🇷 [IGN France / 13 jan. 2026] Un nouveau Hellblade serait en développement, Ninja Theory ne travaillerait plus sur Project Mara → https://cutt.ly/Ttkz1pqk
 
 » 🇺🇸 [Kotaku / 12 jan. 2026] A Steam sale’s background art was filled with hidden free game codes. Publisher Team 17's Hidden Treasures sale included some sneaky freebies if you looked carefully → https://kotaku.com/--2000658974
 
@@ -10047,27 +10057,102 @@ https://microsoft.gcs-web.com/static-files/b0a66351-38cf-4147-a907-191d774531bb
 
 » 🇺🇸 [Bloomberg / 12 jan. 2026] Fired Rockstar employees in UK lose bid to receive interim pay. The 31 staffers argued they were dismissed for unionizing. Rockstar said they were fired for leaking information in an online chat group → https://cutt.ly/gtkweoBs
 » 🇺🇸 [Kotaku / 12 jan. 2026] Rockstar wins initial ruling against fired GTA 6 devs: ‘we regret that we were put in a position where dismissals were necessary’. The union accused Rockstar of spying on employees' private communications → https://kotaku.com/--2000658984
+» 🇺🇸 [IGN / 12 jan. 2026] Rockstar says 'we stand by our course of action' as judge rejects fired GTA 6 developers' application for interim relief. "We regret that we were put in a position where dismissals were necessary." → https://cutt.ly/ftkxjmoh
+» 🇦🇺 [twiv / 13 jan. 2026] Fired Rockstar staff denied interim pay at employment tribunal hearing → https://cutt.ly/4tkwpa78
+» 🇺🇸 [Games Industry / 13 jan. 2026] Judge rejects fired Rockstar staff's request for interim relief. The employment tribunal found it unlikely that workers were primarily fired for their union activity → https://cutt.ly/MtkxjGxw
 
 » 🇺🇸 [Steam / Hardest / 10 jan. 2026] AI is bad, game will be deleted 30.1 → https://cutt.ly/ftkwyACc
 » 🇬🇧 [PC Gamer / 12 jan. 2026] Indie dev is delisting his AI game from Steam because his new girlfriend convinced him it's evil: 'The game existing in its current form is a disgrace to all game makers and players'. There are heroes all around us → https://cutt.ly/ctkwuyrF
 » 🇺🇸 [Kotaku / 12 jan. 2026] Dude will delete AI-generated game from Steam after new girlfriend convinces him AI sucks. Hardest, a roguelike card game developed using AI, will be removed from Valve's storefront at the end of the month → https://kotaku.com/--2000659024
-» 🇦🇺 [twiv / 13 jan. 2026] Fired Rockstar staff denied interim pay at employment tribunal hearing → https://cutt.ly/4tkwpa78
+
+» 🇺🇸 [Kotaku / 12 jan. 2026] GTA Online players keep making Charlie Kirk assassination missions and Rockstar keeps deleting them. It seems Rockstar is trying to stop people from spreading these missions online → https://kotaku.com/--2000659038
+
+
+» 🇺🇸 [Gematsu / 13 jan. 2026] ARC Raiders sales top 12.4 million → https://cutt.ly/stkzZ13y
+» 🇺🇸 [Kotaku / 13 jan. 2026] As Arc Raiders declares over 12 million sales, trigger ‘nade and kettle get PvP nerfs. All those words in the headline make sense if you're cool like me → https://kotaku.com/--2000659269
+» 🇫🇷 [ActuGaming / 13 jan. 2026] ARC Raiders dépasse les 12,4 millions d’exemplaires vendus et est plus populaire que jamais → https://actugaming.net/--775449
+
+» 🇺🇸 [Gematsu / 13 jan. 2026] Resident Evil Showcase set for January 15. New gameplay and news for Resident Evil Requiem incoming → https://cutt.ly/ItkzXdpv
+» 🇫🇷 [ActuGaming / 13 jan. 2026] Un Resident Evil Showcase est prévu pour cette semaine, avec du nouveau pour Resident Evil Requiem → https://actugaming.net/--775452
+
+» 🇺🇸 [Kotaku / 13 jan. 2026] To nuke or not to nuke? Animal Crossing players prep for new update. Animal Crossing: New Horizons' first big update in years hits this week → https://kotaku.com/--2000658987
+
+» 🇺🇸 [Games Industry / 13 jan. 2026] Ubisoft laying off 55 roles at Massive and Ubisoft Stockholm as cost-cutting continues. Follows completion of voluntary redundancy process announced last year; work continues on The Division 3 → https://cutt.ly/PtkzCGVj
+» 🇺🇸 [IGN / 13 jan. 2026] Ubisoft Layoffs continue with 55 staff at The Division studio Massive and Ubisoft Stockholm now impacted. Pledges work on The Division franchise will continue → https://cutt.ly/htkzNTLi
+» 🇫🇷 [IGN France / 13 jan. 2026] Les licenciements continuent pour Ubisoft avec 55 nouveaux employés touchés chez Massive et Ubisoft Stockholm. Le travail sur The Division se poursuivra malgré tout → https://cutt.ly/VtkzNZPq
+» 🇺🇸 [Game Developer / 13 jan. 2026] Ubisoft proposes layoffs at Massive Entertainment and Ubisoft Stockholm. 55 people could be impacted by the cuts → https://cutt.ly/AtkxlcgJ
+» 🇺🇸 [Kotaku / 13 jan. 2026] Ubisoft follows up request for employees to lay themselves off by doing it itself. The Assassin's Creed publisher continues restructuring scheme to keep costs down → https://kotaku.com/--2000659368
+» 🇫🇷 [Gamekult / 13 jan. 2026] Ubisoft dégraisse en Suède : 55 emplois supprimés chez Massive et Stockholm → https://cutt.ly/Ytkxqpso
+» 🇫🇷 [ActuGaming / 13 jan. 2026] Ubisoft continue de licencier avec 55 postes supprimés chez Ubisoft Massive et Ubisoft Stockholm → https://actugaming.net/--775472
+» 🇺🇸 [Telegraph / Peter Molydeux / 13 jan. 2026] The last message → https://cutt.ly/NtkxaZXw
+» 🇺🇸 [Kotaku / 13 jan. 2026] Infamous Peter Molyneux parody account calls it quits after 16 years. The director's final game, Masters of Albion, releases this year → https://kotaku.com/--2000659410
+
+» 🇺🇸 [Kotaku / 13 jan. 2026] The Division might be getting exactly what Destiny fans have long wanted. Marketing for an unannounced Definitive Edition of the 2013 shooter is already out in the wild → https://kotaku.com/--2000658970
+
+» 🇵🇱 [Bankier / 9 jan. 2026] Polski gamedev w kryzysie. Rząd opracuje strategię rozwoju dla branży. Resort kultury opracuje strategię rozwoju dla branży gier - poinformowała szefowa resortu Marta Cienkowska przy okazji publikacji raportu z prekonsultacji po okrągłym stole z branżą → https://cutt.ly/2tkz5MwY
+» 🇫🇷 [Gamekult / 13 jan. 2026] Le miracle polonais en berne ? Le gouvernement lance un plan d’urgence pour sauver son industrie JV. Le plan Marshall de la Pologne pour ses studios → https://cutt.ly/8tkz5q4M
+
+» 𝕏 [X / andyTHPS / 13 jan. 2026] 🧵 https://xcancel.com/andyTHPS/status/2011091620314431519#m
+> I've just been laid off. It appears the entire @twisted_pixel games studio has been shut down. @SanzaruGames too
+» 🇺🇸 [Bloomberg / 13 jan. 2026] Meta begins job cuts as it shifts from metaverse to AI devices → https://cutt.ly/qtkxorhl
+» 🇺🇸 [Game Developer / 13 jan. 2026] Meta shutters three VR studios as part of Reality Labs layoffs. Meta is closing Twisted Pixel Games, Sanzaru Games, and Armature Studio while laying off a reported 10 percent of Reality Labs employees → https://cutt.ly/ktkxk6iV
+» 🇺🇸 [Kotaku / 13 jan. 2026] Deadpool studio and more closed as Meta chases AI instead of gaming. Twisted Pixel, Armature, and Sanzaru Games have been gutted according to laid off employees → https://kotaku.com/--2000659376
+» 🇫🇷 [Gamekult / 13 jan. 2026] Meta ferme trois studios majeurs de la réalité virtuelle : Sanzaru, Armature et Twisted Pixel → https://cutt.ly/5tkz3TLu
+
+» 🇫🇷 [ActuGaming / 13 jan. 2026] Les sets LEGO Pokémon (Evoli, Pikachu…) sont en précommande, voici où les réserver au meilleur prix → https://actugaming.net/--775467
+
+» 🇺🇸 [Kotaku / 13 jan. 2026] Xbox legend Major Nelson is Unity’s latest layoff. The departure comes amid the game engine company's ongoing identity crisis → https://kotaku.com/--2000659406
+
+» ▶️ [YouTube / People Make Games / 13 jan. 2026] Rockstar vs. Union: we went to court and saw the evidence → https://youtu.be/dnuipPQDd_w (39 min)
+
+» 🇫🇷 [ActuGaming / 13 jan. 2026] Un nouveau jeu mobile Inazuma Eleven est annoncé tandis qu’Inazuma Eleven: Victory Road s’approche du million de ventes → https://actugaming.net/--775482
+
+» 🇫🇷 [Gamekult / 13 jan. 2026] The Drifter, le point'n'click qui a bousculé le genre l'été dernier enfin disponible en français → https://cutt.ly/atkz69zD
+
+» 🇫🇷 [ActuGaming / 13 jan. 2026] Code Vein II s’offre un tour d’horizon en vidéo, voici tout ce qu’il faut savoir sur cet action-RPG → https://actugaming.net/--775502
+
+» 🇺🇸 [The Game Business / 13 jan. 2026] Split Fiction’s Josef Fares: “I would not be able to live without AAA titles”. The Hazelight boss fears that Clair Obscur: Expedition 33’s success might inspire publishers to only make AA games → https://cutt.ly/vtkz0GF7
+» 🇫🇷 [ActuGaming / 13 jan. 2026] Josef Fares (Split Fiction, It Takes Two) défend Electronic Arts et ne veut pas voir les AAA disparaitre au profit des AA → https://actugaming.net/--775507
+
+» 🇬🇧 [GamesRadar+ / 13 jan. 2026] 15 years and a nasty IP war with EA can no longer hold back my favorite game after creator decides to turn characters into bunnies for spiritual successor: "Very happy with this development". Alice: Madness Returns returns! → https://cutt.ly/Ztkxmd61
+
+» 🇬🇧 [Eurogamer / 13 jan. 2026] Oops! Funko Pop might have just spoiled a Fallout Season 2 plot point → https://cutt.ly/9tkxElK1
+
+» 🇺🇸 [Dexerto / 13 jan. 2026] Valve made over $1 billion from CS2 last year according to analysis → https://cutt.ly/utkxEc9c
+
+» 🇰🇷 [GameMeca / 10 jan. 2026] 시프트업 김형태 대표 "중국 인해전술 대응 위해 AI 필수" → https://cutt.ly/ytkz9plU
+» 🇺🇸 [Automaton Media / 13 jan. 2026] Stellar Blade director says using AI will be essential for competing with overwhelming manpower of China and US developers. Stellar Blade director says using AI will be essential for competing with overwhelming manpower of China and US developers → https://cutt.ly/Vtkz2hfH
+» 🇺🇸 [IGN / 13 jan. 2026] 'One person can perform the work of 100 people' — Boss of Stellar Blade developer says it needs to use AI to compete with overwhelming manpower of China and U.S. studios. "We devote around 150 people to a single game, but China puts in between 1,000 to 2,000." → https://cutt.ly/rtkz2FKU
+» 🇺🇸 [Kotaku / 13 jan. 2026] Stellar Blade dev believes ‘one person can perform the work of 100 people’ with AI. Shift Up's CEO thinks it's the only way to compete with studios from China → https://kotaku.com/--2000659439
+» 🇫🇷 [ActuGaming / 13 jan. 2026] Shift Up (Stellar Blade) pense que l’IA va être essentielle pour lutter à armes égales contre les studios chinois et américains → https://actugaming.net/--775510
+» 🇫🇷 [Gamekult / 13 jan. 2026] Shift Up (Stellar Blade) veut miser sur l'IA pour concurrencer les studios chinois → https://cutt.ly/utkxqb9p
+
+» 🇺🇸 [GungHo / 9 jan. 2026] Notice Concerning Change in Representative Director → https://cutt.ly/Dtkxw78z
+» 🇯🇵 [GameBiz / 13 jan. 2026] ガンホーが続伸　2月1日付での代表取締役人事の発表や業績連動型株式報酬制度の導入などに関心  → https://gamebiz.jp/news/418996
+» 🇺🇸 [Automaton Media / 13 jan. 2026] Japanese gacha giant GungHo gets new CEO following months of pressure from activist investors, lowers presidential salary. Japanese game company GungHo recently announced that CEO Kazuki Morishita will be stepping down from his role to focus on game development → https://cutt.ly/4tkxweI2
+
+» 🇺🇸 [Kotaku / 13 jan. 2026] Don’t let Todd Howard catch you in this Fallout 4 mod or you’ll die. It's a bird, it's a plane, it's a Wasteland snail disguised as Bethesda's legendary designer → https://kotaku.com/--2000659450
+
+» 🇺🇸 [Games Industry / 13 jan. 2026] Rockstar launches official marketplace for mods. Some mods are free, while bundles can cost several hundred dollars → https://cutt.ly/jtkxko7V
+
+» 🇫🇷 [EA / 13 jan. 2026] Saison 1 de Battlefield 6 et REDSEC : mise à jour de janvier → https://cutt.ly/Xtkz9XaN
+» 🇫🇷 [ActuGaming / 13 jan. 2026] Battlefield 6 : Après une première saison mitigée, la saison du jeu est repoussée de quelques jours → https://actugaming.net/--775520
 
 
 
 
-» 🇫🇷 [ActuGaming / 12 jan. 2026] 
+» 🇫🇷 [ActuGaming / 13 jan. 2026] 
 
-» 🇫🇷 [Gamekult / 12 jan. 2026] 
+» 🇫🇷 [Gamekult / 13 jan. 2026] 
 
-» 🇺🇸 [Kotaku / 12 jan. 2026] 
+» 🇺🇸 [Kotaku / 13 jan. 2026] 
 
-» 🇬🇧 [PC Gamer / 12 jan. 2026] 
+» 🇬🇧 [PC Gamer / 13 jan. 2026] 
 
-» 🇺🇸 [IGN / 7 jan. 2026] 
-» 🇫🇷 [IGN France / 7 jan. 2026] 
+» 🇺🇸 [IGN / 13 jan. 2026] 
+» 🇫🇷 [IGN France / 13 jan. 2026] 
 
-» 🇺🇸 [Automaton Media / 9 jan. 2026] 
+» 🇺🇸 [Automaton Media / 13 jan. 2026] 
 
 » 🇺🇸 [Time Extension / 30 déc. 2025] 
 
