@@ -17973,7 +17973,86 @@ raids : OrigaTwitch => (15:05)[+386] LamHua [Clemovitch=>(16:14)+5385] => (18:42
 
 
 
+--------------------------------------
+2026-01-14
 
+# Internet Exploreuses #21
+
+
+--------------------------------------
+2026-01-15
+
+# Mardinale #71
+## Actus
+### Succès pour le marathon AGDQ 2026
+» 🇺🇸 [Game Developer / 12 jan. 2026] Awesome Games Done Quick 2026 raises over $2.44 million for charity. The cash will be donated to the Prevent Cancer Foundation → https://cutt.ly/StkqIbee
+» 🇫🇷 [Gamekult / 12 jan. 2026] AGDQ 2026 : le marathon caritatif a levé 2,4 millions de dollars pour la lutte contre le cancer → https://cutt.ly/xtkqLmoh
+
+### Le studio Die Gutte Fabrik revient d'entre les morts
+» 🇺🇸 [LinkedIn / Nils Deneken / 12 jan. 2026] News from Die Gute Fabrik → https://cutt.ly/7tkqJ82F
+
+### Ecco the Dolphin
+» 🇺🇸 [Time Extension / 14 jan. 2026] "It has been years in the making" - Ecco's creator reconfirms a new game is in development. "He's a bridge between worlds" → https://cutt.ly/MtkFCla3
+
+### Warner Bros. Games a licencié avant les fêtes
+» 🇺🇸 [Game Developer / 9 jan. 2026] Warner Bros. Games eliminates roles at San Francisco studio. The California studio is responsible for mobile titles such as DC Worlds Collide → https://cutt.ly/AtjGRdI0
+» 🇺🇸 [Games Industry / 12 jan. 2026] Warner Bros Games San Francisco reportedly hit with layoffs. Former employees have said roles and teams were eliminated at the end of December → https://cutt.ly/HtkqDZ6q
+» 🇫🇷 [Gamekult / 12 jan. 2026] Warner Bros. Games a terminé l'année 2025 avec des licenciements chez WB San Francisco → https://cutt.ly/LtkqLBs5
+
+### Ubisoft ferme Ubisoft Halifax
+» 🇨🇦 [CTV News / 22 déc. 2025] Halifax workers form first Ubisoft union in North America → https://cutt.ly/btf3X4dW
+» 🇺🇸 [Game Developer / 23 déc. 2025] Ubisoft Halifax workers form a union. Employees at Ubisoft Halifax have formed the first North American union at Ubisoft → https://cutt.ly/otf3XSh3
+
+### Ubisoft licencie chez Ubisoft Abu Dhabi
+» 🇺🇸 [Game Developer / 13 jan. 2026] Ubisoft confirms layoffs at Abu Dhabi studio. The French publisher quietly made 29 people redundant in November 2025 → https://cutt.ly/PtkFGvJw
+» 🇫🇷 [Gamekult / 14 jan. 2026] Ubisoft continue sa course aux licenciements avec son studio d'Abu Dhabi → https://cutt.ly/1tkFFS4p
+
+» rappel RedLynx
+
+### Ubisoft licencie chez Ubisoft Massive et Ubisoft Stockholm
+» 🇺🇸 [Games Industry / 13 jan. 2026] Ubisoft laying off 55 roles at Massive and Ubisoft Stockholm as cost-cutting continues. Follows completion of voluntary redundancy process announced last year; work continues on The Division 3 → https://cutt.ly/PtkzCGVj
+» 🇺🇸 [IGN / 13 jan. 2026] Ubisoft Layoffs continue with 55 staff at The Division studio Massive and Ubisoft Stockholm now impacted. Pledges work on The Division franchise will continue → https://cutt.ly/htkzNTLi
+» 🇫🇷 [IGN France / 13 jan. 2026] Les licenciements continuent pour Ubisoft avec 55 nouveaux employés touchés chez Massive et Ubisoft Stockholm. Le travail sur The Division se poursuivra malgré tout → https://cutt.ly/VtkzNZPq
+» 🇺🇸 [Game Developer / 13 jan. 2026] Ubisoft proposes layoffs at Massive Entertainment and Ubisoft Stockholm. 55 people could be impacted by the cuts → https://cutt.ly/AtkxlcgJ
+» 🇺🇸 [Kotaku / 13 jan. 2026] Ubisoft follows up request for employees to lay themselves off by doing it itself. The Assassin's Creed publisher continues restructuring scheme to keep costs down → https://kotaku.com/--2000659368
+» 🇫🇷 [Gamekult / 13 jan. 2026] Ubisoft dégraisse en Suède : 55 emplois supprimés chez Massive et Stockholm → https://cutt.ly/Ytkxqpso
+» 🇫🇷 [ActuGaming / 13 jan. 2026] Ubisoft continue de licencier avec 55 postes supprimés chez Ubisoft Massive et Ubisoft Stockholm → https://actugaming.net/--775472
+
+» rappel précédents licenciements chez Ubisoft Stockholm début 2025
+
+### Meta massacre quatre studios de jeux VR
+» 𝕏 [X / andyTHPS / 13 jan. 2026] 🧵 https://xcancel.com/andyTHPS/status/2011091620314431519#m
+> I've just been laid off. It appears the entire @twisted_pixel games studio has been shut down. @SanzaruGames too
+» 🇺🇸 [Bloomberg / 13 jan. 2026] Meta begins job cuts as it shifts from metaverse to AI devices → https://cutt.ly/qtkxorhl
+» 🇺🇸 [Game Developer / 13 jan. 2026] Meta shutters three VR studios as part of Reality Labs layoffs. Meta is closing Twisted Pixel Games, Sanzaru Games, and Armature Studio while laying off a reported 10 percent of Reality Labs employees → https://cutt.ly/ktkxk6iV
+» 🇺🇸 [Kotaku / 13 jan. 2026] Deadpool studio and more closed as Meta chases AI instead of gaming. Twisted Pixel, Armature, and Sanzaru Games have been gutted according to laid off employees → https://kotaku.com/--2000659376
+» 🇫🇷 [Gamekult / 13 jan. 2026] Meta ferme trois studios majeurs de la réalité virtuelle : Sanzaru, Armature et Twisted Pixel → https://cutt.ly/5tkz3TLu
+» 🇫🇷 [ActuGaming / 14 jan. 2026] Meta ferme ses studios Armature Studio (Resident Evil 4 VR), Sanzaru Games (Sly 4) et Twisted Pixel (Deadpool VR) → https://actugaming.net/--775547
+» 🇺🇸 [Aftermath / 14 jan. 2025] Meta layoffs hit Batman: Arkham Shadow studio Camouflaj, game projects canceled. The studio remains open for now, but it's been gutted → https://cutt.ly/OtkXmGzW
+» 🇫🇷 [ActuGaming / 15 jan. 2026] Camouflaj, le studio derrière Batman Arkham Shadow, est touché par des licenciements et voit ses projets être annulés → https://actugaming.net/--775668
+
+### Médecins du Monde accusé, Speedons cherche le chemin
+» 🇫🇷 [Mediapart / 11 nov. 2025] Insultes, climat malsain et enquêtes internes : Médecins du monde visée par de multiples poursuites. L’ONG est attaquée par plusieurs ex-salariés et une ancienne présidente, qui dénoncent un système d’alerte interne dévoyé pour les exclure et du harcèlement moral. La fuite d’une boucle WhatsApp de dirigeants est particulièrement embarrassante pour l’ONG, qui reconnaît de « fortes tensions » à l’époque des faits, jusqu’en 2023 → https://cutt.ly/ztkXRSVH
+» 🇫🇷 [Médecins du Monde / 26 nov. 2025] Médecins du Monde répond aux interpellations médiatiques de novembre 2025 → https://cutt.ly/StkCszt8
+
+» 🦋 [BlueSky / Speedons / 12 jan. 2026] 🧵 https://bsky.app/profile/speedons.fr/post/3mc7pzzgahs2i
+> Communiqué officiel - article de Mediapart
+
+» Speedonnons mieux — Lettre ouverte à Médecins du Monde et à l’équipe de Speedons → https://speedonnonsmieux.github.io
+
+» 🦋 [BlueSky / Gyoo / 14 jan. 2026] 🧵 https://bsky.app/profile/gyoo.ooo/post/3mcf4ha2suk2p
+> Communiqué de l'équipe de review de Speedons suite à la lettre de @speedonnons-mieux et la réponse de Médecins du Monde
+
+### MachineGames bosse sur un nouveau Wolfenstein
+» 🇺🇸 [Windows Central / 7 jan. 2026] Xbox in 2026 — What to expect from Team Green this year, and beyond. It's an interesting, and potentially pivotal year for Xbox in 2026. After a somewhat unprecedented year of negative headlines, Xbox has an opportunity to turn it around this year → https://cutt.ly/6th6ZbgY
+» 🇺🇸 [Kotaku / 7 jan. 2026] Wolfenstein 3 is in the works from Indiana Jones and the New Colossus developers MachineGames. The team who's been behind the franchise since The New Order returns for the threequel → https://kotaku.com/--2000657758
+» 🇫🇷 [ActuGaming / 8 jan. 2026] MachineGames serait bien en train de travailler sur un nouveau Wolfenstein → https://actugaming.net/--775094
+
+raids : OrigaTwitch => (12:07)[+447] DollyWood_ => (12:43)[+129] Jarm0u (>16:30) => (<19:56) Vicky_spleen => (20:17)[+92] Givr_ [ArnaudRyku=>(20:20)+32] => (20:53)[+91] Neivee => (22:50)[+39] Nabiiiiiiish (>23:20)
+
+
+» ▶️ [YouTube] Le futur de la chaîne se joue maintenant → https://youtu.be/NpUgrcSIrl4
+» ▶️ [Patreon] Internet Exploreuses — Le métavers c'était mieux avant ? → https://patreon.com/posts/148204775
 
 
 » fil de discussion 💬
