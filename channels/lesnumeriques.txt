@@ -13832,6 +13832,20 @@ raids : LesNumeriques => (13:33)[+125] CabriDIY => (<14:32) TiTavion => (16:29)[
 raids : LesNumeriques => (13:36)[+175] PoppieLaLa => (16:21)[+90] Julgane (vendredi) => (02:33)[+250] DrFeelgood (>02:40) => Brybry => (<05:39) MaitreArmand (terminé à 08:00)
 
 
+--------------------------------------
+2026-01-16
+
+» 🇫🇷 [Les Numériques] EN DIRECT Soldes d'hiver 2026 : toutes les meilleures offres dénichées par la rédaction → https://lesnumeriques.com/vie-du-net/-e1411.html
+» 🇫🇷 [Les Numériques] Les voitures hybrides chinoises font un carton en Europe, mais ce n'est pas un hasard → https://lesnumeriques.com/-n249925.html
+» 🇫🇷 [Les Numériques] Galaxy S26 Ultra : ventes records en vue pour Samsung, merci les nouveautés à venir (photo, charge rapide, écran…) → https://lesnumeriques.com/telephone-portable/-n249895.html
+» 🇫🇷 [Les Numériques] iPhone 18 : ravalement de façade en vue chez Apple, la Dynamic Island pourrait y passer → https://lesnumeriques.com/telephone-portable/-n249791.html
+» 🇫🇷 [Les Numériques] iPhone 18 Pro, Pro Max et Fold : les fiches techniques se dévoilent, voici les nouveautés prévues par Apple → https://lesnumeriques.com/telephone-portable/-n249933.html
+» 🇫🇷 [Les Numériques] Wikipédia a 25 ans : retour sur une utopie devenue le pilier du web (et le carburant des IA) → https://lesnumeriques.com/societe-numerique/-n249762.html
+» 🇫🇷 [Les Numériques] OpenAI n'a plus que 18 mois avant la faillite, prédit un économiste → https://lesnumeriques.com/intelligence-artificielle/-n249920.html
+» 🇫🇷 [ANSES / 16 déc. 2025] Avis et rapport sur les usages des réseaux sociaux numériques et santé des adolescents → https://www.anses.fr/fr/content/AP2019-SA-0152-RA
+
+raids : LesNumeriques => (13:41)[+137] MonPetitPC (>17:00) => (<17:06) ProPCBelgium (terminé à 22:50)
+
 
 
 
