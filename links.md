@@ -10301,6 +10301,7 @@ https://microsoft.gcs-web.com/static-files/b0a66351-38cf-4147-a907-191d774531bb
 » 🇫🇷 [Gamekult / 19 jan. 2026] GTA 6 : explosion aux locaux de Rockstar North, ce que l'on sait. Aucune victime signalée pour l'instant → https://cutt.ly/ftl2nGcb
 
 » 🇫🇷 [ActuGaming / 19 jan. 2026] Far Cry 3: Classic Edition et Blood Dragon recoivent une mise à jour pour être plus fluides → https://actugaming.net/--776062
+» 🇺🇸 [Kotaku / 20 jan. 2026] Every old game deserves a 60FPS update. Ubisoft's ongoing efforts to update games from the past and make them run better is awesome and helpful → https://kotaku.com/--2000661290
 
 » 🇫🇷 [Gamekult / 19 jan. 2026] Assassin's Creed Hexe continue le recrutement avec un nouveau scénariste principal qui connaît bien la licence → https://cutt.ly/Utl2vo2R
 
@@ -10326,6 +10327,7 @@ https://microsoft.gcs-web.com/static-files/b0a66351-38cf-4147-a907-191d774531bb
 
 » 🇺🇸 [FRVR / 19 jan. 2026] MindsEye devs are still sponsoring streamers following mass layoffs and single-digit players on Steam → https://cutt.ly/etl2RMlv
 » 🇺🇸 [Kotaku / 19 jan. 2026] Twitch streamers are still being paid to play MindsEye over six months after it flopped. A big December update doesn't seemed to have changed its fortunes much → https://kotaku.com/--2000661013
+» 🇫🇷 [Gamekult / 20 jan. 2026] Le naufrage MindsEye : 20 joueurs sur Steam mais des millions pour les streamers, l'absurde stratégie continue → https://cutt.ly/PtzpqA1I
 
 » 🇬🇧 [PC Gamer / 19 jan. 2026] Disney delists 14 games from Steam without warning, most notably Armed and Dangerous and that one Hercules game you vaguely remember playing in 1997. And like that, it's gone → https://cutt.ly/btl2chQf
 
@@ -10343,6 +10345,10 @@ https://microsoft.gcs-web.com/static-files/b0a66351-38cf-4147-a907-191d774531bb
 » 🇺🇸 [Rock paper Shotgun / 15 jan. 2026] The Elder Scrolls Online's smaller expansions are "not in any way" a result of last year's layoffs. The move to Seasons was always the plan → https://cutt.ly/jtl2Wzcr
 » 🇺🇸 [Games Industry / 19 jan. 2026] Elder Scrolls Online's pivot to smaller Seasons "is not in any way a response to" Microsoft's layoffs. "We kicked off the Season work at least 12 to 14 months ago," insists exec producer → https://cutt.ly/Qtl2Q99q
 
+» 🇯🇵 [Famitsu / 19 jan. 2026] Nintendo Switch 2が約半年で378万台を販売し2025年の国内ゲーム市場急拡大を牽引。『マリオカート ワールド』が年間ソフトランキング首位に → https://cutt.ly/AtzpqjUU
+» 🇬🇧 [VGC / 19 jan. 2026] Nintendo’s Japan dominance continues as Switch 2 fuels 40% market growth in 2025. For the 21st consecutive year, the majority of Japan’s best-selling games were on Nintendo → https://cutt.ly/ftzo6svC
+» 🇫🇷 [Gamekult / 20 jan. 2026] Au Japon, Nintendo domine toujours autant, voire même plus qu'avant → https://cutt.ly/mtzo6SlZ
+
 » 🇯🇵 [Fantia / 15 jan. 2026] AIの部分的な利用と禁止事項に関するお知らせ → https://spotlight.fantia.jp/news/ai-usage
 » 🇯🇵 [オタク総研 (Otaku Soken) / 18 jan. 2026] クリエイター支援のFantia、生成AI規制を一部解禁　作品に使用不可も「説明にはOK」対応が話題 → https://0115765.com/archives/167489
 » 🇺🇸 [Automaton Media / 19 jan. 2026] Japanese content platform Fantia to partially lift ban on AI use “in light of recent technological advancements”. Japanese creator platform Fantia announces a partial lift on their AI content ban, citing "recent technological advancements" as the reason → https://cutt.ly/utl2TL4Q
@@ -10354,26 +10360,91 @@ https://microsoft.gcs-web.com/static-files/b0a66351-38cf-4147-a907-191d774531bb
 » 🇺🇸 [Automaton Media / 19 jan. 2026] Like a Dragon executive producer says he treats each new entry like it could be the last. “I still haven’t thought about what happens to Ichiban”. RGG Studio director and Like a Dragon series executive producer Masayoshi Yokoyama talks about his "habit" of treating each new entry like it could be the last one → https://cutt.ly/etl2Y7Z5
 
 » 🇺🇸 [Automaton Media / 19 jan. 2026] There’s an increasing number of game OSTs where the music doesn’t match the gameplay, says The Hundred Line and Danganronpa composer Masafumi Takada. Veteran game composer Masafumi Takada talks about why recent game soundtrack sound good but feel "out of sync." → https://cutt.ly/Wtl2PSEv
+» 🇫🇷 [Gamekult / 20 jan. 2026] Selon le compositeur de The Hundred Line, la musique de jeu d'aujourd'hui manque de cohérence → https://cutt.ly/stl4yen7
 
 » ▶️ [YouTube / The Retro Hour / 19 jan. 2026] Fatboy Slim is still using an Atari ST in 2026 (and it’s in the charts) → https://youtu.be/1-UOBjJjGuM (58 min)
 » 🇺🇸 [The Retro Hour / 19 jan. 2026] Fatboy Slim and the Atari ST: How a 1980s Computer Made Chart History – The Retro Hour Podcast EP514 → https://cutt.ly/htl2JFRp
 » 🇺🇸 [Time Extension / 19 jan. 2026] "I needed money" - Fatboy Slim opens up on The Smurfs video game soundtrack that never was. "I deliberately did a bad job because I didn't want to be on a video game" → https://cutt.ly/htl2JvFC
 
+» 🇺🇸 [Delisted Games / 19 jan. 2026] PixelFade Studio shutting down, five Visual Novels leaving Steam in February → https://cutt.ly/ptl4eYkU
+
+
+» 🇫🇷 [ActuGaming / 20 jan. 2026] Yakuza Kiwami 3 & Dark Ties : Avec la sortie du remake, la disponibilité de Yakuza 3 Remastered va être impactée → https://actugaming.net/--776120
+
+» 🇺🇸 [ReaderGrev / 20 jan. 2026] Exit interview: Joseph Cross. Marathon's former franchise art director talks leaving Bungie and devising a visual style that might have felt "a little bit nerve-racking to fund → https://cutt.ly/rtzo9T3A
+» 🇺🇸 [Kotaku / 20 jan. 2026] Ex-Marathon art director talks about the game’s evolution and leaving Bungie. Joseph Cross said the extraction shooter had a big design shift midway through → https://kotaku.com/--2000661234
+» 🇺🇸 [Kotaku / 20 jan. 2026] Ex-Bungie dev on Marathon‘s summer of hate: ‘you can’t take the thing I care about the most away’. The extraction shooter was put through the pre-release wringer last year → https://kotaku.com/--2000661252
+
+» 🇺🇸 [Time Extension / 19 jan. 2026] Huge eyes? big head? Lara Croft almost looked very different for her Japanese debut. "Toby Gard really didn't want to alter Lara" → https://cutt.ly/qtl4puVx
+» 🇺🇸 [Automaton Media / 20 jan. 2026] Tomb Raider’s original creators refused Japanese publisher’s request to give Lara Croft an “anime” redesign. The Japanese publisher for he original Tomb Raider felt that Lara Croft's design wouldn't land well with local audiences → https://cutt.ly/Etl4iI0v
+
+» 🇺🇸 [Seattle Times / 15 jan. 2026] Bothell man accused of hiding spy cameras in bathrooms, workplace → https://cutt.ly/ytzo27sP
+» 🇺🇸 [Kotaku / 20 jan. 2026] Guy who worked at The Pokémon Company arrested for spying on bathrooms. The man allegedly was ‘curious about transgender people,’ and set up cameras in a local Starbucks and his workplace → https://kotaku.com/--2000661238
+
+» 🇫🇷 [ActuGaming / 20 jan. 2026] Arknights Endfield : À quelle heure le gacha sera-t-il disponible en France ? → https://actugaming.net/--776176
+
+» ▶️ [YouTube / Decoder / 19 jan. 2026] Razer CEO on AI in game dev, Grok, and anime waifus → https://youtu.be/dJ-dIoTy6mo (1 h)
+» 🇺🇸 [The Verge / 19 jan. 2026] Gamers love AI in game dev — they just don’t know it yet, says Razer’s CEO. Razer’s Min-Liang Tan on gaming’s AI backlash, partnering with Grok, and creating anime waifus → https://cutt.ly/Qtzo3SNv
+» 🇺🇸 [Kotaku / 20 jan. 2026] Razer CEO can’t get out of his own way in car crash interview on AI. The Grok-powered Ava waifu AI is about the most sensible part of the conversation → https://kotaku.com/--2000661233
+
+» 🇺🇸 [MP1ST / 19 jan. 2026] Fable Reboot new pieces of concept art showcase locations → https://cutt.ly/otzixUPZ
+» 🇫🇷 [ActuGaming / 20 jan. 2026] Fable : De nouveaux concept-arts refont surface juste avant la présentation du jeu lors du Xbox Developer Direct → https://actugaming.net/--776180
+
+» 🇺🇸 [Kotaku / 20 jan. 2026] One of Fallout 3 and New Vegas’ most ambitious mods won’t get ported to the rumored remasters. Tale of Two Wastelands will stay locked in the past → https://kotaku.com/--2000661284
+
+» 🇫🇷 [ActuGaming / 20 jan. 2026] L’annonce de Divinity a énormément boosté les ventes de Divinity: Original Sin 2 et Baldur’s Gate 3 → https://actugaming.net/--776214
+
+» 🇺🇸 [Kotaku / 20 jan. 2026] Life Is Strange: Reunion leaks early, coming sooner than we thought. Chloe is returning as a playable character alongside Max in the 'definitive close' to their story → https://kotaku.com/--2000661323
+
+» 🇫🇷 [ActuGaming / 20 jan. 2026] Astral Ascent et Ravenswatch collaborent avec une mise à jour gratuite pour le roguelite de Hibernian Workshop → https://actugaming.net/--776240
+
+» 🇫🇷 [ActuGaming / 20 jan. 2026] Le deuxième DLC de Digimon Story: Time Stranger sera disponible dès cette semaine → https://actugaming.net/--776262
+
+» ▶️ [YouTube / Destin Legarie / 15 jan. 2026] How Anthem died and almost took BioWare with it → https://youtu.be/7Y65eoBVF0Y (40 min)
+» 🇺🇸 [Kotaku / 20 jan. 2026] Ex-BioWare dev disputes the idea that it shouldn’t have made Anthem. Mark Darrah says the ill-fated looter shooter wasn’t all EA’s fault → https://kotaku.com/--2000661337
+
+» 🇬🇧 [VGC / 20 jan. 2026] Doug Bowser joins Hasbro’s board, fresh from retiring as Nintendo of America boss. Hasbro welcomes the former Nintendo of America president to its board → https://cutt.ly/Ktzo50UR
+
+» 🇺🇸 [Insider Gaming / 18 jan. 2026] Footage of ZeniMax’s cancelled project Blackbird surfaces online. Two minutes of in-engine footage of ZeniMax Online Studio’s cancelled Project Blackbird has leaked online → https://cutt.ly/CtzivJSx
+» 🇫🇷 [ActuGaming / 20 jan. 2026] Blackbird : Une vidéo du MMO annulé chez ZeniMax nous montre l’univers du projet → https://actugaming.net/--776276
+
+» 🇺🇸 [Kotaku / 20 jan. 2026] New Witcher 3 online mod lets you hang together with friends. You and a few friends can slay monsters together or just chill in a tavern for a few hours → https://kotaku.com/--2000661320
+
+» 🇫🇷 [ActuGaming / 20 jan. 2026] Life is Strange: Reunion est annoncé, premières images et date de sortie pour ce nouvel épisode → https://actugaming.net/--776322
+
+» 🇺🇸 [Game Developer / 20 jan. 2026] Should triple-A sequels have smaller budgets than their predecessors? 'We actually made things more efficient with the sequel, which was a bigger success commercially and on Metacritic.' → https://cutt.ly/ctzpwlIz
+
+» 🇺🇸 [Games Industry / 20 jan. 2026] The death and reincarnation of game discoverability. Guy Ulmer, business development lead at Plarium, outlines how to manage game discoverability in the age of infinite content → https://cutt.ly/Gtzpe1JY
+
+» 🇺🇸 [Kotaku / 20 jan. 2026] Someone already brought Anthem back to life and has it running on a private server. BioWare’s loot shooter was shut down earlier this month → https://kotaku.com/--2000661358
+
+» 🇺🇸 [Niko partners / 20 jan. 2026] 10 major trends to watch in 2026 – Niko Partners predictions → https://cutt.ly/jtzo7MSg
+» 🇬🇧 [VGC / 20 jan. 2026] Nintendo Switch 2 faces a price increase in 2026, research firm predicts. Tariffs, increased memory costs and other economic conditions will force Nintendo’s hand, it forecasts → https://cutt.ly/wtzo7OUz
+» 🇺🇸 [Kotaku / 20 jan. 2026] Nintendo might have to raise the price of the Switch 2 at the worst time. A holiday slump won't be helped by AI-fueled RAM shortages → https://kotaku.com/--2000661382
+
+» 🇫🇷 [Gamekult / 20 jan. 2026] The Mortuary Assistant : une bande-annonce flippante pour l'adaptation live du phénomène horrifique → https://cutt.ly/Ytzpq3cJ
+
+» 🇺🇸 [GamesBeat / 20 jan. 2026] Male Fortnite creators are enlisting young women to market their maps — and co-opt their identities → https://cutt.ly/Jtzo5bLW
+» 🇺🇸 [Kotaku / 20 jan. 2026] Fortnite creators are using women to chase clout and make money. Creators like Team Hive and others are blurring the line between developer and spokesperson → https://kotaku.com/--2000661353
+
+» 🇺🇸 [Kotaku / 20 jan. 2026] Steam’s new anime Animal Crossing cozy sim gets bullied into disclosing gen AI. Heartopia's rise on Steam has hit a speed bump → https://kotaku.com/--2000661394
 
 
 
-» 🇫🇷 [ActuGaming / 19 jan. 2026] 
 
-» 🇫🇷 [Gamekult / 19 jan. 2026] 
 
-» 🇺🇸 [Kotaku / 19 jan. 2026] 
+» 🇫🇷 [ActuGaming / 20 jan. 2026] 
+
+» 🇫🇷 [Gamekult / 20 jan. 2026] 
+
+» 🇺🇸 [Kotaku / 20 jan. 2026] 
 
 » 🇬🇧 [PC Gamer / 19 jan. 2026] 
 
 » 🇺🇸 [IGN / 15 jan. 2026] 
 » 🇫🇷 [IGN France / 15 jan. 2026] 
 
-» 🇺🇸 [Automaton Media / 19 jan. 2026] 
+» 🇺🇸 [Automaton Media / 20 jan. 2026] 
 
 » 🇺🇸 [Time Extension / 19 jan. 2026] 
 
