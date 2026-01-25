@@ -18257,7 +18257,12 @@ raids => OrigaTwitch => (15:06)[+121] LamHua => (17:41)[+178] Hqrdest => (21:59)
 
 
 
+--------------------------------------
+2026-01-23
 
+# L'Hebdo #90
+## Actus
+### Origami
 » ✉️ [Origami] Gardez le pli grâce à notre nouvelle infolettre ! → https://www.origami.ng/infolettre/
 » ▶️ [YouTube] Le futur de la chaîne se joue maintenant → https://youtu.be/NpUgrcSIrl4
 » 🎧 [Patreon] Conf' 2 Redac' — Manger des kébabs en pensant au futur → https://patreon.com/posts/148599177
@@ -18265,6 +18270,154 @@ raids => OrigaTwitch => (15:06)[+121] LamHua => (17:41)[+178] Hqrdest => (21:59)
 » ▶️ [YouTube] Internet Exploreuses — Le métavers c'était mieux avant ? → https://youtu.be/JDSSdpuLzJE
 » ▶️ [YouTube] La Mercredinale — Marathon daté ; Ubisoft attaqué en justice ; enquête sur la fermeture de Leikir (Metal Slug Tactics) → https://youtu.be/p1F65brsjpQ
 » ▶️ [Patreon] Headshot — Elle donne vie à Holmes et Watson, Elsa Macé, animatrice 3D sur Crushed in Time → https://patreon.com/posts/148761834
+
+### La semaine
+» l'effondrement d'Ubisoft, voir plus bas
+
+» 🇯🇵 [Kyoto Shimbun / 9 jan. 2026] 任天堂社長に聞く「スイッチ2」の普及戦略　供給体制は「結果が徐々に出てくる」 → https://cutt.ly/ltkqH10R
+» 🇬🇧 [VGC / 12 jan. 2026] Nintendo is monitoring high RAM prices and tariff impacts very closely, president Shuntaro Furukawa says. He doesn’t comment on potential price increases, calling it “hypothetical” → https://cutt.ly/EtkqJwEA
+» 🇺🇸 [Kotaku / 12 jan. 2026] Nintendo asked about spiraling RAM costs as fans worry about a Switch 2 price increase. Nintendo isn't ready to comment on hypotheticals → https://kotaku.com/--2000658946
+» 🇫🇷 [Gamekult / 13 jan. 2026] Entre la RAM hors de prix et les tensions commerciales, Nintendo avance prudemment avec la Switch 2 → https://cutt.ly/Utkz8HWu
+» 🇫🇷 [ActuGaming / 13 jan. 2026] Nintendo ne peut pas encore dire si la Switch 2 va voir son prix augmenter à cause d’un marché très tendu → https://actugaming.net/--775457
+» 🇫🇷 [Gamekult / 17 jan. 2026] Si jamais vous en doutiez, Nintendo compte beaucoup sur le cinéma à l'avenir → https://cutt.ly/UtlFaakp
+
+» Marathon a une date de sortie, cf. Mardinale
+
+» 🇺🇸 [Thunder Lotus / 14 jan. 2026] 33 Immortals is coming to Steam in Summer 2026 → https://cutt.ly/btzvNlnc
+
+» 🇫🇷 [Gamekult / 16 jan. 2026] No Rest for the Wicked : l'action-RPG de Moon Studios franchit le million d'exemplaires vendus, et la coopération arrive dans quelques jours → https://cutt.ly/AtlD6OGp
+
+» 🇫🇷 [Gamekult / 19 jan. 2026] Ace Combat 7 a envoyé 6 millions de joueurs au septième ciel → https://cutt.ly/etxaeYJV
+
+### Leikir
+» cf. la Mardinale
+
+### Ubisoft
+» 🇺🇸 [Ubisoft / 21 jan. 2026] Major organizational, operational and portfolio reset to reclaim creative leadership and restore sustainable growth → https://cutt.ly/XtzvZhgg (PDF)
+
+» 🦋 [BlueSky / Jason Schreier / 21 jan. 2026] 🧵 https://bsky.app/profile/jasonschreier.bsky.social/post/3mcx4n6jqds2c
+> BREAKING: Ubisoft is canceling the Prince of Persia: Sands of Time remake and 5 other games (4 unannounced, 1 mobile). The company says it is also delaying 7 games (including an unannounced project believed to be a Black Flag remake) as part of a larger restructuring.
+> For the last few weeks, rumors have been circulating that Prince of Persia: Sands of Time was completed and would be released on January 16. In reality, Ubisoft was not happy with the state of the game and decided to cancel it as part of a massive reorganization
+
+» 🇺🇸 [Games Industry / 21 jan. 2026] Ubisoft reveals new Creative House structure, cancels six games and announces "final" round of cost-cutting and studio closures to drive €200m savings. All staff to return to full-time in-office work; changes will cause additional billion-euro loss in fiscal 2026 but "lay foundations for a return to midterm growth" → https://cutt.ly/ftzvCtiY
+» 🇺🇸 [Game Developer / 21 jan. 2026] Ubisoft initiates colossal restructure to become a more 'gamer-centric' company. The publisher is restructuring around five 'creative houses' by implementing cost-cutting, project cancellations, and a more robust return-to-office mandate → https://cutt.ly/5tzvXHcQ
+» 🇺🇸 [Kotaku / 21 jan. 2026] Ubisoft cancels long-delayed Prince Of Persia Remake. The company also announced that it is canceling and delaying multiple other games → https://kotaku.com/--2000661866
+» 🇺🇸 [Kotaku / 21 jan. 2026] Ubisoft rips the band-aid off with more delays, cuts, and cancellations. The Assassin's Creed maker is implementing big game delays and even more layoffs → https://kotaku.com/--2000661869
+» 🇫🇷 [ActuGaming / 21 jan. 2026] Ubisoft annonce une refonte majeure de son organisation, annule plusieurs jeux (dont le remake de Prince of Persia) et prépare une dernière vague de fermetures de studios → https://actugaming.net/--776469
+» 🇫🇷 [Gamekult / 21 jan. 2026] Ubisoft va se scinder en cinq sociétés distinctes, mais les licenciements vont continuer. Le grand saut (de la foi) dans l'inconnu → https://cutt.ly/5tzvZmA0
+
+» 🇫🇷 [Gamekult / 21 jan. 2026] Le remake Assassin's Creed Black Flag Resynced serait repoussé en interne → https://cutt.ly/2tzvLclp
+
+» 🇫🇷 [Gamekult / 21 jan. 2026] Ubisoft annule encore le remake de Prince of Persia : Les Sables du Temps → https://cutt.ly/ftzvZPzW
+» 🇬🇧 [PC Gamer / 21 jan. 2026] Prince of Persia: The Sand of Time Remake is cancelled as Ubisoft announces major internal restructuring and more layoffs and studio closures on the way. The Sands of Time Remake is one of six projects that have been cancelled in the overhaul, along with seven more that are delayed → https://cutt.ly/ZtzQ3s8x
+» 🇫🇷 [ActuGaming / 22 jan. 2026] Prince of Persia : Les Sables du Temps Remake : Ubisoft explique les raisons de l’annulation dans un communiqué → https://actugaming.net/--776577
+
+» 🇺🇸 [Kotaku / 22 jan. 2026] Beyond Good & Evil 2 ‘remains a priority for us,’ Ubisoft says. The long-awaited sequel has survived the recent cancellation of multiple Ubisoft games → https://kotaku.com/--2000662321
+
+» 🇫🇷 [ActuGaming / 22 jan. 2026] Chez Ubisoft, la licence Watch Dogs semble bien être de l’histoire ancienne → https://actugaming.net/--776580
+
+» fermeture de Ubisoft Halifax et Ubisoft Stockholm, licenciements chez Ubisoft Abu Dhabi, cf. la Mardinale
+
+» 🇺🇸 [Games Industry / 21 jan. 2026] "We want them to be the best in the world, in every segment we're in" - Ubisoft's vision for its new Creative Houses. The company's CFO and SVP of Studio Operations talk cost control, boosting staff retention and the importance of in-office working → https://cutt.ly/dtzvCbxK
+» 🇺🇸 [Games Industry / 21 jan. 2026] Ubisoft asking all staff to return to office full-time to "boost the collective performance for AAA". New approach announced alongside restructure, will be "done properly in dialogue with all stakeholders" → https://cutt.ly/8tzvHw1l
+» 🇬🇧 [PC Gamer / 21 jan. 2026] Don't call it a layoff: Ubisoft issues a full return-to-office order for all employees as it confirms more studio closures are coming. I can't help wondering if maybe there's a connection → https://cutt.ly/wtzQ8zfd
+
+» 🇬🇧 [PC Gamer / 21 jan. 2026] As Ubisoft struggles to get games out the door, it's investing even more into generative AI. Amid layoffs and cancellations, the publisher plans to up the ante on AI → https://cutt.ly/WtzQ31N0
+
+» 🦋 [BlueSky / Solidaires Informatique / 21 jan. 2026] 🧵 https://bsky.app/profile/solinfonat.bsky.social/post/3mcxfss5jms2z
+> UBISOFT - Appel à la grève
+> Jeudi 22 Janvier - Matin
+> Suites aux annonces catastrophiques venant de M. Yves Guillemot (plan de réductions des coûts, projets tués, arrêt du télétravail, etc.), la section Solidaires Informatique appelle à un débrayage ce Jeudi 22 Janvier matin.
+
+» 🇬🇧 [PC Gamer / 21 jan. 2026] Ubisoft's cancellations-and-closures announcement sparks major union backlash against CEO Yves Guillemot, and the inevitable call for a strike: 'Perhaps he needs to be reminded that it is his employees who make the games'. Raise your hand if you saw this coming → https://cutt.ly/LtzQ3W6c
+» 🇫🇷 [Gamekult / 22 jan. 2026] Ubisoft : Solidaires Informatique appelle à la grève suite au dernier naufrage → https://cutt.ly/atzYmnva
+
+» ▶️ [YouTube / Origami / 17 oct. 2024] **Ubisoft, à la rencontre des salariés en lutte** → <https://youtu.be/uySrE_6zNeI>
+
+» 🇺🇸 [Kotaku / 22 jan. 2026] Ubisoft shares tumble to awful lows following yesterday’s cancellation announcements. The latest attempt to restructure studios on the Titanic doesn't look to have won over shareholders → https://kotaku.com/--2000662169
+» 🇫🇷 [ActuGaming / 22 jan. 2026] L’action d’Ubisoft dégringole en Bourse suite aux annonces concernant sa restructuration et ses projets annulés → https://actugaming.net/--776576
+
+
+### Xbox Developer_Direct 2026
+» ▶️ [YouTube / Xbox / 22 jan. 2026] Developer_Direct 2026 → https://youtu.be/hXn6bvU1Kh4 (52 min)
+- 🇫🇷 [ActuGaming / 22 jan. 2026] Forza Horizon 6 : Date de sortie, gameplay… Tout ce qu’il faut savoir → https://actugaming.net/--776685
+- 🇫🇷 [ActuGaming / 22 jan. 2026] Fable sortira à l’automne 2026 sur PC, Xbox Series et PS5, tout savoir sur le RPG → https://actugaming.net/--776700
+- 🇫🇷 [ActuGaming / 22 jan. 2026] Beast of Reincarnation : Gameplay, histoire, horizon de sortie, voici les dernières infos sur le prochain jeu de Game Freak → https://actugaming.net/--776679
+- 🇫🇷 [ActuGaming / 22 jan. 2026] Double Fine (Psychonauts, Keeper) dévoile Kiln, son prochain jeu qui vous fait incarner… un vase → https://actugaming.net/--776753
+
+» 🇺🇸 [IGN / 22 jan. 2026] Beast of Reincarnation game director answers all our burning questions about the Pokemon developer's upcoming action game. Including whether or not we can pet the dog → https://cutt.ly/htzP91Ib
+» 🇺🇸 [Kotaku / 22 jan. 2026] Game Freak addresses your valid concern about how its non-Pokémon RPG will run. Beast in Reincarnation looks pretty ambitious, especially given Game Freak’s track record → https://kotaku.com/--2000662327
+» 🇺🇸 [Kotaku / 22 jan. 2026] It took an Xbox Showcase to get a rare look inside the makers of Pokémon. Game Freak appeared on Xbox’s stream to talk about Beast of Reincarnation → https://kotaku.com/--2000662351
+» 🇫🇷 [ActuGaming / 23 jan. 2026] Chez Game Freak, seule une petite équipe travaille sur Beast of Reincarnation → https://actugaming.net/--776868
+
+### Sorties
+» 🇫🇷 [Gamekult / 22 jan. 2026] Carmageddon: Rogue Shift montre du gameplay, une date de sortie et beaucoup de gore → https://cutt.ly/HtzPHzoW
+
+» 🇫🇷 [ActuGaming / 22 jan. 2026] GreedFall 2: The Dying World atteint la fin de son early access en annonçant sa sortie définitive pour le 12 mars → https://actugaming.net/--776623
+
+» 🇫🇷 [Gamekult / 23 jan. 2026] Bubsy 4D : la "suite" d'un des plus mauvais jeux de l'histoire trouve sa date de sortie → https://cutt.ly/KtzFJsdX
+» 🇫🇷 [ActuGaming / 23 jan. 2026] Bubsy 4D viendra s’agiter le 22 mai sur PC et consoles, avec une édition physique réservée aux Switch → https://actugaming.net/--776790
+
+## Jeux
+
+### Confidential Killings - Un jeu d'enquête
+» Confidential Killings - Un jeu d'enquête, sorti le 12 jan. 2026 à 14,80 € sur Windows, Mac et Steam Deck, aussi annoncé sur iOS et Android ; édité par Surefire.Games, développé par BRANE et Lorenzo Boni → https://s.team/a/2797960 | https://imbrane.com/confidential-killings/
+
+- sorti le 12 jan. 2026 sur Windows, Mac et Steam Deck, aussi annoncé sur iOS et Android
+- édité par Surefire.Games, développé par BRANE et Lorenzo Boni → <https://imbrane.com/confidential-killings/>
+
+💻️ démo sur itch (<https://cutt.ly/otzHx1yi>)
+💻️ 14,80 € sur Steam (<https://s.team/a/2797960>)
+
+### MIO: Memories in Orbit
+» MIO: Memories in Orbit, sorti le 20 jan. 2026 à 20 € sur Switch 1 & 2, PlayStation 5, Xbox Series (Game Pass) et PC / Steam Deck ; édité par Focus, développé par Douze Dixièmes, studio français 🇫🇷 derrière Shady Part of Me (2020) → https://s.team/a/1672810
+
+- sorti le 20 jan. 2026 sur Switch 1 & 2, PlayStation 5, Xbox Series (Game Pass) et PC / Steam Deck
+- édité par Focus, développé par Douze Dixièmes, studio français 🇫🇷 derrière Shady Part of Me (2020)
+- réalisé par Oscar Blumberg, écriture par Tom Ariaudo, musiques par Nicolas Guegen
+
+🎮 20 € sur Switch (<https://cutt.ly/rtzAboOr>) et PlayStation (<https://cutt.ly/MtzAbkml>)
+🎮 20 € ou inclus dans le Game Pass sur Xbox (<https://cutt.ly/itzAbbXv>)
+💻️ 20 € sur Steam (<https://s.team/a/1672810>)
+🎶 musiques à 8 € sur Bandcamp (<https://cutt.ly/ptxa5aQA)>)
+
+### Big Hops 🐸
+» Big Hops 🐸 le 12 jan. 2026 à 20 € sur Switch, PlayStation 5, PC / Steam Deck ; développé par Luckshot Games → https://luckshotgames.com | https://s.team/a/1221480
+
+- sorti le 12 jan. 2026 sur Switch, PlayStation 5, PC / Steam Deck
+- développé par Luckshot Games, studio de Chris Wade, derrière Sausage Sports Club (2019), aussi en support sur Battle Chef Brigade (2017), Manifold Garden (2019), Vacation Simulator (2019) → https://luckshotgames.com
+
+🎮 19,50 € sur Switch (<https://cutt.ly/GtzAcPqR>)
+🎮 20 € sur PlayStation 5 (<https://cutt.ly/ctzAcZKB>)
+💻️ 19,50 € sur Steam (<https://s.team/a/1221480>)
+
+## Reportage Stunfest
+» Beware of the Cartographer! annoncé sur PC / Steam Deck ; développé par Tohu Bohu Games → https://s.team/a/3905500 | https://tohubohu.games
+-> headshot
+
+» DeadCore Redux, sorti le 15 jan. 2026 à 15 € sur PC / Steam Deck ; développé par 5 Bits Games → https://s.team/a/3484260 | https://5bitsgames.com
+
+» Contenir, annoncé sur PC / Steam Deck ; développé par NaejDoree Studio → https://s.team/a/4037190 | https://contenir.studio.naejdoree.art
+
+» SteamDB — Steam Game Releases by Review Count → https://steamdb.info/stats/releases/
+» page Steam du Stunfest 2025 → https://store.steampowered.com/sale/stunfest-2025
+
+## Mais pas que
+### Héloïse
+» 🎦 Life of Chuck (2025), 111 min, film cinéma écrit et réalisé par Mike Flanagan, adapté de la nouvelle du même nom par Stephen King, musiques par The Newton Brothers, avec Tom Hiddleston, Chiwetel Ejiofor, Karen Gillan, Mia Sara, Carl Lumbly
+
+» 📺️ Carrie (2026), mini série TV prévue sur Prime Vidéo, créée par Mike Flanagan, avec Summer H. Howell, Siena Agudong, Samantha Sloyan, Joel Oulette, Alison Thornton, Arthur Conti
+
+### Florian
+» 📗 Les lurons de la forêt, par Anthony Martinez, publié chez L'école des loisirs
+- 📗 tome 1 - Une comédie en V actes, paru le 21 févr. 2024, 15 € en édition physique (ISBN 9782378882280) → https://www.ecoledesloisirs.fr/livre/lurons-foret-comedie-v-actes
+- 📕 tome 2 - En scène, Tigresse, paru le 14 mai 2025, 15 € en édition physique (ISBN 9782378883010) → https://www.ecoledesloisirs.fr/livre/lurons-foret-tome-2-scene-tigresse
+- 📘 tome 3 - La comédie de Noël, paru le 15 oct. 2025, 15 en édition physique (ISBN 9782378883157) → https://www.ecoledesloisirs.fr/livre/lurons-foret-tome-3-comedie-noel
+
+excuses de sac :
+- non parce que le i et le l sur un écran, c'est pareil (Padre, actus)
+
+raids OrigaTwitch => (15:04)[+466] CanardPC => (16:52)[+182] DollyWood_ (terminé à 19:00)
 
 
 
