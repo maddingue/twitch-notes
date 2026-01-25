@@ -13878,6 +13878,46 @@ raids entrants :
 raids : LesNumeriques => (13:40)[+120] LamHua => (17:41)[+178] Hqrdest => (21:59)[+248] JSavageW (terminé à 22:15)
 
 
+--------------------------------------
+2026-01-23
+
+» 🇫🇷 [Les Numériques] Intel lance ses Core Ultra Serie 3 pour reconquérir les PC portables → https://lesnumeriques.com/cpu-processeur/-n249046.html
+» 🇫🇷 [Les Numériques] Intel Core Ultra 3 : le processeur qui divise la consommation par deux et fait trembler AMD → https://lesnumeriques.com/cpu-processeur/-n249105.html
+» 🇫🇷 [Les Numériques] Jouer à Cyberpunk 2077 à plus de 140 FPS sans carte graphique ? Le pari fou d'Intel → https://lesnumeriques.com/cpu-processeur/-n249283.html
+» 🇫🇷 [Les Numériques] AMD renouvelle a minima ses processeurs pour PC portables et les destine à un nouveau segment → https://lesnumeriques.com/cpu-processeur/-n248976.html
+» 🇫🇷 [Les Numériques] AMD Ryzen 7 9850X3D : le nouveau roi du gaming est là et il va faire mal à Intel → https://lesnumeriques.com/cpu-processeur/-n248951.html
+» 🇫🇷 [Les Numériques] Plus besoin de moniteur externe? Le nouveau Legion de Lenovo passe de 16 à 24 pouces en un instant → https://lesnumeriques.com/ordinateur-portable/-n249124.html
+» 🇫🇷 [Les Numériques] Son écran flotte dans les airs : Lenovo dévoile le PC de bureau le plus spectaculaire du CES 2026 → https://lesnumeriques.com/ordinateur-tout-en-un/-n249531.html
+» 🇫🇷 [Les Numériques] Avec moins de 1 kg, ce nouveau PC Lenovo devient la star du CES 2026 : voici le Yoga Slim 7i Ultra → https://lesnumeriques.com/ordinateur-portable/-n249123.html
+» 🇫🇷 [Les Numériques] Test Lenovo ThinkBook Rollable ⭐⭐⭐ l’écran qui s’étire est bluffant, son prix tout autant → https://lesnumeriques.com/ordinateur-portable/lenovo-thinkbook-plus-gen-6-rollable-p77006/test.html
+» 🇫🇷 [Les Numériques] ThinkPad Rollable XD Concept : Ce PC portable de Lenovo a son écran replié sur son capot → https://lesnumeriques.com/ordinateur-portable/-n249126.html
+» 🇫🇷 [Les Numériques] Avec le ROG Zephyrus Duo, Asus veut réinventer le PC portable gamer à deux écrans → https://lesnumeriques.com/ordinateur-portable/-n249064.html
+» 🇫🇷 [Les Numériques] 1,2 kg pour un PC portable 16 pouces : Asus renouvelle ses ultraportables Zenbook en légèreté → https://lesnumeriques.com/ordinateur-portable/-n249033.html
+» 🇫🇷 [Les Numériques] Le PC portable fantôme du CES : pourquoi Asus a caché ce modèle pourtant présent chez Intel ? → https://lesnumeriques.com/ordinateur-portable/-n249541.html
+» 🇫🇷 [Les Numériques] L'IA dévore tout : Nvidia ne sortira aucune carte graphique en 2026, c'est officiel → https://lesnumeriques.com/carte-graphique/-n249049.html
+» 🇫🇷 [Les Numériques] Claque graphique : avec Nvidia DLSS 4.5, la 4K à 240 i/s devient enfin une réalité → https://lesnumeriques.com/carte-graphique/-n249024.html
+» 🇫🇷 [Les Numériques] J'ai testé le DLSS4.5 et G-Sync Pulsar chez Nvidia : le futur du gaming se joue désormais dans les détails → https://lesnumeriques.com/carte-graphique/--n249383.html
+» 🇫🇷 [Les Numériques] Nvidia G-Sync Pulsar : la technologie anti-flou de mouvement fait son retour avec des moniteurs compatibles → https://lesnumeriques.com/moniteur/-n249037.html
+» 🇫🇷 [Les Numériques] Oubliez l'explorateur de fichiers, Hyperlink AI retrouve n'importe quel fichier en un éclair et cale vos vidéos → https://lesnumeriques.com/carte-graphique/-n249384.html
+» 🇫🇷 [Les Numériques] Plus puissant et moins gourmand : Qualcomm lance les Snapdragon X2 Plus pour compléter sa gamme → https://lesnumeriques.com/cpu-processeur/-n248975.html
+» 🇫🇷 [Les Numériques] HP Omen devient HyperX : la marque consolide ses marques gaming avec de nouveaux PC portables → https://lesnumeriques.com/ordinateur-portable/-n249473.html
+» 🇫🇷 [Les Numériques] HP réinvente le PC de bureau : cet ordinateur complet tient entièrement dans un clavier → https://lesnumeriques.com/ordinateur-de-bureau/-n248977.html
+» 🇫🇷 [Les Numériques] Corsair dévoile un clavier mécanique avec Stream Deck à la place du pavé numérique → https://lesnumeriques.com/clavier/-n249087.html
+» 🇫🇷 [Les Numériques] Galaxy Book6 : Samsung dévoile ses PC portables pour contrer les MacBook Air et Pro → https://lesnumeriques.com/ordinateur-portable/-n249045.html
+» 🇫🇷 [Les Numériques] Test Medion Signium 14 S1 ⭐⭐⭐ le PC ultraportable très léger, mais trop riche en concessions → https://www.lesnumeriques.com/ordinateur-portable/medion-signium-14-s1-p77284/test.html
+» 🇫🇷 [Les Numériques] Test SSD Kingston Dual Portable ⭐⭐⭐ deux fois plus de ports USB, pas deux fois plus rapide → https://www.lesnumeriques.com/disque-dur-externe/kingston-dual-portable-solid-state-drive-p77374/test.html
+» 🇫🇷 [Les Numériques] Après la RAM, la nouvelle architecture de Nvidia menace votre futur SSD → https://lesnumeriques.com/ssd/-n249746.html
+» 🇫🇷 [Les Numériques] MacBook Pro M5 Pro/M5 Max : Apple aurait-il vendu la mèche sur ses prochains modèles ? → https://lesnumeriques.com/ordinateur-portable/-n249841.html
+» 🇫🇷 [Les Numériques] DLSS 4.5 : J, K, L ou M… Quel réglage choisir selon votre carte graphique ? → https://lesnumeriques.com/carte-graphique/-n249843.html
+» 🇫🇷 [Les Numériques] La GeForce RTX 5070 Ti de Nvidia serait en fin de vie, les stocks ne seront pas renouvelés → https://lesnumeriques.com/carte-graphique/-n249889.html
+» 🇫🇷 [Les Numériques] Nvidia pense à votre portefeuille et va prioriser les GeForce RTX 5060 au détriment du haut de gamme → https://lesnumeriques.com/carte-graphique/-n249756.html
+» 🇫🇷 [Les Numériques] Nvidia N1x : le processeur secret refait une apparition à bord d'un Dell XPS → https://lesnumeriques.com/cpu-processeur/-n249775.html
+» 🇫🇷 [Les Numériques] Marre des clés USB fragiles ? Raspberry Pi lance une clé USB increvable en aluminium → https://lesnumeriques.com/cle-usb/-n250283.html
+» 🇫🇷 [Les Numériques] Prix des PC : pourquoi vous devriez changer d'ordinateur dès maintenant (et pas dans 3 mois) → https://lesnumeriques.com/ordinateur-portable/-n249793.html
+
+raids : LesNumeriques => (13:45)[+110] MonPetitPC => (18:06)[+183] manuizine (>18:30) => Shell_ou => (00:02)[+8] zouuz_ (terminé à 01:10)
+
+
 
 » ▶️ [YouTube] 
 » 🐦 [Twitter] 
