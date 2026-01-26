@@ -10507,6 +10507,10 @@ https://microsoft.gcs-web.com/static-files/b0a66351-38cf-4147-a907-191d774531bb
 
 » 🇺🇸 [Games Industry / 22 jan. 2026] US video game spend up 3% in December, fuelled in part by 24% increase in subscription services. Roblox finished not just as December's leading publisher, but indeed as the biggest for the whole of 2025 → https://cutt.ly/ttzApvgJ
 
+» 🇩🇪 [Taz / 21 jan. 2026] „Bei sexuellen Inhalten herrscht ein Doppelstandard“. Bei „Sims 4“ ist Sex nicht sichtbar. Der Programmierer Turbodriver hat das geändert. Dank ihm können die Sims auch menstruieren – und abtreiben → https://cutt.ly/2txDF2y7
+» 🇬🇧 [PC Gamer / 22 jan. 2026] The Sims 4's most notorious sex mod gets launched 400,000 times a day, which is more people than I realized were even playing The Sims every day. One of The Sims 4's biggest mods is putting up numbers a triple-A game would be jealous of → https://cutt.ly/ptxDFxv7
+» 🇺🇸 [Kotaku / 23 jan. 2026] Frustration inside Ubisoft: ‘this is probably the most embarrassed I have felt working somewhere’. Some Ubisoft developers feel like they've been here before and they're tired of it → https://kotaku.com/--2000662684
+
 » 🇯🇵 [Denfaminicogamer / 22 jan. 2026] アーケード、コンシューマー、モバイルゲームで世界的大ヒットを生み出した岡本吉起氏。17億円の借金から大復活を遂げたゲーム業界の風雲児の過去、現在、そして未来を聞く【でらゲー設立15周年企画】 → https://cutt.ly/LtzP8aiW
 » 🇺🇸 [Automaton Media / 22 jan. 2026] “I had to beg my ex-wife.” Former Capcom producer Yoshiki Okamoto on overcoming $10.7 million debt and producing one of the highest-grossing mobile games of all time. Former Konami developer and Capcom executive Yoshiki Okamoto opens up about how he overcame the collapse of Game Republic and created Monster Strike → https://cutt.ly/AtzP3XHm
 
@@ -10550,6 +10554,8 @@ https://microsoft.gcs-web.com/static-files/b0a66351-38cf-4147-a907-191d774531bb
 
 » 🇫🇷 [Gamekult / 23 jan. 2026] Earth Must Die : le point'n'click décalé dans lequel vous ne pouvez rien toucher, et détruire la Terre → https://cutt.ly/QtxsdOqH
 
+» 🇺🇸 [Kotaku / 23 jan. 2026] 10-year-Old Sims 4 sex mod with full nudity is still shockingly popular. What a wicked game to play, to make me feel this way → https://kotaku.com/--2000662724
+
 » 🇫🇷 [ActuGaming / 23 jan. 2026] Arknights: Endfield compte déjà 30 millions de téléchargements, le studio promet des améliorations et offre un cadeau → https://actugaming.net/--776873
 
 » 🇺🇸 [IGN / 23 jan. 2026] 'We've been working on this game for a really, really long time' — the big Fable interview with Microsoft developer Playground. Fairytale finally becomes reality → https://cutt.ly/btxaTU5J
@@ -10573,24 +10579,118 @@ https://microsoft.gcs-web.com/static-files/b0a66351-38cf-4147-a907-191d774531bb
 
 » 🇫🇷 [Gamekult / 25 jan. 2026] Lorelei and The Laser Eyes : Simogo exhume un trailer prototype du jeu → https://cutt.ly/ztxsjGLg
 
+» 🇺🇸 [Kotaku / 25 jan. 2026] New Super Mario Galaxy movie trailer finally reveals Yoshi, Birdo, and more. No word on who's voicing the dinosaur yet, though → https://kotaku.com/--2000662854
+
+
+» 🇺🇸 [Variety / 23 jan. 2026] ‘Return to Silent Hill’ director on receiving death threats from ‘passionate’ game fans and filming an epic horror fantasy on a $23 million budget → https://cutt.ly/BtxDf8KM
+» 🇫🇷 [ActuGaming / 26 jan. 2026] Les premiers retours sur Return to Silent Hill sont loin d’être bons, mais son réalisateur veut adapter d’autres épisodes → https://actugaming.net/--777326
+
+» 🇫🇷 [ActuGaming / 26 jan. 2026] Un nouveau jeu Dragon Ball est annoncé sous le nom de code Project AGE 1000, sortie prévue en 2027 → https://actugaming.net/--777330
+
+» 🇫🇷 [ActuGaming / 26 jan. 2026] Dragon Ball Sparking Zero aura droit à un nouveau DLC cet été, une mise à jour gratuite arrive aujourd’hui → https://actugaming.net/--777338
+
+» 🇺🇸 [Gematsu / 26 jan. 2026] Hyrule Warriors: Age of Imprisonment shipments and digital sales top one million → https://cutt.ly/KtxS7fpR
+
+» 🇺🇸 [MobileGamer / 26 jan. 2026] Many international visitors are skipping GDC amid cost concerns and US safety fears → https://cutt.ly/3txS7JUx
+
+» 🇬🇧 [GamesRadar+ / 23 jan. 2026] "We're going to try and be more consistent with what we do": The head of Xbox Game Studios on the Developer Direct reveals, multiplatform strategy, and hard lessons learned from 2025. Craig Duncan sets the stage for Xbox's most important year of the generation → https://cutt.ly/StxDhAPy
+» 🇫🇷 [ActuGaming / 26 jan. 2026] Xbox promet d’être plus « cohérent » lorsqu’il s’agit des portages de ses jeux sur PS5 → https://actugaming.net/--777351
+
+» 🇬🇧 [Financial Times / 25 jan. 2026] Saudi Arabia to scale back Neom megaproject. Review expected to propose significant redesign after years of delays and overruns → https://cutt.ly/etxDwE3A
+» 🇺🇸 [Games Industry / 26 jan. 2026] Savvy signs MOU with Neom to help games startups move "from incubation to acceleration". Studios will now be given "training, resources and support" required to progress → https://cutt.ly/KtxDqsKP
+
+» 🇺🇸 [IGN / 26 jan. 2026] 'FTL in a Warhammer 40,000 skin' game pulled from Steam after what may be a nuisance DMCA takedown from a troll claiming to be Games Workshop → https://cutt.ly/LtxDAyX7
+» 🇫🇷 [IGN France / 26 jan. 2026] Le jeu "de type FTL dans un univers du style de Warhammer 40,000" retiré de Steam suite à un possible faux signalement abusif d'un troll se faisant passer pour Games Workshop → https://cutt.ly/4txDPWdm
+» 🇺🇸 [Kotaku / 26 jan. 2026] Warhammer 40K-inspired FTL mash-up removed from Steam after seemingly bogus DMCA takedown. A takedown issued by the captain of the Firefly-class Serenity no less → https://kotaku.com/--2000663076
+
+» 🇺🇸 [Games Industry / 26 jan. 2026] Stop Killing Games EU petition hits 1.3m verified signatures. The campaign group's organisers will be meeting with lawmakers in the EU → https://cutt.ly/otxS6HHd
+
+» 🇺🇸 [Polygon / 23 jan. 2026] Queen's Blood will be 'enhanced' and 'powered-up' in FF7 Remake Part 3. Director Naoki Hamaguchi says that Rebirth's hit card game will be 'powered-up' in Part 3 → https://cutt.ly/FtxDjsFO
+» 🇺🇸 [GameSpot / 23 jan. 2026] Final Fantasy 7 Remake Part 3's title has finally been decided. Final Fantasy 7 Remake trilogy game director Naoki Hamaguchi confirmed that the studio has finally settled on a subtitle for part three → https://cutt.ly/HtxDjUTb
+» 🇺🇸 [Kotaku / 26 jan. 2026] Final Fantasy 7 Rebirth director explains why he’s sticking with an old engine for the third game. An older version of Unreal Engine offers some interesting tradeoffs → https://kotaku.com/--2000663075
+» 🇫🇷 [ActuGaming / 26 jan. 2026] Final Fantasy VII Remake Part 3 : Unreal Engine 4, mini-jeux, titre… Le réalisateur donne des nouvelles sur l’avancée du jeu → https://actugaming.net/--777417
+
+» 🇺🇸 [The Game Business / 22 jan. 2026] Has Meta just killed virtual reality? VR experts Cassia Curran and Andrew Eiche on what the future might look like for VR → https://cutt.ly/BtxDZ8x7 (1 h 5 min)
+» 🇺🇸 [Games Industry / 26 jan. 2026] VR experts say that Meta's pullback is "concerning" in the short term. But they insist that the tech is "not dead", adding that it is "too cool to die" → https://cutt.ly/HtxDZlL3
+
+» 🇫🇷 [Le Monde / 22 jan. 2026] Ubisoft : comment le géant français du jeu vidéo est arrivé, après des années de crise, à un point de rupture. L’annonce d’une réorganisation, de développements annulés et de studios fermés vient conclure, en tout cas pour l’instant, une série de difficultés qui ont plongé l’entreprise dans la tourmente → https://cutt.ly/OtxDLT2R
+» 🇺🇸 [Games Industry / 26 jan. 2026] "Anger and despair reigning supreme" at Ubisoft following restructuring plan, says union. French games industry union Solidaires Informatique planning further action in response → https://cutt.ly/NtxDJKZq
+
+» 🇺🇸 [Games Industry / 26 jan. 2026] RuneScape maker Jagex says it will never use generative AI to make in-game content. But the studio says that it is "open" to using the technology for tasks such as "tooling efficiency" → https://cutt.ly/otxDJa2n
+
+» 🇺🇸 [Automaton Media / 26 jan. 2026] Former Ubisoft Osaka employee dismisses claims about shares plummeting “because of DEI”. Kensuke Shimoda, a former Ubisoft Osaka game designer, has recently addressed rumors about the company's plummeting shares being a result of "devotion to DEI." → https://cutt.ly/5txDOkWW
+» 🇺🇸 [Kotaku / 26 jan. 2026] Ex-Ubisoft designer pushes back against ‘online conspiracy theories’. The developer blamed "big business syndrome" for the publisher's struggles, not DEI → https://kotaku.com/--2000663096
+
+» 🇺🇸 [Games Industry / 26 jan. 2026] Ubisoft launches voluntary redundancy process to cut 200 jobs from Paris head office. Latest round of cuts hits Ubisoft HQ, which is set to oversee the new Creative Houses structure → https://cutt.ly/ItxS59sT
+» 🇫🇷 [ActuGaming / 26 jan. 2026] Ubisoft lance un grand plan de départ volontaire dans son studio parisien, avec jusqu’à 200 postes concernés → https://actugaming.net/--777502
+» 🇫🇷 [Gamekult / 26 jan. 2026] Ubisoft : un plan de 200 départs volontaires au siège parisien pour tenter de juguler la crise structurelle → https://cutt.ly/EtxDMvI1
+
+» 🇺🇸 [Intel / 22 jan. 2026] Intel reports fourth-quarter and full-year 2025 financial results → https://cutt.ly/btxDUBEq
+» 🇺🇸 [Kotaku / 26 jan. 2026] Intel Announces More Bad News For PC Gaming. It is only going to get harder and more expensive to build a gaming computer in the future → https://kotaku.com/--2000663095
+
+» 🇺🇸 [Games Industry / 26 jan. 2026] Why success was the worst thing to happen to Prison Architect maker Introversion Software. Over a decade on, the studio is about to release The Last Starship – but financial comfort didn't help things. "It's not necessarily brilliant for creativity, because you don't have any constraints" → https://cutt.ly/htxDHj1I
+
+» 🇫🇷 [ActuGaming / 26 jan. 2026] Nintendo dégaine un autre Nintendo Direct, mais uniquement centré sur le prochain Tomodachi Life → https://actugaming.net/--777425
+
+» 🇫🇷 [Gamekult / 26 jan. 2026] PlayStation dégage plus de 1000 shovelwares de son store → https://cutt.ly/DtxD2nsi
+
+» 🇺🇸 [Game World Observer / 26 jan. 2026] 39% of the new releases in the Microsoft Store in 2025 are low-quality games designed for quickly earning Gamerscore points → https://cutt.ly/HtxD6wLk
+
+» 🇺🇸 [Kotaku / 26 jan. 2026] I have a Resident Evil Requiem theory, and I hope I’m wrong. How will Grace and Leon’s story end? We don’t know, but I can speculate → https://kotaku.com/--2000663084
+
+» 🇫🇷 [ActuGaming / 26 jan. 2026] Le remaster de Dynasty Warriors 3 prend du retard, aucune nouvelle date n’est annoncée → https://actugaming.le--777431
+
+» 🇫🇷 [Gamekult / 26 jan. 2026] Electronic Arts : le Congrès américain s'oppose au rachat saoudien, invoquant la sécurité nationale et le droit du travail → https://cutt.ly/atxD08ur
+
+» ▶️ [YouTube / Doc Geraud / 26 jan. 2026] 500 000 $ après, où va notre roguelike ? → https://youtu.be/7vyQ57hEC7E (11 min)
+
+» 🇺🇸 [Kotaku / 26 jan. 2026] TR-49 is a stunningly good game that strikes at the heart of everything that’s wrong right now. The latest linguistic project from Heaven's Vault creators Inkle is one of their best yet → https://kotaku.com/--2000662798
+
+» 🇫🇷 [ActuGaming / 26 jan. 2026] Blizzard va organiser des showcases autour de World of Warcraft, Overwatch et Diablo dans les jours à venir → https://actugaming.net/--777486
+
+» 🇺🇸 [Kotaku / 26 jan. 2026] First hours of Highguard plagued by technical issues and PC performance problems. The free-to-play raid shooter lacks an FOV slider on PS5 and some players are struggling to run it on PC → https://kotaku.com/--2000663135
+
+» 🇫🇷 [ActuGaming / 26 jan. 2026] Démarrage correct pour Hyrule Warriors: Les Chroniques du Sceau, qui dépasse le million d’exemplaires vendus → https://actugaming.net/--777492
+
+» 🇫🇷 [Gamekult / 26 jan. 2026] Rayman : une édition spéciale 30 ans non annoncée fait son apparition → https://cutt.ly/EtxD0r8u
+
+» 🇬🇧 [Eurogamer / 26 jan. 2026] Fable studio Playground Games wanted to step out of Forza Horizon as far back as 2017 to "learn and grow as developers" → https://cutt.ly/MtxFeieO
+
+» 🇺🇸 [Kotaku / 26 jan. 2026] Hands-on with Highguard: the Apex devs’ wild new shooter deserves a chance. The veterans of Titanfall 2 take on a Rust-like "raid" shooter → https://kotaku.com/--2000663136
+» 🇺🇸 [Kotaku / 26 jan. 2026] Gambling on the shadow drop: Highguard behind closed doors. Ex-Apex devs started priming the media for Highguard's launch last week → https://kotaku.com/--2000663164
+» 🇫🇷 [ActuGaming / 26 jan. 2026] Highguard, le FPS free-to-play des créateurs de Titanfall et Apex Legends, est maintenant disponible → https://actugaming.net/--777506
+» 🇺🇸 [Kotaku / 26 jan. 2026] Highguard devs talk turning Rust into a hero shooter and that terrible Game Awards reveal. The original plan was to completely shadow drop the game just like Apex Legends → https://kotaku.com/--2000663137
+» 🇫🇷 [ActuGaming / 26 jan. 2026] Highguard devait sortir sans être annoncé, comme Apex Legends, mais Geoff Keighley a changé tout ça → https://actugaming.net/--777521
+
+» 🇺🇸 [Kotaku / 26 jan. 2026] DrDisrespect lies about being invited to Highguard preview event. The controversial streamer shared a post online claiming he was invited to a creator event for the new FPS → https://kotaku.com/--2000663184
+
+» 🇫🇷 [Gamekult / 26 jan. 2026] Deus Ex : Human Revolution, Legacy of Kain, Lord of the Rings… le géant de la VF Michel Barbey nous a quittés. Deus Ex : Human Revolution, Legacy of Kain, Lord of the Rings… le géant de la VF Michel Barbey nous a quittés → https://cutt.ly/1txDMMgx
+
+» 🇨🇦 [Outside the Asylum / 25 jan. 2026] Screeps: how a game about programming sold its players a remote access trojan → https://cutt.ly/DtxDnIoB
+» 🇺🇸 [Kotaku / 26 jan. 2026] Steam game devs call exploit allegations ‘clickbait exaggeration’ and ‘malicious defamation’. The person who detailed the exploit said that he'd previously notified Valve, but received no reply → https://kotaku.com/--2000663214
+
+» 🇺🇸 [IGN / 24 jan. 2026] Beast of Reincarnation game director answers all our burning questions about the Pokemon developer's upcoming action game. Including whether or not we can pet the dog → https://cutt.ly/2txDBSok
+» 🇫🇷 [Gamekult / 26 jan. 2026] Beast of Reincarnation : le prochain jeu de Game Freak est développé en grande partie par des studios partenaires → https://cutt.ly/HtxDNEax
+
+» 🇺🇸 [Automaton Media / 26 jan. 2026] Beast of Reincarnation’s graphics “weren’t made with domestic nor overseas audiences in mind,” says director. The photorealistic style came naturally. Beast of Reincarnation director Kota Furushima talks about the reasons behind the game taking on a "surprisingly" photorealistic style → https://cutt.ly/ktxDVxE4
 
 
 
 
-» 🇫🇷 [ActuGaming / 24 jan. 2026] 
+» 🇫🇷 [ActuGaming / 26 jan. 2026] 
 
-» 🇫🇷 [Gamekult / 25 jan. 2026] 
+» 🇫🇷 [Gamekult / 26 jan. 2026] 
 
-» 🇺🇸 [Kotaku / 22 jan. 2026] 
+» 🇺🇸 [Kotaku / 26 jan. 2026] 
 
-» 🇬🇧 [PC Gamer / 22 jan. 2026] 
+» 🇬🇧 [PC Gamer / 26 jan. 2026] 
 
-» 🇺🇸 [IGN / 22 jan. 2026] 
-» 🇫🇷 [IGN France / 22 jan. 2026] 
+» 🇺🇸 [IGN / 26 jan. 2026] 
+» 🇫🇷 [IGN France / 26 jan. 2026] 
 
-» 🇺🇸 [Automaton Media / 23 jan. 2026] 
+» 🇺🇸 [Automaton Media / 26 jan. 2026] 
 
-» 🇺🇸 [Time Extension / 19 jan. 2026] 
+» 🇺🇸 [Time Extension / 26 jan. 2026] 
 
 
 
