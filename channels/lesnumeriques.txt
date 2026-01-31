@@ -13941,6 +13941,27 @@ recommandations de raids : At0mium (Nioh 3) | NotPatrick (RDV Jeux) | LamHua (Ar
 raids : LesNumeriques => (13:36)[+126] At0mium [OrigaTwitch=>(14:00)+124] (>19:00) => (<20:49) Pressea (terminé à 21:17)
 
 
+--------------------------------------
+2026-01-30
+
+» 🇫🇷 [Les Numériques] 25 voitures électriques testées à -31 °C (spoiler, ça ne s'est pas très bien passé) → https://lesnumeriques.com/voiture-electrique/-n250703.html
+» [Inside EV] Lucid just made the first prototypes of its upcoming mid-size SUV.  The upcoming SUV—which could be dubbed "Earth"—will be a make-or-break moment for Lucid → https://insideevs.com/news/785613/-
+» [The Verge] Tesla hits a grim milestone: its second straight year of decline. The automaker has lost the lead to its Chinese competitors as its business continues to contract → https://theverge.com/transportation/869603/-
+» 🇫🇷 [Les Numériques] Tesla abandonne soudainement la production de ses Model S et X → https://lesnumeriques.com/voiture-electrique/-n250673.html
+» [The Verge] Tesla says production-ready Optimus robot is coming soon. The company will reveal its Gen 3 robot in the first quarter of 2026 → https://theverge.com/transportation/869746/-
+» [BBC] Driverless taxis set to launch in UK as soon as September → https://www.bbc.com/news/articles/czej9n578k9o
+» [Yahoo Finance] Waabi raises up to $1 billion and partners with Uber to deploy 25,000 robotaxis as the race to dominate self-driving heats up → https://finance.yahoo.com/news/waabi-raises-1-billion-partners-111834875.html
+» [AP News] Layoffs are piling up, heightening worker anxiety. Here are some of the biggest recent job cuts → https://apnews.com/article/amazon-ups-layoffs-economy-washington-71bfde72b358fddb9a22c15aa13fe848
+» [Financial Times] Universal basic income is needed to cushion blow from AI job losses, says UK minister. Lord Jason Stockwood had previously suggested tech companies could pay windfall levy to fund payments → https://www.ft.com/content/3ebc4947-c7f7-4d79-ab69-6dad430d054b
+» 🇫🇷 [Les Numériques] “La situation est extrêmement grave” : les fabricants de cartes graphiques sont au bord du gouffre, Zotac redoute le pire → https://lesnumeriques.com/carte-graphique/-n250592.html
+» 🇫🇷 [Les Numériques] Test AMD Ryzen 7 9850X3D ⭐⭐⭐⭐⭐ l'un des meilleurs processeurs gaming n'est qu'un coup d'épée dans l'eau → https://www.lesnumeriques.com/cpu-processeur/amd-ryzen-7-9850x3d-p77574/test.html
+
+raids entrants :
+- Ylizur à 12:11 +10
+
+raids : LesNumeriques => (13:35) DefendIntelligence => (16:42)[+661] AVAMind (>16:50) => (<18:38) SebJDG (>19:00) => (<23:03) Hugolisoir (terminé à 00:20)
+
+
 
 » ▶️ [YouTube] 
 » 🐦 [Twitter] 
