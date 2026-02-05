@@ -18422,6 +18422,14 @@ raids OrigaTwitch => (15:04)[+466] CanardPC => (16:52)[+182] DollyWood_ (termin�
 
 
 --------------------------------------
+2026-01-28
+
+# Mardinale #73
+## Actus
+
+
+
+--------------------------------------
 2026-01-29
 
 # Wishlist
@@ -18526,6 +18534,119 @@ excuses de sac :
 - on savait pas parce que le décompte était pas bon (Padre, TR-49)
 - j'ai des trop petits bras ! (Héloïse, post Hébdo)
 - pardon, j'étais en train de chercher l'étymologie de mitaine (Padre, post Hebdo)
+
+
+
+--------------------------------------
+2026-02-04
+
+# Mardinale #74
+## Actus
+### Cairn dépasse les 200 000 ventes
+» 🇺🇸 [Steam / Cairn / 30 jan. 2026] Thank you for 100,000 climbers! → https://cutt.ly/rtvp2eI8
+» 🇫🇷 [ActuGaming / 2 fév. 2026] Cairn démarre très bien son ascension avec 200 000 ventes en quelques jours → https://actugaming.net/--778445
+
+### Slay the Princess
+» 🦋 [BlueSky / Black Tabby Games] 🧵 https://bsky.app/profile/blacktabbygames.com/post/3mdvc7lntrc2y
+> Thrilled to announce that Slay the Princess has officially surpassed one million units sold!
+> When we started work on it, we couldn't imagine a visual novel would be able to hit such a milestone let alone being backed by critical acclaim. And yet, here we are. We couldn't have done this without you.
+
+### La QA de Blizzard est syndiquée
+» 🇺🇸 [CWA Union / 30 jan. 2026] Blizzard Quality Assurance workers ratify video game union contract with Microsoft → https://cutt.ly/TtvBJNY5
+» 🇺🇸 [Aftermath / 2 fév. 2026] Blizzard QA workers’ newly ratified union contract locks in pay increases, better benefits. Three years after unionizing, the group has a contract → https://cutt.ly/etvBPDyN
+» 🇺🇸 [Game Developer / 3 fév. 2026] QA workers at Blizzard ratify union contract with Microsoft. The three-year contract delivers generative AI protections, wage increases, disability accommodations, and more → https://cutt.ly/GtvBJtZr
+
+### StopKillingGames : le compte est bon !
+» 🇫🇷 [Gamekult / 27 jan. 2026] La pétition Stop Killing Games dépasse largement le seuil européen avec 1,3 million de signatures désormais validées → https://cutt.ly/ftchuD4K
+
+### PlayStation supprime un millier de shovelwares sur sa boutique
+» 🇫🇷 [Gamekult / 26 jan. 2026] PlayStation dégage plus de 1000 shovelwares de son store → https://cutt.ly/DtxD2nsi
+
+### Valve face à une plainte collective à 750 millions d'euros
+» 🇬🇧 [Competition Appeal Tribunal / 26 jan. 2026] Judgment (CPO Application) 1640/7/7/24 Vicki Shotbolt Class Representative v Valve Corporation → https://cutt.ly/ktchprHI
+» 🇺🇸 [Reuters / 26 jan. 2026] Video game giant Valve facing UK lawsuit over pricing, commissions → https://cutt.ly/UtchwUlt
+» 🇺🇸 [Kotaku / 27 jan. 2026] Valve fails to get $900m class action lawsuit over pricing thrown out. The UK case claims Steam is overcharging players of PC games → https://kotaku.com/--2000663481
+» 🇫🇷 [Gamekult / 27 jan. 2026] Steam : Valve visé par une action collective de 750 millions d'euros pour abus de position dominante → https://cutt.ly/etchoWT4
+
+### Le prochain Heroes of Might&Magic invoque Jan Von Caneghem
+» ▶️ [YouTube / 29 jan. 2026] Heroes of Might and Magic: Olden Era — Jon Van Caneghem teams up with Unfrozen! → https://youtu.be/fdrEvUnps6U (2 min)
+» 🇫🇷 [Gamekult / 30 jan. 2026] Heroes of Might & Magic : Olden Era : le papa de Might & Magic rejoint Unfrozen en tant que conseiller créatif → https://cutt.ly/CtvyujvE
+
+### Adobe ne détruira pas Animate, finalement
+» 🇺🇸 [Adobe / 3 fév. 2026] Adobe Animate: end of life and support timeline → https://cutt.ly/Etbe2CS1
+» 🇺🇸 [Adobe / 3 fév. 2026] Adobe Animate maintenance mode FAQs → https://cutt.ly/Utbe20ft
+» 🇺🇸 [Adobe / 4 fév. 2026] Update on the status of Adobe Animate → https://cutt.ly/Gtbe24hr
+» 🇺🇸 [The Verge / 4 fév. 2026] Adobe actually won’t discontinue Animate. It won’t get new features, but it will still be available → https://cutt.ly/mtbe9yFf
+
+### Le studio du MMO Ashes of Creation implose
+» 🇺🇸 [MMORPG / 31 jan. 2026] Ashes of Creation's Steven Sharif resigned 'in protest' as Intrepids board starts mass layoffs at MMO studio. 'Much of the senior leadership resigned' → https://cutt.ly/Ntvp3NKk
+» 🇺🇸 [Games Industry / 2 fév. 2026] Developer behind Kickstarter's most successful MMO reportedly loses management and staff following troubled launch. Intrepid Studios co-founder states that "much of the senior management team resigned" following internal disputes after Early Access launch → https://cutt.ly/qtvBC9BE
+» 🇺🇸 [Kotaku / 2 fév. 2026] Steam MMO that raised $3.2 million on Kickstarter implodes just two months after launch as devs resign in protest. Ashes of Creation is currently getting review-bombed as allegations fly → https://kotaku.com/--2000665006
+» 🇫🇷 [ActuGaming / 2 fév. 2026] Clap de fin pour Ashes of Creation, le MMO voit son fondateur et de nombreux salariés quitter le navire → https://actugaming.net/--778299
+» 🇺🇸 [Kotaku / 3 fév. 2026] Ashes Of Creation dev details $3.2 million Kickstarter studio’s shocking collapse: ‘none of us are receiving our final paychecks’. A mass layoff announcement was sudden and swift → https://kotaku.com/--2000665498
+
+### Ubisoft a licencié un cadre après ses prises de paroles contre l'entreprise
+» 🇺🇸 [LinkedIn / David Michaud-Cromp / 27 jan. 2026] Ubisoft informed me today of a three-day unpaid disciplinary suspension, effective Tomorrow → https://cutt.ly/Etcg59Nq
+» 🦋 [BlueSky / Gautoz / 28 jan. 2026] 🧵 https://bsky.app/profile/gautoz.cool/post/3mdia7i2riisr
+> Ubisoft : trois jours de suspension avec retenue sur salaire pour « violation du devoir de loyauté » après un post LinkedIn sur le retour au bureau.
+> Développement pour plus de contexte : j'ai pu prendre connaissance d'un message plus énervé (et plus personnel vis à vis du top management) posté par cet employé sur Agora, le réseau interne de l'entreprise.
+> Son post LinkedIn public semble servir de prétexte pour une mise au pas.
+
+» 🇺🇸 [Kotaku / 28 jan. 2026] Developer says Ubisoft punished him for publicly criticizing its return-to-office mandate. The Ubisoft Montreal staff member says this was an 'alleged breach of the duty of loyalty' → https://kotaku.com/--2000663771
+
+» 🇺🇸 [Game Developer / 30 jan. 2026] Ubisoft veteran fired after publicly commenting on return-to-office policy. The Ubisoft Montreal team lead has now spoken to Game Developer to further outline their views on return-to-office mandates → https://cutt.ly/Btbe3hWQ
+
+» 🦋 [BlueSky / Gautoz / 2 fév. 2026] 🧵 https://bsky.app/profile/gautoz.cool/post/3mdvd625abjfi
+> David Michaud-Cromp a été licencié par Ubisoft après ses prises de parole internes et externes
+> De ce que je comprends, il aurait répondu ce week-end à une interview en son nom sans en notifier sa hiérarchie, ce qui est formellement interdit par le règlement de la boîte. Donc a priori Ubisoft n'a eu qu'à presser le bouton.
+
+» fil de discussion 💬
+
+### Dispatch est censuré sur Switch 1 et 2
+» 🇬🇧 [Eurogamer / 28 jan. 2026] "The core narrative and gameplay experience remains identical" AdHoc reassures Dispatch players on Switch as it confirms Nintendo platform versions are censored. "Different platforms have different content criteria." → https://cutt.ly/atcg4F2Q
+» 🇺🇸 [Kotaku / 28 jan. 2026] Nintendo says no to toxic dong on Switch 2 as Dispatch devs confirm censored content. Platform requirements will make the Nintendo ports a little different → https://kotaku.com/--2000663868
+» 🇫🇷 [ActuGaming / 28 jan. 2026] Sur la version Switch de Dispatch, la nudité sera censurée → https://actugaming.net/--777773
+» 🇫🇷 [Gamekult / 29 jan. 2026] Dispatch : le jeu de superhéros débarque sur Switch, mais en version censurée → https://cutt.ly/Wtvt43dw
+
+» 🇺🇸 [GoNintendo / 30 jan. 2026] Nintendo shares statement on Dispatch censorship debacle...and it doesn't explain much → https://cutt.ly/mtvkq5cN
+» 🇬🇧 [Eurogamer / 30 jan. 2026] Nintendo comments on Dispatch's Switch censorship → https://cutt.ly/BtvyRLcb
+» 🇫🇷 [ActuGaming / 30 jan. 2026] Dispatch : Nintendo réagit à la censure de certaines scènes du jeu sur ses consoles Switch → https://actugaming.net/--778036
+
+» fil de discussion 💬
+
+### Epstein Files + industrie du jeu vidéo : premier point
+» **rappel rapide de l'affaire Epstein :**
+» 🇫🇷 [France Inter / 1er août 2019] De "l'île de tous les péchés" à la mort du milliardaire américain, chronologie de l'affaire Epstein → https://cutt.ly/ktbe84lG
+» 🇫🇷 [France Inter / 27 déc. 2021] Affaire Epstein : les temps forts du procès de Ghislaine Maxwell à New York → https://cutt.ly/1tbe4rtH
+» 🇫🇷 [France Inter / 7 fév. 2023] Affaire Sensibles — Jeffrey Epstein, le prédateur de la Jet Set → https://cutt.ly/ytbe4d1P (55 min)
+» 🇫🇷 [France Inter / 14 oct. 2025] Affaire Epstein : Mort mystérieuse, secrets d'État et liens troubles → https://www.radiofrance.fr/franceinter/podcasts/zoom-zoom-zen/zoom-zoom-zen-du-mardi-14-octobre-2025-2269600 (44 min)
+» 🇫🇷 [France Culture / 3 fév. 2026] La revue de presse internationale — Affaire Epstein : de nouveaux documents prouvent l'étendue de son influence et provoquent des démissions en Europe → https://cutt.ly/Ktbe4Oe5
+
+» 🇺🇸 [TheGamer / 31 jan. 2026] Rockstar Games president Sam Houser and former GTA lead Leslie Benzies mentioned in Epstein files → https://cutt.ly/ztvyTaix
+» 🇫🇷 [Gamekult / 31 jan. 2026] GTA : Sam Houser et Leslie Benzies (Rockstar Games) sont cités dans l'affaire Epstein → https://cutt.ly/ttvyprc2
+» 🇫🇷 [Rockstar Mag / 31 jan. 2026] Rockstar Games dans l’affaire Epstein | Le vrai du faux, autour de ces accusations → https://cutt.ly/0tvyG3SU
+
+» 🇺🇸 [Kotaku / 3 fév. 2026] Ex-Activision boss Bobby Kotick allegedly emailed with Jeffrey Epstein a bunch. Government files reveal the two planning for multiple meet-ups → https://kotaku.com/--2000665456
+
+» 🇺🇸 [Garbage Day / 3 fév. 2026] Here's how Epstein broke the internet. His meeting with the founder of 4chan and his quest to profit off the end of democracy → https://cutt.ly/Gtbe4Mz8
+» 🇺🇸 [Aftermath / 3 fév. 2026] The Epstein files reveal what powerful people see in video games: profit, coercion, and control. Epstein's apparent associations with the likes of Bobby Kotick, Steve Bannon, and Peter Thiel paint an ugly picture → https://cutt.ly/vtv0HS0L
+
+### L'ex-producteur de GTA Leslie Benzies accusé d'agression sexuelle
+» 🇺🇸 [Kotaku / 2 fév. 2026] MindsEye CEO threatens YouTuber with legal action following Epstein video. Build a Rocket Boy's boss issued a bizarre cease and desist demand in Discord → https://kotaku.com/--2000665097
+» 🇫🇷 [ActuGaming / 2 fév. 2026] Sam Houser (GTA 6) et Leslie Benzies apparaissent dans l’affaire Epstein, le dernier étant accusé d’agression sexuelle → https://actugaming.net/--778326
+» 🇺🇸 [Kotaku / 3 fév. 2026] Ex-GTA veteran Leslie Benzies refutes Epstein files allegation: ‘I have never met Jeffrey Epstein’. The producer left Rockstar Games in 2016 → https://kotaku.com/--2000665340
+» 🇫🇷 [Gamekult / 4 fév. 2026] GTA, MindsEye : cité dans les fichiers Epstein, le producteur Leslie Benzies se défend, pendant que son PDG est en guerre contre un youtubeur → https://cutt.ly/ytbeXXCn
+
+### Nekome: Nazi Hunter va à l'essentiel
+» Nekome: Nazi Hunter, annoncé sur PC ; développé par ProbablyMonsters, studio états-unien derrière Ire: A Prologue (2025), Storm Lancers (2025) → https://probablymonsters.com/nekome/
+» 🇫🇷 [Gamekult / 4 fév. 2026] Nekome : Nazi Hunter, le jeu d'action et d'infiltration qui vous emmène faire la chasse aux nazis. Tarantino rencontre Wolfenstein → https://cutt.ly/ctbrqwif
+
+
+
+
+» 📄 [Patreon] Entretien avec Naoki Hamaguchi (trilogie FFVIIR) : plaire aux fans, élargir son point de vue, et l’exercice délicat du remake → https://cutt.ly/VtbrwrDb
+» ▶️ [YouTube] La Mercredinale — Dispatch censuré sur Switch ; l'industrie du JV dans les fichiers Epstein ; le naufrage Ashes of Creation → https://youtu.be/5nPVXaBlIM8
+
 
 
 
