@@ -16219,7 +16219,7 @@ raids : OrigaTwitch => (15:25)[+638] DollyWood_ => (17:58)[+131] JVleMag => (19:
 2025-11-03
 
 excuses de sac :
-- mais y a pas une délai de bâtard sur les coups qu'on met là ? (Moguri, Lethal League Blaze)
+- mais y a pas un délai de bâtard sur les coups qu'on met là ? (Moguri, Lethal League Blaze)
 - j'ai jamais joué à c'jeu, j'en ai aucune idée (Hoopy, Lethal League Blaze)
 - ah j'ai pas fait exprès (Moguri, Lethal League Blaze)
 - j'oublie à chaque fois qu'il passe dans le mur (Padre, Lethal League Blaze)
@@ -18191,7 +18191,7 @@ excuses de sac :
 
 
 --------------------------------------
-2026-01-22
+2026-01-21
 
 # Mardinale #72
 ## Actus
@@ -18235,7 +18235,7 @@ excuses de sac :
 
 
 --------------------------------------
-2026-01-23
+2026-01-22
 
 # Wishlist
 
