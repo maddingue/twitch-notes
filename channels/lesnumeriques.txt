@@ -13975,7 +13975,52 @@ raids : LesNumeriques => (13:35) DefendIntelligence => (16:42)[+661] AVAMind (>1
 raids : LesNumeriques => (13:42)[+105] Origatwitch (terminé à 15:28)
 
 
+--------------------------------------
+2026-02-12
 
+» 🇫🇷 [Les Numériques] Test Huawei WiFi Mesh X3 Pro ⭐⭐⭐ enfin un kit mesh Wi-Fi qui ne fait pas tache dans le salon → https://lesnumeriques.com/repeteurs-wi-fi/huawei-wifi-mesh-x3-pro-p77792/test.html
+» 🇫🇷 [Les Numériques] Test Asus Zenbook Duo (2026) ⭐⭐⭐⭐⭐ le PC double écran passe au Core Ultra 300 et gagne une autonomie record → https://lesnumeriques.com/ordinateur-portable/asus-zenbook-duo-2026-ux8407aa-p77743/test.html
+» 🇫🇷 [Les Numériques] Fini les PC qui rament sur batterie : Intel rattrape enfin Apple avec ses nouveaux Core Ultra 300 → https://lesnumeriques.com/cpu-processeur/-n250638.html
+» 🇫🇷 [Les Numériques] Test Crucial X10 Pro ⭐⭐⭐⭐⭐ le petit SSD pour professionnel qui a tout d'un grand → https://lesnumeriques.com/disque-dur-externe/x10-pro-p77842/test.html
+» 🇫🇷 [Les Numériques] Test WD Black SN7100 ⭐⭐⭐⭐⭐ le SSD PCIe 4.0 pour gamers trouve sa nouvelle référence → https://lesnumeriques.com/ssd/wd-black-sn7100-p77820/test.html
+» 🇫🇷 [Les Numériques] Test AMD Ryzen 7 9850X3D ⭐⭐⭐⭐⭐ l'un des meilleurs processeurs gaming n'est qu'un coup d'épée dans l'eau → https://lesnumeriques.com/cpu-processeur/amd-ryzen-7-9850x3d-p77574/test.html
+» 🇫🇷 [Les Numériques] CXMT et YMTC : les géants chinois de la mémoire préparent une expansion historique d'ici 2027 → https://lesnumeriques.com/ram-memoire-vive/-n251021.html
+» ▶️ [YouTube / Gamers Nexus] The rise of Chinese memory → https://youtu.be/qzfhhAfxK-A (1 h 12 min)
+» 🇫🇷 [Les Numériques] Steam Machine : Valve capitule et abandonne toute annonce de prix et date de sortie face à la crise de la RAM → https://lesnumeriques.com/jeux-video/-n251051.html
+» 🇫🇷 [Les Numériques] Intel et SoftBank officialisent la mémoire ZAM pour bousculer le marché de l'IA d'ici 2030 → https://lesnumeriques.com/ram-memoire-vive/-n250937.html
+» 🇫🇷 [Les Numériques] Les Raspberry Pi vont subir une nouvelle augmentation pouvant atteindre 60 $ → https://lesnumeriques.com/carte-mere/-n250922.html
+» 🇫🇷 [Les Numériques] “La situation est extrêmement grave” : les fabricants de cartes graphiques sont au bord du gouffre, Zotac redoute le pire → https://lesnumeriques.com/-n250592.html
+» 🇫🇷 [Les Numériques] ASML, Imec : comment l’Europe exploite ses “dépendances inversées” face à Washington → https://lesnumeriques.com/cpu-processeur/-n251280.html
+» 🇫🇷 [Les Numériques] Le Multi-Frame Generation 6x de Nvidia se trouve une date de sortie → https://lesnumeriques.com/carte-graphique/-n251129.html
+» 🇫🇷 [Les Numériques] Nvidia : pas de carte graphique GeForce RTX 50 Super en 2026, la génération RTX 60 potentiellement repoussée → https://lesnumeriques.com/carte-graphique/-n251098.html
+» 🇫🇷 [Les Numériques] Nvidia préparerait une RTX 5090 Ti pour 2026, mais clairement, les joueurs ne sont plus dans l'équation → https://lesnumeriques.com/carte-graphique/-n251220.html
+» 🇫🇷 [Les Numériques] Resident Evil Requiem offert pour l'achat d'une GeForce RTX série 50 de Nvidia → https://www.lesnumeriques.com/carte-graphique/resident-evil-requiem-offert-pour-l-achat-d-une-geforce-rtx-serie-50-n251305.html
+» 🇫🇷 [Harware&co] Fiabilité des CPU : qu'en dit l'un des plus gros revendeurs allemands ? → https://hardwareand.co/actualites/breves/fiabilite-des-cpu-qu-en-dit-l-un-des-plus-gros-revendeurs-allemands
+» 🇫🇷 [Les Numériques] Qualcomm Snapdragon X2 Elite : les premiers benchmarks placent la puce ARM devant Apple et Intel → https://lesnumeriques.com/cpu-processeur/-n251297.html
+» 🇫🇷 [Les Numériques] MacBook Pro : les puces M5 Max et M5 Ultra d'Apple n'arriveront pas avant mars → https://lesnumeriques.com/ordinateur-portable/-n251260.html
+» 🇫🇷 [Les Numériques] Nouveau MacBook Air : tout ce que l'on sait sur le prochain portable ultrafin d'Apple → https://lesnumeriques.com/ordinateur-portable/-n251348.html
+» 🇫🇷 [Les Numériques] Adieu à Marc Prieur, fondateur de HardWare.fr et pilier de la tech française → https://lesnumeriques.com/societe-numerique/-n251259.html
+» 🇫🇷 [Les Numériques] Windows 11 : une vulnérabilité sévère vient d'être patchée sur le logiciel Bloc-notes → https://lesnumeriques.com/informatique/-n251367.html
+» 🇫🇷 [Harware&co] Noctua a déjà envoyé un demi million de kits de montages supplémentaires à ses clients → https://hardwareand.co/actualites/breves/noctua-a-deja-envoye-un-demi-million-de-kits-de-montages-supplementaires-a-ses-clients
+
+suggestions de raids : NotPatrick (RDV Jeux) | Lapetitepotiere | JardiStream 🌱 | Lilynia (crochet 🧶) | inforea | DamDamLive
+
+raids : LesNumeriques => (13:37)[+105] Lapetitepotiere [UnePetiteMarie=>(13:55)+96] => (14:47)[+177] Hiuuugs => (15:58)[+388] Berlu (terminé à 19:03)
+
+
+--------------------------------------
+2026-02-13
+
+» 🇫🇷 [Gamekult] Test : Dragon Quest VII Reimagined pèche par excès de tendresse, 6/10 par Diogo → https://www.gamekult.com/jeux/dragon-quest-vii-reimagined-3050888799/test.html
+
+» ▶️ [YouTube / PlayStation] State of Play | February 12, 2026 → https://youtu.be/P0e5YEXtZu0
+» 🇫🇷 [Gamekult / 12 fév. 2026] Kena fera son retour en 2026 dans Kena : Scars of Kosmora → https://cutt.ly/3tn2FC4t
+» 🇫🇷 [Gamekult] Castlevania : Belmont's Curse, enfin un nouvel épisode en 2D par l'équipe de Dead Cells → https://gamekult.com/actualite/-3050868440.html
+» 🇫🇷 [Gamekult] Saros détaille ses différences de gameplay avec Returnal → https://gamekult.com/actualite/-3050868441.html
+
+suggestions de raids : LamHua | mamaparika | lydia__am | turbojoul
+
+raids : LesNumeriques => (13:33)[+117] mistermv (terminé à 19:00)
 
 
 
