@@ -19108,7 +19108,256 @@ raids entrants :
 » ▶️ [YouTube] Super Vieux Jeux — Spéciale Resident Evil → https://youtu.be/3iC2ds3BylM
 » ▶️ [Patreon] Quoi de Vieux ? — Resident Evil 1 sur Game Boy, un F-Zero sur Virtual Boy et votre dose de R-Type → https://patreon.com/posts/151076061
 » ▶️ [YouTube] La Jeudinale — PlayStation prépare le RAMageddon et Steam Deck en rupture ; BigBen dans tourmente ; les cachotteries d'Highguard → 
-» ▶️ [Patreon] Internet Exploreuses — Faut-il interdire les RS aux vieux ? → 
+» ▶️ [Patreon] Internet Exploreuses — Faut-il interdire les RS aux vieux ? → https://patreon.com/posts/151161300
+
+
+
+--------------------------------------
+2026-02-25
+
+# Mardinale #77
+## Actus
+### Remaniement Xbox : Phil Spencer s'en va, Sarah Bond fait fusible
+» 🇺🇸 [Bloomberg / 20 fév. 2026] Microsoft names Sharma to lead Xbox, recommits to console → https://cutt.ly/PtWJJBAx
+» 🇺🇸 [Game File / 20 fév. 2026] Phil Spencer retiring from Xbox, Microsoft AI exec Asha Sharma taking over gaming division. Phil Spencer retiring from Xbox, Microsoft AI exec Asha Sharma taking over gaming division → https://cutt.ly/6tQAijFt
+» 🇺🇸 [IGN / 20 fév. 2026] Phil Spencer retiring, Sarah Bond out, Matt Booty promoted as Microsoft AI exec Asha Sharma named new Xbox boss. Spencer’s run with Xbox ends just months shy of the brand’s 25th anniversary → https://cutt.ly/LtQAykZX
+» 🇫🇷 [IGN France / 20 fév. 2026] Phil Spencer prend sa retraite, Sarah Bond s'en va, Matt Booty promu, tandis que la ponte de Microsoft AI Asha Sharma prend la tête d'Xbox. L'aventure de Spencer avec Xbox prend fin quelques mois avant le 25e anniversaire de la marque → https://cutt.ly/etQA1ukQ
+
+» 🇺🇸 [Kotaku / 20 fév. 2026] Phil Spencer retires from Xbox and Sarah Bond resigns as Microsoft’s AI exec takes over. Microsoft's gaming division sees a big leadership change amid its messiest console generation yet → https://kotaku.com/--2000672059
+» 🇺🇸 [Kotaku / 20 fév. 2026] Xbox’s new boss promises not to flood it with ‘soulless AI slop’. Asha Sharma, formerly the head of Microsoft's AI division, promises more 'great games' made by humans → https://kotaku.com/--2000672087
+» 🇺🇸 [Kotaku / 20 fév. 2026] Phil Spencer says goodbye: ‘[Xbox] deserves a thoughtful, deliberate plan for the road ahead’. The 38-year veteran of Microsoft calls his time there an 'epic ride' → https://kotaku.com/--2000672084
+» 🇺🇸 [The Verge / 20 fév. 2026] Xbox chief Phil Spencer is leaving Microsoft. Xbox president Sarah Bond is also leaving Microsoft → https://cutt.ly/DtQApFWB
+» 🇺🇸 [The Verge / 20 fév. 2026] Read Xbox chief Phil Spencer’s memo about leaving Microsoft. Asha Sharma is now stepping into the role of Microsoft Gaming CEO → https://cutt.ly/DtQAk9Ri
+» 🇬🇧 [VGC / 20 fév. 2026] Huge Xbox shakeup: Phil Spencer retiring, Sarah Bond resigns, Microsoft AI boss becomes new Microsoft Gaming CEO. Xbox Game Studios head Matt Booty is being promoted to chief content officer → https://cutt.ly/utQAovkC
+» 🇫🇷 [Gamekult / 20 fév. 2026] Xbox : Phil Spencer prend sa retraite, Bond quitte Microsoft et une exécutive de l'IA prend le leadership → https://cutt.ly/gtQAMEaK
+» 🇫🇷 [ActuGaming / 20 fév. 2026] Phil Spencer quitte Xbox, Sarah Bond également, c’est Asha Sharma (de chez Microsoft CoreAI) qui devient la nouvelle PDG → https://actugaming.net/--781159
+» 🇺🇸 [Aftermath / 20 fév. 2026] So long, Phil Spencer. You will not be missed. Spencer, retiring from Xbox next week, played a lot of games and oversaw the layoffs of even more people → https://cutt.ly/ztQA4b1c
+» 🇺🇸 [Kotaku / 20 fév. 2026] The internet reacts to the massive shakeup at Xbox. Microsoft’s gaming division is seeing a huge shakeup and folks are not optimistic → https://kotaku.com/--2000672112
+» 🇺🇸 [Kotaku / 20 fév. 2026] That’s it, I’m calling it, Xbox is dead, time of death February 20. This isn't a surprising death, when you look back at the last few years → https://kotaku.com/--2000672114
+
+l'avis d'Asha Sharma sur comment « l'IA » va guérir le cancer et régler les problèmes de fertilité :
+» ▶️ [YouTube / Lenny's Podcast / 28 août 2025] How 80,000 companies build with AI: Products as organisms and the death of org charts | Asha Sharma → https://youtu.be/J9UWaltU-7Q?t=2571 (57 min)
+» 🇺🇸 [Kotaku / 23 fév. 2026] The new head of Xbox is worried about birthrates, but says AI will save us. Five months ago Asha Sharma talked about how AI could turn around declining fertility rates → https://kotaku.com/--2000672756
+
+» 🇺🇸 [Variety / 20 fév. 2026] New Microsoft gaming CEO Asha Sharma on what makes a ‘great game,’ having ‘no tolerance for bad AI’ and replacing Phil Spencer → https://cutt.ly/YtWpIbG2
+» 🇺🇸 [Kotaku / 21 fév. 2026] New Xbox boss says ‘hear you’ when asked to bring back exclusives. Asha Sharma tries to convince the gamers she cares → https://kotaku.com/--2000672587
+» 🇫🇷 [ActuGaming / 23 fév. 2026] Xbox : Asha Sharma veut des jeux capables de créer des émotions et n’aura « aucune tolérance avec de la mauvaise IA » → https://actugaming.net/--781297
+
+» 🇺🇸 [Windows Central / 24 fév. 2026] Talking to new Xbox CEO Asha Sharma and CCO Matt Booty — "This team has brought it back before, and I'm here to help us do it again.". As former Xbox CEO Phil Spencer prepares to exit, we caught up with incoming CEO Asha Sharma and newly promoted CCO Matt Booty to learn about what the future holds for Microsoft's gaming operation → https://cutt.ly/9tWH9Q3Y
+» 🇺🇸 [Kotaku / 24 fév. 2026] New Xbox CEO on company strategy: ‘the plan’s the plan until it’s not the plan’. Asha Sharma offered only vague responses when asked about what to expect from Xbox's next era → https://kotaku.com/--2000673378
+» 🇫🇷 [ActuGaming / 25 fév. 2026] Xbox : Futur hardware, retour aux sources, IA, éditeur tiers… Asha Sharma et Matt Booty se livrent dans une nouvelle interview → https://actugaming.net/--781607
+» 🇫🇷 [Gamekult / 25 fév. 2026] "Xbox n'est pas fait pour être juste un éditeur tiers" affirment Asha Sharma (PDG de Xbox) et Matt Booty → https://cutt.ly/OtWJ2kEu
+
+» 🇺🇸 [LinkedIn / Sarah Bond / 21 fév. 2026] Sharing with gratitude the note I sent to my team today. Grateful to our players, developers, partners, and team. Forever a fan of Xbox. 💚 → https://cutt.ly/HtWpUNs0
+» 🇫🇷 [ActuGaming / 23 fév. 2026] Xbox : Sarah Bond publie son premier message depuis sa démission, afin de dire au revoir aux équipes → https://actugaming.net/--781203
+» 🇫🇷 [Gamekult / 21 fév. 2026] Xbox : Sarah Bond prend la parole après le séisme → https://cutt.ly/0tWp656I
+
+» 📄 La falaise de verre est le processus par lequel des organisations en crise sont davantage portées à faire appel à des femmes aux postes de direction qu'en temps normal → https://fr.wikipedia.org/wiki/Falaise_de_verre
+
+» 🇺🇸 [The Verge / 20 fév. 2026] Inside Microsoft’s big Xbox leadership shake-up. Microsoft has a new gaming CEO who wants to bring Xbox back from the brink → https://cutt.ly/ftWpKdmg
+» 🇫🇷 [ActuGaming / 23 fév. 2026] Sarah Bond serait tenue responsable de certains échecs chez Xbox selon The Verge, dont la campagne « This is an Xbox » → https://actugaming.net/--781433
+» 🇺🇸 [Kotaku / 23 fév. 2026] Nothing about the big Xbox shakeup makes sense. I have so many more questions than answers → https://kotaku.com/--2000672914
+» 🇺🇸 [Windows Central / 23 fév. 2026] A farewell to Phil Spencer, he who saved Xbox — and salutations to Asha Sharma, who will steer Xbox through its toughest era. The biggest change to Xbox in years, and it might've come at exactly the right time → https://cutt.ly/GtWmHaxj
+» 🇫🇷 [Gamekult / 24 fév. 2026] Xbox : pourquoi Microsoft a écarté Sarah Bond et choisi Asha Sharma pour remplacer Phil Spencer → https://cutt.ly/EtWmK34X
+
+» 🇺🇸 [Aftermath / 24 fév. 2026] It's important to recognise a story for what it is. There sure is a lot of blame being laid at the feet of one person → https://cutt.ly/wtWHM4sy
+
+» 🇺🇸 [GamesBeat / 23 fév. 2026] What an Xbox founder thinks of the new Xbox CEO | Seamus Blackley interview → https://cutt.ly/jtWmVZZ3
+» 🇫🇷 [ActuGaming / 24 fév. 2026] Pour le co-fondateur de Xbox, c’est le début de la fin suite à la nomination d’Asha Sharma en tant que PDG → https://actugaming.net/--781506
+
+» 🇫🇷 [Frandroid / 24 fév. 2026] Xbox à la croisée des chemins : quel avenir pour le jeu vidéo chez Microsoft sous la direction d’Asha Sharma ? → https://cutt.ly/2tWmGSrf
+
+### Yoko Taro sur le prochain animé Evangelion
+» ▶️ [YouTube / 株式会社カラー khara / 24 fécv. 2026] エヴァンゲリオン完全新作シリーズ制作始動 初報映像 2026年2月23日発表 → https://youtu.be/tC_DJWqHXD4
+» 🇯🇵 [Automaton Japan / 23 fév. 2026] 「エヴァンゲリオン」完全新作シリーズ、なんとヨコオタロウ氏が脚本・シリーズ構成を担当へ。『NieR』の生みの親が作るエヴァ → https://cutt.ly/ftWaiyao
+» 🇯🇵 [Famitsu / 23 fév. 2026] 『エヴァンゲリオン』完全新作シリーズの制作が発表。シリーズ構成・脚本はヨコオタロウ。監督を鶴巻和哉と谷田部透湖、音楽を岡部啓一が担当 → https://cutt.ly/ztWaiMLN
+» 🇺🇸 [Kotaku / 23 fév. 2026] A new Evangelion series is coming, and it’s written by Nier’s director. Yoko Taro will pen the new series in the legendary mech anime → https://kotaku.com/--2000672745
+» 🇫🇷 [ActuGaming / 23 fév. 2026] Yoko Taro (NieR, Drakengard) va s’occuper d’une nouvelle série Evangelion → https://actugaming.net/--781353
+» 🇫🇷 [Gamekult / 23 fév. 2026] Yoko Taro (NieR Automata) prend les commandes de la nouvelle série Evangelion → https://cutt.ly/stWat83g
+
+### ARC Raiders : Nexon promeut le PDG en récompense
+» 🇬🇧 [PC Gamer / 20 fév. 2026] Arc Raiders is such a huge hit, Nexon has put Embark Studios CEO Patrick Söderlund in charge of everything else too. Söderlund has been named executive chairman of Nexon, heading up "long-term strategy, creative direction, and how Nexon develops games globally." → https://cutt.ly/NtQJ8Z8O
+» 🇫🇷 [Gamekult / 23 fév. 2026] Fort du succès d'ARC Raiders, le PDG d'Embark Patrick Söderlund prend un rôle exécutif majeur chez Nexon → https://cutt.ly/DtWawPXv
+
+### Après Bloodlines 2, thechineseroom rebondit
+» 🇺🇸 [Game Developer / 19 fév. 2026] Lyrical Games announces full-financing publishing deal with The Chinese Room. 'Not only is it my natural inclination to be good to developers, I think it's good business to be good to developers.' → https://cutt.ly/dtQP0iXu
+» 🇺🇸 [Games Industry / 19 fév. 2026] Still Wakes The Deep dev The Chinese Room signs with Lyrical Publishing for new title. BAFTA-winning studio will retain IP rights for its first new game after separating from Sumo Group → https://cutt.ly/FtQP1JjR
+» 🇫🇷 [Gamekult / 20 fév. 2026] Après le fiasco Vampire Bloodlines 2, The Chinese Room annonce son nouveau projet → https://cutt.ly/btQP0nZq
+
+### Amazon débranche déjà King of Meat
+» 🇺🇸 [Steam / King of Meat / 23 fév. 2026] The Future of King of Meat → https://cutt.ly/CtWp7N3F
+» 🇺🇸 [Kotaku / 23 fév. 2026] Yet another live-service game is shutting down and refunding players. MrBeast, Geoff Keighley, and the might of Amazon couldn't make anyone care about King of Meat → https://kotaku.com/--2000672900
+» 🇫🇷 [Gamekult / 24 fév. 2026] King of Meat s'est viandé : le jeu multijoueur d'Amazon ferme déjà ses portes → https://cutt.ly/WtWmCzgX
+» 🇫🇷 [ActuGaming / 24 fév. 2026] King of Meat : Amazon annonce la fermeture des serveurs, après avoir licencié une partie du studio → https://actugaming.net/--781503
+
+### Amazon lâche Maverick Games et leur projet de jeu de course en monde ouvert
+» 🇺🇸 [The Game Business / 25 fév. 2026] Amazon abandons its open world driving game with Maverick Games. The game is still deep in development but seeking a new partner. Tomb Raider remains → https://cutt.ly/ItWH30Op
+» 🇺🇸 [Game Developer / 25 fév. 2026] Amazon ditches open world driving title from Maverick Games. The project is being developed by a cohort of former Forza Horizon developers → https://cutt.ly/RtWJjeJn
+» 🇫🇷 [ActuGaming / 25 fév. 2026] Amazon laisse tomber le jeu de courses en monde ouvert de Maverick Games, conçu par des anciens de Forza Horizon → https://actugaming.net/--781752
+» 🇫🇷 [Gamekult / 25 fév. 2026] Amazon abandonne les anciens de Forza Horizon et s'éloigne encore du jeu vidéo AAA. Maverick Games cherche un nouvel édieur → https://cutt.ly/AtWC04J5
+
+### En cessation de paiement, Nacon part en redressement judiciaire
+» 🇫🇷 [Nacon / 25 fév. 2026] Nacon annonce effectuer ce jour une declaration de cessation des paiements et sollicite l’ouverture d’une procedure de redressement judiciaire → https://cutt.ly/GtWH3dPR (PDF)
+» 🇫🇷 [Gamekult / 25 fév. 2026] Nacon entre en cessation de paiements et demande un redressement judiciaire → https://cutt.ly/qtWKwVHj
+» 🇫🇷 [ActuGaming / 25 fév. 2026] Nacon se lance dans une procédure de redressement judiciaire, faute de pouvoir payer toutes ses dettes → https://actugaming.net/--781615
+» 🇺🇸 [Game Developer / 25 fév. 2026] Hell is Us and Styx publisher Nacon files for insolvency. The French company is seeking to restructure its debts under court supervision → https://cutt.ly/OtWJhKJ3
+
+### Marvel's Wolverine a sa date
+» 🇺🇸 [Kotaku / 24 fév. 2026] Marvel’s Wolverine reveals fall release date with plenty of distance from GTA 6 . 2026 is shaping up to be a big year for PS5 exclusives → https://kotaku.com/--2000673283
+» 🇫🇷 [ActuGaming / 24 fév. 2026] Sans fanfare, Insomniac Games annonce la date de sortie de Marvel’s Wolverine, le jeu sortira mi-septembre → https://actugaming.net/--781554
+
+
+
+--------------------------------------
+2026-02-25
+
+# Wishlist
+» Hellscreen, le 13 févr. 2026 sur PC / Steam Deck ; développé par Mixtape Games UK / Jamie D → https://s.team/a/1410090
+résultat du sondage : dans Wishlist 22% (2) | mitigé / à revoir 22% (2) | trop niche 33% (3) | pas pour moi 22% (2)
+
+» Little Nemo and the Guardians of Slumberland, le 31 mars 2026 sur Switch et PC / Steam Deck ; développé par Die Soft → https://diesoft.games | https://s.team/a/2074630
+résultat du sondage : dans Wishlist xx% | trop classique xx% | trop choupi pour moi xx%
+
+» GRIDbeat! le 26 mars 2026 sur PC / Steam Deck ; édité par Acclaim, développé par Ridiculous Games → https://ridiculousgaming.net | https://s.team/a/3243370
+résultat du sondage : dans Wishlist 19% (4) | trop plan plan 19% (4) | pas pour moi 62% (13)
+
+» Hubert, annoncé pour Q2 2026 sur PC ; développé par Brocap Studio → https://s.team/a/764930 | https://brocap-studio.com
+résultat du sondage : dans Wishlist 61% (14) | good boi mais pas dans WL 26% (6) | je préfère les chats 9% (1) | non mais ces sondages 4% (1)
+
+
+# L'Hebdo #95
+
+## Actus
+### Origami
+» ▶️ [Patreon] Headshot — Entretien avec Sarah Hourcade (MIO: Memories In Orbit) → https://patreon.com/posts/151469428
+» ▶️ [YouTube] Quoi de Vieux ? — Resident Evil 1 sur Game Boy, un F-Zero sur Virtual Boy et votre dose de R-Type → https://youtu.be/nLMWAp9RhBM
+» ▶️ [YouTube] Dans le Rétro — Les dents de sa mère → https://youtu.be/adc3eu47LTY
+» ▶️ [YouTube] La Mercredinale — Phil Spencer quitte Xbox ; Nacon prend l'eau ; Arc Raiders double triomphe → https://youtu.be/wfCrg3anRJc
+
+### La semaine
+» 🇫🇷 [ActuGaming / 25 fév. 2026] Ninja Gaiden 4 aura droit à son DLC The Two Masters dès le 4 mars prochain → https://actugaming.net/--781811
+
+» 🇫🇷 [IGN France / 11 fév. 2026] Plus de 150 000 ventes pour Mewgenics en six heures : « Cela dépasse largement les attentes ». Le dernier jeu du développeur de The Binding of Isaac connaît un démarrage fulgurant → https://cutt.ly/atnPNuyg
+» 🇫🇷 [ActuGaming / 11 fév. 2026] Mewgenics : Le dernier jeu du créateur de The Binding of Isaac est déjà un carton → https://actugaming.net/--779609
+» 🇫🇷 [ActuGaming / 18 fév. 2026] Le succès de Mewgenics se confirme, le jeu atteint déjà le million de ventes → https://actugaming.net/--780844
+» 🇫🇷 [Gamekult / 25 fév. 2026] Mewgenics : le premier DLC ne devrait pas arriver avant la fin de l'année prochaine → https://cutt.ly/QtEu5CdH
+
+» 🇫🇷 [ActuGaming / 20 fév. 2026] Nioh 3 passe son premier million de ventes, la saga en elle-même dépasse les 10 millions de jeux vendus → https://actugaming.net/--781049
+» 🇫🇷 [Gamekult / 20 fév. 2026] Nioh 3 décroche le million de ventes et porte la franchise à 10 millions → https://cutt.ly/etQP0JJb
+
+» 🇫🇷 [Gamekult / 25 fév. 2026] Le jeu de pirate Windrose dépasse le million de souhaits et fait trembler les AAA → https://cutt.ly/ytEu6Bjl
+
+» Dive or Die: Children of Rain, annoncé pour 2026 ; développé par Drop Rate Studio → https://s.team/a/3590290
+» 🇫🇷 [Gamekult / 20 fév. 2026] Dive or Die : un Dave the Diver lovecraftien mêlant gestion de camp et plongées terrifiantes → https://cutt.ly/etEiwQqs
+
+» Don't Kill Them All, développé par Fika Productions → https://s.team/a/2322260
+» 🇫🇷 [Gamekult / 24 fév. 2026] Don't Kill Them All : le tactical-rpg avec des Orcs dépressifs lache une démo sur Steam → https://cutt.ly/1tEiqZoU
+
+» 🇺🇸 [Kotaku / 20 fév. 2026] Pokémon FireRed and LeafGreen coming to Switch Feb 27, for a gross price. The 22-year-old GBA games are yours for a mere $20, each, this Pokémon Day → https://kotaku.com/--2000671938
+» 🇺🇸 [Kotaku / 20 fév. 2026] Pokémon FireRed and LeafGreen on Switch has a sick special edition most people can’t get. The GBA ports are coming to Switch next week → https://kotaku.com/--2000672041
+» 🇫🇷 [ActuGaming / 20 fév. 2026] Pokémon Rouge Feu et Vert Feuille ressortent sur Switch, mais à prix coûtant → https://actugaming.net/--781032
+
+### Esoteric Ebb
+» 🇫🇷 [ActuGaming / 26 fév. 2026] Esoteric Ebb : Le C-RPG fantasy de Christoffer Bodegard (Raft, Gori: Cuddly Carnage) et Raw Fury sortira le 3 mars sur PC → https://actugaming.net/--782307
+
+### Marvel's Wolverine
+» 🇺🇸 [Kotaku / 24 fév. 2026] Marvel’s Wolverine reveals fall release date with plenty of distance from GTA 6. 2026 is shaping up to be a big year for PS5 exclusives → https://kotaku.com/--2000673283
+» 🇫🇷 [ActuGaming / 24 fév. 2026] Sans fanfare, Insomniac Games annonce la date de sortie de Marvel’s Wolverine, le jeu sortira mi-septembre → https://actugaming.net/--781554
+
+### He-Man and the Masters of the Universe: Dragon Pearl of Destruction
+» He-Man and the Masters of the Universe: Dragon Pearl of Destruction, le 28 avril 2026 sur Switch, PlayStation, Xbox et PC / Steam ; édité par Limited Run Games, développé par Bitmap Bureau → https://s.team/a/3749580
+» 🇫🇷 [Gamekult / 27 fév. 2026] Le jeu Musclor : He-Man and the Masters of the Universe débarquera en avril → https://cutt.ly/NtEieRRS
+
+### Scott Pilgrim EX
+» Scott Pilgrim EX, le 3 mars 2026 sur Switch 1 & 2, PlayStation 4 & 5, Xbox One & Series et PC / Steam Deck ; développé par Tribute Games → https://scottpilgrimex.com | https://s.team/a/2640950
+» 🇫🇷 [Gamekult / 17 fév. 2026] La démo jouable de Scott Pilgrim EX est disponible sur Steam → https://cutt.ly/9tEitydr
+
+### Warner Bros Discovery
+» 🇺🇸 [IGN / 31 oct. 2025] Netflix 'actively' exploring bid for Warner Bros. Discovery, new report claims → https://cutt.ly/Wr5VuK7g
+» 🇫🇷 [IGN France / 31 oct. 2025] Netflix étudie "activement" la possibilité de faire une offre pour acheter Warner Bros. Discovery → https://cutt.ly/Vr5Vu6Ps
+» 🇫🇷 [ActuGaming / 31 oct. 2025] Netflix serait en lice pour racheter le groupe Warner Bros Discovery → https://actugaming.net/--767828
+
+» 🇺🇸 [Warner Bros Discovery / 17 déc. 2025] Warner Bros. Discovery board of directors unanimously recommends shareholders reject Paramount tender offer → https://cutt.ly/ZtaIVUcG
+» 🇺🇸 [Games Industry / 17 déc. 2025] Warner Bros. Discovery advises shareholders to reject Paramount Skydance takeover bid. "The terms of the Netflix merger are superior," the board says → https://cutt.ly/8taIC9TO
+
+» 🇺🇸 [Ars Technica / 7 jan. 2025] Warner Bros. sticks with Netflix merger, calls Paramount’s $108B bid “illusory”. Larry Ellison pledged $40B, but “he didn’t raise the price,” Warner chair says → https://cutt.ly/othCaoH2
+» 🇫🇷 [ActuGaming / 8 jan. 2026] Le conseil d’administration de Warner Bros rejette l’OPA hostile de Skydance, toujours dans l’idée d’aller chez Netflix → https://actugaming.net/--775106
+
+» 🇺🇸 [Games Industry / 12 jan. 2026] Paramount sues Warner Bros. Discovery for details of its deal with Netflix. "WBD has provided increasingly novel reasons for avoiding a transaction with Paramount," said Paramount CEO → https://cutt.ly/EtkqD6yL
+
+» 🇺🇸 [Variety / 26 fév. 2026] Warner Bros. Discovery leaders talk ‘stunning’ film studio revival, a ‘reset year’ for gaming and discovery global cable spinoff plans → https://cutt.ly/ptW8FZHr
+» 🇫🇷 [ActuGaming / 26 fév. 2026] Warner Bros Games promet le retour de ses grosses licences en 2027-2028, Hogwarts Legacy 2 en vue ? → https://actugaming.net/--782412
+
+» 🇺🇸 [Hollywood Reporter / 24 fév. 2026] Warner Bros. board warms to Paramount’s sweetened bid, new details are revealed. Paramount has upped its offer to $31 per share and said it will pay a $7 billion regulatory termination if the transaction does not close due to regulatory matters → https://cutt.ly/ItEqLtlu
+» 🇺🇸 [Netflix / 26 fév. 2026] Netflix declines to raise offer for Warner Bros → https://cutt.ly/2tW4iemN
+» 🇫🇷 [Gamekult / 27 fév. 2026] Warner Bros : dans un nouveau revirement de situation, Paramount prend l’avantage sur Netflix pour le rachat. Netflix pas enclin à surenchérir → https://cutt.ly/CtEqKeLY
+
+### Nacon
+» 🇫🇷 [BigBen / 20 fév. 2026] BigBen annonce la suspension temporaire du cours de ses actions sur Euronext Paris et de ses obligations sur Euronext Access Paris → https://cutt.ly/0tQPB2EW (PDF)
+» 🇫🇷 [Nacon / 20 fév. 2026] Nacon annonce la suspension temporaire du cours de ses actions sur Euronext Paris → https://cutt.ly/EtQPByJb (PDF)
+» 🇫🇷 [Gamekult / 20 fév. 2026] Abandonnés par les banques, Bigben et Nacon suspendent le cours de leurs actions → https://cutt.ly/1tQP2zFh
+» 🇫🇷 [ActuGaming / 20 fév. 2026] Nacon suspend temporairement son action en Bourse suite aux problèmes financiers de Bigben Interactive → https://actugaming.net/--781120
+
+» cf. la Mardinale
+
+### Marathon
+» 🇺🇸 [Kotaku / 12 fév. 2026] Bungie’s Marathon will be free to try during a server slam ahead of launch. The open beta weekend coincides with the Steam Next Fest → https://kotaku.com/--2000668383
+» 🇫🇷 [ActuGaming / 13 fév. 2026] Marathon sera jouable avant sa sortie grâce à une dernière période d’essai → https://actugaming.net/--779949
+
+### Horizon Hunters Gathering
+» 🇺🇸 [Kotaku / 24 fév. 2026] Horizon multiplayer game gets surprise playtest the same weekend as Marathon server slam. Two upcoming Sony live-service games have competing betas for some reason → https://kotaku.com/--2000673261
+» 🇫🇷 [ActuGaming / 24 fév. 2026] La première bêta de Horizon Hunters Gathering aura lieu du 27 février au 1er mars, en même tant que Marathon → https://actugaming.net/--781561
+
+### Spellcasters Chronicles
+» 🇫🇷 [ActuGaming / 27 fév. 2026] Le jeu multijoueur de Quantic Dream, Spellcasters Chronicles, se lance timidement en accès anticipé → https://actugaming.net/--782572
+
+
+## Jeux
+
+### Denshattack!
+» Denshattack! annoncé pour 2026 sur PlayStation 5, Xbox Series et PC / Steam Deck ; développé par Fireshine Games, développé par Undercoders → https://s.team/a/2524850
+
+- annoncé pour 2026 sur PlayStation 5, Xbox Series et PC / Steam Deck
+- développé par Fireshine Games, développé par Undercoders, studio espagnol 🇪🇸 derrière Conga Master (2016), SuperEpic: The Entertainment War (2019), Mail Mole + 'Xpress Deliveries (2021), Treasures of the Aegean (2021), Superola Champion Edition (2022), Koa and the Five Pirates of Mara (2023), Retro Mystery Club Vol.1: The Ise-Shima Case (2023), Retro Revengers (2023), Retro Mystery Club Vol.2: The Beppu Case (2024) → https://undercoders.com
+
+🎮 page PlayStation (<https://cutt.ly/TtEniTcE>) et Xbox (<https://cutt.ly/RtEni2VL>)
+💻️ démo sur Steam (<https://s.team/a/2524850>)
+
+### Carmageddon: Rogue Shift
+» Carmageddon: Rogue Shift, sorti le 6 fév. 2026 à 40 € sur Switch 2, PlayStation 5, Xbox Series et PC / Steam Deck ; développé par 34BigThings, studio italien 🇮🇹 derrière Redout (2015), Mars or Die! (2018), Goat of Duty (2019), Redout: Space Assault (2021), Redout 2 (2022), Gomorrah (2023) → https://playcarmageddon.com
+
+- sorti le 6 fév. 2026 sur Switch 2, PlayStation 5, Xbox Series et PC / Steam Deck
+- développé par 34BigThings, studio italien 🇮🇹 derrière Redout (2015), Mars or Die! (2018), Goat of Duty (2019), Redout: Space Assault (2021), Redout 2 (2022), Gomorrah (2023) → https://34bigthings.com/ | https://playcarmageddon.com
+
+🎮 40 € sur Switch (<https://cutt.ly/ttEepRUk>), PlayStation (<https://cutt.ly/ttEehATq>) et Xbox (<https://cutt.ly/NtEehBYp>)
+💻️ 40 € sur Steam (<https://s.team/a/1712100>)
+
+### Resident Evil Requiem
+» Resident Evil Requiem, sorti le 27 fév. 2026 à 80 € sur Switch 2, PlayStation 5, Xbox Series et à 70 €  sur PC / Steam Deck ; développé par Capcom → https://residentevil.com/requiem
+
+- sorti le 27 fév. 2026 sur Switch 2, PlayStation 5, Xbox Series et PC / Steam Deck
+- développé par Capcom
+- réalisé par Koshi Nakanishi, direction artistique par Tomonori Takano, écriture par Haris Orkin, musiques par Nao Sato, Masahiro Ohki et Shigeyuki Kameda
+
+🎮 80 € sur Switch (<https://cutt.ly/otEewBA4>), PlayStation (<https://cutt.ly/VtEw8vMI>) et Xbox (< et Xbox (<https://cutt.ly/4tEeeSeI>)
+💻️ 70 € sur Steam (<https://s.team/a/3764200>)
+
+» 🇯🇵 [Automaton Media / 27 jan. 2026] 『バイオハザード レクイエム』はCERO Z国内版の表現も「頑張ってる」。怖さ追求したら“逆に面白くなった”新ゾンビの苦労など、裏話いろいろ開発者インタビュー. 『バイオハザード レクイエム』ディレクター・中西晃史氏へのメディア合同インタビューの模様をお届けする。→ https://cutt.ly/etcgBh2R
+» 🇺🇸 [Automaton Media / 27 jan. 2026] Resident Evil Requiem pushes the limits of its age rating in Japan, but it’s not gory just for the sake of it, director says. Resident Evil Requiem director Koshi Nakanishi on why the game will be releasing only as a CERO Z title in Japan → https://cutt.ly/AtcgVLhZ
+» 🇺🇸 [Automaton Media / 27 jan. 2026] Resident Evil Requiem’s Leon Kennedy became a “hot uncle” thanks to hawk-eyed female Capcom staff who reviewed “even the finest wrinkles on his neck,” director says. In a recent interview, Resident Evil Requiem director Koshi Nakanishi talked more about how the "ikeoji" Leon Kennedy design came to be → https://cutt.ly/rtcgBQgY
+» 🇫🇷 [Gamekult / 31 jan. 2026] Si Leon S. Kennedy est le "tonton sexy" de ces dames, ce n'est pas pour rien. Leon S. Kennedy est devenu une icone sexy, et c'est grâce aux femmes de chez Capcom → https://cutt.ly/ltvyhDRV
+
+## Mais pas que
+### Kévin
+» L’Histoire de Mother Naked, 256 p., par Glenn James Brown, traduction par Claire Charrier, paru en sept. 2025 aux Éditions du typhon, 22 € en édition papier (ISBN 978-2-490501-70-0) → https://leseditionsdutyphon.com/all-collections/apres-la-tempete/l-histoire-de-mother-naked
+
+### Gauthier
+» The Last Ship — Le spectacle musical de Sting, du 18 février au 08 mars 2026 à la Seine musicale → https://www.laseinemusicale.com/spectacles-concerts/the-last-ship-sting/
+
+### Florian
+» Brisby et le Secret de NIMH (1982), 82 min, réalisé par Don Bluth, écriture par Don Bluth, Robert C. O'Brien, Will Finn, Gary Goldman, John Pomeroy, musiques par Jerry Goldsmith
+
+raids : OrigaTwitch => (15:32)[+330] At0mium (terminé à 16:13)
 
 
 
