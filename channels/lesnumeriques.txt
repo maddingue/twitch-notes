@@ -14052,6 +14052,24 @@ raids : LesNumeriques => (13:31)[+146] JM_Star_Lord [Venusisnaive=>(16:12)+83] (
 => (<04:22) Aishuu [Lezard_Joyeux=>(05:36)+5] [PianistMiri=>05:46)+212] (terminé à 06:35)
 
 
+--------------------------------------
+2026-03-06
+
+» 🇫🇷 [FactorNews] Capcom Spotlight du 05/03/2026 : le résumé → https://factornews.com/article/--51804.html
+» 🇫🇷 [IGN France / 5 mars 2026] Oui, Clair Obscur: Expedition 33 a encore tout raflé (ou presque) aux Pégases 2026. Le jeu de Sandfall Interactive a une fois encore pris (presque) toute la lumière → https://cutt.ly/NtRHzQq2
+» 🇫🇷 [Gamekult] Slay The Spire 2 explose les compteurs et devient le roguelite le plus joué de l'histoire de Steam → https://gamekult.com/actualite/--3050868835.html
+» 🇫🇷 [Gamekult] Après un troisième opus décevant, le studio de Killing Floor licencie → https://gamekult.com/actualite/--3050868818.html
+» 🇫🇷 [Gamekult] Control Resonant fait le plein de détails. La suite de Control veut éviter le piège du monde ouvert → https://gamekult.com/actualite/--3050868814.html
+» 🇫🇷 [Gamekult] Après Sony, chez Xbox aussi on veut que l'IA finisse vos jeux à votre place. À deux doigts d'inventer le streaming assisté par IA → https://gamekult.com/actualite/--3050868806.html
+» 🇫🇷 [Gamekult] Ubisoft confirme enfin le remake d'Assassin's Creed : Black Flag et le projet multi Assassin's Creed Invictus → https://gamekult.com/actualite/--3050868805.html
+» 🇫🇷 [Gamekult] Project Helix : la prochaine « console » Xbox a un nom de code et un logo → https://gamekult.com/actualite/--3050868830.html
+» 🇫🇷 [Gamekult] Marathon détaille son modèle saisonnier, sans extensions ni DLC → https://gamekult.com/actualite/-3050868786.html
+
+raids entrants :
+- DazJDM à 13:15 +264
+
+raids : LesNumeriques => (13:31)[+225] OrigaTwitch [Modiiie(15:34)+376] => (15:43)[+691) DollyWood_ (terminé à 19:15)
+
 
 
 » ▶️ [YouTube] 
