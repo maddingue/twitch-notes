@@ -19539,6 +19539,209 @@ raids :
 raids : OrigaTwitch => (15:43)[+691) DollyWood_ (terminé à 19:15)
 
 
+
+--------------------------------------
+2026-03-11
+
+# Mardinale #79
+## Actus
+### NetEase lâche Nagoshi Studio
+» 🇺🇸 [Bloomberg / 7 mars 2026] NetEase to stop funding Nagoshi Studio as it cuts back on gaming → https://cutt.ly/xtYq5MaV
+» 🇺🇸 [Kotaku / 7 mars 2026] Yakuza creator’s Gang of Dragon game reportedly in danger as NetEase unexpectedly cuts funding. Toshihiro Nagoshi’s post-Sega crime epic needs legal tender, fast → https://kotaku.com/--2000676967
+» 🇫🇷 [Gamekult / 7 mars 2026] NetEase coupe le financement du studio dirigé par Toshihiro Nagoshi → https://cutt.ly/StYq76ud
+» 🇬🇧 [Games Industry / 9 mars 2026] NetEase cuts funding to Gang of Dragon dev Nagoshi Studio. Decision reportedly made after "at least ¥7 billion more would be needed" to finish development on debut title, say sources → https://cutt.ly/DtYq6g0Z
+
+### Battlefield 6 a vendu comme jamais donc EA licencie
+» 🇺🇸 [IGN / 9 mars 2026] EA lays off staff across all Battlefield studios following record-breaking Battlefield 6 launch. Battlefield 6 was the best-selling game in the U.S. in 2025 → https://cutt.ly/JtYwtcj3
+» 🇫🇷 [IGN France / 9 mars 2026] Malgré le lancement record de Battlefield 6, EA licencie du personnel dans tous les Battlefield Studios. Battlefield 6 a été l'un des jeux les plus vendus en 2025 → https://cutt.ly/4tYwr4FP
+» 🇬🇧 [Games Industry / 9 mars 2026] Electronic Arts is laying off workers at the Battlefield 6 studios. "We’ve made select changes within our Battlefield organization to better align our teams around what matters most to our community" → https://cutt.ly/3tYwrcHn
+» 🇺🇸 [Kotaku / 7 mars 2026] Battlefield 6, the best-selling game of 2025, hit with layoffs. EA is reportedly laying off developers across the various studios that worked on the first-person shooter → https://kotaku.com/--2000677258
+» 🇫🇷 [Gamekult / 9 mars 2026] Après le succès colossal de Battlefield 6, Electronic Arts licencie des employés dans tous les studios. Vous êtes remerciés pour votre travail → https://cutt.ly/GtYwrUBe
+
+» fil de discussion 💬
+
+### Taxes US : Nintendo attaque l'administration Trump en justice
+» 🇺🇸 [Aftermath / 6 mars 2026] Nintendo suing U.S. government over tariffs. Nintendo filed a lawsuit in the United States Court of International Trade → https://cutt.ly/EtYwu2Rm
+» 🇺🇸 [Kotaku / 6 mars 2026] Nintendo suing United States govt. over Trump tariffs. The Mario company wants its money back with interest according to a newly filed lawsuit → https://kotaku.com/--2000676696
+» 🇺🇸 [Game Developer / 6 mars 2026] Nintendo sues US government over Trump administration tariffs. Nintendo filed the complaint in the U.S. Court of International Trade today → https://cutt.ly/ftYwiopN
+» 🇬🇧 [PCMag UK / 6 mars 2026] Nintendo sues US government, demands full tariff refund plus interest. Nintendo's lawsuit appears to be one of hundreds filed in recent weeks demanding tariff refunds. However, IT troubles are preventing a federal agency from issuing refunds quickly → https://cutt.ly/jtYwopMY
+» 🇫🇷 [Gamekult / 7 mars 2026] Nintendo lance des poursuites contre le gouvernement américain et demande un remboursement. Rendez moi mon argent → https://cutt.ly/etYwoW2u
+» 🇬🇧 [Games Industry / 9 mars 2026] Nintendo of America sues US government over tariffs. Platform holder is seeking refunds for the "initiation and administration of unlawful trade measures" last year → https://cutt.ly/7tYwiQdH
+
+» fil de discussion 💬
+
+### COD, Mortal Kombat et Halo dans la propagande US sur l'Iran
+» 🇺🇸 [Hollywood Reporter / 6 mars 2026] Ben Stiller asks White House to remove ‘Tropic Thunder’ from Iran war propaganda video. The actor-director objected to his hit comedy being included in a new video: "War is not a movie." → https://cutt.ly/TtYwbzE2
+» 🇫🇷 [LeHuffPost / 7 mars 2026] Ben Stiller indigné par cette vidéo de la Maison Blanche utilisant un extrait de son film. L’exécutif américain a publié une vidéo de propagande mélangeant images de guerre et extraits de films, dont « Tonnerre sous les tropiques ». → https://cutt.ly/atYwbLQ7
+
+» 🇫🇷 [France Info / 8 mars 2026] Guerre au Moyen-Orient : la Maison Blanche transforme la guerre en blockbuster → https://cutt.ly/etYwb2Wq
+» 🇫🇷 [France Info / 9 mars 2026] "La guerre n'est pas un jeu vidéo" : les réactions consternées à la campagne de communication de la Maison Blanche sur la guerre au Moyen-Orient. Ces derniers jours, des clips utilisant des musiques festives ou des images de jeu vidéo mettant en scène l'intervention américaine en Iran se multiplient sur les réseaux sociaux de l'administration Trump. Une communication jugée douteuse, voire "écœurante". → https://cutt.ly/RtYwnqRM
+
+» 🇬🇧 [The Independant / 9 mars 2026] Voice actor from Halo video game tells Trump team to cut him from White House clips celebrating Iran strikes: ‘Juvenile war porn’. ‘I demand that the producers of this disgusting and juvenile war porn remove my voice immediately,’ Steve Downes, voice of Master Chief, says → https://cutt.ly/RtYwd2bs
+» 🇺🇸 [Associated Press / 10 mars 2026] White House war promo videos marry action movies, sports and video games to real-life combat footage → https://cutt.ly/ktYwp5UE
+
+### Bonnes nouvelles chez Velan
+» 🇬🇧 [Games Industry / 5 mars 2026] Mario Kart Live: Home Circuit dev Velan Studios opens office in Toronto. Studio hiring for hybrid and onsite positions at new location and headquarters in Troy, New York → https://cutt.ly/jtYwf4oF
+
+### L'Académie Clair Obscur, Sandfall et les avocats
+» 𝕏 [X / Olivier Gay / 6 mars 2026] 🧵 https://x.com/0liviergay/status/2029908026769957358
+> IMPORTANT
+> Je viens de recevoir un courrier d'avocat de la part du jeu CLAIR OBSCUR @expedition33 de Sandfall Interactive, qui me somme d'arrêter de vendre ma BD éditée chez Drakoo intitulée Académie Clair-Obscur, censée surfer sur le succès incontestable du jeu.
+> […]
+
+» 𝕏 [X / Olivier Gay / 9 mars 2026] 🧵 https://x.com/0liviergay/status/2031015193409413404
+> Pour ceux qui voulaient savoir la suite de cette histoire, les fondateurs du Studio nous ont contacté directement, et j’espère que nous allons trouver une solution qui conviendrait à tout le monde !
+> (Plus bas, remerciements et preuves de bonne foi 😁) (1/15)
+> […]
+
+» 𝕏 [X / Sandfall Interactive / 9 mars 2026] 🧵 https://x.com/SandfallGames/status/2031022213437046832
+> Bonjour tout le monde, on a vu les discussions, merci de nous avoir remonté la situation.
+> On est en contact avec la maison d'édition et Olivier pour trouver une solution juste pour tout le monde.
+
+» 𝕏 [X / Sandfall Interactive / 10 mars 2026] 🧵 https://x.com/SandfallGames/status/2031420115032441261
+> Bonjour à toutes et tous, désolés d’avoir traîné à communiquer sur le sujet. La situation initiée par les représentants juridiques de notre studio était nouvelle pour nous et complexe à gérer. Nous voulions nous assurer de pouvoir en discuter avec toutes les parties prenantes pour être sûrs de comprendre ce qu’il se passait avant de partager des informations avec vous.
+> Sandfall travaillait à retirer les demandes de notre représentant légal, ce qui est maintenant fait. Leur rôle est de nous protéger notamment contre les produits contrefaits, mais l'action initiée envers la bande dessinée « L’Académie Clair-Obscur » parue en janvier 2026 ne nous correspond pas.
+> Nous avons toujours voulu soutenir les artistes et encourager la créativité, et c’est l’une des valeurs les plus importantes que nous voulons défendre à Sandfall.
+> On souhaite plein de succès à Olivier et Grelin pour leur bande dessinée ! 🖌️
+
+» 🇺🇸 [Kotaku / 7 mars 2026] Fantasy author who platinumed Clair Obscur: Expedition 33 says the studio is now trying to kill his graphic novel. Olivier Gay’s latest comic uses similar French turn of phrase as its title → https://kotaku.com/--2000676981
+
+» fil de discussion 💬
+
+### Capcom ne veut pas de comédiens syndiqués sur Mega Man
+» 🇺🇸 [SAG-AFTRA / 9 mars 2026] Do not work order - 'Mega Man: Dual Override' → https://cutt.ly/MtYwzd44
+
+» 🦋 [BlueSky / Ben Diskin / 10 mars 2026] 🧵 https://bsky.app/profile/bendiskin.bsky.social/post/3mgptqfghgc2y
+> With a broken Blue Bomber heart, I am no longer the voice of Mega Man.
+> I was asked to return for Mega Man: Dual Override, but only on the condition I work without the protections of a union contract.
+> […]
+
+» 🇺🇸 [IGN / 11 mars 2026] Mega Man voice actor won't return for Dual Override as Capcom reportedly won't hire him with 'the protections of a union contract'. "I need a union contract to feel safe." → https://cutt.ly/EtYwzIiY
+» 🇫🇷 [IGN France / 11 mars 2026] Le comédien de doublage de Mega Man ne reprendra pas du service pour Dual Override, Capcom a refusé de l'embaucher avec "les protections d'une convention collective". "J'ai besoin d'une convention collective pour me sentir en sécurité." → https://cutt.ly/vtYwzHdS
+» 🇺🇸 [Game Developer / 11 mars 2026] Capcom accused of ditching union contracts on Mega Man: Dual Override. Performer union SAG-AFTRA has told members to avoid working on the title because the Japanese publisher will not provide union terms → https://cutt.ly/3tYwl1qw
+
+» fil de discussion 💬
+
+
+
+--------------------------------------
+2026-03-13
+
+# Wishlist
+
+» ChainStaff, le 8 avril 2026 sur Switch, PlayStation, Xbox, Windows, Mac et Steam Deck, démo disponible ; développé par Mommy's Best Games, studio derrière Serious Sam Double D XXL (2011), Weapon of Choice DX (2015), Shoot 1UP DX (2015), Explosionade DX (2015), Game Type DX (2015), Pig Eat Ball (2018), Bumpy Grumpy (2024) → https://s.team/a/2976260
+
+» People of Note, le 7 avril 2026 sur Switch 2, PlayStation 5, Xbox Series et PC / Steam Deck ; édité par Annapurna Interactive, développé par Iridium Studios, studio derrière There Came an Echo (2015) → https://playiridium.com | https://s.team/a/1626170
+sondage, votre avis sur People of Note : yeah baby, dans Wishlist! 25% (2) | encore un peu de répète 25% (2) | pas mon groove 50% (4)
+
+» Go! Go! Mister Chickums, le 2 avril 2026 sur PC / Steam Deck, démo disponible, aussi prévu pour consoles ; développé par com8com1, studio derrière Rigid Force Alpha (2018), Blooshed (2025) → https://s.team/a/2436810 | https://www.com8com1.com/games/go-go-mister-chickums/
+sondage, votre avis sur Go! Go! Mister Chickums : 🥚 eggcellent ! dans Wishlist 62% (8) | 🥚 pas d'omelette 15% (2) | 🥚 allergique aux œufs 23% (3)
+
+raids entrants :
+- CanardPC à 13:24 +247
+
+
+# L'Hebdo #97
+
+## Actus
+### Origami
+» ▶️ [Patreon] Quoi de Vieux ? ️Rayman est trentenaire, Legacy of Kain dans la hype, Night Striker Gear → https://patreon.com/posts/152618413
+» ▶️ [YouTube] Quoi de Vieux ? ️Rayman est trentenaire, Legacy of Kain dans la hype, Night Striker Gear → https://youtu.be/uaipljsF1Yw
+» ▶️ [YouTube] La Mercredinale — Nagoshi Studio menacé ; cure minceur chez EA ; Capcom et MegaMan n'aiment pas les syndicats → https://youtu.be/jg14H2TMAA4
+» 🎧 [Patreon] La Bien Séance — Scott Pilgrim vs The World → https://patreon.com/posts/152866980
+
+### La semaine
+» 🇫🇷 [Gamekult / 11 mars 2026] Super Mario Bros. Wonder sur Switch 2 dégaine ses dernières nouveautés avant sa sortie → https://cutt.ly/2tYV5hG5
+
+» 🇫🇷 [Gamekult / 12 mars 2026] Pokémon Pokopia : 2,2 millions de ventes en seulement quatre jours → https://cutt.ly/OtYV55ie
+» 🇫🇷 [Gamekult / 12 mars 2026] Pokémon Pokopia va avoir le droit à plusieurs améliorations → https://cutt.ly/EtYV6syU
+
+» 🇫🇷 [Gamekult / 10 mars 2026] Metal Gear Solid Delta : Snake Eater franchit le cap des 2 millions de ventes → https://cutt.ly/qtYV6HLZ
+
+» 🇫🇷 [Gamekult / 12 mars 2026] Fortnite : le mode Save the World passe en free-to-play dès le mois prochain → https://cutt.ly/YtYBqiW7
+
+» Animalkind, en anticipé à partir du 30 mars 2026 sur PC / Steam Deck ; développé par Uncommon Game, studio états-unien 🇺🇸 → https://animalkind.gg | https://s.team/a/2997840
+
+» Amberspire, le 6 mai 2026 sur PC / Steam Deck ; édité par Bithell Games, développé par Lunar Division, studio derrière The Banished Vault (2023) → https://lunardivision.net/amberspire/ | https://s.team/a/3350750
+
+» Yoshi and the Mysterious Book, le 21 mai 2026 sur Switch 2 ; développé par Nintendo → https://cutt.ly/mtYBbAco
+
+» 🇫🇷 [Gamekult / 15 mars 2026] South Of Midnight fera vibrer le sud des USA sur Switch 2 et PS5 dès la fin du mois → https://cutt.ly/qtYBQ4vQ
+
+### Future Games Show
+» ▶️ [YouTube] Future Games Show: Spring Showcase 2026 → https://youtu.be/iJQzdmAWyR4
+
+» ReVamp, annoncé sur PC ; développé par Digital Sun, studio espagnol 🇪🇸 derrière Moonlighter (2018), The Mageseeker: a League of Legends Story (2023), Cataclismo (2025), Moonlighter 2: The Endless Vault (2025) → https://s.team/a/3295000
+
+» Project Shadowglass, annoncé sur PC ; développé par Starhelm Studios → https://s.team/a/3970690 | https://shadowglassgame.com
+
+### PEGI
+» 🇬🇧 [Games Industry / 12 mars 2026] Games with loot boxes will be rated PEGI 16 from June, as part of sweeping changes to the age-rating system. PEGI director Dirk Bosmans explains why the European body is rethinking how it rates games, taking into account "online interactive risks" such as battle passes and login streaks → https://cutt.ly/DtYn8ocT
+» 🇬🇧 [Games Industry / 12 mars 2026] PEGI's loot box rule changes are welcome, but they should be retrospective. Because the new rule only applies to newly submitted titles, the biggest and most popular games with loot boxes will escape being subject to PEGI's higher age rating → https://cutt.ly/rtYn4QLx
+» 🇫🇷 [Gamekult / 12 mars 2026] PEGI serre la vis aux lootboxes : maintenant, ce sera noté PEGI 16 automatiquement → https://cutt.ly/ctYn99v2
+
+### Heroes of Might and Magic: Olden Era
+» 🇫🇷 [Gamekult / 5 fév. 2026] Heroes of Might and Magic : Olden Era présente sa refonte de la faction Necropolis → https://cutt.ly/UtYn7U1C
+» 🇫🇷 [Gamekult / 9 mars 2026] Heroes of Might & Magic : Olden Era - L’interface, les unités et le confort de jeu passent par la case refonte → https://cutt.ly/itYn70ju
+
+## Jeux
+
+### Solasta II
+» Solasta II, en accès anticipé depuis le 12 mars 2026 à 40 € sur PC / Steam Deck ; développé par Tactical Adventures → https://s.team/a/2975950 | https://solasta-game.com
+
+- en accès anticipé depuis le 12 mars 2026 sur PC / Steam Deck
+- édité par Kepler Interactive, développé par Tactical Adventures, studio français 🇫🇷 derrière Solasta: Crown of the Magister (2021) → https://solasta-game.com | https://tactical-adventures.com
+
+💻️ 40 € sur Steam (<https://s.team/a/2975950>)
+
+### Monster Hunter Stories 3: Twisted Reflection
+» Monster Hunter Stories 3: Twisted Reflection, sorti le 13 mars 2026 à 70 € ou + sur Switch 2, PlayStation 5, Xbox Series et PC → https://monsterhunter.com/stories3/ | https://s.team/a/2852190
+
+- sorti le 13 mars 2026 sur Switch 2, PlayStation 5, Xbox Series et PC
+- développé par Capcom → https://monsterhunter.com/stories3/
+- réalisé par Kenji Oguro
+
+🎮 70 € ou + sur Switch (<https://cutt.ly/2tYjiTYp>), PlayStation (<https://cutt.ly/wtYjiMj1>) et Xbox (<https://cutt.ly/ntYjoaKN>), démo disponible
+💻️ 70 € ou + sur Steam (<https://s.team/a/2852190>), démo disponible
+
+### Marathon
+» Marathon, sorti le 5 mars 2026 à 40 € ou + sur PlayStation 5, Xbox Series et PC ; développé par Bungie → https://marathonthegame.com | https://s.team/a/3065800
+
+- sorti le 5 mars 2026 sur PlayStation 5, Xbox Series et PC
+- développé par Bungie, studio états-unien 🇺🇸 de plus de 800 personnes derrière la série de  jeux Marathon (1994, 1995, 1996), Myth (1997, 1998), Halo (2001, 2004, 2007, 2009, 2010), Destiny (2014, 2017), ainsi que Pathways into Darkness (1993), Oni (2001) → https://bungie.net | https://marathonthegame.com
+- réalisé par Joe Ziegler, direction artistique par Joseph Cross, musiques par Ryan Lott
+
+🎮 40 € ou + sur PlayStation (<https://cutt.ly/JtYh0pUp>) et Xbox (<https://cutt.ly/utYh0lNE>)
+💻️ 40 € ou + sur Steam (<https://s.team/a/3065800>)
+
+» 🇺🇸 [Kotaku / 15 mai 2025] Artist shocked to find her poster designs from 2017 in Bungie's Marathon: 'a major company has deemed it easier to pay a designer to imitate or steal my work than to write me an email'. The sci-fi shooter's visual design language is one of its most distinctive features → https://kotaku.com/n-1851780911
+» 🇺🇸 [Washington Post / 16 mai 2025] Artist accuses PlayStation game of lifting her work; studio admits to ‘oversight’. Bungie, the studio behind the Halo series that is now owned by Sony, said it is investigating concerns over the “unauthorized use” of the artist’s work. → https://cutt.ly/yrxbVg8w
+» 🇫🇷 [ActuGaming / 16 mai 2025] Marathon : Bungie semble avoir récupéré sans consentement le travail d’une artiste pour la direction artistique de son FPS multi → https://actugaming.net/a-727251
+» 🇫🇷 [Gamekult / 16 mai 2025] Marathon : Bungie reconnaît (encore) un cas de plagiat dans la direction artistique → https://cutt.ly/rrxbDPj8
+
+» 🇺🇸 [Game Developer / 3 déc. 2025] Marathon stolen art assets issue 'solved' with Bungie and Sony. Months after Bungie confirmed the use of stolen assets and apologized publicly, graphic designer 'Antireal' says the situation has been solved → https://cutt.ly/ctuAJALW
+» 🇺🇸 [Kotaku / 2 déc. 2025] Artist at the center of Marathon’s plagiarism scandal says Bungie has made things right. The artist took to X to announce that the issue was settled satisfactorily → https://kotaku.com/--2000649685
+
+» Antireal → https://antireal.info
+
+» Cyber Painter → https://cyberpainter.art | https://instagram.com/ssvid/ | https://youtube.com/@Cyberpainter
+
+### Slay the Spire 2
+» Slay the Spire 2, en accès anticipé depuis le 5 mars 2026 à 23 € sur Windows, Mac, Linux et Steam Deck ; développé par Megacrit → https://s.team/a/2868840
+
+- en accès anticipé depuis le 5 mars 2026 sur PC / Steam Deck
+- développé par Megacrit, studio indé états-unien 🇺🇸 basé à Seattle, derrière Slay the Spire (2019) → https://megacrit.com
+- réalisé par Casey Yano, Anthony Giovannetti, Danielle Jenkins, direction artistique par Marlowe Dobbe, animation par Chris Gortz, musiques par Clark Aboud
+
+💻️ 23 € sur Steam (<https://s.team/a/2868840>)
+
+## Mais pas que
+### Kévin
+» 📘 Astra Nova, 174 p., par Lisa Blumen, publié le 17 mars 2023 chez l'Employé du Moi, 24 € en édition papier (ISBN 978-2-39004-102-3), 8 € en version numérique → https://employe-du-moi.org/Astra-Nova-Lisa-Blumen
+
+
+
+
 » fil de discussion 💬
 » 📄 
 » 🇺🇸 
@@ -19557,7 +19760,7 @@ raids : OrigaTwitch => (15:43)[+691) DollyWood_ (terminé à 19:15)
 » 🇬🇧 [VGC] 
 » 🇺🇸 [IGN] 
 » 🇺🇸 [Gematsu] 
-» 🇺🇸 [Games Industry] 
+» 🇬🇧 [Games Industry] 
 » 🇺🇸 [Game Developer] 
 » 🇺🇸 [Kotaku] 
 » 🇬🇧 [Eurogamer] 
