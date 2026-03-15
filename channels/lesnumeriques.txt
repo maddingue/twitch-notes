@@ -14071,6 +14071,55 @@ raids entrants :
 raids : LesNumeriques => (13:31)[+225] OrigaTwitch [Modiiie(15:34)+376] => (15:43)[+691) DollyWood_ (terminé à 19:15)
 
 
+--------------------------------------
+2026-03-12
+
+» 🇫🇷 [Les Numériques] Nvidia date le lancement du Dynamic Multi Frame Gen X6 avec Quake III RTX Demo en prime → https://lesnumeriques.com/informatique/--n252753.html
+» 🇫🇷 [Les Numériques] Pilote Nvidia GeForce 595.71 : support du DLSS 4 et correctif urgent pour les ventilateurs → https://lesnumeriques.com/carte-graphique/-n252235.html
+» 🇫🇷 [Hardware & co] Crimson Desert dévoile plein de configurations pour PC, Mac et consoles → https://hardwareand.co/actualites/breves/crimson-desert-devoile-plein-de-configurations-pour-pc-mac-et-consoles
+» 🇫🇷 [Les Numériques] Crise de la RAM : l'entrée de gamme disparaîtra en 2028, les PC et smartphones pas chers en fin de vie → https://lesnumeriques.com/informatique/-n252289.html
+» 🇫🇷 [Les Numériques] Honor dévoile son MagicBook Pro 14 : Intel Panther Lake et batterie record de 92 Wh → https://lesnumeriques.com/ordinateur-portable/-n252222.html
+» 🇫🇷 [Les Numériques] Lenovo ThinkBook Modular AI PC Concept : le PC portable à écran et ports interchangeables dévoilé au MWC 2026 → https://lesnumeriques.com/ordinateur-portable/-n252271.html
+» 🇫🇷 [Les Numériques] Lenovo dévoile le Legion Go Fold, une console hybride à écran pliable → https://lesnumeriques.com/console-jeu-portable/-n252266.html
+» 🇫🇷 [Les Numériques] Intel Core Ultra 200S Plus : prix agressifs et optimisation pour contrer la concurrence → https://lesnumeriques.com/cpu-processeur/-n252828.html
+» 🇫🇷 [Les Numériques] Nvidia GeForce RTX 5050 : une version 9 Go de GDDR7 en préparation → https://lesnumeriques.com/carte-graphique/-n252700.html
+
+» 🇫🇷 [Les Numériques] Test Apple MacBook Air M5 (2026) ⭐⭐⭐⭐⭐ le roi des ultraportables creuse encore l'écart → https://www.lesnumeriques.com/ordinateur-portable/apple-macbook-air-13-pouces-m5-p77888/test.html
+» 🇫🇷 [Les Numériques] Apple M5 Pro/M5 Max : tout savoir sur la nouvelle Fusion Architecture et les Super Cores → https://lesnumeriques.com/cpu-processeur/-n252297.html
+» 🇫🇷 [Les Numériques] Test Apple MacBook Pro 14 (M5 Pro) ⭐⭐⭐⭐⭐ le bourreau de travail par excellence → https://www.lesnumeriques.com/ordinateur-portable/apple-macbook-pro-14-m5-pro-p77833/test.html
+» 🇫🇷 [Les Numériques] Test Apple MacBook Neo ⭐⭐⭐ l'ultraportable en parfaite porte d'entrée de l'écosystème macOS → https://www.lesnumeriques.com/ordinateur-portable/apple-macbook-neo-p77961/test.html
+» 🇫🇷 [Les Numériques] MacBook Neo : 4 concessions majeures d'Apple pour un prix sous les 700 € → https://lesnumeriques.com/ordinateur-portable/-n252357.html
+
+raids : LesNumeriques => (13:45)[+97] Hiuuugs => (15:43) rafcarlito (termin à 18:10)
+
+
+--------------------------------------
+2026-03-13
+
+» 🇫🇷 [Gamekult] "C'était surréaliste" : le créateur d'Overwatch balance les méthodes de chantage chez Blizzard → https://gamekult.com/actualite/-3050868958.html
+» 🇫🇷 [Gamekult] Yoshi and the Mysterious Book trouve sa date de sortie sur Switch 2 → https://gamekult.com/actualite/-3050868910.html
+» 🇫🇷 [Gamekult] Crimson Desert détaille ses modes graphiques sur consoles, PC et Mac à quelques jours de sa sortie → https://gamekult.com/actualite/-3050868915.html
+» 🇫🇷 [Gamekult] Entre Denuvo sur PC et une connexion obligatoire au lancement sur PS5, Crimson Desert fait grincer des dents → https://gamekult.com/actualite/-3050868974.html
+» 🇫🇷 [Gamekult] PEGI serre la vis aux lootboxes : maintenant, ce sera noté PEGI 16 automatiquement → https://gamekult.com/actualite/-3050868960.html
+» 🇫🇷 [Gamekult] Seconde attaque en justice liée aux loot boxes pour Valve en moins d'un mois → https://gamekult.com/actualite/-3050868966.html
+» 🇫🇷 [Gamekult] Steam : un quart des jeux sortis sur la plateforme ont récolté plus de 100 000 dollars → https://gamekult.com/actualite/-3050868951.html
+» 🇫🇷 [Gamekult] Dark Messiah of Might and Magic s'apprête à revivre grâce à une édition communautaire officielle, avec l'accord d'Ubisoft et le soutien de Valve → https://gamekult.com/actualite/-3050868929.html
+» 🇫🇷 [Gamekult] Fortnite : Epic augmente le prix des V-bucks pour « aider à payer les factures » → https://gamekult.com/actualite/-3050868924.html
+» 🇫🇷 [Gamekult] Project Helix : la prochaine machine Xbox veut « faire tomber les barrières entre console et PC » → https://gamekult.com/actualite/-3050868948.html
+» 🇫🇷 [Gamekult] Microsoft arrête les publicités « This is an Xbox » → https://gamekult.com/actualite/-3050868962.html
+» 🇫🇷 [Gamekult] NetEase coupe le financement du studio dirigé par Toshihiro Nagoshi → https://gamekult.com/actualite/-3050868856.html
+» 🇫🇷 [Gamekult / 7 mars 2026] Nintendo lance des poursuites contre le gouvernement américain et demande un remboursement. Rendez moi mon argent → https://cutt.ly/etYwoW2u
+» 🇫🇷 [Gamekult / 9 mars 2026] Après le succès colossal de Battlefield 6, Electronic Arts licencie des employés dans tous les studios. Vous êtes remerciés pour votre travail → https://cutt.ly/GtYwrUBe
+» 🇫🇷 [Gamekult] Little Nightmares VR : Altered Echoes sera la vraie suite de Little Nightmares 2 → https://gamekult.com/actualite/-3050868977.html
+» 🇫🇷 [Gamekult] Bravely Default: Flying Fairy HD Remaster arrive sur Xbox et PC → https://gamekult.com/actualite/-3050868973.html
+» 🇫🇷 [Gamekult] Hotel Barcelona : le roguelite de Swery65 fait peau neuve dans la mise à jour 2.0 → https://gamekult.com/actualite/-3050868816.html
+» 🇫🇷 [Gamekult] Test : Esoteric Ebb, c'est Disco Elysium qui rencontre Donjons & Dragons, 8/10 par Cael → https://www.gamekult.com/jeux/esoteric-ebb-3050889155/test.html
+» 🇫🇷 [Gamekult] Pourquoi John Carpenter's Toxic Commando n'aura pas de test (on s'est ennuyés sec) → https://gamekult.com/actualite/-3050868947.html
+
+raids : LesNumeriques => (13:37)[+148] MonPetitPC (>16:30) => (17:40) nico_oni (>18:00) => (<21:49) Super_Bulle (samedi) => (01:46)[+104] Morrigh4n (terminé à 05:10)
+
+
+
 
 » ▶️ [YouTube] 
 » 🐦 [Twitter] 
