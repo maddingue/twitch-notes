@@ -19741,6 +19741,70 @@ raids entrants :
 
 
 
+--------------------------------------
+2026-03-19
+
+# Mardinale #80
+## Actus
+### Nvidia dévoile son très controversé DLSS 5
+» 🇺🇸 [Nvidia / 16 mars 2026] NVIDIA DLSS 5 delivers AI-powered breakthrough in visual fidelity for games → https://cutt.ly/8tIrPdlG
+
+» ▶️ [YouTube / Digital Foundry / 16 mars 2026] Hands-on with DLSS 5: our first look at Nvidia's next-gen photo-realistic lighting → https://youtu.be/4ZlwTtgbgVA (16 min)
+
+» 🇺🇸 [Kotaku / 16 mars 2026] New Nvidia DLSS tech gives characters AI slop faces. Finally, all your video games can look terrible and artificial → https://kotaku.com/--2000679199
+» 🇫🇷 [Gamekult / 17 mars 2026] Le DLSS 5.0 veut faire entrer hollywood et l'IA slop dans vos jeux → https://cutt.ly/QtIrUAqx
+» 🇫🇷 [Gamekult / 17 mars 2026] Avec le DLSS 5, Nvidia veut imposer le réalisme moche de la Silicon Valley à toute l'industrie → https://cutt.ly/3tIrWkO5
+» 🇫🇷 [Gamekult / 18 mars 2026] « Ils ont complètement tort » : le PDG de Nvidia déraille et répond aux critiques sur le DLSS 5 → https://cutt.ly/2tIrEshw
+» 🇫🇷 [Gamekult / 19 mars 2026] Polémique du DLSS 5 : Ubisoft et Capcom n'ont pas prévenu leurs développeurs, selon une enquête. Qui a validé la yassification de Grace ? → https://cutt.ly/3tIrQ8WH
+
+» ▶️ [YouTube / Digital Foundry / 19 mars 2026] DF Direct Q+A: The big DLSS 5 ML debate + why we should have waited with our coverage → https://youtu.be/5dTTfjBAFzc (55 min)
+
+» ▶️ [YouTube / Gamers Nexus / 19 mars 2026] Nvidia says you're "completely wrong" about DLSS 5 being slop → https://youtu.be/H1a8YEOlpeY (31 min)
+
+### Subnautica : la justice oblige le PDG à rembaucher le PDG d'Unknown Worlds
+» 🇺🇸 [Kotaku / 15 mars 2026] Judge orders Subnautica 2 studio CEO fired by Krafton to be reinstated and gives him full control over early access Steam launch. Krafton is 'enjoined' from firing Ted Gill as part of a new court order → https://kotaku.com/--2000679131
+» 🇺🇸 [Game Developer / 16 mars 2026] Krafton loses lawsuit, is ordered to reinstate ousted Unknown Worlds CEO. A Delaware Court of Chancery judge has declared that Krafton breached its transaction agreement with the founders and CEO of Unknown Worlds → https://cutt.ly/etIr0aau
+» 🇺🇸 [Kotaku / 16 mars 2026] Subnautica 2 publisher followed ChatGPT’s advice on how to break the law. A judge has explained how the CEO of Krafton relied on an AI chatbot for legal advice and planning → https://kotaku.com/--2000679155
+» 🇫🇷 [Gamekult / 17 mars 2026] Subnautica 2 : la juge donne tort à Krafton, qui doit réintégrer le PDG du studio. Krafton a perdu sur toute la ligne → https://cutt.ly/NtIrRN79
+
+» 🇬🇧 [PC Gamer / 18 mars 2026] Subnautica 2 set for early access release in May as Krafton signals surrender: 'We look forward to working with Ted Gill to support a smooth transition and work toward a successful launch'. A judge ruled yesterday that Krafton improperly fired Gill in 2025, and ordered that he be restored as CEO of Unknown Worlds → https://cutt.ly/7tIrTIkQ
+» 🇫🇷 [Gamekult / 18 mars 2025] Malgré les déboires judiciaires, Subnautica 2 vise une sortie en accès anticipé en mai → https://cutt.ly/1tIrEXRc
+
+### Krafton signe un deal à 1 milliard dans la défense militaire par IA
+» 🇺🇸 [Krafton / 17 mars 2026] Krafton and Hanwha Aerospace announce strategic alliance on physical AI → https://cutt.ly/StIrnYVB
+» 🇺🇸 [Game Developer / 17 mars 2026] Krafton to invest $1 billion into South Korean defense company partnered with the U.S. navy. The publisher has partnered with precision-guided munitions specialist Hanwha Aerospace → https://cutt.ly/CtIrb8FV
+
+### IA générative et Tomb Raider : Aspyr fait le doublé
+» 🇺🇸 [Kotaku / 16 mars 2026] Fans are furious after a Tomb Raider Remastered patch gives Lara Slop outfits. The new costumes are half-finished, seemingly melting, or just plain terrible → https://kotaku.com/--2000679054
+» 🇺🇸 [Kotaku / 19 mars 2026] Tomb Raider publisher denies using AI for Lara’s outfits, which leaves more questions. If genAI isn't to blame, then what is? → https://kotaku.com/--2000680266
+» 🇬🇧 [PC Gamer / 19 mars 2026] Tomb Raider Remastered studio denies using generative AI in latest update, says fixes for bugs and 'texture issues' are on the way. The Challenge Mode update released for Tomb Raider 1-3 Remastered last week has gone over very poorly → https://cutt.ly/MtIrm0FS
+
+### ARC Raiders : les doublages par IA vont être humanisés
+» 🇺🇸 [Game Developer / 13 mars 2026] Embark Studios head Patrick Söderlund explains how Arc Raiders was made on "a quarter of the budget" of a AAA title. "Very little of it is AI. A lot of it is reconfiguring … old ways of working" → https://cutt.ly/ptIrHaSX
+
+### IO Interactive lâche MindsEye pour de bon
+» 🇺🇸 [Game Developer / 18 mars 2026] IOI Partners no longer wants anything to do with MindsEye. The Danish company has concluded its publishing deal with embattled MindsEye developer Build A Rocket Boy → https://cutt.ly/jtIrBs5q
+» 🇫🇷 [Gamekult / 18 mars 2025] MindsEye : IO Interactive jette l'éponge, le crossover Hitman à la poubelle → https://cutt.ly/GtIrT4Ah
+
+### Starfield : arrivée sur PS5, DLC, et fix attendus trop longtemps
+» 🇺🇸 [Kotaku / 17 mars 2026] Starfield’s next big update adds more reason to travel through space. The space RPG's next free major update is Free Lanes & its next paid expansion is Terran Armada → https://kotaku.com/--2000679594
+» 🇫🇷 [Gamekult / 17 mars 2025] Starfield : Bethesda en plein mea culpa spatial avec le DLC Terran Armada, l'update Free Lanes et l'arrivée sur PS5. Avec une refonte du vol spatial et un gros morceau narratif → https://cutt.ly/mtIrJxmU
+
+### Remedy organise une retraite saine pour FBC Firebreak
+» 🇺🇸 [Game Developer / 18 mars 2026] Remedy releases final major update for underperforming shooter FBC: Firebreak. The cooperative shooter launched in June 2025 but has struggled to attract and retain players → https://cutt.ly/VtIrBK3i
+» 🇫🇷 [Gamekult / 18 mars 2025] Remedy met déjà fin au suivi de FBC : Firebreak avec une ultime grosse mise à jour → https://cutt.ly/stIrHJcG
+
+### Après Slitterhead, Bokeh Games va continuer
+» 🇺🇸 [Automaton Media / 13 mars 2026] Silent Hill and Siren creator Keiichiro Toyama’s game studio is recruiting for a new “large-scale project”. Bokeh Game Studio, headed by Silent Hill and Siren series creator Keiichiro Toyama, is looking to upsize as it works on a major new title → https://cutt.ly/etIrFvAK
+» 🇫🇷 [Gamekult / 17 mars 2025] Bokeh Game Studio : après Slitterhead, Keiichiro Toyama recrute déjà pour son prochain cauchemar, pour un "projet à grande échelle" → https://cutt.ly/LtIrP8Th
+
+
+
+» 🎧 [Patreon] Conf’ 2 Rédac’ — Excusez moi je vais tousser → https://patreon.com/posts/153182382
+» ▶️ [YouTube] La Jeudinale — DLSS 5 : tout le monde en slop avec Nvidia ! → https://youtu.be/232W_M68bVg
+
+
+
 
 » fil de discussion 💬
 » 📄 
