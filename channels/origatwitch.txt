@@ -19747,12 +19747,12 @@ raids entrants :
 # Mardinale #80
 ## Actus
 ### Nvidia dévoile son très controversé DLSS 5
-» 🇺🇸 [Nvidia / 16 mars 2026] NVIDIA DLSS 5 delivers AI-powered breakthrough in visual fidelity for games → https://cutt.ly/8tIrPdlG
+» 🇺🇸 [Nvidia / 16 mars 2026] Nvidia DLSS 5 delivers AI-powered breakthrough in visual fidelity for games → https://cutt.ly/8tIrPdlG
 
 » ▶️ [YouTube / Digital Foundry / 16 mars 2026] Hands-on with DLSS 5: our first look at Nvidia's next-gen photo-realistic lighting → https://youtu.be/4ZlwTtgbgVA (16 min)
 
 » 🇺🇸 [Kotaku / 16 mars 2026] New Nvidia DLSS tech gives characters AI slop faces. Finally, all your video games can look terrible and artificial → https://kotaku.com/--2000679199
-» 🇫🇷 [Gamekult / 17 mars 2026] Le DLSS 5.0 veut faire entrer hollywood et l'IA slop dans vos jeux → https://cutt.ly/QtIrUAqx
+» 🇫🇷 [Gamekult / 17 mars 2026] Le DLSS 5.0 veut faire entrer Hollywood et l'IA slop dans vos jeux → https://cutt.ly/QtIrUAqx
 » 🇫🇷 [Gamekult / 17 mars 2026] Avec le DLSS 5, Nvidia veut imposer le réalisme moche de la Silicon Valley à toute l'industrie → https://cutt.ly/3tIrWkO5
 » 🇫🇷 [Gamekult / 18 mars 2026] « Ils ont complètement tort » : le PDG de Nvidia déraille et répond aux critiques sur le DLSS 5 → https://cutt.ly/2tIrEshw
 » 🇫🇷 [Gamekult / 19 mars 2026] Polémique du DLSS 5 : Ubisoft et Capcom n'ont pas prévenu leurs développeurs, selon une enquête. Qui a validé la yassification de Grace ? → https://cutt.ly/3tIrQ8WH
@@ -19800,10 +19800,85 @@ raids entrants :
 
 
 
+--------------------------------------
+2026-03-20
+
+# L'Hebdo #98
+
+## Actus
+### Origami
+» ▶️ [YouTube] 🧠 On se fait deviner des trucs (au KAZOO, notamment 🎺) → https://youtu.be/fBpJN6Tjfkw
 » 🎧 [Patreon] Conf’ 2 Rédac’ — Excusez moi je vais tousser → https://patreon.com/posts/153182382
 » ▶️ [YouTube] La Jeudinale — DLSS 5 : tout le monde en slop avec Nvidia ! → https://youtu.be/232W_M68bVg
+» 💌 [Origami] Infolettre — Annie Ernaux Nightcore → https://www.origami.ng/annie-ernaux-nightcore
 
+### La semaine
+» Deep Rock Galactic: Rogue Core, en accès anticipé le 20 mai 2026 sur PC / Steam Deck ; développé par Ghost Ship Games, studio danois 🇩🇰️ derrière Deep Rock Galactic (2020) → https://s.team/a/2605790 | https://ghostship.dk
 
+» Beyond Words, le 9 avr. 2026 sur Switch, PlayStation 5, Xbox Series, Windows, Mac et Steam Deck, démo disponible sur Steam ; édité par PQube, développé par MindFuel Games → https://s.team/a/3823370 | https://pqube.co.uk/games/beyond-words/
+
+» [Kickstarter] D.O.R.F. - Oldschool real-time strategy and base-builder — Gather the detritus of a ravaged world, construct sprawling spaces, and assemble huge armies to crush your enemies with → https://cutt.ly/qtIXjGpR
+
+» 🇫🇷 [Gamekult / 17 mars 2025] Starfield : Bethesda en plein mea culpa spatial avec le DLC Terran Armada, l'update Free Lanes et l'arrivée sur PS5. Avec une refonte du vol spatial et un gros morceau narratif → https://cutt.ly/mtIrJxmU
+
+» 🇬🇧 [Eurogamer / 18 mars 2026] Switch to get acclaimed eerie codebreaking game TR-49 very soon, and at a nice price → https://cutt.ly/FtIXv1Fg
+
+» ▶️ [YouTube / Kadokawa Anime / 16 mars 2026] 「Sekiro: no defeat」PV｜2026年劇場版全国公開 → https://youtu.be/y5MiWXKGVyc
+» ▶️ [YouTube / Crunchyroll / 16 mars 2026] Sekiro: No Defeat | Official trailer 2 | Crunchyroll → https://youtu.be/IanqpvZsp_s
+» 🇫🇷 [Gamekult / 15 mars 2026] L'animé Sekiro : No Defeat fait le plein de combats de boss mais aussi de doubleurs → https://cutt.ly/rtIXbERW
+
+» triple-i initiative, le 9 avr. 2026 → https://iii-initiative.com | https://youtube.com/@iii_initiative | https://twitch.tv/iii_initiative
+
+### Nvidia présente DLSS 5
+» ▶️ [YouTube] La Jeudinale — DLSS 5 : tout le monde en slop avec Nvidia ! → https://youtu.be/232W_M68bVg
+
+### The Sims 4
+» 🇺🇸 [IGN / 3 mars 2026] The Sims 4 will open an official marketplace to let content creators sell mods for a share of 'Moola' → https://cutt.ly/etIfTimF
+» 🇫🇷 [IGN France / 3 mars 2026] Les Sims 4 va proposer une plateforme officiel pour permettre aux créateurs de contenu de vendre des mods et de percevoir une part des revenus → https://cutt.ly/ytIfRY02
+» 🇬🇧 [Games Industry / 4 mars 2026] EA announces UGC marketplace for The Sims 4. Creators will receive 30% share of revenue from sales of content sold in-game → https://cutt.ly/5tIfTGjH
+» 🇺🇸 [Kotaku / 5 mars 2026] The Sims 4 chose a terrible time to roll out paid mods where EA keeps 70 percent of the money. As if players didn’t hate the game enough… → https://kotaku.com/--2000676260
+
+### Licencienments chez Ubisoft Red Storm
+» 🇬🇧 [Games Industry / 19 mars 2026] Ubisoft announces layoffs and the cease of game development at Red Storm Entertainment. The studio will remain open, but 105 people are being laid off as part of Ubisoft's cost reduction programme → https://cutt.ly/UtIfIiXq
+» 🇺🇸 [Game Developer / 19 mars 2026] Ubisoft ends game development at Red Storm and lays off 105 workers. The studio will continue operating in the form of global IT and Snowdrop engine support → https://cutt.ly/atIfGr7D
+» 🇫🇷 [Gamekult / 19 mars 2026] Ubisoft vire 105 personnes chez Red Storm (Rainbow Six, Ghost Recon) pour transformer le studio en unité de soutien → https://cutt.ly/ttIfOKcT
+
+### Vampire Crawlers: The Turbo Wildcard from Vampire Survivors
+» Vampire Crawlers: The Turbo Wildcard from Vampire Survivors, le 21 avr. 2026 sur Switch, PlayStation 4 & 5, Xbox Series et PC / Steam Deck, démo disponible ; développé par poncle → https://s.team/a/3265700
+
+## Jeux
+
+### Timberborn
+» Timberborn, sorti le 12 mars 2026 à 34 € sur Windows, Mac et Steam Deck ; développé par Mechanistry → https://mechanistry.com
+
+- sorti le 12 mars 2026 sur Windows, Mac et Steam Deck
+- après un accès anticipé commencé le 15 sept. 2021
+- développé par Mechanistry, studio polonais 🇵🇱 → https://mechanistry.com
+- réalisé par Bartłomiej Dawidów et Kamil Dawidów, musiques par Zofia Domaradzka
+
+💻️ 34 € sur Steam (<https://s.team/a/1062090>) et GOG (<https://cutt.ly/ntIo4SwR>)
+
+### Pokémon Pokopia
+» Pokémon Pokopia, sorti le 5 mars 2026 à 60 € sur Switch 2 ; édité par Nintendo, développé par Game Freak et Omega Force → https://pokopia.pokemon.com
+
+- sorti le 5 mars 2026 sur Switch 2
+- édité par Nintendo, développé par les studios japonais 🇯🇵 Game Freak et Omega Force → https://pokopia.pokemon.com
+- réalisé par Shigeru Ohmori et Takuto Edagawa, direction artistique par Marina Ayano, écriture par Masayo Taya, musiques par Hiromu Akaba et Jieun Kim
+
+🎮 60 € en grande distribution
+🎮 70 € sur eShop (<https://cutt.ly/UtIoVXku>)
+
+## Mais pas que
+### Florian
+» 🎦 Parasite (2019), 132 min, film cinéma écrit et réalisé par Bong Joon Ho, musiques par Jung Jae-il, avec Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong, Choi Woo-shik, Park So-dam, Jang Hye-jin
+
+### Médhi
+» Jour de Play, tous les mois sur Arte → https://twitch.tv/artefr
+- Jour de Play - Total Wooaaaaw, avec Pressea → https://twitch.tv/videos/2725633547
+
+» 🎙️ Le Cosy Corner → https://soundcloud.com/lecosycorner
+
+raids : OrigaTwitch => (15:11)[+470] Kokihiete => (16:46)[+137] ResidentMaiden (>17:30) => Did0us => (<23:28) FlavienAlexzander (23:32) => (<23:51) KiliraTV (samedi) (>01:20) (terminé avant 02:00)
 
 
 » fil de discussion 💬
