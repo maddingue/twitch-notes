@@ -19881,6 +19881,168 @@ raids entrants :
 raids : OrigaTwitch => (15:11)[+470] Kokihiete => (16:46)[+137] ResidentMaiden (>17:30) => Did0us => (<23:28) FlavienAlexzander (23:32) => (<23:51) KiliraTV (samedi) (>01:20) (terminé avant 02:00)
 
 
+
+--------------------------------------
+2026-03-25
+
+# Mardinale #81
+## Actus
+### Epic Games et Fortnite licencient 1000 personnes
+» 🇫🇷️ [Gamekult / 11 mars 2026] **Fortnite : Epic augmente le prix des V-bucks pour « aider à payer les factures ».** Décidément les temps, comme les œufs, sont durs → <https://cutt.ly/UtP9e7GN>
+
+» 🇺🇸 [Epic Games / 24 mars 2026] **Today’s layoffs** → <https://cutt.ly/JtPbDd53>
+» 🇫🇷️ [Gamekult / 24 mars 2026] **Fortnite sous le choc : Epic Games annonce les plus gros licenciements de son histoire.** Plus d'un millier de salariés vont s'en aller → <https://cutt.ly/FtPbS1QB>
+» 🇺🇸 [GameSpot / 25 mars 2026] **Fortnite layoffs included artist who designed Jonesy, the face of the game.** "It's been a wild ride. Lots of ups and downs," the artist wrote. → <https://cutt.ly/stPbFgwB>
+» 🇫🇷️ [IGN France / 25 mars 2026] **"Nos équipes vont devoir recoller les morceaux." — Le personnel restant de Fortnite est incapable de prévoir l'impact qu'auront les derniers licenciements sur le jeu à l'avenir.** "La suite s'annonce très difficile et ça fait mal." → <https://cutt.ly/OtPbSJvM>
+» 🇫🇷️ [Gamekult / 26 mars 2026] **Après les licenciements chez Epic Games, le futur de Fortnite s’annonce incertain** → <https://cutt.ly/gtPbSkWV>
+
+» 🇬🇧 [PC Gamer / 24 mars 2026] **Fortnite's new Peak skin costs almost 3 times as much as the indie game it's based on: 'That's actually a slap in the face to the Peak developers'.** I think I know what's a better deal → <https://cutt.ly/TtP9eANs>
+
+### Chez Nacon, plusieurs studios français menacés
+» 🦋 [BlueSky / Gautoz / 23 mars 2026] 🧵 <https://bsky.app/profile/gautoz.cool/post/3mhqj6vzx4c2q>
+> INFO Origami - La série noire continue chez Nacon, dont les trois plus gros studios de développement en France - Cyanide, Spiders et Kylotonn - sont en cessation de paiement et ont été placés en redressement judiciaire.
+> La mise en redressement de Cyanide touche également sa filiale bordelaise, BIG BAD WOLF, développeur de The Council qui travaille sur l'imminente sortie de Cthulhu: The Cosmic Abyss.
+> À eux quatre, les studios Cyanide, Spiders, Kylotonn et BIG BAD WOLF emploient un peu plus de 320 personnes, soit environ un tiers de l'effectif monde du groupe Nacon.
+> Les procédures seront assurées par le  tribunal de commerce de Lille, qui s'occupe déjà du redressement de la maison-mère.
+> […]
+
+» 🇫🇷️ [STJV / 24 mars 2026] **Redressement judiciaire de Kylotonn, Cyanide, Spiders et Nacon Tech : Nacon et les directions doivent assumer les conséquences de leurs propres actions** → <https://cutt.ly/AtPbn3SA>
+» 🇫🇷️ [Gamekult / 26 mars 2026] **Nacon : Spiders (Greedfall), Kylotonn (Test Drive) et Cyanide (Styx) placés en redressement judiciaire.** Encore une petite lueur d'espoir → <https://cutt.ly/htPbbQ7E>
+
+» 🇫🇷️ [Gamekult / 27 mars 2026] **Nacon dans la tourmente : Spiders (Greedfall) officiellement mis aux enchères.** Spiders, premier actif sacrifié pour la survie du groupe ? → <https://cutt.ly/NtPbv7Mm>
+
+### Incroyable, le DLSS 5 serait… juste un filtre 2D
+» ▶️ [YouTube / Daniel Owen / 19 mars 2026] **Nvidia answers my DLSS 5 questions → https://youtu.be/D0EM1vKt36s (22 min)
+» 🇺🇸 [IGN / 20 mars 2026] **Nvidia confirms DLSS 5 is re-drawing games, and that sucks** → <https://cutt.ly/4tP9o20g>
+» 🇬🇧 [PC Gamer / 20 mars 2026] **I really thought Nvidia's DLSS 5 was going to be smarter than this.** The latest details suggest a real disconnect between the ground truth of a game and the DLSS 5 layer → <https://cutt.ly/wtP9p5zk>
+» 🇬🇧 [Games Industry / 20 mars 2026] **Nvidia explique le fonctionnement du DLSS 5 (c'est... un filtre IA ?)** Non, attendez, ça ne peut pas être si nul → <https://cutt.ly/ctP9u8wE>
+» 🇬🇧 [Games Industry / 20 mars 2026] **The DLSS 5 backlash is not going away | Opinion**. This isn't knee-jerk outrage; Nvidia has sacrificed its gaming credentials to its strategic embrace of AI, and both consumers and developers hate the results → <https://cutt.ly/RtP9pTYJ>
+
+### Crimson Desert prix la main dans le pot d'IAgen
+» 🇫🇷️ [IGN France / 20 mars 2026] **Les joueurs de Crimson Desert pensent avoir découvert des illustrations générées par IA.** Ce n'est pas comme ça qu'on dessine un cheval ? → <https://cutt.ly/wtP9lk8q>
+» 🇺🇸 [PCGamesN / 22 mars 2026] **Pearl Abyss confirms Crimson Desert "unintentionally included" AI-generated assets, and promises to remove them.** Crimson Desert developer Pearl Abyss admits “experimental generative-AI tools” were used in early iteration, and should have been replaced. → <https://cutt.ly/ItP9zg0X>
+» 🇺🇸 [Game Developer / 23 mars 2026] **Pearl Abyss forgot to mention it used generative AI to create assets for Crimson Desert.** The studio has now pledged to conduct a 'comprehensive audit' to identify and remove all generative AI assets → <https://cutt.ly/NtP9sRvc>
+
+» 🇫🇷️ [Gamekult / 22 mars 2026] **Crimson Desert : témoignages accablants sur le développement chaotique du jeu de Pearl Abyss** → <https://cutt.ly/itP9epkL>
+» 🇺🇸 [GamingBold / 23 mars 2026] **Crimson Desert reportedly suffered from studio’s inverted hierarchy, bad leadership – rumor.** One alleged developer anonymously wrote about a game director's role allegedly being usurped by a general manager with an art background → <https://cutt.ly/0tP9czkC>
+
+### Crystal Dynamics dégrasse (pour la 5ème fois en 2 ans)
+» 🇬🇧 [Games Industry / 19 mars 2026] **Crystal Dynamics reduces workforce by 20 roles.** "While we always strive to transition people into new roles whenever possible, we have unfortunately reached a point where these departures are necessary," says developer → <https://cutt.ly/ItP9ygBy>
+» 🇫🇷️ [Gamekult / 20 mars 2026] **Crystal Dynamics : quatrième vague de licenciements en un an pour le studio de Tomb Raider** → <https://cutt.ly/ztP9y45a>
+
+### Ubisoft éviscère Red Storm, le studio Tom Clancy originel
+» 🇬🇧 [Games Industry / 19 mars 2026] **Ubisoft announces layoffs and the cease of game development at Red Storm Entertainment.** The studio will remain open, but 105 people are being laid off as part of Ubisoft's cost reduction programme → <https://cutt.ly/UtIfIiXq>
+» 🇺🇸 [Game Developer / 19 mars 2026] **Ubisoft ends game development at Red Storm and lays off 105 workers.** The studio will continue operating in the form of global IT and Snowdrop engine support → <https://cutt.ly/atIfGr7D>
+» 🇫🇷 [Gamekult / 19 mars 2026] **Ubisoft vire 105 personnes chez Red Storm (Rainbow Six, Ghost Recon) pour transformer le studio en unité de soutien** → <https://cutt.ly/ttIfOKcT>
+
+### PlayStation licencie et ferme un studio
+» 🇺🇸 [resetera / 24 mars 2026] **PlayStation to shutter Dark Outlaw Games** → <https://cutt.ly/RtPbLVnt>
+
+
+
+--------------------------------------
+2026-03-27
+
+# L'Hebdo #99
+
+## Actus
+### Origami
+» 🎧 [Patreon] Ori·Ori Gaiden #3 — Resident Evil → https://patreon.com/posts/153550177
+» ▶️ [YouTube] Super Vieux Jeux — Souvenirs de Peter Molyneux avec Raph → https://youtu.be/ZfrVgG7yRTE
+» 🎧 [Patreon] Catalogue Arrière — Elden Ring: Nightrein, avec Pierre William → https://patreon.com/posts/153736422
+» ▶️ [YouTube] Travailler dans le jeu vidéo est-il un cauchemar ? avec Flavie Falais → https://youtu.be/5ZPucDR4eRk
+» ▶️ [YouTube] La Mercredinale — Le petit outsider Fortnite vire 1000 personnes ; Cyanide, Spiders et Kylotonn sur la sellette ; de l'IA dans mon McDuff ?  → https://youtu.be/Jl8FiPtxkY4
+
+### La semaine
+» 🇫🇷 [Gamekult / 22 mars 2026] Sans prévenir, Mojang présente Minecraft Dungeons II, et ça arrive bientôt → https://cutt.ly/ltPvC5Ra
+
+» 🇺🇸 [Steam / Blight: Survival / 13 mars 2026] 1.5 million wishlists, thank you! → https://cutt.ly/ftPvBjK5
+
+» ▶️ [YouTube / Capcom / 5 mars 2026] Capcom Spotlight - March 2026 → https://youtu.be/8IchnyWVjiE
+
+» 🇫🇷 [Gamekult / 22 mars 2026] Square Enix collabore avec Google pour intégrer l'IA Gemini dans Dragon Quest X, à défaut de livrer le jeu chez nous → https://cutt.ly/AtPv1a1h
+
+» 🇫🇷 [Gamekult / 24 mars 2026] Pokémon Champions rentrera dans l'arène en avril 2026 (sur Switch uniquement) → https://cutt.ly/ctPv16Eb
+
+» 🇺🇸 [Steam / Cairn / 25 mars 2026] Thank you for 500,000 climbers! → https://cutt.ly/LtPv9iz2
+
+» 🇫🇷 [Gamekult / 24 mars 2026] Crimson Desert fête déjà ses 3 millions de ventes → https://cutt.ly/xtPv3aZq
+
+### The Expanse : Osiris Reborn
+» 🇬🇧 [Eurogamer / 26 mars 2026] Owlcat's Mass Effecty sci-fi game The Expanse: Osiris Reborn gets a release window, a closed beta date, and a Game Pass promise → https://cutt.ly/9tPv4Pxx
+» 🇬🇧 [Eurogamer / 26 mars 2026] "Everything in the final version will definitely 100% be human made" - But Owlcat says gen-AI is being used during The Expanse: Osiris Reborn development → https://cutt.ly/LtPv43sQ
+» 🇫🇷 [Gamekult / 26 mars 2026] The Expanse : Osiris Reborn explorera les étoiles au printemps 2027 → https://cutt.ly/JtPg6oMS
+
+### STALKER 2
+» 🇫🇷 [Gamekult / 27 mars 2026] Première extension majeure, STALKER 2 : Cost of Hope retourne au cœur de la centrale de Tchernobyl → https://cutt.ly/KtPhru5F
+
+### Grave Seasons
+» Grave Seasons, le 14 août 2026 sur PlayStation, Xbox et PC / Steam Deck ; édité par Blumhouse Gamer, développé par Perfect Garbage → https://blumhouse.com/games/grave-seasons | https://s.team/a/3255110
+
+### Super Meat Boy 3D
+» Super Meat Boy 3D, le 31 mars 2026 sur Switch 2, PlayStation 5, Xbox Series et PC / Steam Deck ; développé par Team Meat → http://supermeatboy.com | https://s.team/a/3288210
+
+### Forever Ago
+» Forever Ago, annoncé pour 2026 sur Switch 2, PlayStation 5, Xbox Series, PC / Steam Deck ; développé par Third Shift → https://forever-ago.com | https://s.team/a/1215940
+
+### Augmentation du prix des PlayStation 5
+» 🇫🇷 [PlayStation Blog / 27 mars 2026] Nouveau changement de prix pour la PS5, la PS5 Pro et le lecteur à distance PlayStation Portal. Prix effectifs à partir du 2 avril 2026 → https://cutt.ly/6tPjnZmC
+» 🇫🇷 [Gamekult / 27 mars 2026] Vous ne rêvez pas : les prix des consoles PS5 vont encore augmenter. La PS5 Digital Edition passe à 600 euros → https://cutt.ly/vtPjcwy3
+
+## Jeux
+
+### Nova Roma
+» Nova Roma, en accès anticipé à 30 € depuis le 26 mars 2026 sur PC / Steam Deck : développé par Lion Shield → https://s.team/a/2426530
+
+- en accès anticipé depuis le 26 mars 2026 sur PC / Steam Deck
+- version 1.0 dans au moins un an, à un prix supérieur
+- édité par Hooded Horse, développé par Lion Shield, studio derrière Kingdoms and Castles (2017) → https://lionshieldstudios.com
+
+💻️ 30 € sur Steam (<https://s.team/a/2426530>)
+
+### Screamer
+» Screamer, sorti le 26 mars 2026 à 70 € sur PlayStation 5, Xbox Series, à 60 € sur PC / Steam Deck ; développé par Milestone, studio italien derrière les jeux MotoGP, MXGP, Hot Wheels Unleashed, Ride → https://milestone.it | https://s.team/a/2814990
+
+- sorti le 26 mars 2026 sur PlayStation 5, Xbox Series et PC / Steam Deck
+- développé par Milestone, studio italien derrière les séries de jeux MotoGP, MXGP, Hot Wheels Unleashed, Ride → https://milestone.it
+
+🎮 70 € sur PlayStation (<https://cutt.ly/0tPhqaEc>) et Xbox (<https://cutt.ly/EtPgLBjN>)
+💻️ 60 € sur Steam (<https://s.team/a/2814990>)
+
+### Planet of Lana II
+» Planet of Lana II: Children of the Leaf, le 5 mars 2026 à 20 € sur Switch 1 & 2, PlayStation 4 & 5, Xbox Series et à 18 € sur PC / Steam Deck, démo disponible ; développé par Wishfully Studios → https://planetoflana.com | https://s.team/a/2997230
+
+- sorti le 5 mars 2026 sur Switch 1 & 2, PlayStation 4 & 5, Xbox Series et PC / Steam Deck
+- édité par Thunderful Publishing, développé par Wishfully Studios
+
+🎮 20 € sur Switch (<https://cutt.ly/utPhCWS0>), PlayStation (<https://cutt.ly/PtPg6DAL>), démo disponible
+🎮 20 € ou inclus dans le Game Pass sur Xbox (<https://cutt.ly/HtPhwILj>), démo disponible
+💻️ 20 € sur Steam (<https://s.team/a/2997230>), démo disponible
+
+» ▶️ [YouTube] 🕹️ Super Vieux Jeux — Une Histoire du Platformer Cinématique → https://youtu.be/WKXHWu7pJsE
+
+## Mais pas que
+### Kévin
+» 🎤 Yoa, chanteuse française → https://instagram.com/yoamusique | https://facebook.com/yoamusique
+- album La Favorite (jan. 2025) → https://panenkamusic.lnk.to/Yoa-LaFavorite | https://www.youtube.com/playlist?list=PLSgvPhNapaKjxxJ9XZ06dQQfG9rFp9cOF
+
+### Sylvain
+» 🎸 Omnipotent Youth Society / 万能青年旅店, groupe de rock chinois → https://site.douban.com/omnipotent/
+- albums : Omnipotent Youth Society / 万能青年旅店 (12 nov. 2010), Inside the Cable Temple / 冀西南林路行 (22 déc. 2020)
+
+### Kévin
+» 📘 Jeune Babylone, 416 p., par Lu Nei, traduction par Johanna Gayde, paru le 3 avril 2024 chez Actes Sud, 24 € en édition papier (ISBN 9782330189587), 18 € en édition numérique (ISBN 9782330190217) → https://actes-sud.fr/catalogue/jeune-babylone-017650
+
+excuses de sac :
+- ça m'échappe parce que je ne l'avais pas mis dans mon conducteur (Moguri, intro)
+- c'est pas qui devait présenter cet Hebdo à la base (Moguri, Nova Roma)
+- tu m'as tout foutu en l'air (Moguri, Mais pas que)
+
+raids entrants :
+- LesNumeriques à 13:51 +98
+
+
+
 » fil de discussion 💬
 » 📄 
 » 🇺🇸 
