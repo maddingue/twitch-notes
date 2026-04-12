@@ -20002,10 +20002,11 @@ raids : OrigaTwitch => (15:11)[+470] Kokihiete => (16:46)[+137] ResidentMaiden (
 💻️ 30 € sur Steam (<https://s.team/a/2426530>)
 
 ### Screamer
-» Screamer, sorti le 26 mars 2026 à 70 € sur PlayStation 5, Xbox Series, à 60 € sur PC / Steam Deck ; développé par Milestone, studio italien derrière les jeux MotoGP, MXGP, Hot Wheels Unleashed, Ride → https://milestone.it | https://s.team/a/2814990
+» Screamer, sorti le 26 mars 2026 à 70 € sur PlayStation 5, Xbox Series, à 60 € sur PC / Steam Deck ; développé par Milestone, studio italien 🇮🇹 derrière les jeux MotoGP, MXGP, Hot Wheels Unleashed, Ride → https://milestone.it | https://s.team/a/2814990
 
 - sorti le 26 mars 2026 sur PlayStation 5, Xbox Series et PC / Steam Deck
 - développé par Milestone, studio italien derrière les séries de jeux MotoGP, MXGP, Hot Wheels Unleashed, Ride → https://milestone.it
+- réalisé par Federico Cardini et Michele Caletti, direction artistique par Paolo Giannico et Federico Lorenzo Mattioli, écriture par Kerry Kazmierowicztrimm, musiques par Max Aruj
 
 🎮 70 € sur PlayStation (<https://cutt.ly/0tPhqaEc>) et Xbox (<https://cutt.ly/EtPgLBjN>)
 💻️ 60 € sur Steam (<https://s.team/a/2814990>)
@@ -20081,7 +20082,7 @@ raids entrants :
 » 🇫🇷 [Gamekult / 31 mars 2026] Cata chez Eidos-Montréal : plus d'une centaine de licenciements et départ du producteur de Deus Ex Human Revolution → https://cutt.ly/GtAL0q7S
 » 🇫🇷 [Gamekult / 1er avril 2026] Derrière les licenciements d'Eidos-Montréal se cacherait Wildlands, un jeu annulé après 7 ans de développement → https://cutt.ly/FtAL0WCf
 
-### Un an après Wanderstop, le sutdio Ivy Road ferme
+### Un an après Wanderstop, le studio Ivy Road ferme
 » 🇺🇸 [Game Developer / 30 mars 2026] Wanderstop developer Ivy Road is shutting down. 'We hope that you're inspired to create something of your own someday.' → https://cutt.ly/OtAafNBK
 » 🇫🇷 [Gamekult / 30 mars 2026] Ivy Road : clap de fin pour le studio des créateurs de Wanderstop → https://cutt.ly/ttAagyFF
 
@@ -20096,6 +20097,8 @@ raids entrants :
 
 --------------------------------------
 2026-04-02
+
+Wishlist
 
 » Helix: Descent N Ascent, le 21 mai 2026 sur Switch et PC / Steam Deck, démo disponible ; développé par Badass Mongoose, studio belge 🇧🇪, réalisé par Cedric De Muelenaere (direction artistique) et Gillian Sampont (développement) → https://s.team/a/2736370 | https://helixdescentnascent.com
 - sondage, votre avis sur Helix: Descent N Ascent : dans Wishlist 85% (11) | fo réfléchire 0% (0) | tro kompliké 15% (2)
@@ -20203,6 +20206,53 @@ raids entrants :
 suggestion de raids : CanardPC (Ellen découvre Outer Wilds) | DollyWood_ (sur Songs of Glimmerwick) | Kokihiete (rétro sur Marble) | Modiiie (sur Flotsam) | Jarm0u (sur Tunic)
 
 raids : OrigaTwitch => (15:27)[+533] CanardPC (terminé à 17:30)
+
+
+
+--------------------------------------
+2026-04-08
+
+# Mardinale #83
+## Actus
+### State of Decay 3 : alpha en mai et annonce... précipitée
+» ▶️ [YouTube / Sunny Games / 3 avril 2026] State of Decay 3 studio head reveals exclusive new details → https://youtu.be/HOkaGz7KBcw (48 min)
+» 🇺🇸 [Kotaku / 6 avril 2026] State Of Decay 3 trailer was basically fake as dev dashes fan hopes for zombie deer. A 2020 Xbox reveal trailer was a hype video for a game that didn't even sort of exist yet → https://kotaku.com/--2000685190
+» 🇫🇷 [Gamekult / 7 avril 2026] Quand State of Decay 3 a été annoncé, ce n'était encore qu'un document Word (c'est pour ça qu'il met une plombe) → https://cutt.ly/WtDLCDxc
+
+### Harcèlement, fraude et fichage : Halo Studios et Xbox mis en cause par un ex-cadre
+» 🇺🇸 [LinkedIn / Glenn Israel / 3 avril 2026] Post 1 of 2. Under the Revised Code of Washington Title 49, Chapter 44, Section 211, I allege the following […] → https://cutt.ly/ltDLLVAv
+» 🇺🇸 [LinkedIn / Glenn Israel / 3 avril 2026] Post 2 of 2. Given the number of people who have contacted me privately since my original post last October, I also strongly suspect the following […] → https://cutt.ly/VtDLZJeA
+» 🇺🇸 [Game Developer / 6 avril 2026] Former Halo Studios art director, other employees, accuse studio of harassment and retaliation. Longtime Halo artist Glenn Israel and other former Halo Studios workers say the company covered up harassment and bullying in the workplace → https://cutt.ly/4tDL4xl5
+» 🇫🇷 [Gamekult / 7 avril 2026] Accusé par son ancien directeur artistique, Halo Studios est à nouveau dans la tourmente. « Halo est synonyme de harcèlement et de représailles » → https://cutt.ly/BtDL6nGv
+
+### Stormgate va perdre son multijoueur... à cause de l'IA ?
+» 🇺🇸 [Polygon / 2 avril 2026] Steam game is losing its multiplayer after AI company buys servers. Stormgate developers are hoping to restore full functionality at some point, but are uncertain if it is possible → https://cutt.ly/rtDL22Qp
+» 🇺🇸 [Game Developer / 2 avril 2026] Stormgate rushing offline mode after losing server access to an AI company. The Stormgate team is attempting to patch an offline mode before the server provider pulls the plug at the end of April → https://cutt.ly/NtDL8R12
+» 🇫🇷 [Gamekult / 2 avril 2026] Stormgate (projet d'anciens de Blizzard) perd son multijoueur fin avril. Wildgate, Stormgate... On commence à voir des similitudes → https://cutt.ly/ltDL3oQc
+
+### Chez Take-Two, moins d'IA pour plus de genAI ?
+» 🇺🇸 [LinkedIn / Luke Dicken / 3 avril 2026] Folks, It’s truly disappointing that I have to share with you that my time with T2 - and that of my team - has come to an end → https://cutt.ly/wtDL2p7e
+» 🇺🇸 [Game Developer / 3 avril 2026] Take-Two lays off the head of AI and multiple team members. The head of AI at Take-Two says his time with the company has reportedly 'come to an end.' → https://cutt.ly/GtDL0syG
+» 🇫🇷 [Gamekult / 5 avril 2026] Take-Two Interactive (GTA 6) se sépare d'une de ses équipes IA → https://cutt.ly/ntDZtf2I
+» 🇬🇧 [Games Industry / 7 avril 2026] Take-Two Interactive reportedly lays off AI team. Former employee says decision was made following "shifting priorities from upper management" → https://cutt.ly/RtDL1FiY
+
+### L'abonnement Indie Pass veut ubériser le jeu indé
+» 🇬🇧 [Games Industry / 2 avril 2026] A Game Pass for indie games: meet Indie Pass, a $6.99-a-month subscription launching with 70 titles. Indie.io's Jess Mitchell says that the platform will help smaller creators with discoverability in an ever-busier games landscape → https://cutt.ly/KtDZw9WK
+» 🇫🇷 [Gamekult / 3 avril 2026] Indie Pass : l'abonnement à 7 euros par mois qui veut uberiser la scène indépendante, et ce sera lancé dès avril → https://cutt.ly/stDZqwY7
+
+### Le papa de Double Dragon, Yoshihisa Kishimoto, est décédé
+» 🇯🇵 [Famitsu / 6 avril 2026] 『熱血硬派くにおくん』ディレクターの岸本良久氏が逝去。『熱血高校ドッジボール部』『ダブルドラゴン』なども担当 → https://cutt.ly/1tDZoXb9
+» 𝕏 [X / Florent Gorges / 6 avril] 🧵 https://x.com/FlorentGorgesFR/status/2041105532522561653
+> Je suis abattu en apprenant le décès soudain de mon ami Yoshihisa Kishimoto, l'un des game designers les plus incroyables de l'histoire du JV. Il avait accepté que je devienne son biographe et c'était l'une des plus grandes fiertés de ma vie. Il va me manquer. Merci à lui. :(
+
+» 🇺🇸 [Kotaku / 6 avril 2026] Double Dragon, River City creator Yoshihisa Kishimoto passes away at 64. Inspired by his own troublemaking youth, Kishimoto’s arcade hit Renegade redefined video game beatdowns → https://kotaku.com/--2000685183
+» 🇫🇷 [Gamekult / 6 avril 2026] Yoshihisa Kishimoto : décès d'une légende de la bagarre (Double Dragon, Kunio-kun) → https://cutt.ly/9tDLGVSH
+» 🇺🇸 [Time Extension / 6 avril 2026] Double Dragon creator Yoshihisa Kishimoto has passed away. "I hope you will continue to enjoy my father's works" → https://cutt.ly/jtDLH7Rd
+» ▶️ [YouTube] Reportage Nolife — KISHIMOTO Yoshihisa (partie 1/4) → https://youtu.be/EWBpcZcAVvo (8 min)
+» ▶️ [YouTube] Road Avenger (Sega CD) Intro → https://youtu.be/eeUMXwMrZGk (3 min)
+
+### Le studio Tower Five (les Fourmis) renaît sous le nom AARISE
+» 🇺🇸 [LinkedIn / AARISE / 7 avril 2026] New Game Plus mode activated. We’re back with a fresh perspective → https://cutt.ly/AtDL7373
 
 
 
