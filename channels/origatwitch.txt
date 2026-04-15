@@ -20304,6 +20304,88 @@ raids : OrigaTwitch => (15:27)[+533] CanardPC (terminé à 17:30)
 
 
 
+
+--------------------------------------
+2026-04-15
+
+# Mardinale #83
+## Actus
+### Krafton n'éditerait plus Subnautica 2 ?
+» 🇬🇧 [Eurogamer / 14 avril 2026] Subnautica 2 Steam change suggests Krafton might be out as its publisher following long legal battle and reinstatement of studio leader → https://cutt.ly/utGDLXxV
+» 🇫🇷 [Gamekult / 14 avril 2026] Subnautica 2 : énième rebondissement, Krafton n'éditerait plus le titre d'Unknown Worlds → https://cutt.ly/CtGDKXTG
+
+### Un film d'animation Bloodborne en préparation
+» 🇺🇸 [Variety / 14 avril 2026] ‘Bloodborne’ video game getting R-rated animated movie adaptation from Sony → https://cutt.ly/itGDV2dH
+» 🇺🇸 [Kotaku / 14 avril 2026] Bloodborne fans are confused about why Sony put a YouTuber in charge of an R-rated animated movie adaptation. Sony's R-rated animated Bloodborne film announcement isn't landing with fans, seemingly due to FromSoftware's lack of involvement → https://kotaku.com/--2000687470
+» 🇫🇷 [Gamekult / 14 avril 2026] Puisque le remaster tant attendu ne vient pas, Bloodborne aura d'abord droit à une adaptation animée au cinéma → https://cutt.ly/htGDBlxb
+» fil de discussion 💬
+
+### Amazon étouffe Luna, son service de cloud gaming
+» 🇬🇧 [PC Mag UK / 10 avril 2026] In latest pivot, Amazon Luna to drop game purchases, third-party stores. The change is angering users who bought titles on Luna, which lets you stream games on a laptop or TV. But Amazon says it's 'continuing to invest in a broad range of gaming experiences.' → https://cutt.ly/PtGD1wlf
+» 🇬🇧 [Games Industry / 13 avril 2026] Amazon Luna to phase out support for third-party subscriptions and game stores. From June 10, standard or premium subscriptions will be required to access games in the Luna library → https://cutt.ly/UtGDMyHi
+» 🇺🇸 [Game Developer / 14 avril 2026] Amazon is downscaling cloud video game service Luna. Previously purchased titles will stop working on June 10 without refunds → https://cutt.ly/ctGD1DEq
+» fil de discussion 💬
+
+### Dans les coulisses des VF annulées ou repoussées de Microsoft
+» 🇬🇧 [Eurogamer / 14 avril 2026] Bethesda acknowledges Starfield's PS5 crashing issues, promises hotfix soon. The lunar, the better → https://cutt.ly/TtGD7eVE
+» 🇫🇷 [Gamekult / 14 avril 2026] Starfield : plantages à répétition sur PS5, Bethesda prépare un correctif. Dans l'espace, personne ne vous entendra planter → https://cutt.ly/qtGD8Cog
+
+» 🇫🇷 [Gamekult / 11 avril 2026] Starfield : le DLC Terran Armada s'attire les foudre du public francophone à cause de l'absence des voix françaises → https://cutt.ly/ktGFrc4P
+
+» 🇫🇷 [JeuxOnline / 7 nov. 2025] Les doublages français absents de la deuxième partie des Saisons du Culte du Ver → https://cutt.ly/ltGFwBSV
+
+» 🇫🇷 [ActuGaming / 23 jan. 2026] Xbox confirme que Forza Horizon 6 n’aura pas droit à des doublages français → https://actugaming.net/--776940
+» 🇫🇷 [Xboxygen / 23 jan. 2026] Forza Horizon 6 déçoit déjà les fans français : pas de voix FR pour la première fois dans la série → https://cutt.ly/PtGFtru0
+» 🇫🇷 [JVC / 28 jan. 2026] Pourquoi Forza Horizon 6 n'a pas de voix françaises pour le moment ? Microsoft nous a donné la réponse → https://cutt.ly/ntGFtxCB
+
+» 🇫🇷 [Frandroid / 11 fév. 2026] World of Warcraft change ses voix et provoque la colère de ses joueurs → https://cutt.ly/ptGFyMgx
+» 🇫🇷 [Mamytwink / 11 fév. 2026] Défendre les voix françaises face à l’ère de l’intelligence artificielle → https://cutt.ly/ztGD65yk
+» 🇫🇷 [Millenium / 12 fév. 2026] WoW : Les joueurs français sont en colères suite à la décision de Blizzard de changer les voix des personnages → https://cutt.ly/HtGD6xf1
+
+» 🇫🇷 [Sénat] Présomption d'utilisation des contenus culturels par les fournisseurs d'IA → https://cutt.ly/CtGFxScv
+» 🇫🇷 [Sénat] Proposition de loi relative à l'instauration d'une présomption d'exploitation des contenus culturels par les fournisseurs d'intelligence artificielle → https://cutt.ly/atGFcehC
+
+» 🗳️ [les Voix] TouchePasMaVF : Pour un doublage créé par des humains pour des humains → https://cutt.ly/qrNl0CD7
+» 🗳️ [Change.org] Pour un doublage créé par des humains pour des humains #TouchePasMaVF → https://cutt.ly/YrNl2dbB
+
+### Gunzilla, entre NFT et impayés
+» 🇬🇧 [Games Industry / 9 avril 2026] Off the Grid maker and Game Informer owner Gunzilla Games accused of missing staff salary payments. Current and former staff allege months of payroll problems → https://cutt.ly/ktGFvgDD
+» 🇺🇸 [Game Developer / 9 avril 2026] Off The Grid developer Gunzilla accused of failing to pay employees. One worker who claimed to be impacted described the issue as 'systemic' and said Gunzilla leadership were aware of the problem but failed to act → https://cutt.ly/rtGD2syj
+» 🇫🇷 [Gamekult / 9 avril 2026] Off The Grid : le studio de Neill Blomkamp (District 9) ne paierait plus ses employés → https://cutt.ly/rtGD0c6e
+
+» 𝕏 [X / Vlad Korolev / 9 avril 2026] 🧵 https://cutt.ly/JtGFmSKs
+> While people who have never played OTG and have never built a business sit and spread FUD to farm a few views — targeting the biggest web3 game ever created, a game that represents not only itself but the entire web3 gaming industry in front of traditional gaming — we will keep building for the millions of players who actually love our product. […]
+
+### Nova Assembly, enseigne chypriote pour jeux russes
+» 🇬🇧 [GamesMarkt / 9 avril 2026] Contractors accuse Gunzilla of not paying them for months. A range of LinkedIn posts from former contractors for Gunzilla Frankfurt accuse the company of not paying their salaries for months. Sources from the Ukrainian subsidiary meanwhile told GamesMarkt that the issue runs deeper. CEO Korolev denies the claims. → https://cutt.ly/PtGFn6UZ
+» 🇬🇧 [Games Industry / 9 avril 2026] Five studios form developer-led holding Nova Assembly. Group consists of Unfrozen, Sad Cat Studios, VEA Games, Weappy, and Game Garden → https://cutt.ly/xtGFoEnp
+» 🇫🇷 [Gamekult / 10 avril 2026] Nova Assembly : cinq studios indépendants s'unissent pour peser davantage sans sacrifier leur liberté → https://cutt.ly/atGFiEix
+
+» ▶️ [YouTube / Gautoz / 18 févr. 2023] Atomic Heart mélange-t-il les torchons et les Soviets ? → https://youtu.be/RFW37ogqZJY (1 h)
+
+### L'équipe de Wuchang: Fallen Leathers a été licenciée
+» 🇨🇳 [GamerSky / 10 avril 2026] 《明末：渊虚之羽》制作人夏思源被开除！开发团队已解散 → https://cutt.ly/EtGFgOrn
+» 🇺🇸 [GamingBolt / 11 avril 2026] Wuchang: Fallen Feathers producer/director fired, studio faces layoffs. It’s more saddening reports of layoffs, and Leenzee might just be taking a more brutal approach than most if the rumors are to be believed → https://cutt.ly/rtGFl8BT
+» 🇫🇷 [Gamekult / 12 avril 2026] Le producteur de Wuchang : Fallen Feathers a été discrètement licencié par Leenzee Games, et toute l'équipe aurait été dissoute → https://cutt.ly/2tGFfpIC
+» 🇬🇧 [Eurogamer / 14 avril 2026] Wuchang: Fallen Feathers developer reportedly dissolves core team after director's exit. Its former leader has created a new studio → https://cutt.ly/RtGFk4hU
+
+### La team First Berzerker Khazan a été dispersée
+» 🇰🇷 [Yonhap News / 8 avril 2026] 네오플, '카잔' 개발팀 전환 배치…흥행 부진 영향 → https://cutt.ly/itGFa1iy
+» 🇬🇧 [gamesRadar+ / 8 avril 2026] Despite good reviews, The First Berserker Khazan development team reportedly dissolved over disappointing sales just days after Nexon CEO praised the game. The team at Khazan developer Neople has apparently been reassigned → https://cutt.ly/8tGFsA0O
+» 🇫🇷 [Gamekult / 8 avril 2026] Déçu par les ventes de The First Berserker : Khazan, Nexon disperse son équipe. Vous savez combien ça fait, un million, Ozma ? → https://cutt.ly/VtGFdD8L
+» 🇬🇧 [PC Gamer / 10 avril 2026] Nexon confirms reorganizaton at The First Berserker: Khazan developer but says it's merely 'a strategic reallocation of talent' as development winds down. The shuffle is "not a workforce reduction or team dissolution," Nexon says, it just needs the people elsewhere → https://cutt.ly/ZtGFs1he
+
+### La core team Prince of Persia The Lost Crown à nouveau réunie
+(info Origami, source : le petit doigt de Gautoz)
+
+
+
+» 🎧 [Patreon] Conf’ 2 Rédac’ — On n'est pas des saumons du temps → https://patreon.com/posts/155517071
+» ▶️ [Patreon] Quoi de Vieux ? ️🕹️ Banquet for Fools, perle du C-RPG, le fast FPS Starship Troopers, Everquest en solo → https://patreon.com/posts/155592901
+» ▶️ [YouTube] La Mercredinale — Microsoft, Starfield, l'IA et le doublage français / Gunzilla entre NFT et impayés / Les teams Khazan et Wuchang déjà dispersées → https://youtu.be/dgJBfljmcxg
+
+
+
 » fil de discussion 💬
 » 📄 
 » 🇺🇸 
