@@ -20257,9 +20257,9 @@ raids : OrigaTwitch => (15:27)[+533] CanardPC (terminé à 17:30)
 
 
 --------------------------------------
-2026-04-03
+2026-04-10
 
-# L'Hebdo #100
+# L'Hebdo #101
 
 ## Actus
 ### Origami
@@ -20380,9 +20380,252 @@ raids : OrigaTwitch => (15:27)[+533] CanardPC (terminé à 17:30)
 
 
 
+--------------------------------------
+2026-04-17
+
+# L'Hebdo #102
+
+## Actus
+### Origami
 » 🎧 [Patreon] Conf’ 2 Rédac’ — On n'est pas des saumons du temps → https://patreon.com/posts/155517071
 » ▶️ [Patreon] Quoi de Vieux ? ️🕹️ Banquet for Fools, perle du C-RPG, le fast FPS Starship Troopers, Everquest en solo → https://patreon.com/posts/155592901
 » ▶️ [YouTube] La Mercredinale — Microsoft, Starfield, l'IA et le doublage français / Gunzilla entre NFT et impayés / Les teams Khazan et Wuchang déjà dispersées → https://youtu.be/dgJBfljmcxg
+
+### La semaine
+
+## Jeux
+
+### Pragmata
+- sorti le 17 avril 2026 sur Switch 2, PlayStation 5, Xbox Series, Windows et Steam Deck
+- développé par Capcom → https://capcom-games.com/pragmata/
+- réalisé par Cho Yonghee et Yasuhiro Anpo, direction artistique par Hajime Kimura, écriture par Haruo Murata, musiques par Yasumasa Kitagawa
+
+🎮 à partir de 45 € en grande distribution
+🎮 60 € ou + sur Switch (<https://cutt.ly/dtGF29UB>), PlayStation (<https://cutt.ly/0tGF9ffz>) et Xbox (<https://cutt.ly/utGF3wM1>), démo disponible
+💻️ 60 € ou + sur Steam (<https://s.team/a/3357650>), démo disponible
+
+### Replaced
+- sorti le 14 avril 2026 sur Xbox Series, Windows et Steam Deck
+- édité par Thunderful Publishing, développé par Sad Cat Studios → https://playreplaced.com
+- réalisé par Yura Zhdanovich, direction artistique par Artur Kurmel, écriture par Andrei Sulimsky, musiques par Igor Gritsay
+
+🎮 20 € ou inclus dans le Game Pass sur Xbox (<https://cutt.ly/atGFVClM>), démo disponible
+💻️ 20 € sur Steam (<https://s.team/a/1663850>), démo disponible
+💻️ 20 € sur GOG (<https://cutt.ly/ttGFZYCV>)
+
+### Minos
+- sorti le 9 avril 2026 sur Windows et Steam Deck
+- édité par Devolver Digital, développé par Artificer Games, studio polonais 🇵🇱 derrière Showgunners (2023), Sumerian Six (2024) → <https://artificer.com>
+- réalisé par 
+
+💻️ 18 € sur Steam (<https://s.team/a/3181650>)
+
+### Morbid Metal
+- en accès anticipé depuis le 8 avril 2026 sur Windows et Steam Deck
+- édité par Ubisoft, développé par Screen Juice, studio allemand 🇩🇪 basé à Cologne → https://screen-juice.com
+- réalisé par Felix Schade, direction artistique par Hans Reitemeyer et Felix Schade, écriture par Arden Osthof, musiques par Blue Stahli
+
+💻️ 18 € sur Steam (<https://s.team/a/1866130>)
+
+
+
+--------------------------------------
+2026-04-23
+
+# Wishlist
+
+excuses de sac :
+- en plus j'ai pas mangé avant de lancer le live (Hubert)
+
+» Foreign Sun, sorti le 21 avril 2026 à 20 € sur Switch, 19,50 € sur Windows et Steam Deck ; développé par Final Scene dev, studio australien 🇦🇺 de Brian Farina derrière Biomass (2020) → https://s.team/a/2387560 | https://finalscenedev.com
+- sondage, Foreign Sun, c'est : dans Wishlist (70%) (7) | quelques doutes 20% (2) | 10% (1)
+
+» Derelict Star, sorti le 2 avril 2026 à 8 € sur Windows, Mac et Steam Deck ; édité par Luminous Tree Games, développé par John M. Williams / gate → https://s.team/a/3641010 | https://gate.itch.io/derelict-star
+- sondage, votre avis sur Derelict Star : c'est dans Pixelist 64% (9) | j'attends la version NES 21% (3) | je ne suis pas Super Vieux 15% (2)
+
+excuses de sac :
+- on n'est pas aidé par ce noir, là, on ne voit pas trop où on va (Hubert)
+
+» Alien Strike: Blasting the Intruders, le 7 mai 2026 sur Windows et Steam Deck, démo disponible ; édité par Nuntius Games et Vsoo Games, développé par Combo Game Studio, studio brésilien 🇧🇷 derrière des jeux mobiles → https://s.team/a/2876150 | https://combostudios.com
+- sondage, votre avis sur Alien Strike : c'est dans Pixelist 11% (1) | rien contra lui, mais c'est compliqué 0% (0) | je retourne sur Metal Slug 89% (8)
+
+» Causal Loop, sorti le 23 avril 2026 sur Windows, démo disponible ; édité par Headup, développé par le studio allemand 🇩🇪 Mirebound Interactive → https://s.team/a/3374460 | https://gog.com/game/causal_loop | https://mirebound.com/causal-loop/
+- sondage, votre avis sur Causal Loop : c'est dans Wishlist 9% (1) | trop grocervo pour moi 36% (4) | je retourne sur Portal 55% (6)
+
+
+# Internet Exploreuses #24
+## invitée
+» Pauline Ferrari, journaliste indépendante, spécialiste des nouvelles technologies, des questions de genre et des cultures web → 📷 https://instagram.com/p0lineferrari/ | 𝕏 https://x.com/P0lineFerrari | https://ginkio.com/pauline-ferrari
+» 📕 Formés à la haine des femmes, 300 p., publié le 2 nov. 2023 chez JC Lattès, 20 € en papier (EAN 9782709672474) → https://www.editions-jclattes.fr/livre/formes-la-haine-des-femmes-9782709672474/
+
+## compte privé
+» Cyberdeck
+» building a cyberdeck → https://cyberdeck.cafe/build
+
+» ▶️ [YouTube / Tracks] Pas d’antenne 5G, pas d’internet : communiquer sous les radars avec les réseaux mesh → https://youtu.be/UTWrq_nS56A (21 min)
+
+» desktop documentaries
+- Her Story
+- Hypnospace Outlaw
+» ▶️ [YouTube / Haut et Court] Femmes sous algorithmes → https://www.youtube.com/playlist?list=PL5OhbSccBb-KIGHp2PYZjuNg2FSyjFiRr
+» [L'ADN / 25 oct. 2022] Clean with me (after dark) : le documentaire « de bureau » qui racontent mieux que personne qui sont les influenceuses ménage → https://cutt.ly/ZtJBwdPh
+» ▶️ [Vimeo] Transformers: the premake (a desktop documentary) → https://vimeo.com/94101046 (25 min)
+
+» 📷 milesbuckle.exe → https://instagram.com/milesbuckle.exe
+
+## capture d'écran : Mascus et les réseaux sociaux, on en fait trop ?
+### invités
+
+» 🇫🇷 [Libération / 15 avril 2026] «A quel point t’es défoncé ?» : qui est Clavicular, l’influenceur masculiniste américain hospitalisé après une suspicion d’overdose en plein live → https://cutt.ly/ftJBiAkK
+» 🇫🇷 [BFM / 16 avril 2026] Tuerie dans une école en Turquie: le tireur avait rendu hommage à l'auteur d'une attaque misogyne aux États-Unis → https://cutt.ly/VtJBpj6t
+» 🇫🇷 [INA / La Revue des medias / 7 avril 2026] Mouvements masculinistes : « C’est extrêmement violent d’enquêter sur des milieux qui veulent votre mort » → https://cutt.ly/NtJBp6SG
+» 🇫🇷 [Basta / 8 avril 2026] Affaire Cédric Prizzon : derrière le fait divers, des assassinats masculinistes → https://cutt.ly/ktJBjPKT
+» 🇫🇷 [Haut Conseil à l'Égalité / 21 jan. 2026] Rapport 2026 sur l'état des lieux du sexisme en France : la menace masculiniste → https://cutt.ly/3tJBkz72
+» ▶️ [Netflix] Louis Theroux : Plongée dans la manosphère → https://netflix.com/fr/title/81920687
+» 🇺🇸 [The Conversation / 2 juil. 2024] Why mental health and neurodivergence should not be used to explain incel violence → https://cutt.ly/5tJBPrvl
+» 🇺🇸 [The Conversation / 10 mai 2022] We need to pay better attention to the ways people talk about incels → https://cutt.ly/UtJBPKgV
+» 🇫🇷 [Le Monde / 11 jan. 2025] Mark Zuckerberg veut plus d’« énergie masculine » et moins de politique de diversité. Après avoir limité la modération des contenus, le fondateur de Meta a expliqué, dans le podcast de Joe Rogan, partisan assumé de Donald Trump, pourquoi il mettait fin à sa politique interne d’inclusion. → https://cutt.ly/1tJBGcHP
+» 🇫🇷 [France Info / 27 août 2025] Plus de 70% des associations féministes voient leur santé financière dégradée par rapport à 2024, majoritairement à cause des baisses de subventions. L'enquête, réalisée auprès de 148 associations du secteur féministe, dont 122 associations accompagnant du public, estime à 15% la baisse moyenne des subventions en 2025 par rapport à l'année précédente → https://cutt.ly/2tJBG8L7
+
+## mode lent : a-t-on oublié les femmes masculinistes ?
+» 📘 Les nouvelles femmes de droite, par Magali Della Sudda, paru le 17 fév. 2022 chez Hors d'atteinte, 19 € en édition papier (ISBN 978-2-38257-028-9) → https://horsdatteinte.org/livre/les-nouvelles-femmes-de-droite/
+» 📕 Les vigilantes — Surveillées et surveillantes, ces femmes au cœur de l'extrême droite, 336 p., par Léane Alestra, paru le 9 avril 2025 chez JC Lattès, 21 € en édition physique, 15 € en édition numérique → https://www.editions-jclattes.fr/livre/les-vigilantes-9782709672528/
+» 📔 Mes réseaux, mon genre et moi, 72 p., par Pauline Ferrari, illustrations par Mirion Malle, paru le 17 avril 2026 chez La ville brûle, 13 € en édition papier (EAN 9782360122493) → https://www.lavillebrule.com/catalogue/mes-reseaux-mon-genre-et-moi,219
+
+## mèmesplique-moi
+» 2026 is the new 2016
+» 🇬🇧 [BBC / 10 jan. 2026] Rose-tinted filter: Why 2016 is taking over social media in 2026 → https://cutt.ly/itJNto7w
+
+## ChatBNG
+- question 19 : si tu pouvais parler aux pigeons et qu'ils te comprennent, tu leur dirais quoi ?
+  - Pauline : est-ce que vous voulez qu'on organise une collecte de couches ?
+  - Lucie : aller s'excuser auprès de Pauline
+  - Héloïse : s'excuser au nom de tout le monde
+
+- question 23 : décris le sandwitch parfait
+  - Pauline : pain brioché, moutarde à l'ancienne, viande ou tofu, salade, tomate, avocat, pignon de pain => le briochorama
+  - Héloïse : œufs durs, thon végé (pois chiche et tartare d'ail), concombres, tomates
+  - Lucie : pain bégel, kimtchi? mayo, chips
+
+- question 5 : quelle est la question à poser pour mieux connaître un⋅e inconnue en soirée ?
+  - Pauline : si tu avais l'occasion de coucher avec ton clone, est-ce que tu le ferais ? / quel est ton média préféré ? / quand tu étais ado, team Justin Bieber ou Tokio Hotel ?
+  - Héloïse : quelle est ta pire rencontre de célébrité ?
+  - Lucie : si tu devais garder un féculent ?
+
+
+
+--------------------------------------
+2026-04-24
+
+# L'Hebdo #103
+
+## Actus
+### Origami
+» ▶️ [Patreon] Internet Exploreuses — Mascus et les réseaux sociaux, on en fait trop ? → https://patreon.com/posts/156352503
+
+### La semaine
+» 🇺🇸 [Xbox Wire / 21 avril 2026] Xbox Game Pass Ultimate Price Update → https://cutt.ly/DtKbolmR
+» 🇫🇷 [Xbox Wire / 21 avril 2026] Mise à jour du prix du Xbox Game Pass Ultimate → https://cutt.ly/QtKbiHwe
+» 🇬🇧 [Games Industry / 21 avril 2026] Microsoft cuts Game Pass pricing and removes Call of Duty as day-one launch title in response to "a lot of feedback". Price drops from $29.99 to $22.99; new Call of Duty releases to be added "about a year" post-release; change does not fully revert most recent increase → https://cutt.ly/UtKbiqRz
+» 🇺🇸 [Game Developer / 21 avril 2026] Xbox is slashing the price of Game Pass. The service is also losing Call of Duty games at launch → https://cutt.ly/btKboAjP
+» 🇫🇷 [Gamekult / 21 avril 2026] Sous la nouvelle direction, Microsoft rétropédale et baisse le prix du Game Pass Ultimate → https://cutt.ly/MtKtOtL0
+
+» 🇬🇧 [IWGB / 21 avril 2026] Workers at Build A Rocket Boy take action over data privacy violations from management → https://cutt.ly/1tKbycBV
+» 🇬🇧 [Games Industry / 21 avril 2026] Union takes legal action against Build a Rocket Boy over alleged data privacy violations. IWGB union cites monitoring software installed onto employees' devices as violating "both data protection laws and the workforce's basic dignity" → https://cutt.ly/4tKbyKbQ
+» 🇺🇸 [Game Developer / 21 avril 2026] Union workers take legal action against Build A Rocket Boy over alleged privacy violations. One union member said the studio's 'culture of secrecy and micromanaging' is one of the worst they've ever encountered → https://cutt.ly/ntKbusg6
+» 🇫🇷 [Gamekult / 22 avril 2026] Build A Rocket Boy (Mindseye) désormais visé par une action en justice pour violation de la vie privée → https://cutt.ly/NtKbtKVX
+
+» 🇺🇸 [Capcom / 20 avril 2026] All-new IP Pragmata surpasses one million units sold in two days! — Highly innovative and original gameplay earns strong reception from players around the globe → https://cutt.ly/qtKbs08H
+» 🇫🇷 [Gamekult / 20 avril 2026] Pragmata : Capcom annonce un million de ventes en deux jours. Une nouvelle réussite pour l'éditeur d'Ôsaka → https://cutt.ly/AtKbpR7J
+
+» 🇫🇷 [Steam / Windrose / 19 avril 2026] 1 000 000 d’exemplaires vendus en 6 jours et + de 200 000 joueurs simultanés ! → https://cutt.ly/ptKbdm9z
+» 🇫🇷 [Gamekult / 20 avril 2026] Windrose franchit le million d'exemplaires vendus en six jours, avec plus de 210 000 pirates simultanés sur les mers → https://cutt.ly/KtKbas4A
+
+» 🇺🇸 [Steam / No Rest for the Wicked / 18 avril 2026] No Rest for the Wicked - 2nd Anniversary | Thank you → https://cutt.ly/etKbjuLY
+
+🗓️ Calendrier
+» Splatoon Raiders, le 23 juil. 2026 à 50 € sur Switch 2 ; développé par Nintendo
+» Dragon Ball Xenoverse 3, annoncé pour 2027 sur PlayStation 5, Xbox Series, Windows et Steam Deck ; édité par Bandai Namco, développé par Dimps, studio japonais 🇯🇵 derrière les Dragon Ball Xenoverse (2015, 2016), Freedom Wars (2014, 2025), plusieurs jeux mobiles, portages et support → https://fr.bandainamcoent.eu/dragon-ball/dragon-ball-xenoverse-3 | https://s.team/a/1857810
+» Corsair Cove, annoncé pour 2026 sur Windows ; édité par Hooded Horse, développé par Limbic Entertainment, studio allemand 🇩🇪 derrière Park Beyond (2023), Tropico 6 (2019), Might & Magic Heroes VI & VII (2011, 2015), Might & Magic X: Legacy (2014) → https://s.team/a/1368140
+» Kick, annoncé sur Windows et Steam Deck ; édité par Shoreline Games, développé par le studio suisse 🇨🇭 nospacelost → https://s.team/a/3760370
+
+### Assassin's Creed Black Flag Resynced
+» ▶️ [YouTube / Ubisoft / 23 avril 2026] Assassin's Creed Black Flag Resynced : présentation mondiale → https://youtu.be/7hkFaTypP1Q (28 min)
+» 🇫🇷 [Gamekult / 23 avril 2026] Assassin's Creed Black Flag Resynced : gameplay, batailles navales et nouvelles quêtes, le remake se dévoile → https://cutt.ly/FtKtFGng
+
+### Ubisoft annule Alterra
+» 🇺🇸 [Insider Gaming / 21 avril 2026] Ubisoft cancels Alterra, its Animal Crossing-inspired game → https://cutt.ly/LtKbRl6S
+» 🇺🇸 [Game Developer / 22 avril 2026] Ubisoft cancels social-sim game Alterra. Ubisoft cancels social-sim game Alterra. The Animal Crossing-inspired game was reportedly in development for nearly three years at Ubisoft Montreal → https://cutt.ly/JtKbRLIB
+» 🇫🇷 [Gamekult / 22 avril 2026] Ubisoft annule encore un projet : Alterra, son jeu inspiré d'Animal Crossing → https://cutt.ly/2tKtZgSg
+
+### Licenciements chez Ubisoft
+» 🇫🇷 [Les Échos / 23 avril 2026] La direction d'Ubisoft acte le retour en arrière sur le télétravail. Selon nos informations, le poids lourd français du jeu vidéo vient d'annoncer à ses salariés les nouvelles conditions encadrant le travail à distance. Ce qui risque de déclencher l'ire des syndicats et de nombreux salariés en France → https://cutt.ly/0tKbYFo2
+» 🇫🇷 [20 minutes / 23 avril 2026] Ubisoft : C’est officiel, les salariés doivent passer de deux jours de télétravail par semaine… à 36 jours par an. Les salariés du géant des Jeux vidéo ont été informés qu’ils disposeraient désormais d’un quota de 36 jours de télétravail par an, soit moins d’un jour par semaine, alors que jusqu’à présent ils bénéficiaient de deux jours hebdomadaires → https://cutt.ly/YtKbUPcs
+» 🇫🇷 [Gamekult / 24 avril 2026] C'est effectif : Ubisoft réduit drastiquement le télétravail de ses salariés français → https://cutt.ly/OtKtXtLv
+
+### Aphelion
+» ▶️ [YouTube / Don't Nod / 23 avril 2026] Aphelion | Ariane Log Trailer → https://youtu.be/ETDUZdbL1Ho
+
+### Forbidden Solitaire
+» Forbidden Solitaire, sortie le 20 avril 2026 sur Windows et Steam Deck, démo disponible ; développé par Grey Alien Games et Night Signal Entertainment → https://s.team/a/3414580
+
+### Street Fighter 6 - Ingrid
+» ▶️ [YouTube / PlayStation / 23 avril 2026] Street Fighter 6 - Ingrid gameplay trailer → https://youtu.be/MNZrv-_ZF58 (3 min)
+» 🇫🇷 [Gamekult / 23 avril 2026] L'éblouissante Ingrid fera des étincelles dans Street Fighter 6 à partir du 28 mai → https://cutt.ly/3tKt0pqx
+
+### Knuckle Paradise
+» Knuckle Paradise ; édité par Arte, développé par Flying Oak Games, studio français 🇫🇷 basé à Metz derrière les jeux ScourgeBringer (2020) et NeuroVoider (2016) → https://s.team/a/1864220
+» ▶️ [YouTube / Arte / 24 avril 2026] Knuckle Paradise | teaser d'annonce → https://youtu.be/jo172RaKHbA
+
+## Jeux
+
+### Gecko Gods
+» Gecko Gods, sorti le 16 avril 2026 à 19,50 €, en promotion à 17,50 € sur Switch, PlayStation 5, Windows et Steam Deck, démo disponible → https://geckogods.com | https://s.team/a/1290760
+
+- sorti le 16 avril 2026 sur Switch, PlayStation 5, Windows et Steam Deck
+- édité par Super Rare Games Limited et Gamersky Games, développé par le studio britannique 🇬🇧 Inresin → https://geckogods.com | https://superraregames.com/pages/gecko-gods
+- réalisé par Louis Waloschek, musiques par Jasmine Cooper
+
+🎮 19,50 € sur Switch (<https://cutt.ly/atKeNVXM>)
+🎮 20 € sur PlayStation (<https://cutt.ly/StKeBwZt>)
+💻️ 19,50 € sur Steam (<https://s.team/a/1290760>)
+⏱️ durée de vie : 4 à 6 h pour l'histoire, un peu plus de 7 h pour les complétionnistes
+
+### Tomodachi Life : Une vie de rêve
+» Tomodachi Life : Une vie de rêve, sorti le 16 avril 2026 à 60 € sur Switch ; développé par Nintendo
+
+- sorti le 16 avril 2026 sur Switch 1 & 2
+- développé par Nintendo
+- réalisé par Ryutaro Takahashi, direction artistique par Daisuke Kageyama, écriture par Noriyuki Sato, musiques par Toru Minegishi, Shinobu Nagata, Reika Nakai et Kairi Hamada
+
+🎮 50 € en grande distribution
+🎮 60 € sur eShop (<https://cutt.ly/vtKevmTe>)
+
+### Vampire Crawlers: The Turbo Wildcard from Vampire Survivors
+» Vampire Crawlers: The Turbo Wildcard from Vampire Survivors, sorti le 21 avril 2026 à 10 € sur PlayStation 5 et Xbox Series, à 9 € sur Windows et Steam Deck, démo disponible ; développé par poncle et Nosebleed Interactive
+
+- sorti le 21 avril 2026 sur PlayStation 5, Xbox Series, Windows et Steam Deck
+- développé par poncle, studio derrière Vampire Survivors (2022), et Nosebleed Interactive, studio britannique derrière Arcade Paradise (2022), Vostok Inc (2017)
+- réalisé par Luca Galante, direction artistique par James Biddulph et Glauber Kotaki, musiques par Daniele Zandara et Filippo Vicarelli
+
+🎮 10 € sur PlayStation (<https://cutt.ly/VtKeUMS0>)
+🎮 10 € ou inclus dans le Game Pass sur Xbox (<https://cutt.ly/AtKeIRbY>)
+💻️ 9 € sur Steam (<https://s.team/a/3265700>), démo disponible
+
+## Mais pas que
+### Kévin
+» 📙 Todd le géant s'est fait voler son slip, 1008 p., par Alex Chauvel, première édition en avril 2017, seconde édition en juin 2022 chez the Hoochie Coochie, 27 € en édition papier (ISBN 978-2-916049-90-8) → https://thehoochiecoochie.com/catalogue/livres/hors-collection/236-
+
+### Florian
+» 📓 Tolkien contre les machines — Écologie et antifascisme en Terre du Milieu, 128 p., par Sébastien Fontenelle, paru le 17 oct. 2025 chez Lux, 14 € en édition papier (ISBN: 9782898332326), 9 € en édition numérique → https://luxediteur.com/catalogue/tolkien-contre-les-machines/
+
+### Héloïse
+» ▶️ [YouTube / verilybitchie / 23 fév. 2024] The Queer History of The Lord of the Rings → https://youtu.be/FBHe5I98nwg (43 min)
+
+» résultat du sondage vous voulez une illustration : devant 63% (96) | derrière 37% (56)
+
+excuses de sac :
+- je savais pas trop où j'allais (Padre, intro)
 
 
 
