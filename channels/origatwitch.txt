@@ -20982,16 +20982,140 @@ excuses de sac :
 
 
 
+--------------------------------------
+2026-05-15
+
+# L'Hebdo #105
+
 ## Actus
 ### Origami
-» 🎧 [Patreon] Conf’ 2 Rédac’ —
+» 🎧 [Patreon] Conf’ 2 Rédac’ — La source d'énergie du tourniquet → https://patreon.com/posts/157966837
 » ▶️ [YouTube] Quoi de Vieux ? 🕹️ Spéciale Neo Geo AES+ avec Alex Pilot → https://youtu.be/DrKiRjeRDVM
 » ▶️ [YouTube] Freak of the Month — Ceremony of Innocence → https://youtu.be/64ya0EUdnFI
 » ▶️ [Patreon] HeadShot — entretien avec Cindy Asselin de Beauville, senior narrative designer → https://patreon.com/posts/158161950
 » ▶️ [YouTube] La Mercredinale — Le toboggan Nacon continue / Double Fine se syndicalise / les liens entre Microsoft et Tsahal / De l'eau dans le GaaS chez Sega → https://youtu.be/iHs9zPJkI9E
 » 💌 [Origami] Infolettre — Vite fait bien fait → https://www.origami.ng/vite-fait-bien-fait/
 
+### La semaine
+(pas de magnéto de la semaine 🩴)
 
+### Augmentation du prix de la Switch 2
+» 🇺🇸 [Nintendo / 8 mai 2026] **Notice regarding price revisions for Nintendo products and services** → <https://cutt.ly/XtVlOhYs>
+» 🇺🇸 [Game Developer / 8 mai 2026] **Nintendo is raising Switch 2 prices around the world** — Price hikes will be implemented in May in Japan and in September across other regions → <https://cutt.ly/HtVlU3xd>
+» 🇫🇷 [Gamekult / 8 mai 2026] **C'était attendu : Nintendo augmente le prix de sa Switch 2 pour la première fois** → <https://cutt.ly/ptVlPjt7>
+» 🇬🇧 [VGC / 11 mai 2026] **Nintendo says Switch 2 price increase doesn’t cover all costs, hopes its upcoming games will help to ‘overcome this barrier’** — President Shuntaro Furukawa says the aim is for Switch 2’s lifespan to last as long as Switch → <https://cutt.ly/jtVTlOnU>
+» 🇫🇷 [Gamekult / 15 mai 2026] **Si Nintendo a augmenté le prix de ses Switch 2, c'est aussi à cause du prix du pétrole, apprend-on** → <https://cutt.ly/ztVTegCb>
+
+### Calendrier
+» Moss: The Forgotten Relic, annoncé pour l'été 2026 sur Switch 1 & 2, PlayStation 5, Xbox Series, Windows et Steam Deck ; développé par Polyarc, studio états-unien 🇺🇸 derrière Moss (2018), Moss: Book II (2022), Glassbreakers: Champions of Moss (2025) → https://moss.game | https://s.team/a/3914860
+
+» The Talos Principle III, annoncé pour 2027 sur PlayStation 5, Windows et Steam Deck ; développé par Croteam, studio croate 🇭🇷 derrière la série des Talos Principle et la série et Serious Sam
+
+» Captain Tsubasa II: World Fighters, le 28 août 2026 sur Switch, PlayStation 5, Xbox Series et Windows / Steam Deck ; édité par Bandai Namco, développé par Tamsoft 🇯🇵 → https://s.team/a/2172910 | https://bandainamcoent.com/games/captain-tsubasa-2-world-fighters
+
+» 🇫🇷 [Gamekult / 15 mai 2026] **La sortie du film The Legend of Zelda est avancée d'une semaine** → https://cutt.ly/JtVHbM3h
+
+» 🇬🇧 [PC Gamer / 14 mai 2026] Summer Game Fest 2026 schedule and all the other summer showcases full of gaming announcements you won't want to miss → https://cutt.ly/3tVHmDsL
+- 🗓️ 21 mai - Six One Indie Showcase
+- 🗓️ 5 juin - Access-Ability Showcase
+- 🗓️ 5 juin - Summer Game Fest
+- 🗓️ 5 juin - Day of the Devs
+- 🗓️ 6 juin - Wholesome Direct
+- 🗓️ 6 juin - Future Games Show
+- 🗓️ 7 juin - Xbox Games Showcase
+- 🗓️ 7 juin - PC Gaming Show
+
+» Tribeca Festival, du 10 au 14 juin 2026 → https://cutt.ly/ytVHYqV0
+
+### Le point chiffres
+» 🇫🇷 [IGN France / 14 mai 2026] **16 millions de ventes pour Arc Raiders, et un éditeur confiant pour le contenu d'octobre** → https://cutt.ly/StVOTulf
+» 🇬🇧 [Games Industry / 15 mai 2026] **Nexon Q1 net income rises 118% to $360.7m** — Record results driven by continued success of Embark Studios' Arc Raiders and MapleStory franchise → https://cutt.ly/VtVOPa37
+
+» 🇬🇧 [Eurogamer / 15 mai 2026] **Subnautica 2 already has huge concurrent player counts and has swum to 2 million sales** → https://cutt.ly/StVOljiy
+» 🇫🇷 [Gamekult / 15 mai 2026] **Subnautica 2 : deux millions de ventes en douze heures seulement, et un petit billet de 250 millions de dollars en perspective** → https://cutt.ly/rtVOb8wQ
+
+» 🇺🇸 [Konami / 8 mai 2026] **FY2026 financial results — Fiscal year ended March 31, 2026** → https://cutt.ly/dtVO8sN4
+» 🇫🇷 [Gamekult / 8 mai 2026] **Konami se surpasse une nouvelle fois et annonce une année record** — Allez, on veut Castlevania maintenant → https://cutt.ly/KtVO90mT
+» 🇺🇸 [Konami / 13 mai 2026] **Silent Hill f surpasses 2 million units shipped worldwide! Find the beauty in terror as this game sweeps the globe** → https://cutt.ly/NtVO09xU
+» 🇫🇷 [Gamekult / 13 mai 2026] **Silent Hill f dépasse les 2 millions de ventes, 6 millions de joueurs pour Silent Hill 2** — et une belle promo sur le PlayStation Store → https://cutt.ly/vtVO9hH6
+
+» 🇺🇸 [Variety / 13 mai 2026] **‘Invincible VS’ Hits 1 Million Players Since April Launch (Gaming News Roundup) ** → https://cutt.ly/QtVHImP4
+
+### Katsuhiro Harada a quitté Tekken pour SNK
+» cf. la Mercredinale
+
+### Licenciements
+» Kylotonn, cf. la Mercredinale de la semaine dernière
+» 🦋 [BlueSky / Gautoz / 14 mai 2026] 🧵 https://bsky.app/profile/gautoz.cool/post/3mlskfybiikev
+> Le projet de licenciements chez Kylotonn a été présenté au studio hier :
+> - 84 postes supprimés (sur 122)
+> - PSE unilatéral sans négociations syndicales 
+> - « sortir Endurance Motorsport le plus vite possible »
+> - ne restera qu’une équipe dédiée à la maintenance de TDU Solar Crown
+
+» 🇺🇸 [LinkedIn / Jonathan Jekinek / 12 mai 2026] **Our game Last Flag did not achieve the financial success we anticipated, leading to a reduction in our team.** […] → https://cutt.ly/OtVOdclh
+» 🇬🇧 [Games Industry / 13 mai 2026] **Night Street Games cuts jobs after Last Flag fails to "achieve the financial success we anticipated"** — "Some exceptionally talented developers were affected by this decision" → https://cutt.ly/JtVOfuyC
+» 🇺🇸 [Game Developer / 12 mai 2026] **Last Flag dev Night Street Games is laying off staff** — The Imagine Dragons-funded project did not achieve the 'financial success' the team anticipated → https://cutt.ly/ztVOgoqp
+
+» 🇺🇸 [LinkedIn / MercurySteam / 12 mai 2026] **There is no easy way to share this kind of news, but today we must communicate that MercurySteam has initiated a workforce adjustment process.** […] → https://cutt.ly/UtVOullP
+» 🇺🇸 [Game Developer / 12 mai 2026] **Metroid Dread developer MercurySteam conducts layoffs** — 'While this is something common within the production cycles of our industry, it is nonetheless a difficult and painful situation.' → https://cutt.ly/AtVOo783
+» 🇫🇷 [Gamekult / 13 mai 2026] **Suite au bide de Blades of Fire, le studio MercurySteam (Metroid Dread) licencie** → https://cutt.ly/ctVOyiPl
+
+» le reste des nouvelles, dans la Mercredinale de cette semaine
+
+## Jeux
+
+### Subnautica 2
+» Subnautica 2, en accès anticipé depuis le 14 mai 2026 à 30 € sur Xbox Series, Windows et Steam Deck ; développé par Unknown Worlds Entertainment → https://s.team/a/1962700
+
+- en accès anticipé depuis le 14 mai 2026 sur Xbox Series, Windows et Steam Deck
+- développé par Unknown Worlds Entertainment, studio états-unien 🇺🇸 derrière Moonbreaker (2024), Subnautica: Below Zero (2021), Subnautica (2018), Natural Selection 2 (2012), Zen of Sudoku (2006) → https://unknownworlds.com
+
+🎮 30 € ou inclus dans le Game Pass Ultimate sur Xbox (<https://cutt.ly/FtVzS7va>)
+💻️ 30 € sur Steam (<https://s.team/a/1962700>)
+
+» 🇫🇷 [Gamekult / 6 déc. 2018] Test : Subnautica, abysses au pays des merveilles, 9/10 par Gautoz → https://cutt.ly/ltVI67JB
+» 🇫🇷 [Gamekult / 13 mai 2021] Test : Subnautica: Below Zero : calotte sur ta bouche, 6/10 par Le Père Fidalbion → https://cutt.ly/atVOwK8K
+
+### Alabaster Dawn
+» Alabaster Dawn, en accès anticipé depuis le 7 mai 2026 à 25 € sur Windows, Linux et Steam Deck ; développé par Radical Fish Games → https://s.team/a/3110760 | https://alabaster-dawn.com
+
+- en accès anticipé depuis le 7 mai 2026 sur Windows, Linux et Steam Deck
+- développé par Radical Fish Games, studio allemand 🇩🇪 derrière CrossCode (2018) → https://alabaster-dawn.com | https://radicalfishgames.com
+- réalisation et direction artistique par Felix Klein et Stefan Lange, écriture par Luke Wacholtz, musiques par Deniz Akbulut
+
+💻️ 25 € sur Steam (<https://s.team/a/3110760>), démo disponible
+
+» 🇺🇸 [Bloomberg / 17 oct. 2025] 'CrossCode' makers look to follow up on an indie masterpiece — 'Alabaster Dawn' will build on the combat and puzzles of 'CrossCode' but present an entirely new setting → https://cutt.ly/pr3XEYcq
+» 🇫🇷 [Gamekult / 20 oct. 2025] Alabaster Dawn : faire la suite spirituelle de Crosscode n'a pas été de tout repos pour Radical Fish Games — Chronique d'un développement (un peu trop) sain → https://cutt.ly/Br8kiDOp
+
+### Battlestar Galactica: Scattered Hopes
+» Battlestar Galactica: Scattered Hopes, sorti le 11 mai 2026 à 25 € sur Windows et Steam Deck ; édité par Dotemu, développé par Alt Shift → https://bsgscatteredhopes.com | https://s.team/a/2535950
+
+- sorti le 11 mai 2026 sur Windows et Steam Deck
+- édité par Dotemu, développé par Alt Shift, studio français 🇫🇷 basé à Montpellier, derrière Crying Suns (2019) → https://bsgscatteredhopes.com | https://altshift.fr
+
+💻️ 25 € sur Steam (<https://s.team/a/2535950>), démo disponible
+💻️ 25 € sur GOG (<https://cutt.ly/4tVzzBq6>)
+
+### Mixtape
+» Mixtape, sorti le 7 mai 2026 à 19 € sur Switch 2, PlayStation 5, Xbox Series, Windows et Steam Deck ; édité par Annapurna Interactive, développé par Beethoven and Dinosaur → https://mixtape.game
+
+- sorti le 7 mai 2026 sur Switch 2, PlayStation 5, Xbox Series, Windows et Steam Deck
+- édité par Annapurna Interactive, développé par Beethoven and Dinosaur, studio australien 🇦🇺 derrière _The Artful Escape_ (2021) → <https://mixtape.game>
+- écrit et réalisé par Johnny Galvatron, dessins par Arden Beckwith, Mariska Harasymiw, Arden Beckwith, Harry Truman, animations par Lauren Adassovsky, Ann-Marie Denham, Lily Pagalis-Jackson
+
+🎮 19 € sur Switch (<https://cutt.ly/vtX2JYec>) et PlayStation (<https://cutt.ly/ZtX2KwtY>)
+🎮 19 € ou inclus dans le Game Pass sur Xbox (<https://cutt.ly/otX2Kcqh>)
+💻️ 19 € sur Steam (<https://s.team/a/2582320>)
+
+## Mais pas que
+### Florian
+» 📺️ **Le Bus : Les Bleus en grève** (2026), 79 min, documentaire réalisé par Christophe Astruc
+- disponible sur Netflix (<https://netflix.com/title/81728168>)
+
+### Kévin
+» 📙 **Football-Fantaisie**, 516 p., par Zviane, publié le 7 déc. 2021 au Canada, le 18 mars 2022 en Europe chez Pow Pow, 55 CA$ / 35 € en édition papier (ISBN 978-2-925114-07-9), 29 € en édition numérique → https://editionspowpow.com/produits/football-fantaisie/
 
 
 » fil de discussion 💬
