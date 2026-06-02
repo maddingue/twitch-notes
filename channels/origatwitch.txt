@@ -21222,10 +21222,254 @@ raids : OrigaTwitch => (23:46)[+74] Jarm0u => (23:49)[+112] Shakawah => nalalath
 
 
 
+--------------------------------------
+2026-05-22
+
+# L'Hebdo #106
+
+## Actus
+### Origami
 » ▶️ [YouTube] HeadShot — entretien avec Cindy Asselin de Beauville, senior narrative designer → https://youtu.be/Bg4aZXGN9iA
 » 🎧 [Patreon] HeadShot — entretien avec Cindy Asselin de Beauville, senior narrative designer → https://patreon.com/posts/158161950
 » ▶️ [YouTube] La Mercredinale — Bientôt la fin des exclus PS5 sur PC ? / Hasbro n'aime plus le jeu vidéo / Embracer termine sa mue → https://youtu.be/2Cnmu7I05Bs
 
+### La semaine
+» 🇫🇷 [Gamekult / 20 mai 2026] Le prochain gros State of Play aura lieu le 2 juin, Wolverine sera là — PlayStation lancera le mois des conférences → https://cutt.ly/ztNmxBcH
+
+» augmentation du PS Plus, cf. la Mardinale
+
+» fin des jeux PlayStation solo sur PC, cf. la Mardinale
+
+» saga Embracer, cf. la Mardinale
+
+» nouveaux jeux chez Warhorse, cf. la Mardinale
+
+point chiffres
+» 🇫🇷 [Gamekult / 16 mai 2026] Windrose atteint la barre des deux millions de ventes → https://cutt.ly/FtNmT40N
+» pour Far Far West, cf. la Mardinale
+» 🇺🇸 [RPGSite / 19 mai 2026] Akiba's Trip series sales reach 1 million units on its 15th anniversary → https://cutt.ly/ctNmD7Kn
+» 🇫🇷 [Gamekult / 17 mai 2026] Terraria fête ses 15 ans et annonce les 70 millions d'exemplaires vendus → https://cutt.ly/utNmGa48
+
+» Dreams on a Pillow - a videogame experience about the 1948 Nakba, based on a true story → https://dreamsonapillow.com
+
+### Licenciements chez Quantic Dream
+» 🇫🇷 [STJV / 21 mai 2026] Annulation de Spellcasters et plan de licenciement à Quantic Dream : qui aurait pu prédire ? → https://cutt.ly/BtNn3weP
+» 🇫🇷 [Gamekult / 21 mai 2026] Quantic Dream : 95 emplois menacés après l'annulation de Spellcasters Chronicles → https://cutt.ly/8tNn1SnI
+» 🇫🇷 [Le Figaro / 21 mai 2026] **Le studio français Quantic Dream arrête le développement du jeu «Spellcasters Chronicles», faute de joueurs** → <https://cutt.ly/5tNHQLbO>
+» 🇧🇪 [RTFB / 22 mai 2026] **Crise chez "Quantic Dream" après l’échec de son jeu live-service : une centaine d'emplois menacés** → <https://cutt.ly/gtNHQlpm>
+» 🎧 [Acast / Silence on joue / 21 mai 2026] Quantic Dream : une direction qui se plante, des salariés qui trinquent → https://cutt.ly/vtNn2bUB
+
+### Licenciements chez Bungie
+» 🇺🇸 [Bloomberg / 22 mai 2026] Bungie plans layoffs after ending ‘Destiny 2’ development — The Sony subsidiary will focus on ‘Marathon’ rather than jumping directly to ‘Destiny 3’ → https://cutt.ly/KtNn4gSS
+» 🇫🇷 [Gamekult / 22 mai 2026] Bungie n'échappera pas aux licenciements et Destiny 3 n'est même pas en développement — Rien n'a été décidé au-delà de Marathon → https://cutt.ly/VtNn49VE
+
+### Les caffouillages de Kickstarter
+» 🇫🇷 [Gamekult / 14 mai 2026] Kickstarter durcit sa politique de contenu adulte et pornographique sous la pression de prestataires de paiement → https://cutt.ly/JtNmeZLQ
+» 🇺🇸 [Kickstarter / 19 mai 2026] An apology: rethinking our mature content guidelines → https://cutt.ly/mtNmehDh
+» 🇫🇷 [Gamekult / 20 mai 2026] Kickstarter rétropédale sur sa politique de contenu adulte et reconnaît ses torts → https://cutt.ly/atNmwJlB
+
+### Warhammer Skulls 2026
+» ▶️ [YouTube / Warhammer / 21 mai 2026] Warhammer Skulls 2026 → https://youtu.be/q1TaMnMA4gg (48 min)
+» Warhammer Skulls 2026 → https://store.steampowered.com/sale/skulls2026
+» 🇫🇷 [ActuGaming / 21 mai 2026] Warhammer Skulls 2026 : Voici le résumé du showcase centré sur la franchise de Games Workshop pour ses 10 ans → https://actugaming.net/--801039
+» 🇫🇷 [Gamekult / 21 mai 2026] Édité par Dotemu, Warhammer Age of Sigmar : Deathmaster vous mettra dans la peau d'un Skaven → https://cutt.ly/itNmoPGR
+» 🇫🇷 [Gamekult / 22 mai 2026] Warhammer 40,000 : Dawn of War 4 repart en croisade le 17 septembre → https://cutt.ly/ItNmiQRB
+
+## Jeux
+
+### Paralives
+» Paralives, en accès anticipé à partir du 25 mai à 40 € sur Windows et Mac ; développé par le studio canadien québécois 🇨🇦 Paralives Studio → https://s.team/a/1118520 | https://paralives.com
+
+- en accès anticipé à partir du 25 mai 2026 sur Windows et Mac
+- développé par Paralives Studio, studio canadien québécois 🇨🇦 de quinze personnes créé par Alex Massé → <https://paralives.com>
+- financé sur Patreon à hauteur de 40 k€ / mois → <https://patreon.com/cw/alexmasse>
+
+💻️ 40 € sur Steam (<https://s.team/a/1118520>)
+
+### Zero Parades: For Dead Spies
+» Zero Parades: For Dead Spies, sorti le 21 mai à 41 € sur Windows et Steam Deck, aussi annoncé sur PlayStation 5 ; développé par ZA/UM → https://zeroparades.com | https://s.team/a/2863680
+
+- sorti le 21 mai 2026 sur Windows et Steam Deck, aussi annoncé sur PlayStation 5
+- développé par ZA/UM, studio estonien 🇪🇪 derrière Disco Elysium (2019) → <https://zeroparades.com> | <https://zaumstudio.com>
+- réalisé par Tonis Haavel, direction artistique par Kaspar Tamsalu, écriture par Justin Keenan et Patrick O Riain, musiques par Fernando Cabrera
+
+🎮 annoncé sur PlayStation (<https://cutt.ly/9tNbxcAm>)
+💻️ 41 € sur Steam (<https://s.team/a/2863680>) et GOG (<https://cutt.ly/0tNbfx58>)
+
+### Directive 8020
+» Directive 8020, sorti le 12 mai 2026 sur PlayStation 5, Xbox Series, Windows et Steam Deck ; développé par le studio britannique 🇬🇧 Supermassive Games 
+
+- sorti le 12 mai 2026 sur PlayStation 5, Xbox Series, Windows et Steam Deck
+- édité par Bandai Namco, développé par Supermassive Games, studio britannique 🇬🇧 derrière _Until Dawn_ (2015), la série de jeux _The Dark Pictures Anthology_ (2019-2022), _The Quarry_ (2022), _The Casting of Frank Stone_ (2024) → https://thedarkpictures.com/games/directive-8020
+- réalisé par Alejandro Arqué Gallardo et Will Doyle, direction artistique par David Hirst et Xavier Ward, écriture par Will Doyle, musiques par Jason Graves
+
+🎮 50 € sur PlayStation (<https://cutt.ly/XtX2CyEv>) et Xbox (<https://cutt.ly/NtX2CvWw>)
+💻️ 50 € sur Steam (<https://s.team/a/2255370>)
+
+## Mais pas que
+### Kévin
+» ▶️ [YouTube] Zeph & Ramo → https://youtube.com/@ZephRamo
+» 💰 [Patreon] Zeph & Ramo → https://patreon.com/cw/ZephRamo
+
+### Florian
+» 📺️ Star Wars: Clone Wars (2003-2005), série animé de 3 saisons, 25 épisodes, créée par Genndy Tartakovsky
+
+### Héloïse
+» 📕 Drag fever — sous les paillettes, toujours la rage ? 180 p., par Apolline Bazin, publié le 20 fév. 2026 chez Éditions Divergentes, 17 € en papier (ISBN 9791097088897) → https://editionsdivergences.com/livre/drag-fever
+
+
+
+--------------------------------------
+2026-05-29
+
+# L'Hebdo #107
+
+## Actus
+### Origami
+» 🎧 [Patreon] La Bien Séance — Nope → https://patreon.com/posts/159273544
+» 🎧 [Patreon] Quoi de Vieux ? 🕹️ Evercade Nexus, Pop Corn Duel ou Impossible Mission III → https://patreon.com/posts/159372612
+» ▶️ [Patreon] Quoi de Vieux ? 🕹️ Evercade Nexus, Pop Corn Duel ou Impossible Mission III → https://patreon.com/posts/159373210
+» 💌 [Origami] Infolettre — Je vois des femmes partout → https://www.origami.ng/je-vois-des-femmes-partout/
+
+### La semaine
+(pas de magnéto de la semaine 🩴)
+
+### Augmentation du prix du Steam Deck
+» 🇫🇷 [Steam / 27 mai 2026] **Steam Deck est de retour en stock, avec une tarification mise à jour** → <https://cutt.ly/qt1YNd89>
+» 🇬🇧 [Games Industry / 28 mai 2026] **Valve raises Steam Deck OLED prices by over 40%** — 1TB model now costs $949, up from $649, due to higher component costs and logistical challenges → https://cutt.ly/Lt1d1mKv
+» 🇺🇸 [Game Developer / 28 mai 2026] **Valve raises Steam Deck OLED prices by over $200** — The premium 1TB model will now cost an additional $300 in the United States → https://cutt.ly/Nt1d4cqc
+» 🇫🇷 [Gamekult / 28 mai 2026] **Steam Deck OLED : Valve confirme des hausses de prix spectaculaires** → https://cutt.ly/Ct1dYaBl
+» 🇫🇷 [ActuGaming / 28 mai 2026] **Valve augmente le prix de son Steam Deck OLED, et il n’y va pas de main morte** → https://actugaming.net/--801887
+
+» 🦋 [BlueSky / Daniel Ahmad / 28 mai 2026] 🧵 https://bsky.app/profile/zhugeex.com/post/3mmwqsmllt22o
+> The situation is tougher on Valve and the Steam Deck because they cannot benefit from economies of scale that lower build costs, it's also harder for them to subsidize hardware because they're not meaningfully generating higher lifetime value from the sale of Steam Decks (e.g. via subscription)
+
+### Un nouveau DLC pour the Witcher III
+» 🇺🇸 [Game Developer / 27 mai 2026] **The Witcher 3: Wild Hunt is getting a new expansion 12 years after launch** — CD Projekt Red is co-developing the expansion with studio Fool's Theory → https://cutt.ly/Dt1d7pUh
+» 🇫🇷 [Gamekult / 27 mai 2026] CD Projekt dévoile The Witcher 3 : Songs of the Past, ultime extension sur Geralt de Riv → https://cutt.ly/Ot1dIwsp
+» 🇫🇷 [ActuGaming / 27 mai 2026] **The Witcher 3 recevra un nouveau DLC en 2027 : Songs of the Past officialisé** → https://actugaming.net/--801579
+
+» 🇫🇷 [ActuGaming / 28 mai 2026] **The Witcher 3 dépasse les 65 millions d’exemplaires vendus, le DLC Songs of the Past sera présenté à la Gamescom** → https://actugaming.net/--802008
+
+### Dragon Quest XII
+» ▶️ [YouTube / Dragon Quest / 28 mai 2026] **Update from the Dragon Quest team** → https://youtu.be/QsYz_CVdowA (9 min)
+» 🇺🇸 [Kotaku / 27 mai 2026] **Dragon Quest 12 will take longer to come out after the team decided to ‘start from scratch’** — Fans have been waiting nearly a decade for the sequel → https://kotaku.com/--2000699781
+» 🇫🇷 [Gamekult / 27 mai 2026] Dragon Quest XII : le titre change et le développement repart de zéro → https://cutt.ly/Qt1dOVAY
+» 🇫🇷 [ActuGaming / 27 mai 2026] **Dragon Quest XII change de nom et dévoile ses toutes premières images** → https://actugaming.net/--801630
+
+» 🇺🇸 [Kotaku / 28 mai 2026] **Fans think they’ve figured out something really cool about Dragon Quest 12′s weirdly bland protagonist** — He looks like he's just a sleepy guy but there may be more to him than meets the eye → https://kotaku.com/--2000700186
+
+### Chiffres et calendrier
+» 🇺🇸 [The Pokémon Company] **Pokémon in figures** → https://cutt.ly/ut1fs7g1
+» 🇫🇷 [Gamekult / 27 mai 2026] **Pokémon : un demi-milliard de jeux vendus pour la franchise** → https://cutt.ly/et1fa3qs
+
+» 🇫🇷 [ActuGaming / 26 mai 2026] **Le Sims-like Paralives s’est déjà vendu à 250 000 exemplaires en quelques heures** → https://actugaming.net/--801395
+
+» 🇫🇷 [Gamekult / 27 mai 2026] **Dragon Quest : les remakes HD-2D de la trilogie Erdrick franchissent les 4 millions d'exemplaires vendus** → https://cutt.ly/dt1dDvAF
+
+» 🇺🇸 [LinkedIn / IO Interactive / 28 mai 2026] **1.5 million copies sold!** → https://cutt.ly/vt1dNJNc
+» 🇺🇸 [Game Developer / 29 mai 2026] **007 First Light has topped 1.5 million sales** → https://cutt.ly/Qt1d9rMw
+» 🇫🇷 [ActuGaming / 28 mai 2026] **007: First Light démarre très fort avec déjà 1,5 million de copies vendues en seulement 24h** → https://actugaming.net/--802020
+
+» 🇫🇷 [Gamekult / 28 mai 2026] **Planet Zoo 2 élargit ses horizons avec des espèces aquatiques, volantes et des réserves naturelles** — Des tortues ! Des toucans ! Des éléphants ! → https://cutt.ly/bt1dFlt1
+
+» 🇬🇧 [No Man's Sky / 27 mai 2026] **The Swarm** → https://cutt.ly/tt1fIKVz
+» 🇫🇷 [PlaySrtation Blog / 27 mai 2026] **La mise à jour The Swarm de No Man’s Sky sort aujourd’hui** — Rejoignez d'autres Voyageurs dans des combats spatiaux frénétiques face à une nouvelle menace → https://cutt.ly/Ut1fOmQz
+
+### Rayman Legends Remake
+» 🇺🇸 [Insider Gaming / 27 mai 2026] **Rayman Legends Remake dubbed ‘Retold’ leaks online** → https://cutt.ly/at1gQ4DC
+» 🇫🇷 [Xboxygen / 28 mai 2026] **Le remake de Rayman Legends serait annoncé bientôt et devrait « impressionner » les joueurs** → https://cutt.ly/tt1fknlG
+
+» 🇺🇸 [Insider Gaming / 29 mai 2026] **Rayman Legends Retold price revealed** → https://cutt.ly/tt1gQcGS
+
+
+## Jeux
+
+### Yoshi and the Mysterious Book
+» Yoshi and the Mysterious Book, sorti le 21 mai à 60 € sur Switch 2 ; édité par Nintendo, développé par Good-Feel
+
+- sorti le 21 mai 2026 sur Switch 2
+- édité par Nintendo, développé par Good-Feel, studio japonais 🇯🇵 de 170 personnes derrière les jeux Princess Peach: Showtime (2024), Yoshi's Crafted World (2019), Yoshi's Woolly World (2015), Kirby's Epic Yarn (2011) → https://www.good-feel.co.jp
+- réalisé par Masahiro Yamamoto, direction artistique par Kazumasa Yonetani, écriture par Keita Kawaminami, musiques par Kumi Tanioka
+- moteur du jeu : Unreal Engine 5
+
+🎮 55 € en grande distribution
+🎮 60 € sur eShop (<https://cutt.ly/Et1s354S>)
+
+### Mina the Hollower
+» Mina the Hollower, le 29 mai à 20,50 € sur Switch 1 & 2, PlayStation 5, Xbox Series, Windows, Mac, Linux et Steam Deck ; développé par Yacht Club Games, studio états-unien 🇺🇸 derrière Shovel Knight (2014) → https://www.yachtclubgames.com/games/mina-the-hollower
+
+- sorti le 29 mai 2026 sur Switch 1 & 2, PlayStation 5, Xbox Series, Windows, Mac, Linux et Steam Deck
+- développé par Yacht Club Games, studio états-unien 🇺🇸 derrière _Shovel Knight_ (2014), _Shovel Knight Pocket Dungeon_ (2021), _Shovel Knight Dig_ (2022) → <https://www.yachtclubgames.com/games/mina-the-hollower>
+- musiques par Jake Kaufman et Yuzo Koshiro
+
+🎮 20,50 € sur Switch (<https://cutt.ly/yt1sHhvR>), PlayStation (<https://cutt.ly/ot1sHTXQ>) et Xbox (<https://cutt.ly/7t1sJBjd>)
+💻️ 20,50 € sur Steam (<https://s.team/a/1875580>) et GOG (<https://cutt.ly/5t1sGWQl>)
+
+» 🇺🇸 [Bloomberg / 2 déc. 2025] Creator of hit game Shovel Knight is at a ‘make or break’ moment — Yacht Club Games needs its next title, Mina the Hollower, to be a success → https://cutt.ly/0tuLQrRc
+» 🇫🇷 [Gamekult / 2 déc. 2025] « Ça passe ou ça casse » : pourquoi Mina the Hollower n'a pas le droit à l'échec — Yacht Club Games est à un tournant de son histoire → https://cutt.ly/wtuLbMeB
+
+### Luna Abyss
+» Luna Abyss, sorti le 21 mai à 30 € sur PlayStation 5, Xbox Series, Windows et Steam Deck ; développé par le studio britannique 🇬🇧 Kwalee Labs
+
+- sorti le 21 mai 2026 sur PlayStation 5, Xbox Series, Windows et Steam Deck
+- développé par Kwalee Labs, studio britannique 🇬🇧 filiale de Kwalee, éditeur britannique 🇬🇧 créé par David Darling, ancien cofondateur et CEO de Codemasters → https://lunaabyss.com | https://kwalee.com
+
+🎮 30 € sur PlayStation (<https://cutt.ly/Bt1ssjHE>)
+🎮 30 € ou inclus dans le Game Pass sur Xbox (<https://cutt.ly/ft1ssFzR>)
+💻️ 30 € sur Steam (<https://s.team/a/1933000>), démo disponible
+
+» NaissanceE, sorti le 13 fév. 2014 sur Windows ; développé par Limasse Five ; jeu aujourd'hui gratuit sur Steam (https://s.team/a/265690)
+» BlackShard, sorti le 2 avril 2025 sur Windows ; développé par Redlock Studio, studio français 🇫🇷 basé à Lyon ; 10 € sur Steam (https://s.team/a/3223390), démo disponible → https://blackshard-game.com
+» Hypnos, en accès anticipé depuis le 6 mai 2026 sur Steam ; développé par Redlock Studio ; 16,90 € sur Steam (https://s.team/a/2861210), démo disponible
+
+### 007 First Light
+» 007 First Light, sorti le 27 mai à 70 € ou + sur Switch 2, PlayStation 5, Xbox Series, Windows et Steam Deck ; développé par IO Interactive, studio danois 🇩🇰 derrière les jeux Hitman
+
+- développé par IO Interactive, studio danois 🇩🇰 derrière les jeux _Hitman_ → https://ioi.dk/007firstlightgame
+- réalisé par Hakan Abrak et Martin Emborg, direction artistique par Rasmus Poulsen, écriture par Michael Vogt, musiques par The Flight
+
+🎮 70 € ou + sur Switch (https://cutt.ly/It1p8W6b), PlayStation (https://cutt.ly/gt1p8DVY) et Xbox (https://cutt.ly/7t1p87d1)
+💻️ 70 € sur Steam (https://s.team/a/3768760)
+
+## Mais pas que
+### Kévin
+» 📓 Humain Normal, fanzine par Jeanne Balas, 6 € en version papier, 3 € en version numérique → https://ko-fi.com/jeannebalas/shop
+
+» 📡 101% d'anniversaire sur Nolife, le lundi 1er juin → https://twitch.tv/nolife
+
+### Gauthier
+» 🗓️ très bientôt, le planning de la couverture du festival estival des jeux vidéo
+
+excuses de sac :
+- ma mémoire est une jachère (Padre, intro)
+- c'est l'enfer parce que je suis nul (Hoopy, Mina)
+
+raids : OrigaTwitch => Monodie => (16:33)[+576] Chocolatier_PaulGarderes (>18:40) => Firmin_L_OniRoOomancien => (<23:34) moonlight_asmr => (23:40) Astra_Noc_ASMR (samedi) (terminé à 01:05)
+
+
+
+--------------------------------------
+2026-06-01
+
+# Wishlist
+
+» Gurei, le 23 juil. 2026 sur Windows et Steam Deck ; édité par Astrolabe Games, développé par Lobo Sagaz studio, studio brésilien 🇧🇷 → https://s.team/a/2191280
+- la démo date du 11 mai
+- résultats du sondage, votre avis sur Gurei : dans Wishlist 67% (6) | peut-être 0% (0) | non 33% (3)
+
+» D-topia, le 14 juil. 2026 sur Switch, PlayStation 5, Xbox Series, Windows et Steam Deck ; édité par Annapurna Interactive, développé par Marumittu Games, studio japonais 🇯🇵 derrière les jeux mobiles Shot! Shot! SPY (2019), Captain StarONE (2019), Tap! Captain Star (2019), StarONE: Origins (2018) → https://marumittu.net | https://s.team/a/1895460 | https://annapurnainteractive.com/fr/games/dtopia
+- la démo date du 20 avril
+- résultats du sondage, votre avis sur D-topia : dans Wishlist 22% (2) | ça manque de Chococro 67% (6) | c'est une Apple ici ou quoye ? 11% (1)
+
+» Empire in Decay, le 23 juil. 2026 sur Windows ; développé par Siesta Games (anciennement Eclipse Games), studio espagnol 🇪🇸 derrière Lightfish (2011), Super Toy Cars (2014), Tachyon Project (2015), Spheroids (2017), Legendary Eleven: Epic Football (2019), Super Toy Cars 2 (2019), Super Toy Cars Offroad (2022) → https://s.team/a/3345260 | https://empireindecay.com | https://siesta-games.com
+- la démo date du 26 mai
+- résultats du sondage, votre avis sur Empire in Decay : dans Wishlist 75% (3) | pas mal, mais un peu mou 25% (1) | je retourne sur Hearthstone 0% (0)
+
+excuses de sac :
+- le jeu a dit un peu tard que le leader c'est le roi, et que s'il meurt, c'est perdu
+
+raids : OrigaTwitch => (23:07)[+94]Nolife [Alexarbey=>(23:39]+17] [MateoDeSmallville=>(00:08)+9] (terminé à 00:40)
 
 
 
