@@ -21851,7 +21851,7 @@ jeux présentés lors du Day of the Devs : Blood Dungeon | Tenebris Somnia | Mr 
 » Ithaca, annoncé sur PC ; développé par The Pixel Hunt, studio français derrière Wednesdays (2025), The Wreck (2023), Inua - A Story in Ice and Time (2022), Bury Me, My Love (2019) → https://s.team/a/2156800 | https://www.thepixelhunt.com/ithaca/
 » Screenbound, annoncé pour fin 2026 sur PC / Steam Deck, développé par Crescent Moon Games et Those Dang Games → https://s.team/a/2805070
 » Shot One Fighters, annoncé sur PC ; développé par Red Moon Workshop → https://s.team/a/2945040
-» Apple Crumble, annon cépour 2026 sur PC ; développé par Happy Broccoli, studio allemand derrière Duck Detective: The Secret Salami (2024) et Duck Detective: The Ghost of Glamping (2025) → https://s.team/a/4110770 | https://happybroccoligames.com
+» Apple Crumble, annoncé pour 2026 sur PC ; développé par Happy Broccoli, studio allemand derrière Duck Detective: The Secret Salami (2024) et Duck Detective: The Ghost of Glamping (2025) → https://s.team/a/4110770 | https://happybroccoligames.com
 » Slap Out Of It!, annoncé pour 2027 sur PC, puis consoles ; développé par Turbo Button, derrière Floor Plan 1 & 2 (2017, 2021), Along Together (2018) → https://slapoutofitgame.com/ | https://s.team/a/3564410
 » Super Yooka-Laylee Kart, annoncé sur PC ; développé par Playtonic → https://s.team/a/3348210
 » Into the Fire, annoncé en accès anticipé pour 2026 sur PC ; développé par Starward Industries, studio derrière The Invincible (2023) → https://s.team/a/2988030
@@ -21863,6 +21863,9 @@ raids entrants :
 
 
 
+--------------------------------------
+2026-06-06
+
 🗓️ calendrier du Festival estival JV chez Origami → https://www.origami.ng/sgf
 
 samedi 6 juin
@@ -21870,15 +21873,245 @@ samedi 6 juin
 🕕 18:00 - Wholesome Direct (60 min) → https://youtu.be/SZ-TixImWWs | https://twitch.tv/wholesome_games
 🕖 19:00 - Story-Rich Showcase (60 min) → https://youtu.be/dRVeYxwjuiI | https://twitch.tv/fellowtravellergames
 🕗 20:00 - Green Games (60 min) → https://twitch.tv/thegameawards
-🕘 21:00 - Future of Play → https://youtu.be/hM2Ofso_w0c | https://twitch.tv/futuregamesshow
+🕘 21:00 - Future Games Show → https://youtu.be/hM2Ofso_w0c | https://twitch.tv/futuregamesshow
+
+» page Steam du Wholesome Direct : https://store.steampowered.com/sale/WholesomeDirect2026
+
+» Tinkernest, annoncé sur PC ; developpé par starbi, HOLYPERSON → https://s.team/a/4060980
+» Moonlight Peaks, le 7 juil. 2026 sur Windows, Mac et Steam Deck ; développé par Little Chicken, démo disponible → https://s.team/a/2209900
+» In The Drift, annoncé sur PC / Steam Deck ; développé par Daniel Fineberg → https://s.team/a/4712630
+» Capy Castaway, annoncé sur PC / Steam Deck ; développé par Kitten Cup Studio → https://s.team/a/2890240
+» Discounty, sorti le 21 août 2025 à 20 € sur Windows et Steam Deck, démo disponible ; développé par Crinkle Cut Games → https://s.team/a/2274620
+» Dungeon Tourists, annoncé sur PC ; développé par KMLO → https://s.team/a/3930480
+» Fourleaf Fields, annoncé sur PC / Steam Deck ; développé par Behemutt → https://s.team/a/3560050
+» Is This Seat Taken?, sorti le 7 août 2025 à 10 € sur consoles, Windows, Mac, Linux et Steam Deck, démo disponible ; développé par Poti Poti Studio → https://s.team/a/3035120
+» Usagi Shima: Bunny Island, sorti en 2023 sur Apple Arcade, sorti le 8 juin 2024 sur Android, annoncé en oct. 2026 sur Steam ; développé par pank0 et studio rabbiko → https://usagishima.net
+» Milki Delivery, annoncé pour 2026 sur Windows, Mac, Linux et Steam Deck, démo disponible ; développé par Blibloop, Doot → https://s.team/a/4259360
+» Hidden Folks 2, annoncé pour 2027 sur PC / Steam Deck ; développé par Hidden Folks → https://s.team/a/4480060
+» Lou's Lagoon, annoncé pour 2026 sur consoles, PC / Steam Deck, démo disponible ; développé par Tiny Roar → https://s.team/a/2100020
+» Beastfolk Barber (ex Project Salon), annoncé sur PC / Steam Deck ; développé par Safe Flight Games, GameWorks Ventures → https://s.team/a/4093320
+» The Wandering Village - DLC The Last Leviathan → https://s.team/a/4498320
+» Croakwood, annoncé sur PC / Steam Deck ; développé par Taxel Raptor → https://s.team/a/2261380
+» Deer & Boy, le 23 juin 2026 sur consoles et PC / Steam Deck, démo disponible ; développé par Lifeline Games → https://s.team/a/1803140 | http://deerandboy.com
+» Patience is a virtue, annoncé sur PC / Steam Deck, démo disponible ; développé par teaisfortoby!  → https://s.team/a/4656880
+» Design and Conjure, annoncé sur PC / Steam Deck, démo disponible ; développé par Tiny Kiwi Games → https://s.team/a/2390130
+» Dragon Shelter, annoncé pour 2026 sur PC / Steam Deck ; développé par Wild Forest Studio → https://s.team/a/2712590
+» Momento, sorti le 6 juin 2026 à 20 € sur Windows, Mac et Steam Deck, annoncé le 30 juin sur consoles ; développé par Fat Alien Cat et Nomo Studio → https://s.team/a/2474770
+» Petal Runner, annoncé pour 2026 sur PC / Steam Deck, démo disponible ; développé par Nano Park Studios → https://s.team/a/2795110
+» Froggy Brews, annoncé sur PC / Steam Deck, démo disponible ; développé par Komodo Range Studio → https://s.team/a/3814270 | https://www.komodorange.com/froggybrews.html
+» Planet Zoo 2, le 13 oct. 2026 à 50 € sur consoles et PC ; développé par Frontier Developemnts → https://s.team/a/3219030
+» Cozy Grove: Camp Spirit, annoncé pour 2026 sur consoles et PC / Steam Deck, démo disponible  développé par Spy Fox → https://s.team/a/2021960 | https://cozygrovegame.com
+» Go-Go Town! en accès anticipé depuis le 18 juin 2025 à 26 € sur PC, version finale sur Switch 2, démo disponible ; développé par Prideful Sloth → https://s.team/a/2195120
+» Loftia, annoncé pour fin 2026 sur PC ; développé par Qloud Games → https://s.team/a/2320980
+» Tales of Seikyu, en accès anticipé depuis le 21 mai 2025 à 24,50 € sur PC ; développé par ACE Entertainement → https://s.team/a/2340520
+» Spiritstead, annoncé sur PC / Steam Deck, démo disponible ; développé par Turbo Dog Games → https://s.team/a/3501540
+» Paralives, en accès anticipé à partir du 25 mai à 40 € sur Windows et Mac ; développé par le studio canadien québécois 🇨🇦 Paralives Studio → https://s.team/a/1118520 | https://paralives.com
+» Moomin: Midsummer Madness, annoncé pour 2026 sur Switch et PC ; développé par Crossbridge Game Studios → https://s.team/a/4463520 | https://game.shochiku.co.jp/lp/moomin-mm/
+
+» Humblets, annoncé sur PC ; développé par Berry Bite → https://s.team/a/3694600
+» Little Cheese Works, annoncé pour Q3 2026 sur PC ; développé par Bubble Gum → https://s.team/a/2527940
+» Otterly Lost, annoncé pour 2026 sur PC  Steam Deck ; développé par Soulworks Interactive → https://s.team/a/3861710
+» Walk The Frog, sorti le 21 mai 2026 à 13 € sur Windows, mac et Steam Deck, démo disponible ; développé par Walk the Frog → https://s.team/a/3336240
+» Japanese Rural Life Adventure, sorti le 3 mars 2026 à 24,50 € sur consoles et PC / Steam Deck ; développé par G-Mode et Game Start → https://s.team/a/4158870
+» Tiny Delivery, annoncé pour Q3 2026 sur PC / Steam Deck ; développé par Sinica → https://s.team/a/3812830
+» Hokko Spaces, annoncé sur PC / Steam Deck ; développé par Wonderscope Games → https://s.team/a/2907400
+» Wild Chorus, annoncé sur PC ; développé par Habitat Games → https://s.team/a/3985990
+» Anemorie, annoncé sur PC / Steam Deck, démo disponible ; développé par InnGamez Studio → https://s.team/a/3297110
+» Colorbound, annoncé pour août 2026 sur PC / Steam Deck, démo disponible ; développé par Panpipe Studio → https://s.team/a/3778610
+» Fossil Quest, annoncé que Q1 2027 sur PC / Steam Deck ; développé par Unsigned Double Collective → https://s.team/a/4105540
+» Danchi Days, annoncé sur PC / Steam Deck, démo disponible ; développé par sandy powder, Melos Han-Tani, mogumu, gingham games → https://s.team/a/3107530
+» Pelican Post, annoncé sur PC / Steam Deck ; développé par Shoreside Studio → https://s.team/a/4458440
+» Papaya Plaza, annoncé pour 2027 sur PC / Steam Deck ; développé par Biscuit Factory Games → https://s.team/a/4580030
+
+
+page Steam du Story-Rich Showcase : https://store.steampowered.com/sale/thestoryrichshowcase
+
+jeux présentés lors du Story-Rich Showcase : Burn-9 | Apple Crumble | Catechesis | Servant of the Lake | The Mermaid Mask | Danchi Days | A Line Held Tight | Penguin Colony | Wicked Delights | Lost in the Ro | SHE Seraphim Helix Experiment | Truth Scrapper | Detective Turner: If Looks Could Kill | ShelfLife: Art School Detective | Grave Seasons | Ambrosia Sky: Act One | Building Relationships | Desktop Explorer | Am I Nima | Nirvana Noir | Janet DeMornay Is A Slumlord (and a witch) | The Telwynium | Thousand Hells: The Underworld Heists
+
+» Burn-9, annoncé pour 2026 sur PC / Steam Deck, démo disponible ; développé par 14 Hours Productions → https://s.team/a/4377480
+» Apple Crumble, annoncé pour 2026 sur PC ; développé par Happy Broccoli, studio allemand derrière Duck Detective: The Secret Salami (2024) et Duck Detective: The Ghost of Glamping (2025) → https://s.team/a/4110770 | https://happybroccoligames.com
+» Catechesis, annoncé sur PC / Steam Deck, démo disponible : développé par Baroque Decay, derrière The Count Lucanor (2016), Yuppie Psycho: Executive Edition (2019) → https://s.team/a/2593320
+» Servant of the Lake, annoncé pour aout 2026 sur mobiles, Windows, Mac et Steam Deck, démo disponible ; développé par Rusy Lake → https://s.team/a/3636770
+» The Mermaid Mask, annoncé pour 2026 sur consoles et PC / Steam Deck, démo disponible ; développé par SFB Games → https://s.team/a/1696770
+» Danchi Days, annoncé sur PC / Steam Deck, démo disponible ; développé par sandy powder, Melos Han-Tani, mogumu, gingham games → https://s.team/a/3107530
+» A Line Held Tight, annoncé sur PC / Steam Deck, démo disponible ; développé par Humble Grove → https://s.team/a/3897300
+» Penguin Colony, annoncé sur PC / Steam Deck, démo disponible ; développé par Origame Digital → https://s.team/a/3695930
+» Wicked Delights, annoncé sur PC / Steam Deck ; développé par Hiding Spot → https://s.team/a/4363380
+» Lost in the Roots, annoncé sur PC / Steam Deck ; développé par Trioskaz → https://s.team/a/2872240
+» SHE - Seraphim Helix Experiment, annoncé sur PC ; développé par Rocket Adrift → https://rocketadrift.com/
+» Truth Scrapper, annoncé sur Windows, Mac, Linux et Steam Deck ; développé par insertdisc5 → https://s.team/a/3239830
+» Detective Turner: If Looks Could Kill, annoncé pour 2027 sur PC / Steam Deck ; développé par Riker → https://s.team/a/4544660
+» The Hearth and Harbour, annoncé pour 2026 sur PC / Steam Deck ; développé par Saltstone Studios → https://s.team/a/2528170
+» ShelfLife: Art School Detective, annoncé sur PC / Steam Deck ; développé par Fnife Games → https://s.team/a/2537020
+» Grave Seasons, le 14 août 2026 sur PlayStation, Xbox et PC / Steam Deck ; édité par Blumhouse Gamer, développé par Perfect Garbage → https://blumhouse.com/games/grave-seasons | https://s.team/a/3255110
+» Ambrosia Sky: Act One, sorti le 10 nov. 2025 sur PC / Steam Deck ; développé par Soft Rains, Blackbird Interactive → https://s.team/a/3580160
+er, développé par Perfect Garbage → https://blumhouse.com/games/grave-seasons | https://s.team/a/3255110
+» Building Relationships, annoncé pour 2026 sur consoles et PC / Steam Deck, démo disponible ; développé par Tanat Boozayaangool → https://s.team/a/2666920 | https://www.building-relationships.com
+» Desktop Explorer, le 17 juil. 2026 sur Windows, Mac et Steam Deck, démo disponible ; développé par Recurring Dream → https://s.team/a/2527160
+» Am I Nima, le 8 oct. 2026 sur Windows, Mac et Steam Deck, démo disponible ; développé par HO Games → https://s.team/a/3224600
+» Nirvana Noir, annoncé sur PC / Steam Deck, démo disponible ; développé par Feral Car Den → https://s.team/a/1287610
+» Janet DeMornay Is A Slumlord (and a witch), annoncé sur consoles, Windows, Mac et Steam Deck ; développé par Fuzzy Ghost → https://s.team/a/2168480
+» The Telwynium, annoncé pour 2027 sur PC / Steam Deck, démo disponible ; développé par Dave Lloyd → https://s.team/a/2818820
+» Thousand Hells: The Underworld Heists, annoncé pour fin 2026 sur PC / Steam Deck ; développé par A Sharp → https://s.team/a/3794210 | https://a-sharp.com/1000hells/
+
+Women-Led Games Showcase
+
+» page Steam : https://store.steampowered.com/sale/womenledgamessummer2026
+
+» Black Jacket, sorti le 12 mai 2026 sur PC / Steam Deck ; développé par Mi'pu'mi Games GmbH → https://s.team/a/3100370
+» Luna Abyss, sorti le 21 mai à 30 € sur PlayStation 5, Xbox Series, Windows et Steam Deck ; développé par le studio britannique 🇬🇧 Kwalee Labs
+» Treeplanter: Plant real trees🌲, sorti le 17 avril 2026 à 4 € sur Windows et Mac ; développé par Henry Driver, Rianna Suen , Halime Karaca → https://s.team/a/3531490
+» Soulframe, annoncé sur PC ; développé par Digital Extremes, derrière Warfame (2013) → https://s.team/a/4095380
+» On-Together: Virtual Co-Working, sorti le 19 jan. 2026 à 9,75 € sur Windows, mac et Steam Deck ; développé par GigaPuff → https://s.team/a/3707400
+» Schrödinger's Call, sorti le 27 mai 2026 à 18 € sur PC / Steam Deck ; développé par Acrobatic Chirimenjako → https://s.team/a/2090390
+» Rhell: Warped Worlds & Troubled Times, sorti le 12 mars 2026 à 14 € sur Windows et Mac ; développé par SlugGlove → https://s.team/a/3247030
+» Trackastrophe! sorti le 28 mai 2026 à 9 € sur PC / Steam Deck, démo disponible ; développé par Kiniko Studio → https://s.team/a/3419850
+» Model Kit Studio, annoncé pour 2027 sur PC / Steam Deck ; développé par Spooky Rabbits → https://s.team/a/4040060
+» Letter Lost, sorti le 11 juin 2026 sur PC, démo disponible ; développé par FlatNine Games → https://s.team/a/3624790
+» Arcane Eats, annoncé pour 2026 sur PC / Steam Deck, démo disponible ; développé par Wonderbelly Games → https://s.team/a/2640090
+» Dungeons and Daddies: Not a BDSM Sourcebook → https://www.dungeonsanddaddies.com
+» Horses of Hoofprint Bay, annoncé sur PC / Steam Deck, démo disponible ; développé par Thogli Studios → https://s.team/a/3727090
+» Barbie Horse Ride & Rescue, annoncé pour 2027 sur consoles et PC / Steam Deck ; développé par PikPok → https://s.team/a/4436840
+» Fallosophy, annoncé pour Q3 2026 sur PC / Steam Deck, démo disponible ; développé par Reliable Plumbing Services → https://s.team/a/3989550
+» 13Z: The Zodiac Trials, annoncé pour Q3 2026 sur PC ; développé par Mixed Realms → https://s.team/a/2348250
+» Draw, Draw, Pass! sorti le 3 mars 2026, gratuit sur Windows, Mac et Linux ; développé par Lucky Roll Studio → https://s.team/a/3394740
+» We Were Here Tomorrow, annoncé pour 2026 sur PC ; développé par Total Mayhem Games, derrière la série de We Were Here → https://s.team/a/2315050
+» Stormforge, annoncé pour 2026 sur PC ; développé par RobotoGames → https://s.team/a/2826790 | https://playstormforge.com
+» Hawthorn 🦉 annoncé sur PC / Steam Deck, démo disponible ; développé par NEARstudios → https://playhawthorn.com | https://s.team/a/3078150
+» Spook-A-Boo, annoncé sur consoles et PC / Steam Deck ; développé par Wala Interactive → https://s.team/a/3154150
+» Loftia, annoncé pour fin 2026 sur PC ; développé par Qloud Games → https://s.team/a/2320980 | https://loftia.gg
+» Burger Bois, annoncé sur PC / Steam Deck, démo disponible ; développé par Mischief Makers Studio → https://s.team/a/3224290
+» Tavern Talk Stories: Dreamwalker, le 9 juin 2026 sur Windows, Mac et Steam Deck, démo disponible ; développé par Gentle Troll Entertainment → https://s.team/a/3500880
+» Portabellows, annoncé sur PC / Steam Deck, démo disponible ; développé par Let us Cook Games → https://s.team/a/2339000
+» Every Wednesday, annoncé pour fév. 2027 sur PC / Steam Deck ; développé par Pixel Chest Storyworks → https://s.team/a/4296370
+» Light of Atlantis, annoncé pour nov. 2026 sur Windows, Mac, Linux et Steam Deck ; développé par Duck 'n' Run Games → https://s.team/a/2387740
+» A Date with Death 2: Remnants, annoncé pour Q1 2027 sur Windows, Mac, Linux et Steam Deck ; développé par Two and a Half Studios → https://s.team/a/4115300
+» Dungeons and Dining Tables, annoncé sur PC / Steam Deck, démo disponible ; développé par Catalyst Games Pty Ltd → https://s.team/a/2941630 | https://www.catalystgames.com.au/dndt
+» Toada Brava, annoncé sur Windows et Linux / Steam Deck ; développé par Asteristic Game Studio, Mateus Grazina → https://s.team/a/4253580
+» Vale's Echo, annoncé pour Windows, Mac et Steam Deck, démo disponible ; développé par Hollow Beak Games → https://s.team/a/3564990 | https://hollowbeak.com
+» The Regreening, annoncé sur PC / Steam Deck ; développé par Positive Impact Games → https://s.team/a/3419080
+» Koshmar: The Last Reverie, annoncé sur PC / Steam Deck ; développé par Purple Ray Studio → https://s.team/a/2882720 | https://purpleray.studio/
+» Unseal, annoncé sur PC / Steam Deck ; développé par The unseal Team → https://s.team/a/4034440 | https://unseal.fr
+» Rest Stop, annoncé sur PC / Steam Deck ; développé par Ant Parade Interactive LLC → https://s.team/a/4547180
+» lily's world XD, annoncé sur PC / Steam Deck, démo disponible ; développé par SonderingEmily → https://s.team/a/3195580
+» House of Saturn, annoncé sur PC / Steam Deck ; développé par XCATHEDRA Games → https://s.team/a/3799720
+» Inkblood, annoncé sur PC / Steam Deck ; développé par hey Bird! → https://s.team/a/4114100
+» Inferius, annoncé sur PC, démom disponible ; développé par Lucid Rain Studios → https://s.team/a/2470790 | https://lucidrainstudios.com
+
+» Find Me, sorti le 11 déc. 2020 à 4 € sur Windows, mac et Steam Deck ; développé par Girls Make Games, Team Invenio → https://s.team/a/1263060
+» Shredded Secrets, sorti le 30 nov. 2020 à 4 € sur Windows, Mac et Steam Deck ; développé par Girls Make Games, Team Sarcastic Shark Clouds → https://s.team/a/1479000
+» What They Don't Sea, sorti le 1er nov. 2022 à 4 € sur Windows, Mac et Steam Deck ; développé par Girls Make Games, Team Atlantis → https://s.team/a/2152030
+
+» Come to my party! annoncé pour Q4 2026 sur PC / Steam Deck, démo disponible ; développé par Simsang Yoon → https://s.team/a/3003760
+» RatScum, annoncé sur PC / Steam Deck ; développé par Eclair Games → https://s.team/a/3742840 | https://www.eclairgames.com
+» Darkbound, annoncé sur Windows, Mac et Steam Deck, démo disponible ; développé par Milmotes → https://s.team/a/3091260
+» Meowstery Wisp, en accès anticipé Q3 2026 sur Windows, Mac et Steam Deck ; développé par DMT Games → https://s.team/a/4265380
+» Puppergeist, le 16 juil. 2026 sur Windows et Steam Deck, démo disponible ; développé par Serenity Forge → https://s.team/a/4029740
+» Tiny Capsule Collector, annoncé sur PC / Steam Deck, démo disponible ; développé par Playing Mantis → https://s.team/a/4438600
+» Blue Ridge Hunting, en accès anticipé en août 2026 sur Windows, démo disponible ; développé par Jade Meadows → https://s.team/a/2434930
+» Fields of Aaru, annoncé sur PC / Steam Deck, démo disponible ; développé par Zymartu Games → https://s.team/a/4410710
+» Taste Of Heaven, annoncé pour début 2027 sur PC / Steam Deck, démo disponible ; développé par Chromatic Dream → https://s.team/a/1835080
+» [Short Short Fictions]
+» GodsTV, annoncé sur PC / Steam Deck ; développé par Melbot → https://s.team/a/2626570
+» From Ruins – Une aventure de détective, annoncé pour 2027 sur PC / Steam Deck ; développé par DigiTales Interactive → https://s.team/a/4024450
+» Hope in the City, annoncé sur PC / Steam Deck ; développé par Lofty Sky Entertainment → https://s.team/a/3610790
+
+
+page Steam du Future Games Show : https://store.steampowered.com/sale/futuregamesshow
+
+» Arizona Sunshine, annoncé sur consoles et PC ; développé par Vertigo Games, derrière Metro Awakening VR et Arizona Sunshine → https://s.team/a/4308420
+» Wardogs, annoncé pour 2026 sur PC ; développé par Bulkhead → https://s.team/a/1867240
+» The Pines, annoncé pour 2027 sur PC ; développé par Studio Abattoir → https://s.team/a/4271520 | https://thePinesGame.com
+» Ace Combat 8: Wings of Theve, le 2 oct. 2026 sur PlayStation 5, Xbox Series et Windows, développé par Bandai Namco Aces → http://acecombat.com | https://s.team/a/2288340
+» Little Nightmare III - DLC The Backstage, le 12 oct. 2016
+» Enginefall, annoncé pour 2026 sur PC ; développé par Red Rover Interactive → https://s.team/a/2437390 | https://enginefall.com
+» Gothic 1 Remake, sorti le 5 juin 2026 à 50 € sur PlayStation 5, Xbox Series et PC ; développé par Alkimia Interactive → https://s.team/a/1297900 | http://www.gothic-game.com
+» Dear von Gogh, annoncé sur Switch, PlayStation, Xbox et PC / Steam Deck via le jeu Sky: Children of the Light ; développé par thatgamecompany, derrire flOw (2007), Flower (2009), Journey (2012), Sky: Children of the Light (2021) → https://s.team/a/2325290
+» Halloween: The Game, le 8 sept. 2026 sur consoles et PC ; développé par IllFonic → https://s.team/a/3219630 | https://halloweengame.com
+» Realm of Ink, sorti le 26 mai 2026 à 25 € sur Switch, PlayStation, Xbox et PC / Steam Deck ; développé par Leap Studio → https://s.team/a/2597080
+» Duskfade, le 13 août 2026 sur consoles et PC / Steam Deck, démo disponible ; développé par Weird Beluga → https://s.team/a/2542020
+» Cairn - On the Trail: Deep Water → https://s.team/a/4487450
+» WheelMates, le 7 sept. 2026 pour 2026 sur PC / Steam Deck, démo disponible ; développé par Firevolt → https://s.team/a/3905450 | https://wheelmatesgame.com
+» WTF: Waifu Tactical Force, annoncé pour 2026 sur PC ; développé par Team Waifu → https://s.team/a/2353050 | https://wtf.gg
+
+» Be My Horde, en accès anticipé depuis le 18 juin 2024 à 10 € sur Windows / Steam Deck ; développé par Polished Games → https://s.team/a/2499520 | https://bemyhorde.com
+» Fading Echo, sorti le 21 juil. 2026 sur Windows, démo disponible ; développé par Emeteria → https://steam/a/2467880 | https://newtales.com/games/fading-echo
+» Prison of Husks, annoncé sur PC, démo disponible ; développé par Glass Head Dolls → https://s.team/a/2975260 | https://glassheaddolls.games
+» Forever Skies, sorti le 14 avr. 2025 à 26 € sur PlayStation 5 et Windows / Steam Deck ; développé par Far From Home → https://s.team/a/1641960 | https://www.farfromhomegames.com/en/foreverskies
+» Shark Dentist, annoncé sur PC ; développé par Alice Games → https://s.team/a/3423280
+
+» AGX GP, annoncé pour Q3 2026 sur PC, démo disponible ; développé par Typ1 Games → https://s.team/a/4250680
+» Don't Fret, le 1er oct. 2026 sur PC, démo disponible ; développé par Scary Kid Studios → https://s.team/a/2716830 | https://dontfretgame.com
+» Marsupilami 2 - Salsa Palombia, le 3 sept. 2026 sur consoles et PC / Steam Deck, démo disponible ; développé par Ocellus Studio → https://s.team/a/3650170
+» Dinghai: The Ocean Pillar, annoncé sur PC ; développé par Justdan → https://s.team/a/4542740
+» Assassin's Creed Black Flag Resynced, le 9 juil. 2026 sur PlayStation 5, Xbox Series et PC ; développé par Ubisoft Montréal → https://s.team/a/3751950
+» Blasphemous II - DLC The Third Sin ; développé par The Game Kitchen → https://s.team/a/
+» Defender of the Crown: The Legend Returns, le 13 août 2026 sur PC / Steam Deck ; développé par Black Tower Basement → https://s.team/a/4208140
+» Holdfast: Nations At War - DLC American Revolution, le 11 juin 2026 sur PC → https://s.team/a/4678690
+» They Will Come, annoncé pour juillet 2026 sur PC ; développé par Game Pop → https://s.team/a/3957680
+» BioEden, le 3 sept. 2026 sur PC, démo disponible ; développé par Broken Arms Games, studio derrière Atomine (2017), Hundred Days - Winemaking Simulator (2021), Under Par Golf Architect (2026) → https://s.team/a/3265840
+» The Sinking City 2, le 18 août 2026 sur consoles et PC, démo disponible ; développé par Frogwares → https://s.team/a/2825860 | https://frogwares.com
+» Skatesterre, annoncé pour 2026 sur consoles et PC ; développé par Goon Squad, derrière Hop Drop (2025), Twiggle's Grove (2026) → https://s.team/a/4224220
+» Vampire Crawlers: The Turbo Wildcard from Vampire Survivors, sorti le 21 avril 2026 à 10 € sur PlayStation 5 et Xbox Series, à 9 € sur Windows et Steam Deck, démo disponible ; développé par poncle et Nosebleed Interactive
+» Vampire Survivors - DLC Legacy of the Bloodmoon
+» The Alters - DLC Last Variable le 13 juil. 2026 → https://s.team/a/3237520
+» Aniimo, annoncé pour Q3 2026 sur PlayStation 5, Xbox Series et PC ; développé par Pawprint Studio → https://s.team/a/4126040 | https://aniimo.com
+» Cordura, annoncé sur PlayStation 5 et PC ; développé par Garage51, studio derrière Drums Rock (2023) → https://s.team/a/4414560 | https://garage51.es/cordura/
+» Chronoscript: The Endless End, annoncé pour 2026 sur PlayStation 5 et PC / Steam Deck ; développé par DeskWorks → https://s.team/a/4018380
+» Impermanence, annoncé sur PC : développé par Bad Choices Loud Noises, Duckosaurus Games derrière les jeux Dino-Ducks → https://s.team/a/4703890
+» The Lift: Supernatural Handyman Simulator, annoncé pour 2027 sur PC / Steam Deck ; édité par tinyBuild, développé par Fantastic Signals → https://s.team/a/3283240
+» My Cannibal Family, annoncé pour 2027 sur PlayStation 5, Xbox Series et PC ; dévelopé par Wolf & Wood Interactive → https://s.team/a/3153700 | https://www.wolfandwood.co
+» Mistfall Hunter, le 29 juillet 2026 sur PlayStation 5, Xbox Series et PC ; développé par Bellring Games → https://s.team/a/3282300 | https://mistfallhunter.com
+» Clive Barker's Hellraiser: Revival, annoncé pour 2026 sur PlayStation 5, Xnox Series et PC ; développé par Saber Interactive → https://s.team/a/1551980 | https://hellraisergame.com
+» DeadRoot, annoncé sur Xbox Series et PC ; développé par Finish Line Games, derrière Maize (2016), Skully(2020), Robots at Midnight (2025) ; → https://s.team/a/2374540
+» The Road of Dust and Sorrow, annoncé pour 2026 sur consoles et PC / Steam Deck, démo disponible ; développé par Painted Black Games, derrière The Long Reach (2018) → https://s.team/a/3895110
+» Tomb Raider: Legacy of Atlantis, annoncé pour le 12 févr. 2027 sur Switch 2, PlayStation 5, Xbox Series et Windows ; développé par Crystal Dynamics et Flying Wild Hogs → https://playtombraider.com/ | https://s.team/a/3558670
+» 1666 Amsterdam, annoncé sur PC, démo disponible ; développé par Panache Digital Games, studio de Patrice Désilets derrière Ancestors: The Humankind Odyssey (2020) → https://s.team/a/3949550
+» Exodus, annoncé pour 2027 sur PlayStation 5, Xbox Series et PC ; développé par Archetype Entertainment → https://s.team/a/3230960 | https://exodusgame.com
+
+(Los Angeles)
+» Terminal War, annoncé sur PC ; développé par Albatross Interactive → https://s.team/a/3788160
+» Bel's Fanfare, annoncé sur PC / Steam Deck ; développé par Chibig, studio derrière Summer in Mara (2020), Stories of Mara (2021), Deiland: Pocket Planet (2021), Ankora: Lost Days (2022), Koa and the Five Pirates of Mara (2023), Mika and The Witch's Mountain (2025) → https://s.team/a/4317460
+» Hellcard II, annoncé pour Q3 2026 sur PC ; développé par Thing Trunk → https://s.team/a/3106270 | https://thingtrunk.com
+» Witchspire, en accès anticipé le 10 juin 2026 sur PC ; développé par Envar Games → https://s.team/a/2679100 | https://playWitchspire.com
+» The Rabbit Haul, annoncé sur PC, démo disponible ; développé par Caldera Interactive → https://s.team/a/2514330 | https://calderainteractive.com
+» Ved: Recure, annoncé sur PC, démo disponible ; développé par SummerClip → https://s.team/a/3255500
+» Don't Kill Them All, annoncé pour Q4 2026 sur PC, démo disponible ; développé par Fika Productions → https://s.team/a/2322260 | https://dktagame.com
+» Paradoxical, annoncé pour Q2 2027 sur PC ; développé par Venn Studios
+→ https://s.team/a/4040750 | https://venn-studios.com/games/paradoxical
+» Alkahest, annoncé sur PlayStation 5, Xbox Series et PC ; développé par Push On → https://s.team/a/3016620 | https://alkahestgame.com
+» Gemini X, annoncé sur PC ; développé par Komi Games, studio derrière Mighty Fight Federation (2021) → https://s.team/a/4360760 | https://geminixgame.com
+
+raids : OrigaTwitch => (22:57)[+736] Nico_Oni => (23:33) Super_Bulle => (23:50) tpk_live (dimanche) (>00:00)
+
+
+
+--------------------------------------
+2026-06-07
+
+🗓️ calendrier du Festival estival JV chez Origami → https://www.origami.ng/sgf
 
 dimanche 7 juin
 🕖 19:00 - Xbox Games Showcase (120 min) → https://youtu.be/RinXA_k9f4s | https://twitch.tv/Xbox
 🕘 21:00 - PC Gaming Show (90 min) → https://youtu.be/tRVxQ7VLmHI | https://twitch.tv/pcgamer
-🕚 23:00 - 🇩🇪 deutsche indie showcase (60 min) → https://youtu.be/iR1IuaxOsG4
+🕚 23:00 - 🇩🇪 deutsche indie showcase (60 min) → https://youtu.be/iR1IuaxOsG4 | https://indiegames.show/en
+
+» page Steam du Xbox Games Showcase : https://store.steampowered.com/sale/XboxShowcase2026
+
+» page Steam du PC Gaming Show : https://store.steampowered.com/curator/1850/sale/pcgamingshow2026
+
+
+» 
+→ https://s.team/a/
+» 
+→ https://s.team/a/
+» 
+→ https://s.team/a/
 
 lundi 8 juin
 🕖 19:00 - 🇮🇳 India Games Showcase → https://youtube.com/@indgshowcase | https://twitch.tv/indgshowcase
+
+» page Steam du India Games Showcase : https://store.steampowered.com/sale/IndiaGamesShowcase2026
 
 mardi 8 juin
 🕗 20:00 - UploadVR Showcase → https://youtube.com/@Uploadvr
