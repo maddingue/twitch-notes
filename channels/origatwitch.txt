@@ -21931,7 +21931,7 @@ jeux présentés lors du Story-Rich Showcase : Burn-9 | Apple Crumble | Cateches
 » Burn-9, annoncé pour 2026 sur PC / Steam Deck, démo disponible ; développé par 14 Hours Productions → https://s.team/a/4377480
 » Apple Crumble, annoncé pour 2026 sur PC ; développé par Happy Broccoli, studio allemand derrière Duck Detective: The Secret Salami (2024) et Duck Detective: The Ghost of Glamping (2025) → https://s.team/a/4110770 | https://happybroccoligames.com
 » Catechesis, annoncé sur PC / Steam Deck, démo disponible : développé par Baroque Decay, derrière The Count Lucanor (2016), Yuppie Psycho: Executive Edition (2019) → https://s.team/a/2593320
-» Servant of the Lake, annoncé pour aout 2026 sur mobiles, Windows, Mac et Steam Deck, démo disponible ; développé par Rusy Lake → https://s.team/a/3636770
+» Servant of the Lake, annoncé pour aout 2026 sur mobiles, Windows, Mac et Steam Deck, démo disponible ; développé par Rusty Lake → https://s.team/a/3636770
 » The Mermaid Mask, annoncé pour 2026 sur consoles et PC / Steam Deck, démo disponible ; développé par SFB Games → https://s.team/a/1696770
 » Danchi Days, annoncé sur PC / Steam Deck, démo disponible ; développé par sandy powder, Melos Han-Tani, mogumu, gingham games → https://s.team/a/3107530
 » A Line Held Tight, annoncé sur PC / Steam Deck, démo disponible ; développé par Humble Grove → https://s.team/a/3897300
@@ -21998,6 +21998,7 @@ Women-Led Games Showcase
 » Inkblood, annoncé sur PC / Steam Deck ; développé par hey Bird! → https://s.team/a/4114100
 » Inferius, annoncé sur PC, démom disponible ; développé par Lucid Rain Studios → https://s.team/a/2470790 | https://lucidrainstudios.com
 
+» lily's world XD, annoncé sur PC / Steam Deck, démo disponible ; développé par SonderingEmily → https://s.team/a/3195580
 » Find Me, sorti le 11 déc. 2020 à 4 € sur Windows, mac et Steam Deck ; développé par Girls Make Games, Team Invenio → https://s.team/a/1263060
 » Shredded Secrets, sorti le 30 nov. 2020 à 4 € sur Windows, Mac et Steam Deck ; développé par Girls Make Games, Team Sarcastic Shark Clouds → https://s.team/a/1479000
 » What They Don't Sea, sorti le 1er nov. 2022 à 4 € sur Windows, Mac et Steam Deck ; développé par Girls Make Games, Team Atlantis → https://s.team/a/2152030
@@ -22110,7 +22111,7 @@ https://news.xbox.com/en-us/2026/06/07/xbox-games-showcase-2026-recap-everything
 » Bad Magpie, annoncé pour 2027 sur Xbox Series et PC ; développé par Milktooth → https://s.team/a/4278970 | https://milktooth.dev
 » Wo Long 2: Wings of Ember, annoncé pour début 2027 sur PlayStation 5, Xbox Series et PC ; développé par Koei Tecmo → https://s.team/a/
 » Join Us, annoncé pour 2027 sur PlayStation 5, Xbox Series et PC ; développé par Wolf Haus Games → https://s.team/a/3401960 | https://wolfhausgames.com/
-» Senua, annoncé pour 2027 sur PlayStation 5, Xbox Series et PC ; développé par Ninja Theory → https://s.team/a/
+» Senua, annoncé pour 2027 sur PlayStation 5, Xbox Series et PC ; développé par Ninja Theory → https://s.team/a/3676410
 » Fallout 76 - Infestations → https://fallout.bethesda.net
 » DOOM: The Dark Ages - DLC Revelations, le 7 juil. 2026 → https://s.team/a/3469450
 » Crazy Taxi: World Tour, annoncé pour 2027 sur PlayStation 5, Xbox Series et PC ; développé par Sega → https://s.team/a/2924540 | https://crazytaxi.sega.com
@@ -22289,8 +22290,602 @@ lundi 8 juin
 » Raji: Kaliyuga, annoncé sur PlayStation 5, Xbox Series et PC ; développé par Nodding Heads Games, studio derrière Raji: An Ancient Epic (2020) → https://s.team/a/4096880 | https://rajithegame.com
 
 
+
+--------------------------------------
+2026-06-08
+
+# Mardinale #90
+## Actus
+### Nintendo condamné à payer 35 millions d'euros à l'Etat Français
+» 🇫🇷 [DGCCRF] **Dysfonctionnements des manettes de la console Nintendo Switch 1 : 35 millions d’euros d’amende prononcés à l’issue d’une enquête de la DGCCRF** → https://cutt.ly/ft9mNUx4
+» 🇫🇷 [Gamekult / 8 juin 2026] **Joy-Con Drift : Nintendo écope d'une amende de 35 millions d'euros par la France** → https://cutt.ly/Xt9mFfcB
+» 🇫🇷 [France Info / 8 juin 2026] **Le géant du jeu vidéo Nintendo paie 35 millions d'euros en France pour clore un litige lié aux manettes de la Switch** — Après une plainte de l'association de consommateurs UFC-Que Choisir, la Direction générale de la concurrence, de la consommation et de la répression des fraudes a épinglé le groupe pour pratique commerciale trompeuse → https://cutt.ly/At9mGXPv
+» 🇬🇧 [Games Industry / 8 juin 2026] **Nintendo of Europe agrees to pay €35m fine for Joy-Con drift defects** — Nintendo denies "intentionally misleading consumers", calls settlement issued by French regulator an "amicable resolution" → https://cutt.ly/kt9mB4yH
+
+» 🇺🇸 [Game Developer / 4 juin 2026] **Nintendo to debut a Switch 2 model with replaceable batteries in the EU** — Starting in February 2027, batteries in many devices will need to be 'easily replaceable,' and Nintendo has signaled it will comply → https://cutt.ly/ct9m2DjM
+
+### Gears of War E-Day et le retour des exclus XBOX
+» ▶️ [YouTube / GamerTag Radio / 7 juin 2026] **Matt Booy lays out Xbox exclusive strategy** → https://youtu.be/iWLmhs0nmyc (6 min)
+» 🇺🇸 [The Game Business / 8 juin 2026] **The console war returns – The Game Business Micro** — Somehow exclusivity returns, Summer Game Fest delivers big numbers and Bond nears profitability → https://cutt.ly/Qt9m1CFp (11 min)
+» 🇬🇧 [Games Industry / 8 juin 2026] **Xbox explains new exclusives policy: players "can expect a reliable pipeline" of exclusive titles in service of "turning around the business"** — Matthew Ball says "we know how we're going to make those decisions," with internal and external communication to follow → https://cutt.ly/Lt9mMJoI
+» 🇫🇷 [Gamekult / 7 juin 2026] **Pour que vous rachetiez des Xbox, Matt Booty réintroduit la notion d'exclusivités au cas par cas** → https://cutt.ly/5t9mHifO
+» 🇫🇷 [ActuGaming / 7 juin 2026] **Gears of War: E-Day se montre avec une longue séquence de gameplay et marque le retour des exclusivités XBOX** → https://actugaming.net/--804281
+» 🇫🇷 [ActuGaming / 7 juin 2026] **Avec Gears of War: E-Day et Clockwork Revolution, XBOX signe un retour aux exclusivités au dernier moment ?** → https://actugaming.net/--804453
+» 🇫🇷 [ActuGaming / 9 juin 2026] **Un logo PS5 est apparu sur une présentation de Gears of War: E-Day dans le podcast XBOX** → https://actugaming.net/--804733
+» 🇫🇷 [Gamekult / 7 juin 2026] **Halo : Campaign Evolved fait le beau avec un nouveau trailer capturé sur PS5 Pro** — Celui-là, il est trop tard pour l'annuler → https://cutt.ly/It4fVgBE
+
+» ▶️ [YouTube / Bloomberg / 5 juin 2026] **Xbox CEO Sharma shares vision for reboot** → https://youtu.be/Fsjm9-kYdPs (16 min)
+» 🇬🇧 [Games Industry / 5 juin 2026] **Asha Sharma commits to "resetting" Xbox, prioritising exclusivity and addressing AI in new strategy** — Xbox CEO outlines plans to become "the number one gaming and entertainment company" amid rising component costs and platform competition → https://cutt.ly/5t9m3l8X
+
+» 🇺🇸 [Xbox Wire / 7 juin 2026] **Senua: Answering the big questions about Ninja Theory’s unexpected new action-adventure** → https://cutt.ly/Vt9m8juK
+» 🇬🇧 [Games Industry / 9 juin 2026] **Ninja Theory cancels Project Mara** — Decision made to "take the opportunity to have all the talent and expertise working together" on third Hellblade title Senua → https://cutt.ly/pt9m3Vnn
+
+» 🇺🇸 [Bloomberg / 10 juin 2026] **Xbox plans significant layoffs as new CEO plans overhaul** — Asha Sharma’s first major cuts will arrive in July → https://cutt.ly/Ot9m4ik6
+
+### Blade annulé ? A priori un malentendu.
+» 🇫🇷 [Xboxygen / 8 juin 2026] **Marvel’s Blade : après la rumeur d’annulation, Jeff Grubb rassure finalement les joueurs** → https://cutt.ly/1t9m5dxW
+» 🇬🇧 [GamesRadar+ / 9 juin 2026]**Marvel's Blade is not canceled, Arkane dev confirms after Summer Game Fest no-show and over 2 years of silence** → https://cutt.ly/jt9m6vkz
+» 🇫🇷 [Numerama / 10 juin 2026] **Comme le film, le prochain jeu Blade est porté disparu** — Les vampires vont bien → https://cutt.ly/Ht9m7fjg
+
+### IA génératives : Crazy Taxi, Tomb Raider, 1666 et Kingdom Hearts dans la sauce
+**Crazy Taxi**
+» 🇺🇸 [Kotaku / 7 juin 2026] **Why do you need generative AI to make Crazy Taxi?** — Answer: You don't! → https://kotaku.com/--2000703713
+» 🇺🇸 [Game Informer / 7 juin 2026] **Sega confirms and responds to generative AI content in new Crazy Taxi game** → https://cutt.ly/5t4f8jIm
+» 🇺🇸 [Kotaku / 8 juin 2026] **Crazy Taxi: World Tour lead says generative AI will continue to be a ‘hot topic,’ but they’re using it anyway** — Series creator Kenji Kanno elaborates on the game’s use of AI-generated assets → https://kotaku.com/--2000703805
+» 🇫🇷 [ActuGaming / 8 juin 2026] **SEGA précise qu’il a utilisé l’IA générative durant le développement de Crazy Taxi: World Tour** → https://actugaming.net/--804488
+
+**Tomb Raider: Legacy of Atlantis**
+» 🇺🇸 [Kotaku / 3 juin 2026] **Uh oh, GenAI was used in the development of the beautiful new Tomb Raider remake** — The Steam page for Tomb Raider: Legacy of Atlantis includes a genAI disclosure → https://kotaku.com/--2000701988
+» 🇺🇸 [Polygon / 11 juin 2026] **Tomb Raider: Legacy of Atlantis studio confirms AI use: 'a tool that can help our teams'** — The developer affirms that all final assets will be human-made → https://cutt.ly/Dt4f7YmE
+
+» 🦋 [BlueSky / Game Informer / 11 juin 2026] 🧵 https://bsky.app/profile/gameinformer.com/post/3mnzhaqadi22t
+> We asked the Crystal Dynamics team about its use of generative AI in developing Tomb Raider: Legacy of Atlantis. Here’s what Jeff Adams, experience director on the game, had to say.
+
+» 🇺🇸 [Kotaku / 11 juin 2026] **Watch what happens when a game dev doesn’t have an answer to a tough question** — Crystal Dynamics' PR leaps in to prevent a Tomb Raider interview from going off script → https://kotaku.com/--2000705567
+» 🇫🇷 [ActuGaming / 11 juin 2026] **Crystal Dynamics fait le point sur la manière dont a été utilisée l’IA générative dans Tomb Raider: Legacy of Atlantis** → https://actugaming.net/--805615/
+
+**1666: Amsterdam**
+» 🇺🇸 [Kotaku / 11 juin 2026] **1666: Amsterdam Developer Gets Caught, Fesses Up To Using AI Assets** — Panache Digital Games say the genAI shite will be replaced by human art 'soon' → https://kotaku.com/--2000705525
+
+**Kingdom Hearts**
+» 🇺🇸 [Kotaku / 9 juin 2026] **Kingdom Hearts Fans Think They’ve Unraveled The Bizarre Mystery Surrounding Alleged AI-Assisted Box Art** — It's possible the original Tetsuya Nomura art was tweaked with genAI → https://kotaku.com/--2000704609
+
+» 🇺🇸 [Aftermath / 8 juin 2026] **Vague AI disclosures aren’t helping anyone** — They're better than nothing, but not by much → https://cutt.ly/mt4gyYUu
+
+» 🇦🇺 [twiv / 18 déc. 2025] **Concept artists say generative AI references only make their jobs harder** → https://cutt.ly/Ct4gzP1d
+
+### En Californie, Stop Killing Games fait des émules
+» 🇫🇷 [Gamekult / 15 mai 2026] **Stop Killing Games : un projet de loi californien est en bonne voie pour la préservation des jeux en ligne** → https://cutt.ly/St9mXWfR
+» 🇫🇷 [Gamekult / 1er juin 2026] **Stop Killing Games : la Californie vote une loi historique pour protéger les jeux dématérialisés** → https://cutt.ly/Pt9mZ1Mz
+» 🇫🇷 [BFM TV / 8 juin 2026] **Créer "des plans de fin de vie" et "responsabiliser" les éditeurs: comment "Stop Killing Games", campagne lancée par un Youtubeur, pourrait changer la donne et éviter les arrêts brutaux de certains jeux vidéo** → https://cutt.ly/yt9mC9a6
+
+### Velan sur StarFox, 500k pour Mina et le million pour Heroes Olden Era
+» 🇫🇷 [Gamekult / 7 mai 2026] **Star Fox : surprise, Nintendo dévoile un nouveau remake de l'épisode Nintendo 64** → https://cutt.ly/at3RgqqI
+
+» 🇫🇷 [Gamekult / 4 juin 2026] **Mina the Hollower : 300 000 exemplaires en trois jours, Yacht Club Games peut respirer un peu** → https://cutt.ly/It3Rgkxl
+
+» 🇫🇷 [Gamekult / 29 mai 2026] **Heroes of Might & Magic : Olden Era dépasse le million d'exemplaires et établit sa feuille de route** → https://cutt.ly/ct3RfiHC
+
+
+
+--------------------------------------
+2026-06-11
+
+# Wishlist
+
+» SpeedRunners 2 🏃🏃 King of Speed, annoncé pour juil. 2026 sur Switch, PlayStation 5, Xbox Series, Windows et Steam Deck, démo disponible ; édité par tinyBuild, développé par Fair Play Labs, studio costa ricain 🇨🇷 derrière Color Guardians (2015), Nickelodeon All-Star Brawl 1 (2021) et 2 (2023), Bit Heroes Arena (2023) → https://speedrunners.com | https://fairplaylabs.com
+
+» 33 Immortals, sorti le 10 juin 2026 13,40 € sur Xbox Series, Windows et Steam Deck, démo disponible ; développé par Thunder Lotus Game, studio canadien 🇨🇦 derrière Jotun (2015), Sundered (2017), Spiritfarer (2020) → https://thunderlotusgames.com/33-immortals/ | https://s.team/a/958520
+
+» Storebound, en accès anticipé depuis le 17 nov. 2025 à 8 € sur Windows, version 1.0 le 16 juil. 2026 ; développé par Embers, 
+
+raids : Misu_Kawai_Otaku => (23:54)[+7] OrigaTwitch => (23:57)[+118] Kamuirobotics [MarcusZeBoulet=>(00:11)+183] => (00:33)[+134] Guile (terminé à 02:12)
+
+
+
+--------------------------------------
+2026-06-12
+
+# L'Hebdo #109
+
+## Actus
+### Origami
+» ▶️ [YouTube] 101% n°1978 - Le lundi, c'est n'importe Claire ! → https://youtu.be/lc_8IFBSyEA
+» ▶️ [YouTube] Chez Marcus n°436 : Star Wars Rogue Squadron II : Rogue Leader → https://youtu.be/akfBB_0z2eo
+» ▶️ [YouTube] Internet Exploreuses — Doit-on lutter pour manger ? avec Nora Bouazzouni → https://youtu.be/nY4e_0VmAFk
+» ▶️ [YouTube] Freak of the Month — La machine à remonter Internet | Gxrls Need Modems → https://youtu.be/3rnEku_Q2L4
+» ▶️ [YouTube] La Mercredinale — Ocarina of Time Remake cette année / XBOX veut revenir aux exclus / Nintendo va payer → https://youtu.be/BMVRAD-sSuE
+» ▶️ [YouTube] Super Vieux Jeux — On se montre des boites de jeu et ça fait notre joie → https://youtu.be/Q6mUrNsC3tY
+» 💌 [Origami] Infolettre — Ignorez-moi ! → https://www.origami.ng/ignorez-moi/
+
+## Jeux
+
+### Crushed In Time
+» Crushed In Time, sorti le 10 juin à 25 €, promo de lancement à 20 €, sur Windows et Steam Deck ; Draw Me A Pixel, studio français 🇫🇷️ derrière There Is No Game: Wrong Dimension (2020) → https://s.team/a/3858650 | https://drawmeapixel.com/games/crushed-in-time
+
+- sorti le 10 juin 2026 sur Windows et Steam Deck
+- annoncé par la suite sur Switch et mobiles
+- développé par Draw Me A Pixel, studio français 🇫🇷️ derrière _There Is No Game: Wrong Dimension_ (2020) → <https://drawmeapixel.com/games/crushed-in-time>
+- écriture et réalisation par Pascal Cammisotto, programmation par Guillaume Vidal
+
+💻️ 25 € sur Steam (<https://s.team/a/3858650>)
+
+» ▶️ [YouTube / Origami / 27 jan. 2026] Elle donne vie à Holmes et Watson, entretien avec Elsa Macé, animatrice 3D sur Crushed in Time → https://youtu.be/4wgjI6bL2iY (33 min)
+
+### PC Gaming Show 2026
+» Carcass Clad, annoncé sur PC ; développé par Wrong Organ, derrière Mouthwashing (2024), How Fish Is Made (2022) → https://s.team/a/3327430
+
+» Signet City, annoncé sur PC / Steam Deck ; développé par Jump Over the Age, studio britannique 🇬🇧 de Gareth Damian Martin, derrière In Other Waters (2020), Citizen Sleeper (2022), Citizen Sleeper 2: Starward Vector (2025)  → https://s.team/a/4582880 | https://jumpovertheage.com
+
+» Locator 🗺️ The Search for Abigail Lidari, annoncé sur PC / Steam Deck, démo disponible ; développé par Empty Exhibit, studio derrière A Hint of Purple (2023) → https://s.team/a/2459030 | https://emptyexhibitgames.com
+» Beware of the Cartographer! annoncé sur PC / Steam Deck ; développé par Tohu Bohu Games → https://s.team/a/3905500 | https://tohubohu.games
+» Map Map - A Game About Maps, annoncé sur PC / Steam Deck, développé par Pipapo Games → https://s.team/a/2702260 | https://pipapo.games
+
+» Into the Wind, accès anticipé annoncé sur PC ; développé par Bloom & Gloom Games → https://s.team/a/2843060 | https://intothewindgame.com
+
+» Rivage, le 13 août 2026 sur PlayStation 5, Xbox Series et PC, démo disponible ; développé par Exnilo Studio 🇨🇦 → https://s.team/a/4094660
+
+» Wind Runners, annoncé pour 2026 sur PC / Steam Deck, démo disponible ; développé par Ludic Studios, derrière Akane (2018), Kate: Collateral Damage (2021) → https://s.team/a/1101370
+
+» Vampire: The Masquerade — Eternal Whispers, annoncé sur PC ; développé par Flyos → https://s.team/a/4102480 | https://flyosgames.com/pages/video-game
+
+» El Paso, Elsewhere 2, annoncé sur PC ; développé par Strange Scaffold → https://s.team/a/3642020
+
+» Duskers 2.0, annoncé sur PC ; développé par Misfits Attic, derrière A Virus Named TOM (2012), Duskers (2016), Below the Crown (2026) → https://s.team/a/2211630
+
+» Pipes.exe, annoncé sur PC ; développé par Moving Pieces Interactive, derrière Entropy Survivors (2024), Shoulders of Giants: Ultimate (2024) → https://s.team/a/3688240
+
+» Exo Rally Championship, le 7 juin 2026 à 24,50 € 2026 sur PC ; développé par Exbleative, studio australien 🇦🇺 de Jay Weston derrière Exo One (2021) → https://s.team/a/2262020 | https://exo-one-game.com | https://exbleative.com
+
+» Cassette Beasts 2002, annoncé sur consoles et PC / Steam Deck ; développé par Bytten Studio → https://s.team/a/3802140
+
+» 2 Fights in 2 Tight Spaces, en accès anticipé depuis le 7 juin 2026 à 13,50 € sur PC / Steam Deck ; développé par Ground Shatter → https://s.team/a/3734890
+
+» Total War: Warhammer 40,000, annoncé sur PlayStation 5, Xbox Series et PC ; développé par Creative Assembly → https://s.team/a/4199910
+
+### Xbox Games Showcase
+» Senua, annoncé pour 2027 sur PlayStation 5, Xbox Series et PC ; développé par Ninja Theory → https://s.team/a/3676410
+
+» Spyro: A Realm Beyond, annoncé pour le printemps 2027 sur PlayStation 5, Xbox Series et PC ; développé par Toys For Bob
+
+» Persona 6, annoncé sur PlayStation 5, Xbox Series et PC ; développé par Atlus → https://persona.atlus.com → https://s.team/a/4245560
+» Persona 4 Revival, le 18 fév. 2027 sur PlayStation 5, Xbox Series (Game Pass) et PC / Steam Deck ; développé par Atlus → https://s.team/a/2963950 | https://www.sega.com/persona/persona-4-revival
+
+» Magicians: The Devil's Deal, annoncé pour 2027 sur PlayStation 5, Xbox Series et PC ; développé par Uppercut Games, studio derrière Submerged (2015), City of Brass (2018), Submerged: Hidden Depths (2022) → https://s.team/a/3299300
+
+» ▶️ [YouTube] La Mercredinale — Ocarina of Time Remake cette année / XBOX veut revenir aux exclus / Nintendo va payer → https://youtu.be/BMVRAD-sSuE
+
+» 🇺🇸 [Xbox Wire / 10 juin 2026] **Next 100 Days: XBOX Reset** → https://cutt.ly/lt91vY0Q
+» 🇺🇸 [Bloomberg / 10 juin 2026] **Xbox plans significant layoffs as new CEO plans overhaul** — Asha Sharma’s first major cuts will arrive in July → https://cutt.ly/Ot9m4ik6
+» 🇺🇸 [The Verge / 10 juin 2026] **Xbox warns of a ‘reset’ as it prepares for layoffs** — The company has been preparing for the layoffs internally for weeks → https://cutt.ly/0t3EBLHE
+» 🇫🇷 [Gamekult / 11 juin 2026] **Xbox prépare de nouveaux licenciements massifs pour juillet** → https://cutt.ly/dt3RoexD
+» 🇺🇸 [Windows Central / 12 juin 2026] **Inside Xbox's margin crush: A string of misses at Xbox Game Studios, misguided Game Pass decisions, and the memory rout at its core** — Microsoft's gaming division is facing a crisis, albeit not in a vacuum. The industry is struggling to figure out a path forward as memory becomes scarce → https://cutt.ly/ot3EV4s4
+» 🇺🇸 [GeekWire / 12 juin 2026] **Microsoft CEO Satya Nadella on Xbox: ‘We have to turn this into a sustainable business’** → https://cutt.ly/bt3EBYiD
+
+» Resonance: A Plague Tale Legacy, annoncé pour 2026 sur PlayStation 5, Xbox Series et PC ; édité par Focus, développé par Asobo Studio, derrière A Plague Tale Innocence (2019) et Requiem (2022), Microsoft Flight Simulator (2020) → https://s.team/a/2713000 | https://asobostudio.com/jeux/resonance-plague-tale-legacy
+» Metro 2039, annoncé fév. 2027 sur PlayStation 5, Xbox Series et PC ; développé par 4A Games, studio ukrainien 🇺🇦 derrière la série des jeux Metro → https://metro2039.com | https://s.team/a/2590240
+» Valor Mortis, le 13 oct. 2026 sur PlayStation 5, Xbox Series et PC ; développé par One More Level, studio derrière Ghostrunner 1 & 2 (2020, 2023) → https://s.team/a/2828710 | https://valormortis.com
+» Crazy Taxi: World Tour, annoncé pour 2027 sur PlayStation 5, Xbox Series et PC ; développé par Sega → https://s.team/a/2924540 | https://crazytaxi.sega.com
+» Castlevania: Belmont's Curse, le 15 oct. 2026 sur PlayStation 5, Xbox Series et PC ; développé par Evil Empire → https://s.team/a/4231820 | https://konami.com/games/castlevania/belmonts_curse/
+
+### Nintendo Direct
+» Fire Emblem: Fortune's Weave, le 17 sept. 2026 sur Switch 2 ; développé par Intelligent Systems
+» Xenoblade Genesis, annoncé pour 2027 sur Switch 2 ; développé Monolith Software
+» Final Fantasy Resonance, le 22 oct. 2026 sur Switch 2, PlayStation 5, Xbox Series et PC ; développé par Square Enix → https://www.square-enix.com/finalfantasyresonance | https://s.team/a/3259780
+» The Legend of Zelda: Ocarina of Time, annoncé pour 2026 sur Switch 2 ; dévelopé par Nintendo of Europe
+» Rhythm Paradise Groove, le 2 juil. 2026 sur Switch ; développé par Nintendo
+» Onimusha: Way of the Sword, le 25 sept. à 70 € sur Switch 2, PlayStation 5, Xbox Series et PC, démo disponible ; développé par Capcom, réalisé par Satoru Nihei → https://capcom-games.com/onimusha/ws/ | https://s.team/a/2638890
+» Dragon's Dogma 2: Dark Arisen, le 9 oct. 2026 sur Switch 2, PlayStation 5, Xbox Series et PC ; développé par Capcom
+» Orbitals, le 3 sept. 2026 sur Switch 2 ; édité par Kepler Interactive, développé par Shapefarm
+» Pokémon Pokopia, extension sous-marine en août 2026
+» Ninjala 2: The Uncharted Planet, annoncé pour Q2 2027 sur Switch 2 ; développé par GungHo Online Entertainment
+» Jujutsu Kaisen Rumble: Survivaton, annoncé pour 2026 sur Switch 2, PlayStation 5, Xbox Series et PC ; édité par Shueisha Games, développé par poncle → https://s.team/a/4753290
+» Pikuniku 2, annoncé sur Switch 2 et PC ; édité par Devolver Digital, développé par Sectordub → https://s.team/a/2676350
+» The Duskbloods, annoncé pour 2026 sur Switch 2 ; développé par FromSoftware
+» Deltarune, le 4 juin 2025 sur Switch, PlayStation, Xbox, Windows, Mac et Steam Deck, chapitre 5 le 24 juin 2026 ; développé par Toby Fox → http://deltarune.com | https://s.team/a/1671210
+» Metaphor: ReFantazio, le 12 nov. 2026 sur Switch 2
+
+» Muramasa: Revenant Blades, annoncé pour début 2027 sur Switch 2, PlayStation 5 et PC / Steam Deck ; développé par Vanillaware → https://s.team/a/4253770
+» Nintendo Switch Sports Resort, le 22 oct. 2026 sur Switch 2 ; développé par Nintendo
+» Kingdom Hearts IV, annoncé sur Switch 2, PlayStation 5, Xbox Series et PC ; développé par Square Enix
+
+### Summer Games Fest 2026
+» Mighty Cuphead Adventures, annoncé sur consoles et PC ; développé par MDHR, studio derrière Cuphead (2017)
+» Blood Message, annoncé sur PC ; développé par le studio chinois 24 Entertainment, derrière Naraka: Bladepoint (2021) → https://www.blood-message.com/en/ | https://www.24-ent.com
+» Haex, annoncé pour 2027 sur PC ; développé par Dead Astronauts → https://deadastronauts.games | https://s.team/a/3524720
+» TMNT: The Last Ronin, annoncé sur PlayStation 5, Xbox Series et PC ; développé par Platinum Games → https://thelastronin.com
+» Gundam: Rogue Orbit, annoncé pour 2027 sur consoles ; développé par Bandai Namco → https://s.team/a/1963680
+» Guild Wars 3, béta annoncé pour l'automne 2027 ; développé par ArenaNet → https://www.guildwars3.com
+» Virtua Fighter Crossroads, annoncé pour 2027 sur consoles et PC ; développé par Ryū ga Gotoku Studio
+» 1666 Amsterdam, annoncé sur PC, démo disponible ; développé par Panache Digital Games, studio de Patrice Désilets → https://s.team/a/3949550
+» Swords of Legends, développé par Aurogon Shanghai → https://s.team/a/4729320 | https://www.swordsoflegends.com
+» The Wolf Among Us 2, annoncé pour 2027 sur PlayStation 5, Xbox Series et PC ; développé par Telltale
+» The Wolf Among Us Remastered, annoncé pour 2026 sur Switch 2, PlayStation 5, Xbox Series et PC ; développé par Telltale Games
+» Resident Evil Veronica, annoncé pour 2027 sur Switch 2, PlayStation 5, Xbox Series et PC
+» genAtlas, annoncé sur PlayStation 5, Xbox Series et PC ; développé par genDesign, studio de Fumito Euda → https://gendesign.co.jp/en/
+» Monster Hunter Wilds - extension Ascendance, annoncée pour 2027
+» Final Fantasy VII Revelation, annoncé pour le printemps 2027 sur Switch 2, PlayStation 5, Xbox Series et PC ; développé par Square Enix
+» Stranger Than Heaven, le 15 jan. 2027 sur PlayStation 5 et Xbox et PC ; développé par Ryo Ga Gotoku Studio → https://sega.com/stranger-than-heaven | → https://s.team/a/4260840
+
+### Day of the Devs 2026
+» Blood Dungeon, annoncé sur PC / Steam Deck ; édité par Annapurna Interactive, développé par Messhof, studio états-unien derrière _Nidhogg_ (2014), _Nidhogg 2_ (2017), Wheel World (2023) → https://messhof.com
+» Mr Records, annoncé sur PC ; développé par Glee-Cheese Studio, derrière Headbangers: Rhythm Royale (2023), A Musical Story (2022) → https://s.team/a/3053470
+» Ithaca, annoncé sur PC ; développé par The Pixel Hunt, studio français derrière Wednesdays (2025), The Wreck (2023), Inua - A Story in Ice and Time (2022), Bury Me, My Love (2019) → https://s.team/a/2156800 | https://www.thepixelhunt.com/ithaca/
+» Prove You're Human, annoncé pour fin 2027 sur PC ; développé par sunset visitor 斜陽過客, studio canadien 🇨🇦 derrière 1000xRESIST (2024) → https://s.team/a/4533950 | https://www.sunsetvisitor.studio/proveyourehuman
+» Into the Fire, annoncé en accès anticipé pour 2026 sur PC ; développé par Starward Industries, studio derrière The Invincible (2023) → https://s.team/a/2988030
+» Trine 6: Together in Time, le 16 sept. 2026 sur Switch 1 & 2, PlayStation 5, Xbox Series et PC ; développé par Frozenbyte, studio derrière la série de Trine, Shadowgrounds (2006), Shadwen (2016), Nine Parchments (2017), Boreal Blade (2020), Starbase (2021) → https://trineseries.com | https://s.team/a/2932260
+
+» Heave Ho 2, annoncé sur Switch 1 & 2 et PC / Steam Deck ; édité par Devolver, développé par Le Cartel, studio français derrière Heave Ho (2019), Mother Russia Bleeds (2016) → https://s.team/a/2802740
+
+### Story-Rich Showcase
+» The Telwynium, annoncé pour 2027 sur PC / Steam Deck, démo disponible ; développé par Dave Lloyd → https://s.team/a/2818820
+» Apple Crumble, annoncé pour 2026 sur PC ; développé par Happy Broccoli, studio allemand derrière Duck Detective: The Secret Salami (2024) et Duck Detective: The Ghost of Glamping (2025) → https://s.team/a/4110770 | https://happybroccoligames.com
+» SHE - Seraphim Helix Experiment, annoncé sur PC ; développé par Rocket Adrift → https://rocketadrift.com | https://s.team/a/4686060
+» Burn-9, annoncé pour 2026 sur PC / Steam Deck, démo disponible ; développé par 14 Hours Productions → https://s.team/a/4377480
+» Servant of the Lake, annoncé pour aout 2026 sur mobiles, Windows, Mac et Steam Deck, démo disponible ; développé par Rusty Lake → https://s.team/a/3636770
+» Lost in the Roots, annoncé sur PC / Steam Deck ; développé par Trioskaz → https://s.team/a/2872240
+» Grave Seasons, le 14 août 2026 sur PlayStation, Xbox et PC / Steam Deck ; édité par Blumhouse Gamer, développé par Perfect Garbage → https://blumhouse.com/games/grave-seasons | https://s.team/a/3255110
+» Desktop Explorer, le 17 juil. 2026 sur Windows, Mac et Steam Deck, démo disponible ; développé par Recurring Dream → https://s.team/a/2527160
+» Catechesis, annoncé sur PC / Steam Deck, démo disponible : développé par Baroque Decay, derrière The Count Lucanor (2016), Yuppie Psycho: Executive Edition (2019) → https://s.team/a/2593320
+» Penguin Colony, annoncé sur PC / Steam Deck, démo disponible ; développé par Origame Digital → https://s.team/a/3695930
+
+### Future Games Show 2026
+» Wardogs, annoncé pour 2026 sur PC ; développé par Bulkhead → https://s.team/a/1867240
+» The Sinking City 2, le 18 août 2026 sur consoles et PC, démo disponible ; développé par Frogwares → https://s.team/a/2825860 | https://frogwares.com
+» Exodus, annoncé pour 2027 sur PlayStation 5, Xbox Series et PC ; développé par Archetype Entertainment → https://s.team/a/3230960 | https://exodusgame.com
+
+» Assassin's Creed Black Flag Resynced, le 9 juil. 2026 sur PlayStation 5, Xbox Series et PC ; développé par Ubisoft Montréal → https://s.team/a/3751950
+» WheelMates, le 7 sept. 2026 pour 2026 sur PC / Steam Deck, démo disponible ; développé par Firevolt → https://s.team/a/3905450 | https://wheelmatesgame.com
+» Cairn - On the Trail: Deep Water → https://s.team/a/4487450
+» Mistfall Hunter, le 29 juillet 2026 sur PlayStation 5, Xbox Series et PC ; développé par Bellring Games → https://s.team/a/3282300 | https://mistfallhunter.com
+» Shark Dentist, annoncé sur PC ; développé par Alice Games → https://s.team/a/3423280
+» Tomb Raider: Legacy of Atlantis, annoncé pour le 12 févr. 2027 sur Switch 2, PlayStation 5, Xbox Series et Windows ; développé par Crystal Dynamics et Flying Wild Hogs → https://playtombraider.com/ | https://s.team/a/3558670
+» Defender of the Crown: The Legend Returns, le 13 août 2026 sur PC / Steam Deck ; développé par Black Tower Basement → https://s.team/a/4208140
+» Rayman Legends Retold, le 1er oct. sur PlayStation 5 ; développé par Ubisoft → https://s.team/a/4084710
+» Gothic 1 Remake, sorti le 5 juin 2026 à 50 € sur PlayStation 5, Xbox Series et PC ; développé par Alkimia Interactive → https://s.team/a/1297900 | http://www.gothic-game.com
+
+» DeadRoot, annoncé sur Xbox Series et PC ; développé par Finish Line Games, derrière Maize (2016), Skully(2020), Robots at Midnight (2025) ; → https://s.team/a/2374540
+» The Alters - DLC Last Variable le 13 juil. 2026 → https://s.team/a/3237520
+» Marsupilami 2 - Salsa Palombia, le 3 sept. 2026 sur consoles et PC / Steam Deck, démo disponible ; développé par Ocellus Studio → https://s.team/a/3650170
+» Dear von Gogh, annoncé sur Switch, PlayStation, Xbox et PC / Steam Deck via le jeu Sky: Children of the Light ; développé par thatgamecompany, derrire flOw (2007), Flower (2009), Journey (2012), Sky: Children of the Light (2021) → https://s.team/a/2325290
+
+### 🇩🇪 deutsche indie showcase
+» Aquapark Tycoon, accès anticipé annoncé le 22 juil. 2026 sur PC, démo disponible ; développé par Boxelware, derrière Avorion (2020) → https://s.team/a/2819470 | https://aquaparktycoon.com
+» Cosmodrill, le 6 juil. 2026 sur Windows, Mac, Linux et Steam Deck, demo disponible ; développé par Morse Morse Games, derrière Desktop Garden (2025) → https://s.team/a/3722660
+» In Hope Voiden, annoncé sur PC ; développé par Stilbruch Games → https://s.team/a/3726180
+
+» Blasphemous II - The Third Sin, le 6 juin 2026 sur Switch, PlayStation, Xbox et PC / Steam Deck → https://blasphemous2game.com | https://s.team/a/2114740
+
+### LatAm Games Showcase 2026
+» Tenebris Somnia, annoncé pour 2026 sur PC et Steam Deck, démo disponible ; développé par Andrés Borghi, Saibot Studios → https://s.team/a/2121510
+» Bulbo's Belief System, annoncé pour nov. 2026 sur PC  / Steam Deck, démo disponible ; développé par Abstract Digital → https://s.team/a/3549280
+» Canvas Infernum, annoncé sur PC / Steam Deck, démo disponible ; développé par Canvas Ink Games → https://s.team/a/3497280
+» Colorbound, annoncé pour août 2026 sur PC / Steam Deck, démo disponible ; développé par Panpipe Studio → https://s.team/a/3778610
+
+### SouthEast Games Showcase
+» Am I Nima, le 8 oct. 2026 sur Windows, Mac et Steam Deck, démo disponible ; développé par HO Games → https://s.team/a/3224600
+» In Full Bloom, annoncé pour 2026 sur Windows, Mac et Steam Deck, démo disponible ; développé par obleak games → https://s.team/a/3810240
+» Duo Quest, annoncé sur mobiles, Windows et Steam Deck, démo disponible ; développé par 1+1 Studios → https://s.team/a/3572800 | https://1plus1gamestudios.com/duo-quest-digital-game/
+» Hoa 2, annoncé sur PC / Steam Deck, démo disponible ; développé par Skrollcat Studio, derrière Hoa (2021) → https://s.team/a/4484770
+» Lost & Found, annoncé sur PC / Steam Deck ; développé par ShaggyBearGames → https://s.team/a/4466940 | https://shaggybeargames.com
+» Meaningless Random Numbers, annoncé pour 2026 sur PC / Steam Deck, démo disponible ; développé par Nikko Nikko → https://s.team/a/4211060
+» Work Work Work, annoncé sur PC / Steam Deck ; développé par Mojiken → https://s.team/a/3516660
+
+### Wholesome Direct 2026
+» Deer & Boy, le 23 juin 2026 sur consoles et PC / Steam Deck, démo disponible ; développé par Lifeline Games → https://s.team/a/1803140 | http://deerandboy.com
+» Milki Delivery, annoncé pour 2026 sur Windows, Mac, Linux et Steam Deck, démo disponible ; développé par Blibloop, Doot → https://s.team/a/4259360
+» In The Drift, annoncé sur PC / Steam Deck ; développé par Daniel Fineberg → https://s.team/a/4712630
+» Wild Chorus, annoncé sur PC ; développé par Habitat Games → https://s.team/a/3985990
+» Fields of Mistria, en accès anticipé depuis le 5 août 2024 à 13,80 € sur Windows et Steam Deck, version 1.0 le 5 août 2026 ; développé par NPC Studio → https://s.team/a/2142790 | https://fieldsofmistria.com
+
+### Women-Led Games Showcase 2026
+» Koshmar: The Last Reverie, annoncé sur PC / Steam Deck ; développé par Purple Ray Studio → https://s.team/a/2882720 | https://purpleray.studio
+» Schrödinger's Call, sorti le 27 mai 2026 à 18 € sur PC / Steam Deck ; développé par Acrobatic Chirimenjako → https://s.team/a/2090390
+» Every Wednesday, annoncé pour fév. 2027 sur PC / Steam Deck ; développé par Pixel Chest Storyworks → https://s.team/a/4296370
+» lily's world XD, annoncé sur PC / Steam Deck, démo disponible ; développé par SonderingEmily → https://s.team/a/3195580
+» Model Kit Studio, annoncé pour 2027 sur PC / Steam Deck ; développé par Spooky Rabbits → https://s.team/a/4040060
+
+## Mais pas que
+» 👕🧢 Le merch Origami saison 3
+
+
 vendredi 12 juin
 🕗 20:00 - UploadVR Showcase → https://youtube.com/@Uploadvr
+
+» Guardians Planetfall
+» Bootstrap island 1.0
+» Board of the Future, oct. 2026
+» Sol Protocol, acces anticipé en sept. 2026 sur Meta Quest
+» Salmon Man, multijoueurs en juil. 2026
+» CABA, sur PS VR2, SteamVR, Meta
+» The Magivian VR - the cursed hand, sept. 2026 sur meta Quest
+» Puzzles of the World, 23 juil. 2026 sur Meta Quest
+» Lanesplit, le 23 juin 2026 sur Steam
+» Detective VR, le 9 sept. 2026 sur PS VR2, SteamVR
+» Heroes Together
+» Pedal Rebel VR, 5 oct. sur Meta Quest, SteamVR
+» Brush Hammer, meta Quest
+» Flyon RC
+» Ghost hands for Theremin, le 1er juil.
+» Cards of Destiny, le 28
+» Disembidied, 15 oct.
+» Walkabout ou distraction park
+» ???
+» Hauntify multiplayer
+» Color a Cube, 15 juin sur Meta Quest, Pico
+» False Horizon
+» Sugar madness, sur Meta Quest
+» The Obserssive Shadow - chapter 2, sur PS VR2, SteamVR, Meta Quest
+» Cave Crave, sur meta Quest, puis SteamVR, PS VR2
+» Jetpack Clankers
+» PolyTruck, Meta Quest
+» Voxel Playground, sur Meta Quest, SteamVR
+» Already Dead, automne 2026 sur PS VR2
+» Hyperlane Highway, sur Meta Quest
+» Interlocked Puzzle Island, déjà sur Meta Quest, maintenant sur SteamVR
+» Dark Trip, maj sur Meta Quest et SteamVR
+» Bomb the Hill, cet été sur Meta Quest
+» Rustmourne, sur SteamVR
+
+
+
+--------------------------------------
+2026-06-17
+
+# Mardinale #91
+## Actus
+### XBOX : un reset en forme de purge
+» 🇺🇸 [Bloomberg / 15 juin 2026] **Studios in Microsoft’s Xbox division brace for closures** — The studios, which include Compulsion Games and Double Fine, are in active negotiations with Xbox and may be given the chance to go independent → https://cutt.ly/Kt3ZKOFm
+» 🇺🇸 [Kotaku / 15 juin 2026] **Xbox in talks to close Double Fine and Ninja Theory, which just revealed its new game** — Though the studios could go independent, heavy job losses are still likely → https://kotaku.com/--2000706718
+» 🇺🇸 [Game Developer / 15 juin 2026] **Multiple Xbox game studio heads negotiating with Xbox to avoid closure** — Xbox's strategic reset appears to involve shutting down or divesting less-profitable studios → https://cutt.ly/Ht3ZMSvf
+» 🇺🇸 [The Verge / 15 juin 2026] **Xbox is closing down Hellblade creator Ninja Theory** — Compulsion Games and Double Fine are also in ‘active negotiations’ about spinning off → https://cutt.ly/pt3Xf0kC
+» 🇫🇷 [Gamekult / 16 juin 2026] **L'hécatombe Xbox se poursuit : Double Fine et Ninja Theory rejoignent Compulsion parmi les studios menacés de fermeture** — Tout racheter pour tout revendre → https://cutt.ly/Jt36M3ZO
+» 🇫🇷 [ActuGaming / 16 juin 2026] **XBOX veut se séparer de Ninja Theory (Hellblade) et Double Fine (Psychonauts), des négociations sont en cours pour éviter la fermeture** → https://actugaming.net/--806106
+» 🇫🇷 [Gamekult / 17 juin 2026] **L'annonce de Senua au Xbox Games Showcase était une stratégie pour mieux vendre le studio** — Mais rien n'est encore gagné → https://cutt.ly/Nt8nrTPL
+» 🇫🇷 [Gamekult / 17 juin 2026] **Call of Duty : parmi les coupes chez Xbox, le boss de Treyarch (Black Ops) démissionne** → https://cutt.ly/lt8noStg
+
+» 🇺🇸 [The Game Business / 15 juin 2026] **Xbox Game Studios boss Craig Duncan steps down** — Chief of staff Louise O’Connor also departs → https://cutt.ly/1t3ZRDhI
+» 🇬🇧 [Games Industry / 15 juin 2026] **Xbox Game Studios boss Craig Duncan and Chief of Staff Louise O'Connor step down** — Leadership figures with long history at Rare depart the organisation amid plans for business "reset" → https://cutt.ly/kt3ZTUbV
+» 🇺🇸 [Game Developer / 15 juin 2026] **Two former Rare execs are leaving Xbox** — Head of Xbox Game Studios Craig Duncan and Xbox Game Studios chief of staff Louise O'Connor are leaving the outfit → https://cutt.ly/7t3ZT2qe
+» 🇫🇷 [Gamekult / 15 juin 2026] **Xbox : le patron des studios se barre avant les licenciements** — Vaut mieux prendre les canots avant que le bateau ne coule → https://cutt.ly/mt3ZAZhz
+» 🇫🇷 [ActuGaming / 15 juin 2026] **Deux départs importants chez Xbox, dont celui de Craig Duncan, qui était à la tête des Xbox Game Studios** → https://actugaming.net/--805985
+
+» 🇺🇸 [Kotaku / 15 juin 2026] **Xbox is planning to shutter Peabody-award-winning South Of Midnight studio Compulsion Games** — Studio leadership is currently in negotiations with Microsoft → https://kotaku.com/--2000706065
+» 🇺🇸 [Aftermath / 15 juin 2026] **Despite awards, South Of Midnight studio becomes latest victim of Microsoft’s implosion** — Compulsion Games could be on the chopping block, months after Xbox hyped up its award wins → https://cutt.ly/et3ZPqiH
+» 🇫🇷 [Gamekult / 15 juin 2026] **Licenciements Xbox : le studio Compulsion Games (South of Midnight) serait déjà condamné** — Mais des négociations seraient en cours → https://cutt.ly/5t3ZPmCR
+» 🇫🇷 [ActuGaming / 15 juin 2026] **Xbox serait sur le point de fermer Compulsion Games, le studio derrière South of Midnight** → https://actugaming.net/--806065
+
+» 🇺🇸 [LinkedIn / Matt Booty / 23 avril 2026] It's inspiring to see the team at Compulsion Games recognized with a Peabody Award for South of Midnight. This award reflects the care and craft behind their work, and the power of games as a medium to tell meaningful stories that last. → https://cutt.ly/jt3ZI19Q
+
+» 🇺🇸 [Game File / 17 juin 2026] **Xbox's reverse-2018** — One of the biggest acquirers of game studios in the past decade prepares to contract (again) → https://cutt.ly/ht8hPpno
+» 🇫🇷 [ActuGaming / 17 juin 2026] **Xbox avait prévu de fermer Ninja Theory avant le showcase, et aurait conservé l’annonce de Senua pour revendre le studio plus facilement** → https://actugaming.net/--806457
+
+» ▶️ [YouTube / The New York Times - Hard Fork / 12 juin 2026] **Satya Nadella ơn A.I. jobs: humans will do the ‘glue work’** → https://youtu.be/zqEZyHkXgh0 (29 min)
+» 🇺🇸 [Kotaku / 14 juin 2026] **Microsoft CEO complains about poor gaming profits: ‘there’s more monetization of Xbox Games happening on YouTube’** — Satya Nadella says Xbox has to pursue 'economically viable' growth → https://kotaku.com/--2000706326
+» 🇫🇷 [Gamekult / 15 juin 2026] **Xbox : Satya Nadella en rajoute une couche sur la pression de la rentabilité** — « Nous n'avons pas monétisé ce divertissement » → https://cutt.ly/1t3ZCX7m
+» 🇫🇷 [ActuGaming / 15 juin 2026] **Satya Nadella insiste sur le fait de rendre XBOX rentable après beaucoup d’investissement** → https://actugaming.net/--805932
+
+» 🇺🇸 [SuperJoost / 16 juin 2026] **Sharma's next 100 days** — Honeymoon's over → https://cutt.ly/Tt4gSLvG
+
+» 🇺🇸 [The Information / 12 juin 2026] **Microsoft has considered spinning out Xbox, plans new ‘Halo,’ ‘Fallout’ games** → https://cutt.ly/It3EVF96
+» 🇫🇷 [Gamekult / 13 juin 2026] **Xbox : une scission avec Microsoft serait à l'étude** — On se sépare, mais on reste amis → https://cutt.ly/Nt3EVl4y
+» 🇫🇷 [ActuGaming / 15 juin 2026] **Microsoft n’exclut pas l’idée de transformer XBOX en une filiale séparée, et veut davantage de Fallout et de The Elder Scrolls** → https://actugaming.net/--805914
+» 🇬🇧 [Reuters / 12 juin 2026] **Microsoft has considered spinning off Xbox, the Information reports** → https://cutt.ly/It3ZNCAV
+» 🇬🇧 [Games Industry / 15 juin 2026] **Microsoft weighing up spinning off Xbox — Microsoft weighing up spinning off Xbox** → https://cutt.ly/0t3ZNYQr
+
+### Outward 2 repoussé à 2027
+» 🇺🇸 [Steam / Outward 2 / 16 juin 2026] **Delaying the launch of Outward 2** → https://cutt.ly/zt8hRFFd
+» 🇫🇷 [ActuGaming / 16 juin 2026] **Outward 2 : Mauvaise nouvelle, l’early access de la suite du RPG de Nine Dots ne démarrera finalement qu’en 2027** → https://actugaming.net/--806308
+» 🇫🇷 [Gamekult / 16 juin 2026] **Sur le point de sortir, Outward 2 est finalement repoussé à 2027 par « peur de décevoir »** — Nine Dots Studio vide son sac → https://cutt.ly/8t8hTsSA
+
+### Heave Ho 2 sort en juillet
+» 🇺🇸 [Steam / Heave Ho 2 / 12 juin 2026] **Heave Ho 2 coming July 16 + Demo out now!** → https://cutt.ly/ot8hDj9k
+
+### Nacon, Quantic Dream, Don't Nod... des nouvelles de la galère
+» 🇺🇸 [STJV / 15 juin 2026] Big Bad Wolf fermé : 46 licencié·es → https://cutt.ly/Vt3Z65NW
+» 🇫🇷 [Gamekult / 15 juin 2026] Clap de fin pour le studio Big Bad Wolf, emporté à son tour par la restructuration de Nacon — Le grand méchant loup ne fera plus peur à personne → https://cutt.ly/Dt3ZSH1J
+
+
+» 🇺🇸 [STJV / 16 juin 2026] Quantic Dream : 115 postes menacés, PSE illicite, l’IA en embuscade ? → https://cutt.ly/Nt36XEXr
+» 🇫🇷 [Gamekult / 17 juin 2026] **Quantic Dream face à une situation plus que tendue sur fond de suppressions de postes supplémentaires à prévoir** → https://cutt.ly/0t4gJajx
+
+
+» 🦋 [BlueSky / Gautoz / 15 juin 2026] 🧵 https://bsky.app/profile/gautoz.cool/post/3mocv2zrmr22e
+> Vogue la galère chez Don't Nod : un rapport des commissaires aux comptes alerte sur un épuisement total de la trésorerie du studio d'ici novembre.
+> Tencent ne souhaite ni augmenter son capital, ni financer un projet, et les plans des boss ne rassurent pas.
+
+» 🇫🇷 [Don't Nod] Assemblée Générale → https://cutt.ly/qt4gvVe3
+» 🇫🇷 [Gamekult / 15 juin 2026] Don't Nod au bord du gouffre ? Une procédure d'alerte engagée par les commissaires aux comptes — Le studio ne trouve plus de financement → https://cutt.ly/Lt3ZZss2
+» 🇫🇷 [ActuGaming / 15 juin 2026] Don’t Nod : Un rapport indique que la société française pourrait ne plus avoir de trésorerie dès novembre 2026 → https://actugaming.net/--805927
+
+### Stop Killing Games essuie un échec face à l'UE
+» 🇪🇺 [European Citizens' Initiative / 16 juin 2026] **Commission will engage with industry following European Citizens' Initiative on the disabling of videogames by publishers** → https://cutt.ly/it362ump
+» 🇫🇷 [ActuGaming / 16 juin 2026] **Stop Killing Games : La Commission européenne rend son rapport sur l’initiative de préservation des jeux, sans avancée majeure** → https://actugaming.net/--806297
+» 🇫🇷 [Gamekult / 17 juin 2026] **Stop Killing Games : douche froide à Bruxelles, l'Union Européenne refuse de légiférer** → https://cutt.ly/lt8hAIQH
+
+
+
+--------------------------------------
+2026-06-18
+
+# Wishlist
+
+» ⚽ Kick, le 30 juil. 2026 sur Windows et Steam Deck, démo disponible ; développé par le studio suisse 🇨🇭 nospacelost → https://s.team/a/3760370
+- la démo date du 28 mai 2026
+- résultats du sondage, votre avis sur ⚽ Kick : ✅ dans Wishlist 0% (0) | 🟨 carton jaune 82% (14) | 🟥 carton rouge 18% (3)
+
+excuses de sac :
+- ça doit pas être très agréable à regarder pour vous, mais je vous assure que je suis pas si mauvais
+
+» ⚽ Pimbolas, le 16 juil. 2026 sur Windows, Mac, Linux et Steam Deck, démo disponible ; développé par le studio brésilien 🇧🇷 Nano Knight Studio → https://s.team/a/3621200
+- la démo date du 6 mai 2026
+- résultats du sondage, votre avis sur ⚽ Pimbolas : ✅ dans Wishlist 0% (0) | 🟨 carton jaune 80% (4) | 🟥 carton rouge 20% (1)
+
+raids entrants :
+- histoires_crepues à 12:31 +266
+
+raids : OrigaTwitch => (13:15)[+144] NotPatrick => (15:05)[+76] At0mium (terminé à 16:17)
+
+
+
+--------------------------------------
+2026-06-19
+
+# Hebdo #110
+
+## Actus
+### Origami
+» 🎧 [Patreon] Conf’ 2 Rédac’ — Il ne persistera pas dans le karaté → https://patreon.com/posts/161161162
+» ▶️ [YouTube] CINQUANTE POURCENT ?! → https://patreon.com/posts/161146454
+» ▶️ [Patreon] Head Shot — Renouer avec la nature via les jeux vidéo ? On en discute avec la dev-chercheuse Edwige Lelièvre → https://patreon.com/posts/161159734
+» 🎧 [Patreon] Ori·Ori Gaiden — GTA Vice City → https://patreon.com/posts/161324223
+» ▶️ [YouTube] La Mercredinale — XBOX passe en mode purge → https://youtu.be/037filPVyS4
+
+### La semaine
+(pas de magnéto de la semaine 🩴)
+
+## Jeux
+### The Adventures of Elliot: The Millennium Tales
+» The Adventures of Elliot: The Millennium Tales, sorti le 18 juin à 70 € sur Switch 2, PlayStation 5 et Xbox Series, à 60 € sur Windows et Steam Deck ; édité par Square Enix, développé par Claytechworks 🇯🇵
+
+- sorti le 18 juin 2026 sur Switch 2, PlayStation 5, Xbox Series, Windows et Steam Deck
+- édité par Square Enix, développé par Claytechworks, studio japonais 🇯🇵 derrière Bravely Default II (2021), Live a Live (2022), et plusieurs jeux mobiles → https://claytechworks.co.jp | https://square-enix.com/the-adventures-of-elliot-the-millennium-tales/
+- réalisé par Naoki Ikushima, écriture par Naoki Yamamoto, musiques par Yuto Moritani et Tomohiro Nakamachi
+
+🎮 70 € sur Switch (<https://cutt.ly/Dt8G8tGg>), PlayStation (<https://cutt.ly/et8G8lAj>) et Xbox (<https://cutt.ly/Wt8G4bSD>), démo disponible
+💻️ 60 € sur Steam (<https://s.team/a/3483510>), démo disponible
+
+## La chronique d'Héloïse
+### Les jeux de pirates
+» AC BLack Fkag
+» 🇫🇷 [Gamekult / 16 mai 2026] Windrose atteint la barre des deux millions de ventes → https://cutt.ly/FtNmT40N
+» Sea of Thieves, saison 19 et 20
+
+» L'Histoire générale des plus fameux pyrates, publié en 1724 par Charles Johnson, contient les biographiques d'une trentaine de capitaines pirates
+
+invités :
+» Marie Eve Stenuit, histoirienne de l'art, archéologue
+» Anthony Lethuillier, dév de Tales of Eight
+» Tiago Prudente, cofondateyr du studio Mandinga Games
+
+## Mais pas que
+(pas de Mais pas que 🩴)
+
+
+raids entrants :
+- JulienDRnP à 13;07 +55
+- Paul_Aveline à 13:09 +107
+
+raids : OrigaTwitch => (14:21)[+342] Superalienninja [Conan3D_=>(17:43)+18] (terminé à 20:50)
+
+
+
+--------------------------------------
+2026-06-24
+
+# Mardinale #92
+## Actus
+### Les Steam Machine coûteront plus de 1000€
+» 🇫🇷 [Steam / 22 juin 2026] **La Steam Machine est maintenant disponible !** — Toutes les informations sur la façon de s'inscrire, ainsi qu'un aperçu plus détaillé du déroulement des évènements qui ont conduit à ce lancement → https://cutt.ly/kt7nWSjp
+» 🇬🇧 [Eurogamer / 22 juin 2026] **Valve finally announces the price of Steam Machine and a sort of release date, but the console-like PC might cost more than you're expecting** → https://cutt.ly/vt7bSv7c
+» 🇬🇧 [Eurogamer / 22 juin 2026] **Valve says Steam Machine's price is "significantly more" than it originally envisaged, and the launch quantity is "less than we wanted to be able to make"** — "I'm very curious to see how people react." → https://cutt.ly/mt7bA7aW
+» 🇬🇧 [Digital Foundry / 22 juin 2026] **Steam Machine: beautiful hardware, console performance - at a price** — Buy Valve or build your own - the choice is yours → https://cutt.ly/5t7bDuFN
+» 🇬🇧 [Games Industry / 22 juin 2026] **Valve's Steam Machine price starts at $1049 / £879; original pricing "no longer viable" due to hardware supply issues** — Limited stock will initially be made available by randomly-ordered waitlist, with registration opening today → https://cutt.ly/3t7nQ0FA
+» 🇺🇸 [IGN / 22 juin 2026] **The Steam Machine was originally meant to cost about $750** — The RAMpocalypse claims another victim → https://cutt.ly/gt7b0ykP
+» 🇫🇷 [IGN France / 22 juin 2026] **La Steam Machine devait initialement coûter 750 euros** — La RAMpocalypse fait une nouvelle victime → https://cutt.ly/Ft7bNJuA
+» 🇫🇷 [ActuGaming / 24 juin 2026] **Voici le prix (élevé) de la Steam Machine et les différentes éditions proposées par Valve** → https://actugaming.net/--807581
+» 🇫🇷 [Gamekult / 22 juin 2026] **Étranglé par la crise de la RAM, Valve vend la Steam Machine à plus de 1000€** → https://cutt.ly/vt7bAQzj
+
+» ▶️ [YouTube / Gamers Nexus / 22 juin 2026] **Valve Steam Machine review: GPU & CPU benchmarks, SteamOS test, thermals, noise, and price** → https://youtu.be/66QzlDewigE (54 min)
+» ▶️ [YouTube / Digital Foundry / 22 juin 2026] **Steam Machine review: beautiful hardware, but what about performance... and price?** → https://youtu.be/WhWtLi_FqLo (32 min)
+» ▶️ [YouTube / Linus Tech Tips / 22 juin 2026] **Even Valve is disappointed - Steam Machine review** → https://youtu.be/6tI1SoMj5vg (19 min)
+» ▶️ [YouTube / Hardware Unboxed / 23 juin 2026] **The Steam Machine is impossible to recommend** → https://youtu.be/Kdm85jhn2Ps (42 min)
+» ▶️ [YouTube / JayzTwoCents / 23 juin 2026] **The Steam Machine has a HUGE Flaw no one is talking about...** → https://youtu.be/40c47ncf9jE (20 min)
+» ▶️ [YouTube / Gamers Nexus / 24 juin 2026] **Excellent repairability: Steam Machine tear-down and accessing RAM & SSD** → https://youtu.be/glXA3ObwSwQ (24 min)
+
+» 🇺🇸 [IGN / 22 juin 2026] **Valve on the Steam Machine's price, performance, and whether or not you'll actually be able to buy it** → https://cutt.ly/0t7b98X0
+
+» 🇺🇸 [Aftermath / 22 juin 2026] **The Steam Machine is an iconoclastic computer born in unforgiving times** — Valve has released a tiny, silent, entry level PC that does important work bringing PCs gaming to the living room and desktop Linux to the masses. The timing could not be worse → https://cutt.ly/Wt7nkL2s
+
+» 🇺🇸 [IGN / 23 juin 2026] **Why Valve refuses to subsidize its $1,049 Steam Machine** — The cost of doing business → https://cutt.ly/Zt7b9yT6
+» 🇫🇷 [IGN France / 23 juin 2026] **Pourquoi Valve refuse de vendre à perte sa Steam Machine à 1 039 euros** — Le prix du business → https://cutt.ly/Ct7b9YRe
+
+» 🇺🇸 [IGN / 24 juin 2026] **Valve: RAM Companies State Prices Monthly, ‘If We Say No, Then They Never Talk to Us Again’** — Valve has no bargaining power in the memory component price crisis → https://cutt.ly/Ft7b2r0g
+» 🇫🇷 [IGN France / 24 juin 2026] **Valve justifie le prix de la Steam Machine : les entreprises de RAM imposent leurs prix tous les mois et "si nous refusons, nous sommes définitivement blacklistés"** — Valve ne dispose d'aucun pouvoir de négociation face à la crise des prix des composants de mémoire → https://cutt.ly/Lt7b1yIH
+
+» 🇫🇷 [Gamekult / 25 juin 2026] **Chez LDLC, la « Stim Machine » veut proposer mieux que Valve... pour moins cher** → https://cutt.ly/it7bAuRV
+
+» fil de discussion 💬
+
+### Electronic Arts : des licenciements, de la pub et de l'IAgen
+» 🇺🇸 [Kotaku / 22 juin 2026] **EA lays off unknown number of people ahead of expected $55 billion sale to Saudi Arabia** — This is at least the third round of layoffs from EA just this year → https://kotaku.com/--2000708971
+» 🇬🇧 [Games Industry / 22 juin 2026] **EA is reportedly laying off recruitment, customer support, safety, and IT staff** — Staff were allegedly told they would be expected to "adapt how [EA] works to better meet fans' changing needs" → https://cutt.ly/jt7nn9wX
+» 🇫🇷 [Gamekult / 23 juin 2026] **Et voilà une troisième vague de licenciements chez Electronic Arts pour cette année** — Rassurez-vous : Kushner va bien → https://cutt.ly/yt7bPgQ4
+
+» 🇺🇸 [Electronic Arts / 15 juin 2026] **Electronic Arts introduces EA Advertising, launching brands directly into gameplay and live experiences** → https://cutt.ly/3t7b57zC
+» 🇫🇷 [ActuGaming / 16 juin 2026] **Electronic Arts dévoile les contours d’un programme qui a pour but de « mieux » intégrer la pub dans ses jeux** → https://actugaming.net/--805989
+» 🇫🇷 [Gamekult / 16 juin 2026] **Electronic Arts veut multiplier les placements de produit, voici EA Advertising** → https://cutt.ly/dt7b7a9V
+
+» 🇬🇧 [VGC / 23 juin 2026] **Senior EA exec Laura Miele thinks AI has led to "a real rise of creativity" among the publisher's studios** — "I really believe in what I've seen." → https://cutt.ly/rt7nm74w
+» 🇬🇧 [Games Industry / 23 juin 2026] **EA: AI is delivering "faster prototyping" and a "real rise in creativity" in its studios** — Laura Miele, Electronic Arts' president of enterprise development, is confident that AI has made a difference → https://cutt.ly/Tt7nmxY7
+
+» 🇺🇸 [Business Insider / 21 oct. 2025] **'When the dogs won't eat the dog food'.** Inside the AI divide roiling video-game giant Electronic Arts → <https://cutt.ly/dr7shPV5>
+» 🇺🇸 [TheGamer / 23 oct. 2025] **EA's AI game development tools are apparently so bad that it's costing more money to fix their mistakes** → <https://cutt.ly/6r7shknM>
+» 🇫🇷 [Gamekult / 24 oct. 2025] **Chez Electronic Arts, l'intelligence artificielle maison suscite chaos et inquiétudes,** et tout ceci avec l'épée de damoclès d'un rachat au dessus de la tête des employés → <https://cutt.ly/hr7sju5r>
+» 🇫🇷 [ActuGaming / 27 oct. 2025] **Chez Electronic Arts, l’utilisation de l’IA ne produit pas les résultats espérés et fait même perdre de l’argent** → <https://actugaming.net/--766952>
+
+### Le studio Douze Dizième (MIO) licencie et ferme
+» 🇫🇷 **Pullup Entertainment publie ses résultats annuels 2025/26** → https://cutt.ly/Nt7bTGhE
+
+» 🇫🇷 [Focus / 22 oct. 2021] **Focus Home Interactive annonce l’acquisition du studio de développement Douze Dixièmes** → https://cutt.ly/ut7bYjez
+» 🇧🇪 [RTFB / 20 jan. 2026] **Douze Dixièmes : que se passe-t-il quand un petit studio français indépendant se fait racheter ?** → https://cutt.ly/St7bT7Y9
+
+» fil de discussion 💬
+» fil de discussion 💬
+
+### Crise du jeu vidéo : le STJV veut un été de grèves
+» 🇫🇷 [STJV / 22 juin 2026] **Summer Grève Fest : Appel à la grève nationale le 25 juin 2026** → https://cutt.ly/wt7bFA0u
+» 🇫🇷 [Gamekult / 23 juin 2026] **Grève nationale : le STJV appelle à la mobilisation le 25 juin** — Sauter une journée de travail pour défendre son emploi → https://cutt.ly/ct7bF2sd
+» 🇫🇷 [ActuGaming / 24 juin 2026] **Le STJV lance un appel national à la grève dans le secteur du jeu vidéo ce jeudi 25 juin** → https://actugaming.net/--807647
+» 🇫🇷 [Gamekult / 25 juin 2026] **À Quantic Dream, la grève pour sauver Star Wars Eclipse** — Un climat social toujours plus tendu → https://cutt.ly/ot7bHNov
+
+» 🇫🇷 [Le Figaro / 23 juin 2026] **« Il va y avoir de la grosse casse » : alerte rouge dans le jeu vidéo français face aux fermetures et aux licenciements en cascade** — Nacon, Quantic Dream, Don’t Nod… Les principaux employeurs du secteur vacillent les uns après les autres. La fébrilité était palpable au salon Game Camp de Lille, où l’on prédit une recomposition d’ampleur de la filière. → https://cutt.ly/it7bYM9v
+
+» 🇫🇷 [Origami / 24 juin 2026] Infolettre — La forêt brûle → https://www.origami.ng/la-foret-brule/
+
+» fil de discussion 💬
+
+### Claude Guillemot est décédé
+» 🇫🇷 [Ouest France / 20 juin 2026] **L’un des cofondateurs du géant du jeu vidéo Ubisoft est mort dans le crash d’un avion à La Baule** — Un avion bimoteur s’est écrasé vendredi 19 juin peu avant 18 h à proximité de l’aérodrome de La Baule (Loire-Atlantique). Les deux personnes à bord sont décédées. Selon les informations d’Ouest-France, le propriétaire est l’un des frères fondateurs du groupe de jeux vidéo Ubisoft, Claude Guillemot → https://cutt.ly/kt7bIymT
+» 🇫🇷 [France Info / 20 juin 2026] **Deux morts dans un crash d'avion de tourisme à La Baule, Claude Guillemot cofondateur d'Ubisoft parmi les victimes** → https://cutt.ly/3t7bITki
+» 🇫🇷 [France Info / 20 juin 2026] **Décès de Claude Guillemot, enquête pour homicide involontaire, hommage : ce que l'on sait du crash d'avion à La Baule** → https://cutt.ly/2t7bI6Af
+» 🇫🇷 [ActuGaming / 20 juin 2026] **Claude Guillemot, l’un des cofondateurs d’Ubisoft, a péri dans le crash d’un avion ce vendredi** → https://actugaming.net/--807068
+» 🇫🇷 [Gamekult / 20 juin 2026] **Claude Guillemot, l'un des cofondateurs d'Ubisoft est décédé à 69 ans** → https://cutt.ly/tt7bK86U
+
+» fil de discussion 💬
+
+### Compositeur de DOOM, Bobby Prince est décédé
+» 🇺🇸 [Time Extension / 16 juin 2026] **"A Loss To The World" - Legendary Doom & Wolfenstein 3D Composer Bobby Prince Has Passed Away** — He was 81 years of age → https://cutt.ly/kt7nUaL5
+» 🇫🇷 [Gamekult / 19 juin 2026] **Bobby Prince, le compositeur de légende de Wolfenstein, DOOM et Duke Nukem 3D nous a quittés** → https://cutt.ly/9t7bZ7m3
+
+### Les devs de Magic Arena montent un syndicat
+» 🇺🇸 [United Wizerds of the Coast / 23 juin 2026] **We have a union** → https://cutt.ly/Jt7nASEN
+» 🇺🇸 [Game Developer / 25 juin 2026] **Magic: The Gathering Arena developers have successfully unionized** — 'Our dream is finally a reality.' → https://cutt.ly/Qt7nAqFH
+
+### Du gameplay pour Star Wars Galactic Racer
+» ▶️ [YouTube / VGC / 23 juin 2026] **Star Wars: Galactic Racer 4K60 gameplay** → https://youtu.be/McKV7rvtd3s (12 min)
+» 🇬🇧 [VGC / 23 juin 2026] **I think Star Wars: Galactic Racer might be the Burnout revival I’ve waited decades for** — Fuse and Lucasfilm Games discuss Galactic Racer’s high-octane action and surprisingly deep story mode → https://cutt.ly/kt7bVGqH
+» 🇺🇸 [Push Square / 23 juin 2026] **5 things that surprised me playing Star Wars: Galactic Racer on PS5** → https://cutt.ly/Dt7bV6nA
+» 🇫🇷 [ActuGaming / 24 juin 2026] **Star Wars: Galactic Racer aura un peu de roguelite en lui, avec une campagne solo assez poussée** → https://actugaming.net/--807817
+
+
+
+
+» ▶️ [YouTube] Head Shot — Renouer avec la nature via les jeux vidéo ? On en discute avec la dev-chercheuse Edwige Lelièvre → https://youtu.be/sVmtpgCPGP4
+» ▶️ [Patreon] Internet Exploreuses — All Stars → https://patreon.com/posts/161959189
+» ▶️ [YouTube] La Mercredinale — Steam Machine abrégé ça fait SM / Summer Grève Fest 2026 / Le jeu vidéo en mode nécro → https://youtu.be/rOMNx6szXZI
+» ▶️ [Patreon] Wishlist — Juillet 2026 → https://patreon.com/posts/162034460
+» 💌 [Origami] Infolettre — La forêt brûle → https://www.origami.ng/la-foret-brule/
 
 
 
