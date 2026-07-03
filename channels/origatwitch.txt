@@ -22971,6 +22971,74 @@ raids : OrigaTwitch => (14:21)[+342] Superalienninja [Conan3D_=>(17:43)+18] (ter
 
 
 
+--------------------------------------
+2026-06-02
+
+# Mardinale #93
+## Actus
+### Que restera-t-il bientôt du jeu vidéo ?
+**fin du support physique**
+» 🇫🇷 [PlayStation Blog / 1er juil. 2026] **La production de disques physiques se termine en janvier 2028 pour les nouveaux jeux prévus sur consoles PlayStation** — En réponse aux changements de tendance dans les préférences des consommateurs, les nouveaux titres sortiront sur le PlayStation Store et auprès de distributeurs uniquement au format numérique → https://cutt.ly/Rt6gQ7wX
+» 🇫🇷 [Gamekult / 1er juil. 2026] **Les jeux sur consoles PlayStation ne seront plus commercialisés sur disque à partir de janvier 2028** — Bataille perdue, fin d'une ère, etc → https://cutt.ly/7t6gWlt9
+» 🇫🇷 [ActuGaming / 1er juil. 2026] **Sony annonce qu’il ne sortira plus aucun jeu physique sur disque sur PlayStation après janvier 2028** → https://actugaming.net/--808668
+
+**fin de l'après-vie pour la PS3 et la Vita**
+» 🇫🇷 [PlayStation Blog / 1er juil. 2026] **Une annonce importante concernant le PlayStation Store sur PS3 et PS Vita** → https://cutt.ly/ft6gZn6x
+» 🇫🇷 [Gamekult / 1er juil. 2026] **Bon, cette fois, le PlayStation Store va bien fermer ses portes sur PS3 et PS Vita** → https://cutt.ly/Rt6gZN8Y
+
+**quid de la préservation ?**
+» 🇺🇸 [Time Extension / 2 juil. 2026] **The Video Game History Foundation wants "meaningful solutions" from the ESA for "preserving digital-only content"** — "We have attempted to work with the industry's trade organisation to find a legal path" → https://cutt.ly/4t6gEGvb
+
+**PlayStation vous retire vos films**
+» 🇬🇧 [Games Industry / 29 juin 2026] **PlayStation once again pulls purchased StudioCanal content from user libraries because of "licensing arrangements"** — "You will no longer be able to access your previously purchased content from Studio Canal" → https://cutt.ly/2t6gCQKy
+» 🇫🇷 [ActuGaming / 29 juin 2026] **Si vous avez acheté des films de StudioCanal sur votre PlayStation, vous n’y aurez plus accès dès septembre** → https://actugaming.net/--808463
+
+**la chute de l'empire Xbox, suite**
+» 🇺🇸 [GamesBeat / 29 juin 2026] **CWA-represented workers at Xbox criticize Microsoft management and pending layoffs** → https://cutt.ly/xt6gYupY
+» 🇺🇸 [Windows Central / 29 juin 2026] **Xbox has been promising 'State of Decay 3' for years — and now it could be facing cancellation, despite its trailers and alpha. What are we even doing here?** — Increasingly it looks like Xbox's layoffs are going to be catastrophic → https://cutt.ly/Ct6gYz1B
+» 🇫🇷 [ActuGaming / 30 juin 2026] **Undead Labs (State of Decay 3) serait également en danger chez Xbox, le syndicat CWA se mobilise avant les licenciements** → https://actugaming.net/--808524
+» 🇺🇸 [The Verge / 30 juin 2026] **Xbox weighs canceling Blade game and shuttering Arkane** — Microsoft could shut at least five studios as part of big Xbox layoffs starting next week → https://cutt.ly/At6gUEpZ
+» 🇺🇸 [Bloomberg / 30 juin 2026] **Xbox pulls out Of ‘Project Fantasy’ video game from IO Interactive** — The ‘007: First Light’ makers had teamed up with Xbox for the new video game → https://cutt.ly/4t6gIfLL
+» 🇫🇷 [Gamekult / 30 juin 2026] **Xbox : le nombre de studios menacés de fermeture monte à cinq, adieu Arkane et Blade ?** → https://cutt.ly/pt6gI1N5
+» 🇫🇷 [ActuGaming / 30 juin 2026] **Marvel’s Blade : Selon The Verge, le jeu pourrait être annulé par Xbox et Arkane Lyon serait sous la menace d’une fermeture** → https://actugaming.net/--808592
+» 🇫🇷 [ActuGaming / 30 juin 2026] **IO Interactive (007 First Light) perd son partenaire sur Project Fantasy, c’est-à-dire Xbox, et annonce des licenciements** → https://actugaming.net/--808586
+» 🇫🇷 [Gamekult / 1er juil. 2026] **XBOX indique "ne pas réduire l'investissement global dans les jeux", ce malgré de nombreux signaux contraires** — Pourtant, IO Interactive indique avoir perdu son accord de financement → https://cutt.ly/ft6gOjGX
+» 🇺🇸 [The Game Business / 2 juil. 2026] **Xbox divided over its future, and do people even buy physical PlayStation games?** — Plus, we’re joined by Midwest Games CEO Ben Kvalo to discuss a flexible future for game publishing → https://cutt.ly/Tt6gSlIW (59 min)
+» 🇫🇷 [ActuGaming / 2 juil. 2026] **Obsidian (Avowed, The Outer Worlds) également en danger de fermeture chez Xbox ? Jason Schreier affirme que non** → https://actugaming.net/--808793
+
+**Bungie**
+» 🇺🇸 [Sony Interactive Entertainment / 25 juin 2026] **An Update from PlayStation Studios** → https://cutt.ly/ct6gJRIX
+» 🇬🇧 [Games Industry / 25 juin 2026] **Sony cuts 292 jobs at Destiny maker Bungie** — Redundancies are impacting "most of the Destiny team", as well as "some Marathon team members" → https://cutt.ly/dt6gHU91
+» 🇺🇸 [Game Developer / 25 juin 2026] **At least 292 Bungie employees are being laid off by Sony** — Sony is also making reductions across SIE teams that support Bungie's operations → https://cutt.ly/vt6gJjx4
+» 🇫🇷 [Gamekult / 25 juin. 2026] **Bungie : les licenciements sont confirmés et affectent « la majeure partie » de l'équipe de Destiny** → https://cutt.ly/1t6gD76y
+» 🇫🇷 [ActuGaming / 25 juin. 2026] **Sony annonce qu’il licencie une grande partie des employés de Bungie, et pas que ceux qui travaillaient sur Destiny 2** → https://actugaming.net/--808131
+
+et beaucoup trop d'autres mauvaise nouvelles…
+
+### Le cartel des fabricants de RAM attaqué en justice
+» 🇺🇸 [Law360 / 25 juin 2026] **Major Chipmakers Sued For Price-Fixing Amid 'RAMpocalypse'** → https://cutt.ly/it6gkeiJ
+» 🇬🇧 [VGC / 29 juin 2026] **RAM manufacturers have been sued for allegedly fixing prices and supply, leading to increased costs** — The class action lawsuit claims Samsung, SK Hynix and Micron have been squeezing supply → https://cutt.ly/1t6gh9Hz
+» 🇬🇧 [Games Industry / 29 juin 2026] **SK Hynix, Samsung and Micron sued over allegations of "concerted anticompetitive behaviour" in DRAM market** — Lawyers claim that the trio has cut the supply of consumer – or 'conventional' – DRAM in defiance of "all economic and business logic" → https://cutt.ly/Xt6glViz
+» 🇫🇷 [Gamekult / 30 juin 2026] **Les trois géants de la RAM attaqués en justice pour entente sur les prix** — Karma oligopolice → https://cutt.ly/Nt6ggDwj
+» 🇫🇷 [ActuGaming / 30 juin 2026] **Samsung, SK Hynix et Micron sont poursuivis en justice en étant accusés d’avoir formé une entente pour manipuler la crise de la RAM** → https://actugaming.net/--808527
+
+» ▶️ [YouTube / Gamers Nexus / 7 mars 2026] **The DRAM Cartel | Price fixing, anti-consumer collusion, & corporate conspiracy** → https://youtu.be/jVzeHTlWIDY (1 h 21 min)
+
+### Ubisoft Barcelone en grève
+» 🇫🇷 [STJV / 30 juin 2026] **Soutien à nos collègues d’Ubisoft Barcelone en lutte pour leurs emplois** → https://cutt.ly/qt6gbnD9
+» 🇫🇷 [Gamekult / 30 juin 2026] **Ubisoft : face aux licenciements, le studio de Barcelone opte pour la grève** → https://cutt.ly/Gt6gcFOH
+
+### Mauvaise ambiance chez Rockstar
+» 🇺🇸 [Game Developer / 1er juil. 2026] **Rockstar accused of ignoring pay inequity, mandating crunch, and weaponizing bonuses** — Multiple current Rockstar employees and union members based in the UK claim the Grand Theft Auto maker is failing its workforce → https://cutt.ly/gt6gnMiM
+» 🇬🇧 [Games Industry / 2 juil. 2026] **Union raises concerns over gender pay gaps, bonus management, and crunch at Rockstar** — Rockstar Game Workers Union members highlight ongoing labour practice inconsistencies as it seeks voluntary recognition → https://cutt.ly/Xt6gMLJ8
+» 🇫🇷 [Gamekult / 2 juil. 2026] **GTA 6 : des employés de Rockstar dénoncent les inégalités salariales, l'opacité des bonus et la culture du crunch** — Parce qu'il y a des gens derrière le jeu → https://cutt.ly/vt6g12pD
+
+
+
+
+» 🎧 [Patreon] Conf’ 2 Rédac’ — Comme Molière → https://patreon.com/posts/162403822
+» ▶️ [YouTube] Internet Exploreuses — All Stars → https://youtu.be/o11TDlrSaV8
+» ▶️ [YouTube] La Jeudinale — Effondrement du jeu vidéo : quand est-ce que ça s'arrête ? → https://youtu.be/WwNLNp2nFBo
 
 ## Freak of the month
 » ▶️ [YouTube] Zeph & Ramo → https://youtube.com/@ZephRamo
