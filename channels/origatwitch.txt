@@ -23035,14 +23035,126 @@ et beaucoup trop d'autres mauvaise nouvelles…
 
 
 
+--------------------------------------
+2026-07-03
 
+# Hebdo #112
+
+## Actus
+### Origami
 » 🎧 [Patreon] Conf’ 2 Rédac’ — Comme Molière → https://patreon.com/posts/162403822
+» ▶️ [Patreon] Wishlist — Juillet 2026 → https://patreon.com/posts/162034460
+» ▶️ [YouTube] Quoi de Vieux — Sony vient-il de tuer le rétrogaming ? → https://youtu.be/a3NgfaGXnfA
 » ▶️ [YouTube] Internet Exploreuses — All Stars → https://youtu.be/o11TDlrSaV8
 » ▶️ [YouTube] La Jeudinale — Effondrement du jeu vidéo : quand est-ce que ça s'arrête ? → https://youtu.be/WwNLNp2nFBo
 
+### La semaine
+(pas de magnéto de la semaine 🩴)
+
+### Sorties
+» Onimusha: Way of the Sword, le 4 sept. à 70 € sur Switch 2, PlayStation 5, Xbox Series et PC, démo disponible ; développé par Capcom, réalisé par Satoru Nihei → https://capcom-games.com/onimusha/ws/ | https://s.team/a/2638890
+
+» Looking For Fael, le 16 juil. sur Switch, PlayStation 5, Xbox Series, Windows et Steam Deck ; développé par Swing Swing Submarine → https://s.team/a/2521170 | https://www.arte.tv/digitalproductions/looking-for-fael/
+
+» Nivalis Nights, le 29 sept. 2026 sur Windows ; développé par Ion lands
+
+» Company of Heroes 3: Final Stand, le 29 juil. 2026 sur Windows ; développé par Relic Entertainment → https://s.team/a/4836540
+
+» 🇫🇷 [Gamekult / 29 juin 2026] **La saison 2 de l’apprécié Cyberpunk : Edgerunners arrivera cet automne** → https://cutt.ly/Ut6vMkLE
+
+### PlayStation arrête le support physique
+» cf. la Mardinale
+
+» 🇯🇵 [Famitsu / 25 juin 2026] **【VIPインタビュー】SIE 西野秀明氏「PS5にとって日本市場を活性化させるための投資は非常に重要だと考えています」** → https://cutt.ly/Dt6bvtis
+» 🇺🇸 [WCCF Tech / 26 juin 2026] **PlayStation will continue to push live service games despite evident challenges, while teasing a PlayStation 6 handheld** → https://cutt.ly/Bt6bbDXQ
+» 🇺🇸 [Push Square / 27 juin 2026] **Sony will continue to chase live service dream, despite mostly disastrous execution to date** — "It's what attracts users on a global level" → https://cutt.ly/7t6bDAxn
+» 🇬🇧 [VGC / 27 juin 2026] **PlayStation’s CEO says it’s not giving up on live service games** — Despite high profile failures, Sony still sees value in pushing online titles like Marathon and Helldivers 2 → https://cutt.ly/8t6bn4RV
+» 🇫🇷 [ActuGaming / 27 juin 2026] **Sony ne veut vraiment pas lâcher l’affaire côté jeux service, et promet de continuer à expérimenter** → https://actugaming.net/--808325
+» 🇺🇸 [Game Developer / 29 juin 2026] **PlayStation CEO says company wants to "revitalise" live-service games** — "The genre itself is relatively new, and I think many people are trying various things, so we also want to continue to take on challenges within that context" → https://cutt.ly/kt6bcwbu
+» 🇫🇷 [Gamekult / 29 juin 2026] **Malgré ses déboires dans le domaine, Sony croit encore et toujours au jeu en live service** → https://cutt.ly/Ct6bOAJ7
+
+### La chute de l'empire Xbox, suite
+» cf. la Mardinale
+
+### Supamonks
+» 🦋 [BlueSky / Gautoz / 30 juin 2026] 🧵 https://bsky.app/profile/gautoz.cool/post/3mpirgtcqlvhi
+> Toboggan infernal : le studio d’animation SUPAMONKS (en lead sur la direction artistique d’Absolum) a été placé en liquidation judiciaire et va fermer.
+
+» 📷 [Instagram / Absolum / 3 juil. 2026] https://instagram.com/p/DaUssQmAlmC/
+> Hello Rebels!
+> Over the last few days, we have received many messages of support and questions about the future of Absolum.
+> We want to reassure the community that the Supamonks' Absolum team has been assigned to another organization to continue working on the game, IP and animated series project.
+> Thank you for your passion and support!
+
+### Femerture de Midgar Studio
+» 🦋 [BlueSky / Gautoz / 2 juil. 2026] 🧵 https://bsky.app/profile/gautoz.cool/post/3mpomqmwces2x
+> INFO Origami - Midgar Studio a été placé en liquidation hier par l'administrateur en charge du redressement judiciaire du groupe Nacon. La société montpelliéraine fermera sous peu.
+> Leur prochain jeu Edge of Memories (en dev depuis cinq ans et prévu pour fin 2026) n'est plus entre leurs mains.
+> Selon plusieurs sources, Edge of Memories entrait dans la dernière ligne droite de son développement.
+> Rien ne permet pour l'instant de savoir si Nacon entend reprendre le chantier, publier le jeu en l'état ou le jeter aux oubliettes.
+> Sur le devenir du jeu, un scénario probable : Nacon mandate le partenaire en charge des portages pour aplatir un max de bugs. Le jeu sortirait dans un état peu polish, avec de gros soucis d'équilibrage et d'intention (Midgar tente d'organiser la passation d'une documentation, mais tout va très vite)
+
+### Un peu d'espoir après le grand incendie ?
+» 💌 [Origami] Infolettre — La forêt brûle → https://www.origami.ng/la-foret-brule/
+
+» ▶️ [YouTube / Zeph & Ramo / 13 sept. 2024] Weird Games Manifesto [A MAZE] part 1 → https://youtu.be/34NVLRHsxSU (1 h 45 min)
+» ▶️ [YouTube / Zeph & Ramo / 20 sept. 2024] Weird Games Manifesto [A MAZE] part 2 → https://youtu.be/oBrkdcVam4U (1 h 20 min)
+
 ## Freak of the month
-» ▶️ [YouTube] Zeph & Ramo → https://youtube.com/@ZephRamo
+» ▶️ [YouTube] Zeph & Ramo → https://youtube.com/@ZephRamo | https://zephramo.carrd.co
 » Mizzurna Falls, sorti en déc. 1998 sur PlayStation ; développé par le studio japonais 🇯🇵 Human Entertainement ; écrit et réalisé par Taichi Ishizuka, direction artistique par Yutaka Kambe
+
+## Jeux
+
+### 868-BACK
+» 868-BACK, sorti le 28 mai à 20,50 € sur Windows, Mac, Linux et Steam Deck, démo disponible → https://s.team/a/3304110 | https://868back.com
+
+- sorti le 28 mai 2026 sur Windows, Mac, Linux et Steam Deck
+- édité par Finji, développé par Michael Brough, développeur vivant au Portugal 🇵🇹 derrière Vertex Dispenser (2011), 868-HACK (2015) → <https://868back.com> | <https://www.smestorp.com>
+
+💻️ 20,50 € sur Steam (<https://s.team/a/3304110>), démo disponible
+💻️ 20,50 € sur GOG (<https://gog.com/game/868back>)
+💻️ 20 US$ sur itch (<https://finji.itch.io/868-back>)
+
+### Momento
+» Momento, sorti le 6 juin à 20 € sur Windows, Mac et Steam Deck, le 30 juin à 20 € sur Switch 1 & 2, PlayStation 5 et Xbox Series ; développé par les studios australien 🇦🇺 Fat Alien Cat et Nomo Studio → https://playmomento.com | https://s.team/a/2474770
+
+- sorti le 6 juin 2026 sur Switch 1 & 2, PlayStation 5, Xbox Series, Windows, Mac et Steam Deck
+- développé par les studios australien 🇦🇺 Fat Alien Cat, derrière Smash Crates (2022), et Nomo Studio → <https://playmomento.com> | <https://fataliencat.com> | <https://nomo.studio>
+- direction artistique par Jasmine Phillips, écriture par Jess Lyon, programmation par Julian Beiboer, musiques par Mikey O’Neil
+
+🎮 20 € sur Switch (<https://cutt.ly/Qt6vyPn1>), PlayStation (<https://cutt.ly/Zt6vtnRK>), Xbox (<https://cutt.ly/it6vt1J2>)
+💻️ 20 € sur Steam (<https://s.team/a/2474770>)
+
+### Deer & Boy
+» Deer & Boy, sorti le 23 juin à 20 € sur Switch, PlayStation 5, Xbox Series, Windows et Steam Deck, démo disponible ; développé par le studio français 🇫🇷️ Lifeline Games → http://deerandboy.com | https://s.team/a/1803140
+
+- sorti le 23 juin 2026 sur Switch, PlayStation 5, Xbox Series, Windows et Steam Deck
+- édité par Dear Villagers, développé par le studio français 🇫🇷️ Lifeline Games → <http://deerandboy.com>
+- réalisation et direction artistique par Jayson Houdet, musiques par Corentin Brasart
+
+🎮 20 € sur Switch (<https://cutt.ly/dt5o6Swd>), PlayStation (<https://cutt.ly/lt5pqqRO>) et Xbox (<https://cutt.ly/nt5pqhUE>)
+💻️ 20 € sur Steam (<https://s.team/a/1803140>), démo disponible
+
+» ▶️ **Super Vieux Jeux #1 - Une histoire du _cinematic platformer_** → <https://youtu.be/WKXHWu7pJsE> (3 h 11 min)
+
+## Mais pas que
+### Kévin
+» 📙 La méduse, 228 p., par Boum, publié en nov. 2022 🇨🇦 / mars 2023 🇪🇺 chez Pow Pow, 30 CA$ / 22 € en édition papier (ISBN 978-2-925114-17-8) → https://editionspowpow.com/produits/la-meduse/ | https://www.placedeslibraires.fr/livre/9782925114178-la-meduse-boum/
+
+### Florian
+» 🎦 The Apprentice (2024), 122 min, film cinéma réalisé par Ali Abbasi, scénario par Gabriel Sherman, musiques par Martin Dirkov, avec Sebastian Stan, Jeremy Strong, Martin Donovan, Maria Bakalova
+
+excuses de sac :
+- ils m'ont déstabilisé (Moguri, intro)
+
+raids : OrigaTwitch => (15;01)[+364] DollyWood_ (terminé à 17:35)
+
+# Bilan saison 3
+
+raids entrants :
+- JVleMag à 19:05 +19
+
 
 
 
