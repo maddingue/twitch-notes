@@ -22972,7 +22972,7 @@ raids : OrigaTwitch => (14:21)[+342] Superalienninja [Conan3D_=>(17:43)+18] (ter
 
 
 --------------------------------------
-2026-06-02
+2026-07-02
 
 # Mardinale #93
 ## Actus
@@ -23157,6 +23157,477 @@ raids entrants :
 
 
 
+--------------------------------------
+2026-07-07
+
+# Mardinale #94
+## Actus
+### Xbox licence 3200 personnes et se sépare de 5 studios
+» 🇺🇸 [Microsoft Blog / 6 juil. 2026] **The latest in our company transformation** → https://cutt.ly/OyqAn60t
+» 🇺🇸 [The Verge / 6 juil. 2026] **Microsoft is laying off 4,800 employees** — Most of the job losses are in Microsoft’s Xbox and commercial sales organizations → https://cutt.ly/LyqPGwJq
+» 🇫🇷 [Frandroid / 6 juil. 2026] **Le couperet tombe : Microsoft annonce le licenciement de 4800 personnes et débranche 4 Xbox Game Studios** → https://cutt.ly/9yqP2hJN
+
+» 🇺🇸 [Xbox Wire / 6 juil. 2026] **Resetting XBOX** → https://cutt.ly/HyqP7aeK
+» 🇺🇸 [Bloomberg / 6 juil. 2026] **Microsoft’s Xbox to cut 3,200 jobs, divest five Studios in major overhaul** — Compulsion and Double Fine studios will become independent; Undead Labs and Ninja Theory will be sold. Xbox will also look to sell or spin out Arkane Studios → https://cutt.ly/7yqPFssr
+» 🇺🇸 [Game Developer / 6 juil. 2026] **Xbox cutting 3,200 jobs and parting ways with Double Fine, Compulsion, Ninja Theory, and Undead Labs** — 'It is neither possible nor desirable to own every great independent studio.' → https://cutt.ly/pyqP4VUc
+» 🇬🇧 [Games Industry / 6 juil. 2026] **Xbox announces plans to lay off 3,200 staff and divest five studios** — Compulsion Games and Double Fine will become independent studios, Ninja Theory and Undead Labs to join new ownership, Arkane begins consultation → https://cutt.ly/3yqAdXbU
+» ▶️ [YouTube / Jason Schreier / 6 juil. 2026] Xbox to cut 3,200 jobs, get rid of five studios → https://youtu.be/LHbS3L2isl0 (19 min)
+» 🇫🇷 [Le Monde / 6 juil. 2026] **Microsoft annonce la suppression de 4 800 postes, en partie liée à la restructuration de sa filiale de jeux vidéo Xbox** — Le premier éditeur mondial de logiciels investit des sommes considérables dans les centres de données destinés à l’intelligence artificielle, ce qui entraîne des mesures d’économie dans d’autres activités → https://cutt.ly/pyqPH4Cc
+» 🇫🇷 [Gamekult / 6 juil. 2026] **Xbox se sépare de cinq studios et va supprimer 3 200 postes** — Arkane n'est pas encore fixé sur son sort → https://cutt.ly/ZyqP9yGj
+» 🇫🇷 [ActuGaming / 6 juil. 2026] **Xbox annonce plus de 3 200 licenciements, et revend 4 de ses studios avec Compulsion Games, Double Fine, Undead Labs et Ninja Theory** — La voilà. La vague de licenciement promise par le fameux « reset » de Xbox est bel et bien là, et comme c’était attendu, elle est particulièrement violente. Asha Sharma, nouvelle PDG du groupe, l’annonce elle-même dans une lettre qu’il est difficile de lire sans serrer du poing et des dents → https://actugaming.net/--809320
+
+» 🇺🇸 [Fortune / 6 juil. 2026] **Exclusive: Xbox’s CEO on 3,200 layoffs, four studios cut, and her blunt warning that ‘we spread ourselves too thin’** → https://cutt.ly/tyqAw33z
+» 🇺🇸 [Game Developer / 7 juil. 2026] **Xbox CEO amidst layoffs: 'I think our core has to be healthy'** — Xbox CEO Asha Sharma says that turning Xbox around will take time → https://cutt.ly/ayqAwbNy
+» 🇬🇧 [Games Industry / 7 juil. 2026] **"We simply spread ourselves too thin" – Xbox's Asha Sharma on firm's restructuring plans** — Sharma says Xbox "made a bunch of bets" that drove focus away from its core business → https://cutt.ly/AyqAvN3S
+
+### id Software, Obsidian, Zenimax et d'autres licencient en masse
+» 🇺🇸 [Xbox Wire / 6 juil. 2026] **Resetting XBOX** → https://cutt.ly/HyqP7aeK
+> […] Today, in some parts of the company, work passes through as many as 14 layers of management. Our platform teams are 40% larger than they were at the start of this generation, even as our player base and playtime have declined. That complexity has slowed decisions, blurred accountability, and made it harder to deliver for players. As we reset XBOX, we will simplify.
+> We will reduce management layers to no more than 5, and where possible, 3. We will deliver success through a flatter organization […]
+
+**Bethesda / id Software / Zenimax Online**
+» 🇺🇸 [IGN / 6 juil. 2026] **'We need to change course' — Bethesda boss tells staff the company must focus on 'our strongest franchises' as Xbox layoffs hit hard** → https://cutt.ly/kyqP6Xnp
+» 🇺🇸 [Kotaku / 6 juil. 2026] **The Elder Scrolls Online team seemingly gutted by Xbox layoffs, says game’s roadmaps ‘will be shifting’** — However, its community manager has said those remaining want to 'reaffirm our commitment' to the game → https://kotaku.com/--2000712920
+» 🇺🇸 [Game Developer / 7 juil. 2026] **Roughly half of the id Software team have been laid off** → https://cutt.ly/nyqP52cn
+» 🇫🇷 [IGN France / 7 juil. 2026] **"Nous devons changer de cap" : la boss de Bethesda annonce aux équipes que l'entreprise doit désormais se concentrer sur ses "franchises les plus fortes", alors que les licenciements chez Xbox frappent durement** → https://cutt.ly/VyqAqmow
+» 🇫🇷 [Gamekult / 7 juil. 2026] **The Elder Scrolls Online : l'onde de choc des licenciements Xbox éviscère le studio Zenimax Online** → https://cutt.ly/RyqApedv
+» 🇫🇷 [Gamekult / 7 juil. 2026] **Xbox aurait viré la moitié d'id Software (DOOM : The Dark Ages)** → https://cutt.ly/GyqApIjc
+» 🇫🇷 [ActuGaming / 7 juil. 2026] **Le studio id Software (DOOM) perd la moitié de ses effectifs suite aux licenciements chez Xbox** → https://actugaming.net/--809585
+
+***Obsidian**
+» 🇺🇸 [Kotaku / 6 juil. 2026] **The Outer Worlds and Grounded studio Obsidian losing around 25 percent of its staff to Xbox layoffs** — Roles impacted spanned all disciplines, and included employees with over a decade of experience at the studio → https://kotaku.com/--2000713032
+» 🇺🇸 [Game Developer / 7 juil. 2026] **Obsidian losing around one quarter of its staff to 'Xbox reset'** — The Pentiment and The Outer Worlds studio is reportedly losing 60-70 employees in the cuts → https://cutt.ly/XyqP7Vao
+» 🇫🇷 [Gamekult / 7 juil. 2026] **Obsidian fait partie des coupes chez Xbox : environ 25% des effectifs sont licenciés** → https://cutt.ly/myqAoREl
+
+**IO Interactive**
+» 🇺🇸 [Game Developer / 7 juil. 2026] **IO Interactive closing Istanbul studio after regaining control of Project Fantasy** — The studio said it must restructure to find sure footing after Xbox pulled funding for the in-development RPG → https://cutt.ly/vyqAqHA8
+» 🇫🇷 [Gamekult / 7 juil. 2026] **Lâché par Xbox, IO Interactive (007 First Light) ferme son studio d'Istanbul** → https://cutt.ly/SyqAaxUe
+» 🇫🇷 [ActuGaming / 7 juil. 2026] **IO Interactive regagne ses droits sur Project Fantasy suite à l’abandon de Xbox, mais doit fermer l’un de ses studios** → https://actugaming.net/--809531
+
+**finie l'accessibilité**
+» 🇺🇸 [GameSpot / 6 juil. 2026] **Xbox layoffs “heavily impact” the accessibility team, too** — A Microsoft spokesperson said that "accessibility remains a priority for Xbox." → https://cutt.ly/nyqAQzMv
+
+**Blizzard**
+» 🇬🇧 [PC Gamer / 7 juil. 2026] **It looks like Blizzard's escaped Xbox's grim reset scythe for now, though there's still time to be caught in the second 1600-strong layoff wave coming 2027** — I'm sure this is great for morale → https://cutt.ly/yyqAUytL
+
+### 1 MILLIARD d'utilisateurs (Xbox sur les traces de Roblox)
+» 🇺🇸 [Xbox Wire / 6 juil. 2026] **Resetting XBOX** → https://cutt.ly/HyqP7aeK
+> I want XBOX to be one of the few companies that entertains more than a billion people each day and gives everyone the opportunity to create and connect. I know we can achieve this goal. XBOX has many of the most beloved franchises in entertainment history, talented studios around the world, and we will return to growth in 2027.
+
+» 🇺🇸 [Kotaku / 6 juil. 2026] **Xbox can’t meet ridiculous new goal oF ‘entertaining’ 1 billion a day even if we all boot up a Call Of Duty right now** — One-eighth of the earth's population isn't so many, right? → https://kotaku.com/--2000712897
+» 🇫🇷 [Frandroid / 6 juil. 2026] **Xbox veut « divertir 1 milliard de joueurs par jour » : voici le plan d’Asha Sharma** → https://cutt.ly/AyqAeZCj
+
+» 🇺🇸 [Wall Street Journal / 6 juil. 2026] **Microsoft is cutting more than 3,000 jobs in Xbox division** — The videogame unit’s revenue has fallen and its Netflix-like subscription service is far below expectations → https://cutt.ly/byqP3LVA
+» 🇬🇧 [Games Industry / 7 juil. 2026] **Xbox Game Pass subscriber count is less than 50% of original target** — Reported 30M figure is well below the 77m user goal that Microsoft set for the subscription service for 2026 → https://cutt.ly/8yqP4yE8
+» 🇫🇷 [Gamekult / 7 juil. 2026] **Le Game Pass, c'est désormais environ 30 millions d'abonnés (soit 4 de moins qu'aux dernières nouvelles)** → https://cutt.ly/byqP983b
+» 🇫🇷 [Frandroid / 7 juil. 2026] **Le Xbox Game Pass visait 77 millions d’abonnés en 2026, ils sont 30 millions** → https://cutt.ly/7yqP8oC0
+» 🇫🇷 [ActuGaming / 7 juil. 2026] **Le Xbox Game Pass compterait 30 millions d’abonnés, alors que Xbox en visait plus du double pour cette année** → https://actugaming.net/--809436
+
+» 🇺🇸 [The Verge / 6 sept. 2024] **Roblox’s CEO on getting to 1 billion users** — Roblox may already be bigger than the entire AAA game industry. What’s next? Plus: Telegram’s mea culpa and Amazon’s latest sneaky AI deal → https://cutt.ly/QyqAO6S2
+» 🇬🇧 [PC Gamer / 6 sept. 2024] **Roblox CEO delivers imperial announcement that the goal is '1 billion daily active users' and 10% of all global gaming revenue, thanks** — I mean why not, sure → https://cutt.ly/6yqAPC1f
+
+» 🇺🇸 [Kotaku / 17 juin 2026] **Tim Sweeney pitches Epic as a savior for an AAA gaming industry being devoured by Roblox** — The Fortnite CEO says he wants a more open future for gaming → https://kotaku.com/--2000707706
+» 🇺🇸 [Aftermath / 17 juin 2026] **Game developers neither surprised nor delighted to learn that Unreal Engine 6 will be filled with AI garbage** — “All of the UE6 stuff is really exciting news if your idea of a video game is turning it into shitty Roblox-core slurry for Fortnite" → https://cutt.ly/NyqADGZf
+» 🇺🇸 [Rock Paper Shotgun / 17 juin 2026] **Fortnite boss hopes to take on Roblox's massive everythingverse with a "very different" massive everythingverse, as Epic unveil genAI-infused Unreal Engine 6** — A "time of both crisis and opportunity" is nigh → https://cutt.ly/QyqAFY0h
+» 🇫🇷 [Gamekult / 18 juin 2026] **"Pour réduire les tâches répétitives du développement", Unreal Engine 6 intègrera l'IA générative** → https://cutt.ly/RyqAF1HA
+
+» 🇺🇸 [Xbox Wire / 6 juil. 2026] **Resetting XBOX** → https://cutt.ly/HyqP7aeK
+> […] Mojang and King will now report directly to me. These two studios have increasingly become platforms and are our largest by monthly active players. They bring critical geographic, demographic, and differentiation to XBOX.
+
+### Sony et l'IA
+» 🇬🇧 [Sony / 5 juin 2026] **Game & Network Services (G&NS) Segment Small Meeting Q&A Summary** → https://cutt.ly/syqAJehQ
+» 🇬🇧 [Games Industry / 7 juil. 2026] **Sony leadership says AI tools are "an important foundational technology supporting our strategy"** — "This is less about cost efficiency and more about improving quality and development speed" → https://cutt.ly/qyqAHkiu
+
+### Marvel Tōkon: Fighting Souls
+» 🇺🇸 [Kotaku / 4 juil. 2026] **Marvel Tōkon: Fighting Souls is blocked in 132 countries on Steam as fans continue questioning Sony’s commitment to PC** — Unsurprisingly, these are the same 132 countries that were originally blocked from purchasing Helldivers 2 on Steam → https://kotaku.com/--2000712574
+» 🇫🇷 [ActuGaming / 6 juil. 2026] **Marvel Tokon sera finalement inaccessible dans plus d’une centaine de pays, la faute au PSN** → https://actugaming.net/--809279
+» 🇫🇷 [Gamekult / 6 juil. 2026] **Marvel Tokon Fighting Souls bloqué dans 132 pays à cause du PSN** → https://cutt.ly/yyqAKUsk
+
+### L'arrêt du support physique chez PlayStation
+» 🇫🇷 [ActuGaming / 3 juil. 2026] **« Peut-être qu’imprimer des disques est devenu trop coûteux » : Shawn Layden, ex-PlayStation, s’exprime sur l’arrêt des jeux physiques** → https://actugaming.net/--809103
+» 🇫🇷 [ActuGaming / 6 juil. 2026] **Sony prévient les studios qu’ils pourront toujours produire des jeux sur disque après 2028, mais seulement pour les jeux déjà sortis** → https://actugaming.net/--809286
+» 🇫🇷 [ActuGaming / 6 juil. 2026] **Une pétition réunit plus de 130 000 signatures pour demander à Sony de revenir sur l’arrêt des jeux sur disques chez PlayStation** → https://actugaming.net/--809381
+» 🇫🇷 [Gamekult / 7 juil. 2026] **Après l'annonce de la fin du physique sur Playstation : prolifération des pétitions pour sauver les disques** → https://cutt.ly/WyqAZ7dQ
+
+» 🇺🇸 [The Verge / 3 juil. 2026] **Sony’s PlayStation disc factory is already being repurposed** — Sony already invested the cash to convert its last disc-making factory → https://cutt.ly/AyqABhh4
+
+### Lienciements chez OtherSide
+» 🇺🇸 [Game Developer / 1er juil. 2026] **OtherSide Entertainment lays off 18 from Thick as Thieves team** — OtherSide has now laid off 36 employees in the last month → https://cutt.ly/fyqAMjL4
+» 🇫🇷 [Gamekult / 2 juil. 2026] **OtherSide Entertainment au bord de la fermeture après de nouveaux licenciements** → https://cutt.ly/fyqANHBC
+
+### Krafton paie les bonus...
+» 🇬🇧 [Games Industry / 1er juil. 2026] **Subnautica 2 studio Unknown Worlds' CEO resigns as Krafton agrees to pay $250m bonus** — "New leadership is the best way for the studio to move forward," says CEO Ted Gill → https://cutt.ly/RyqAL3Xa
+» 🇫🇷 [Gamekult / 2 juil. 2026] **Subnautica 2 : Krafton accepte finalement de payer les bonus promis à tout le studio** — Ayant accompli sa mission, Ted Gill quitte à nouveau Unknown Worlds → https://cutt.ly/cyqAZkJw
+
+
+
+--------------------------------------
+2026-07-10
+
+# Hebdo #113
+
+## Actus
+» ▶️ [YouTube] La Mardinale — XBOX : la vérité derrière le grand « RESET », la pire restructuration de l'histoire du jeu vidéo → https://youtu.be/iZT4E66g7i0
+
+## GotY 2026
+huitièmes de finale :
+- Once Upon A Katamari vs le karaoke
+  - votes : 
+  - sondage : Katamari 64% (122) | karaoke 36% (69)
+  - résultat : le karaoke
+
+- Resident Evil Requiem vs le mini-golf
+  - votes : 3 vs 3
+  - sondage : le mini-golf 70% (92) | Resident Evil Requiem 30% (40)
+  - résultat : le mini-golf
+
+- Hollow Knight Silksong vs En toute franchise
+  - votes : 4 Silksong | 2 En toute franchise, mais Moguri triche en compte 3 vs 3
+  - sondage : En toute franchise 59% (250) | Hollow Knight Silksong 41% (176)
+  - résultat : En toute franchise
+
+- Everybody's Golf vs le tennis de plage
+  - votes : 
+  - sondage : Everybody's Golf 74% (100) | tennis de plage 26% (35)
+  - résultat : le tennis de plage
+
+- pétanque ou yo-yo
+  - votes : pétanque 3 | yo-yo 3
+  - sondage : pétanque 65% (118) | 35% (64)
+  - résultat : la pétanque
+
+- 007 First Light vs Tomodachi Life : Une vie de rêve
+  - votes : 007 First Light 4 | Tomodachi Life 2
+  - sondage : 007 First Light 50% (587) | Tomodachi Life 50% (577)
+  - résultat : 007 First Light
+
+- Rhythm Paradise Groove vs Marathon
+  - votes : Rhythm Paradise Groove 3 | Marathon 2
+  - sondage : Rhythm Paradise Groove 51% (527) | Marathon 49% (498)
+  - résultat : Rhythm Paradise Groove
+
+- TR-49 vs le bingo
+  - votes : TR-49 3 | le bingo 3
+  - sondage : TR-49 50% (100) | le bingo 50% (99)
+  - résultat : TR-49
+
+quart de finale :
+- le karaoke vs le mini-golf
+  - votes : le karaoke 4 | le mini-golf 2
+  - sondage : le karaoke 50% (138) | le mini-golf 50% (136)
+  - résultat : le karaoke
+
+- En toute franchise vs le tennis de plage
+  - votes : En toute franchise 2 | le tennis de plage 4
+  - sondage : En toute franchise 54% (105) | le tennis de plage 46% (88)
+  - résultat : le tennis de plage
+
+- la pétanque vs 007 First Light
+  - votes : la pétanque 2 | 007 First Light 3, mais Moguri décide que c'est égalité
+  - sondage : 007 First Light 55% (190) | la pétanque 45% (158)
+  - résultat : la pétanque
+
+- Rhythm Paradise Groove vs TR-49
+  - votes : Rhythm Paradise Groove 2 | TR-49 3, mais Moguri vote pour Rhythm Paradise Groove
+  - sondage : TR-49 67% (263) | Rhythm Paradise Groove 33% (128)
+  - résultat : Rhythm Paradise Groove
+
+demie-finale :
+- le karaoke vs le tennis de plage
+  - votes : le karaoke 4 | le tennis de plage 2
+  - sondage : le karaoke 43% (77) | le tennis de plage 57% (103)
+  - résultat : le karaoke
+
+- la pétanque vs Rhythm Paradise Groove
+  - votes : la pétanque 2 | Rhythm Paradise Groove 4
+  - sondage : la pétanque 59% (56) | Rhythm Paradise Groove 41% (39)
+  - résultat : Rhythm Paradise Groove
+
+finale :
+- le karaoke vs Rhythm Paradise Groove
+  - votes : le karaoke 6 | Rhythm Paradise Groove 0
+  - sondage : Crazy Frog 60% (176) | le karaoke 22% (65) | Rhythm Paradise Groove 17% (xx)
+  - fléchettes : bleu 14 | noir 7
+  - sondage : bleu 16% (12) | noir 22% (17) | orange 62% (48)
+  - résultat : Rhythm Paradise Groove
+
+
+
+--------------------------------------
+2026-07-23
+
+# Dis-moi Weeb
+
+Devil May Cry 5 Devil Hunter Edition, sorti le 23 juin à 40 € sur Switch 2 (https://cutt.ly/hyt1SQRo)
+
+raids : OrigaTwitch => (16:35)[+131] KayaneTV (stream déjà terminé)
+
+
+
+--------------------------------------
+2026-08-17
+
+# Wishlist
+
+» Nocturne, le 24 sept. 2026 sur PC / Steam Deck, démo disponible ; développé par Pracy Studios → https://pracystudios.com | https://s.team/a/1374860
+- la démo date du 12 juin 2026
+- résultat du sondage votre avis sur Nocturne : ça part dans Wishlist 44% (4) | ça manque de sauce 33% (3) | ça manque de groove 22% (2)
+
+» Wind Runners, le 23 sept. 2026 sur PC / Steam Deck, démo disponible ; édité par Twin Sails Interactive, développé par Ludic Studios, studio brésilien 🇧🇷 derrière Akane (2018), Kate: Collateral Damage (2021) → https://s.team/a/1101370
+- la démo date du 18 juin 2026
+- résultat du sondage votre avis sur Wind Runners : ça part dans Wishlist 46% (6) | je relance Luftrausers 38% (5) | ok, mais la musique, non 15% (2)
+- j'étais _un peu_ insistant durant le stream, mais c'est vraiment difficile de ne pas comparer avec **Luftrausers** (2014) de Vlambeer ; en voici un GK Live de l'époque : https://youtu.be/1n8SPCRqF7I
+- la musique dans Luftrausers est particulière parce que c'est le même morceau, mais joué différemment en fonction de ce que tu choisis comme équipement ; l'OST Bandcamp ne rend pas compte de la richesse que cela implique, en ne proposant que la version de base de chaque morceau : https://jukiokallio.bandcamp.com/album/luftrausers-ost
+
+» SPRAWL zero, le 8 sept. 2026 sur Switch 2, PlayStation 5, Xbox Series et PC, démo disponible ; édité par Kwalee, développé par Maeth, studio derrière SPRAWL (2023) → https://s.team/a/3748520
+- la démo date du 16 juin 2026
+- résultat du sondage votre avis sur SPRAWL zero : ça bouge pas mal 63% (5) | ça part dans Wishlist 25% (2) | elle est où ma 4K500fps?? 13% (1)
+
+raids entrants :
+- Messahira à 23:23 avec 33
+- Vazek_Tomi à 23:38 avec 115
+
+raids : OrigaTwitch => (00:25)[+135] Kamuirobotics (terminé à 00:45)
+
+
+
+--------------------------------------
+2026-08-18
+
+# Wishlist
+
+» MONOWAVE, le 16 sept. 2026 sur Windows et Mac, démo disponible ; développé par Studio BBB, studio sud-coréen 🇰🇷 → https://s.team/a/2680440
+- la démo date du 8 juin 2026
+
+» Sniper Dan, le 17 sept. 2026 sur Switch, PlayStation 5, Xbox series et PC / Steam Deck, démo disponible ; édité par PQube, développé par Denki, studio britannique 🇬🇧 derrière Autonauts (2019), Autonauts vs Piratebots (2022) → https://s.team/a/2841650 | https://pqube.co.uk/games/sniper-dan/ | https://denki.itch.io/sniperdan
+- la démo date du 22 mai 2026
+- résultats du sondage votre avis sur Sniper Dan : ce jeu rate sa cible 73% (8) | ce jeu fait mouche 27% (3)
+
+» Fallen Tear: The Ascension, en accès anticipé à 25 € depuis le 17 mars 2026 sur PC, version finale le 16 sept. 2026 sur Switch, PlayStation, Xbox et PC ; édité par CMD Studios, développé par Winter Crew Studios, studio philippin 🇵🇭 dont c'est le premier jeu → https://s.team/a/1446900 | https://fallentearascension.com
+- la démo date du 3 févr. 2026
+- résultats du sondage votre avis sur Fallen Tear: The Ascension : c'est vraiment pas mal 54% (7) | ça part dans Wishlist 23% (3) | besoin de plus de polish 23% (3)
+
+» Normal Golf Game, le 21 sept. 2026 sur PC / Steam Deck, démo disponible ; développé par Luke Muscat, derrière Feed the Deep (2024), qui a précédemment travaillé sur Fruit Ninja (2010), Jetpack Joyride (2011), Pac-Man 256 (2015) → https://s.team/a/3510740
+- la démo date du 1er juin 2026
+- résultats du sondage votre avis sur Normal Golf Game : cé rigolol 55% (6) | GOTY 2026 27% (3) | lol nan 18% (2)
+
+raids entrants :
+- Farore à 22:24 avec 219
+
+raids : OrigaTwitch => (00:08)[+87] Seldell (terminé à 00:49)
+
+
+
+--------------------------------------
+2026-08-19
+
+# Wishlist
+
+» Blood in the Panopticon, sorti le 19 août 2026 à 13 €, en promo à 11 €, sur Windows, Linux et Steam Deck ; développé par SIS Style Interactive, studio de Sebastian Dokia → https://s.team/a/4109210 | https://sebastiandokia.com/blood-in-the-panopticon
+- résultats du sondage votre avis sur Blood in the Panopticon : c'est pew pew pas mal 50% (5) | mes yeeeuuuuxxxx !!!! 😵‍💫 40% (4) | ça part dans Wishlist 10% (1)
+
+» Magical Blush, annoncé pour sept. 2026 sur Switch 1 & 2, PlayStation 5, Xbox Series et PC / Steam Deck, démo disponible ; édité par Dangen Entertainment, développé par Alkacer Game Studio, studio brésilien 🇧🇷 → https://s.team/a/3488640 | https://gog.com/game/magical_blush | https://dangen-entertainment.itch.io/magical-blush-demo
+- la démo date du 15 juin 2026
+- résultats du sondage votre avis sur Magical Blush : pas mal, pas mal 86% (6) | ça part dans Wishlist 14% (1) | trop de Metroidvania 0% (0)
+
+» Stick It to the Stickman, en accès anticipé à 7 € depuis le 18 août 2025 sur Windows, Mac, Linux et Steam Deck, en promo à 4,90 €, démo disponible, version 1.0 le 23 sept. 2026 ; édité par Devolver Digital, développé par Free Lives, studio sud-africain 🇿🇦 derrière Broforce (2015), Genital Jousting (2018), Terra Nil (2023), Anger Foot (2024) → https://s.team/a/2085540
+- la démo date du 3 sept. 2025
+- résultats du sondage votre avis sur Stick It to the Stickman : je retourn sur Sifu 42% (5) | pif! paf! dans Wishlist! 33% (4) | la bagarre, c'est rigolo 25% (3)
+
+raid : OrigaTwitch => (00:01)[+61] Pixx3ll [InLacrimaeLacrima=>(00:08)+5] [AlexEaston_=>(00:11)+5] [Arunotaku=>(00:54)+37] [hrnestt=>(00:54)+5] [Yoitchi=>(01:00)+8] (>02:45) => nalalath => InfokubArcade => (07:17)[+68] La_Puissance_du_Brocoli [Psychopaye=>(07:26)+15] => (09:14)[+67] unoceandedouceur => (11:59)[+45] Koala_Cosy => (13:16)[+74] Aeseriu => (16:10) Karssi (vendredi) (terminé à 02:04)
+
+
+
+--------------------------------------
+2026-08-19
+
+# Wishlist
+
+» Akiba Lost - アキバロスト, le 17 sept. 2026 sur Switch 1 & 2, PlayStation 5, PC / Steam Deck, démo disponible ; développé par IzanagiGames, studio japonais 🇯🇵 derrière Death Come True (2020), World's End Club (2021), Yurukill: The Calumniation Games (2022), Dyschronia: Chronos Alternate (2024), Amedama (2024), Dark Auction (2026) → https://akibalost.com | https://s.team/a/4131220 | https://izanagigames.co.jp/en/
+- la démo date du 7 août 2026
+- résultats du sondage votre avis sur Akiba Lost - アキバロスト : ok, mais lu par Hoopy 75% (6) | ça part dans Wishlist 25% (2) | trop Patrick-core pour moi 0% (0)
+
+raids : OrigaTwitch => (17:57)[+82] OscarLemaire => (18:56)[+82] Nico_Oni => (20:41)[+114] [TeamSaltyEU=>(22:38)+69] WhiteBl4ck (samedi) (>00:20) => jila_34 => Kayne_seys => Hikariny_ => Huntress => Church_hb => (<10:31) DIGIvralie => (10:57) HuniBuniVT => (12:33)[+38] harriVT => (14:53)[+50] kita_str => (16:03)[+39] Pianouille
+=> (17:18)[+24] KappnTortle [yoyoMeg=>(18:19)+21] => (20:28)[+31] yoyoMeg => (22:13)[+27] CorsairCowboy (terminé à 22:57)
+
+
+
+--------------------------------------
+2026-09-18
+
+# Hebdo #114
+
+## Jeux
+
+### Onimusha: Way of the Sword
+- sorti le 25 sept. 2026 sur PlayStation 5, Xbox Series et PC / Steam Deck
+- développé par Capcom → → <https://capcom-games.com/onimusha/ws/>
+- réalisé par Satoru Nihei, direction artistique par Hiroyuki Nara et Hiroshi Yugen, écriture par Hiroshi Yamashita, musiques par Nozomi Ohmoto, Kota Suzuki et Tomoki Kameyama
+
+🎮 80 € sur PlayStation (<https://cutt.ly/xt07n4qd>) et Xbox (<https://cutt.ly/Ot07QIVl>), démo disponible
+💻️ 70 € sur Steam (<https://s.team/a/2638890>), démo disponible
+
+### Orbitals
+- sorti le 3 sept. 2026 sur Switch 2
+- édité par Kepler Interactive, développé par Shapefarm
+- réalisé par Marcos Ramos et Jakob Lundgren, direction artistique par Casper Wermuth et Johannes Varmedal, musiques par Falk & Klou
+
+🎮 50 € en grande distribution
+🎮 50 € sur Switch 2 (https://cutt.ly/SycJYVAF)
+
+### Marvel's Wolverine
+- sorti le 15 sept. 2026 sur PlayStation 5
+- édité par Sony Interactive Entertainment, développé par Insomniac Games
+- réalisé par Marcus Smith, Lauren Preston, Brian Horton, Mike Daly, Adam Noonchester et Cameron Christian, direction artistique par Gavin Goulden, Jacinda Chew et Grant Hollis, écriture par Walt Williams et Jon Paquette, musiques par David Fleming
+
+🎮 61 € en grande distribution
+🎮 80 € sur PlayStation 5 (https://cutt.ly/aycJO8V9)
+
+## Freak of the month
+» ▶️ [YouTube] Zeph & Ramo → https://youtube.com/@ZephRamo | https://zephramo.carrd.co
+» Cosmology of Kyoto
+
+» Tripitaka
+
+### 
+
+
+
+
+--------------------------------------
+2026-09-23
+
+# Serious Gaming #95
+## Actus
+### La réorganisation zinzin d'Xbox fait des morts
+
+### PlayStation : un été pour tout casser
+
+### En difficulté, Bungie revient finalement à Destiny
+
+### Classé X par Steam, Nighthawks double ses wishlists
+
+### Vexé, Jonathan Blow décrédite une partie des créateurs de son prochain jeu
+
+
+» 🇺🇸 [Game Developer / xx juil. 2026] **Rockstar accused of ignoring pay inequity, mandating crunch, and weaponizing bonuses** — Multiple current Rockstar employees and union members based in the UK claim the Grand Theft Auto maker is failing its workforce → https://cutt.ly/FyvOFgTK
+
+
+
+--------------------------------------
+2026-09-25
+
+# Hebdo #114
+
+## Actualités
+### Origami
+» 🎧 [Patreon] Conf’ 2 Rédac’ — Éclipses → https://patreon.com/posts/170160247
+» ✉️ [Origami] Serious Gaming — S’il suffisait d’aimer PlayStation → https://www.origami.ng/sil-suffisait-daimer-playstation/
+» ▶️ [YouTube] Serious Gaming — Un été pour détruire le jeu vidéo → https://youtu.be/Gwg888zUBq4
+
+### 2K et les micro-transactions
+» 🇺🇸 [Game File / 18 sept. 2026] Facing theft lawsuit, 2K exec argues against letting gamers transfer their virtual currency from one year’s NBA 2K to the next → https://cutt.ly/0yv4coWR
+
+### Bungie n'en a pas fini avec Destiny
+» 🇺🇸 [Bungie / 17 sept. 2026] The Next Chapter for Bungie → https://cutt.ly/Lyv4WKNW
+» 🇺🇸 [Game Developer / 21 sept. 2026] Bungie declares it's 'not done with Destiny' as it lays out studio's future — 'Destiny is foundational to Bungie's future.' → https://cutt.ly/4yv4EFVu
+» 🇫🇷 [Gamekult / 21 sept. 2026] Bungie prend la parole et mise finalement sur Destiny pour assurer son futur — Et ça commence par une restauration du contenu supprimé → https://cutt.ly/Oyv4mS9t
+» 🇬🇧 [Games Industry / 22 sept. 2026] Bungie says it's "not done with Destiny", aims to earn back player trust by restoring archived Destiny 2 content — Studio acknowledges Marathon "did not reach as many players as we had hoped" and emphasises it was "never intended to replace Destiny" → https://cutt.ly/2yv4TnXs
+
+### Microsoft brevette un moyen de mettre des pubs dans les jeux
+» ▶️ [YouTube / Gamers Nexus / 24 sept. 2026] Microsoft’s Terrifying New Patent | LG-Style ACR for Games & Software → https://youtu.be/Smwo493IAfw (28 min)
+» 🇺🇸 [Game Developer / 24 sept. 2026] Microsoft files patent for "ad-credit" system to show ads on PC and Xbox without disrupting gameplay — After viewing content, players would receive a "credit" for a designated period of ad-free playtime → https://cutt.ly/syv4OzEC
+» 🇫🇷 [Gamekult / 24 sept. 2026] Xbox : bientôt des pubs entre chaque partie ? → https://cutt.ly/hyv4YCLX
+
+### Xbox continue son « reset » très fort
+» 🇺🇸 [Xbox Wire / 22 sept. 2026] Continuing our reset → https://cutt.ly/uyv6fPyP
+» 🇺🇸 [Game Developer / 22 sept. 2026] Xbox continues 'reset' with Halo Studios layoffs and Undead Labs divestment — Activision is developing the next Halo title, and Ninja Theory is being shuttered → https://cutt.ly/2yv4Ac1s
+» 🇫🇷 [ActuGaming / 22 juil. 2026] Chez Xbox, de nouveaux licenciements seraient imminents, avec des fusions de studios au programme → https://actugaming.net/--826440
+» 🇫🇷 [Gamekult / 22 sept. 2026] Xbox bouleverse l'organisation de ses studios et élimine 268 postes — Activision récupère Halo, Ninja Theory vers la fermeture → https://cutt.ly/pyv6WUcH
+» 🇫🇷 [ActuGaming / 23 juil. 2026] **Suite aux fusions et aux reventes, il ne reste plus que 3 Xbox Game Studios majeurs nommés comme tels** → <https://actugaming.net/--826567>
+» 🇫🇷 [Gamekult / 24 sept. 2026] Bethesda promet une "liberté créative" à Obsidian, désormais partie intégrante de la famille → https://cutt.ly/iyv4DG2x
+» 🇫🇷 [ActuGaming / 24 juil. 2026] **Bethesda promet qu’Obsidian ne va pas perdre son « identité créative » maintenant que le studio a été transféré** → <https://actugaming.net/--826656>
+» 🇫🇷 [Gamekult / 24 sept. 2026] Vingt-quatre ans après son rachat par Microsoft, Rare n'est plus du tout la même exception britannique → https://cutt.ly/gyv4Fp4i
+» 🇫🇷 [Gamekult / 24 sept. 2026] Transféré chez Activision, le studio d'Age of Empires perd la moitié de son effectif mais aussi son prochain jeu → https://cutt.ly/Yyv4FFfg
+» 🇫🇷 [Gamekult / 22 sept. 2026] Malgré l'annonce de Senua en juin et un repreneur, Xbox ferme définitivement Ninja Theory → https://cutt.ly/Cyv4F7IC
+» 🇺🇸 [Game Developer / 22 sept. 2026] Undead Labs makes 'significant' layoffs after splitting from Xbox — Microsoft signalled its intent to divest the Seattle-based studio earlier this year → https://cutt.ly/5yv4JXRm
+
+### Sorties
+- Titan Quest II, version 1.0 prévu le 19 jan. 2027 sur PlayStation 5, Xbox Series et PC ; développé par Grimlore Games, studio allemand 🇩🇪 derrière SpellForce 3 Reforced (2017) et SpellForce 3 Fallen God (2020) → https://grimloregames.com
+- ???
+- Cairn, DLC On the Trail: Deep Water, le 29 oct. 2026 sur Switch 2, PlayStation 5 et PC / Steam Deck
+- Virtue and a Sledgehammer, le 27 oct. 2026 sur PC / Steam Deck ; développé par Deconstructeam, studio espagnol  🇪🇸 derrière Gods Will Be Watching (2014), The Red Strings Club (2018), Essays on Empathy (2021), The Cosmic Wheel Sisterhood (2023), Many Nights a Whisper (2025), et Selkie Harbour, studio espagnol  🇪🇸 derrière Many Nights a Whisper (2025) → https://s.team/a/3743260 | https://deconstructeam.com
+
+### Chiffres
+- 5 millions de Ace Attorney Trilogy
+  - [Steam / Ace Attorney Trilogy] Phoenix Wright: Ace Attorney Trilogy dépasse les 5 millions de ventes ! → https://cutt.ly/eyv6tYaN
+- 2,5 millions de Pragmata
+  - [Capcom / 28 juil. 2026] Sales and profits increase year on year in Capcom’s consolidated results for the three months ended June 30, 2026 → https://cutt.ly/2yv6yTUQ
+- 200 Go pour installer Final Fantasy VII Revelations
+  - 🇬🇧 [VGC / 18 sept. 2026] FF7 Revelation director Hamaguchi discusses the game’s 200GB size, DLC plans, and a new Tifa detail — Final Fantasy 7 Revelation’s director isn’t concerned it’s too big → https://cutt.ly/byv6iLsr
+
+### Coup de projecteur
+» The Hollowing, annoncé pour 2026 sur Windows, Mac, Linux et Steam Deck, démo disponible ; développé par Rubeki Games → https://s.team/a/4882000
+
+### Agenda
+» 🗓️ Press Start 2026 • Histoires sans fin → https://agenda.bpi.fr/cycle/press-start-2026/
+
+
+## Jeux
+
+### SPRAWL zero
+» SPRAWL zero, sorti le 8 sept. à 25 € sur Switch 2, PlayStation 5, Xbox Series et PC / Steam Deck ; édité par Kwalee, développé par Maeth, studio derrière SPRAWL (2023) → https://s.team/a/3748520
+
+- sorti le 8 sept. 2026 sur Switch 2, PlayStation 5, Xbox Series et PC / Steam Deck
+- édité par Kwalee, développé par Maeth, studio derrière SPRAWL (2023)
+- direction artistique, musiques et réalisation par Carlos Lizarraga, construction des niveaux et écriture par Michael Markie, programmation par Amber Brautigam et Hannah Crawford
+
+🎮 25 € sur Switch (<https://cutt.ly/Syv3Wmh9>), PlayStation (<https://cutt.ly/Pyv3W4uy>) et Xbox (<https://cutt.ly/nyv3EbZJ>)
+💻️ 25 € sur Steam (<https://s.team/a/3748520>), démo disponible
+⏱️ durée de vie : environ 5 h
+
+### Fire Emblem: Fortune's Weave
+» Fire Emblem: Fortune's Weave, sorti le 17 sept. à 70 € sur Switch 2 ; édité par Nintendo, développé par Intelligent Systems
+
+- sorti le 17 sept. 2026 sur Switch 2
+- édité par Nintendo, développé par Intelligent Systems, studio japonais 🇯🇵 derrière les séries de jeux _Fire Emblem_, _Paper Mario_, _WarioWare_ → <https://intsys.co.jp> | <https://www.nintendo.com/jp/games/switch2/aacsa/index.html>
+- réalisé par Toshiyuki Kusakihara, direction artistique par Chinatsu Kurahana, akafumi Teraoka et Hiroki Hamamoto, écriture par Toshiyuki Kusakihara et Yuriko Tsuyuguchi, musiques par Takeru Kanazaki
+
+🎮 59 € en grande distribution
+🎮 70 € sur eShop (<https://cutt.ly/Qyv3IrP2>)
+⏱️ durée de vie : environ 120 h
+
+### Resonance: A Plague Tale Legacy
+» Resonance: A Plague Tale Legacy, sorti le 27 août à 60 € sur PlayStation 5, Xbox Series et à 50 € sur PC / Steam Deck ; développé par le studio français 🇫🇷️ Asobo → https://www.asobostudio.com/fr/jeux/resonance-plague-tale-legacy
+
+- sorti le 27 août 2026 sur PlayStation 5, Xbox Series et PC / Steam Deck
+- édité par Focus Entertainment, développé par Asobo, studio français 🇫🇷️ derrière _A Plague Tale: Innocence_ (2019), _Microsoft Flight Simulator_ (2020, 2024), _A Plague Tale: Requiem_ (2022) → <https://www.asobostudio.com/fr/jeux/resonance-plague-tale-legacy>
+- réalisé par David Dedeine, direction artistique par Olivier Ponsonnet, écriture par Carol Ann Bañuls et Clémentine Soulard-Pignon, musiques par Olivier Derivière
+
+🎮 60 € sur PlayStation (<https://cutt.ly/Zyv9lUrk>)
+🎮 60 € ou inclus dans le Game Pass sur Xbox (<https://cutt.ly/myv9zuJi>)
+💻️ 50 € sur Steam (<https://s.team/a/2713000>)
+⏱️ durée de vie : environ 15 h
+
+## Mais pas que
+### Gauthier
+» 🎦 A Real Pain (2024), 90 min, film cinéma écrit et réalisé par Jesse Eisenberg, avec Jesse Eisenberg, Kieran Culkin, Will Sharpe, Jennifer Grey, Kurt Egyiawan, Liza Sadovy, Daniel Oreskes
+
+### Kévin
+» 📙️ L’histoire de comment je me suis séparée en deux, par Hoda Adra, publié le 14 avril 2026 chez Le Noroît, 27 CA$ en version papier (ISBN 978-2-89766-526-5), 21 CA$ en version numérique (ISBN 978-2-89766-527-2) → https://lenoroit.com/produit/lhistoire-de-comment-je-me-suis-separee-en-deux/
+
+raids : OrigaTwitch => (15:30)[+399] Oscarlemaire => (18:00)[+99] Nico_Oni (terminé à 20:30)
+
+
+
+
+» 
+→ https://s.team/a/
+- la démo date du 
+- résultats du sondage votre avis sur 
+ça part dans Wishlist 0% (0) | 
+
+
 
 » fil de discussion 💬
 » 📄 
@@ -23184,11 +23655,10 @@ raids entrants :
 
 --------------------------------------------------------------------------------
 
-» retrouvez Origami sur vos réseaux : 🌴 https://origami.ng | 💰 https://patreon.com/OrigamiMedia | 💬 https://discord.gg/5DMdurCBfn | ▶️  https://youtube.com/@origatube | 🦋 https://bsky.app/profile/origami.ng | 🐘 https://piaille.fr/@origamimedia | 📷 https://instagram.com/origagram/ | ♪ https://tiktok.com/@origatik
+» retrouvez Origami sur vos réseaux : 🌴 https://origami.ng | 💰 https://patreon.com/OrigamiMedia | ▶️  https://youtube.com/@origatube | 🦋 https://bsky.app/profile/origami.ng | 🐘 https://piaille.fr/@origamimedia | 📷 https://instagram.com/origagram/ | ♪ https://tiktok.com/@origatik
 
 🌴 Origami le portail web → https://origami.ng
 📡 Origami sur Twitch → https://twitch.tv/origatwitch
-💬 Origami sur Discord → https://discord.gg/5DMdurCBfn
 🐦 Origami sur Twitter → https://twitter.com/OrigaTwi
 🦋 Origami sur Bluesky → https://bsky.app/profile/origami.ng
 🐘 Origami sur Mastodon → https://piaille.fr/@origamimedia
@@ -23215,10 +23685,13 @@ raids entrants :
 » Lucie Ronfaut → 🌐 https://LucieRonfaut.com | 🦋 https://bsky.app/profile/lucieronfaut.bsky.social
 » Yamukass / Marion Bargiacchi → 🦋 https://bsky.app/profile/yamukass.bsky.social
 
+💬 la communauté Origami sur Discord → https://discord.gg/5DMdurCBfn
+
 les copains :
 🎨 exaheva → 🌐 http://exaheva.com | 🦋 https://bsky.app/profile/exaheva.bsky.social | 🌴 https://linktr.ee/exaheva
 🦊 Seldell → 📰 https://indiemag.fr | 📡 https://twitch.tv/Seldell | ▶️ https://YouTube.com/@Seldell
 🩸 DollyWood_ → 📡 https://twitch.tv/dollywood_ | ▶️ https://youtube.com/@DollyWoodYT
+🎙️ Silence on joue ! → 📰 https://liberation.fr/dossier/silence-on-joue/ | https://shows.acast.com/silence-on-joue
 📰 Gâchette Gauche, le rendez-vous de la presse JV, tous les derniers lundis du mois ou presque, sur la chaîne Twitch de Silence on joue → https://twitch.tv/silenceonjoue
 😱 Attention à la Frousse → 📡 https://twitch.tv/attentionalafrousse | ▶️ https://youtube.com/@AttentionalaFrousse
 🟠 Sumimasen Turbo → ▶️ https://youtube.com/@sumimasenturbo
