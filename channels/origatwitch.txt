@@ -23620,6 +23620,238 @@ raids : OrigaTwitch => (15:30)[+399] Oscarlemaire => (18:00)[+99] Nico_Oni (term
 
 
 
+--------------------------------------
+2026-09-30
+
+# Serious Gaming #96
+## Actus
+### Deux PSE plus tard, Don't Nod au bord du gouffre
+
+### Projet P14 : de l'open world au roguelike
+
+### Don't Nod a perdu la confiance des éditeurs
+
+### Don't Nod : finir le jeu, mais comment ?
+
+### MobyGames rend leurs crédits aux devs de jeux vidéo
+» 🇬🇧 [Games Industry / 24 sept. 2026] Righting old wrongs: MobyGames on letting developers claim games they weren't credited for — Data is power, and the Atari-owned firm has a raft of plans to empower users and keep the industry accountable → https://cutt.ly/NybU2fgf
+» 🇫🇷 [Gamekult / 27 sept. 2026] MobyGames, détenu par Atari, crédite tous les développeurs de jeux vidéo qui ont été oubliés — La plateforme veut aussi devenir le nouveau LinkedIn du jeu vidéo → https://cutt.ly/OybU2ZG9
+
+### Deux nouveaux jeux The Last of Us en production
+» 🇫🇷 [ActuGaming / 29 sept. 2026] Deux nouveaux projets The Last of Us sont en préparation chez Naughty Dog, mais ne les attendez pas avant longtemps → https://actugaming.net/--827207
+» 🇫🇷 [Gamekult / 29 sept. 2026] The Last of Us : c'est officiel, Naughty Dog planche sur non pas un, mais deux projets — Une bonne chose de confirmée (enfin, deux) → https://cutt.ly/OympH02Y
+
+### Naughty Dog confirme deux projets The Last of Us
+
+### GTA VI, toujours la plus grosse saucisse
+
+
+
+
+--------------------------------------
+2026-10-02
+
+# Hebdo #115
+
+## Actualités
+### Origami
+» 🎧 [Patreon] Conf’ 2 Rédac’ — Éclipses → https://patreon.com/posts/170160247
+» 🎧 [Patreon] Catalogue Arrière — Sovereign Tower, avec Héloïse → https://patreon.com/posts/170794932
+» ✉️ [Origami] Serious Gaming — Y a-t-il un plan pour sauver Don’t Nod ? → https://www.origami.ng/y-a-t-il-un-plan-pour-sauver-dont-nod/
+» ▶️ [YouTube] Serious Gaming — Y a-t-il un plan pour sauver Don’t Nod ? → https://youtu.be/4eQaV4zTmMA
+
+### Le futur de Resident Evil
+» 🇺🇸 [The Gamer / 30 sept. 2026] How Capcom is preparing for the Resident Evil remakes to catch up with new entries → https://cutt.ly/wympJIFz
+» 🇺🇸 [IGN / 30 sept. 2026] 'We have been gradually preparing': Capcom already has a plan for when its Resident Evil remakes catch up with newer games — "We regard '7' as a turning point." → https://cutt.ly/RympJ5nh
+
+### Clap de fin pour Nerial
+» 🇫🇷 [ActuGaming / 1er oct. 2026] Nerial, le studio de Devolver derrière la série des Reigns, ferme ses portes → https://actugaming.net/--827892
+» 🇫🇷 [Gamekult / 2 oct. 2026] Nerial, studio derrière Reigns et soutenu jusqu'ici par Devolver Digital, ferme ses portes après 13 ans → https://cutt.ly/tynX8875
+» 🇬🇧 [Games Industry / 2 oct. 2026] Reigns developer Nerial closes following "significant trading losses" over past two years — Parent company Devolver retains rights to existing games; recent financial report indicates studio lost over £800,000 in 2025 and nearly £1 million in 2024 → https://cutt.ly/GympKTQs
+
+### Massive prend du poids
+» 🇬🇧 [Massive / 1er oct. 2026] The next chapter for massive Entertainment → https://cutt.ly/OynX5m5r
+» 🇫🇷 [ActuGaming / 1er oct. 2026] Massive Entertainment reprend la main sur The Division, Ghost Recon, Splinter Cell et le MOBA March of Giants → https://actugaming.net/--827695
+» 🇫🇷 [Gamekult / 1er oct. 2026] Chez Ubisoft, Massive Entertainment regroupe désormais The Division, Splinter Cell et Ghost Recon → https://cutt.ly/tynX6PMs
+
+### Calendrier
+- Kena: Scars of Kosmora, annoncé pour 2027 sur PlayStation 5 et PC ; édité par Sony Interactive Entertainment, développé par Ember Lab
+- Football Manager 27, le 10 nov. 2026 sur PC ; édité par Sega, développé par Sports Interactive
+- Croc 2: Kingdom of the Gobbos, le 29 oct. 2026 sur Switch, PlayStation 4 & 5, Xbox Series et PC ; développé par Argonaut Games
+- Queen's Domain, le 30 oct. 2026 sur PC / Steam Deck, démo disponible ; édité par Future Friends Games, développé par Freshly Baked Games
+- Directive 8020, sorti le 12 mai 2026 sur PlayStation 5, Xbox Series, Windows et Steam Deck ; développé par le studio britannique 🇬🇧 Supermassive Games ; arrivée du jeu en ligne en octobre
+
+### Chiffres
+- 30 millions de Persona
+  - 🇫🇷 [ActuGaming / 8 juin. 2026] La saga Persona dépasse les 30 millions de jeux vendus avant un nouvel aperçu de Persona 4 Revival à venir le 19 juin → https://actugaming.net/--804662
+  - 🇺🇸 [Persona Central / 28 sept. 2026] Persona 3 series surpasses 5 million sales, Persona 4 series surpasses 5.7 million sales → https://cutt.ly/sympX3KO
+- 50 millions de Metro
+  - 🇫🇷 [Deep Silver / 1er oct. 2026] Metro Redux | Mise à jour "next-gen" disponible ce mois-ci — Et la franchise a atteint 50 millions de ventes dans le monde → https://cutt.ly/uympB7vO
+  - 🇺🇸 [Noisy Pixel / 1er oct. 2026] Metro franchise surpasses 50 million sales as Redux games get free next-gen update → https://cutt.ly/qympVIMk
+  - 🇫🇷 [ActuGaming / 2 oct. 2026] Metro 2033 et Metro Last Light se mettent à jour gratuitement sur PS5 et Xbox Series → https://actugaming.net/--828019
+- le marché du PC au Japon
+  - 🇺🇸 [Kotaku / 25 sept. 2026] PC gaming grows over 200 percent in four years in Japan as global hits break through — A new report shows how streamer-friendly global hits have propelled Japanese gaming → https://kotaku.com/--2000736037
+- Devolver sort de la bourse
+  - 🇦🇺 [twiv / 2 oct. 2026] Devolver Digital is a private company again → https://cutt.ly/Dymp9HwS
+  - 🇫🇷 [ActuGaming / 2 oct. 2026] Devolver Digital redevient une entreprise privée et sort de la Bourse → https://actugaming.net/--828103
+
+### Le saviez-vous ?
+- Xbox n'est pas à vendre
+  - 🇺🇸 [The New York Times / 30 sept. 2026] Xbox’s millennial C.E.O., Asha Sharma, isn’t playing around → https://cutt.ly/dymp5UDt
+  - 🇫🇷 [Gamekult / 30 sept. 2026] N'insistez pas, Xbox n'est pas (encore) à vendre — Ou comment Asha Sharma s'offre de jolis portraits dans les institutions médiatiques → https://cutt.ly/pymp5hF7
+  - 🇫🇷 [ActuGaming / 1er oct. 2026] « Xbox n’est pas à vendre » : Asha Sharma met les points sur les i malgré la restructuration en cours → https://actugaming.net/--827694
+- Daggerfall sur navigateur web
+  - [DOS Zone] The Elder Scrolls 2: Daggerfall → https://dos.zone/daggerfall/
+- Gabe Newell aurait intensément pratiqué le chant de gorge mongol
+  - 🇺🇸 [IGN / 24 sept. 2026] Counter-Strike co-creator says Gabe Newell got so obsessed with Mongolian throat singing at Valve HQ that staff started closing their office doors to escape the noise — "People were kind of annoyed." → https://cutt.ly/FymaqABG
+- Abandonned refait surface sur PlayStation Store : https://cutt.ly/zymp6Xqi
+- Guillermo Del Toro ne travaillera pas sur le film BioShock
+  - 🇺🇸 [IGN / 29 sept. 2026] Guillermo Del Toro reveals he tried to adapt BioShock into a movie, but 'disastrous' phone call ended the project before it began → https://cutt.ly/rymar29R
+  - 🇫🇷 [IGN France / 29 sept. 2026] Guillermo Del Toro révèle avoir tenté d'adapter BioShock au cinéma, mais que le projet est mort dans l'œuf à cause d'un coup de téléphone « désastreux » → https://cutt.ly/nymatpuA
+  - » 🇫🇷 [Écrans Large / 2 oct. 2026] Guillermo del Toro explique pourquoi il ne réalisera jamais d’adaptation de jeu vidéo → https://cutt.ly/8ymae187
+- les pigeons dans _The Witcher III Remastered_
+  - 🇫🇷 [IGN France / 29 sept. 2026] Les fans de The Witcher 3 sont soulagés de constater que les pigeons low-poly ont survécu au processus de remasterisation — De toute beauté → https://cutt.ly/ZymaomrL
+  - 🇺🇸 [Kotaku / 3 oct. 2026] Behold the best new Witcher 3 Remastered mod — Nobody puts low-poly pigeon in a corner → https://kotaku.com/--2000739585
+
+## Jeux
+
+### Dressmaker
+» Dressmaker, sorti le 21 sept. à 15,47 € sur Windows, Mac et Steam Deck ; développé par Cozy Lives, filiale de Free Lives dédiée aux jeux cozy → https://s.team/a/4019220 | https://freelives.net/games/dressmaker/
+
+- sorti le 21 sept. 2026 sur Windows, Mac et Steam Deck
+- édité par Free Lives, développé par Cozy Lives, filiale de Free Lives dédiée aux jeux cozy, studio sud-africain 🇿🇦 derrière Broforce (2015), Genital Jousting (2018), Gorn 1 & 2 (2019, 2025), Terra Nil (2023), Anger Foot (2024), Stick It to the Stickman (2026) → <https://freelives.net/games/dressmaker/>
+
+💻️ 15,47 € sur Steam (<https://s.team/a/4019220>)
+
+Little Fanny
+Barbie
+La maison du style
+Léa Passion (style)
+Zoé
+Dress to Impress
+Trinket bag maker
+
+### Ace Combat 8: Wings of Theve
+» Ace Combat 8: Wings of Theve, sorti le 2 oct. à 80 € sur PlayStation 5, Xbox Series, à 70 € sur PC ; développé par Bandai Namco Aces → https://www.bnaces.co.jp
+
+- sorti le 2 oct. 2026 sur PlayStation 5, Xbox Series et PC
+- édité par Bandai Namco, développé par Bandai Namco Aces, studio japonais 🇯🇵 formé de la fusion de l'ancien studio de support ICLA avec des équipes de Bandai Namco → <https://www.bnaces.co.jp>
+- réalisé par Kazutoki Kono, Kosuke Itomi, Natsuki Isaki et Masashi Koyonagi, direction artistique par Masato Kanno et Keiichi Yamaguchi, écriture par Sunao Katabuchi, musiques par Ryo Watanabe, Mitsuhiro Kitadani et Keiki Kobayashi
+
+🎮 80 € sur PlayStation (<https://cutt.ly/gynLfrRb>) et Xbox (<https://cutt.ly/WynLfnxL>)
+💻️ 70 € sur Steam (<https://s.team/a/2288340>)
+⏱️ durée de vie : environ 25 h pour la campagne
+
+(premier Ace Combat, Air Combat, sur PS1)
+
+» ▶️ [YouTube / Jacob Geller / 19 août 2026] I am turning myself into a video game plane → https://youtu.be/5Cr0p0SmDxU (37 min)
+
+### Silent Hill: Townfall
+» Silent Hill: Townfall, sorti le 24 sept. à 50 € sur PlayStation 5 et PC ; développé par le studio écossais 🇬🇧 Screen Burn (anciennement No Code) → https://www.konami.com/games/silenthill/townfall/
+
+- sorti le 24 sept. 2026 sur PlayStation 5 et PC
+- édité par Konami, développé par Screen Burn (anciennement No Code), studio écossais 🇬🇧 derrière derrière _Stories Untold_ (2017), _Observation_ (2019) → <https://screenburn.com> | <https://www.konami.com/games/silenthill/townfall/>
+- écrit et réalisé par Jon McKellan, direction artistique par Paul Abbott et Jon McKellan, musiques par Pilotpriest
+
+🎮 50 € sur PlayStation (<https://cutt.ly/iyv6SEKS>)
+💻️ 50 € sur Steam (<https://s.team/a/1636440>)
+⏱️ durée de vie : environ 12 h
+
+### Control Resonant
+» Control Resonant, sorti le 24 sept. à 60 € sur PlayStation 5, Xbox Series et PC / Steam Deck ; développé par Remedy Entertainment → https://controlgame.com
+
+- sorti le 24 sept. 2026 sur PlayStation 5, Xbox Series et PC / Steam Deck
+- développé par Remedy Entertainment, studio finlandais 🇫🇮 derrière _Max Payne_ 1 & 2 (2001, 2003), _Alan Wake_ (2010), _Quantum Break_ (2016), _Control_ (2019), _Alan Wake 2_ (2023) → <https://controlgame.com> | <https://www.remedygames.com>
+- réalisé par Mikael Kasurinen, direction artistique par Elmeri Raitanen, écriture par Josh Stubbs, Ashley Smith et Mikael Kasurinen, musiques par Petri Alanko
+
+🎮 60 € sur PlayStation (<https://cutt.ly/wyv9pLVq>) et Xbox (<https://cutt.ly/Ryv9ajOm>)
+💻️ 60 € sur Steam (<https://s.team/a/3669870>)
+⏱️ durée de vie : environ 30 h
+
+» 🇺🇸 **SCP Foundation** → <https://scp-wiki.wikidot.com>
+» 🇫🇷 **Fondation SCP** → <https://fondationscp.wikidot.com>
+» ▶️ [YouTube / ALT236 / 11 oct. 2020] Mythologics #8 / Fondation SCP → https://youtu.be/2Vh8I49Ezlw (1 h 43 min)
+» 🇺🇸 [Game Developer / 14 oct. 2019] The real buildings that inspired Control's Oldest House — Remedy Entertainment's Control launches at just the right time to lean into Brutalism with an intensity I'm not sure we’ve seen before → https://cutt.ly/NynVn0ly
+
+## Mais pas que
+### Héloïse
+» Lambrini Girls, groupe de punk rock anglais → https://youtube.com/@lambrinigirlsband | https://instagram.com/lambrinigirlz/
+- discographie : _Who Let the Dogs Out_ (2025), _No Refunds_ (15 jan. 2027)
+
+excuses de sac :
+- mais si vous les mettez pas dans le conducteur, je les mets pas dans le truc (Hoopy, actus)
+- tout mon matériel informatique est en train de me lâcher et a manqué de prendre feu (Padre, Silent Hill Townfall)
+
+
+
+--------------------------------------
+2026-10-07
+
+# Serious Gaming #97
+## Actus
+### GTA VI et les "USA alternatifs"
+» 🇬🇧 [Eurogamer / 5 oct. 2026] "It has to be more over the top, more insane, more in your face" - Rockstar explains why GTA 6 doesn't satirise real-world events — "If you go back to previous GTAs, there's never really been much focus on national politics." → https://cutt.ly/0yQP70iz
+» 🇫🇷 [Gamekult / 6 oct. 2026] "Nous ne souhaitons cibler aucune personne, aucun événement ni aucun mouvement en particulier" : GTA VI ne visera pas la satire d'une actualité réelle — Moquer un monde inventé → https://cutt.ly/4yQP7ZNY
+
+### Paramount et Warner fusionnent pour devenir Skydance
+» 🇺🇸 [Hollywood Reporter / 6 oct. 2026] David Ellison rallies the troops at Warner Bros.’ lot — "It wasn’t easy to get here," the Skydance CEO said to the Burbank crowd. "At times it was downright ugly. And at nearly every turn, someone told us it couldn’t be done. And here we are." → https://cutt.ly/5yQP0IHR
+» 🇺🇸 [Hollywood Reporter / 6 oct. 2026] Bobby Kotick and Laurene Powell Jobs join Skydance board of directors — The video game executive and philanthropist will help guide David Ellison's media company → https://cutt.ly/YyQP02HQ
+» 🇺🇸 [Variety / 6 oct. 2026] Paramount-Warner Bros. video game studios merge as Skydance sets leadership across games, experiences, consumer products and HR → https://cutt.ly/3yQP2sqK
+» 🇬🇧 [Games Industry / 7 oct. 2026] Paramount and Warner Bros. Discovery operating under Skydance following completion of $111bn merger — CEO David Ellison warns that merger will require the company to make "difficult decisions" including "changes and impacts" → https://cutt.ly/8yQP1ZlD
+» 🇬🇧 [Games Industry / 7 oct. 2026] Paramount Games Studio and WB Games merge under Skydance following completion of $111bn acquisition — Combined games unit will be led by Paramount Game Studio president Tony Driscoll → https://cutt.ly/syQP1j12
+» 🇫🇷 [Gamekult / 7 oct. 2026] Rachat de Warner par Paramount : vers une fusion de WB Games et Paramount Game Studios — Pendant que Bobby Kotick s'invite au conseil d'administration → https://cutt.ly/2yQP7gBW
+» 🇫🇷 [ActuGaming / 7 oct. 2026] Skydance embauche Bobby Kotick (ex-Activision) et regroupe les studios de jeux Paramount et Warner Bros en une seule division → https://actugaming.net/--828661
+» 🇬🇧 [Eurogamer / 8 oct. 2026] Bobby Kotick returns: former Activision boss becomes board member of Skydance, the new company formed by Paramount and Warner Bros — Somehow, Tony Blair is also involved → https://cutt.ly/cyQP2QdB
+
+### Ninja Theory licencie avant fermeture
+» 🦋 [BlueSky / Chis Kerr / 5 oct. 2026] 🧵 https://bsky.app/profile/kerrblimey.bsky.social/post/3mx4xgtewec2l
+> NEW: Hellblade dev Ninja Theory has seemingly begun laying off employees after Xbox tried and failed to divest the UK studio.
+> Last month, Microsoft said two separate agreements for the studio collapsed, meaning a closure was likely. It also, however, claimed it would "explore other paths forward."
+
+» 🇬🇧 [Eurogamer / 5 oct. 2026] Ninja Theory developers announce they are facing redundancy, as the studio starts laying off staff following widespread Xbox cuts — Hellblade developer facing cuts → https://cutt.ly/TyQPXlnY
+» 🇺🇸 [IGN / 5 oct. 2026] 'It’s Incredibly Sad Knowing That We Won’t Get to Finish What We Were Working on' — Hellblade Staff Bid Farewell to Ninja Theory as Layoffs Begin — Numerous team members depart following Xbox cuts → https://cutt.ly/2yQPZcja
+» 🇫🇷 [IGN France / 5 oct. 2026] « C’est terriblement triste de savoir qu'on ne pourra pas terminer ce sur quoi on travaillait » — L’équipe de Hellblade fait ses adieux à Ninja Theory alors que les licenciements commencent — De nombreux membres de l'équipe quittent l'entreprise suite aux réductions d'effectifs chez Xbox → https://cutt.ly/tyQPZrYc
+» 🇬🇧 [Games Industry / 5 oct. 2026] Ninja Theory begins laying off staff, according to employee posts — Xbox proposed closing the Hellblade developer in September after two separate agreements to sell it fell through → https://cutt.ly/NyQPLXhr
+» 🇫🇷 [ActuGaming / 5 oct. 2026] Les licenciements commencent chez Ninja Theory, quelques jours après avoir été lâché par Xbox → https://actugaming.net/--828495
+» 🇫🇷 [Gamekult / 6 oct. 2026] L'hécatombe chez Ninja Theory : Xbox licencie en masse avant de fermer le studio → https://cutt.ly/KyQP7Y5Y
+
+### Licenciements chez : Supermassive, Yellow Brick Games...
+» 🇺🇸 [Game Developer / 11 août 2026] Supermassive Games begins third round of layoffs in three years — The UK studio plans to eliminate up to 75 roles → https://cutt.ly/4yQAq5Uf
+» 🇬🇧 [Eurogamer / 5 oct. 2026] Supermassive Games suffers layoffs as more than 70 developers seem to have left the company this week — Includes developers, artists, producers, QA, operations and others → https://cutt.ly/vyQAqLaF
+
+» 🦋 [BlueSky / Chis Kerr / 6 oct. 2026] 🧵 https://bsky.app/profile/kerrblimey.bsky.social/post/3mx73mt6pj22j
+> NEW: Eternal Strands developer Yellow Brick Games is seemingly cutting jobs. The Canadian studio has offices in Quebec and Montreal. It's currently unclear how many people have been laid off. 
+> I've pinged the studio for comment.
+
+» 🇺🇸 [Rock Paper Shotgun / 6 oct. 2026] Some staff at Eternal Strands and ex-Ubisoft devs Yellow Brick Games report they've been laid off → https://cutt.ly/6yQAwkWW
+
+### Capcom et le RE Engine : IA, ou IAgen ?
+» 🇯🇵 [GameBiz / 2 oct. 2026] カプコンのゲーム開発を支える「RE ENGINE」はどう進化するのか…新プロジェクト「REX」が目指す未来 → https://gamebiz.jp/news/433531
+» 🇺🇸 [IGN / 3 oct. 2026] Capcom Announces Plans to Transform the RE Engine Into an AI Generation Game Engine — 'Our Goal Is a Future Where We Create Games Together With AI' — "An essential condition for streamlining future development." → https://cutt.ly/JyQPVKQn
+» 🇫🇷 [IGN France / 3 oct. 2026] Capcom annonce son intention de transformer le moteur RE en un moteur de jeu généré par l’IA — « Notre objectif est de créer un avenir où nous développerons des jeux en collaboration avec l’IA » — « Une condition indispensable pour rationaliser le développement futur. » → https://cutt.ly/PyQPVM4e
+» 🇬🇧 [Games Industry / 5 oct. 2026] Capcom aims to enhance its propriety RE Engine with AI to accelerate efficiency in QA, debugging, and data processing — Some improvements will be open-sourced to support AI training, with the long-term goal of evolving its RE Engine into an "AI-generation game engine" → https://cutt.ly/FyQPVdKZ
+» 🇫🇷 [Gamekult / 5 oct. 2026] Sur le toit du monde, Capcom veut faire du RE Engine un "moteur de jeu assisté par IA" → https://cutt.ly/yyQAeS6p
+» 🇫🇷 [ActuGaming / 5 oct. 2026] Capcom veut visiblement mettre beaucoup d’IA dans son moteur maison RE Engine → https://actugaming.net/--828438
+
+### Finalement, PlayStation consulte ses partenaires sur l'arrêt du physique
+» ▶️ [YouTube / Moore's Law is Dead / 22 sept. 2026] RTX 6090 launch leak, AMD RDNA5 & PS6 neural ray tracing, Nvidia AI desperation / Sony asks devs about ending disc while Yoshida takes shots at Hulst → https://youtu.be/XyKcIijowjQ?t=4099
+» 🇬🇧 [Games Industry / 28 sept. 2026] Sony surveying developers about dropping PlayStation disc support — The platform holder announced it was ending production of physical discs in January 2028 earlier this year → https://cutt.ly/JyQPB6ii
+» 🇬🇧 [Games Industry / 5 oct. 2026] Opinion | Sony's consultation on physical media: better late than never — Belatedly asking partners for their views on the discontinuation of physical media suggests that Sony is finally realising how consequential that decision actually is → https://cutt.ly/hyQPBHPT
+
+### LFI surfe sur le mouvement Stop Killing Games
+» ▶️ [YouTube / Jeux Vidéo Magazine / 11 sept. 2026] Jeux Physiques & Préservation : La France Insoumise propose une loi sur les jeux en France → https://youtu.be/u8uhWvqP7_0 (16 min)
+» 🇫🇷 [BFM TV / 14 sept. 2026] "Un droit à la pérennité de l'accès aux jeux vidéo": faire que les jeux achetés restent vraiment accessibles et la propriété des joueurs, c’est ce que La France Insoumise veut proposer, lors de sa niche parlementaire → https://cutt.ly/7yQP5ZzP
+» 🇫🇷 [Journal du Geek / 7 oct. 2026] La France Insoumise veut sauver le jeu vidéo → https://cutt.ly/ZyQP6bsC
+
+
+
+
+» 🎧 [Patreon] Conf’ 2 Rédac’ — Floper devant des gamins → https://patreon.com/posts/171495728
+» ✉️ [Origami] Serious Gaming — Retrouve-moi sur la Grève → https://www.origami.ng/retrouve-moi-sur-la-greve/
+» ▶️ [YouTube] Serious Gaming — https://youtu.be/9dU1xVrMyyk
+» ▶️ [YouTube] Wishlist — https://youtu.be/yGOmr0CNcEw
+
+
 
 » 
 → https://s.team/a/
