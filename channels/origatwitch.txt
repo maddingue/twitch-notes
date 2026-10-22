@@ -23845,11 +23845,376 @@ excuses de sac :
 
 
 
+--------------------------------------
+2026-10-09
 
+# Hebdo #115
+
+## Actualités
+### Origami
 » 🎧 [Patreon] Conf’ 2 Rédac’ — Floper devant des gamins → https://patreon.com/posts/171495728
 » ✉️ [Origami] Serious Gaming — Retrouve-moi sur la Grève → https://www.origami.ng/retrouve-moi-sur-la-greve/
-» ▶️ [YouTube] Serious Gaming — https://youtu.be/9dU1xVrMyyk
-» ▶️ [YouTube] Wishlist — https://youtu.be/yGOmr0CNcEw
+» ▶️ [YouTube] Serious Gaming — Ninja Theory licencie et enterre Senua / Warner Bros + Paramount, le pire scénario ? https://youtu.be/9dU1xVrMyyk
+» ▶️ [YouTube] Wishlist — Octobre 2026 →  https://youtu.be/yGOmr0CNcEw
+» ▶️ [YouTube] Internet Exploreuses — Le jeu vidéo est-il une fanfiction ? → https://youtu.be/WkkNZ5XClrs
+
+### Triple i initiative
+» ▶️ [YouTube] The Triple-i initiative October 2026 → https://youtu.be/LVlyMMWeXfQ (1 h)
+» 🇫🇷 [ActuGaming / 8 oct. 2026] Triple-i Initiative : 15 jeux qu’il fallait retenir de l’édition 2026 (Aftergods, Machinarium 2, Astral Ascent x Clair Obscur…) → https://actugaming.net/--828910
+» ReVamp, le 25 mars 2027 sur PC ; développé par Digital Sun, studio espagnol 🇪🇸 derrière Moonlighter (2018), The Mageseeker: a League of Legends Story (2023), Cataclismo (2025), Moonlighter 2: The Endless Vault (2025) → https://s.team/a/3295000
+» Lazare's Sacrifice, annoncé pour 2027 sur PC ; développé par Dream Reality Interactive → https://s.team/a/4870080
+» False Echo, annoncé sur PC, démo disponible ; développé par Retromagine → https://s.team/a/4418080
+» Astral Ascent x Clair Obscur: Expedition 33 → https://cutt.ly/xyQKRB0t
+» Machinarium 2, annoncé sur PC / Steam Deck ; développé par Amanita Design → https://s.team/a/1619280
+» Pony Island 2: Panda Circus, le 27 avril 2027 sur PC → https://pony-island.com | https://s.team/a/2017940
+» Volatiles, annoncé sur PC ; développé par Team Instant Defeat → https://s.team/a/4210390
+» Kingdom Two Crowns — extension Pharaoh Lands ☀️🐫 → https://cutt.ly/pyWyk4bz
+» Prospice: Anomalous Logistics, annoncé pour 2027, démo disponible ; développé par Code Wakers → https://s.team/a/4067370
+» 
+→ https://s.team/a/
+» Trainwatch, le 10 mars 2027 sur PC ; développé par Harvester Games
+→ https://s.team/a/
+» Sulfur
+→ https://s.team/a/
+
+### Bit Reactor
+» 🇫🇷 [Gamekult / 1er sept. 2026] Star Wars Zero Company : l'équipe de Bit Reactor a été mise en congé forcé avant la sortie du jeu → https://cutt.ly/4yQK99ur
+» 🇫🇷 [Gamekult / 8 oct. 2026] Star Wars Zero Company : Bit Reactor rappelle ses employés mis au placard avant le lancement — Pour une fois qu'on ne parle pas de licenciements → https://cutt.ly/ryQK07lP
+
+### 
+» 🇫🇷 [Unity / 7 oct. 2026] Pourquoi avons-nous construit Unity Spark → https://unity.com/fr/blog/why-we-built-unity-spark
+» 🇫🇷 [Gamekult / 8 sept. 2026] Vous aussi, soyez créateur de jeu (enfin, pas vraiment vous) : Google lance Playground, sa plateforme de création de jeux par IA — Aux USA uniquement pour l'instant → https://cutt.ly/lyQK4Qwf
+
+### Chiffres & dates
+- 1 M de Ace Comabt 8
+- Forza Horizon 6 sur PS5
+- XP
+- Warhammer Survivors
+- Outward 2 ??
+- Apple Crumble, annoncé pour 2026 sur PC ; développé par Happy Broccoli, studio allemand derrière Duck Detective: The Secret Salami (2024) et Duck Detective: The Ghost of Glamping (2025) → https://s.team/a/4110770 | https://happybroccoligames.com
+
+### Insolite
+» 🇺🇸 [UploadVR / 6 oct. 2026] Titanfall 2's VR mod is stellar, and its installer is the best thing about it → https://cutt.ly/eyQLroTs
+
+## Jeux
+
+### Star Wars: Zero Company
+» Star Wars: Zero Company, sorti le 27 août 2026 sur PlayStation 5, Xbox Series et Windows ; édité par Electronic Arts, développé par Bit Reactor → https://s.team/a/2075800
+
+- sorti le 27 août 2026 sur PlayStation 5, Xbox Series et PC / Steam Deck
+- édité par Electronic Arts, développé par Bit Reactor, studio états-unien 🇺🇸 fondé par d'anciens de Firaxis Games → https://www.ea.com/fr/games/starwars/zero-company
+- réalisé par Gregory Foertsch, direction artistique par Daanish Syed et Mark Teare, écriture par Aaron Contreras, musiques par Gordy Haab
+
+🎮 60 € sur PlayStation (<https://cutt.ly/eykNPNGc>) et Xbox (<https://cutt.ly/VykNAAXD>)
+💻️ 50 € sur Steam (<https://s.team/a/2075800>)
+
+### Star Wars: Galactic Racer
+» Star Wars: Galactic Racer, sorti le 6 oct. à 60 € sur PlayStation 5, Xbox Series et PC / Steam Deck ; édité par Secret Mode, développé par Fuse Games → https://starwarsgalacticracer.com | https://s.team/a/4078430
+
+- sorti le 6 oct. 2026 sur PlayStation 5, Xbox Series et PC / Steam Deck
+- édité par Secret Mode, développé par Fuse Games → https://starwarsgalacticracer.com
+- réalisé par Matt Webster, musiques par Gordy Haab
+
+🎮 60 € sur PlayStation (<https://cutt.ly/pyQF8xS3>) et Xbox (<https://cutt.ly/zyQF8Agc>)
+💻️ 60 € sur Steam (<https://s.team/a/4078430>)
+
+## Mais pas que
+### Gauthier
+» 📺️ Star Wars : Les Aventures des Petits Jedi (2023), série animée, trois saisons, disponible sur Disney+ → https://disneyplus.com/browse/entity-faa35b37-3287-4a7c-9d42-a3a5f9ad9185
+
+### Sylvain
+» ▶️ [YouTube] **Super Vieux Jeux #5 -- Star Wars, la force faite jeu** → https://youtu.be/MIlkWFGsX38
+
+raids : OrigaTwitch => (15:43)[+460] DollyWood_ => (19:02)[+101= Susanoho => (20:14)[+26] Kepin (terminé à 20:35)
+
+
+
+--------------------------------------
+2026-10-14
+
+# Serious Gaming #98
+## Actus
+### Epic et Disney sur un gros projet de jeu bourré d'IA
+» 🇺🇸 [Bloomberg / 12 oct. 2026] Epic Games delays Disney project, asks developers to use more AI — The company told the team behind the upcoming shooter that it will now be an ‘AI first’ production → https://cutt.ly/WyR77FeF
+» ▶️ [YouTube / Jason Schreier / 12 oct. 2026] Epic Games goes all in on AI for Disney shooter → https://youtu.be/nYYHo_eEcMw (21 min)
+» 🇬🇧 [Games Industry / 12 oct. 2026] Epic Games delays Disney game and tells developers to go "AI first" — The shooter featuring Marvel and Star Wars characters had been slated for March → https://cutt.ly/IyR5afgq
+» 🇫🇷 [Gamekult / 12 oct. 2026] « Plus aucun code écrit à la main » : Epic Games ne se cache plus et embrasse pleinement l'IA pour son extraction shooter avec Disney → https://cutt.ly/eyR5XQJh
+» 🇫🇷 [ActuGaming / 13 oct. 2026] Epic repousse la sortie d’un shooter Marvel et Star Wars pour tout miser sur l’IA générative dans le développement → https://actugaming.net/--829240
+» 🇺🇸 [Game Developer / 14 oct. 2026] No more hand-written code? Epic's Disney project reportedly shifts to 'AI-First' development — Developers working on the upcoming Star Wars and Marvel shooter have been reportedly instructed to lean heavily on AI, especially during the creation of code and art → https://cutt.ly/PyR5qb1g
+
+### Double Fine : histoire d'un syndicat mort-né
+» 🇺🇸 [Kotaku / 9 oct. 2026] Inside the failed fight to unionize one of gaming’s most idealized studios — Double Fine employees petitioned for a union in May. It created a rift in the studio that still hasn't healed → https://kotaku.com/--2000742755
+» 🇺🇸 [Kotaku / 9 oct. 2026] Our interview with Tim Schafer about unionization at Psychonauts studio Double Fine — We spoke to Double Fine's CEO for nearly an hour about what happened last May, and where the studio goes from here → https://kotaku.com/--2000741988
+» 🇺🇸 [Game Developer / 9 oct. 2026] Double Fine's union drive collapsed due to miscommunication and culture clash — It appears the question of union eligibility crashed headlong into Double Fine Productions' decades-old company culture → https://cutt.ly/FyR5luQg
+» 🇫🇷 [Gamekult / 14 oct. 2026] Syndicalisme chez Double Fine : récit d'un naufrage social et d'une vague de licenciements → https://cutt.ly/JyR5Zv8u
+
+### Ubisoft ferme RedLynx et licencie à Singapour
+» 🇬🇧 [VGC / 14 oct. 2026] Ubisoft is planning to shut down Trials studio RedLynx and lay off 70 Ubisoft Singapore staff — RedLynx doesn’t currently have a project and has been deemed unsustainable, VGC understands → https://cutt.ly/OyR5E4N0
+» 🦋 [BlueSky / Gautoz / 14 oct. 2026] 🧵 https://bsky.app/profile/gautoz.cool/post/3mxt5mpd5z3zj
+> INFO - Le studio RedLynx (Trials) va fermer pour de bon. La nouvelle a été transmise au sein du groupe Ubisoft en même temps qu’un plan de licenciement chez Ubi Singapour
+
+» 🇬🇧 [Games Industry / 14 oct. 2026] Ubisoft closing Trials developer RedLynx and cutting jobs in Singapore studio — Latest round of cuts proposes the loss of 52 roles in Finland and 70 in Singapore → https://cutt.ly/gyR77idv
+» 🇬🇧 [Vertical Slice / 14 oct. 2026] RedLynx, one of the studios behind "extraordinary" Star Wars Outlaws port, is being shuttered by Ubisoft — Ubisoft has confirmed it will also be laying off 70 people at its Singapore studio → https://cutt.ly/byR748J7
+» 🇺🇸 [Game Developer / 14 oct. 2026] Ubisoft to close Trials studio RedLynx, downsize Ubisoft Singapore — The decisions will ultimately impact over 120 jobs between the two studios as part of Ubisoft's ongoing restructuring efforts → https://cutt.ly/6yR5qVyE
+» 🇫🇷 [ActuGaming / 14 oct. 2026] Ubisoft est en passe de fermer définitivement RedLynx (Trials) et de licencier chez Ubisoft Singapour → https://actugaming.net/--829326
+» 🇫🇷 [Gamekult / 14 oct. 2026] Ubisoft fermerait RedLynx (Trials) et limogerait 70 personnes à Singapour (Black Flag Resynced) → https://cutt.ly/UyR5Lgx3
+
+### Making of GTA 6
+» 🇺🇸 [Bloomberg / 14 oct. 2026] The making of Grand Theft Auto VI — How did Rockstar Games build what is expected to be the biggest video game blockbuster of all time? First it had to rebuild itself → https://cutt.ly/uyR6qFFT
+» ▶️ [YouTube / Jason Schreier / 14 oct. 2026] Why Grand Theft Auto VI took 8+ years to make → https://youtu.be/QYMbF7VH350 (28 min)
+» 🇫🇷 [Gamekult / 14 oct. 2026] GTA 6 : Rockstar ouvre enfin les portes des coulisses du développement → https://cutt.ly/syR6rY6p
+» 🇫🇷 [Gamekult / 14 oct. 2026] Rockstar assure que son prochain jeu ne se fera pas attendre aussi longtemps que GTA 6 → https://cutt.ly/MyR6rvaU
+» 🇫🇷 [Gamekult / 14 oct. 2026] « Ce n'est pas parfait, mais... » Pour GTA 6, Rockstar aurait réussi à réduire le crunch → https://cutt.ly/wyR6rWI3
+
+
+
+--------------------------------------
+2026-10-15
+
+# Internet Exploreuses
+## invitée
+» Nastasia Hadjadji, journaliste indépendante → https://linktr.ee/nastasia.hadjadji
+- co-autrice de 📙 Apocalypse Nerds, 200 p. avec Olivier Tesquet, paru le 19 sept. 2025 chez Éditions Divergences, 17 € en édition papier (ISBN 9791097088873) → https://www.editionsdivergences.com/livre/apocalypse-nerds
+
+## compte privé
+» bruit de vieux modem
+» la fatigue du téléchargement des apps mobiles
+» ▶️ [YouTube / Patrick Boyle / 22 août 2026] How much would an AI crash destroy? → https://youtu.be/wTiYaWFP59Q (37 min)
+» 📄 Manuel Bompard → https://fr.wikipedia.org/wiki/Manuel_Bompard
+» 🇫🇷 [Synth / 12 sept. 2026] Mélenchon et l’IA : la France Insoumise peut-elle proposer un programme de “rupture” en matière d’intelligence artificielle ? → https://synthmedia.fr/presidentielle-2027/melenchon-et-ia/
+
+## capture d'écran : Les technofascistes sont-ils jaloux de ta mère ?
+» 🇬🇧 [The Guardian / 8 sept. 2026] Elon Musk told ex-girlfriend he needed ‘a legion of children before the civil war’ — Ashley St Clair was speaking at the Venice film premiere of Alex Gibney’s documentary Musk, where she warned of his dangerous influence → https://cutt.ly/AyEskdME
+» 🇫🇷 [Huffington Post / 7 sept; 2026] Vivian Wilson, la fille reniée d’Elon Musk, avait un message pour lui dans cette pub pour Desigual — La mannequin transgenre, qui a coupé les ponts avec son père, est l’égérie de la campagne « Née pour désobéir » de la marque espagnole → https://cutt.ly/tyEsk2hw
+» 🇺🇸 [CBC / 28 juil. 2026] AI must foster 'maternal instincts' or we risk extinction, warns Geoffrey Hinton — 'It'd be very silly if we went extinct because we didn't try,' says Hinton → https://cutt.ly/5yEsxzOO
+» 🇺🇸 [Simply Psychology / 17 sept. 2026] Harry Harlow Monkey Experiments in Psychology → https://cutt.ly/yyEsnOrC
+» Wire Mother, par Isabel J. Kim, nouvelle publiée dans Clarksworld #229, octo. 2025 → https://clarkesworldmagazine.com/kim_10_25/
+» ▶️ [YouTube / The Tonight Show Starring Jimmy Fallon / 9 déc. 2025] Sam Altman says technology is the greatest equalizing force in society → https://youtu.be/qMAg8_yf9zA (8 min)
+» 𝕏 [X / Katie Notopoulos / 13 oct. 2026] Muse found a bunch of pr event invites this week in my email (that I wasn’t planning on going to) and is now expressing concern that my husband will have to do 3 nights of childcare alone. I’m going to buy a gun → https://cutt.ly/myEsUIdK
+
+» Irénée Régnauld, doctorant en sociologie à l’EHESS/INSA → https://maisouvaleweb.fr/
+- auteur de La sommation technologique au temps des catastrophes, 208 p., paru le 11 sept. 2026 chez La fabrique, 16 € en édition papier (ISBN 9782358723282) → https://lafabrique.fr/la-sommation-technologique/
+
+» 🇫🇷 [Blast / 5 sept. 2026] Gobineau, le retour : quand l’extrême droite ressuscite le racisme biologique → https://cutt.ly/fyEsFgXm
+» ▶️ [YouTube / Le Figaro / 4 oct. 2026] «L’exil éducatif» : pourquoi cette famille quitte la France pour l’Irlande → https://youtu.be/3uX35wx5er8 (15 min)
+
+» 📕 Pardonner à nos mères, 192 p., par Claire Richard, paru le 5 mars 2026 chez Les Renversantes, 17 € en édition papier (EAN 9782488051026), 13 € en édition numérique (EAN 9782488051422) → https://www.editionsleduc.com/produit/4139/9782488051422/
+
+## mode lent : l'IA et le fascisme sont-ils indissociables ?
+
+## memesplique-moi
+» battle d'aura, de Dragon Ball au 6-7
+
+## chatBNG
+» Figolu ou Mon Chéri ?
+- Nastasia : Figolu
+- Héloïse : pas très sucre, mais plutôt Figolu
+- Lucie : Mon Chéri
+
+» quelle est la salade parfaite ?
+- Nastasia : haricots vert, bleu, œuf, salade, tomate, noix, chèvre
+- Héloïse : pommes de terre, purée de poix chiches, tartare d'algues
+- Lucie : endives, bleu, vinaigrette au miel et noix
+
+» quel est le pire légume ?
+- Nastasia : le salsifi, le céleri rave
+- Héloïse : la betterave
+- Lucie : le topinambour
+
+» ▶️ [Arte / 16 sept. 2026] Crue au Népal : d'où vient notre fascination morbide ? → https://arte.tv/fr/videos/127395-091-A/
+
+excuses de sac :
+- le timing est jamais bon (Héloïse, chatBNG)
+- je suis en retard !! (Héloïse, chatBNG)
+
+raids entrants :
+- Squirelo à 14:02 +15
+- Paul_Aveline à 14:18 +94
+
+suggestions de raid : JardiSteam 🌱 (pour toucher de l'herbe) | Kokihiete
+
+
+
+--------------------------------------
+2026-10-16
+
+# Hebdo #116
+## Actualités
+### Origami
+» 🎧 [Patreon] La Bien séance — Le Seigneur des Anneaux (1978) → https://patreon.com/posts/172155279
+» ▶️ [Patreon] Head Shot — Pourquoi créer des jeux vidéo quand le monde brûle ? Entretien avec Florent Maurin, développeur et fondateur du studio The Pixel Hunt → https://patreon.com/posts/172223514
+» 🎧 [Patreon] Tempus Fugit — Un podcast sur X-Files → https://patreon.com/posts/172241790
+» ✉️ [Origami] Serious Gaming — Tu finis pas ton slop ? → https://www.origami.ng/tu-finis-pas-ton-slop/
+» ▶️ [YouTube] Serious Gaming — Les mains dans le slop → https://youtu.be/T2JpiDV9ixA
+» ▶️ [Patreon] Internet Exploreuses — Les technofascistes sont-ils jaloux de ta mère ? → https://patreon.com/posts/172436363
+
+### Des vagues de Silent Hill
+» 🇬🇧 [GamesRadar+ / 26 août 2026] Konami wants Silent Hill to have "an annual release of new games," and it's already working on "many" unannounced projects → https://cutt.ly/IyEStd8p
+» 🇫🇷 [Gamekult / 28 août 2026] Konami souhaite faire de Silent Hill une franchise annuelle → https://cutt.ly/6yESrDli
+
+» 🇯🇵 [Famitsu / 13 oct. 2026] 『サイレントヒル タウンフォール』インタビュー。「社会に生きる我々にこそ伝わるサイコロジカルホラー」。岡本基Pが語る最新作 → https://famitsu.com/article/202610/89850
+» 🇺🇸 [IGN / 9 oct. 2026] Konami planning 'second and third waves' of new Silent Hill games → https://cutt.ly/lyEELP6O
+» 🇫🇷 [IGN France / 10 oct. 2026] Konami prévoit une « deuxième et une troisième vague » de nouveaux jeux Silent Hill → https://cutt.ly/MyEEHlsG
+» 🇫🇷 [Xboxygen / 12 oct. 2026] Silent Hill ne s’arrêtera pas là : Konami envisage déjà les « deuxième et troisième vagues » → https://cutt.ly/lyEEXUbi
+
+### L'ESA s'attaque aux consoles rétro
+» 🇺🇸 [Ars Technica / 13 oct. 2026] ESA targets Anbernic emulation handhelds as “superfake” piracy enablers — But third-party sellers, not Anbernic, are the ones routinely selling ROM-filled SD cards → https://cutt.ly/8yEEDejK
+» 🇬🇧 [GamesRadar+ / 13 oct. 2026] "The functional equivalent of superfakes" - The ESA wants retro handhelds loaded with ROMs to be on the Notorious Markets naughty list, but I need it to target the real bad eggs → https://cutt.ly/jyEEF1UV
+» 🇫🇷 [Gamekult / 14 oct. 2026] Après des années d'atermoiements, les constructeurs chinois de consoles rétro sont finalement dans le viseur de la régulation américaine → https://cutt.ly/2yESyywu
+
+### Chiffres et dates
+» 🇫🇷 [Gamekult / 15 oct. 2026] Cette fois c'est la bonne ? 007 First Light est désormais daté au 18 mars 2027 pour Switch 2 — En espérant un portage correct → https://cutt.ly/oyESo15Z
+
+» 🇺🇸 [Nintendo Life / 15 oct. 2026] This gorgeous 'stop-motion' adventure swims onto Switch 2 next month — The name's Halibut, Harold Halibut → https://cutt.ly/RyESohbX
+» ▶️ [YouTube  / Origami] L'Hebdo #22 — Harold Halibut, Frostpunk 2 → https://youtu.be/TINNlPVNH8o
+
+» 🇫🇷 [ActuGaming / 13 oct. 2026] Edge of Memories repousse sa sortie pour éviter un mois de novembre trop infernal → https://actugaming.net/--829295
+
+» 🇨🇭 [JVmag / 13 oct. 2026] Musclor et les Maîtres de l’Univers reviennent en jeu vidéo – nouvelle date de sortie → https://cutt.ly/4yESittN
+
+» 🇫🇷 [Gamekult / 13 oct. 2026] Avec 10 ans de retard, Squadron 42 (le solo de Star Citizen) ouvre sa page Steam et vise 2027 → https://cutt.ly/yyESplOI
+
+» 🇺🇸 [Rock Paper Shotgun / 14 oct. 2026] Rockstar 'union busting' tribunal extended to November 18th, days before GTA 6's release date → https://cutt.ly/MyESnJGN
+» 🇫🇷 [GTA VI France / 14 oct. 2026] GTA 6 : le procès IWGB contre Rockstar prolongé, plaidoiries les 17 et 18 novembre → https://cutt.ly/0yESma4d
+
+» 🇫🇷 [IGN France / 22 sept. 2026] On estime que Star Wars Zero Company s'est écoulé à un million d'exemplaires, avec près de 70 % des ventes sur Steam → https://cutt.ly/KyESsq3o
+
+» 🇫🇷 [Gamekult / 16 oct. 2026] Avec un million de ventes, Control Resonant est le meilleur lancement de l'histoire de Remedy → https://cutt.ly/LyESpMmu
+
+### En vrac, le fond du panier
+» 🇫🇷 [Gamekult / 16 oct. 2026] Sous le feu des critiques, Sega retire Total War : Shogun 2 - Complete Edition de la vente → https://cutt.ly/5yESafiU
+
+» 🇫🇷 [Frandroid / 13 oct. 2026] Asha Sharma lance Xbox Labs : une réponse à l’explosion des jeux modés par IA → https://cutt.ly/zyESsJsM
+
+» 🇺🇸 [Windows Central / 12 oct. 2026] Despite cuts, Xbox CEO Asha Sharma wants to keep building "enduring" new IP — with a warning in tow — In last week's Xbox Town Hall with the team, Xbox CEO Asha Sharma warned that the division will "not survive" if it relies entirely on existing game franchises → https://cutt.ly/cyESd2t4
+» 🇫🇷 [ActuGaming / 13 oct. 2026] Asha Sharma promet qu’elle veut aussi de nouvelles licences pour Xbox, même si elle mise surtout sur les grosses séries → https://actugaming.net/--829304
+
+» 🇫🇷 [Gamekult / 13 oct. 2026] Sony va sortir une PS5 Midnight Black pour l'équivalent de 310 euros au Japon → https://cutt.ly/QyESf4BW
+
+» 🇫🇷 [Frandroid / 12 oct. 2026] No Man’s Sky arrive sur iPhone et iPad le 28 octobre, avec tout son univers (ou presque) → https://cutt.ly/4yESgJCI
+
+» 🛍️ [Kadokawa] 【受注生産】Sonic the hedgehog DNA Figure, 3 300 000 ¥ → https://store.kadokawa.co.jp/shop/g/g7015026123191/
+» 🇺🇸 [Dexerto / 9 oct. 2026] Sega is selling a $21,000 Sonic figure containing his “DNA” → https://cutt.ly/wyESlto0
+
+## Jeux
+
+### The Witch's Bakery
+» The Witch's Bakery, sorti le 14 oct. à 20 € sur PlayStation 5, Xbox Series et PC / Steam Deck ; aussi annoncé sur Switch ; développé par Sunny Lab, studio français 🇫🇷️ basé à Paris → https://sunnylabgames.com | https://s.team/a/2967950
+
+- sorti le 14 oct. 2026 sur PlayStation 5, Xbox Series et PC / Steam Deck ; aussi annoncé sur Switch
+- édité par Silver Lining Interactive, développé par Sunny Lab, studio français 🇫🇷️ basé à Paris → <https://sunnylabgames.com>
+
+🎮 20 € sur PlayStation (<https://cutt.ly/8yEx3LDF>) et Xbox (<https://cutt.ly/XyEx3NLp>)
+💻️ 20 € sur Steam (<https://s.team/a/2967950>)
+⏱️ durée de vie : environ 15 h
+
+» sondage « chocolatine ou pain au chocolat » sur le site du studio → https://sunnylabgames.com/about-us/
+
+» sondage : Est-ce que vous dites
+- chocolatine 48% (433)
+- pain au chocolat 47% (425)
+- petit pain au chocolat 5% (50)
+- croissant au chocolat 0% (1)
+- autre 0% (2)
+
+### Castlevania: Belmont's Curse
+» Castlevania: Belmont's Curse, sorti le 15 oct. à 30 € sur Switch, PlayStation 5, Xbox Series et PC / Steam Deck, démo disponible ; édité par Konami, développé par Evil Empire → https://www.konami.com/games/castlevania/belmonts_curse/eu/fr/
+
+- sorti le 15 oct. 2026 sur Switch, PlayStation 5, Xbox Series et PC / Steam Deck
+- édité par Konami, développé par Evil Empire, studio français 🇫🇷️ basé à Bordeaux derrière les DLC de _Dead Cells_, _The Rogue Prince of Persia_ (2025) → <https://evilempirestudio.com> | <https://www.konami.com/games/castlevania/belmonts_curse/eu/fr/>
+- réalisé par Emmanuel Nouaille et Yukiko Hokao, direction artistique par Abel Oroz Vicente, Dyn Mordache et Thierry Doizon, écriture par Matthew Willis, musiques par Daniel Asadi et Yoann Laulan
+
+🎮 30 € sur Switch (<https://cutt.ly/8yExNGaq>), PlayStation (<https://cutt.ly/OyExMoO5>) et Xbox (<https://cutt.ly/qyExMzdr>), démo disponible
+💻️ 30 € sur Steam (<https://s.team/a/4231820>), démo disponible
+⏱️ durée de vie : environ 14 h
+
+## Mais pas que
+### Héloïse
+» 🎦 Notre salut (2026), 159 min, film cinéma écrit et réalisé par Emmanuel Marre, avec Swann Arlaud, Sandrine Blancke
+
+### Sylvain
+» 📙️ La mort est mon métier, 413 p., écrit par Robert Merle, publié en 1952 chez Gallimard
+
+excuses de sac :
+- jarrive pas à faire deux choses… j'peux pas (Padre, actus)
+
+raids entrants :
+- kenbogard à 14:59 +414
+
+suggestions de raids : DollyWood_ | Turbojoul | Liberationfr | Clemovitch
+
+
+
+--------------------------------------
+2026-10-21
+
+# Serious Gaming #99
+## Actus
+### Beyond Good & Evil 2 peut-il mourir ?
+» 🇺🇸 [Game File / 14 oct. 2026] Ubisoft plans cuts at German studios, adding to wave of workforce reductions → https://cutt.ly/ByR74Y1r
+» 🇬🇧 [Games Industry / 15 oct. 2026] Ubisoft to reduce workforce across Düsseldorf, Berlin, and Mainz as part of "proposed voluntary departure plan" — Approximately 100 employees may be affected by cuts, which are reportedly taking place to "best position [its] German studios for the future" → https://cutt.ly/wyR5o6vi
+» 🇫🇷 [ActuGaming / 15 oct. 2026] Ubisoft veut aussi supprimer une centaine d’emplois en Allemagne, notamment au sein du studio derrière Anno → https://actugaming.net/--829552
+» 🇫🇷 [Gamekult / 15 oct. 2026] Malgré le succès d'Anno 117, Ubisoft prévoit jusqu'à 100 départs volontaires dans ses studios allemands → https://cutt.ly/uyR5JYdn
+
+» 🇫🇷 [Origami / 21 oct. 2026] Beyond Good & Evil 2 peut-il mourir ? → https://cutt.ly/XyR5vBgr
+» 🇫🇷 [ActuGaming / 21 oct. 2026] Beyond Good & Evil 2 vit toujours mais ne décolle pas, et projette à présent d’être une expérience « solo first » → https://actugaming.net/--830323
+» 🇫🇷 [Gamekult / 21 oct. 2026] Vous attendez encore Beyond Good & Evil 2 ? Continuez : la production n'est pas lancée → https://cutt.ly/9yR5Y51W
+
+» ▶️ [YouTube / Gautoz / 1er mars 2023] Quel coût humain pour Beyond Good & Evil 2 ? → https://youtu.be/7oche63hzg4 (56 min)
+
+### Chez Rockstar, des taupes pour chasser les syndicalistes ?
+» 🇬🇧 [BBC / 14 oct. 2026] Grand Theft Auto boss denies trying to keep tabs on union membership → https://cutt.ly/SyR6anHD
+» 🇬🇧 [Vertical Slice / 16 oct. 2026] Rockstar accused of rewarding 'moles' for spying on union members with additional time off — The Grand Theft Auto maker has been accused of union busting after firing over 30 employees in October 2025 → https://cutt.ly/gyR6tRSy
+» 🇫🇷 [Gamekult / 16 oct. 2026] GTA 6 : des « taupes » anti-syndicalistes récompensées par Rockstar ? → https://cutt.ly/vyR6tlUS
+
+### La décompilation par IA menace les démos jouables
+» 🇺🇸 [Steam / Drunken Goddess Reflux / 16 oct. 2026] Change to the demo release plan for Drunken Goddess Reflux → https://cutt.ly/myR6sJSx
+» 🇬🇧 [GamesRadar+ / 16 oct. 2026] Devs are canceling their demos to stop AI users from stealing their games – creator of one of Steam's most-wishlisted is "concerned" it may be ripped off and beaten to its own launch — Drunken Goddess Reflux will run a private test instead → https://cutt.ly/QyR6fj5G
+» 🇺🇸 [Kotaku / 18 oct. 2026] Video game decomp hub closes due to AI: ‘the community aspect of decompilation has been broken’ — An integral step towards mods, ports and patches, the popular decomp.dev decided the platform has been rendered obsolete by 'drive-by contributions' → https://kotaku.com/--2000747302
+» ▶️ [YouTube / JoGameDev / 18 oct. 2026] My indie game got cloned before I released it → https://youtu.be/3Vm6WqoaNZ4 (7 min)
+» 🇺🇸 [404 Media / 20 oct. 2026] ‘Reverse-engineer anything’ is the new wild west of AI — Decompiled, cloned, and modified software is going viral and might slopify everything → https://cutt.ly/hyR6o2Yw
+» 🇬🇧 [VGC / 20 oct. 2026] ReVamp developer cancels public playtest in case AI users reverse engineer it and publish a clone first — “With launch still months away, a large public build felt like too big a risk” → https://cutt.ly/JyR70mlE
+» 🇬🇧 [PC Gamer / 20 oct. 2026] 'If you can’t show your game to the world without fearing it’ll be cloned, something’s broken' says Moonlighter studio on its canceled demo – Opus 5.5 continues to wreak havoc among independent devs → https://cutt.ly/gyR6dI2t
+» 🇫🇷 [Gamekult / 21 oct. 2026] Vers la fin des démos de jeux vidéo ? Par crainte de l'IA, les indés se rétractent — Rétro-ingénierie et rétrogradation → https://cutt.ly/fyR5Iy96
+
+### La QA d'Activision vote en faveur d'une grève
+» 🇺🇸 [Kotaku / 15 oct. 2026] Modern Warfare 4 testers vote to authorize union strike as contract negotiations stall: ‘It is time to stop playing games’ — The union has spent over two years trying to negotiate its first contract → https://kotaku.com/--2000746427
+» 🇬🇧 [Games Industry / 19 oct. 2026] Activision QA United-CWA union vote to authorise strike, claims publisher has "failed to bargain in good faith over key issues" — "Our members are tired of the stalling and are prepared to do what needs to be done to secure a fair contract, a fair wage, and fair working conditions" → https://cutt.ly/5yR5aMGR
+
+### Epic se tape la honte avec son launcher vibecodé
+» 🇫🇷 [Epic Games / 14 oct. 2026] Le nouveau lanceur Epic Games est enfin là en aperçu → https://cutt.ly/syR5hi8e
+» 🇺🇸 [IGN / 14 oct. 2026] 'We vibe coded a new Epic Games launcher’ – Epic’s new store app was built using AI — “It's obviously an issue that's of high visibility at the moment.” → https://cutt.ly/RyR5gP0S
+» 🇺🇸 [IGN / 14 oct. 2026] 'The library loads 30x faster’ – The new, much speedier Epic Games launcher has arrived — “It's been rebuilt entirely from the ground up.”  → https://cutt.ly/vyR5fUFQ
+» 🇫🇷 [ActuGaming / 14 oct. 2026] L’Epic Games Store fait peau neuve sur fond d’IA, car « programmer, c’est difficile » → https://actugaming.net/--829451
+» 🇫🇷 [Gamekult / 15 oct. 2026] "Programmer c'est dur" : Epic a "vibe codé" un nouvel Epic Games Store par IA générative → https://cutt.ly/KyR5KtU1
+» 🇬🇧 [Games Industry / 15 oct. 2026] Epic Games claims its new "vibe coded" launcher runs 46% faster than Steam from cold start to store page — AI was "used as a tool as part of [its] development process" to "allow a small team to rewrite the code base and be able to launch it faster across platforms" → https://cutt.ly/2yR5dbtk
+
+### Asha Sharma, messie de la console à 1500 balles
+» 🇺🇸 [Fortune / 20 oct. 2026] The non-gamer CEO racing to save Microsoft’s Xbox — Asha Sharma has cut thousands of jobs, consolidated studios, and rewritten the playbook. Insiders wonder if she’s saving the brand or preparing it for a non-Microsoft → https://cutt.ly/yyR7MoWb
+» 🇬🇧 [Games Industry / 21 oct. 2026] Project Helix reportedly launching in late 2028, projected to cost between $1,200 and $1,800 — Fortune reports that Xbox is also planning to launch a next-gen handheld device next year → https://cutt.ly/xyR5eKfS
+» 🇫🇷 [ActuGaming / 21 oct. 2026] Xbox aurait prévu de sortir une console portable en 2027 et sa prochaine console en 2028, qui pourrait coûter jusqu’à 1 800 dollars → https://actugaming.net/--830253
+» 🇫🇷 [Gamekult / 21 oct. 2026] Xbox Game Pass : bientôt l'abonnement à la carte ? → https://cutt.ly/YyR6jp3h
+» 🇫🇷 [ActuGaming / 21 oct. 2026] Xbox : Les prochains licenciements devraient intervenir d’ici quelques jours, avant de se poursuivre en novembre puis en janvier 2027 → https://actugaming.net/--830297
+» 🇫🇷 [Gamekult / 21 oct. 2026] Xbox : trois nouvelles vagues de licenciements en octobre, novembre et janvier ? → https://cutt.ly/jyR7MQcZ
+
+
+
+# Wishlist
+» over the hill, sorti le 14 oct. 2026 à 25 € sur PC / Steam Deck ; aussi annoncé pour 2027 sur Switch 2, PlayStation 5 et Xbox Series ; développé par Funselektor Labs, studio derrière art of rally (2020), Absolute Drift (2015) → https://s.team/a/2929250 | https://funselektor.com/overthehill
+- résultat du sondage Over the hill : calé en première 50% (2) | c'est over trop bien 25% (1) | ça manque de turbo 25% (1)
+
+» Legion Was Here, sorti le 13 oct. 2026 à 10,25 € sur PC / Steam Deck ; développé par Geoffroy Monde, dessinateur français 🇫🇷️ de BD et peintre, auteur de La Voix de Zazar (2022), Le Privilège des dieux (2020), Poussière (2018, 2019, 2021), De rien (2016) → https://s.team/a/3492120
+- résultat du sondage votre avis sur Legion Was Here :
+Legion est dans Wishlist 33% (2) |
+Legion est compliqué 50% (3) |
+Legion a dû se perdre 17% (1) |
+
+» Flipping is Hard, sorti le 16 oct. 2026 à 15 € sur PC / Steam Deck, sortie sur consoles par la suite ; développé par Elegant Horse Studios, studio lithuanien 🇱🇹 derrière Driving Is Hard (2025), Sheep Sweep (2025) → https://s.team/a/3826670 | https://eleganthorsestudios.com/flipping-is-hard/
+⏱️ durée de vie : environ 7 h
+- résultat du sondage votre avis sur Flipping is Hard : 
+ça part dans Wishlist 0% (0) | 
+
+raids : OrigaTwitch => CanardPC => Modiiie => (<10:24) LeMwakast => (23:25) BMSJOEL (jeudi) => (01:21)[+389] mds_aldino => (02:23)[+67] heoulh (terminé à 02:40)
 
 
 
